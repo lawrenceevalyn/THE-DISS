@@ -7,8 +7,6 @@
 ## To Do
 * Preliminary Thesis Proposal Nov 1
 * I need to do a lot more reading in the 18thC
-* put S.D. meeting notes into log
-* email T.R. about "intergenre and mixing genre (dramatic novel)" (???)
 
 ## Research Log
 
