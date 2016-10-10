@@ -12,6 +12,11 @@
 
 ## Research Log
 
+### Oct 10 2016
+I have a real problem of scope. The monographs I admire (Price, Clery) cover very broad spans of time, but I'm currently planning to have an extremely narrow slice of 20-30 years in order to allow a density of context. It sounds on its face obviously unfeasible to study "everything, 1750-1830" but... the whole promise of DH is that sort of opening-up of scale.
+
+Will the methods and questions I develop for "everything, 1790-1810" be generalizable to a larger scale? Or (as seems obviously true when I word it like this), will considering literary history on the scale of a century demand a different focus?
+
 ### Oct 8 2016
 thesis options:
 - the uses of shakespeare
