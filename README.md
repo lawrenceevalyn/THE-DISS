@@ -25,16 +25,16 @@ thesis options:
 
 ### Oct 7 2016
 #### Meeting with S.D.
-Margaret Cohen sentimental education of the novel
-1857 lyric poem - yahls
-Kt trumpeter bardic nationalism
-Brad pasenic mind as metaphor
+Margaret Cohen sentimental education of the novel ;
+1857 lyric poem - yahls ;
+Kt trumpeter bardic nationalism ;
+Brad pasenic mind as metaphor ;
 James Raven
 
 ### Oct 5 2016
 #### Meeting with T.R.
-Michael Gamer Gothic Romanticism
-Jeff Cox Seven Githic Dramas
+Michael Gamer Gothic Romanticism ;
+Jeff Cox Seven Gothic Dramas ;
 Small pieces on the gothic -- make sure to look at their articles
 
 Reread that piece on circulating libraries soliciting works from their readers
@@ -48,6 +48,6 @@ Article on Jane Austen by Terry-- read it
 
 Godwin: essay on sepulchres, reality and fiction
 
-Read newspaper -- morning chronicle and morning post, maybe the times 
+Read newspaper -- morning chronicle and morning post, maybe the times. 
 Reviews: critical review, gentlemans magazine, the examiner
 
