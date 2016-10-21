@@ -11,11 +11,7 @@ How can we find 'average', rather than remarkable, works? What conclusions do we
 
 What if we look at popularity? -- true popularity, which encompasses not just what is published new but what is purchased re-issued.
 
-London popular media, 1790-1810.
-
 The uses of Shakespeare!
-
-Look at authors who use many genres.
 
 # annotated bibliography
 ## 10-15 items that register the methodological / theoretical / critical priorities of the thesis project
@@ -23,4 +19,5 @@ Look at authors who use many genres.
 # library requirements
 
 # language requirements
+- Python
 
