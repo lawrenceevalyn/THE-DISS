@@ -10,6 +10,11 @@
 
 ## Research Log
 
+### Oct 19 2016
+What traits would a "solution" to the canon problem have?
+- it would account for 'the great unread'
+- it would enable us to select a readable number of texts based on an explicit metric (most average, most popular at the time, most recognized by subsequent authors as important)
+
 ### Oct 10 2016
 I have a real problem of scope. The monographs I admire (Price, Clery) cover very broad spans of time, but I'm currently planning to have an extremely narrow slice of 20-30 years in order to allow a density of context. It sounds on its face obviously unfeasible to study "everything, 1750-1830" but... the whole promise of DH is that sort of opening-up of scale.
 
