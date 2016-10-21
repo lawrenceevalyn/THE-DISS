@@ -14,6 +14,8 @@ Radcliffe's use of Shakespearean canon.
 
 1. **Duhaime, Douglas Ernest. "Textual Reuse in the Eighteenth Century: Mining Eliza Haywood’s Quotations." *Digital Humanities Quarterly* 10.1 (2016). Web.** This article describes a methodology of identifying paraphrased quotations, which I will kidnap.
 
+1. **Price, Leah. *Anthologies*.**
+
 1. **Ritchie, Fiona and Peter Sabor, eds. *Shakespeare in the Eighteenth Century.* Cambridge and New York: Cambridge UP, 2012. Print.**
 
 # library requirements

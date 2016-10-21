@@ -10,6 +10,15 @@
 
 ## Research Log
 
+### Oct 21 2016
+####Reading Keymer's "Shakespeare in the Novel":
+* If I do the shakey route I probably need to start much earlier than 1750 -- I probably need to go 1740, to capture the start of Garrick and to capture Richardson
+* I might need to go all the way back to Edward Bysshe's *Art of English Poetry* (1702)??
+* Honestly, it would be FASCINATING to track the use of Bysshe's book!
+* Keymer suggests that I will end up seeing a lot from the anthologies *The Beauties
+of Shakespeare* and *The Morality of Shakespeare’s Drama Illustrated*
+* Keymer's article overall traces Shakespearean allusions from proofs of literary seriousness to trite convention from 1700 to 1750.
+
 ### Oct 19 2016
 What traits would a "solution" to the canon problem have?
 - it would account for 'the great unread'
