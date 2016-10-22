@@ -10,6 +10,9 @@
 
 ## Research Log
 
+### Oct 22 2016
+####
+
 ### Oct 21 2016
 ####Reading Keymer's "Shakespeare in the Novel":
 * If I do the shakey route I probably need to start much earlier than 1750 -- I probably need to go 1740, to capture the start of Garrick and to capture Richardson
