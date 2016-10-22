@@ -1,6 +1,7 @@
 ## To Add
 * Project Gutenberg
 * Women Writers Online
+* Tracy dirty texts: 162 of 208 exist in some kind of digital form; of those, 7 are human-corrected OCR, 115 are horrid OCR, and 40 are PDFs.
 
 ## Added
 ### ECCO-TCP plain text files
