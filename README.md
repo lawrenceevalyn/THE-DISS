@@ -11,10 +11,10 @@
 ## Research Log
 
 ### Oct 22 2016
-####
+Reading so many articles. Nothing feels clear or connected. What am I *doing*?
 
 ### Oct 21 2016
-####Reading Keymer's "Shakespeare in the Novel":
+#### Reading Keymer's "Shakespeare in the Novel":
 * If I do the shakey route I probably need to start much earlier than 1750 -- I probably need to go 1740, to capture the start of Garrick and to capture Richardson
 * I might need to go all the way back to Edward Bysshe's *Art of English Poetry* (1702)??
 * Honestly, it would be FASCINATING to track the use of Bysshe's book!

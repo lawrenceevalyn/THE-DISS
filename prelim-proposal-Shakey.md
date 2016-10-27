@@ -4,8 +4,9 @@
 How and why are canons created? How are they used?
 
 The uses of Shakespeare!
-
-Radcliffe's use of Shakespearean canon.
+* Radcliffe's use of Shakespearean canon legitimates the Gothic as having an English literary history. (Which work had all the epigraphs?)
+* Keymer argues that Shakespearean quotations became trite commonplaces, and everybody quoted the same bits that appeared in books of extracts.
+* Imitations and amendments of Shakespeare abounded: to what extent are these "Shakespeare"? Are they used differently?
 
 # annotated bibliography
 ## 10-15 items that register the methodological / theoretical / critical priorities of the thesis project
@@ -17,6 +18,8 @@ Radcliffe's use of Shakespearean canon.
 1. **Price, Leah. *Anthologies*.**
 
 1. **Ritchie, Fiona and Peter Sabor, eds. *Shakespeare in the Eighteenth Century.* Cambridge and New York: Cambridge UP, 2012. Print.**
+
+2. **Ritchie, Fiona. *Women and Shakespeare in the Eighteenth Century.* Cambridge: Cambridge UP, 2014. Print.** Jean Marsden's review: "Shakespeare, with all the cultural capital he had accumulated in the eighteenth century, provided women with the means to become active participants in the cultural discourse of their world."
 
 # library requirements
 - all kinds of plain text files: like, 5GB of them.
