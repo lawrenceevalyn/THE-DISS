@@ -10,6 +10,17 @@
 
 ## Research Log
 
+### Oct 27 2016
+Reading Moretti's *Distant Reading*:
+* Look up Literary Lab pamphlet 1, "Quantitative Formalism"
+* He promised studies of Austen's rivals, and then never did them: can I do it?
+* Can I copy his methods of looking for clues in Doyle's competitors to see Radcliffe's success? Does a similar pattern follow for the explained supernatural?
+* I, too, am interested in "*rivals*: contemporaries who write more or less like canonical authors... but not quite, and who... seem to be the largest contingent of the 'great unread'" (67)
+* This book charts Moretti's working-out of the (conflicting?) theories of evolutionary selection and centre-periphery systems, as explanations for literary history. I also care centrally about these questions! They are my driving questions!
+* What it means for readers to 'like' something: "literary genres are problem-solving devices, which address a contradiction of their environment, offering an imaginary resolution by means of their formal organization. The pleasure provided by that formal organization is therefore more than just pleasure -- it is the vehicle through which a larger symbolic sentiment is shaped and assimilated." (141)
+* "I set out to explain the logic behind literary survival and oblivion" (145)
+* The essay "Style, Inc.: Reflections on 7,000 Titles" is VERY EXCITING to me; and I might be one of the only readers who begins this essay already having read the bibliography in question cover-to-cover!
+
 ### Oct 22 2016
 Reading so many articles. Nothing feels clear or connected. What am I *doing*?
 
