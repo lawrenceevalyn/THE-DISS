@@ -27,8 +27,6 @@ The bulk of my analytical project will then be to build on this foundational cor
 
 1. **Garside, Peter et al., eds. *The English novel, 1770-1829 : a bibliographical survey of prose fiction published in the British Isles.* Oxford: Oxford UP, 2000. Print.** This monumental, comprehensive bibliography provides the titles and impressive bibliographical details for every work listed, and will provide my initial list of prose fiction works 1789-1816 to seek out.
 
-<!-- **Koch, Angela. “Gothic Bluebooks in the Princely Library of Corvey and Beyond.” *Cardiff Corvey: Reading the Romantic Text* 9 (2002): 5-25.** Includes lists of bluebooks in the collection, and a table of adaptations of novels into bluebooks. -->
-
 1. **Lennep, William Van, ed. *The London Stage, 1660-1800: A Calendar of Plays, Entertainments & Afterpieces Together with Casts, Box-Receipts and Contemporary Comment.* 11 vols. Carbondale: Southern Illinois UP, 1960-65. Print.** Like the Garside bibliography of the novel, the last volume of this enormous comprehensive bibliography will provide me with the first list of the works I intend to examine in my much narrower chronological period.
 
 1. **McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web.** McCarty’s detailed consideration of models, which explores the implications of the maxim that “all models are wrong; some models are useful,” informs my understanding of the relationship between computational literary research and the mental modeling inherent to ‘analog’ literary research.
@@ -40,6 +38,8 @@ The bulk of my analytical project will then be to build on this foundational cor
 1. Ward, William, ed. Index and Finding List of Serials Published in the British Isles, 1789-1832.
 
 1. **Worrall, David. *Celebrity, Performance, Reception: British Georgian Theatre as Social Assemblage.* Cambridge: Cambridge UP, 2013 Print.** From Amy Garnai's review: The idea of “social assemblage,” originating in the work of philosopher Manuel De Landa, theorizes social structures and networks and the material forces and complexities that underpin them. Worrall adapts De Landa’s insights specifically to theatre with the proposition that “all physical spaces, locations and embodiments of performance are expressive and comprise population components within a connected social network or assemblage of production and reception." ... In its use of a methodological framework that is new to theatre studies, in its privileging of the quantitative methods of analysis associated with this theory, and especially in Worrall’s impressive historical research and thorough engagement with archival sources, Celebrity, Performance, Reception is essential reading for scholars of the Georgian theatre.
+
+<!-- **Koch, Angela. “Gothic Bluebooks in the Princely Library of Corvey and Beyond.” *Cardiff Corvey: Reading the Romantic Text* 9 (2002): 5-25.** Includes lists of bluebooks in the collection, and a table of adaptations of novels into bluebooks. -->
 
 # library requirements
 * *17th and 18th Century Burney Collection Newspapers*: nearly 1 million pages from approximately 1,270 titles
