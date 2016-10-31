@@ -21,13 +21,17 @@ The bulk of my analytical project will then be to build on this foundational cor
 
 1. **Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production.* Cambridge, Massachusetts: Harvard UP, 2014. Print.** Robarts Stacks P93.5 .D78 2014X ; Victoria University E.J. Pratt Stacks P93.5 .D78 2014
 
-1. Forster, Antonia, ed. Index to Book Reviews in England, 1749-1800, vols. 1-2.
+1. **Fischer-Starcke, Bettina. *Corpus Linguistics in Literary Analysis: Jane Austen and Her Contemporaries*. London: Continuum, 2010. Print.**
 
 1. **Gamer, Michael. *Romanticism and the Gothic: genre, reception, and canon formation.* Print.**
 
 1. **Garside, Peter et al., eds. *The English novel, 1770-1829 : a bibliographical survey of prose fiction published in the British Isles.* Oxford: Oxford UP, 2000. Print.** 
 
+<!-- 1. **Koch, Angela. “Gothic Bluebooks in the Princely Library of Corvey and Beyond.” *Cardiff Corvey: Reading the Romantic Text* 9 (2002): 5-25.** Includes lists of bluebooks in the collection, and a table of adaptations of novels into bluebooks. -->
+
 1. **Lennep, William Van, ed. *The London Stage, 1660-1800: A Calendar of Plays, Entertainments & Afterpieces Together with Casts, Box-Receipts and Contemporary Comment.* 11 vols. Carbondale: Southern Illinois UP, 1960-65. Print.**
+
+1. **McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web.**
 
 1. **Moretti, Franco. *Distant Reading.* London: Verso, 2013. Print.** Victoria University E.J. Pratt Stacks PN81 .M666 2013
 
