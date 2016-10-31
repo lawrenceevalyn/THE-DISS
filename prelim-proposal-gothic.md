@@ -21,7 +21,9 @@ The bulk of my analytical project will then be to build on this foundational cor
 
 1. **Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production.* Cambridge, Massachusetts: Harvard UP, 2014. Print.** Robarts Stacks P93.5 .D78 2014X ; Victoria University E.J. Pratt Stacks P93.5 .D78 2014
 
-1. Index to Book Reviews in England, 1749-1800, vols. 1-2, by Antonia Forster
+1. Forster, Antonia, ed. Index to Book Reviews in England, 1749-1800, vols. 1-2.
+
+1. **Gamer, Michael. *Romanticism and the Gothic: genre, reception, and canon formation.* Print.**
 
 1. **Garside, Peter et al., eds. *The English novel, 1770-1829 : a bibliographical survey of prose fiction published in the British Isles.* Oxford: Oxford UP, 2000. Print.** 
 
@@ -31,7 +33,7 @@ The bulk of my analytical project will then be to build on this foundational cor
 
 1. **Tracy, Ann B. *The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs.* Lexington, Kentucky: UP of Kentucky, 1981. Print.**
 
-1. Index and Finding List of Serials Published in the British Isles, 1789-1832, by William S. Ward
+1. Ward, William, ed. Index and Finding List of Serials Published in the British Isles, 1789-1832.
 
 1. **Worrall, David. *Celebrity, Performance, Reception: British Georgian Theatre as Social Assemblage.* Cambridge: Cambridge UP, 2013 Print.** From Amy Garnai's review: The idea of “social assemblage,” originating in the work of philosopher Manuel De Landa, theorizes social structures and networks and the material forces and complexities that underpin them. Worrall adapts De Landa’s insights specifically to theatre with the proposition that “all physical spaces, locations and embodiments of performance are expressive and comprise population components within a connected social network or assemblage of production and reception." ... In its use of a methodological framework that is new to theatre studies, in its privileging of the quantitative methods of analysis associated with this theory, and especially in Worrall’s impressive historical research and thorough engagement with archival sources, Celebrity, Performance, Reception is essential reading for scholars of the Georgian theatre.
 
