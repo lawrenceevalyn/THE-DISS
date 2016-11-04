@@ -31,13 +31,13 @@ The bulk of my analytical project will then be to build on this foundational cor
 
 1. **McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web.** McCarty’s detailed consideration of models, which explores the implications of the maxim that “all models are wrong; some models are useful,” informs my understanding of the relationship between computational literary research and the mental modeling inherent to ‘analog’ literary research.
 
-1. **Moretti, Franco. *Distant Reading.* London: Verso, 2013. Print.** Victoria University E.J. Pratt Stacks PN81 .M666 2013
-
-1. **Tracy, Ann B. *The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs.* Lexington, Kentucky: UP of Kentucky, 1981. Print.**
-
-1. Ward, William, ed. Index and Finding List of Serials Published in the British Isles, 1789-1832.
+1. **Moretti, Franco. *Distant Reading.* London: Verso, 2013. Print.** This collection of essays recaptures the development in Moretti’s career of his theories of literary history as evolutionary and as an imbalanced center-periphery system of exchange, alongside his increasing use of computational methods that come to be known as ‘distant reading.’ Moretti’s interest in accounting for the “great unread” of literature, and his use of computational models to carry out comparative research, provides much of the theoretical background for my own methods. 
 
 1. **Worrall, David. *Celebrity, Performance, Reception: British Georgian Theatre as Social Assemblage.* Cambridge: Cambridge UP, 2013 Print.** From Amy Garnai's review: The idea of “social assemblage,” originating in the work of philosopher Manuel De Landa, theorizes social structures and networks and the material forces and complexities that underpin them. Worrall adapts De Landa’s insights specifically to theatre with the proposition that “all physical spaces, locations and embodiments of performance are expressive and comprise population components within a connected social network or assemblage of production and reception." ... In its use of a methodological framework that is new to theatre studies, in its privileging of the quantitative methods of analysis associated with this theory, and especially in Worrall’s impressive historical research and thorough engagement with archival sources, Celebrity, Performance, Reception is essential reading for scholars of the Georgian theatre.
+
+<!-- **Tracy, Ann B. *The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs.* Lexington, Kentucky: UP of Kentucky, 1981. Print.** -->
+
+<!-- Ward, William, ed. Index and Finding List of Serials Published in the British Isles, 1789-1832. -->
 
 <!-- **Koch, Angela. “Gothic Bluebooks in the Princely Library of Corvey and Beyond.” *Cardiff Corvey: Reading the Romantic Text* 9 (2002): 5-25.** Includes lists of bluebooks in the collection, and a table of adaptations of novels into bluebooks. -->
 
