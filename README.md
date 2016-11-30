@@ -10,6 +10,12 @@
 
 ## Research Log
 
+### Nov 30 2016
+
+The English Short Title Catalogue says there are 51996 titles published in England 1789-1799!! That's a lot. Also, it will only give me information on the first 1001 results?
+
+I'd love to compare against the Richardson/Fielding era but I feel like five years is too short to capture the period I'm interested in (surely I should do all of Radcliffe's ouvre?) and ten years is clearly an ABSOLUTE MAXIMUM.
+
 ### Oct 27 2016
 Reading Moretti's *Distant Reading*:
 * Look up Literary Lab pamphlet 1, "Quantitative Formalism"
