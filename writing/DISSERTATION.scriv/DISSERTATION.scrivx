@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Lawrences-MacBook-Pro" Modified="2016-11-30 15:36:42 -0500" ModID="81D6AE8C-8F8F-4B88-B1BF-6EEC22BD91E9">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Lawrences-MacBook-Pro" Modified="2016-11-30 17:51:08 -0500" ModID="ECF87078-B667-4D85-9DC7-7A6B216432AE">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
             <Title>Draft</Title>
@@ -7,15 +7,26 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="13" UUID="6CF74EEC-9F05-49C9-9D21-5994AF0DE077" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-10-05 17:32:55 -0400">
-                    <Title>Thesis</Title>
+                <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2016-11-30 15:45:56 -0500">
+                    <Title>Prelim proposal</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>279,0</TextSelection>
+                        <TextSelection>4227,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="6CF74EEC-9F05-49C9-9D21-5994AF0DE077" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-11-30 15:46:07 -0500">
+                    <Title>Research questions</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1329,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="48" UUID="B03B8839-0949-4AEB-BD23-E705C1C35682" Type="Text" Created="2016-10-05 17:32:51 -0400" Modified="2016-11-30 15:29:54 -0500">
@@ -83,7 +94,69 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="52" UUID="F567B1B9-205A-4769-860A-D5A007683941" Type="Text" Created="2016-11-30 15:31:14 -0500" Modified="2016-11-30 15:31:27 -0500">
+                <BinderItem ID="55" UUID="FD21C663-2F3E-4FAE-B5C3-6D7CC5FBC7F0" Type="Text" Created="2016-11-30 15:51:32 -0500" Modified="2016-11-30 15:51:44 -0500">
+                    <Title>To-Read</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="54" UUID="09D252D8-EC42-4112-90D3-D6DD72E9293D" Type="Text" Created="2016-11-30 15:46:38 -0500" Modified="2016-11-30 15:56:44 -0500">
+                            <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>700,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="BFB8748F-118A-4B56-ADBF-386E3DB1A43F" Type="Text" Created="2016-11-30 15:59:34 -0500" Modified="2016-11-30 15:59:58 -0500">
+                            <Title>Drucker, Johanna. Graphesis: Visual Forms of Knowledge</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>288,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="58" UUID="F6C109D8-4075-4E37-AA34-CF4515D7FB14" Type="Text" Created="2016-11-30 16:00:20 -0500" Modified="2016-11-30 16:00:30 -0500">
+                            <Title>Fischer-Starcke, Bettina. Corpus Linguistics in Literary</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>303,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="59" UUID="E1003337-FC99-470F-9292-B8D6A8780287" Type="Text" Created="2016-11-30 16:00:34 -0500" Modified="2016-11-30 16:00:42 -0500">
+                            <Title>Gamer, Michael. Romanticism and the Gothic: Genre, Reception</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>208,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="67" UUID="37AAF393-6E30-4679-A4F1-117F9DF197D4" Type="Text" Created="2016-11-30 17:01:13 -0500" Modified="2016-11-30 17:01:23 -0500">
+                            <Title>Worrall, David. Celebrity, Performance, Reception: British</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>365,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="52" UUID="F567B1B9-205A-4769-860A-D5A007683941" Type="Text" Created="2016-11-30 15:31:14 -0500" Modified="2016-11-30 15:46:51 -0500">
                     <Title>Annotated Bibliography</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -93,6 +166,90 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="56" UUID="FA929938-77C5-40BB-8750-7B76B7B773BB" Type="Text" Created="2016-11-30 15:58:05 -0500" Modified="2016-11-30 15:59:25 -0500">
+                            <Title>Clery, E.J. The Rise of Supernatural Fiction 1762-1800</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>463,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="27F96EBE-76AE-49F0-9178-D9D7C5CB795C" Type="Text" Created="2016-11-30 16:01:30 -0500" Modified="2016-11-30 16:01:43 -0500">
+                            <Title>McCarty, Willard. “Knowing: Modeling in Literary Studies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>461,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="64" UUID="9EB2911D-6B11-4D71-8834-EB0B8C09E088" Type="Text" Created="2016-11-30 16:01:52 -0500" Modified="2016-11-30 17:51:08 -0500">
+                            <Title>Moretti, Franco. Distant Reading. London: Verso, 2013</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>240,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="65" UUID="C2DD7DA2-919B-455F-A789-8C059F47C1C4" Type="Text" Created="2016-11-30 17:00:29 -0500" Modified="2016-11-30 17:51:08 -0500">
+                            <Title>O’Quinn, Daniel. “Half-History, or The Function of</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>780,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="66" UUID="774A0104-F685-44BE-84C1-45A65E6D046A" Type="Text" Created="2016-11-30 17:00:45 -0500" Modified="2016-11-30 17:50:54 -0500">
+                            <Title>Potter, Franz J. The History of Gothic Publishing, 1800</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>312,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="60" UUID="61AD023B-BD43-44B1-9F02-F1A140283997" Type="Text" Created="2016-11-30 16:00:57 -0500" Modified="2016-11-30 16:01:00 -0500">
+                            <Title>Bibliographies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="61" UUID="39C2637B-4242-4F36-9803-34DEF2B325E8" Type="Text" Created="2016-11-30 16:01:01 -0500" Modified="2016-11-30 16:01:13 -0500">
+                                    <Title>Garside, Peter et al., eds. The English novel, 1770</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>257,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="62" UUID="12952E31-3DE9-437D-A2A5-1135F95B4738" Type="Text" Created="2016-11-30 16:01:16 -0500" Modified="2016-11-30 16:01:24 -0500">
+                                    <Title>Lennep, William Van, ed. The London Stage, 1660-1800</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>307,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="6" UUID="169AA481-9766-47BD-8B84-A22B0616421B" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
                     <Title>Secondary Texts</Title>
@@ -600,7 +757,7 @@
     </Collections>
     <LabelSettings>
         <Title>Label</Title>
-        <DefaultLabelID>2</DefaultLabelID>
+        <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
             <Label ID="2" Color="1.0 0.390905 0.763023">to-do</Label>
@@ -632,7 +789,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-11-30 15:25:42 -0500"></PreviousSession>
+        <PreviousSession Words="1204" Characters="7346" Date="2016-11-30 15:25:42 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
