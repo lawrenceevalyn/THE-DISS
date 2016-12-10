@@ -1,6 +1,5 @@
 Title: DISSERTATION
 Author: Lawrence Evalyn
-Base Header Level: 1
 
 # Proposal #
 
@@ -10,7 +9,7 @@ Base Header Level: 1
 
 
 
-This dissertation will build on my previous research on the Gothic novel 1790-1830. Late eighteenth-century literary production, as contemporary writers anxiously noted, was characterized by excessive volume. With more writers and more readers entering the conversation, it became ever harder to make sense of the literary world as a ‘whole.’ My MA research sought to contextualize the Gothic writers Matthew Lewis and Ann Radcliffe in terms of the masses of their now-forgotten peers on the shelves of circulating libraries. My examination of the plot information recorded in two bibliographies of the Gothic revealed that Matthew Lewis’s The Monk was, indeed, characteristic of a minor group of ‘Male Gothic’ novels which presented horrifying stories not to be found in works by women. However, this method could reveal no corresponding subject matter that was the sole province of women in the several hundred novels assembled, and instead revealed many ways in which Ann Radcliffe’s novels were markedly different from the rest of the ‘school of Radcliffe.’ For my dissertation, I will follow the same pattern of comparing key authors to large bodies of their peers, while breaking away from trying to isolate a singular, self-contained field called the ‘Gothic’. 
+This dissertation will build on my previous research on the Gothic novel 1790-1830. Late eighteenth-century literary production, as contemporary writers anxiously noted, was characterized by excessive volume. With more writers and more readers entering the conversation, it became ever harder to make sense of the literary world as a ‘whole.’ My MA research sought to contextualize the Gothic writers Matthew Lewis and Ann Radcliffe in terms of the masses of their now-forgotten peers on the shelves of circulating libraries. My examination of the plot information recorded in two bibliographies of the Gothic revealed that Matthew Lewis’s *The Monk* was, indeed, characteristic of a minor group of ‘Male Gothic’ novels which presented horrifying stories not to be found in works by women. However, this method could reveal no corresponding subject matter that was the sole province of women in the several hundred novels assembled, and instead revealed many ways in which Ann Radcliffe’s novels were markedly different from the rest of the ‘school of Radcliffe.’ For my dissertation, I will follow the same pattern of comparing key authors to large bodies of their peers, while breaking away from trying to isolate a singular, self-contained field called the ‘Gothic’. 
 
 
 
