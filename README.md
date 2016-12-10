@@ -13,18 +13,26 @@
 
 ### Dec 10 2016
 
-In correspondence with ETSC.
+In correspondence with ETSC, looks like I will be able to have access!
 
 Made a first rough draft of special fields reading list. Currently looking at Charlotte Smith, Mary Robinson, and Hannah More as my case study authors (plus Radcliffe of course). Unsure about cutting Elizabeth Inchbald and Joanna Baillie... I'd really like to do some experiments and get basic popularity/prevalence numbers before picking case studies. I don't know anything yet! I don't know how to pick anything!! That's why I need corpus analysis! So-- I will read anybody who seems fun and interesting in their own right for as a strong *candidate* for a case study, since I need to do my special fields reading list before the first experiment, but I'm not committing.
 
 Currently thinking a good structure might be:
+
 1. Introduction
+
 1. Chapter 1: data analysis of all of my ETSC corpus
+
 1. Chapter 2: closer analysis of a randomly-selected subset of my ETSC corpus
+
 1. Chapter 3: case study 1 - Charlotte Smith
+
 1. Chapter 4: case study 2 - Mary Robinson
+
 1. Chapter 5: case study 3 - Hannah More
+
 1. Chapter 6: Ann Radcliffe time, synthesis
+
 1. Conclusions
 
 Is that too many chapters? That's probably too many chapters.
