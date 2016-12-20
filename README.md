@@ -11,6 +11,12 @@
 
 ## Research Log
 
+### Dec 20 2016
+
+Trying to come up with a special fields list is increasingly paradoxical: the goal of my research is to assess our methods of selecting "representative" authors, and step one is to... select representative authors. Even focusing on 'touchstones of the canon' leaves me with FAR too much to read.
+
+Also far too much: an eight-chapter dissertation. Maybe I'm looking at too many case studies. Could I just do the 'school of Radcliffe' and the 'school of Charlotte Smith'? Based on the network graph from DHSI last year?
+
 ### Dec 10 2016
 
 In correspondence with ETSC, looks like I will be able to have access!
