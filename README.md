@@ -11,6 +11,12 @@
 
 ## Research Log
 
+### Dec 23 2016
+
+A question that's very important and interesting to ME, though maybe not to anyone else (???) is, how 'representative' is the ECCO-TCP corpus compared to the ETSC catalog?
+
+(How many of the 2,188 ECCO-TCP texts are even from 1789-99?)
+
 ### Dec 20 2016
 
 Trying to come up with a special fields list is increasingly paradoxical: the goal of my research is to assess our methods of selecting "representative" authors, and step one is to... select representative authors. Even focusing on 'touchstones of the canon' leaves me with FAR too much to read.
