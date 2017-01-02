@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2016-12-24 15:40:42 -0500" ModID="400FAC17-A895-4D2C-B860-7BDDEC98050B">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-01-02 12:09:40 -0500" ModID="043F7C55-4ECF-4571-A428-878E82A9F24B">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
             <Title>Draft</Title>
@@ -193,10 +193,21 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem ID="100" UUID="19B16A37-81C0-4751-9B03-7CDF082204EA" Type="Text" Created="2017-01-02 12:07:41 -0500" Modified="2017-01-02 12:08:19 -0500">
+                            <Title>description of my database</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>95,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="75" UUID="E6025257-B075-4CBE-9925-418C242BCC7A" Type="Folder" Created="2016-12-08 00:39:54 -0500" Modified="2016-12-10 02:36:33 -0500">
-                    <Title>Chapters 3+: Account of my work</Title>
+                <BinderItem ID="75" UUID="E6025257-B075-4CBE-9925-418C242BCC7A" Type="Folder" Created="2016-12-08 00:39:54 -0500" Modified="2017-01-02 12:06:34 -0500">
+                    <Title>Chapter 4: Account of my work</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -249,8 +260,116 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="77" UUID="13E72BE7-5AE2-45BD-A954-68E5EF3FF2FB" Type="Folder" Created="2016-12-08 00:40:32 -0500" Modified="2016-12-10 02:36:33 -0500">
-                    <Title>Chapter X: Synthesis / Discussion</Title>
+                <BinderItem ID="90" UUID="6CB9BE2B-F185-4CC4-9A91-50EE47CF7A47" Type="Folder" Created="2016-12-08 00:39:54 -0500" Modified="2017-01-02 12:07:10 -0500">
+                    <Title>Chapter 5: Account of my work</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="91" UUID="AA4149C6-C844-4980-80DA-3A9D5BB45271" Type="Text" Created="2016-12-08 00:42:41 -0500" Modified="2016-12-08 00:43:10 -0500">
+                            <Title>transition</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="92" UUID="135E0C6D-58F7-4ECC-A30A-4FAE8147C88A" Type="Text" Created="2016-12-08 00:37:57 -0500" Modified="2016-12-10 02:36:33 -0500">
+                                    <Title>link to prev. chapter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>154,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="93" UUID="77C60FC0-214B-4EAA-9E41-4AEADC5E8DF2" Type="Text" Created="2016-12-08 00:38:39 -0500" Modified="2016-12-10 02:36:33 -0500">
+                                    <Title>aim of this chapter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>117,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="94" UUID="8FF6D534-0B45-48C1-9351-3E140228309F" Type="Text" Created="2016-12-08 00:38:46 -0500" Modified="2016-12-10 02:36:33 -0500">
+                                    <Title>how I'll achieve this aim</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>545,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="95" UUID="31EB9923-9FBD-427C-970D-F5A298F87FDA" Type="Folder" Created="2016-12-08 00:39:54 -0500" Modified="2017-01-02 12:07:15 -0500">
+                    <Title>Chapter 6: Account of my work</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="96" UUID="FFD4810F-507D-44F8-9C21-AFFB15A9842B" Type="Text" Created="2016-12-08 00:42:41 -0500" Modified="2016-12-08 00:43:10 -0500">
+                            <Title>transition</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="97" UUID="94E7CFC6-80A3-4806-972E-1A19A89DB89B" Type="Text" Created="2016-12-08 00:37:57 -0500" Modified="2016-12-10 02:36:33 -0500">
+                                    <Title>link to prev. chapter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>154,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="98" UUID="E03CA985-734E-475F-8F47-40158CE3A2AE" Type="Text" Created="2016-12-08 00:38:39 -0500" Modified="2016-12-10 02:36:33 -0500">
+                                    <Title>aim of this chapter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>117,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="99" UUID="CC211A18-95A8-4A30-8EAB-0A684640857D" Type="Text" Created="2016-12-08 00:38:46 -0500" Modified="2016-12-10 02:36:33 -0500">
+                                    <Title>how I'll achieve this aim</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>545,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="77" UUID="13E72BE7-5AE2-45BD-A954-68E5EF3FF2FB" Type="Folder" Created="2016-12-08 00:40:32 -0500" Modified="2017-01-02 12:06:46 -0500">
+                    <Title>Chapter 7: Synthesis / Discussion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -259,8 +378,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="89" UUID="66644AAF-5156-4532-A678-72E3C0477D45" Type="Folder" Created="2016-12-08 00:51:42 -0500" Modified="2016-12-10 02:36:33 -0500">
-                    <Title>Chapter X+1: Conclusion</Title>
+                <BinderItem ID="89" UUID="66644AAF-5156-4532-A678-72E3C0477D45" Type="Folder" Created="2016-12-08 00:51:42 -0500" Modified="2017-01-02 12:06:50 -0500">
+                    <Title>Chapter 8: Conclusion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -1023,7 +1142,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-12-24 04:40:56 -0500"></PreviousSession>
+        <PreviousSession Words="20" Characters="95" Date="2017-01-02 12:05:28 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

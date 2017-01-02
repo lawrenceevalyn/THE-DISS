@@ -11,6 +11,16 @@
 
 ## Research Log
 
+### Jan 2 2017
+
+It's been hard to know where to start with this, hard to have a specific enough question that I can be excited about it. I know I want to research and publish individual chapters somewhat separately but I can't do them all at once!
+
+The FIRST chapter I will work on is my 'background' description of what constitutes "normal" during my decade. I'll do this research and turn it into a paper and into my chapter 2.
+
+I’m going to focus on building my database of bibliographic data for all prose, drama, and poetry published in London during the years 1789-99. I’m in talks with a library to get copies of the relevant 52,001 items from their database; I’ll see how many different things I can pile up, and mess with them, and write a description of the literary mediascape in my decade. It’ll be fun!!
+
+I'll definitely want to do this no matter how my other literary questions shake out, so even though it feels like I have no idea what I'm doing (Ann Radcliffe? Charlotte Smith? Hannah More??), I do know how to do this part.
+
 ### Dec 23 2016
 
 A question that's very important and interesting to ME, though maybe not to anyone else (???) is, how 'representative' is the ECCO-TCP corpus compared to the ETSC catalog?
