@@ -7,9 +7,22 @@
 
 ## To Do
 * Approved Thesis Proposal Feb 1
+* Approved Special Fields List Feb 1
 * I need to do a lot more reading in the 18thC
 
 ## Research Log
+
+### Jan 13 2017
+
+MLA was a whirlwind! I was surprised to find myself describing an interest in religious and sentimental literature, singing the praises of Hannah More -- it does reinforce my desire not to treat genres too separately.
+
+I most enjoyed a panel on "anti-marriage plots"-- it made me want to look at what narratologists are up to and how I might dip by toe into that field.
+
+Reading Wolfenbach, Emmeline, Coelebs, and now Clermont, I have been impressed again and again by the importance of, hm, women's duplicity? The strategic use of emotion/affect, and the even more strategic use of vulnerability, as a way to control men and thus enact desirable change upon the world. There is spooky window dressing and a couple shocking secrets in these Gothics so far, but they are also deeply embedded in non-supernatural, non-Gothically-aestheticized problems of female powerlessness. I want to read more about the sentimental nove;: it seems like there is a really direct line form there to Radcliffe.
+
+I also want to look back at my MA work a bit more to see if I better understand my own arguments there, now that I have done more actual reading.
+
+It does sometimes feel like I will have no idea what I'm talking about until I've read a hundred 18thC novels... I should make a list of what I've actually rolled my eyes past, and think about some habits of, e.g., using ReadMe! to speed-read more of these. I find that I get a lot out of even a very superficial read of the works as a whole.
 
 ### Jan 2 2017
 
