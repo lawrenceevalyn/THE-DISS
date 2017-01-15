@@ -13,11 +13,11 @@ This dissertation will build on my previous research on the Gothic novel 1790-18
 
 
 
-My primary interest is in finding a way to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will particularly seek to account for the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular key writers have made use of these interactions in their works. The broad range of textual forms under consideration will be rendered moderately manageable by my narrow chronological constraints, 1789-1799. The English Short Title Catalog indicates lists 51,996 works printed in England during this decade. [I will do some things looking at all of these, like Lahti et al. who looked at 50,766 works categorized as history.] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.]  
+My primary interest is in finding a way to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will particularly seek to account for the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular key writers have made use of these interactions in their works. The broad range of textual forms under consideration will be rendered moderately manageable by my narrow chronological constraint, 1789-1799. My study of broad trends within this period will be grounded in a small number of case studies, centred on Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms. These key authors I will study in the traditional way, by reading and re-reading their works, but to interpret their peers I will turn to computational methods. During my MA research and the first year of my PhD I have cultivated a large and varied set of technical tools, to allow me to pursue my research questions flexibly. [List some example options here] I will ultimately design and carry out a range of computational experiments in order to model a body of textual works, but I intentionally leave the nature of those experiments undecided until I have a firm grounding in the materials and questions most relevant to my inquiry. 
 
 
 
-My study of broad trends within this period will be grounded in a small number of case studies, centred on Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms. These key authors I will study in the traditional way, by reading and re-reading their works, but to interpret their peers I will turn to computational methods. During my MA research and the first year of my PhD I have cultivated a large and varied set of technical tools, to allow me to pursue my research questions flexibly. I will ultimately design and carry out a range of computational experiments in order to model a body of textual works, but I intentionally leave the nature of those experiments undecided until I have a firm grounding in the materials and questions most relevant to my inquiry. 
+The English Short Title Catalog lists 52,001 works printed in England during this decade. [The ESTC has already agreed to provide me with their database entries, which will have [X] kinds of information.] [I will do some things looking at all of these, like Lahti et al. who looked at 50,766 works categorized as history.] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.]  
 
 
 
@@ -42,6 +42,10 @@ Both the macro and the micro views will merge in the question: are my key writer
 
 
 
+
+
+
+# Special Fields list rationale #
 
 
 
@@ -225,11 +229,27 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
+## description of my database ##
+
+
+
+
+
+
+
+What’s in it? How did I make it?
+
+
+
+What does it tell us about what was ‘normal’ during my decade?
+
+
+
 ----
 
 
 
-# Chapters 3+: Account of my work #
+# Chapter 4: Account of my work #
 
 
 
@@ -285,7 +305,119 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
-# Chapter X: Synthesis / Discussion #
+# Chapter 5: Account of my work #
+
+
+
+
+
+
+
+A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
+
+
+
+## transition ##
+
+
+
+### link to prev. chapter ###
+
+
+
+
+
+
+
+First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
+
+
+
+### aim of this chapter ###
+
+
+
+
+
+
+
+Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
+
+
+
+### how I'll achieve this aim ###
+
+
+
+
+
+
+
+Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
+
+
+
+----
+
+
+
+# Chapter 6: Account of my work #
+
+
+
+
+
+
+
+A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
+
+
+
+## transition ##
+
+
+
+### link to prev. chapter ###
+
+
+
+
+
+
+
+First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
+
+
+
+### aim of this chapter ###
+
+
+
+
+
+
+
+Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
+
+
+
+### how I'll achieve this aim ###
+
+
+
+
+
+
+
+Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
+
+
+
+----
+
+
+
+# Chapter 7: Synthesis / Discussion #
 
 
 
@@ -305,7 +437,7 @@ Structuring your discussion: • The task of the discussion chapter is to enable
 
 
 
-# Chapter X+1: Conclusion #
+# Chapter 8: Conclusion #
 
 
 

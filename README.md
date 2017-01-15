@@ -12,6 +12,10 @@
 
 ## Research Log
 
+### Jan 14 2017
+
+What percentage of books promise in their titles some kind of secret or mystery to be discovered? This is the kind of question that would be more interesting if two different time periods were being compared...
+
 ### Jan 13 2017
 
 MLA was a whirlwind! I was surprised to find myself describing an interest in religious and sentimental literature, singing the praises of Hannah More -- it does reinforce my desire not to treat genres too separately.
