@@ -9,39 +9,91 @@ Author: Lawrence Evalyn
 
 
 
-This dissertation will build on my previous research on the Gothic novel 1790-1830. Late eighteenth-century literary production, as contemporary writers anxiously noted, was characterized by excessive volume. With more writers and more readers entering the conversation, it became ever harder to make sense of the literary world as a ‘whole.’ My MA research sought to contextualize the Gothic writers Matthew Lewis and Ann Radcliffe in terms of the masses of their now-forgotten peers on the shelves of circulating libraries. My examination of the plot information recorded in two bibliographies of the Gothic revealed that Matthew Lewis’s *The Monk* was, indeed, characteristic of a minor group of ‘Male Gothic’ novels which presented horrifying stories not to be found in works by women. However, this method could reveal no corresponding subject matter that was the sole province of women in the several hundred novels assembled, and instead revealed many ways in which Ann Radcliffe’s novels were markedly different from the rest of the ‘school of Radcliffe.’ For my dissertation, I will follow the same pattern of comparing key authors to large bodies of their peers, while breaking away from trying to isolate a singular, self-contained field called the ‘Gothic’. 
-
-
-
-My primary interest is in finding a way to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will particularly seek to account for the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular key writers have made use of these interactions in their works. The broad range of textual forms under consideration will be rendered moderately manageable by my narrow chronological constraint, 1789-1799. My study of broad trends within this period will be grounded in a small number of case studies, centred on Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms. These key authors I will study in the traditional way, by reading and re-reading their works, but to interpret their peers I will turn to computational methods. During my MA research and the first year of my PhD I have cultivated a large and varied set of technical tools, to allow me to pursue my research questions flexibly. [List some example options here] I will ultimately design and carry out a range of computational experiments in order to model a body of textual works, but I intentionally leave the nature of those experiments undecided until I have a firm grounding in the materials and questions most relevant to my inquiry. 
-
-
-
-The English Short Title Catalog lists 52,001 works printed in England during this decade. [The ESTC has already agreed to provide me with their database entries, which will have [X] kinds of information.] [I will do some things looking at all of these, like Lahti et al. who looked at 50,766 works categorized as history.] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.]  
-
-
-
-The first phase of my project, then, will be a large descriptive effort. As I read through the works of my key authors, I will also assemble a relational database of information about the full range of literary works produced in my chosen chronological period, and as many digital texts as I can find. The three corpora I already possess — the Eighteenth Century Collections Online Text Creation Partnership corpus (2,188 texts from 1701-1800), the Chawton House Library corpus of women’s writing (46 texts 1723-1830), and my own collection of Gothic novels listed in Ann Tracy’s index (122 texts 1790-1830) — provide a foundation to which I will add texts from collections like Women Writers Online, the Oxford Text Archive, and from digital library holdings like those at the University of Indiana and the University of Michigan. The ECCO-TCP corpus will likely account for a substantial percentage of the resulting collection, but by seeking a diversity of sources I hope to create a body of several hundred texts representing a unique range. 
-
-
-
-The second phase of my research will then be determined by the results of the first phase. By comparing the texts which have ended up in my corpus to my full bibliographic list of literary production, I will be able to get a sense of the selection bias reflected in my corpus, and adjust accordingly. I am comfortable with enough computational approaches to allow for flexibility: stylometric analysis of word choice; statistical correlation of bibliographical details; topic-modelling classification of texts according to a defined ontology; and network-map visualizations of textual prose similarity. I can select between and adapt these approaches based on the questions and limitations that emerge from my text-collection process. 
-
-
-
-The substantial computational component of this work thus situates itself in the overlap of two fields. In the field of the Digital Humanities, I will contribute case studies in a comparatively under-studied literary period, as well as methods to deal with heterogeneous corpora. I will also be able to contribute the resources I build for myself, both in the form of any code I may write, and in terms of the collection of texts I assemble. Ideally, I would share my text files directly, but if necessary to comply with the originating collections’ policies, a detailed guide to my sources would be useful to others. 
-
-
-
-Most important to my work’s impact in the Digital Humanities, however, will be its ability to contribute meaningfully to the field of eighteenth-century studies. Here, I hope to expand our understanding of popular writers and popular writing: do literary fads emerge in plays, poems, and prose simultaneously, or move through them sequentially? How different are the writers and audiences for each medium? I also anticipate finding new insight into the forms and popularity of political writing in the period: how much of the work being consumed is presented with explicit political aims? What mediums are most-used for different political positions? In a somewhat separate line of inquiry, I will explore in-depth the works of the individuals authors under consideration: how do they use each of the generic mediums available to them? How do they adapt their ideas to each form, and how do they conceive of each audience? 
-
-
-
-Both the macro and the micro views will merge in the question: are my key writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers? 
 
 
 
 
+
+
+
+
+
+
+
+
+## background ##
+
+
+
+
+
+
+
+This dissertation will build on my previous research on the Gothic novel 1790-1830. Late eighteenth-century literary production, as contemporary writers anxiously noted, was characterized by excessive volume. With more writers and more readers entering the conversation, it became ever harder to make sense of the literary world as a ‘whole.’ My MA research sought to contextualize the Gothic writers Matthew Lewis and Ann Radcliffe in terms of the masses of their now-forgotten peers on the shelves of circulating libraries. [I was particularly interested in assessments of male and female gothics, because of my supervisor Robert Miles.] My examination of the plot information recorded in two bibliographies of the Gothic revealed that Matthew Lewis’s *The Monk* was, indeed, characteristic of a minor group of ‘Male Gothic’ novels which presented horrifying stories not to be found in works by women. However, this method could reveal no corresponding subject matter that was the sole province of women in the several hundred novels assembled, and instead revealed many ways in which Ann Radcliffe’s novels were markedly different from the rest of the ‘school of Radcliffe.’ For my dissertation, I will follow the same pattern of comparing key authors to large bodies of their peers, without trying to isolate a singular, self-contained field of ‘the Gothic.’
+
+
+
+## driving research Qs ##
+
+
+
+
+
+
+
+[I want to find practical ways forward to] to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will particularly seek ways to account for the real variety within [works produced during] the chronologically narrow period 1789-99. [there is no “average” or “normal” text against which the “exceptional” works can contrast, nor can any text be “representative.”] [Nonetheless, I will iteratively prototype models of my chosen decade in search of a rich, reparative reading of the literary mediascape.] [Each model will try to [render tractable] the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular writers have made use of these interactions in their works.] [One model will be large and distant: 52,001 bibliographic entries from the English Short Title Catalogue.] [One model will be smaller and closer: 2,188 full texts from the Eighteenth Century Collections Online Text Creation Partnership corpus.] [And one model will be a “traditional” approach: closely reading and re-reading key works by key writers, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms.]
+
+
+
+## methods ##
+
+
+
+### model 1: ESTC ###
+
+
+
+
+
+
+
+The English Short Title Catalog lists 52,001 works printed in England during this decade. [The ESTC has already agreed to provide me with their database entries, which will have [X] kinds of information.] [I will do some things looking at all of these, like Lahti et al. who looked at 50,766 works categorized as history.] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.]
+
+
+
+### model 2: ECCO-TCP ###
+
+
+
+
+
+
+
+I will also assemble a relational database of information about the full range of literary works produced in my chosen chronological period, and as many digital texts as I can find. The three corpora I already possess — the Eighteenth Century Collections Online Text Creation Partnership corpus (2,188 texts from 1701-1800), the Chawton House Library corpus of women’s writing (46 texts 1723-1830), and my own collection of Gothic novels listed in Ann Tracy’s index (122 texts 1790-1830) — provide a foundation to which I will add texts from collections like Women Writers Online, the Oxford Text Archive, and from digital library holdings like those at the University of Indiana and the University of Michigan. The ECCO-TCP corpus will likely account for a substantial percentage of the resulting collection, but by seeking a diversity of sources I hope to create a body of several hundred texts representing a unique range. 
+
+
+
+ I am comfortable with enough computational approaches to allow for flexibility: stylometric analysis of word choice; statistical correlation of bibliographical details; topic-modelling classification of texts according to a defined ontology; and network-map visualizations of textual prose similarity. I can select between and adapt these approaches based on the questions and limitations that emerge from my text-collection process. 
+
+
+
+### model 3: reading ###
+
+
+
+## critical context ##
+
+
+
+## conclusion ##
+
+
+
+
+
+
+
+Both the macro and the micro views will merge in the question: are my case study writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers? 
 
 
 
@@ -61,7 +113,7 @@ Although the dissertation itself will focus narrowly on texts published 1789-99,
 
 
 
-# Chapter 1: Introduction #
+# Ch 1: Introduction #
 
 
 
@@ -149,11 +201,15 @@ Aim and Scope – Be sure that your aim responds logically to the problem statem
 
 
 
-#### prototyping ####
+#### prototyping / iteration ####
 
 
 
-#### networks (dunno if I like em?) ####
+#### reparative reading ####
+
+
+
+#### rich description ####
 
 
 
@@ -185,7 +241,7 @@ Overview of the Study (or Structure of the Thesis) – Sketch out how the thesis
 
 
 
-# Chapter 2: Background #
+# Ch 2: Background #
 
 
 
@@ -257,7 +313,7 @@ What does it tell us about what was ‘normal’ during my decade?
 
 
 
-# Chapter 4: Account of my work #
+# Ch 4: Account of my work #
 
 
 
@@ -313,7 +369,7 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
-# Chapter 5: Account of my work #
+# Ch 5: Account of my work #
 
 
 
@@ -369,7 +425,7 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
-# Chapter 6: Account of my work #
+# Ch 6: Account of my work #
 
 
 
@@ -425,7 +481,7 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
-# Chapter 7: Synthesis / Discussion #
+# Ch 7: Synthesis / Discussion #
 
 
 
@@ -445,7 +501,7 @@ Structuring your discussion: • The task of the discussion chapter is to enable
 
 
 
-# Chapter 8: Conclusion #
+# Ch 8: Conclusion #
 
 
 

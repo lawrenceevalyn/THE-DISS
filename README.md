@@ -12,6 +12,35 @@
 
 ## Research Log
 
+### Jan 16 2017
+
+Time to freewrite about what the hell I am doing here, exactly!
+
+I want to find a way to account for the real *variety* of the period: there is no “average” or “normal” text against which the “exceptional” works can contrast, nor can any text be “representative.” But we still, on a practical level, need to carry on. And surely it is possible to triage.
+
+What is the goal of the field? To triage texts based on their “importance” for students to learn? To triage texts based on the social, emotional, intellectual rewards they provide their readers? Both, obviously, but: how to do either?
+
+(Controversial opinion: I do think there are, actually, morally “good” books, or at the very least, morally good ways of reading; it is by no means the default state of *all* literature that it will increase empathy and understanding. Moreover, if literary scholars do not take up the task of sorting these things out, surely it can’t be someone *else’s* job. But also, censorship is obviously useless and wrong. So it must be the ways of reading, not the things read, which it is our responsibility to suss out...)
+
+(Can reading from a distance be empathetic? or moral? or reparative?)
+
+What do I want to *find*? What would be an exciting "result"? I'd love to find some better "representative" body of texts, somehow.
+
+The idea of *carrying on*, somehow, despite imperfection and incompleteness: this is what I want to kidnap from other fields. The ability to say, fine, this thing is complicated, so I will begin with a *stupid* model, and then I will look at my stupid model and say, "aha! it is stupid!", and then I will make it incrementally less stupid according to what I learn.
+
+Modelling, and prototyping, as scholarly practices that can help us find the way forward: am I doing this?
+
+I am trying to model the decade 1789-99. I will probably produce several models via iterative prototypes. One of my models will be a "traditional" close-reading based one. Another will be the ESTC catalogue. A third would balance these out nicely! Something with ECCO-TCP full texts, perhaps?
+
+-- the trouble with this is that, although iteration is critical to inquiry, it's only polite to spare one's readers the long journey; I'll want to skip right to my latest, most-developed model.
+
+Why are there people other than Ann Radcliffe in here? -- because I need to model the whole decade in order to contextualize her place within it?
+
+What is Radcliffe's relationship to the "school of Radcliffe"? Does she respond to her school? Who else had schools? If nobody else had schools: that's a BIG DEAL. Why identify a "school"? I take it for granted that the individual members of her school are all, in their own ways, responding to / rewriting her materials according to their own idiosyncratic agendas.
+
+Should my title be something more like "Modelling the mediascape in England, 1789-99"?
+
+
 ### Jan 14 2017
 
 What percentage of books promise in their titles some kind of secret or mystery to be discovered? This is the kind of question that would be more interesting if two different time periods were being compared...
