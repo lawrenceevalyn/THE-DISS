@@ -41,7 +41,23 @@ This dissertation will build on my previous research on the Gothic novel 1790-18
 
 
 
-[I want to find practical ways forward to] to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will particularly seek ways to account for the real variety within [works produced during] the chronologically narrow period 1789-99. [there is no “average” or “normal” text against which the “exceptional” works can contrast, nor can any text be “representative.”] [Nonetheless, I will iteratively prototype models of my chosen decade in search of a rich, reparative reading of the literary mediascape.] [Each model will try to [render tractable] the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular writers have made use of these interactions in their works.] [One model will be large and distant: 52,001 bibliographic entries from the English Short Title Catalogue.] [One model will be smaller and closer: 2,188 full texts from the Eighteenth Century Collections Online Text Creation Partnership corpus.] [And one model will be a “traditional” approach: closely reading and re-reading key works by key writers, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms.]
+[I want to find practical ways forward to] to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will particularly seek ways to account for the real variety within [works produced during] the chronologically narrow period 1789-99. [there is no “average” or “normal” text against which the “exceptional” works can contrast, nor can any text be “representative.”] [Nonetheless, I will iteratively prototype models of my chosen decade in search of a rich, reparative reading of the literary mediascape.] [Each model will try to [render tractable] the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular writers have made use of these interactions in their works.] [One model will be large and distant: 52,001 bibliographic entries from the English Short Title Catalogue.] [One model will be smaller and closer: 502 full texts from the Eighteenth Century Collections Online Text Creation Partnership corpus.] [And one model will be a “traditional” approach: closely reading and re-reading key works by key writers, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms.]
+
+
+
+## critical context ##
+
+
+
+
+
+
+
+
+
+
+
+This dissertation enters into an ongoing conversation [on how to understand late 18thC literature as a whole, resisting narratives of the history of the novel as a teleological path to realism and resisting narratives of the history of Romanticism that replicate myths of individual genius] [Instead, it seeks to follow in Michael Gamer’s footsteps by paying careful attention to the interdependent real variety of generic forms] [On a methodological level, this dissertation also enters into theoretical gestures toward “surface reading” as undertaken by Sharon Marcus, Stephen Best, Heather Love, and Cannon Schmitt, as part of a broader attempt to move away from paranoid modes of criticism, as discussed by Eve Sedgwick and Rita Felski.] [“Distant reading” as per Franco Moretti is thus used as one possible means of achieving meaningful surface reading and rich description; as particular computational approaches are developed in response to iterative prototyping, they are likely to contribute novel computational techniques to the field of the digital humanities, but these are not a primary/motivating concern..]
 
 
 
@@ -57,7 +73,7 @@ This dissertation will build on my previous research on the Gothic novel 1790-18
 
 
 
-The English Short Title Catalog lists 52,001 works printed in England during this decade. [The ESTC has already agreed to provide me with their database entries, which will have [X] kinds of information.] [I will do some things looking at all of these, like Lahti et al. who looked at 50,766 works categorized as history.] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.]
+The English Short Title Catalog (ESTC) lists 52,001 works printed in England during this decade. [The ESTC has already agreed to provide me with their database entries, which will have [X] kinds of information.] [I will do some things looking at all of these, like Lahti et al. who looked at 50,766 works categorized as history.] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.]
 
 
 
@@ -69,11 +85,7 @@ The English Short Title Catalog lists 52,001 works printed in England during thi
 
 
 
-I will also assemble a relational database of information about the full range of literary works produced in my chosen chronological period, and as many digital texts as I can find. The three corpora I already possess — the Eighteenth Century Collections Online Text Creation Partnership corpus (2,188 texts from 1701-1800), the Chawton House Library corpus of women’s writing (46 texts 1723-1830), and my own collection of Gothic novels listed in Ann Tracy’s index (122 texts 1790-1830) — provide a foundation to which I will add texts from collections like Women Writers Online, the Oxford Text Archive, and from digital library holdings like those at the University of Indiana and the University of Michigan. The ECCO-TCP corpus will likely account for a substantial percentage of the resulting collection, but by seeking a diversity of sources I hope to create a body of several hundred texts representing a unique range. 
-
-
-
- I am comfortable with enough computational approaches to allow for flexibility: stylometric analysis of word choice; statistical correlation of bibliographical details; topic-modelling classification of texts according to a defined ontology; and network-map visualizations of textual prose similarity. I can select between and adapt these approaches based on the questions and limitations that emerge from my text-collection process. 
+I will then turn my attention to a broad corpus of works available to me as full texts. The Eighteenth Century Collections Online Text Creation Partnership (ECCO-TCP) provides carefully-edited full texts of 2,188 works from 1701-1800, of which 502 were published during my decade of interest. I may also supplement these texts with works from other, smaller scholarly corpora, such as the Chawton House Library corpus of women’s writing, Women Writers Online, the Oxford Text Archive, and digital library holdings like those at the University of Indiana and the University of Michigan. [I am particularly interested in comparing these corpora to the more comprehensive ESTC corpus to see how representative ECCO-TCP texts are, and what the impact is of adding the other collections.] [Then I will examine the texts themselves, to see what intertextual relationships they reveal.] I am comfortable with enough computational approaches to allow for flexibility: stylometric analysis of word choice; statistical correlation of bibliographical details; topic-modelling classification of texts according to a defined ontology; and network-map visualizations of textual prose similarity. I can select between and adapt these approaches based on the questions and limitations that emerge from my text-collection process. 
 
 
 
@@ -81,7 +93,11 @@ I will also assemble a relational database of information about the full range o
 
 
 
-## critical context ##
+
+
+
+
+[Finally, I will turn to yet closer readings of a yet smaller corpus, examining the works of a few key authors in detail] [I seek to understand the individual idiosyncratic relationship Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson all had with the literary conversation] [I will likely use small-scale deformative reading practices, like handmade indexes, timelines, and visualizations]
 
 
 
@@ -93,7 +109,7 @@ I will also assemble a relational database of information about the full range o
 
 
 
-Both the macro and the micro views will merge in the question: are my case study writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers? 
+[These three ways of modeling the decade 1789-99 have been described in sequence, but the research will actually be conducted simultaneously.] [I’ll try anything that will help me answer my central question, what 18thC texts should we teach to students? And how should we explain them?]
 
 
 
@@ -105,7 +121,7 @@ Both the macro and the micro views will merge in the question: are my case study
 
 
 
-Although the dissertation itself will focus narrowly on texts published 1789-99, this reading list seeks to contextualize those works within the fifty-year period 1770-1820. Attention is paid to Romanticism, the Gothic, and sentimental fiction as interrelated literary movements. Major Romantic, Gothic, and sentimental works are selected for their longstanding influence and prevalence in critical conversations. These landmark texts provide the canonical touchstones of the period. To support inquiry into popular literature of the period, the list also includes chapbooks, both Gothic and religous, as well as several dramas. Selections of prose non-fiction from the period provide contemporaneous thinking on generic form and the purposes of literature. Secondary criticism sheds light either on the historical period or on the intended computational methodology. Works concerned with the eighteenth century contextualize popular reading practices and relationships between literary modes. The ‘digital humanities’ secondary works emphasize theory over technique. A few titles provide an overview of the great variety of methods and debates currently prevalent in the field, while the majority — including some non-computational works — engage with ideas of ‘distant’ and ‘surface’ reading. Overall, the list balances the key texts of late eighteenth century literature with an interest in ‘the great unread.’
+Although the dissertation itself will focus narrowly on texts published 1789-99, this reading list seeks to contextualize those works within the fifty-year period 1770-1820. Attention is paid to Romanticism, the Gothic, and sentimental fiction as interrelated literary movements. Major Romantic, Gothic, and sentimental works are selected for their longstanding influence and prevalence in critical conversations. These landmark texts provide the canonical touchstones of the period. To support inquiry into popular literature of the period, the list also includes chapbooks, both Gothic and religious, as well as several dramas. Selections of prose non-fiction from the period provide contemporaneous thinking on generic form and the purposes of literature. Secondary criticism sheds light either on the historical period or on the intended computational methodology. Works concerned with the eighteenth century contextualize popular reading practices and relationships between literary modes. The ‘digital humanities’ secondary works emphasize theory over technique. A few titles provide an overview of the great variety of methods and debates currently prevalent in the field, while the majority — including some non-computational works — engage with ideas of ‘distant’ and ‘surface’ reading. Overall, the list balances the key texts of late eighteenth century literature with an interest in ‘the great unread.’
 
 
 
