@@ -12,6 +12,28 @@
 
 ## Research Log
 
+### Jan 21 2017
+
+Time to freewrite about how my work relates to the critical context!
+
+I am most persuaded that my work has something to offer to the very recent conversation around "surface reading," and other ways of escaping paranoid critique. I think the theoretical principles of modeling, prototyping, and iteration, allow for richness and surprise. cf Heather Love, Sharon Marcus, Stephen Best, Cannon Schmitt, and a bit of Eve Sedgwick (also possibly Rita Felski?)
+
+I feel confident that, even if right now my ideas are undeveloped, by the time my project finished I will have produced something of technological/methodological interest to other DH researchers. I think Steven Zwicker's idea of random sampling will bear some fruit for me, and I'd like to model some actually-useful topic modelling with my full text corpora.  Oh! And I think it will be valuable to have a sense of how "representative" the ECCO-TCP corpus is.
+
+What I don't have, right now, is a compelling 18thC question. And my trip to the AGO yesterday really drove home the importance of having one clear, straightforward, hard question which will drive all the tools being used (instead of letting the tools drive inquiry).
+
+How can I narrow down to just one question? How can I know that the question is important? How can I use special fields to make sure that I have chosen the right question?
+
+Why I care about the 18thC: because there's **so much** and it operates on such a different value system. It's always surprising. It's always complicated. And I guess the question I care about is, how can we teach students about the past in a way that makes them understand how complicated humans and history are, makes them more empathetic and thoughtful.
+
+I'm thinking now of Wollstonecraft's Vindication: one could excerpt just her descriptions of the legal status of women, and discuss whether her critiques are accurate and her proposed reforms were reasonable. And then one could excerpt her discussions of class and social hierarchy and ask, what about these?
+
+(But I want to leave room for people in the past to not all perfectly align with my own value system -- I grow more and more convinced of Radcliffe and Austen as socially conservative in many ways)
+
+One of the ideas that was mentioned but not developed at MLA was that, if one wishes to teach principles of justice, if one wishes to turn students' personal distress into pro-social empathy, one must **choose to teach different texts**. So I guess my question is: which eighteenth century texts should we teach? And how?
+
+**Can** that be my question??
+
 ### Jan 20 2017
 
 Frustratingly, the ECCO-TCP metadata csv that I have doesn't include publication dates, but according to [this query](http://artflsrv02.uchicago.edu/philologic4/eccotcp/query?report=bibliography&method=proxy&year=1789-1799&results_per_page=1000&start=0&end=0) at ARTFL‘s PhiloLogic search engine, 502 of the ECCO-TCP texts are from my years 1789-99! That's a pretty respectable corpus! Within the parameters of what I can investigate/classify manually (if only just).
