@@ -12,6 +12,10 @@
 
 ## Research Log
 
+### Jan 20 2017
+
+Frustratingly, the ECCO-TCP metadata csv that I have doesn't include publication dates, but according to [this query](http://artflsrv02.uchicago.edu/philologic4/eccotcp/query?report=bibliography&method=proxy&year=1789-1799&results_per_page=1000&start=0&end=0) at ARTFL‘s PhiloLogic search engine, 502 of the ECCO-TCP texts are from my years 1789-99! That's a pretty respectable corpus! Within the parameters of what I can investigate/classify manually (if only just).
+
 ### Jan 16 2017
 
 Time to freewrite about what the hell I am doing here, exactly!
