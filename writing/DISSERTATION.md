@@ -5,22 +5,6 @@ Author: Lawrence Evalyn
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## background ##
 
 
@@ -29,7 +13,7 @@ Author: Lawrence Evalyn
 
 
 
-This dissertation will build on my previous research on the Gothic novel 1790-1830. Late eighteenth-century literary production, as contemporary writers anxiously noted, was characterized by excessive volume. With more writers and more readers entering the conversation, it became ever harder to make sense of the literary world as a ‘whole.’ My MA research sought to contextualize the Gothic writers Matthew Lewis and Ann Radcliffe in terms of the masses of their now-forgotten peers on the shelves of circulating libraries. In particular, guided by my supervisor Robert Miles, I was interested in challenging generalizations made from those two authors into distinct male and female schools of writing. My examination of the plot information recorded in two bibliographies of the Gothic revealed that Matthew Lewis’s *The Monk* was, indeed, characteristic of a minor group of ‘Male Gothic’ novels which presented horrifying stories not to be found in works by women. However, this method could reveal no corresponding subject matter that was the sole province of women in the several hundred novels assembled, and instead revealed many ways in which Ann Radcliffe’s novels were markedly different from the rest of the ‘school of Radcliffe.’ For my dissertation, I will follow the same pattern of comparing key authors to large bodies of their peers, without trying to isolate a singular, self-contained field of ‘the Gothic.’ Instead, my primary aim will be to capture the great variety within the mediascape as a whole during the volatile decade from 1789 to 1799.
+This dissertation will build on my previous research on the Gothic novel 1790-1830. Late eighteenth-century literary production, as contemporary writers anxiously noted, was characterized by excessive volume. With more writers and more readers entering the conversation, it became ever harder to make sense of the literary world as a ‘whole.’ My MA research sought to contextualize the Gothic writers Matthew Lewis and Ann Radcliffe in terms of the masses of their now-forgotten peers on the shelves of circulating libraries. In particular, guided by my supervisor Robert Miles, I was interested in challenging generalizations made from those two authors into distinct male and female schools of writing. My examination of the plot information recorded in two bibliographies of the Gothic revealed that Matthew Lewis’s *The Monk* was, indeed, characteristic of a minor group of ‘Male Gothic’ novels which presented horrifying stories not to be found in works by women. However, this method could reveal no corresponding subject matter that was the sole province of women in the several hundred novels assembled, and instead revealed many ways in which Ann Radcliffe’s novels were markedly different from the rest of the ‘school of Radcliffe.’ For my dissertation, I will follow the same pattern of comparing key authors to large bodies of their peers, without trying to isolate a singular, self-contained field of ‘the Gothic.’ Instead, my primary aim will be to capture the great variety within the mediascape as a whole in England from 1789 to 1799.
 
 
 
@@ -57,7 +41,7 @@ This decade study seeks to cope with the “great unread” of literature, and t
 
 
 
-This dissertation enters into an ongoing conversation on how to understand late 18thC literature as a whole, resisting [narratives of the history of the novel as a teleological path to realism and resisting narratives of the history of Romanticism that replicate myths of individual genius.] It thus seeks to follow in the footsteps of, for example, Michael Gamer, by paying careful attention to the interdependence of generic forms. [On a methodological level, this dissertation also enters into theoretical gestures toward “surface reading” as undertaken by Sharon Marcus, Stephen Best, Heather Love, and Cannon Schmitt, as part of a broader attempt to move away from paranoid modes of criticism, as discussed by Eve Sedgwick and Rita Felski.] [“Distant reading” as per Franco Moretti is thus used as one possible means of achieving meaningful surface reading and rich description; as particular computational approaches are developed in response to iterative prototyping, they are likely to contribute novel computational techniques to the field of the digital humanities, but these are not a primary/motivating concern..]
+This dissertation enters into an ongoing shift in how to understand late eighteenth-century literature as a whole. It resists, both, the history of the novel as a teleological path to realism, and the history of Romanticism centred on the poets’ own myth-making. It thus seeks to follow in the footsteps of, for example, Michael Gamer, by paying careful attention to the interdependence of generic forms, while casting a much broader net. On a methodological level, this dissertation also enters into theoretical gestures toward “surface reading” or “literal reading” as undertaken by Sharon Marcus, Heather Love, and Stephen Best, as part of a broader attempt to move away from paranoid modes of criticism, as discussed by Eve Sedgwick and Rita Felski. “Distant reading” as per Franco Moretti is thus used as one possible means of achieving meaningful surface reading and rich description. The particular computational approaches developed through the research process are likely to contribute novel computational techniques to the field of the digital humanities, but these techniques are not the primary motivating concern.
 
 
 
@@ -73,7 +57,7 @@ This dissertation enters into an ongoing conversation on how to understand late 
 
 
 
-The English Short Title Catalog (ESTC) lists 52,001 works printed in England during this decade. The ESTC has already provided me with their core bibliographical records of the authors, titles, and imprints for these works. [Lahti et al., examining this basic bibliographic information for 50,766 works categorized as history in the ESTC, [show some techniques I might use. I am particularly interested to see which texts are the most reprinted].] [I expect to see Ann Radcliffe’s publication numbers appear notable, and be accompanied by trends in the titles of novels afterward] [I will also look in more detail at some subsets of these works, like Zwicker who examined a random sample of 500.] [I hope to get a sense of the relative popularity of generic forms within the mediascape] [As I engage with the content of works being published, I also hope to get a sense of the extent to which works appear to be politicized, and how openly they carry their political agendas]
+The English Short Title Catalog (ESTC) has records on 51,965 works printed in England during this decade. The ESTC has already provided me with their core bibliographical records of the authors, titles, and imprints for these works. Research by Leo Lahti et al., examining similar basic bibliographic information for 50,766 works categorized as history in the ESTC, has demonstrated some fruitful techniques for research at this scale, which I will use to look for influential authors and major groupings of texts. I expect to see Ann Racliffe as an increasingly popular author, reflected in multiple reprints of her works, with the ‘school of Radcliffe’ visible in the titles of works following her success. I will also look in more detail at some subsets of these works. Taking cues from Steven Zwicker, I will use random sampling to extract a small enough list that I can research the works’ publication history and content. Through these general descriptive efforts, I will assemble a frame of reference for the relative popularity of generic forms within the mediascape. As I engage with the content of works being published, I also hope to get a sense of the extent to which works appear to be politicized, and how openly they carry their political agendas.
 
 
 
@@ -97,7 +81,7 @@ I will then turn my attention to a broad corpus of works available to me as full
 
 
 
-[Finally, I will turn to yet closer readings of a yet smaller corpus, examining the works of a few key authors in detail] [I seek to understand the individual idiosyncratic relationship Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson all had with the literary conversation] [This, too, is a ‘model’ and a procedural practice of inquiry.] [As I read these major works I will pursue the subtle connections between them and their context which only human reading can untangle] [I will likely use small-scale deformative reading practices, like handmade indexes, timelines, and visualizations] [I will also attentively read fascimile editions and consider the entry each work made into the public sphere] [I will pay attention to works which have been excluded from my digital repositories, especially chapbooks]
+Finally, I will turn to yet closer readings of a yet smaller corpus, examining the works of a few key authors in detail. I seek to understand the individual idiosyncratic relationship Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson each had with the public sphere of letters, and how each strategically employed different generic forms. Reading these authors, with these questions in mind, is also a ‘model’ of the decade, and a procedural practice of inquiry. To take full advantage of the affordances of my close-reading model, I will pursue works which have been excluded from digital repositories, especially chapbooks. I will also attentively examine fascimile editions or first editions to consider the material conditions of some works’ entry into the literary circulation. As I read these works I will pursue the connections between them and their context which only human reading can untangle. I will likely supplement my reading with what Lisa Samuels and Jerome McGann dub “deformative” reading practices, which in my use generally involve small handmade indexes, timelines, and visualizations.
 
 
 
@@ -109,7 +93,47 @@ I will then turn my attention to a broad corpus of works available to me as full
 
 
 
-[These three ways of modeling the decade 1789-99 have been described in sequence, but the research will actually be conducted simultaneously.] [I will look at how each of the three models represents the position of my case study authors in the canon] [I’ll try anything that will help me answer my central question: what late 18thC texts can be said to be “representative” of their period? And what do they “represent”?]
+Although these three ways of modeling the decade 1789-99 have been described in sequence, they will be researched in parallel, with an eye to the connections between them. [I will look at how each of the three models represents the position of my case study authors in the canon] [To interpret those findings, I will look at what each model occludes and what it renders visible] [I’ll try anything that will help me answer my central question: what texts can be said to be “representative” of this turbulent decade? And what do they “represent”?]
+
+
+
+## works cited ##
+
+
+
+
+
+
+
+Felski, Rita. The Limits of Critique.
+
+
+
+Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge: Cambridge UP, 2000. Print. 
+
+
+
+Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly 25.2 (2015): 87–31. Web.
+
+
+
+Marcus, Sharon, Heather Love, and Stephen Best. “Building a Better Description.”
+
+
+
+Moretti, Franco. Distant Reading. London: Verso, 2013. Print. 
+
+
+
+Samuels, Lisa and Jerome McGann. “Deformance and Interpretation.” New Literary History 30.1 (Winter 1999): 25-56. JSTOR. Web. 24 Feb. 2014. 
+
+
+
+Sedgewick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You.”
+
+
+
+Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly 69.3 (2006): 425–450. Web.
 
 
 
@@ -534,6 +558,22 @@ Structuring your discussion: • The task of the discussion chapter is to enable
 
 
 Connecting discussion and conclusions: • Your conclusions are what your discussion chapter has been arguing for. • You could write the conclusions to your whole study as the last section of a chapter called ‘Discussion and Conclusions’, but it is usually preferable to have a separate ‘Conclusions’ chapter. • If they form a separate chapter there should be no conclusions to the discussion chapter, and you should inform the reader of this in the discussion. Rules about conclusions: • You should draw your conclusions solely from the discussion chapter. • There should be little further discussion in the conclusions chapter. • The conclusions should respond to the aim stated in the first chapter. • Summaries are not conclusions. • Conclusions should be crisp and concise. • The conclusions can be used to briefly explore the implications of your findings.
+
+
+
+# Appendix A: Detailed Methods #
+
+
+
+## ESTC ##
+
+
+
+
+
+
+
+51,965 works printed in England, sort of mostly 1789-99
 
 
 
