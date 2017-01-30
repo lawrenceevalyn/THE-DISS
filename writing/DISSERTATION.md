@@ -25,7 +25,7 @@ This dissertation will build on my previous research on the Gothic novel 1790-18
 
 
 
-This decade study seeks to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. [there is no “average” or “normal” text against which the “exceptional” works can contrast, nor can any text be “representative.”] [Nonetheless, I will iteratively prototype models of my chosen decade in search of a rich, reparative reading of the literary mediascape.] Each model will try to render tractable the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular writers have made use of these interactions. One model will be large and distant: 52,001 bibliographic entries from the English Short Title Catalogue. One model will be smaller and closer: 502 full texts from the Eighteenth Century Collections Online Text Creation Partnership corpus. And one model will occur at a more “traditional” scale: key works by key writers, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms. All three models will be pursued simultaneously, in service of the question: [what is the role of the Gothic in the literary mediascape?]
+This decade study seeks to cope with the “great unread” of literature, and to marry large-scale descriptive work with meaningful interpretive insight. I will iteratively prototype multiple models of my chosen decade in search of a rich, reparative reading of the literary mediascape. Each model will try to render tractable the complex interactions between the broad generic traditions of prose fiction, drama, and poetry, and to identify how particular writers have made use of these interactions. One model will be large and distant: 52,001 bibliographic entries from the English Short Title Catalogue. One model will be smaller and closer: 502 full texts from the Eighteenth Century Collections Online Text Creation Partnership corpus. And one model will occur at a more “traditional” scale: key works by key writers, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period to further both aesthetic and political goals in a range of literary forms. All three models will be pursued simultaneously, to allow each to inform the development and interpretation of the others.
 
 
 
@@ -93,7 +93,7 @@ Finally, I will turn to yet closer readings of a yet smaller corpus, examining t
 
 
 
-Although these three ways of modeling the decade 1789-99 have been described in sequence, they will be researched in parallel, with an eye to the connections between them. [I will look at how each of the three models represents the position of my case study authors in the canon] [To interpret those findings, I will look at what each model occludes and what it renders visible] [I’ll try anything that will help me answer my central question: what texts can be said to be “representative” of this turbulent decade? And what do they “represent”?]
+Although these three ways of modeling the decade 1789-99 have been described in sequence, they will be researched in parallel, with an eye to the connections between them. I will look at how each of the three models represents the position of my case study authors among their peers. To interpret those findings, I will consider the construction of each model, to determine what each model occludes and what it renders visible. My many disparate approaches will converge on my central question: what texts can be said to be “representative” of this decade? And what do they “represent”?
 
 
 
@@ -105,35 +105,35 @@ Although these three ways of modeling the decade 1789-99 have been described in 
 
 
 
-Felski, Rita. The Limits of Critique.
+Felski, Rita. *The Limits of Critique*. Chicago: U Chicago, 2015. Print.
 
 
 
-Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge: Cambridge UP, 2000. Print. 
+Gamer, Michael. *Romanticism and the Gothic: Genre, Reception, and Canon Formation*. Cambridge: Cambridge UP, 2000. Print. 
 
 
 
-Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly 25.2 (2015): 87–31. Web.
+Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” *LIBER Quarterly* 25.2 (2015): 87–31. Web.
 
 
 
-Marcus, Sharon, Heather Love, and Stephen Best. “Building a Better Description.”
+Marcus, Sharon, Heather Love, and Stephen Best. “Building a Better Description.” *Representations* 135.1 (Summer 2016): 2-21. Web.
 
 
 
-Moretti, Franco. Distant Reading. London: Verso, 2013. Print. 
+Moretti, Franco. *Distant Reading*. London: Verso, 2013. Print. 
 
 
 
-Samuels, Lisa and Jerome McGann. “Deformance and Interpretation.” New Literary History 30.1 (Winter 1999): 25-56. JSTOR. Web. 24 Feb. 2014. 
+Samuels, Lisa and Jerome McGann. “Deformance and Interpretation.” *New Literary History* 30.1 (Winter 1999): 25-56. JSTOR. Web. 24 Feb. 2014. 
 
 
 
-Sedgewick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You.”
+Sedgewick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You.” *Touching Feeling*. Durham, NC: Duke UP, 2003. Print.
 
 
 
-Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly 69.3 (2006): 425–450. Web.
+Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly* 69.3 (2006): 425–450. Web.
 
 
 

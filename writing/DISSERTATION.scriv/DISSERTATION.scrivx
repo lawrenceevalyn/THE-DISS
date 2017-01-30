@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-01-29 19:00:36 -0500" ModID="C254CBED-3871-498A-9E43-E26A2D9EA822">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-01-29 19:13:08 -0500" ModID="5A2E2921-0FE2-493D-8837-141EC0C737D0">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
             <Title>Draft</Title>
@@ -7,10 +7,10 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-01-27 20:52:55 -0500">
+                <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-01-29 19:12:54 -0500">
                     <Title>Proposal</Title>
                     <MetaData>
-                        <LabelID>3</LabelID>
+                        <LabelID>5</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -26,18 +26,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1532,0</TextSelection>
+                                <TextSelection>820,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="106" UUID="6FA7AF8C-C6D9-49F7-B94A-F0D9A133C04E" Type="Text" Created="2017-01-16 19:10:05 -0500" Modified="2017-01-25 19:33:31 -0500">
+                        <BinderItem ID="106" UUID="6FA7AF8C-C6D9-49F7-B94A-F0D9A133C04E" Type="Text" Created="2017-01-16 19:10:05 -0500" Modified="2017-01-29 19:07:09 -0500">
                             <Title>driving research Qs</Title>
                             <MetaData>
-                                <LabelID>4</LabelID>
+                                <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1135,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="108" UUID="47FEAF00-5732-4ED9-934F-D24CEB848B4D" Type="Text" Created="2017-01-16 19:11:05 -0500" Modified="2017-01-29 18:46:15 -0500">
@@ -70,7 +70,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>248,0</TextSelection>
+                                        <TextSelection>319,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="112" UUID="68FC2563-A6E4-4162-848D-001E1AF7B84F" Type="Text" Created="2017-01-16 19:26:03 -0500" Modified="2017-01-25 19:37:19 -0500">
@@ -97,26 +97,26 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="109" UUID="998DAE63-8151-48D7-ADE3-0314C3B7DF26" Type="Text" Created="2017-01-16 19:11:58 -0500" Modified="2017-01-28 00:14:25 -0500">
+                        <BinderItem ID="109" UUID="998DAE63-8151-48D7-ADE3-0314C3B7DF26" Type="Text" Created="2017-01-16 19:11:58 -0500" Modified="2017-01-29 19:04:39 -0500">
                             <Title>conclusion</Title>
                             <MetaData>
-                                <LabelID>3</LabelID>
+                                <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>448,0</TextSelection>
+                                <TextSelection>474,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="114" UUID="9237D8D1-A400-4C21-9879-190C630637C7" Type="Text" Created="2017-01-29 18:36:47 -0500" Modified="2017-01-29 18:59:06 -0500">
+                        <BinderItem ID="114" UUID="9237D8D1-A400-4C21-9879-190C630637C7" Type="Text" Created="2017-01-29 18:36:47 -0500" Modified="2017-01-29 19:12:50 -0500">
                             <Title>works cited</Title>
                             <MetaData>
-                                <LabelID>3</LabelID>
+                                <LabelID>5</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>428,0</TextSelection>
+                                <TextSelection>497,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1320,7 +1320,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="218" Characters="1431" Date="2017-01-29 00:06:17 -0500"></PreviousSession>
+        <PreviousSession Words="218" Characters="1468" Date="2017-01-29 00:06:17 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
