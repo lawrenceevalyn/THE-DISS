@@ -361,7 +361,67 @@ What does it tell us about what was ‘normal’ during my decade?
 
 
 
-# Ch 4: Account of my work #
+# Ch 3: Account of my work - ESTC #
+
+
+
+
+
+
+
+A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
+
+
+
+## transition ##
+
+
+
+### link to prev. chapter ###
+
+
+
+
+
+
+
+First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
+
+
+
+### aim of this chapter ###
+
+
+
+
+
+
+
+Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
+
+
+
+### how I'll achieve this aim ###
+
+
+
+
+
+
+
+Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
+
+
+
+## ESTC research ##
+
+
+
+----
+
+
+
+# Ch 4: Account of my work - ECCO-TCP #
 
 
 
@@ -417,7 +477,7 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
-# Ch 5: Account of my work #
+# Ch 5: Account of my work - reading #
 
 
 
@@ -473,63 +533,7 @@ Third paragraph: outlines how you intend to achieve this aim. This paragraph oft
 
 
 
-# Ch 6: Account of my work #
-
-
-
-
-
-
-
-A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
-
-
-
-## transition ##
-
-
-
-### link to prev. chapter ###
-
-
-
-
-
-
-
-First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
-
-
-
-### aim of this chapter ###
-
-
-
-
-
-
-
-Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
-
-
-
-### how I'll achieve this aim ###
-
-
-
-
-
-
-
-Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
-
-
-
-----
-
-
-
-# Ch 7: Synthesis / Discussion #
+# Ch 6: Synthesis / Discussion #
 
 
 
@@ -549,7 +553,7 @@ Structuring your discussion: • The task of the discussion chapter is to enable
 
 
 
-# Ch 8: Conclusion #
+# Ch 7: Conclusion #
 
 
 

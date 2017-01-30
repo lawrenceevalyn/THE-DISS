@@ -12,6 +12,12 @@
 
 ## Research Log
 
+### Jan 30 2017
+
+One approach to the ESTC corpus might be to randomly sample 500 items, carefully classify them, and then use those classifications as training to computationally classify the larger list? Maybe with topic modelling?? But everything might be on FAR too tiny a scale for this to be reliable; ask mom. (It would, at least, be possible to *test* my accuracy afterward, by randomly checking a sample of the machine-classified titles to see if I concur..)
+
+Before I get too carried away, I have to figure out what on earth I'm doing with the dates. It seems like many of the texts might not really be from my decade at all, which matters!
+
 ### Jan 21 2017
 
 Time to freewrite about how my work relates to the critical context!
@@ -33,6 +39,18 @@ I'm thinking now of Wollstonecraft's Vindication: one could excerpt just her des
 One of the ideas that was mentioned but not developed at MLA was that, if one wishes to teach principles of justice, if one wishes to turn students' personal distress into pro-social empathy, one must **choose to teach different texts**. So I guess my question is: which eighteenth century texts should we teach? And how?
 
 **Can** that be my question??
+
+---
+
+Egads. The probably outline of the diss right now is:
+
+1. Intro
+1. ESTC corpus
+1. ECCO-TCP full texts
+1. Ann Radcliffe, Charlotte Smith, Hannah More, and Mary Robinson
+1. Conclusion
+
+...and Chapter 4 there is basically an entire dissertation. But I don't want to cut any of those authors!! aaagh
 
 ### Jan 20 2017
 
