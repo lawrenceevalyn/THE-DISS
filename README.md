@@ -18,7 +18,51 @@ TABLEAU IS JUST STUPIDLY COOL AND I MADE SO MANY CHARTS AND I AM SO EXCITED
 
 So far I have just pulled the ESTC data in -- I fiddled with making it combine with the ECCO-TCP information but haven't figured it out yet. I've already learned SO MUCH about the ESTC records, though!!
 
+So here we have the number of records per year, during my period:
+
+![graphs of works per year](https://raw.githubusercontent.com/lawrenceevalyn/THE-DISS/master/figures/estc-tableau/works-per-year.png)
  
+TODO: I should compare this to, e.g., Garside, to see if it means anything. Not super exciting as-is.
+
+I decided to look at who was publishing most, and it turned out to be the government:
+
+![bar chart of most prolific authors](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/most-prolific-bars.png?raw=true)
+
+(That's after I filtered out the 11,000+ "null" authors.) I was expecting more of a long-tail kind of curve, but there's a huge cliff after the first four! Probably because the first four are the government, and then the fifth is George III the person (also the government but on a more human scale).
+
+A prettier but not really clearer version trying to contextualize the relative prominence of those government publications:
+
+![squares chart of most prolific authors](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/most-prolific-squares-radcliffe.png?raw=true)
+
+and THEN it was DELIGHTFULLY EASY to filter out everybody whose name began with "Great Britain", resulting in the following:
+
+![bar chart of most prolific authors not named Great Britain](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/most-prolific-not-GB.png?raw=true)
+
+This has much more of the curve I expected. I am still BLOWN AWAY by how TOTALLY UNKNOWN half these names are to me. I had to fight for Hannah More and Oliver Goldsmith on my special fields list! I have never even HEARD of John Wesley!! Who IS he, to be outselling Shakespeare??
+
+...He was one of the founders of Methodism!!! FASCINATING. That puts Thomas Paine up there with two religious writers, nestled between them and the government. And then Shakespeare. WACKY.
+
+I also decided to take a peek at where things are usually published:
+
+![squares chart of publication location](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/place-of-publication.png?raw=true)
+
+They are published in London.
+
+From there I decided to try some much more specific question. First, I looked at the authors associated with any publisher with Minerva in the name (aiming to capture the Minerva Press):
+
+![squares chart of Minerva authors](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/minerva-authors.png?raw=true)
+
+It was reassuring to *finally* have something with a sensible name at the top of the list: the literary canon is certainly not selecting its 1790s representatives based on popularity, but the academic gossip about the Minerva press has pegged its targets pretty well.
+
+TODO: Is the number of "null" (unsigned) authors associated with the Minerva Press proportionate to the overall number of "null" authors?
+
+I also looked a bit at who Charlotte Smith was publishing with. It took some fiddling to group together entries which were for the same publisher with marginally different spelling or formatting, but it seems that she has a strong allegiance to T. Cadell but occasionally dabbles with others:
+
+![chart of Charlotte Smith's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/charlotte-smith-publishers.png?raw=true)
+
+That "2" with G.G.J. is the first printing of Desmond. Why did she publish Desmond with a new publisher, when she had such a longstanding relationship with Cadell? (Cadell's 1789 works include a reprint of her much earlier Elegaic Sonnets, which suggests a long/committed relationship.) J. Bell got The Old Manor House (2 printings) and then The Wanderings of Warwick. Sampson Low got Montalbert, Marchmont, and A Narrative of the Loss of Charlotte. Was she shopping around trying to find homes for her more Gothic material? T Cadell's address is on the Strand -- was he too posh for her sensational tales?
+
+Most of T Cadell's printings are reprints of Elegaic Sonnets or Rural Walks (I should probably read Rural Walks for special fields), but he also printed Emmeline, Ethelinde, and Celestina, so he can't have been *too* opposed to her novels.
 
 ### Jan 30 2017
 
