@@ -12,6 +12,14 @@
 
 ## Research Log
 
+### Feb 11 2017
+
+TABLEAU IS JUST STUPIDLY COOL AND I MADE SO MANY CHARTS AND I AM SO EXCITED
+
+So far I have just pulled the ESTC data in -- I fiddled with making it combine with the ECCO-TCP information but haven't figured it out yet. I've already learned SO MUCH about the ESTC records, though!!
+
+ 
+
 ### Jan 30 2017
 
 One approach to the ESTC corpus might be to randomly sample 500 items, carefully classify them, and then use those classifications as training to computationally classify the larger list? Maybe with topic modelling?? But everything might be on FAR too tiny a scale for this to be reliable; ask mom. (It would, at least, be possible to *test* my accuracy afterward, by randomly checking a sample of the machine-classified titles to see if I concur..)
@@ -42,7 +50,7 @@ One of the ideas that was mentioned but not developed at MLA was that, if one wi
 
 ---
 
-Egads. The probably outline of the diss right now is:
+Egads. The probable outline of the diss right now is:
 
 1. Intro
 1. ESTC corpus
@@ -91,7 +99,7 @@ What percentage of books promise in their titles some kind of secret or mystery 
 
 ### Jan 13 2017
 
-MLA was a whirlwind! I was surprised to find myself describing an interest in religious and sentimental literature, singing the praises of Hannah More -- it does reinforce my desire not to treat genres too separately.
+MLA was a whirlwind! I was surprised to find myself describing an interest in religious and sentimental literature [ETA: **didactic** literature!], singing the praises of Hannah More -- it does reinforce my desire not to treat genres too separately.
 
 I most enjoyed a panel on "anti-marriage plots"-- it made me want to look at what narratologists are up to and how I might dip by toe into that field.
 
