@@ -14,6 +14,24 @@
 
 ### Feb 11 2017
 
+What I'm finding extra-fascinating about Hannah More's pamphlets is how different titles seem to be packaging the same work to different audiences. Most obvious is "Dame Andrews: a ballad" and "Dame Andrews: a tale", but there's also "The two wealthy farmers, or, the history of Mr. Bragwell," which is sometimes "The history of Mr. Bragwell; or, the two wealthy farmers." (That one might just be normal. But even then, it's interesting that some fluidity of title is normal...) And of course there's the labeling of some things as "Cheap Repository" or "A Sunday Reading". "On carrying religion into the common business of life" looks like it is part of "The Two Shoemakers" but it's so often presented entirely independently.
+
+I feel like I'm seeing a bit of a pattern, where some things get one printing and essentially fizzle out, and others are significantly more popular.
+
+![squares chart of More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/more-printings-squares.png?raw=true)
+
+![bar chart of More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/more-printings-bars.png?raw=true)
+
+I also looked at Thomas Paine's most printed works, which seemed to be an awful lot of letters. But I form no interesting hypotheses.
+
+![squares chart of Paine's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/paine-printings-squares.png?raw=true)
+
+![bar chart of Paine's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/paine-printings-bars.png?raw=true)
+
+
+---
+
+
 TABLEAU IS JUST STUPIDLY COOL AND I MADE SO MANY CHARTS AND I AM SO EXCITED
 
 So far I have just pulled the ESTC data in -- I fiddled with making it combine with the ECCO-TCP information but haven't figured it out yet. I've already learned SO MUCH about the ESTC records, though!!
