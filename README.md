@@ -1,18 +1,16 @@
-# THE-DISS
-
-## Research Goals
+# Research Goals
 * I want to address, somehow, the use of canons, and consider better ways to contextualize and teach literature
 * I want to apply the conceptual frameworks of prototyping and models to literary research
 * I really like the Gothic
 
-## To Do
+# To Do
 * Approved Thesis Proposal Feb 1
 * Approved Special Fields List Feb 1
 * I need to do a lot more reading in the 18thC
 
-## Research Log
+# Research Log
 
-### Feb 11 2017
+## Feb 11 2017
 
 What I'm finding extra-fascinating about Hannah More's pamphlets is how different titles seem to be packaging the same work to different audiences. Most obvious is "Dame Andrews: a ballad" and "Dame Andrews: a tale", but there's also "The two wealthy farmers, or, the history of Mr. Bragwell," which is sometimes "The history of Mr. Bragwell; or, the two wealthy farmers." (That one might just be normal. But even then, it's interesting that some fluidity of title is normal...) And of course there's the labeling of some things as "Cheap Repository" or "A Sunday Reading". "On carrying religion into the common business of life" looks like it is part of "The Two Shoemakers" but it's so often presented entirely independently.
 
@@ -28,9 +26,7 @@ I also looked at Thomas Paine's most printed works, which seemed to be an awful 
 
 ![bar chart of Paine's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/paine-printings-bars.png?raw=true)
 
-
----
-
+## Feb 10 2017
 
 TABLEAU IS JUST STUPIDLY COOL AND I MADE SO MANY CHARTS AND I AM SO EXCITED
 
@@ -82,13 +78,13 @@ That "2" with G.G.J. is the first printing of Desmond. Why did she publish Desmo
 
 Most of T Cadell's printings are reprints of Elegaic Sonnets or Rural Walks (I should probably read Rural Walks for special fields), but he also printed Emmeline, Ethelinde, and Celestina, so he can't have been *too* opposed to her novels.
 
-### Jan 30 2017
+## Jan 30 2017
 
 One approach to the ESTC corpus might be to randomly sample 500 items, carefully classify them, and then use those classifications as training to computationally classify the larger list? Maybe with topic modelling?? But everything might be on FAR too tiny a scale for this to be reliable; ask mom. (It would, at least, be possible to *test* my accuracy afterward, by randomly checking a sample of the machine-classified titles to see if I concur..)
 
 Before I get too carried away, I have to figure out what on earth I'm doing with the dates. It seems like many of the texts might not really be from my decade at all, which matters!
 
-### Jan 21 2017
+## Jan 21 2017
 
 Time to freewrite about how my work relates to the critical context!
 
@@ -122,11 +118,11 @@ Egads. The probable outline of the diss right now is:
 
 ...and Chapter 4 there is basically an entire dissertation. But I don't want to cut any of those authors!! aaagh
 
-### Jan 20 2017
+## Jan 20 2017
 
 Frustratingly, the ECCO-TCP metadata csv that I have doesn't include publication dates, but according to [this query](http://artflsrv02.uchicago.edu/philologic4/eccotcp/query?report=bibliography&method=proxy&year=1789-1799&results_per_page=1000&start=0&end=0) at ARTFL‘s PhiloLogic search engine, 502 of the ECCO-TCP texts are from my years 1789-99! That's a pretty respectable corpus! Within the parameters of what I can investigate/classify manually (if only just).
 
-### Jan 16 2017
+## Jan 16 2017
 
 Time to freewrite about what the hell I am doing here, exactly!
 
@@ -154,12 +150,11 @@ What is Radcliffe's relationship to the "school of Radcliffe"? Does she respond 
 
 Should my title be something more like "Modelling the mediascape in England, 1789-99"?
 
-
-### Jan 14 2017
+## Jan 14 2017
 
 What percentage of books promise in their titles some kind of secret or mystery to be discovered? This is the kind of question that would be more interesting if two different time periods were being compared...
 
-### Jan 13 2017
+## Jan 13 2017
 
 MLA was a whirlwind! I was surprised to find myself describing an interest in religious and sentimental literature [ETA: **didactic** literature!], singing the praises of Hannah More -- it does reinforce my desire not to treat genres too separately.
 
@@ -171,7 +166,7 @@ I also want to look back at my MA work a bit more to see if I better understand 
 
 It does sometimes feel like I will have no idea what I'm talking about until I've read a hundred 18thC novels... I should make a list of what I've actually rolled my eyes past, and think about some habits of, e.g., using ReadMe! to speed-read more of these. I find that I get a lot out of even a very superficial read of the works as a whole.
 
-### Jan 2 2017
+## Jan 2 2017
 
 It's been hard to know where to start with this, hard to have a specific enough question that I can be excited about it. I know I want to research and publish individual chapters somewhat separately but I can't do them all at once!
 
@@ -181,19 +176,19 @@ I’m going to focus on building my database of bibliographic data for all prose
 
 I'll definitely want to do this no matter how my other literary questions shake out, so even though it feels like I have no idea what I'm doing (Ann Radcliffe? Charlotte Smith? Hannah More??), I do know how to do this part.
 
-### Dec 23 2016
+## Dec 23 2016
 
 A question that's very important and interesting to ME, though maybe not to anyone else (???) is, how 'representative' is the ECCO-TCP corpus compared to the ETSC catalog?
 
 (How many of the 2,188 ECCO-TCP texts are even from 1789-99?)
 
-### Dec 20 2016
+## Dec 20 2016
 
 Trying to come up with a special fields list is increasingly paradoxical: the goal of my research is to assess our methods of selecting "representative" authors, and step one is to... select representative authors. Even focusing on 'touchstones of the canon' leaves me with FAR too much to read.
 
 Also far too much: an eight-chapter dissertation. Maybe I'm looking at too many case studies. Could I just do the 'school of Radcliffe' and the 'school of Charlotte Smith'? Based on the network graph from DHSI last year?
 
-### Dec 10 2016
+## Dec 10 2016
 
 In correspondence with ETSC, looks like I will be able to have access!
 
@@ -219,13 +214,13 @@ Currently thinking a good structure might be:
 
 Is that too many chapters? That's probably too many chapters.
 
-### Nov 30 2016
+## Nov 30 2016
 
 The English Short Title Catalogue says there are 51996 titles published in England 1789-1799!! That's a lot. Also, it will only give me information on the first 1001 results?
 
 I'd love to compare against the Richardson/Fielding era but I feel like five years is too short to capture the period I'm interested in (surely I should do all of Radcliffe's ouvre?) and ten years is clearly an ABSOLUTE MAXIMUM.
 
-### Oct 27 2016
+## Oct 27 2016
 Reading Moretti's *Distant Reading*:
 * Look up Literary Lab pamphlet 1, "Quantitative Formalism"
 * He promised studies of Austen's rivals, and then never did them: can I do it?
@@ -236,11 +231,11 @@ Reading Moretti's *Distant Reading*:
 * "I set out to explain the logic behind literary survival and oblivion" (145)
 * The essay "Style, Inc.: Reflections on 7,000 Titles" is VERY EXCITING to me; and I might be one of the only readers who begins this essay already having read the bibliography in question cover-to-cover!
 
-### Oct 22 2016
+## Oct 22 2016
 Reading so many articles. Nothing feels clear or connected. What am I *doing*?
 
-### Oct 21 2016
-#### Reading Keymer's "Shakespeare in the Novel":
+## Oct 21 2016
+### Reading Keymer's "Shakespeare in the Novel":
 * If I do the shakey route I probably need to start much earlier than 1750 -- I probably need to go 1740, to capture the start of Garrick and to capture Richardson
 * I might need to go all the way back to Edward Bysshe's *Art of English Poetry* (1702)??
 * Honestly, it would be FASCINATING to track the use of Bysshe's book!
@@ -248,32 +243,32 @@ Reading so many articles. Nothing feels clear or connected. What am I *doing*?
 of Shakespeare* and *The Morality of Shakespeare’s Drama Illustrated*
 * Keymer's article overall traces Shakespearean allusions from proofs of literary seriousness to trite convention from 1700 to 1750.
 
-### Oct 19 2016
+## Oct 19 2016
 What traits would a "solution" to the canon problem have?
 - it would account for 'the great unread'
 - it would enable us to select a readable number of texts based on an explicit metric (most average, most popular at the time, most recognized by subsequent authors as important)
 
-### Oct 10 2016
+## Oct 10 2016
 I have a real problem of scope. The monographs I admire (Price, Clery) cover very broad spans of time, but I'm currently planning to have an extremely narrow slice of 20-30 years in order to allow a density of context. It sounds on its face obviously unfeasible to study "everything, 1750-1830" but... the whole promise of DH is that sort of opening-up of scale.
 
 Will the methods and questions I develop for "everything, 1790-1810" be generalizable to a larger scale? Or (as seems obviously true when I word it like this), will considering literary history on the scale of a century demand a different focus?
 
-### Oct 8 2016
+## Oct 8 2016
 thesis options:
 - the uses of shakespeare
 - writers who write across the mediascape (pick 3-5)
 - microgenres (adventures of a pin, memoir vs life vs history)
 
-### Oct 7 2016
-#### Meeting with S.D.
+## Oct 7 2016
+### Meeting with S.D.
 Margaret Cohen sentimental education of the novel ;
 1857 lyric poem - yahls ;
 Kt trumpeter bardic nationalism ;
 Brad pasenic mind as metaphor ;
 James Raven
 
-### Oct 5 2016
-#### Meeting with T.R.
+## Oct 5 2016
+### Meeting with T.R.
 Michael Gamer Gothic Romanticism ;
 Jeff Cox Seven Gothic Dramas ;
 Small pieces on the gothic -- make sure to look at their articles
