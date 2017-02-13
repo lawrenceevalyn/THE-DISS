@@ -85,6 +85,32 @@ One approach to the ESTC corpus might be to randomly sample 500 items, carefully
 
 Before I get too carried away, I have to figure out what on earth I'm doing with the dates. It seems like many of the texts might not really be from my decade at all, which matters!
 
+## Jan 28 2017
+
+I looked at the ESTC corpus for my newsletter, and should duplicate those thoughts here:
+
+"I have bibliographic metadata on 51,965 works printed in England between 1789-99!! SO EXCITING!!! :D (Thanks, English Short Title Catalogue!) To start, I figured I'd hit it with some extremely blunt tools, and just shoved the big list of the titles of those works into Voyant. Look! A word cloud!
+
+![word cloud of titles of works in ESTC corpus](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-voyant/everything-cloud.png?raw=true)
+
+Word clouds are... not very useful. But they're also not very hard! So for a newsletter, why not?
+
+What have I learned? Well, mostly what all 51,965 works have in common is an interest in telling me where they came from and what is in them:
+
+![two copies of word cloud of ESTC titles, each with some words circled](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-voyant/everything-cloud-annotated.png?raw=true)
+
+By whom were these works "preached", "performed", "translated", "written", "published", and "sold"? That varies, but they sure were all those things! What, exactly, might these "volumes", "books", "book[s]", "letters", "letter[s]", "collection[s]", "edition[s]", "appendi[ces]", "sermon[s]", "account[s]", and "observations" all be "containing"? Dunno, but they've "added" something "new" so you should probably buy this particular one!
+
+This word cloud mostly reinforces, then, my sense that the title of an 18thC work was doing a lot of the heavy lifting in contextualizing and advertising the work to its potential readers.
+
+Here are three works listed right next to each other, published in 1791, for example:
+
+* A funeral sermon : preached at Spa-Fields chapel, July 3, 1791. on the death of the Late Countess Dowager of Huntingdon, By the Rev. David Jones, Of Langan
+* The romance of the forest : interspersed with some pieces of poetry. By the authoress of 'A Sicilian romance,' &c. In three volumes
+* A series of letters to the Right Honorable Edmund Burke, upon the impeachment of Mr. Hastings : The third edition, with many corrections and additions, a new preface, and appendix. By George Hardinge, Esq. M.P
+
+There's a lot of information packed into these titles! Later on I think all of this detail will be very helpful in teasing apart publication trends despite only having limited bibliographical detail, but the unprocessed full corpus is kind of more than Voyant can shed meaningful light on."
+
 ## Jan 21 2017
 
 Time to freewrite about how my work relates to the critical context!
