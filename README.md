@@ -11,6 +11,12 @@
 
 ## Feb 27 2017
 
+I made a better version of my Charlotte Smith publisher chart! Much clearer, and also I'm no longer accidentally excluding two of her publishers.
+
+![chart of Charlotte Smith's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/charlotte-smith-publishers-2.png?raw=true)
+
+------
+
 Study a "sample" of the ESTC that looks at the most prolific authors? Or most-reprinted works? (But it's so labor-intensive to see what's a reprint, given the variability in titles)
 
 ## Feb 11 2017
