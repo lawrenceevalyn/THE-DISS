@@ -11,6 +11,10 @@
 
 # Research Log
 
+## Feb 27 2017
+
+Study a "sample" of the ESTC that looks at the most prolific authors? Or most-reprinted works? (But it's so labor-intensive to see what's a reprint, given the variability in titles)
+
 ## Feb 11 2017
 
 What I'm finding extra-fascinating about Hannah More's pamphlets is how different titles seem to be packaging the same work to different audiences. Most obvious is "Dame Andrews: a ballad" and "Dame Andrews: a tale", but there's also "The two wealthy farmers, or, the history of Mr. Bragwell," which is sometimes "The history of Mr. Bragwell; or, the two wealthy farmers." (That one might just be normal. But even then, it's interesting that some fluidity of title is normal...) And of course there's the labeling of some things as "Cheap Repository" or "A Sunday Reading". "On carrying religion into the common business of life" looks like it is part of "The Two Shoemakers" but it's so often presented entirely independently.
