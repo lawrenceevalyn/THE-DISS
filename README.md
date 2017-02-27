@@ -4,8 +4,6 @@
 * I really like the Gothic
 
 # To Do
-* Approved Thesis Proposal Feb 15
-* Approved Special Fields List Feb 15
 * Read 18thC texts voraciously, to inform my guy intuition of the period
 * Use ESTC data for model the decade 1789-99
 
