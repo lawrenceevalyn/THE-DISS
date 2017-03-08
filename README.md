@@ -4,10 +4,16 @@
 * I really like the Gothic
 
 # To Do
-* Read 18thC texts voraciously, to inform my guy intuition of the period
-* Use ESTC data for model the decade 1789-99
+* Read 18thC texts voraciously, to inform my gut intuition of the period
+* Use ESTC data to model the decade 1789-99
 
 # Research Log
+
+## March 7, 2017
+
+I think it's introducing needless confusion to be trying to think of things as "chapters" at this stage -- my chapters will need to be shaped by my results!
+
+Instead, to make sure I'm still "writing up as I go", I'll focus on describing each individual experiment and just shove it all into chapter 3 to be organized and subdivided later.
 
 ## Feb 27 2017
 
