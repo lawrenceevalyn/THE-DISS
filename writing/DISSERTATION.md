@@ -153,35 +153,11 @@ Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Hunti
 
 
 
-
-
-
-
-An Introductory Chapter – Tell the reader the problem you are tackling in this project. – State clearly how you aim to deal with this problem. – Limit the scope of your study. – Sketch out how the thesis is structured to achieve your aim.
-
-
-
 ## Context ##
 
 
 
-
-
-
-
-Context of the Study – Provide a brief history of the issues to date. – Situate your particular topic within the broad area of research. – Note that the field is changing, and more research is required on your topic.
-
-
-
 ## Problem statement ##
-
-
-
-
-
-
-
- Problem Statement (or Motivation for the Study) – Identify a key point of concern (for example, increasing use or prominence, lack of research to date, response to an agenda, a new discovery, or perhaps one not yet applied to this context). – Refer to the literature only to the extent needed to demonstrate why your project is worth doing. Reserve your full review of existing theory or practice for later chapters. – Be sure that the motivation, or problem, suggests a need for further investigation.
 
 
 
@@ -229,14 +205,6 @@ What texts should we teach to students? And how should we contextualize them?
 
 
 
-
-
-
-
-Aim and Scope – Be sure that your aim responds logically to the problem statement. – Stick rigorously to a single aim. Do not include elements in it that describe how you intend to achieve this aim; reserve these for a later chapter. – When you have written the conclusions to your whole study, check that they respond to this aim. If they don’t, change the aim or rethink your conclusions. – If you change the aim, revise the motivation for studying it. – Be sure to establish the scope of your study by identifying limitations of factors such as time, location, resources, or the established boundaries of particular fields or theories.
-
-
-
 ### theoretical frameworks ###
 
 
@@ -261,23 +229,7 @@ Aim and Scope – Be sure that your aim responds logically to the problem statem
 
 
 
-
-
-
-
-Significance of the Study – Explain how your thesis contributes to the field. – There are four main areas of contribution: theory development, tangible solution, innovative methods, and policy extension. One of these contributions must be identified as the basis of your primary contribution to the field. – In contrast to reports for industry, theory development is an expected and required contribution; for PhDs in particular, it must be ‘original’.
-
-
-
 ## Structure of the thesis ##
-
-
-
-
-
-
-
-Overview of the Study (or Structure of the Thesis) – Sketch out how the thesis is structured. Don’t confine yourself to a list of the chapters, but show how they are linked and that one section logically leads to another. – Check whether the reader can see from this sketch how the aim will be achieved.
 
 
 
@@ -289,19 +241,11 @@ Overview of the Study (or Structure of the Thesis) – Sketch out how the thesis
 
 
 
+# Ch 3: Account of my work #
 
 
 
-
-Background Chapters – Include in these chapters all the material required to lead up to your own work. – Ensure that there is a flow of narrative that explains why each topic is being discussed.
-
-
-
-## transition ##
-
-
-
-### link to prev. chapter ###
+## ESTC full corpus ##
 
 
 
@@ -309,11 +253,6 @@ Background Chapters – Include in these chapters all the material required to l
 
 
 
-First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
-
-
-
-### aim of this chapter ###
 
 
 
@@ -321,35 +260,16 @@ First paragraph: creates a link back to the earlier parts of the thesis, in part
 
 
 
-Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
+
+## ESTC taxonomy of random sample ##
 
 
 
-### how I'll achieve this aim ###
+## ECCO-TCP stylometry ##
 
 
 
-
-
-
-
-Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
-
-
-
-## description of my database ##
-
-
-
-
-
-
-
-What’s in it? How did I make it?
-
-
-
-What does it tell us about what was ‘normal’ during my decade?
+## ECCO-TCP compared to ESTC ##
 
 
 
@@ -357,207 +277,11 @@ What does it tell us about what was ‘normal’ during my decade?
 
 
 
-# Ch 3: Account of my work - ESTC #
+# Ch 4: Synthesis / Discussion #
 
 
 
-
-
-
-
-A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
-
-
-
-## transition ##
-
-
-
-### link to prev. chapter ###
-
-
-
-
-
-
-
-First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
-
-
-
-### aim of this chapter ###
-
-
-
-
-
-
-
-Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
-
-
-
-### how I'll achieve this aim ###
-
-
-
-
-
-
-
-Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
-
-
-
-## ESTC research ##
-
-
-
-----
-
-
-
-# Ch 4: Account of my work - ECCO-TCP #
-
-
-
-
-
-
-
-A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
-
-
-
-## transition ##
-
-
-
-### link to prev. chapter ###
-
-
-
-
-
-
-
-First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
-
-
-
-### aim of this chapter ###
-
-
-
-
-
-
-
-Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
-
-
-
-### how I'll achieve this aim ###
-
-
-
-
-
-
-
-Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
-
-
-
-----
-
-
-
-# Ch 5: Account of my work - reading #
-
-
-
-
-
-
-
-A ‘Core’ Account of Your Own Work – Begin with a formal statement of your hypotheses or research questions. – Follow this with an account of the methods you chose to test your hypotheses or answer your questions, and why you chose them. – Report the results of applying these methods.
-
-
-
-## transition ##
-
-
-
-### link to prev. chapter ###
-
-
-
-
-
-
-
-First paragraph: creates a link back to the earlier parts of the thesis, in particular the previous chapter, to make it obvious why the chapter is needed.
-
-
-
-### aim of this chapter ###
-
-
-
-
-
-
-
-Second paragraph: states the aim of the chapter, what the reader learns from it and how it advances the overall goal.
-
-
-
-### how I'll achieve this aim ###
-
-
-
-
-
-
-
-Third paragraph: outlines how you intend to achieve this aim. This paragraph often has the ‘overview of contents’ flavour that so many writers think constitutes an introduction. But it is only one part of the introduction, and without the other two parts the reader struggles for a sense of direction. (Incidentally, writers sometimes literally give it as a table of contents. This is far from helpful. The reader needs to know not only what you will be dealing with in the chapter, but also the logical connection between the various sections.)
-
-
-
-----
-
-
-
-# Ch 6: Synthesis / Discussion #
-
-
-
-
-
-
-
- Synthesis – You are now ready to pull the whole thesis together. – Discuss the implications of your results. – Draw strong conclusions backed up by your discussion. – Check that they respond to the aim stated in your introduction.
-
-
-
-
-
-
-
-Structuring your discussion: • The task of the discussion chapter is to enable you to reach your conclusions. Drawing up a tentative list of conclusions will help you identify an appropriate structure. • Begin by writing down all the things you know now that you didn’t know when you started the project. Rearranging this list will give you the titles of the main sections of your discussion. Summary of Chapter 9: The Discussion or Interpretation  119 Checking the thesis structure: • Before you start writing material in each of these sections, check your thesis structure by stringing together introductions and conclusions for all the chapters. • Check that the tentatively structured thesis responds to the aim and scope you set yourself in your introductory chapter. Write with authority: • Make sure that your exposition of new theory or ideas places your thesis within the context of the field you are working in. This will require that you not only draw on your own results, but that you view these against existing thinking as expounded in your background chapters. • Acknowledge any limitations on your findings. Theoretical results may need validation before their suitability in practice is known, for example. Shortcomings or uncertainties should also be acknowledged. • If the thesis involves a case study, check that you have dealt with the problem of generalizability, or issues of transference, for your findings to similar situations.
-
-
-
-# Ch 7: Conclusion #
-
-
-
-
-
-
-
-Connecting discussion and conclusions: • Your conclusions are what your discussion chapter has been arguing for. • You could write the conclusions to your whole study as the last section of a chapter called ‘Discussion and Conclusions’, but it is usually preferable to have a separate ‘Conclusions’ chapter. • If they form a separate chapter there should be no conclusions to the discussion chapter, and you should inform the reader of this in the discussion. Rules about conclusions: • You should draw your conclusions solely from the discussion chapter. • There should be little further discussion in the conclusions chapter. • The conclusions should respond to the aim stated in the first chapter. • Summaries are not conclusions. • Conclusions should be crisp and concise. • The conclusions can be used to briefly explore the implications of your findings.
+# Ch 5: Conclusion #
 
 
 
@@ -574,6 +298,22 @@ Connecting discussion and conclusions: • Your conclusions are what your discus
 
 
 51,965 works printed in England, sort of mostly 1789-99
+
+
+
+### description of my database ###
+
+
+
+
+
+
+
+What’s in it? How did I make it?
+
+
+
+What does it tell us about what was ‘normal’ during my decade?
 
 
 
