@@ -49,6 +49,32 @@ She stuck much less to one person!
 
 ![chart of Mary Robinson's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/robinson-publishers.png?raw=true)
 
+### What works were most reprinted?
+
+Well, first I have each individual author's graphs:
+
+![chart of Hannah More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/hannah-more-printings-2.png?raw=true)
+
+![chart of Ann Radcliffe's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/radcliffe-printings.png?raw=true)
+
+![chart of Mary Robinson's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/robinson-printings.png?raw=true)
+
+![chart of Charlotte Smith's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/charlotte-smith-printings.png?raw=true)
+
+The ratios / numbers of works by each author are interestingly different, but as the numbers under each title make clear, these charts are not remotely at scale compared to each other!
+
+So here they all are compared:
+
+![chart of four key authors' most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/4-authors-printings.png?raw=true)
+
+That's an awful lot of Hannah More. Let's take her out to better compare the other three:
+
+![chart of three key authors' most reprinted works, minus Hannah More](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/3-authors-printings-noHMore.png?raw=true)
+
+Radcliffe just does not seem all that astonishingly dominant in these views! If she had greater prominence, it must have been through larger print runs, or through greater circulation in circulating libraries.
+
+TODO: track down print run sizes for the works by my four key authors (a big to-do, for sure!)
+
 ## March 7, 2017
 
 I think it's introducing needless confusion to be trying to think of things as "chapters" at this stage -- my chapters will need to be shaped by my results!
@@ -71,9 +97,9 @@ What I'm finding extra-fascinating about Hannah More's pamphlets is how differen
 
 I feel like I'm seeing a bit of a pattern, where some things get one printing and essentially fizzle out, and others are significantly more popular.
 
-![squares chart of More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/more-printings-squares.png?raw=true)
+![squares chart of More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/hannah-more-printings-squares.png?raw=true)
 
-![bar chart of More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/more-printings-bars.png?raw=true)
+![bar chart of More's most reprinted works](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/hannah-more-printings-bars.png?raw=true)
 
 I also looked at Thomas Paine's most printed works, which seemed to be an awful lot of letters. But I form no interesting hypotheses.
 
