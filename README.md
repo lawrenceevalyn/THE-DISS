@@ -17,7 +17,13 @@ Ahhhhhh, this chart shows SO WELL a change from Hookham / Hookham & Carpenter to
 
 ![chart of Ann Radcliffe's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/radcliffe-publishers.png?raw=true)
 
-It also tracks by title:
+Of course, one could also consider Hookham, Carpenter, and Hookham & Carpenter together:
+
+![chart of Ann Radcliffe's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/radcliffe-publishers-2.png?raw=true)
+
+TODO: research whether it makes sense to separate those publishers or merge them!
+
+The chronological shift also tracks by title:
 
 ![chart of Ann Radcliffe's publishers by work](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/radcliffe-publishers-titles.png?raw=true)
 
