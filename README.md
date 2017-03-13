@@ -43,6 +43,12 @@ But, interestingly, when she's writing different kinds of works, she goes to dif
 
 ![excerpt of a chart of Hannah More's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/hannah-more-publishers-2.png?raw=true)
 
+### Who did Mary Robinson publish with?
+
+She stuck much less to one person!
+
+![chart of Mary Robinson's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/robinson-publishers.png?raw=true)
+
 ## March 7, 2017
 
 I think it's introducing needless confusion to be trying to think of things as "chapters" at this stage -- my chapters will need to be shaped by my results!
