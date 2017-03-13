@@ -9,6 +9,34 @@
 
 # Research Log
 
+## March 13, 2017
+
+### Who did Ann Radcliffe publish with?
+
+Ahhhhhh, this chart shows SO WELL a change from Hookham / Hookham & Carpenter to GG&J!
+
+![chart of Ann Radcliffe's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/radcliffe-publishers.png?raw=true)
+
+It also tracks by title:
+
+![chart of Ann Radcliffe's publishers by work](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/radcliffe-publishers-titles.png?raw=true)
+
+### Who did Charlotte Smith publish with?
+
+This chart method also makes Charlotte Smith's history even easier to see:
+
+![chart of Charlotte Smith's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/charlotte-smith-publishers-3.png?raw=true)
+
+### Who did Hannah More publish with?
+
+Mostly, the Cheap Repository tracks. She has so many, I haven't really detangled all of them...
+
+![chart of Hannah More's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/hannah-more-publishers.png?raw=true)
+
+But, interestingly, when she's writing different kinds of works, she goes to different publishers:
+
+![excerpt of a chart of Hannah More's publishers](https://github.com/lawrenceevalyn/THE-DISS/blob/master/figures/estc-tableau/hannah-more-publishers-2.png?raw=true)
+
 ## March 7, 2017
 
 I think it's introducing needless confusion to be trying to think of things as "chapters" at this stage -- my chapters will need to be shaped by my results!
