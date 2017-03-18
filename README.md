@@ -9,6 +9,14 @@
 
 # Research Log
 
+## March 17, 2017
+
+I took some time trying to extract individual publishers from the big "publisher" lists (focusing on T. Cadell) -- it looks like it might be a tricky computational problem (or a *month* of manual sitzfleisch), but if all the publishers could be identified it would enable some *really, really cool* modeling of the publishers' relationships with each other (and the connections between authors via their publishers!). It'd definitely be a journal article for me if we could solve it.
+
+Re: the ESTC's model of the decade -- this info really takes the focus away from authors (no individual one of which can really dominate), and puts it on publishers.
+
+Also, re: Charlotte Smith's publishers -- T. Cadell did indeed refuse to publish Desmond because it was too radical!
+
 ## March 13, 2017
 
 ### Who did Ann Radcliffe publish with?
