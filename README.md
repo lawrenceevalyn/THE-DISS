@@ -3,11 +3,25 @@
 * I want to apply the conceptual frameworks of prototyping and models to literary research
 * I really like the Gothic
 
-# To Do
+# Current Priorities
 * Read 18thC texts voraciously, to inform my gut intuition of the period
 * Use ESTC data to model the decade 1789-99
 
+## Possible To-Dos
+* Is the number of "null" (unsigned) authors associated with the Minerva Press proportionate to the overall number of "null" authors?
+* compare ESTC works-per-year to Garside, in case it's more interesting than it looks
+* track down print run sizes for the works by my four key authors (a big to-do, for sure!)
+* research whether it makes sense to separate Cadell & Hookham or merge them in Radcliffe's publisher chart
+* find existing work on social networks of 18thC publishers: what do their models look like?
+
+
 # Research Log
+
+## March 23, 2017
+
+If I want to write on the networks of 18thC publishers, I should see what work already exists, and see if I can convert those existing scholarly models into visualizations of some kind.
+
+TODO: find existing work on social networks of 18thC publishers
 
 ## March 17, 2017
 
