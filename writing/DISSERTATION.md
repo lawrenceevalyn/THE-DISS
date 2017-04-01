@@ -261,6 +261,26 @@ What texts should we teach to students? And how should we contextualize them?
 
 
 
+### publishers visible over authors ###
+
+
+
+
+
+
+
+The decade 1789-99, according to the ESTC corpus, is driven by publishers at least as much as it is by authors. At this scale, no one author can be seen to have particular impact. Even Paine, and More, and Wesley are dwarfed by the volume of work produced by “Great Britain”, and dwarfed again by the works by “null” authors who were not only unsigned at the time but elude bibliographic documentation now.
+
+
+
+> What would it mean for one person (let alone work!) to be “important”?
+
+
+
+> What exactly am I trying to describe here??
+
+
+
 ## ESTC taxonomy of random sample ##
 
 
