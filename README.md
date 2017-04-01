@@ -9,6 +9,12 @@
 
 # Research Log
 
+## March 31, 2017
+
+Thinking about how ESCT encourages us to see the decade as a network of publishers -- can a given publisher (e.g. Cadell) be taken to represent a "mainstream" set of perspectives, such that that publisher's shifting decisions about what to publish constitute changes in the "mainstream"? Vs a radical publishers (like whoever took Desmond)?
+
+This would be one way for information about publishers to inflect our understanding of individual works -- provides a way to assess the marginality / centrality of the ideas within the Overton Window.
+
 ## March 23, 2017
 
 If I want to write on the networks of 18thC publishers, I should see what work already exists, and see if I can convert those existing scholarly models into visualizations of some kind.
