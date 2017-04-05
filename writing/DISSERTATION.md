@@ -281,6 +281,30 @@ The decade 1789-99, according to the ESTC corpus, is driven by publishers at lea
 
 
 
+### authors development = publisher choices ###
+
+
+
+
+
+
+
+Radcliffe is remarkably stable in her choice of publisher
+
+
+
+When Smith begans to branch out into more political radical works, she needs to branch out into new publishers as well
+
+
+
+Robinson: ???
+
+
+
+More accomplishes her stunning volume of work partly by being a publisher as much as she is an author. (See: The Apprentice’s Monitor) Her shifting publisher data is mostly information on the Cheap Repository Tracts. [But I was cautioned that these dates are less reliable! Ignore chronological information over sheer quantity? This also addresses the other difficulties re: there being too many publishers to show as a timeline]
+
+
+
 ## ESTC taxonomy of random sample ##
 
 

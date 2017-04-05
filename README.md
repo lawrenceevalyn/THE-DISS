@@ -9,6 +9,10 @@
 
 # Research Log
 
+## April 5, 2017
+
+Somehow I've crossed over into "writing my chapter" without realising I had anything to say yet! All that playing around with charts was research, apparently. For the first time, I'm feeling good about having a chapter drafted before the end of the year!
+
 ## March 31, 2017
 
 Thinking about how ESCT encourages us to see the decade as a network of publishers -- can a given publisher (e.g. Cadell) be taken to represent a "mainstream" set of perspectives, such that that publisher's shifting decisions about what to publish constitute changes in the "mainstream"? Vs a radical publishers (like whoever took Desmond)?
