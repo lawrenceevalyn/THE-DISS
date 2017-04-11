@@ -11,14 +11,14 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>14</integer>
+		<integer>15</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {323.5, 745}}</string>
-		<string>{{324.5, 0}, {741.5, 745}}</string>
+		<string>{{0, 0}, {324, 745}}</string>
+		<string>{{325, 0}, {640, 745}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -50,8 +50,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {769, 400}}</string>
-		<string>{{0, 410}, {769, 307}}</string>
+		<string>{{0, 0}, {741, 400}}</string>
+		<string>{{0, 410}, {741, 307}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -70,10 +70,10 @@
 	<integer>0</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>0</integer>
+		<integer>123</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>mainDocumentEditor.editorGroupsViewMode</key>
 	<integer>2</integer>
 	<key>mainDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
@@ -99,7 +99,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>20</integer>
+		<integer>21</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -270,14 +270,20 @@
 				<key>ViewMode</key>
 				<integer>2</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>123</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {621, 304}}</string>
-	<key>mainDocumentEditor.selectedItemIDs</key>
-	<array>
-		<integer>72</integer>
-	</array>
+	<string>{{0, 0}, {512, 204.8}}</string>
+	<key>mainDocumentEditor.selectedRanges</key>
+	<string>{305, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -290,7 +296,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>75 110 1066 767 0 0 1440 877 </string>
+	<string>25 110 965 767 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
 		<integer>122</integer>
@@ -1261,9 +1267,9 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {615.20001, 279.20001}}</string>
+	<string>{{0, 0}, {512, 279.20001}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{525, 0}</string>
+	<string>{342, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1274,6 +1280,6 @@
 		<false/>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

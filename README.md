@@ -6,8 +6,19 @@
 # Current Priorities
 * Read 18thC texts voraciously, to inform my gut intuition of the period
 * Use ESTC data to model the decade 1789-99
+* Figure out what question the field of literary study is trying to answer, exactly
 
 # Research Log
+
+## April 10, 2017
+
+It’s one of my key priorities to account for the impact over time of works which cannot extend **back** in influence to before they were written, but most certainly do extend **forward** infinitely; no work is confined to a single moment.
+
+Older works will have had more years for people to potentially read them, so that an increase in an author’s popularity also increases the relevance of their older works. A new bestseller like Udolpho supplements The Romance of the Forest, it doesn’t supercede it. Ditto Charlotte Smith’s Elegiac Sonnets.
+
+When my inquiry starts in 1789, there is already an enormous catalogue of works of active interest to readers of the day; it's not a blank slate.
+
+(Am I impressed by longevity?? I think what matters to me here is that this is a way that "normal", "average" books have great impact: they form a context/mediascape that only makes sense as a whole.)
 
 ## April 5, 2017
 
@@ -15,7 +26,7 @@ Somehow I've crossed over into "writing my chapter" without realising I had anyt
 
 ## March 31, 2017
 
-Thinking about how ESCT encourages us to see the decade as a network of publishers -- can a given publisher (e.g. Cadell) be taken to represent a "mainstream" set of perspectives, such that that publisher's shifting decisions about what to publish constitute changes in the "mainstream"? Vs a radical publishers (like whoever took Desmond)?
+Thinking about how ESTC encourages us to see the decade as a network of publishers -- can a given publisher (e.g. Cadell) be taken to represent a "mainstream" set of perspectives, such that that publisher's shifting decisions about what to publish constitute changes in the "mainstream"? Vs a radical publishers (like whoever took Desmond)?
 
 This would be one way for information about publishers to inflect our understanding of individual works -- provides a way to assess the marginality / centrality of the ideas within the Overton Window.
 

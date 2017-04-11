@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-05 08:20:44 -0400" ModID="C74EFE05-0610-4910-A8CD-6C8143B8C4D6">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-10 23:53:23 -0400" ModID="C8A2BBE8-6338-49A6-958F-F648C2E6B5CA">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <CorkboardAndOutliner>
-                <SelectedSubdocumentIDs>72</SelectedSubdocumentIDs>
-            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-01-29 19:12:54 -0500">
                     <Title>Proposal</Title>
@@ -307,14 +304,24 @@
                                         <TextSelection>525,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="122" UUID="14D568CF-A16E-4D46-8DFF-012590BD90EE" Type="Text" Created="2017-04-05 08:15:29 -0400" Modified="2017-04-05 08:18:48 -0400">
+                                <BinderItem ID="122" UUID="14D568CF-A16E-4D46-8DFF-012590BD90EE" Type="Text" Created="2017-04-05 08:15:29 -0400" Modified="2017-04-10 23:43:56 -0400">
                                     <Title>authors development = publisher choices</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>342,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="123" UUID="7BB7AC8D-D27A-452F-B41F-8BE8E857FE63" Type="Text" Created="2017-04-10 23:46:49 -0400" Modified="2017-04-10 23:50:53 -0400">
+                                    <Title>prominence of the "back catalogue"</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>305,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1398,7 +1405,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="99" Characters="620" Date="2017-04-05 08:14:42 -0400"></PreviousSession>
+        <PreviousSession Words="49" Characters="305" Date="2017-04-10 23:43:40 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
