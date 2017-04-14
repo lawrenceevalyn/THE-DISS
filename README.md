@@ -10,6 +10,10 @@
 
 # Research Log
 
+## April 13, 2017
+
+<!-- buying myself some time on my GitMinder goal while I dig into mom's code... -->
+
 ## April 10, 2017
 
 It’s one of my key priorities to account for the impact over time of works which cannot extend **back** in influence to before they were written, but most certainly do extend **forward** infinitely; no work is confined to a single moment.

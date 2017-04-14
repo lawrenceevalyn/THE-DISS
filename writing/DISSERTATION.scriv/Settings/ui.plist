@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>EnabledCompilePresets</key>
+	<array/>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
 	<dict>
 		<key>Tag</key>
@@ -50,8 +52,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {741, 400}}</string>
-		<string>{{0, 410}, {741, 307}}</string>
+		<string>{{0, 0}, {640, 400}}</string>
+		<string>{{0, 410}, {640, 307}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -296,7 +298,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>25 110 965 767 0 0 1440 877 </string>
+	<string>128 65 965 767 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
 		<integer>122</integer>
