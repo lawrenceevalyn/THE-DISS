@@ -11,3 +11,7 @@
 ### Chawton House novels
 **Number of texts:** 46
 **Years covered:** 1723 - 1830
+
+### EEBO
+
+### ESTC
