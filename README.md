@@ -12,7 +12,13 @@
 
 ## April 13, 2017
 
-<!-- buying myself some time on my GitMinder goal while I dig into mom's code... -->
+Removed all corpora from the repo online (though keeping them in the directory locally) so I can be usefully organized on my computer without publishing data that I only have for my own research.
+
+Also added the code that mom wrote to start simplifying / cleaning up the publisher names in the ESTC data! It looks like it's going to take some dedicated work manually listing the substitutions, but still much better than manually MAKING the substitutions.
+
+It also doesn't seem to **quite** be working yet...? But I'm sure I can figure out what's wrong.
+
+I HAVE confirmed that I know how to 'join' the two spreadsheets of the full ESTC data and the out.csv file that this program produces! And can work with them both in Tableau! And it's going to be SO HELPFUL!!! :D
 
 ## April 10, 2017
 
