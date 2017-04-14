@@ -1,0 +1,39 @@
+in.txt
+   Text file with long format names to simplify
+   One publisher per line, names separated by ;
+
+wordmap.csv
+   CSV file with word substitutions  (may not have spaces)
+   One substitution per line, separated by commas
+   Use NULL if you want the words deleted
+   Try to use this first to remove stuff before adding to namemap
+   e.g., 
+   Edinburgh,NULL
+   jun,Jr.
+
+namemap.csv
+   Text file with name substitutions (may have spaces)
+   One substitution per line, separated by semicolons
+   Use NULL if you want the names deleted
+   This is used AFTER the wordmaps are applied, so can clean up any mess left behind
+   e.g., 
+   W. Church & Sons;W. Church
+   T. Brown,;T. Brown 
+
+out.csv
+   CSV file with long format names (original) followed by short format
+   Each line has one pairing, separated by ,
+   Individual publishers are separated by ;
+
+Once the input files are created, run the program with:
+./run.sh
+Examine the output file: out.csv using vim.
+
+HOW IT WORKS
+============
+run.sh splits ESTC.txt into small pieces named xaa .. xbi
+It then renames each piece to in.txt
+It then runs convert, producing one output file per input file, i.e., xaa.csv .. xbi.csv
+It concatenates those together to create one large file called out.csv
+
+Modify the mapping files to improve.
