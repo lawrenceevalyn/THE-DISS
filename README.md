@@ -10,6 +10,10 @@
 
 # Research Log
 
+<!-- ## April 17, 2017
+
+Just giving myself credit in beeminder for installing G++ as the next step toward compiling the code mom wrote so I can run it myself.-->
+
 ## April 13, 2017
 
 Removed all corpora from the repo online (though keeping them in the directory locally) so I can be usefully organized on my computer without publishing data that I only have for my own research.
