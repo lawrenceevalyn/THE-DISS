@@ -10,6 +10,12 @@
 
 # Research Log
 
+## April 22, 2017
+
+Info on publishers, answering my earlier questions, from Garside!
+
+"By the 1790s it was not unusual for authors to change publishers, in seeking out advantages, Charlotte Smith switching between Cadell, Robinson, John Bell, and Sampson Low; Ann Radcliffe moving from Thomas Hookham (at the higher end of the circulating library trade) to publish The Mysteries of Udolpho with Robinson and The Italian (1797) with Cadell, the former advertised as comprising ‘four very large volumes’ and both set a premium price. Almost invariably it was such authors who managed to claim larger payments and whose works most regularly entered into subsequent editions." -- p. 401, ‘Ordering’ Novels
+
 <!-- ## April 17, 2017
 
 Just giving myself credit in beeminder for installing G++ as the next step toward compiling the code mom wrote so I can run it myself.-->
