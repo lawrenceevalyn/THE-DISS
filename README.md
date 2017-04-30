@@ -10,6 +10,12 @@
 
 # Research Log
 
+## April 29, 2017
+
+Picking up my MA research again has really re-energized my desire to work with a range of bibliographies for the decade -- it's a short enough period that I don't actually have to rely on the ESTC, and really I don't want the ESTC to take on too much authority/prominence
+
+Already have: ESTC, Ann Tracy, Frederick Frank. Should add: Garside bib of the novel, Franz Potter's bib of bluebooks. Should find: something for plays! something for poetry! something for pamphlets??!
+
 ## April 22, 2017
 
 Info on publishers, answering my earlier questions, from Garside!
