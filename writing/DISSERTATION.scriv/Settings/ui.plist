@@ -13,7 +13,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>15</integer>
+		<integer>32</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
@@ -34,6 +34,7 @@
 		<integer>116</integer>
 		<integer>1</integer>
 		<integer>55</integer>
+		<integer>54</integer>
 		<integer>52</integer>
 		<integer>60</integer>
 		<integer>6</integer>
@@ -52,8 +53,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {640, 400}}</string>
-		<string>{{0, 410}, {640, 307}}</string>
+		<string>{{0, 0}, {640, 219.5}}</string>
+		<string>{{0, 229.5}, {640, 487.5}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -72,7 +73,7 @@
 	<integer>0</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>123</integer>
+		<integer>54</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -101,7 +102,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>21</integer>
+		<integer>24</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -280,6 +281,30 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>54</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>124</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>54</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
@@ -298,7 +323,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>128 65 965 767 0 0 1440 877 </string>
+	<string>46 110 965 767 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
 		<integer>122</integer>

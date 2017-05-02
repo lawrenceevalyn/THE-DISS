@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-11 19:22:58 -0400" ModID="2028CEF8-CB59-4542-9F60-1FA197D0C1F4">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-05-02 16:16:19 -0400" ModID="2CA9C79F-0FB4-4AE6-AD0E-E4DFD5089AC8">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
             <Title>Draft</Title>
@@ -321,7 +321,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>305,0</TextSelection>
+                                        <TextSelection>205,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -456,16 +456,6 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="54" UUID="09D252D8-EC42-4112-90D3-D6DD72E9293D" Type="Text" Created="2016-11-30 15:46:38 -0500" Modified="2016-11-30 15:56:44 -0500">
-                            <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>700,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="57" UUID="BFB8748F-118A-4B56-ADBF-386E3DB1A43F" Type="Text" Created="2016-11-30 15:59:34 -0500" Modified="2016-11-30 15:59:58 -0500">
                             <Title>Drucker, Johanna. Graphesis: Visual Forms of Knowledge</Title>
                             <MetaData>
@@ -509,6 +499,28 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="54" UUID="09D252D8-EC42-4112-90D3-D6DD72E9293D" Type="Text" Created="2016-11-30 15:46:38 -0500" Modified="2016-11-30 15:56:44 -0500">
+                            <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>700,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="124" UUID="DA2F9035-5642-456C-8962-4D1117B35F64" Type="Text" Created="2017-05-02 16:15:23 -0400" Modified="2017-05-02 16:15:28 -0400">
+                                    <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13488,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem ID="56" UUID="FA929938-77C5-40BB-8750-7B76B7B773BB" Type="Text" Created="2016-11-30 15:58:05 -0500" Modified="2016-11-30 15:59:25 -0500">
                             <Title>Clery, E.J. The Rise of Supernatural Fiction 1762-1800</Title>
                             <MetaData>
@@ -1405,7 +1417,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-04-11 19:21:20 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-05-02 15:38:05 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
