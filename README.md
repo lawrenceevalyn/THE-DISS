@@ -10,6 +10,12 @@
 
 # Research Log
 
+## May 8, 2017
+
+Is the sentimental novel part of what I am trying to do here? Am I interested in the novel as a form at all? Why is everyone else so interested in the novel to the exclusion of other literary forms???
+
+Am I interested in the poetry, actually? How can I see which generic form dominates the decade?
+
 ## April 29, 2017
 
 Picking up my MA research again has really re-energized my desire to work with a range of bibliographies for the decade -- it's a short enough period that I don't actually have to rely on the ESTC, and really I don't want the ESTC to take on too much authority/prominence
