@@ -10,6 +10,12 @@
 
 # Research Log
 
+## May 11, 2017
+
+IS the sentimental novel part of what I am trying to do here?? Just had a great talk with Ashley about the development of the sentimental novel -- 1750s tied to religion, mostly men; 1770s still male and respectable and now emotion as its own moral code; 1790s develop it into revolutionary sentiment, becoming tied to women; by 1810 it's been subsumed into women's Gothic writing and lost its potential for respectability
+
+Narrative fragmentation and suspense typical of the sentimental novel is also hugely typical of the Gothic -- Vicar of Wakefield and Man of Feeling both cut away from dramatic moments, withhold information, intentionally sustain anxiety. The Gothic is a natural amplification! But instead of catharsis through tears, it... all gets resolved into rationality?
+
 ## May 8, 2017
 
 Is the sentimental novel part of what I am trying to do here? Am I interested in the novel as a form at all? Why is everyone else so interested in the novel to the exclusion of other literary forms???
