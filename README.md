@@ -10,6 +10,10 @@
 
 # Research Log
 
+## May 15, 2017
+
+Can I use some of the stuff I'm doing for Shakespeare for this dissertation?? Maybe the theatrical social network modelling? (How can I tell when two research ideas are part of the same.. idea?)
+
 ## May 11, 2017
 
 IS the sentimental novel part of what I am trying to do here?? Just had a great talk with Ashley about the development of the sentimental novel -- 1750s tied to religion, mostly men; 1770s still male and respectable and now emotion as its own moral code; 1790s develop it into revolutionary sentiment, becoming tied to women; by 1810 it's been subsumed into women's Gothic writing and lost its potential for respectability
