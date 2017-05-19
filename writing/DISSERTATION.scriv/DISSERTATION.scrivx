@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-05-02 16:16:19 -0400" ModID="2CA9C79F-0FB4-4AE6-AD0E-E4DFD5089AC8">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-05-18 23:47:41 -0400" ModID="4140F5E8-3762-408C-8DE9-1AE48199A88A">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>53</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-01-29 19:12:54 -0500">
                     <Title>Proposal</Title>
@@ -311,7 +314,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>342,0</TextSelection>
+                                        <TextSelection>190,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="123" UUID="7BB7AC8D-D27A-452F-B41F-8BE8E857FE63" Type="Text" Created="2017-04-10 23:46:49 -0400" Modified="2017-04-10 23:50:53 -0400">
@@ -348,6 +351,16 @@
                         </BinderItem>
                         <BinderItem ID="120" UUID="C12171F8-71A0-48D4-AE7D-6C1FC949E6E0" Type="Text" Created="2017-03-07 19:10:13 -0500" Modified="2017-03-09 00:02:36 -0500">
                             <Title>ECCO-TCP compared to ESTC</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="125" UUID="A4B23238-FC04-467A-A9B4-77AC1DD767FA" Type="Text" Created="2017-05-18 23:22:46 -0400" Modified="2017-05-18 23:22:59 -0400">
+                            <Title>bibliographies: Frank, Tracy, Garside, more?</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -476,6 +489,16 @@
                                 <TextSelection>303,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="126" UUID="F3C0382B-EA6D-4720-941A-73CDDCB868EE" Type="Text" Created="2017-05-18 23:35:23 -0400" Modified="2017-05-18 23:47:16 -0400">
+                            <Title>McLeod, Deborah Anne. The Minerva Press. Unpublished PhD dissertation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>72,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="67" UUID="37AAF393-6E30-4679-A4F1-117F9DF197D4" Type="Text" Created="2016-11-30 17:01:13 -0500" Modified="2016-11-30 17:01:23 -0500">
                             <Title>Worrall, David. Celebrity, Performance, Reception: British</Title>
                             <MetaData>
@@ -508,18 +531,6 @@
                             <TextSettings>
                                 <TextSelection>700,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem ID="124" UUID="DA2F9035-5642-456C-8962-4D1117B35F64" Type="Text" Created="2017-05-02 16:15:23 -0400" Modified="2017-05-02 16:15:28 -0400">
-                                    <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>13488,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                         <BinderItem ID="56" UUID="FA929938-77C5-40BB-8750-7B76B7B773BB" Type="Text" Created="2016-11-30 15:58:05 -0500" Modified="2016-11-30 15:59:25 -0500">
                             <Title>Clery, E.J. The Rise of Supernatural Fiction 1762-1800</Title>
@@ -645,8 +656,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="6" UUID="169AA481-9766-47BD-8B84-A22B0616421B" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
-                    <Title>Secondary Texts</Title>
+                <BinderItem ID="6" UUID="169AA481-9766-47BD-8B84-A22B0616421B" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2017-05-18 23:46:55 -0400">
+                    <Title>Secondary Texts - notes &amp; extracts</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -656,15 +667,25 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="7" UUID="9D8AD9D7-54FD-4A4F-A717-FB08D1CE838E" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
-                            <Title>Text 1</Title>
+                        <BinderItem ID="124" UUID="DA2F9035-5642-456C-8962-4D1117B35F64" Type="Text" Created="2017-05-02 16:15:23 -0400" Modified="2017-05-02 16:15:28 -0400">
+                            <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="7" UUID="9D8AD9D7-54FD-4A4F-A717-FB08D1CE838E" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2017-05-18 23:46:13 -0400">
+                            <Title>McLeod, The Minerva Press</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1214,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="17" UUID="3005AE41-E241-45A4-BDA5-AAB258B8121C" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
@@ -1417,7 +1438,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-05-02 15:38:05 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-05-18 23:19:25 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
