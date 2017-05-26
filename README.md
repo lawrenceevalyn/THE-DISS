@@ -10,6 +10,8 @@
 
 # Research Log
 
+<!-- Jotting this down for Beeminder reasons! Will do some reading soon! -->
+
 ## May 22, 2017
 
 I have a LOT of ideas about my research questions from talking with Jakob this weekend, and don't want to formally, though I hesitate to "publish" them even this much! I have two thoughts which are in tension with each other:
