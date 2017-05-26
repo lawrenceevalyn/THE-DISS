@@ -10,7 +10,9 @@
 
 # Research Log
 
-<!-- Jotting this down for Beeminder reasons! Will do some reading soon! -->
+## May 26, 2017
+
+As I read McLeod's dissertation, I am almost overwhelmed by how much work she did and how much she is investigating exactly the kinds of things that interest me -- I keep meaning to look quickly through it for the key points, but I get sucked in.
 
 ## May 22, 2017
 
