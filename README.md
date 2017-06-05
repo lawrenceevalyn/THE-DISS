@@ -10,6 +10,17 @@
 
 # Research Log
 
+## June 5 2017
+
+I will be able to do topic modelling on my ECCO-TCP corpus at DHSI!!
+
+"Topics" I'd like to try to find:
+- poetry/prose/drama
+- Gothic / non-Gothic
+- men / women
+
+All of those would be "use some training texts -- see if they're accurate on the main corpus" uses of topic modelling; I should try to find my training texts in advance...
+
 ## May 26, 2017
 
 As I read McLeod's dissertation, I am almost overwhelmed by how much work she did and how much she is investigating exactly the kinds of things that interest me -- I keep meaning to look quickly through it for the key points, but I get sucked in.
