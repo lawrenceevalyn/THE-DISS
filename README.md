@@ -10,6 +10,43 @@
 
 # Research Log
 
+## June 6 2017
+
+Tufte class was great for doing lots of thinking!!
+
+Thoughts about design:
+* keep underlying structures simple -- what will be rich and luscious is your **content**
+* very successful data presentation in news story just... says numbers, when they are needed. not encoded into charts, corralled into special number boxes -- just stated directly.
+* a key is a sign you designed something wrong: label things are directly as possible, especially for colour coding
+* information at exact point of need
+* your comparison should be: put your design in one window, and google maps into a window next to it. once you're done weeping, ask, "why can't I do this?"
+* *total indifference to mode of production* is critical. (oh god, I'm going to lay out my whole diss in indesign, aren't I)
+* sparkline graphics integrate image and word, have incredible resolution
+* use Gill Sans (or maybe Trebuchet) for graphics -- great density
+
+Six principles of design:
+1. show comparisons, contrasts, differences
+2. show causality, mechanism, explanation, systemtic structure (intervention relies on manipulable causality -- can't *do* anything with the information without causality)
+3. show multiple variables (3 or more) -- the world is multivariate
+4. *completely integrate* words, numbers, maps, graphics, etc, etc
+5. documentation must thorouhgly describe evidence and its sources, provide complete measurement scales
+6. presentations succeed based on their content. for better presentations, get better content.
+
+Thoughts about my research / dissertation:
+* "in studying human behaviour, most 'big data' us repurposed data -- that's not how science works" -- don't repurpose data, collect it, with a focus and for a purpose
+* **can** I identify / manipulate cause and effect?
+    * I guess my MA question is "does gender cause different kinds of writing"?
+* I'm trying to look at **books** -- can I get all the book dots moving around? to show more of my data, more granularly?
+    * HOW do I design them?? by hand, in indesign and illustrator???
+* My dissertation is to tackled 1789-99. It doesn't matter where my information is FROM, don't do a chapter on ESTC and a chapter on ECCO-TCP, etc!! *See what's there*, and **connect** them in an enormous, rich, multivariate visualization
+    * (I will have such a fight with the department over this...)
+    * I want to do what Minard did. It would be much harder than writing a lot of words, and much more useful.
+* Research Q: *what is the impact of the French Revolution in British literature?* (**lots** of detail to dig into here)
+* Research Q: Who is reading what in Britain?
+* Tufte **also** thinks 3D is the future... I want to pull the Corvey PDFs into a Unity environment, implement the book properly! I could probably do this myself in a year or two.... **or** I could print out all the books, which would be less share-able but much better for me.
+* I need a better data organization process. Maybe, a central location for each little bit, with clear descriptions of what's in there and how it got there? and then a big pile of individual bits of ideas for drafting the diss in... charts-to-self and conclusions-to-self also.
+* Research project: systematic meta-analysis of The Literature (and especially what it says about various forms of literary production), in spreadsheet form of coursse
+
 ## June 5 2017
 
 I will be able to do topic modelling on my ECCO-TCP corpus at DHSI!!
