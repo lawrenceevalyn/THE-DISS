@@ -91,3 +91,24 @@ What's powering all of these different displays is the same data that came out o
 **How many documents is suitable?** ... Once you clear a certain threshold, more texts will allow more fine-grained examination of more topics. (If you do a lot of topics on a more homogenous corpus, the topics are likely to be finer-grained, e.g. archive of PMLA vs archive of just a Victorian studies journal) Determined experimentally! Via guess and check.
 
 Some ways to determine how many topics you can get, some rules of thumb... 100 or more documents at least, of paragraph-to-article length, relatively similar in length. Too short: too little data. Longer than an article: too many different things being talked about for the words that cohere together to find enough signal.
+
+### Lunch conversations
+
+Hung out with Caroline and a friend of hers - mostly talked about the job market, etc, but also touched upon The Field
+
+Something interesting about the forgotten peers of now-famous works (e.g., Ozymandias and Ozymandias) - can I spot the "adjacent possible" which enables a set of similar works? can I draw out why one work ends up being selected for canonization? (e.g. Sherlock Holmes)
+
+### Getting Set Up
+
+Need to have R and RStudio
+
+Create a new project > Version control > Check out a project > Git > paste repository URL
+
+In TopicModelingRTools, run these two commands to make sure all the necessary bits are installed and running properly:
+source("functions/lda.R")
+source("functions/import.R")
+
+To fix problems with Java, go here: http://charlotte-ngs.github.io/2016/01/MacOsXrJavaProblem.html
+
+in R, run this, making sure to have the right version number in the URL:
+dyn.load('/Library/Java/JavaVirtualMachines/jdk1.8.0_**131**.jdk/Contents/Home/jre/lib/server/libjvm.dylib')
