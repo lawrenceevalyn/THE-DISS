@@ -112,3 +112,33 @@ To fix problems with Java, go here: http://charlotte-ngs.github.io/2016/01/MacOs
 
 in R, run this, making sure to have the right version number in the URL:
 dyn.load('/Library/Java/JavaVirtualMachines/jdk1.8.0_**131**.jdk/Contents/Home/jre/lib/server/libjvm.dylib')
+
+the code being used is adapted from Matt Jockers' book -- http://www.matthewjockers.net/books/
+
+Trying to understand how I will be able to do my own topic modelling going forward... do I need to write a .R program that will call mallet and run my LDA? will I be able to, in this R program, easily use structured learning instead?
+
+**LL/token** number tells you how good your model is -- closer to zero is better. e.g., 9.4 with 50 topics and 8.2 with 100 topics: 100-topic model is probably better than 50-topic model. But use with caution! Better metric is actually looking at yout output. If you're getting to 500 runs and you're not seeing improvement in LL/token, no need to run 1000 times -- can stop sooner.
+
+LL is the model's log-likelihood divided by the total number of tokens, this is a measure of how likely the data are given the model. Increasing values mean the model is improving. ([Statistics lesson on likelihood and log-likelihood](https://onlinecourses.science.psu.edu/stat504/node/27))
+
+Got example_1.R running! Got 50 word clouds of topics! They're so pretty! Based on AP news articles -- remarkably coherent topics produced
+
+```> topic.23 <- model$getTopic(23)
+```
+get set up to look deeply at a particular topic
+
+```> topic.23$getWords(10)
+```
+gets the top 10 words predictive of that topic
+
+```> topic.23$getDocs(10)
+```
+gets the documents with the highest proportions of that topic
+
+```> top.docs <- topic.23$getDocs(10)
+```
+make a list of top 10 documents for a topic
+
+```> model$getDocument(names(top.docs[4]))
+```
+gets 4th article in top 10 article list, displays the document itself
