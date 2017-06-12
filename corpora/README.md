@@ -7,6 +7,7 @@
 ### ECCO-TCP plain text files
 **Number of texts:** 2,188
 **Years covered:** 1701 - 1800
+466 texts from 1789-99
 
 ### Chawton House novels
 **Number of texts:** 46
