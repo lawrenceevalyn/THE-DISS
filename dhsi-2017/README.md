@@ -2,7 +2,7 @@
 ### with Neal Audenaert
 <!-- neal.audenaerte@gmail.edu -->
 
-## June 12
+## June 12 2017
 
 Relieved to hear that Neal also comes to topic modelling from a fairly skeptical perspective -- but lately people are using it in pretty sophisticated, less black-box-y ways
 
@@ -123,22 +123,24 @@ LL is the model's log-likelihood divided by the total number of tokens, this is 
 
 Got example_1.R running! Got 50 word clouds of topics! They're so pretty! Based on AP news articles -- remarkably coherent topics produced
 
-```> topic.23 <- model$getTopic(23)
-```
+```> topic.23 <- model$getTopic(23)```
 get set up to look deeply at a particular topic
 
-```> topic.23$getWords(10)
-```
+```> topic.23$getWords(10)```
 gets the top 10 words predictive of that topic
+```> topic.23$getDocs(10)```
 
-```> topic.23$getDocs(10)
-```
 gets the documents with the highest proportions of that topic
+```> top.docs <- topic.23$getDocs(10)```
 
-```> top.docs <- topic.23$getDocs(10)
-```
 make a list of top 10 documents for a topic
+```> model$getDocument(names(top.docs[4]))```
 
-```> model$getDocument(names(top.docs[4]))
-```
 gets 4th article in top 10 article list, displays the document itself
+
+### Wrap-up
+
+We've said hello to each other and to R and to topic modelling! Tomorrow we will do a deep dive into 
+
+
+## June 13 2017
