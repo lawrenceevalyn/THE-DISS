@@ -2,7 +2,7 @@
 ### with Neal Audenaert
 <!-- neal.audenaerte@gmail.edu -->
 
-## June 12 2017
+# June 12 2017
 
 Relieved to hear that Neal also comes to topic modelling from a fairly skeptical perspective -- but lately people are using it in pretty sophisticated, less black-box-y ways
 
@@ -18,7 +18,7 @@ Biggest challenge is analysis of results
 
 The key to collaborating is to know enough, but not to try to know everything -- the best work requires more expertise than one person can have
 
-### Topic Modelling! What it is!
+## Topic Modelling! What it is!
 
 Given a set of documents; we assume that there is some internal organization (topics) that we want to model computationally
 
@@ -56,7 +56,7 @@ LDA is the first and most widely used technique; unsupervised clustering of word
 
 (Alternative would be a supervised learning model where you say "here are my categories, please sort things into categories" -- i.e., the things I am accustomed to.)
 
-#### How Do?
+### How Do?
 * First thing we are going to do: make a bunch of assumptions about the world!
 In a fairly rigorous manner, that we can codify statistically
 
@@ -70,7 +70,7 @@ In a fairly rigorous manner, that we can codify statistically
 
 * What we really want to do is explore and understand those topics, and hopefully search for new and meaningful relationships in our dataset
 
-### Things that have been done with topic modelling
+## Things that have been done with topic modelling
 
 Word clouds (weighted by probability) more telling than just lists of each topic's words -- Some topics might have one or two words that dominate the topic, probability-wise, and others have more even distribution: when we talk about brand, we talk about BRAND, but when we talk about justice we talk about a lot of related concepts also
 
@@ -86,19 +86,19 @@ If I'm talking about evolutionary biology, how likely overall is it that I will 
 
 What's powering all of these different displays is the same data that came out of the same inference data, but doing different things with the final exploration set
 
-#### Q & A
+### Q & A
 
 **How many documents is suitable?** ... Once you clear a certain threshold, more texts will allow more fine-grained examination of more topics. (If you do a lot of topics on a more homogenous corpus, the topics are likely to be finer-grained, e.g. archive of PMLA vs archive of just a Victorian studies journal) Determined experimentally! Via guess and check.
 
 Some ways to determine how many topics you can get, some rules of thumb... 100 or more documents at least, of paragraph-to-article length, relatively similar in length. Too short: too little data. Longer than an article: too many different things being talked about for the words that cohere together to find enough signal.
 
-### Lunch conversations
+## Lunch conversations
 
 Hung out with Caroline and a friend of hers - mostly talked about the job market, etc, but also touched upon The Field
 
 Something interesting about the forgotten peers of now-famous works (e.g., Ozymandias and Ozymandias) - can I spot the "adjacent possible" which enables a set of similar works? can I draw out why one work ends up being selected for canonization? (e.g. Sherlock Holmes)
 
-### Getting Set Up
+## Getting Set Up
 
 Need to have R and RStudio
 
@@ -138,16 +138,16 @@ make a list of top 10 documents for a topic
 ```> model$getDocument(names(top.docs[4]))```
 gets 4th article in top 10 article list, displays the document itself
 
-### Wrap-up
+## Wrap-up
 
 We've said hello to each other and to R and to topic modelling! Tomorrow we will do a deep dive into 
 
 
-## June 13 2017
+# June 13 2017
 
-### The statistical model underlying topic modeling!
+## The statistical model underlying topic modeling!
 
-#### Bayesian statistics review
+### Bayesian statistics review
 
 <!-- I can tell that he really understands what he is talking about, but I am not sure he is explaining it very helpfully... so much of "we all know" and "that makes perfect sense" -->
 
@@ -195,7 +195,7 @@ the false positive rate of the test is .008 ```p(Cp|T+)```
 
 A naive Bayesian probability; conditional probabilities are the fundamental structure of Bayesian statistics
 
-#### Time for cartoon models of LDA: The parable of the factory 
+### Time for cartoon models of LDA: The parable of the factory 
 
 Document factory produces some well-defined set of documents (19th
 C. novels, Victorian poetry, AP articles, letters of Margaret Sanger)
@@ -229,9 +229,9 @@ The Parable Explained
 * Choice of a bucket yields a conditional probability -- ```p(d|b6)``` - what's the probability that I got this bucket given that I went to bucket 6?
 * Selection of multiple buckets yields a mixture model  -- this is Blei's insight that documents talk about multiple topics
 
-#### Formalizing our statistical model
+### Formalizing our statistical model
 
-[The powerpoint is extremely useful.]()
+[The powerpoint is extremely useful.](https://github.com/lawrenceevalyn/THE-DISS/blob/master/dhsi-2017/LDA-equation-explanation.pdf)
 
 Two ways to do statistics: evidentialist vs Bayesian. Evidentalist: descriptive, counting all the things that happen. Bayesian: trying to encode belief and uncertainty. Today we're doing Bayesian, but for the most part it doesn't matter
 
@@ -276,3 +276,41 @@ For each document d, first, I pick some topics (θd) based on another Dirichlet 
 For each word in that document, choose a topic from θd, then choose a word from that topic's word distribution
 
 (The big boxy diagram that we are working our way through is called plate notation)
+
+The token that appears in a document is, in that moment, representing only one topic; each word in the vocabulary technically pertains to all topics but will only be high-frequency for a very few of them
+
+One reason for variation when running multiple analyses: it changes its mind about what topic to assign a token to?
+
+βk and θd are (essentially?) matrices.
+
+βk: Our topic matrix! Each row is a topic, each column is a word from our vocabulary:
+![screenshot of topic model](images/topic-model.png)
+
+θd: Our document matrix! Each row is a document, each column is a topic:
+![screenshot of topic](images/topic-docs.png)
+
+How topics pick what words they have: **Expectation maximization:** Say we look at a distribution of datapoints, and we can see three Gaussian functions (clusters of datasets with mean x and y and standard deviation) -- tell the model that there are three topics, and it will randomly pick three starting points. Label the datapoints based on which of those three random points they're closest to. Move the three random points to the center of the datapoints in their "zone". Now forget the zones, and draw new zones based on the new three less-random-now points. Repeat, and the three points will work their way to the center of the three clusters! (basically a generalization of Nearest Neighbour to fit a probability distribution)
+
+**Is there a way to determine in advance how many topics to look for??????**
+
+I do feel a lot better about the process of iterating "as many times as seems sensible" -- the goal is to iterate *enough* that things can converge, and past that nothing really interesting is going to happen.
+
+Number-to-topic assignment is arbitrary but unless something is very wrong there will always be, e.g., an "art and wine" topic from AP news articles
+
+It's a good thing that results are slightly different between runs -- we're making statistical inferences here, it's valuable to know what things re-occur
+
+Topic models provide a rough sense of things, a feel -- they give a lot of numbers, but these numbers are not actually anywhere near as precise as they feel. (Trying to be vaguely right rather than precisely wrong -- Tufte used that quote too) -- you can't make fine-grained arguments about, e.g., one word being more prominent in a topic than another;
+
+### What Do?
+
+**Topics:** what words are in the topic? what's the shape of the distribution? what documents are most associated with this topic (i.e., very narrowly focused documents that are only about that one topic)? What other topic is most similar to this topic, based on word overlap?
+
+**Documents:** what topics are in it? what's the distribution of those topics?
+
+**Corpus:** what topics show up most often? what topics are most similar to other topics (based on overlap of words)? what topics tend to appear together in documents?
+
+If we have metadata, like publication date, can look for temporal relationships. Can collapse matrices to group documents based on journal publishing, author, author gender, etc. Can also collapse topics to say "these are the same topic"
+
+(easiest way to do it is to have a spreadsheet with document filenames plus all the metadata, sort by filenames, copy-paste into spreadsheet of R results)
+
+(go to the D3 class to learn how to visualize all this stuff!)
