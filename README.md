@@ -10,6 +10,10 @@
 
 # Research Log
 
+## June 13 2017
+
+OMG OMG OMG, topic-model titles of ESTC and then use those topics on the ECCO-TCP documents!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## June 6 2017
 
 Tufte class was great for doing lots of thinking!!

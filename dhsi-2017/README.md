@@ -314,3 +314,69 @@ If we have metadata, like publication date, can look for temporal relationships.
 (easiest way to do it is to have a spreadsheet with document filenames plus all the metadata, sort by filenames, copy-paste into spreadsheet of R results)
 
 (go to the D3 class to learn how to visualize all this stuff!)
+
+## Topic Modeling Projects
+
+**Mining the Dispatch** - http://dsl.richmond.edu/dispatch/
+* Almost like a finding aid - spotting which articles are fugitive slave ads, etc. Inviting analysis more than doing analysis?
+* The "humour" topic predictive words don't look like "humour" off the bat -- they look random -- but the exemplary articles are definitely all jokes. Can't just look at predictive words to determine topic -- have to took at exemplary articles too. (He put a lot of work into interpreting the topics)
+* the "so what" argument is that, e.g., patriotic poetry and vitriolic anti-North diatribes, despite using very different rhetoric, are in fact two kinds of the same coin / serving the same social function because they follow the same temporal patterns, co-occurring and spiking with key milestones in the war -- a literary/historical/interpretive argument bolstered by specific topic data
+
+**Martha Ballard's Diary** - http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/
+* It's nice to have models confirm things you already know... turns out you talk more about cold weather in the winter!
+* this is a side project by a PhD student
+* impressive how clear, cohesive, and useful the topics are based on just one book with entries that are barely a few sentences long -- I guess it helps that there are nearly 10,000 entries?
+* well-suited to the method because it's so temporal -- it would be interesting to put several diaries together!
+    * interesting to do book reviews of the 18thC...?
+    * could I topic-model book titles????
+
+**Topic Models of PMLA** - http://agoldst.github.io/dfr-browser/demo/ https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/
+* created in response to / to test a very specific expected narrative/story about what the history of the field has been; need to have that kind of framework in mind in order to know what the topic model is telling you
+
+Topic modelling defamiliarizes the text and forces you to look at it again, as a virtue / use of the method.
+
+**Signs@40** - http://signsat40.signsjournal.org/
+* when models fail, you'll either get topics that join or topics that split -- so maybe sexual harrassment & zines are in the same topic because that's the wrong name for the thing that connects them, or maybe they needed more topics; one way to test would be to re-run the model a few times and see whether they always go together or sometimes lump with other things
+* built with a tool that Goldstone has made open-source -- **I should DEFINITELY use this framework if I can**
+* "Africa" topic has a big spike when they did a special issue - http://signsat40.signsjournal.org/topic-model/#/topic/46/1992 - but then that spike lingers, with more engagement the next year, and then trailing off over the next few years -- suggests that 
+
+**Networked Corpus** - http://www.networkedcorpus.com/
+* 18thC texts so I should go try to find out more -- but the online project is mostly moved to legit publications now
+
+**Topic Modeling Modernism** - http://jgoodwin.net/mm-browser/
+* a little alarming that everybody's work suddenly looks like Goldstone's
+
+**Words Alone: Dismantling Topic Models in the Humanities** - http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/
+* topic modeling astonishingly good at ship logs finding routes, actually
+* "To disentangle different sorts of shipping patterns, the simplest clustering algorithm of all, k-means, does an excellent job pulling apart different sorts of voyages" -- **make more topics than you need, then use k-means to cluster/reduce?**
+
+**Topic Modeling and Figurative Language** - http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
+* “death, life, heart, dead, long, world” is not a topic; "African-American elegies" is a topic, which is manifested by the statistical correlation of those words
+
+Themes in 19th-Century Lit - http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1105&context=englishfacpubs
+
+Some Assembly Required - http://www.lisarhody.com/some-assembly-required/  http://www.lisarhody.com/the-story-of-stopwords
+
+## Visualization Tools
+
+**InPhO Topic Explorer** - http://inphodata.cogs.indiana.edu:16040/?doc=knowledge-analysis
+* useful because it's SO interactive -- it's hard to get a sense of anything as a static list
+* available open-source so I can use it too! https://github.com/inpho/topic-explorer/
+
+**DFR Topic Browser** - http://agoldst.github.io/dfr-browser/
+* this is the Goldstein one we've seen everywhere
+
+**LDAViz** - https://github.com/cpsievert/LDAvis
+* relevance(term w | topic t) = λ * p(w | t) + (1 - λ) * p(w | t)/p(w)
+* also usefully VERY interactive -- sliding the relevance metric really helps clarify what the topic actually is, since both unique words and disproportionate words are relevant to inferring underlying topic
+* chart of PC1/PC2 uses principal component analysis to convert multidimensional terms/documents matrix ... looks at highly-dimensional data, which is nonetheless mostly structured along an axis/partiular space; PCA figures out the best axis along which to flattet display to show as much information as possible. (classic example is drawing a banana: one cross-section could be a circle, another a column, but we always draw it from the angle that shows its curve) --  condense thousands of axes to two, and then plot those two principal components, which preserves as much information about relative distance as possible
+
+jsLDA - http://mimno.infosci.cornell.edu/jsLDA/
+
+## Wrap-up
+
+OMG OMG OMG, topic-model titles of ESTC and then use those topics on the ECCO-TCP documents!!!!!!!!!!!!!!!!!!!!!!!!!
+
+A way to look at two groups within a corpus on the same metric?
+* one way to analyze: throw it all in one bucket and analyze at once, see, e.g., these topics show up more in group 1 and those more in group 2
+* another way: to run two separate topic models, and to interpret the non-corresponce between them
