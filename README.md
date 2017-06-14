@@ -10,11 +10,13 @@
 
 # Research Log
 
-## June 13 2017
+## June 14, 2017
+
+## June 13, 2017
 
 OMG OMG OMG, topic-model titles of ESTC and then use those topics on the ECCO-TCP documents!!!!!!!!!!!!!!!!!!!!!!!!!
 
-## June 6 2017
+## June 6, 2017
 
 Tufte class was great for doing lots of thinking!!
 
@@ -51,7 +53,7 @@ Thoughts about my research / dissertation:
 * I need a better data organization process. Maybe, a central location for each little bit, with clear descriptions of what's in there and how it got there? and then a big pile of individual bits of ideas for drafting the diss in... charts-to-self and conclusions-to-self also.
 * Research project: systematic meta-analysis of The Literature (and especially what it says about various forms of literary production), in spreadsheet form of coursse
 
-## June 5 2017
+## June 5, 2017
 
 I will be able to do topic modelling on my ECCO-TCP corpus at DHSI!!
 
