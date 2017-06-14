@@ -12,6 +12,10 @@
 
 ## June 14, 2017
 
+Topic modelling works much better on titles than it had any right to, really!
+
+(make sure to describe contents of figure folders, how they were generated, etc)
+
 ## June 13, 2017
 
 OMG OMG OMG, topic-model titles of ESTC and then use those topics on the ECCO-TCP documents!!!!!!!!!!!!!!!!!!!!!!!!!
