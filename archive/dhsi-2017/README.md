@@ -383,5 +383,26 @@ A way to look at two groups within a corpus on the same metric?
 
 # June 15, 2017
 
-## Getting used to plate notation
+### Getting used to plate notation
 
+Thing is a circle is a parameter; when one paramater depends/is conditioned on another / when we calculate probability of one given the other, arrow between then goes from condition to original parameter
+
+If there are a lot of related parameters, rather than drawing a whole bunch of circles we put a box around it with its own label for the number of times that the parameter appears
+
+### Reflecting on the model
+
+Could build into the model the idea that the words used for a given topic change over time... could also build into it the relative use of topic over time? (existing work does that analysis after the LDA model, but can get extra information by building it in)
+
+Two ways of handling variation in spelling: 1, well, the topic model should figure out what goes with what (salary, salaries); 2, can normalize source texts (stemming, spelling)
+
+## Working with CSV
+
+Find CSV in data directory, click in R's file management and say "import dataset"
+
+```
+library(readr)
+estc_1789_1799_enk <- read_csv("~/Desktop/THE-DISS/corpora/estc/estc_1789-1799_enk.csv")
+View(estc_1789_1799_enk)
+```
+
+**I could (and perhaps should?) write one R program which will go through both my corpora, save wordclouds and topics etc in the desirable locations**

@@ -10,6 +10,10 @@
 
 # Research Log
 
+## June 15, 2017
+
+I could (and perhaps should?) write one R program which will go through both my corpora, save wordclouds and topics etc in the desirable locations
+
 ## June 14, 2017
 
 Topic modelling works much better on titles than it had any right to, really!
