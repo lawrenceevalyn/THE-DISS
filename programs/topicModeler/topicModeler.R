@@ -11,9 +11,10 @@
 # To run a few lines: select them and click "Run"
 # To run the whole program: click "Source" (even though this makes no sense)
 
-# Run these first just to be sure everything is working
+# import functions
 source("functions/lda.R")
 source("functions/import.R")
+# Run these first just to be sure everything is working
 # If it can't find files, make sure directory structure makes sense
 # from the POV of the .Rproj file (NOT the POV of topicModeler.R)
 

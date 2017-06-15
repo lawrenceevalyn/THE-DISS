@@ -24,12 +24,12 @@ ecco-docs <- loadDocuments(data.dir);
 # do some topic modeling!
 
 # 1. train a document model on ESTC with specified # of topics
-model <- trainSimpleLDAModel(estc-docs, 50, stoplist=stoplist)
+estc-model <- trainSimpleLDAModel(estc-docs, 50, stoplist=stoplist)
 
 # 2. output ESTC topics, doc topic counts, and wordclouds
 # print the resulting topics as wordclouds for easy visualization
 print("printing topic word clouds")
-plotTopicWordcloud(model, verbose=T)
+plotTopicWordcloud(estc-model, prefix="estc-topic-", verbose=T)
 
 # 3. run topics over ECCO
 
