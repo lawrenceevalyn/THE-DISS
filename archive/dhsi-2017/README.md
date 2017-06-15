@@ -406,3 +406,74 @@ View(estc_1789_1799_enk)
 ```
 
 **I could (and perhaps should?) write one R program which will go through both my corpora, save wordclouds and topics etc in the desirable locations**
+
+## To get data out of R:
+
+```View(model$topics)
+write.table(model$topics, file="FILENAME.csv", sep=",", row.names=T)```
+
+```View(model$docAssignments)
+write.table(model$docAssignments, file="FILENAME.csv", sep=",", row.names=T)```
+
+```plotTopicWordcloud(model)```
+
+## Ongoing refinements to topic modelling
+
+Building probabilities into the model itself, finding related topics (?), correlations between topics (I zoned out during this part which is a shame)
+
+Three ways to look at time in relation to topics:
+
+1. LDA: same topics all the time, which look the same
+
+2. **Dynamic topic models** (Blei): LDA assumes that order of documents doesn't matter; not appropriate sequential corpora (e.g., that span hundreds of years). Further, we may want to track how language changes over time. Dynamic topic models let the topics drift in a sequence.
+* divide corpus into buckets, with new sets of topics for each bucket
+* topics have dependencies on each other -- second decade conditioned on first decade so it should look like that topic but change some words
+* does NOT allow new topics to emerge -- only allows changes in words FOR each topic
+* VERY compelling when it comes to the topic for, essentially, "science devices" -- at first, electric, machine, power, engine, steam, two, machines, iron, battery, wire --> devices, device, materials, current, gate, high, light, silicon, material, technology
+* but sometimes topics do go away (published scientific papers rarely discuss alchemy!)
+
+3. Could also make *document's selection of topics* be dependent on time (rather than topic's selection of words), so words-in-topics is fixed but topics-being-expressed can be more variable -- show drop-off of alchemy, invention of computer science
+
+Team up with someone in CS to make topic modelling more chronologically sensitive -- useful somehow for the uses of shakespeare??
+
+**Measuring scholarly impact** could be adapted to find literary impact / canonical works???? THIS LOOKS REALLY COOL -- and have something that mom can do
+* We built on the dynamic topic model to measure scholarly impact with sequences of text.
+*  Influential articles reflect future changes in language use.
+* The “influence” of an article is a latent variable.
+* Influential articles affect the drift of the topics that they discuss.
+* The posterior gives a retrospective estimate of influential articles.
+
+### Supervised Topic Models
+
+**Supervised LDA** are topic models of documents and responses. They are fit to find topics predictive of the response.
+* useful when the response is something like "this movie review is 0 stars, this movie review is 5 stars" -- but if the "response" is, e.g., author gender, it might find topics indicative of difference whether they're there or not -- bakes in the binary, NOT a way to test it
+
+**Relational topic models**: Many data sets contain connected observations (Citation networks of documents, Hyperlinked networks of web-pages, Friend-connected social network profiles)
+*Research has focused on finding communities and patterns in the link-structure of these networks. But this ignores content.
+* We adapted sLDA to pairwise response variables. This leads to a model of content and connection.
+* Relational topic models find related hidden structure in both types of data.
+* Adapt fitting algorithm for sLDA with binary GLM response
+* relational topic models allow predictions about new and unlinked data.
+* These predictions are out of reach for traditional network models.
+
+(My work doesn't have any explicit links between documents, so relational topic models aren't useful to me)
+
+### Topic Models for Recommendation
+
+This is just... my mom's work! This is what she does. Alas that I have no use for it? Unless I wanted to make a "choose-your-own-syllabus" game
+
+### What Blei sees are open next steps
+New applications—
+• Syntactic topic models
+• Topic models on images
+• Topic models on social network data
+• Topic models on music data
+• Topic models for recommendation systems
+Testing and relaxing assumptions— • Spike and slab priors
+• Models of word contagion
+• N-gram topic models
+
+
+## Figuring out how many topics to have
+
+**Hierarchical Dirichlet Process**: used to determine the number of topics that you have; creates new topics as it gets new evidence -- creates *statistically* optimal number of topics; not sure if it's a human-judgment good number of topics
