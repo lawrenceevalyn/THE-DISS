@@ -1,24 +1,16 @@
-# set things up
-
-# make listdir ignore .DS_store (and other hidden files)
-def listdir_nohidden(path):
-    for f in os.listdir(path):
-        if not f.startswith('.'):
-            yield f
+## set things up
 
 # initate variables
-directory = "DIRECTORYNAME"
+sourcedirectory = "../corpora/ecco/ecco-tcp-plaintext-corpus"
+targetdirectory = "../corpora/ecco-1789-99/ecco-tcp-1789-99-corpus"
+sourcelist = "ecco-tcp-1789-99-names.txt"
 
 
+## run a program
 
-# for each file in the full ecco directory,
-for filename in listdir_nohidden("./" + directory):
-
-    # define the path to this file
-    path = "./" + directory + "/" + filename
-
-# compare its filename to the list of names in ecco-tcp-1789-99.txt
-    # if the name appears anywhere on the list,
-        # copy the file to the ecco-1789-99 directory
-    # else
-        # pass
+# for each title in the list of titles
+    # if a file with that filename exists,
+         print "found %s" $ filename
+        # copy it to the new directory
+     else
+         pass

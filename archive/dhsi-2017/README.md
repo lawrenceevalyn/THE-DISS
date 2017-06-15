@@ -380,3 +380,8 @@ OMG OMG OMG, topic-model titles of ESTC and then use those topics on the ECCO-TC
 A way to look at two groups within a corpus on the same metric?
 * one way to analyze: throw it all in one bucket and analyze at once, see, e.g., these topics show up more in group 1 and those more in group 2
 * another way: to run two separate topic models, and to interpret the non-corresponce between them
+
+# June 15, 2017
+
+## Getting used to plate notation
+
