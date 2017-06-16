@@ -405,6 +405,12 @@ estc_1789_1799_enk <- read_csv("~/Desktop/THE-DISS/corpora/estc/estc_1789-1799_e
 View(estc_1789_1799_enk)
 ```
 
+Need to have an "id" column and a "text" column
+
+Can see what the columns are currently named: ```colnames(estc_1789_1799_enk)```
+
+Can rename column just in Rstudio instead of in csv: ```colnames(estc_1789_1799_enk)[2] <- id```
+
 **I could (and perhaps should?) write one R program which will go through both my corpora, save wordclouds and topics etc in the desirable locations**
 
 ## To get data out of R:
@@ -477,3 +483,19 @@ Testing and relaxing assumptions— • Spike and slab priors
 ## Figuring out how many topics to have
 
 **Hierarchical Dirichlet Process**: used to determine the number of topics that you have; creates new topics as it gets new evidence -- creates *statistically* optimal number of topics; not sure if it's a human-judgment good number of topics
+
+## How I Got A Visualization To Work
+
+First, create a topic model called "model" (via any method you prefer)
+
+```install.packages("LDAvis")```
+
+```library(LDAvis)```
+
+```help(createJSON, package = "LDAvis")``` - to see what everything needs
+
+```doc.lengths <- sapply(model$documents$text, nchar)``` -  the only variable you need to create in advance
+
+```json <- createJSON(phi = model$topics, theta = model$docAssignments, doc.length = doc.lengths, vocab = model$vocabulary, term.frequency = model$wordFreq$term.freq, R = 30, lambda.step = 0.01, mds.method = jsPCA, plot.opts = list(xlab ="PC1", ylab = "PC2"))``` - this actually creates the JSON file, and will take a while to run
+
+```serVis(json)``` - this launches the visualization in a browser!
