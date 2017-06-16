@@ -501,3 +501,11 @@ First, create a topic model called "model" (via any method you prefer)
 `json <- createJSON(phi = model$topics, theta = model$docAssignments, doc.length = doc.lengths, vocab = model$vocabulary, term.frequency = model$wordFreq$term.freq, R = 30, lambda.step = 0.01, mds.method = jsPCA, plot.opts = list(xlab ="PC1", ylab = "PC2"))` - this actually creates the JSON file, and will take a while to run
 
 `serVis(json)` - this launches the visualization in a browser!
+
+# June 16, 2017
+
+## Testing topic models
+
+One good (but time/resource-intensive) way to check the validity of a model is to do "intrusion testing": add a random word to a topic, a random document to a topic, and ask people to spot which one doesn't belong
+
+### What are some BAD topic models?
