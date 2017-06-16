@@ -105,13 +105,14 @@ Need to have R and RStudio
 Create a new project > Version control > Check out a project > Git > paste repository URL
 
 In TopicModelingRTools, run these two commands to make sure all the necessary bits are installed and running properly:
-source("functions/lda.R")
+```source("functions/lda.R")
 source("functions/import.R")
+```
 
 To fix problems with Java, go here: http://charlotte-ngs.github.io/2016/01/MacOsXrJavaProblem.html
 
 in R, run this, making sure to have the right version number in the URL:
-dyn.load('/Library/Java/JavaVirtualMachines/jdk1.8.0_**131**.jdk/Contents/Home/jre/lib/server/libjvm.dylib')
+`dyn.load('/Library/Java/JavaVirtualMachines/jdk1.8.0_**131**.jdk/Contents/Home/jre/lib/server/libjvm.dylib')`
 
 the code being used is adapted from Matt Jockers' book -- http://www.matthewjockers.net/books/
 
@@ -415,15 +416,14 @@ Can rename column just in Rstudio instead of in csv: ```colnames(estc_1789_1799_
 
 ## To get data out of R:
 
-```View(model$topics)
-write.table(model$topics, file="FILENAME.csv", sep=",", row.names=T)
-```
+Can use `View(model$topics)` or `View(model$docAssignments)` (note capital V) to see matrix of numbers in Rstudio
 
-```View(model$docAssignments)
-write.table(model$docAssignments, file="FILENAME.csv", sep=",", row.names=T)
-```
+`write.table(model$topics, file="FILENAME.csv", sep=",", row.names=T)` - to save words-in-topics
 
-`plotTopicWordcloud(model)`
+
+`write.table(model$docAssignments, file="FILENAME.csv", sep=",", row.names=T)` - to save topics-in-documents
+
+`plotTopicWordcloud(model)` - to make wordclouds
 
 ## Ongoing refinements to topic modelling
 
