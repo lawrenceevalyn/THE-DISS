@@ -416,12 +416,15 @@ Can rename column just in Rstudio instead of in csv: ```colnames(estc_1789_1799_
 ## To get data out of R:
 
 ```View(model$topics)
-write.table(model$topics, file="FILENAME.csv", sep=",", row.names=T)```
+write.table(model$topics, file="FILENAME.csv", sep=",", row.names=T)
+```
 
 ```View(model$docAssignments)
-write.table(model$docAssignments, file="FILENAME.csv", sep=",", row.names=T)```
+write.table(model$docAssignments, file="FILENAME.csv", sep=",", row.names=T)
+```
 
-```plotTopicWordcloud(model)```
+```plotTopicWordcloud(model)
+```
 
 ## Ongoing refinements to topic modelling
 
@@ -488,14 +491,20 @@ Testing and relaxing assumptions— • Spike and slab priors
 
 First, create a topic model called "model" (via any method you prefer)
 
-```install.packages("LDAvis")```
+```install.packages("LDAvis")
+```
 
-```library(LDAvis)```
+```library(LDAvis)
+```
 
-```help(createJSON, package = "LDAvis")``` - to see what everything needs
+```help(createJSON, package = "LDAvis")
+``` - to see what everything needs
 
-```doc.lengths <- sapply(model$documents$text, nchar)``` -  the only variable you need to create in advance
+```doc.lengths <- sapply(model$documents$text, nchar)
+``` -  the only variable you need to create in advance
 
-```json <- createJSON(phi = model$topics, theta = model$docAssignments, doc.length = doc.lengths, vocab = model$vocabulary, term.frequency = model$wordFreq$term.freq, R = 30, lambda.step = 0.01, mds.method = jsPCA, plot.opts = list(xlab ="PC1", ylab = "PC2"))``` - this actually creates the JSON file, and will take a while to run
+```json <- createJSON(phi = model$topics, theta = model$docAssignments, doc.length = doc.lengths, vocab = model$vocabulary, term.frequency = model$wordFreq$term.freq, R = 30, lambda.step = 0.01, mds.method = jsPCA, plot.opts = list(xlab ="PC1", ylab = "PC2"))
+``` - this actually creates the JSON file, and will take a while to run
 
-```serVis(json)``` - this launches the visualization in a browser!
+```serVis(json)
+``` - this launches the visualization in a browser!
