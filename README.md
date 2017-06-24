@@ -10,6 +10,19 @@
 
 # Research Log
 
+## June 16, 2017
+
+Final observations/results from topic modelling titles:
+
+Opening Q: What topics are represented in our scholarly, edited corpora of eighteenth century texts? How do those compare to mass print production in the period?
+
+Method: 50 topic models of titles of ESTC works vs ECCO-TCP, both from 1789-99
+
+Results: As perhaps might have been anticipated, the
+ECCO corpus emphasizes “timeless” literary and philosophical works, whereas the ESTC corpus is dominated by “timely” advertisements, government bulletins, and ephemera.
+
+![topic modeling results](THE-DISS/figures/R-topic-models/estc-ecco-topic-comparison-notes.pdf)
+
 ## June 15, 2017
 
 I could (and perhaps should?) write one R program which will go through both my corpora, save wordclouds and topics etc in the desirable locations

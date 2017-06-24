@@ -509,3 +509,27 @@ First, create a topic model called "model" (via any method you prefer)
 One good (but time/resource-intensive) way to check the validity of a model is to do "intrusion testing": add a random word to a topic, a random document to a topic, and ask people to spot which one doesn't belong
 
 ### What are some BAD topic models?
+
+## Closing Speech
+
+### Models of DH
+
+* "Lone Wolf": only DHer in the department, asked to change the toner, can't explain/justify work to colleagues, goes to conferences to find community. lonely!
+* "Wolf pack": a small ground funded separately from other departments, little intellectual mixing, often rivalries with other 
+* "Tame wolf": progressive integration of DH with teaching programmes currently
+* DH as service: you come up with your research, and go to the DH folks to get you grants and write your code... like the library, you send people there
+* DH as (sub) discipline like Renaissance studies: they do their work, at conferences they meet with their colleagues in history, lit, spanish, french, etc... e.g., digital history, digital english, digital classics, digital scholarly editing... but how?
+    * the melding model: like archaeology, which simply *is* digital. But not much space for reflection *on* digital tools/methods
+    * the antagonistic model: like computational linguistics -- advanced as a field without reference to mainstream non-computational linguistics, particularly natural language processing; no interchange anymore. computational lingusit: "we should not forget that mainstream linguistics may have some things to offer us, even if not as many as linguists themselves suppose"
+    * the bit-by-bit model: build a tool, get tool used by "traditional" scholars, become slowly more accepted, eg digital paleography. DigiPal: embed traditional workflow in digital tool that supports scholar's work rather than doing it for them -- refrain from trying to do the "cool" stuff computationally, organizational board draws from both fields. It's still not a standard part of paleographic training, but it is widespread and respected
+* Cross-pollination: exchange, discussion, facilitated by a "worker bee." (Bees are in danger!!)
+
+What is the CONTENT of DH? modelling, data structures, heuristics, hermeneutics, experimentation, prototyping, remediation
+
+Digital humanities, or computational humanities? Digital will soon be ubiquitous; computational emphasizes the process and method, rather than nature
+
+## Places I should look for money for next year
+* SHARP new scholars bursary program
+* ACH graduate student bursary program
+* SSRC Travel Bursary Program
+* ANdrew Rippin Memorial DHSI Travel Bursaries 
