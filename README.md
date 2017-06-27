@@ -21,7 +21,7 @@ Method: 50 topic models of titles of ESTC works vs ECCO-TCP, both from 1789-99
 Results: As perhaps might have been anticipated, the
 ECCO corpus emphasizes “timeless” literary and philosophical works, whereas the ESTC corpus is dominated by “timely” advertisements, government bulletins, and ephemera.
 
-![topic modeling results](THE-DISS/figures/R-topic-models/estc-ecco-topic-comparison-notes.pdf)
+![topic modeling results](THE-DISS/figures/R-topic-models/estc-ecco-topic-comparison-notes.png)
 
 ## June 15, 2017
 
