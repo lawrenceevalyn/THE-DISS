@@ -10,6 +10,10 @@
 
 # Research Log
 
+## July 1, 2017
+
+What is my WORKFLOW? Am I dumping thoughts into Scrivener? Into InDesign?? Into a website? Should I have an outline? A bunch of scraps? I can't figure out how to think all at once about all of the bits and pieces I have flying around!!
+
 ## June 16, 2017
 
 Final observations/results from topic modelling titles:
