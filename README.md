@@ -10,6 +10,10 @@
 
 # Research Log
 
+## July 5, 2017
+
+My thinking workflow, I think, involves gathering a bunch of bits in a voracious acquisition mode, and then later synthesizing everything in a short burst later. So, I will gather paragraph-sozed ideas in writing and in visualizations (rough ines) in scrivener, where I can rearrange them and grouo them themstically, and then when its time to make a chapter I'll hide in the woods with indesign for a month to oull it together. 
+
 ## July 1, 2017
 
 What is my WORKFLOW? Am I dumping thoughts into Scrivener? Into InDesign?? Into a website? Should I have an outline? A bunch of scraps? I can't figure out how to think all at once about all of the bits and pieces I have flying around!!
