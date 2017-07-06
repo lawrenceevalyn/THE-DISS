@@ -12,7 +12,7 @@
 
 ## July 5, 2017
 
-My thinking workflow, I think, involves gathering a bunch of bits in a voracious acquisition mode, and then later synthesizing everything in a short burst later. So, I will gather paragraph-sozed ideas in writing and in visualizations (rough ines) in scrivener, where I can rearrange them and grouo them themstically, and then when its time to make a chapter I'll hide in the woods with indesign for a month to oull it together. 
+My thinking workflow, I think, involves gathering a bunch of bits in a voracious acquisition mode, and then synthesizing everything in a short burst later. So, I will gather paragraph-sized ideas in writing and in visualizations (rough ones) in scrivener, where I can rearrange them and group them thematically, and then when it's time to make a chapter I'll hide in the woods with indesign for a month to pull it together. 
 
 ## July 1, 2017
 
