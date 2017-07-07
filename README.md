@@ -10,7 +10,11 @@
 
 # Research Log
 
-## July 5, 2017
+## July 7, 2017
+
+WHAT IF I USED TOPIC MODELLING TO LOOK AT FRANK'S GOTHIC TYPES? Maybe there is too little text? But finding words that "mean" the same thing as each other seems like.. what topic modelling is for?
+
+## July 4, 2017
 
 My thinking workflow, I think, involves gathering a bunch of bits in a voracious acquisition mode, and then synthesizing everything in a short burst later. So, I will gather paragraph-sized ideas in writing and in visualizations (rough ones) in scrivener, where I can rearrange them and group them thematically, and then when it's time to make a chapter I'll hide in the woods with indesign for a month to pull it together. 
 
