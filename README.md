@@ -14,6 +14,8 @@
 
 Reading Claudia Johnson's article "'Let Me Make the Novels of a Country': Barbauld's 'The British Novelists'" was an astonishing and inspiring breath of incredibly incisive research, so closely tied to everything I am interested in re: re-examining the canon, and women in the canon, not from the naive position of replacing the canon with a women now, but from a complex and historically-grounded perspective. Her incisive readings of the agendas of, e.g, Watt and Kiely, too, were just excellent. I want to do that! How do I do that?
 
+Workflow thoughts: do I need, like, a big cork board to physically tack ideas to? To go all What Is The Connection? ... I want to be properly grappling with the difficult-but-rewarding critical work (like the Johnson article) more often, and to *produce* things that I can then use, as a result -- I want to build my thoughts into something... how can I do that other than by spending a month in the woods as a hermit?
+
 ## July 7, 2017
 
 WHAT IF I USED TOPIC MODELLING TO LOOK AT FRANK'S GOTHIC TYPES? Maybe there is too little text? But finding words that "mean" the same thing as each other seems like.. what topic modelling is for?
