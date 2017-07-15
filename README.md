@@ -10,6 +10,10 @@
 
 # Research Log
 
+## July 15, 2017
+
+Reading Claudia Johnson's article "'Let Me Make the Novels of a Country': Barbauld's 'The British Novelists'" was an astonishing and inspiring breath of incredibly incisive research, so closely tied to everything I am interested in re: re-examining the canon, and women in the canon, not from the naive position of replacing the canon with a women now, but from a complex and historically-grounded perspective. Her incisive readings of the agendas of, e.g, Watt and Kiely, too, were just excellent. I want to do that! How do I do that?
+
 ## July 7, 2017
 
 WHAT IF I USED TOPIC MODELLING TO LOOK AT FRANK'S GOTHIC TYPES? Maybe there is too little text? But finding words that "mean" the same thing as each other seems like.. what topic modelling is for?
