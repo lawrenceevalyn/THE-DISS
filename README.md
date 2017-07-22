@@ -10,6 +10,10 @@
 
 # Research Log
 
+## July 22, 2017
+
+How does all my special fields reading relate to my dissertation?? Is it just that i care about Charlotte Smith, Hannah More, and Mary Robinson now? I dont think im necessarily reading the expressive "variery" that I argue characterizes literary production and needs to be cooed with.... things are pretty similar. Does knowig more about the French Revolution help me somehow? I do feel like I HAVE A better "feel" for the period, from having read so much more.... I am especially niticing the desperate distress over the operation of "preposession" that I WROTE ABOUT as an hndergrgrad -- I think I was onto something there! Should I foreground "preposesion" further, and its relationship to thenpolitical philosophy of the day? It definitely seems connected to tyranny -- Even in More's history of Mary Woods, evidence and testimkny are utterly useless and the vulnerable have ni recourse when subjected to tyranny based in prepossession. This seems like a fruitful philosophical thread!
+
 ## July 15, 2017
 
 Reading Claudia Johnson's article "'Let Me Make the Novels of a Country': Barbauld's 'The British Novelists'" was an astonishing and inspiring breath of incredibly incisive research, so closely tied to everything I am interested in re: re-examining the canon, and women in the canon, not from the naive position of replacing the canon with a women now, but from a complex and historically-grounded perspective. Her incisive readings of the agendas of, e.g, Watt and Kiely, too, were just excellent. I want to do that! How do I do that?
