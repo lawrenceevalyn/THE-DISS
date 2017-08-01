@@ -10,6 +10,10 @@
 
 # Research Log
 
+## August 1, 2017
+
+**IS** there a reason to pre-emptively focus on sustained prose fiction, when evaluating the literary output of a period?? Or to focus on poetry?? WHY are all the bibliographies of novels???
+
 ## July 24, 2017
 
 Conspiracy theories play such a huge role in France! The whole way along everybody always wants it to be a conspiracy -- bread is too expensive because aristocrats are scheming to starve the peasants, France lost its first battle in the war because everyone was conspiring not becuase the war was a bad idea... conspiracies mean you don't have to grapple with inhuman(e) systems or admit when you're wrong, so conspiracies are preferable to the truth. The goal is to make up a better story, and stick with it on pain of death... but this can't actually work. Some things are actually real!
