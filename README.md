@@ -17,21 +17,33 @@ Had a good chat with Alyssa about what I'm learning about the French revolution.
 > L: the difference between a bunch of drunken idealists vs a bunch of over-caffeinated idealists.... is madame guillotine
 
 > A: they go to declare war, vibrating, sweating a little, eyes darting everywhere
+>
 > A: “are... are you okay” asks the holy roman empire
+>
 > A: “IT’S THE REVOLUTIONARY FERVOR” they say, their hair sticking up from all the sweat
 
 > L: it was the summer, they were hot, the haitian revolution had deprived them of all their coffee and sugar, the revolutionaries had nothing left to live for
+>
 > A: Oh, caffeine withdrawal, that explains it
+>
 > L: everyone was hangry
 
 > A: Have you considered writing your dissertation on the impact of coffee on the french revolution
-> Lhonestly... I.... could? I am really interested in the impact of bodily experience throughout all this nonsense. it REALLY DOES make more sense when you remember that everyone is hot, and caffeinated, and hangry
+>
+> L: honestly... I.... could? I am really interested in the impact of bodily experience throughout all this nonsense. it REALLY DOES make more sense when you remember that everyone is hot, and caffeinated, and hangry
+>
 > L: and, like, that’s the crucial flaw in all their enlightenment philosophy, right
+>
 > L: they’re rejecting bodily experience as irrelevant
+>
 > A: Everybody still has a body and that body needs stuff no matter how loudly they say it doesn’t
+>
 > L: right, yeah, and everyone still has emotions too
+>
 > L: and if you ignore your body and your feelings, you mis-diagnose yourself -- you are even less rational than your default
+>
 > L: you hear about an army deserting, and you feel a lot of things, and you decide “RATIONALLY my feelings must mean TRAITORS ARE EVERYWHERE AND WE MUST MURDER THEM”
+>
 > L: or even, like: you murder a bunch of random people, and you feel bad, and you say to yourself “rationally I DON’T feel bad because I am a PATRIOT” and then you murder MORE people when... maybe... those feelings contained important info? vis-a-vis murder?
 
 David's pre- and post-revolutionary paintings get at this problem very well! His dismissal of, and then embrace of, womanly sentiment.
