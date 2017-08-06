@@ -10,6 +10,10 @@
 
 # Research Log
 
+## August 6 2017
+
+How can I get good information on size of print runs? I want to allow reprints etc to shape my sense of the "normal" mass -- make a pool of titles based on print run sizes and randomly sample from it to see what is likely to repeat.
+
 ## August 4, 2017
 
 Had a good chat with Alyssa about what I'm learning about the French revolution... Some thoughts:
