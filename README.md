@@ -1,5 +1,6 @@
 # Research Goals
-* I want to address, somehow, the use of canons, and consider better ways to contextualize and teach literature
+* I want to address, somehow, the use of canons, and and consider better ways to contextualize and teach literature
+    * Somehow I want to "account for" the arc of literature in all its variety
 * I want to apply the conceptual frameworks of prototyping and models to literary research
 * I really like the Gothic
 
@@ -7,6 +8,7 @@
 * Read 18thC texts voraciously, to inform my gut intuition of the period
 * Use ESTC data to model the decade 1789-99
 * Figure out what question the field of literary study is trying to answer, exactly
+* Just throw all my research ideas into this one repo, and figure out later how it connects
 
 # Research Log
 
