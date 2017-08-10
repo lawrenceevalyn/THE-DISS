@@ -12,7 +12,15 @@
 
 # Research Log
 
-## August 6 2017
+## August 10, 2017
+
+Really glad I stopped by three excellent panels at DH2017 today:
+* Text Mining Eighteenth-Century Travel Writing: The “I” and Autobiography of Narration -- Catherine Nygren
+* Understanding Narrative: Computational Approaches to Detecting Narrative Frames -- Eva Portelance
+* Frequently Cited Passages Across Time: New Methods for Studying the Critical Reception of Texts -- Sierra Eckert and Jonathan Reeve
+    * Code might be re-usable for Shakespeare project, open-source: github.com/lit-mod-vis/middlemarch-critical-histories
+
+## August 6, 2017
 
 How can I get good information on size of print runs? I want to allow reprints etc to shape my sense of the "normal" mass -- make a pool of titles based on print run sizes and randomly sample from it to see what is likely to repeat.
 
