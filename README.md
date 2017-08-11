@@ -32,6 +32,27 @@ DH2017 abstracts:
 
 New guiding principles: Literally every idea I have for “research”, of any kind, goes in this document. One snippet per “thought.” Let it all accumulate into groupings organically.
 
+#### Current status of Shakespeare project:
+
+SO much "ugh" zone built up around this, but I think we're less 'scooped' than I feared...
+
+**Quotation:** I should send mom some specs for what I'd like the data output to look like, based on the great poster I saw at DH2017. But I should also see whether I can research these questions directly using  github.com/lit-mod-vis/middlemarch-critical-histories and http://commonplacecultures.org/
+
+**Networks:** I should ask mom to do all of Shakey's plays and send me the CSV files so I can make graphical networks.
+--> ask to implement two different treatments of "asides" and monologues (where audience is and is not node)
+I should also start building a corpus of 18thC TEI plays... I might be in better shape than I feared initially.
+
+### DH2017 reflections:
+
+I feel a little frustrated/impatient to see other people farther along with research questions that I am interested in, but am trying to take this as evidence that I am on a good track and they will be interested in my results.
+
+Things I'm doing differently:
+* **Quotations**: treat Shakespeare as 18thC canonical author rather than Early Modern; look for use of extract books
+* (*Networks**: examining role of the audience in the node; specifically looking at 18thC transitional tragedy (can I spot "firsts"?)
+* **1790s popular literature**: encompassing multiple generic forms, esp pamphlets etc; checking the selection biases of ECCO (and HathiTrust?); combining many datasets
+
+Everybody seems to be using HathiTrust these days, but I just don't like their messy data... :/ But, I *am* trying to combine as many datasets as possible, so HathiTrust probably has a role to play?
+
 ## August 10, 2017
 
 DH2017 abstracts:
