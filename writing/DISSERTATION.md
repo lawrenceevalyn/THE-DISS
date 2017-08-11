@@ -145,23 +145,31 @@ Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Hunti
 
 
 
-----
+# Guiding Principles #
 
 
 
-# Ch 1: Introduction #
 
 
 
-## Context ##
+
+Literally every idea I have for “research”, of any kind, goes in this document.
 
 
 
-## Problem statement ##
+One snippet per “thought.”
 
 
 
-### Research questions ###
+Let it all accumulate into groupings organically.
+
+
+
+# Research Questions #
+
+
+
+## what to do with so much lit? ##
 
 
 
@@ -173,23 +181,23 @@ My goal is to do something about the problem of literary canons. How can we cope
 
 
 
+### how to select texts? ###
+
+
+
+
+
+
+
 How do we select a small number of texts, to be “important” or “representative”, from a larger body?
 
 
 
-How do we make sense of intergeneric connections? What is a genre? Why do we have them? What are they for?
+### what do we teach? in what context? ###
 
 
 
 
-
-
-
-do literary fads emerge in plays, poems, and prose simultaneously, or move through them sequentially? How different are the writers and audiences for each medium? I also anticipate finding new insight into the forms and popularity of political writing in the period: how much of the work being consumed is presented with explicit political aims? What mediums are most-used for different political positions? In a somewhat separate line of inquiry, I will explore in-depth the works of the individuals authors under consideration: how do they use each of the generic mediums available to them? How do they adapt their ideas to each form, and how do they conceive of each audience? 
-
-
-
-Both the macro and the micro views will merge in the question: are my key writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers?
 
 
 
@@ -197,55 +205,7 @@ What texts should we teach to students? And how should we contextualize them?
 
 
 
-(Step 1 is to be true to the variety of the period, but also true to its chief emphasis.)
-
-
-
-## Aim and scope ##
-
-
-
-### theoretical frameworks ###
-
-
-
-#### modeling ####
-
-
-
-#### prototyping / iteration ####
-
-
-
-#### reparative reading ####
-
-
-
-#### rich description ####
-
-
-
-## Significance ##
-
-
-
-## Structure of the thesis ##
-
-
-
-----
-
-
-
-# Ch 2: Background #
-
-
-
-# Ch 3: Account of my work #
-
-
-
-## ESTC full corpus ##
+### how to identify genres? ###
 
 
 
@@ -253,6 +213,11 @@ What texts should we teach to students? And how should we contextualize them?
 
 
 
+How do we make sense of intergeneric connections? What is a genre? Why do we have them? What are they for?
+
+
+
+### how do literary fads move? ###
 
 
 
@@ -260,8 +225,319 @@ What texts should we teach to students? And how should we contextualize them?
 
 
 
+do literary fads emerge in plays, poems, and prose simultaneously, or move through them sequentially?
 
-### publishers visible over authors ###
+
+
+### how do audiences differ? ###
+
+
+
+
+
+
+
+How different are the writers and audiences for each medium?
+
+
+
+### what is "normal" in the 1790s? ###
+
+
+
+
+
+
+
+What do my corpora tell us about what was ‘normal’ during my decade?
+
+
+
+What does it mean to be “normal” or to seek the “normal” over the exceptional?
+
+
+
+## how political is 1790s lit? ##
+
+
+
+
+
+
+
+I also anticipate finding new insight into the forms and popularity of political writing in the period: how much of the work being consumed is presented with explicit political aims?
+
+
+
+### what genres for what politics? ###
+
+
+
+
+
+
+
+What mediums are most-used for different political positions?
+
+
+
+## author case studies ##
+
+
+
+
+
+
+
+In a somewhat separate line of inquiry, I will explore in-depth the works of the individuals authors under consideration: how do they use each of the generic mediums available to them? How do they adapt their ideas to each form, and how do they conceive of each audience? 
+
+
+
+### how do they use genre? ###
+
+
+
+
+
+
+
+how do they use each of the generic mediums available to them? How do they adapt their ideas to each form, and how do they conceive of each audience? 
+
+
+
+### are they "representative"? ###
+
+
+
+
+
+
+
+Both the macro and the micro views will merge in the question: are my key writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers?
+
+
+
+## women in carriages ##
+
+
+
+### how often do women get grabbed? ###
+
+
+
+
+
+
+
+How often, in 18thC novels, do women get grabbed into carriages? Is this a stock trope?
+
+
+
+- Clarissa
+
+
+
+- Emmeline
+
+
+
+- ??? Wolfenbach?
+
+
+
+### what happens when they're grabbed? ###
+
+
+
+
+
+
+
+What typically happens to them once they get grabbed? Do men and women write different kinds of outcomes?
+
+
+
+### why? is it Clarissa? ###
+
+
+
+
+
+
+
+Is it because of Clarissa, or did it start before then?
+
+
+
+# Thoughts #
+
+
+
+## what to teach: convo with Jack ##
+
+
+
+
+
+
+
+From my conversations with Jakob: I have two thoughts which are in tension with each other:
+
+
+
+
+
+
+
+1, Whenever, in literary history, there is a "gap" in which "nothing is written" -- I tend to find that actually just as much was written as usual, but it is either not in the format we expect (e.g., theatrical rather than prose production) or it is, by contemporary standards, "bad."
+
+
+
+
+
+
+
+1A, Whenever, in literary history, works are dismissed as "bad" -- whether his means they are morally corrupting, or poorly crafted, or designed according to unliterary or unserious standards, or simply popular with the "wrong sorts" of people -- I immediately want to read those texts, to the exclusion of the "good" works which stand in contrast to them.
+
+
+
+
+
+
+
+2, I do believe, sentimentally, in the Power Of Literature, as a tool to shape and improve the self, to foster empathy, to... to be Morally Improving. Particularly in a pedagogical setting, particularly for young readers (particularly for myself as a young, marginalized person).
+
+
+
+
+
+
+
+2A, I don't think it can possibly be the case that **all works of literature** are equally well-adapted to the **use** of literature for self-creation. Some texts take more work than others. Especially, again, in a pedagogical setting, where it is important both to provide historical context and to nurture each student's individual reading of the text. So, maybe... if we want to use literature to expand students' worldviews, inculcate empathy, teach humanistic thinking... some texts... will be Good for that... and others will be Bad.
+
+
+
+
+
+
+
+I think the tension resolves for me, right now, in the conclusion that one must **study** everything, and **teach** only the most useful -- always keeping open a bridge by which a student may go from learner to researcher.
+
+
+
+
+
+
+
+Also -- many times the "bad" texts through Idea 1 above are, really, socially marginalized texts of various kinds, which are highly likely to be "good" through Idea 2. The knowledge that there is more than one kind of Literature (and thus more than one kind of Life) is, in itself, one of the things that I think reading can most powefully provide to readers.
+
+
+
+
+
+
+
+So, I am practically allergic to the mere thought of trying to identify Good and Bad texts -- by my own instincts I will then end up only wishing to spend time on my Bad ones -- but I do feel like there is space here to distinguish between the **multiple** uses of literature. If there are **many** lists of Good Books, does that address the fundamental problem at all???
+
+
+
+## be true to the variety of the period, but also true to its chief emphasis ##
+
+
+
+
+
+
+
+be true to the variety of the period, but also true to its chief emphasis.
+
+
+
+## crying in jails ##
+
+
+
+
+
+
+
+Is the stock sentimental trope of crying in a jail marked by continuity or discontinuity in its meaning, during the French Revolution?
+
+
+
+[Crying in a jail means something different before and after the Revolution; the uses of emotion gain new possible powers] [So these same sentiments gain new importance and need a new name, the Gothic, when they collide with political realities]
+
+
+
+### Man of Feeling crying in jail ###
+
+
+
+### Two Shoemakers crying in jail ###
+
+
+
+
+
+
+
+Two Shoemakers: The gaoler observed him drop a tear, and asked the cause. I cannot forget, said he, that the most dissolute of these men is still my fellow-creature. The same GOD made them; the same SAVIOUR died for them; how then can I hate the worst of them? With my advantages they might have been much better than I am; without the blessing of GOD on my good Minister's instructions, I might have been worse than the worst of these. I have no cause for pride, much for thankfulness: let us not be high-minded, but fear.
+
+
+
+## performative vulnerability ##
+
+
+
+
+
+
+
+What other ways could I examine performative vulnerability as a social strategy for women?
+
+
+
+### men are easily manipulated ###
+
+
+
+
+
+
+
+Men are easily manipulated because they position of power makes it unecessary for them to adeptly perceive situations; they have the privilege of not really seeing the suffering they cause
+
+
+
+### women's vulnerability demands intervention ###
+
+
+
+
+
+
+
+Women’s ostentatious vulnerability demands male intervention — if women can manage to be sufficiently vulnerable in front of the right men, they can reach their desired end states
+
+
+
+(It creates a vacuum)
+
+
+
+### escapism: performative vulnerability works ###
+
+
+
+
+
+
+
+The escapism of the story is not that men won’t kidnap you — it’s that the only strategy you have available to you (performative vulnerability) will work.
+
+
+
+# ESTC: publishers visible over authors #
 
 
 
@@ -273,15 +549,7 @@ The decade 1789-99, according to the ESTC corpus, is driven by publishers at lea
 
 
 
-> What would it mean for one person (let alone work!) to be “important”?
-
-
-
-> What exactly am I trying to describe here??
-
-
-
-### authors development = publisher choices ###
+# ESTC: author development = publisher choice #
 
 
 
@@ -305,7 +573,7 @@ More accomplishes her stunning volume of work partly by being a publisher as muc
 
 
 
-### prominence of the "back catalogue" ###
+# ESTC: prominence of the "back catalogue" #
 
 
 
@@ -317,64 +585,16 @@ Older works will have had more years for people to potentially read them, so tha
 
 
 
-## ESTC taxonomy of random sample ##
+# Experiments #
 
 
 
-## ECCO-TCP stylometry ##
+## use of Shakespeare in the 18thC ##
 
 
 
-## ECCO-TCP compared to ESTC ##
+# Primary Texts #
 
 
 
-## bibliographies: Frank, Tracy, Garside, more? ##
-
-
-
-----
-
-
-
-# Ch 4: Synthesis / Discussion #
-
-
-
-# Ch 5: Conclusion #
-
-
-
-# Appendix A: Detailed Methods #
-
-
-
-## ESTC ##
-
-
-
-
-
-
-
-51,965 works printed in England, sort of mostly 1789-99
-
-
-
-### description of my database ###
-
-
-
-
-
-
-
-What’s in it? How did I make it?
-
-
-
-What does it tell us about what was ‘normal’ during my decade?
-
-
-
-# Works Cited #
+# Secondary Texts #

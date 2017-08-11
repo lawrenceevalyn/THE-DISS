@@ -10,6 +10,13 @@
 * Figure out what question the field of literary study is trying to answer, exactly
 * Just throw all my research ideas into this one repo, and figure out later how it connects
 
+# Writing workflow
+* Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc. One snippet per “thought.”
+* Let it all accumulate into groupings organically. Don't try to organize too soon.
+* Don't create empty spaces for thoughts to go in the future. (Add research questions and hypotheses instead.)
+
+# Next-do: migrate thoughts from research log to monster scrivener doc
+
 # Research Log
 
 ## August 11, 2017
@@ -20,6 +27,10 @@ DH2017 abstracts:
 * abstract re: readerstudy.com - Stanford lab research on reader reception
 * Building worksets for scholarship by linking complementary corpora
 * Distributed Character: Quantitative Models of the English Stage, 1500-1920
+
+### Rearranging diss scrivener doc:
+
+New guiding principles: Literally every idea I have for “research”, of any kind, goes in this document. One snippet per “thought.” Let it all accumulate into groupings organically.
 
 ## August 10, 2017
 
