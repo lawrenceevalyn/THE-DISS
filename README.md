@@ -12,6 +12,15 @@
 
 # Research Log
 
+## August 11, 2017
+
+DH2017 abstracts:
+* Reading the Norton Anthologies: Databases, Canons, and "Careers"
+* Making topic modeling easy: A programming library in Python
+* abstract re: readerstudy.com - Stanford lab research on reader reception
+* Building worksets for scholarship by linking complementary corpora
+* Distributed Character: Quantitative Models of the English Stage, 1500-1920
+
 ## August 10, 2017
 
 DH2017 abstracts:
@@ -19,6 +28,8 @@ DH2017 abstracts:
 environment for web browsers that allows users to explore and juxtapose multiple scales of data in topic models of digital corpora. It uses shapes, colors, and
 cross-panel highlighting to get users of topic models from "big" data to "small" and back. Importantly, it also provides an alternate "publication" view that resituates modeled texts back into their original
 publication contexts --- *Documentation and color screenshots of TWiC are available at in the README.md file at github.com/jarmoza/twic.*
+* Tracing Swerves of Influence: text reuse and the reception of Lucretius in 18th-century England
+* Reconstructing Readerly  Attention: Citational Practices and the Canon,  1789-2016
 
 ## August 9, 2017
 
