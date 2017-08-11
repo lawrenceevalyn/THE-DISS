@@ -14,7 +14,15 @@
 
 ## August 10, 2017
 
-Really glad I stopped by three excellent panels at DH2017 today:
+DH2017 abstracts:
+* "How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles" -- "Topic Words in Context" – or "TWiC", for short. TWiC is a multi-paneled
+environment for web browsers that allows users to explore and juxtapose multiple scales of data in topic models of digital corpora. It uses shapes, colors, and
+cross-panel highlighting to get users of topic models from "big" data to "small" and back. Importantly, it also provides an alternate "publication" view that resituates modeled texts back into their original
+publication contexts --- *Documentation and color screenshots of TWiC are available at in the README.md file at github.com/jarmoza/twic.*
+
+## August 9, 2017
+
+Really glad I stopped by three excellent posters at DH2017 today:
 * Text Mining Eighteenth-Century Travel Writing: The “I” and Autobiography of Narration -- Catherine Nygren
 * Understanding Narrative: Computational Approaches to Detecting Narrative Frames -- Eva Portelance
 * Frequently Cited Passages Across Time: New Methods for Studying the Critical Reception of Texts -- Sierra Eckert and Jonathan Reeve
