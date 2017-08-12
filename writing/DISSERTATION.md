@@ -369,6 +369,70 @@ Is it because of Clarissa, or did it start before then?
 
 
 
+## Shakespeare in the 18thC ##
+
+
+
+### what plays get quoted most? ###
+
+
+
+### what parts of plays get quoted most? ###
+
+
+
+### do men and women use Shakey differently? ###
+
+
+
+### which writers write from full plays, which from extracts? ###
+
+
+
+### is Shakespeare an 18thC author? ###
+
+
+
+## 18thC transitional tragedy ##
+
+
+
+### can I spot the "first" plays to make shifts? ###
+
+
+
+
+
+
+
+Can I make a “canon” of “first outliers” over time?
+
+
+
+### what is the role of the audience? ###
+
+
+
+
+
+
+
+If the audience is a node in the social network, can we tell who they are meant to sympathise with?
+
+
+
+## what is left out of corpora? ##
+
+
+
+### is ECCO "representative"? ###
+
+
+
+### is HathiTrust "representative?" or reliable?? ###
+
+
+
 # Thoughts #
 
 

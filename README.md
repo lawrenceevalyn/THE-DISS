@@ -61,6 +61,7 @@ environment for web browsers that allows users to explore and juxtapose multiple
 cross-panel highlighting to get users of topic models from "big" data to "small" and back. Importantly, it also provides an alternate "publication" view that resituates modeled texts back into their original
 publication contexts --- *Documentation and color screenshots of TWiC are available at in the README.md file at github.com/jarmoza/twic.*
 * Tracing Swerves of Influence: text reuse and the reception of Lucretius in 18th-century England
+    * I think this is the one associated with commonplacecultures
 * Reconstructing Readerly  Attention: Citational Practices and the Canon,  1789-2016
 
 ## August 9, 2017
