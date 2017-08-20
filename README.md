@@ -19,6 +19,14 @@
 
 # Research Log
 
+## August 20, 2017
+
+Did I give up too soon on acquiring specialized resources? Should I contact Gale/ECCO to try to get more full texts? Should I contact Garside et al to try to get their underlying spreadsheets?
+
+I feel like if I had a more concrete/specific research question I'd have more luck.. or maybe only asking for a particular decade would be limited enough that they'd be willing to cooperate?
+
+How do I find a more specific research question? Why do I, over time, feel less and less clear about what I am trying to find out???
+
 ## August 11, 2017
 
 DH2017 abstracts:
