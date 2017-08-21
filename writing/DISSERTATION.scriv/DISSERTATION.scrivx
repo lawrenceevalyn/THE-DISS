@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-08-11 16:31:10 -0400" ModID="6C5ED3C7-858C-47DB-8E34-941E8CE60C05">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-08-21 03:16:23 -0400" ModID="7635780E-C6B3-4711-B077-A9F15BFE50C4">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -462,6 +462,16 @@
                                 <TextSelection>2001,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="178" UUID="43C36936-AD31-414C-8672-2DEDB785A7E8" Type="Text" Created="2017-08-21 03:15:09 -0400" Modified="2017-08-21 03:16:23 -0400">
+                            <Title>ballads make ideas catchy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="147" UUID="52F67E28-A4B6-412C-8665-EE68393648A5" Type="Text" Created="2017-08-11 15:25:34 -0400" Modified="2017-08-11 15:25:54 -0400">
                             <Title>be true to the variety of the period, but also true to its chief emphasis</Title>
                             <MetaData>
@@ -597,6 +607,16 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="177" UUID="7C05C929-E994-44C9-A398-B420C344E470" Type="Text" Created="2017-08-21 02:16:57 -0400" Modified="2017-08-21 02:21:12 -0400">
+                            <Title>graphs - index to tears</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1967,7 +1987,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="1325" Characters="7742" Date="2017-08-11 15:18:35 -0400"></PreviousSession>
+        <PreviousSession Words="72" Characters="387" Date="2017-08-21 02:16:37 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

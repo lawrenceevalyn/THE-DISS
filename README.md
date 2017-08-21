@@ -19,6 +19,14 @@
 
 # Research Log
 
+## August 21, 2017
+
+I want to use Nicky Case's explorables to model the underlying systems of 18thC lit! Just gotta... formulate some hypotheses... that are in the form of systems.
+
+http://explorabl.es/
+
+http://ncase.me/loopy/
+
 ## August 20, 2017
 
 Did I give up too soon on acquiring specialized resources? Should I contact Gale/ECCO to try to get more full texts? Should I contact Garside et al to try to get their underlying spreadsheets?
