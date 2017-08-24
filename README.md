@@ -19,6 +19,22 @@
 
 # Research Log
 
+## August 24, 2017
+
+I think Sedgwick has my answer to "why DO we study literature anyway" and "what makes literature so different from history": 
+
+"The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
+
+"What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
+
+It requires research and study, in order to identify and disentangle the many projects and effects within a work; we must know which parts to discard and which to nurture, to render something useful to ourselves, and we must know what exists for us to repurpose: this is why I study literature. And it requires instruction in order to allow students to get past, e.g., "I thought I was supposed to respect Mrs Bennet" to the literary riches within: this is why I teach literature.
+
+(Literature, unlike history, is permitted artistic license.)
+
+This constant re-translation allows us to continue conferring and experiencing value to the work of previous generations. I don't value the past or tradition simplistically, or for the virtue of merely being older; but we do not always have to reinvent the wheel, and seeing that things **were different** in the past can allow us to remember that they will be different in the future.
+
+(Though I suppose, since I proceed on the assumption that it is not possible to perceive or understand the "now," I do often dismiss the contemporary as insufficiently informative to be getting on with.)
+
 ## August 21, 2017
 
 I want to use Nicky Case's explorables to model the underlying systems of 18thC lit! Just gotta... formulate some hypotheses... that are in the form of systems.
