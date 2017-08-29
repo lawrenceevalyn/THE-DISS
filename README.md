@@ -19,6 +19,19 @@
 
 # Research Log
 
+## August 29,2017
+
+### jottings from DHN
+
+*** ask Adam how I can make something come of this shakespeare project with mom
+
+To do this work well, you need to combine archives. But how can you combine archives well and ethically?
+Stanford Literary Lab won't share or tell you about their corpus
+-- is my dissertation in part about building a database that can bring together disparate sources...?
+-- can I get my collaborators to help me with this? can I do it myself??
+--- need to have space for multiple "versions" of each text, that can variously combine or separate them (do I have to build this ontology?)
+--- want to be able to attach qualitative assesments, join sheets etc... I think I need a relational database
+
 ## August 24, 2017
 
 I think Sedgwick has my answer to "why DO we study literature anyway" and "what makes literature so different from history": 
