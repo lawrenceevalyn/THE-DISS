@@ -19,6 +19,12 @@
 
 # Research Log
 
+## September 2, 2017
+
+We want things to be a few, simple, balanced categories — we especially want there to be two equally-matched sides of a binary — but in fact just about everything follows a power-law distribution, which will necessitate a long-tail “misc” category.
+
+See: Zipf's law; [that Vsauce video Olli sent me](https://www.youtube.com/watch?v=fCn8zs912OE)
+
 ## August 29,2017
 
 ### jottings from DHN

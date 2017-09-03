@@ -257,6 +257,18 @@ What does it mean to be “normal” or to seek the “normal” over the except
 
 
 
+### how do we account for variety? ###
+
+
+
+
+
+
+
+One of the things I like about computational methods is that, ultimately, there are no glossy simplifications — one must touch and somehow *account for* the things that don’t fit the pattern
+
+
+
 ## how political is 1790s lit? ##
 
 
@@ -421,6 +433,30 @@ If the audience is a node in the social network, can we tell who they are meant 
 
 
 
+## what is the "theory" of literary history? ##
+
+
+
+
+
+
+
+Moretti: evolutionary selection? Centre-periphery?
+
+
+
+Or is it something else?
+
+
+
+Why do we need a theory?
+
+
+
+"I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145)
+
+
+
 ## what is left out of corpora? ##
 
 
@@ -434,6 +470,18 @@ If the audience is a node in the social network, can we tell who they are meant 
 
 
 # Thoughts #
+
+
+
+## "genres are problem-solving devices" ##
+
+
+
+
+
+
+
+What it means for readers to 'like' something: "literary genres are problem-solving devices, which address a contradiction of their environment, offering an imaginary resolution by means of their formal organization. The pleasure provided by that formal organization is therefore more than just pleasure -- it is the vehicle through which a larger symbolic sentiment is shaped and assimilated." (Moretti Distant Reading 141)
 
 
 
@@ -502,6 +550,22 @@ Also -- many times the "bad" texts through Idea 1 above are, really, socially ma
 
 
 So, I am practically allergic to the mere thought of trying to identify Good and Bad texts -- by my own instincts I will then end up only wishing to spend time on my Bad ones -- but I do feel like there is space here to distinguish between the **multiple** uses of literature. If there are **many** lists of Good Books, does that address the fundamental problem at all???
+
+
+
+## ballads make ideas catchy ##
+
+
+
+
+
+
+
+Jo Walton’s “single most quoted thing I have ever written” is a song “The Lurkers Support Me In Email” to the tune of “My Bonny Lies Over The Ocean” — because the tune makes the words more memorable, so if the idea itself sticks with you you now have a pre-packaged way to share it
+
+
+
+JUST LIKE what Hannah More does when she publishes hymns / the entire song market of the 18thC!! 
 
 
 
@@ -601,6 +665,42 @@ The escapism of the story is not that men won’t kidnap you — it’s that the
 
 
 
+# canonical authors aren't obviously exceptional #
+
+
+
+
+
+
+
+"rivals: contemporaries who write more or less like canonical authors... but not quite, and who... seem to be the largest contingent of the 'great unread'" (Moretti Distant Reading 67)
+
+
+
+There are so many of them and they look at first glance so similar
+
+
+
+(Even for, like, modernism….? Or Romanticism, that first round of glorification of individual genius?)
+
+
+
+# always expect power-law distribution #
+
+
+
+
+
+
+
+“Ha-ha! No one expects the power-law distribution!”
+
+
+
+We want things to be a few, simple, balanced categories — we especially want there to be two equally-matched sides of a binary — but in fact just about everything follows a power-law distribution, which will necessitate a long-tail “misc” category.
+
+
+
 # ESTC: publishers visible over authors #
 
 
@@ -649,11 +749,39 @@ Older works will have had more years for people to potentially read them, so tha
 
 
 
+# 18thC titles intentionally signal contents #
+
+
+
+
+
+
+
+The title of a work was the main ‘advertisement’ available to a text (even author names played a minor role!) so 18thC titles are doing a lot of heavy linguistic signalling of the contents intentionally to locate/interpellate their audiences
+
+
+
 # Experiments #
 
 
 
 ## use of Shakespeare in the 18thC ##
+
+
+
+## graphs - index to tears ##
+
+
+
+
+
+
+
+![PastedGraphic.png](PastedGraphic.png)![cause.png](cause.png)
+
+
+
+![who-when-2.png](who-when-2.png)![why-people-cause-crying.png](why-people-cause-crying.png)![why-people-cry.png](why-people-cry.png)![person-crying.png](person-crying.png)![who-when.png](who-when.png)
 
 
 
