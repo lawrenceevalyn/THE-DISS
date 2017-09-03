@@ -433,6 +433,18 @@ If the audience is a node in the social network, can we tell who they are meant 
 
 
 
+## what is left out of corpora? ##
+
+
+
+### is ECCO "representative"? ###
+
+
+
+### is HathiTrust "representative?" or reliable?? ###
+
+
+
 ## what is the "theory" of literary history? ##
 
 
@@ -457,15 +469,15 @@ Why do we need a theory?
 
 
 
-## what is left out of corpora? ##
+## can I make a reverse recommendation engine? ##
 
 
 
-### is ECCO "representative"? ###
 
 
 
-### is HathiTrust "representative?" or reliable?? ###
+
+Is there a way I could use JSTOR information & ESTC information to identify popular but under-studied writers? Or to generate for any given reader a list of five names likely to be very different from what they're currently reading? Reverse recommendation engines?
 
 
 
@@ -665,7 +677,7 @@ The escapism of the story is not that men won’t kidnap you — it’s that the
 
 
 
-# canonical authors aren't obviously exceptional #
+## canonical authors aren't obviously exceptional ##
 
 
 
@@ -685,7 +697,7 @@ There are so many of them and they look at first glance so similar
 
 
 
-# always expect power-law distribution #
+## always expect power-law distribution ##
 
 
 
@@ -701,7 +713,7 @@ We want things to be a few, simple, balanced categories — we especially want t
 
 
 
-# ESTC: publishers visible over authors #
+## ESTC: publishers visible over authors ##
 
 
 
@@ -713,7 +725,7 @@ The decade 1789-99, according to the ESTC corpus, is driven by publishers at lea
 
 
 
-# ESTC: author development = publisher choice #
+## ESTC: author development = publisher choice ##
 
 
 
@@ -737,7 +749,7 @@ More accomplishes her stunning volume of work partly by being a publisher as muc
 
 
 
-# ESTC: prominence of the "back catalogue" #
+## ESTC: prominence of the "back catalogue" ##
 
 
 
@@ -749,7 +761,7 @@ Older works will have had more years for people to potentially read them, so tha
 
 
 
-# 18thC titles intentionally signal contents #
+## 18thC titles intentionally signal contents ##
 
 
 
