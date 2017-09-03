@@ -2,7 +2,10 @@
 * I want to address, somehow, the use of canons, and and consider better ways to contextualize and teach literature
     * Somehow I want to "account for" the arc of literature in all its variety
 * I want to apply the conceptual frameworks of prototyping and models to literary research
-* I really like the Gothic
+* I really like the Gothic; I really like everything I learn enough about
+* I want to do reparative research: 
+    * "The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
+    * "What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
 
 # Current Priorities
 * Read 18thC texts voraciously, to inform my gut intuition of the period
@@ -11,7 +14,8 @@
 * Just throw all my research ideas into this one repo, and figure out later how it connects
 
 # Writing workflow
-* Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc. One snippet per “thought.”
+* Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc.
+* One snippet per thought. Keep the pieces small.
 * Let it all accumulate into groupings organically. Don't try to organize too soon.
 * Don't create empty spaces for thoughts to go in the future. (Add research questions and hypotheses instead.)
 
