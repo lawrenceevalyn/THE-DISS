@@ -23,6 +23,10 @@
 
 # Research Log
 
+## September 3, 2017
+
+Is there a way I could use JSTOR information & ESTC information to identify popular but under-studied writers? Or to generate for any given reader a list of five names likely to be very different from what they're currently reading? Reverse recommendation engines?
+
 ## September 2, 2017
 
 We want things to be a few, simple, balanced categories — we especially want there to be two equally-matched sides of a binary — but in fact just about everything follows a power-law distribution, which will necessitate a long-tail “misc” category.

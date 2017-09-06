@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-03 01:01:55 -0400" ModID="7C2214F7-FB0C-427B-9135-58B5EF820255">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-06 11:10:44 -0400" ModID="69678A13-2AD2-4448-B27A-0C9BED0246A5">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -596,26 +596,6 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="185" UUID="63A7D1B2-0CF2-49EA-A7A6-B19FB90B5407" Type="Text" Created="2017-09-03 00:51:46 -0400" Modified="2017-09-03 00:53:00 -0400">
-                            <Title>canonical authors aren't obviously exceptional</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>353,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="180" UUID="99C529F6-FAEA-4F51-BF4F-B245F21801B4" Type="Text" Created="2017-09-03 00:44:34 -0400" Modified="2017-09-03 00:47:18 -0400">
-                            <Title>always expect power-law distribution</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>8,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="161" UUID="EE519946-C464-41D3-95F3-BFC82EB59A03" Type="Text" Created="2017-08-11 16:07:17 -0400" Modified="2017-08-11 16:07:45 -0400">
                             <Title>ESTC: publishers visible over authors</Title>
                             <MetaData>
@@ -646,6 +626,38 @@
                                 <TextSelection>305,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="185" UUID="63A7D1B2-0CF2-49EA-A7A6-B19FB90B5407" Type="Text" Created="2017-09-03 00:51:46 -0400" Modified="2017-09-03 00:53:00 -0400">
+                            <Title>canonical authors aren't obviously exceptional</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>353,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="180" UUID="99C529F6-FAEA-4F51-BF4F-B245F21801B4" Type="Text" Created="2017-09-03 00:44:34 -0400" Modified="2017-09-03 03:34:41 -0400">
+                            <Title>always expect power-law distribution</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>300,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="189" UUID="02BFC210-4DD5-4E30-A7FE-EA60FB33484D" Type="Text" Created="2017-09-03 03:34:39 -0400" Modified="2017-09-03 03:35:14 -0400">
+                                    <Title>"thinking other than dualistically"</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>94,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem ID="181" UUID="9E60CA43-5A82-43A7-B6E5-7D16E1805698" Type="Text" Created="2017-09-03 00:47:57 -0400" Modified="2017-09-03 00:48:50 -0400">
                             <Title>18thC titles intentionally signal contents</Title>
                             <MetaData>
@@ -654,6 +666,38 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>241,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="188" UUID="0B53344E-D25D-40C1-AB2A-3E45EEA1BD4B" Type="Text" Created="2017-09-03 03:32:51 -0400" Modified="2017-09-03 03:33:09 -0400">
+                            <Title>reparative reading</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>286,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="187" UUID="2F5C1979-1F90-418F-9ABB-538C84257C60" Type="Text" Created="2017-09-03 03:30:17 -0400" Modified="2017-09-03 03:32:59 -0400">
+                                    <Title>DH: thing you study is a thing you create</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>242,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="190" UUID="A33456A8-68C4-4BA0-807A-97083B9DAA86" Type="Text" Created="2017-09-06 11:09:12 -0400" Modified="2017-09-06 11:10:20 -0400">
+                            <Title>"The Thorn" &amp; "Ballad of Robert &amp; Richard"</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>275,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2067,7 +2111,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="316" Characters="1974" Date="2017-09-03 00:42:16 -0400"></PreviousSession>
+        <PreviousSession Words="47" Characters="275" Date="2017-09-06 11:09:06 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

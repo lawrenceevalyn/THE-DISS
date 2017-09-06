@@ -677,42 +677,6 @@ The escapism of the story is not that men won’t kidnap you — it’s that the
 
 
 
-## canonical authors aren't obviously exceptional ##
-
-
-
-
-
-
-
-"rivals: contemporaries who write more or less like canonical authors... but not quite, and who... seem to be the largest contingent of the 'great unread'" (Moretti Distant Reading 67)
-
-
-
-There are so many of them and they look at first glance so similar
-
-
-
-(Even for, like, modernism….? Or Romanticism, that first round of glorification of individual genius?)
-
-
-
-## always expect power-law distribution ##
-
-
-
-
-
-
-
-“Ha-ha! No one expects the power-law distribution!”
-
-
-
-We want things to be a few, simple, balanced categories — we especially want there to be two equally-matched sides of a binary — but in fact just about everything follows a power-law distribution, which will necessitate a long-tail “misc” category.
-
-
-
 ## ESTC: publishers visible over authors ##
 
 
@@ -761,6 +725,54 @@ Older works will have had more years for people to potentially read them, so tha
 
 
 
+## canonical authors aren't obviously exceptional ##
+
+
+
+
+
+
+
+"rivals: contemporaries who write more or less like canonical authors... but not quite, and who... seem to be the largest contingent of the 'great unread'" (Moretti Distant Reading 67)
+
+
+
+There are so many of them and they look at first glance so similar
+
+
+
+(Even for, like, modernism….? Or Romanticism, that first round of glorification of individual genius?)
+
+
+
+## always expect power-law distribution ##
+
+
+
+
+
+
+
+“Ha-ha! No one expects the power-law distribution!”
+
+
+
+We want things to be a few, simple, balanced categories — we especially want there to be two equally-matched sides of a binary — but in fact just about everything follows a power-law distribution, which will necessitate a long-tail “misc” category.
+
+
+
+### "thinking other than dualistically" ###
+
+
+
+
+
+
+
+Sedgwick’s project in Thinking Feeling was “the ambition of thinking other than dualistically” (p.1)
+
+
+
 ## 18thC titles intentionally signal contents ##
 
 
@@ -770,6 +782,54 @@ Older works will have had more years for people to potentially read them, so tha
 
 
 The title of a work was the main ‘advertisement’ available to a text (even author names played a minor role!) so 18thC titles are doing a lot of heavy linguistic signalling of the contents intentionally to locate/interpellate their audiences
+
+
+
+## reparative reading ##
+
+
+
+
+
+
+
+"The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
+
+
+
+"What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
+
+
+
+### DH: thing you study is a thing you create ###
+
+
+
+
+
+
+
+You make/remake the object of your inquiry according to your own interests, priorities, lens, whims — you nurture it, claim it, become intimate with it by manipulating it (deformance), using it, getting messy and tangled and confused with it.
+
+
+
+
+
+
+
+The decade 1789-99 is suddenly *about me*, and *mine*.
+
+
+
+## "The Thorn" & "Ballad of Robert & Richard" ##
+
+
+
+
+
+
+
+Both ballad poems are using the same idea of an abandoned woman and the horrors of death, but in different ways; both are trying to re-purpose an existing cultural phenomenon/trope while filing off the parts they find distateful to serve their more morally uplifting purposes
 
 
 
