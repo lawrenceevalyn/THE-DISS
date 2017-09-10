@@ -23,9 +23,353 @@
 
 # Research Log
 
+## September 9, 2017
+
+I think it is the reparative impulse that is making my special fields reading so poweful -- I just read Shelley's Ode to the West Wind, and it was beautiful, in a way it never had been before, just as Wordsworth and Coleridge have been beautiful, and even Blake was bearable for the very first time. All my previous attempts have been from the position of needing to dissect and master these giants whose importance would determine my own; my hurried and impersonal readings couldn't find the value in them. But now that I read them looking for pleasure and for interest, and looking also for how the poets themselves were engaged with their worlds and looking for their own pleasure and interest -- now the rotten wet leaves of autumn are powerful to me, and I too want to hope, that oh, if winter comes, spring must follow.
+
+## September 8, 2017
+
+A bunch of thoughts from tumblr: 
+
+I have been reading for special fields and just... just falling in love
+right now I am catching up on the responses to fizzygin's post on fandom and it's connecting to the Eve Sedgwick I've been reading
+
+hbbo
+ooooh hooray!!
+
+me
+I've been stumbling around for a while in the idea of "reparative reading" as an alternative to the typical reading-symptoms-to-expose-the-hidden-patriarchal-(or-whatever)-systems-lurking-underneath "paranoid reading" of literary texts
+
+hbbo
+intriguing, say more
+
+me
+this framework is something Sedgwick articulated such that it suddenly crystallized all my thoughts
+let me see if I can express it!
+
+me
+I suspect it mostly feels like a powerful distinction to someone who has slogged through a hundred mediocre attempts to recreate Foucault, Lacan, Freud, etc, by saying "Pride and Prejudice APPEARS to be a charming love story, but I, the CRITIC, have SEEN ITS SECRETS, and I expose to you now the horrible systems upon which its world rests!"
+which falls flat for me partly because, sure, yeah, I am aware of capitalism, it does not surprise me that there is capitalism in P&P. Austen was also aware of capitalism.
+
+hbbo
+ha, yes
+
+me
+Some of these are more successful than others -- some texts really are relying upon but not willing to examine some lurking system or another
+decolonial readings are often more successful for me on that front, because the authors (especially in the 19thC) really are trying to avoid addressing their own complicity
+
+hbbo
+right
+achebe on heart of darkness, etc.
+
+me
+and Sedgwick.. hm, she certainly doesn't argue that one must never interrogate or dissect a text
+but she writes out of a frustrated boredom with this approach, and the feeling that, despite the rhetorical flourishes and triumph of the conquering critic, we often don't learn anything new or useful from this process
+especially if we're all accustomed now to just assume that *everything* has terrible underlying frameworks
+
+hbbo
+/me nods
+
+me
+so there are two quotes I have pasted at the top of my dissertation notes doc:
+
+me
+"The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
+"What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
+
+hbbo
+hmmmm yes, interesting
+
+me
+Which is -- a totally different way of responding to the flaws and insufficiencies of a text, and one that has intense appeal to me
+
+hbbo
+reminds me of several chapters of that lesbian history by emma donoghue I was reading a month or so ago
+
+me
+oh! tell me more!
+
+hbbo
+she talks a lot about how, like
+
+hbbo
+the fact that a text that represents or misrepresents woman-woman desire, in a lot of ways, fundamentally hostile to that desire or AT THE VERY LEAST extremely ill-informed about it, doesn't mean that historical same-sex-attracted women didn't gain value from those texts, even if that value required different kinds of readings than intended
+
+me
+ohhh, yeah!
+yeah, that's a perfect example, I think
+
+me
+I've just added a bunch of donoghue to y t-read list; that one was Passions Between Women, yeah?
+
+hbbo
+reading that book was pretty much a continual exercise in punching the air for me, ahahaha
+yes, that's the one
+
+me
+that example appeals to me also because it gestures toward a reason for all of this discussion of non-paranoid reading to be called "queer theory", which initially seemed strange to me
+
+hbbo
+yes!
+
+me
+surely everyone can see that this is an often necessary reading practice, and an important part of literature's role in our lives
+the wilful remaking of a text into something that works for you
+
+hbbo
+that is definitely the political context in which I've thought most about that general idea
+yes
+
+me
+my own work is interested in the uses that 18thC basically-heterosexual women make of semi-misogynist literature
+
+hbbo
+/me nods!
+
+me
+(by basically heterosexual, I mean women who want to end up in happy companionate marriages with men)
+
+hbbo
+right
+
+me
+I think I've talked to you about this also? the escapist fantasy, in a novel where women are powerless to do anything but cry when kidnapped, is that the crying will work
+
+hbbo
+oh, huh--I don't think we have had this conversation, but that makes a lot of sense
+
+me
+I've been thinking, also, about the virtues of the Gothic as a narrative mode which doesn't truck with any bullshit about women's place in the world. Powerful men are tyrants who can destroy you! Your feelings are correct on that front! You are excruciatingly vulnerable!
+And now here is a story where everything turns out okay anyway.
+
+hbbo
+yes. a space in which to really lug out all those repressed anxieties and blow them up as big as they're able to go
+can be very cathartic for sure
+and not only cathartic but useful
+
+me
+yeah, yeah
+The contemporary narrative of an "empowering" story for women is about women having power, and indeed a lot of criticism looks at these works to try to find the particular womanly kinds or spheres of power that make the texts "subversive" or "progressive"... and I do see some of that, there is a compelling thread of women having access to emotional manipulation of men as an effective strategy that makes men look foolish and less powerful
+
+hbbo
+/me nods
+
+me
+but I think for the most part they're not trying to say, "you have the incredible power of emotional manipulation!" -- I really think they're wallowing in the abjectness of acknowledging powerlessness
+and, this is the part that has been firing up my soul, the thing you can do, when you have no power, is you can refuse to endorse your oppressor's actions
+
+hbbo
+/me nods
+
+me
+this is a bit of a fantasy too, really, but it's one that speaks to me -- the idea that as long as you make them FORCE you, as long as you don't capitulate, that's -- it's not POWER, but.....
+*hands in the air* this is where I don't know what I'm saying yet
+
+hbbo
+no, yeah, it's at the very least a sort of
+sovereignty over the self
+
+me
+ooooooh, yeah
+sovereignty is a good term for it
+
+me
+hmm, I'm thinking now that there's also a sort of exposure of tyranny, too. If you refuse to walk with your kidnapper and force him to carry you, you deprive him of some of his illusions
+
+hbbo
+right
+I feel like this comes up a lot in like
+idk, narratives of long captivity, I'm trying to think of examples
+
+me
+oh, yeah, there would be a connection there
+
+hbbo
+like in 1984, he talks a lot under torture but it's not until he voluntarily betrays his lover that his selfhood is really broken
+
+me
+ohhhh, yeah
+man, I read that novel like a decade too young to get anything out of it, I should revisit it
+
+hbbo
+I mean, DEBATABLE how voluntary that really is if your alternative is getting your face eaten off by rats, but
+still
+
+me
+well, the 18thC heroine ideal is to literally die before, say, signing paperwork allowing someone to take her ancestral property
+
+hbbo
+yeah I read it ages ago as well
+ahahahahaha yes
+
+me
+but that feels like part of the fantasy, this idea that you actually will just get your face eaten off by rats before you betray your own self
+even if in all other interactions you are timid and delicate
+1984 of course not being interested in fantasy
+
+hbbo
+I think there's certainly a fantasy at play in basically all fictional depictions of torture, face-rats or no, that if a person is really truly morally strong and really believes in themselves & their cause, they will stand up to whatever gets thrown at them
+
+me
+that rings true
+
+me
+hah, now honestly A Little Princess is coming to mind
+but all those victorian ideals of noble suffering
+before you said that, I was thinking of A Handmaid's Tale
+
+hbbo
+in a way it's a sort of---ahahahaha I never really thought about this parallel, but it's a sort of cultural fantasy of platonic maleness in the same way that 18th century novels gave us a platonic ideal of the sensible (in the sense of exquisitely sensitive) female
+
+me
+expand on that!
+the platonic ideal of maleness is that pure resistance to torture? 1984 is about this platonic ideal?
+
+hbbo
+a real man should stand up to waterboarding or he loses his Real Maleness, in the same way that an 18th century girl should turn instinctively away from indelicate subject matter, even if she has been sheltered from knowing what that indelicacy consists in
+well 1984 is... a relevant but maybe not spot-on example
+
+me
+oh, that IS interesting, especially since the 18thC value of Real Maleness, I think, actually consists more in never allowing an insult to stand, always responding to defend oneself! And the endurance of suffering is a female cirtue
+That level of toughness in the face of torture is certainly a more male ideal nowadays though
+
+hbbo
+yeah I'm thinking of, ugh
+I feel like there was a debate on this subject around the show "24," though I never watched it
+
+hbbo
+where torture was being depicted as this valid tool for extracting useful information from tough men who just needed to be worn down before they would decide to crack
+the counter-argument from people who have actually observed how torture works being: when pain gets to a certain point basically everyone will start making up stories they think their torturer wants to hear, in order to make it stop
+
+me
+ohhh, interesting
+yeah, I recall that conversation
+
+hbbo
+so it's both a shitty construction of manhood, and a shitty interrogation technique
+
+me
+the broad cultural one, I mean
+
+hbbo
+yes
+
+me
+ahahaha, I mean: men.
+
+hbbo
+LOL ikr
+
+me
+if my studies have taught me anything, they've taught me that men have been EXHAUSTING for at least 250 years. in the 18thC it was a woman's responsibility to emotionally manipulate men out of duelling over her; if they duelled and someone died, it was her fault
+
+me
+poor Clarissa gets the silent treatment from her whole family because her brother and a guy she hates who tried to assault her got into a duel, and both of them even lived but it was very awkward that now Mr. Assault had to be struck from all their guest lists, and why didn't Clarissa manage the whole thing better??
+
+hbbo
+wow
+good grief
+
+me
+so that's the 1740s, written by a man -- by the 1790s I can see the appeal of novels by women saying "MEN ARE EXHAUSTING AND ACTIVELY TRYING TO FUCK UP YOUR LIFE"
+
+hbbo
+ahahahahahaha yes
+IT'S TRUE, GIRLS
+IT'S ALL TRUE
+no rumor too wild
+
+me
+that novel is also the progenitor of the woman-grabbed-into-carriage-for-forced-elopement trope, as far as I can tell
+uh, are you worried about spoilers for Clarissa?
+
+hbbo
+ahahahahaha no
+I am not
+
+me
+well, he says he will kill himself if she doesn't talk to him in the garden, so she goes to the garden to talk to him
+he yanks her into a carriage to drive away to scotland where they can elope
+I haven't read this far myself, but evidently along the way he rapes her, and she eventually dies
+and then for my fields list every novel by a woman has had a scene where a woman gets grabbed into a carriage against her will for an elopement
+I actually asked one of my fellow 18thC scholars if this was a common trope or if I was imagining it, and she laughed and agreed that it's everywhere
+but in all the ones I read, what the women do, in the carriage, is they cry, energetically, refusing food or water or sleep
+
+me
+for days
+until they are on the brink of death
+
+me
+and then their attempted kidnapper has to call a doctor, and the doctor says, "you are going to kill this woman if you force her to marry you, do you love her or not??" and the man has to call off the elopement, and the doctor takes the woman home to his wife, and the doctor's wife chaperones her all the way home to her family (i.e., the man who currently owns her) and vouches for her virtue, and her reputation is preserved
+like: three novels in a row had this exact arc
+
+me
+and it's just a FASCINATING response to Clarissa?? because it's not a fantasy of being less vulnerable than Clarissa, right, it's not about having some power she didn't have: it's about... the world just rewarding you for your suffering and endurance?
+
+hbbo
+(sorry, I'm suddenly on a call with an exhausting man who happens to be my coworker)
+
+me
+(ahahaha, topical! no worries.)
+Today at 12:16 AM
+
+hbbo
+"I become intimate with it by manipulating it, using it, getting messy and tangled and confused with it": kinky! and delicious. Also sorry for vanishing earlier; it was almost time for me to take off & this dude called me with six complaints, & then I drove home & watched "Rope" with Gins. But yes, I definitely see where you're going here! It's a mode of changing the world surrounding the heroine, rather than changing the heroine to suit the world
+
+me
+haha, no worries, you gave me fair warning!
+I hope you enjoy your upcoming time off the grid -- that sort of thing is always so refreshing!
+
+## September 6, 2017
+
+can I track political events to weather and food shortages to find a causal relation?
+
+what I am interested in
+- responses to political trauma
+- embodied cognition, the repressed body
+- popular literatures, what people are actually reading
+
+Christopher Worley - theory on why England never had a revolution?
+
+---
+
+on how to calculate popularity:
+https://www.jstor.org/stable/3844307?seq=1#page_scan_tab_contents
+
+and the previous items in the controversy (Blayney article, Farmer and Lesser article, Blayney rebuttal)
+
+generally relevant:
+https://cup.columbia.edu/book/the-ethics-of-opting-out/9780231180917
+
+Penis Envy and Bad Feelings: On Everyday Life (New York: Columbia University Press, forthcoming)
+
+---
+
+Conviction in the face of oppression is powerful, if you refuse to believe the tyrants they can never truly conquer you ----- but also preposessions make rationality impossible and hurt society
+
+(Women in Gothic novels know the tyranny of patriarchy is unjust, and by suffering without ever condeding to it, they triumph)
+
+I think my question is, how did people use this literature to cope? And how can I use this literature to cope?
+
+---
+
+DH as fully integrated into argument rather than series of experiments, reparative reading, affect, the body, these aren't questions, there are positions I want to occupy in relation to my subject, and my subject is the 1790s -- which means I find myself asking, "what is lovable in Hannah More?" A useful typo, "what is livable in Hannah More?" -- what can she give us if we come to her not looking for contradictions in her theology or desperate to find progressive "resistance" in her avowed conservativism? If we read with the grain instead of against it, we can chuckle at and move past her patronizing attitude to the poor and contemplate the high standards of sincere virtue and self evaluation she promotes 
+
 ## September 3, 2017
 
 Is there a way I could use JSTOR information & ESTC information to identify popular but under-studied writers? Or to generate for any given reader a list of five names likely to be very different from what they're currently reading? Reverse recommendation engines?
+
+---
+
+I'm reading Sedgwick, and about Sedgwick, until I feel like my heart might burst: *am* I doing, have I been doing, queer theory all along?
+
+(Why have I shied away from queer theory, anyway? 
+
+---
+
+What's reparative about computational methods: You make/remake the object of your inquiry according to your own interests, priorities, lens, whims — you nurture it, claim it, become intimate with it by manipulating it (deformance), using it, getting messy and tangled and confused with it.
+
+The decade 1789-99 is suddenly *about me*, and *mine*.
 
 ## September 2, 2017
 

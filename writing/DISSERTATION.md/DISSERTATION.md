@@ -833,6 +833,26 @@ Both ballad poems are using the same idea of an abandoned woman and the horrors 
 
 
 
+## conviction is powerful; preposessions dangerous ##
+
+
+
+
+
+
+
+Conviction in the face of oppression is powerful, if you refuse to believe the tyrants they can never truly conquer you ----- but also preposessions make rationality impossible and hurt society
+
+
+
+
+
+
+
+(Women in Gothic novels know the tyranny of patriarchy is unjust, and by suffering without ever condeding to it, they triumph)
+
+
+
 # Experiments #
 
 
