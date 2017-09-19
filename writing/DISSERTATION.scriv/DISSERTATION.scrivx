@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-10 18:45:43 -0400" ModID="81559349-A633-42AA-8876-22913E300E70">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 00:21:15 -0400" ModID="5A5D1B25-4EBD-4EC6-A713-E8608A219DD8">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -389,6 +389,48 @@
                             <TextSettings>
                                 <TextSelection>76,0</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="197" UUID="60AF6AED-C1A5-438F-9ADF-CC24EF10DFDC" Type="Text" Created="2017-09-19 00:16:27 -0400" Modified="2017-09-19 00:18:19 -0400">
+                            <Title>there is no "quintessential" genre example</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>260,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="198" UUID="61A7C257-200C-4CF0-82B0-B5322E90F0DF" Type="Text" Created="2017-09-19 00:18:00 -0400" Modified="2017-09-19 00:19:03 -0400">
+                                    <Title>Genre is like Aristotelian species?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>228,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="199" UUID="904309BC-4E55-4F39-BE80-5D1C8CB828CD" Type="Text" Created="2017-09-19 00:19:01 -0400" Modified="2017-09-19 00:20:32 -0400">
+                                    <Title>1820s parody gothics are gothic</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>84,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="200" UUID="D33BE07A-311D-4A95-BF3C-B71F298D2B17" Type="Text" Created="2017-09-19 00:20:24 -0400" Modified="2017-09-19 00:20:32 -0400">
+                                    <Title>Gothic checklists have no referents</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>131,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="146" UUID="C860C320-4EE2-45EA-A880-0FAB52BAD250" Type="Text" Created="2017-08-11 15:25:03 -0400" Modified="2017-08-11 15:25:20 -0400">
                             <Title>what to teach: convo with Jack</Title>
@@ -1565,7 +1607,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="112" Characters="677" Date="2017-09-10 18:32:55 -0400"></PreviousSession>
+        <PreviousSession Words="112" Characters="704" Date="2017-09-19 00:16:14 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

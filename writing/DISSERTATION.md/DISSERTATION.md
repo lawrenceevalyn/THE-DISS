@@ -373,6 +373,54 @@ What it means for readers to 'like' something: "literary genres are problem-solv
 
 
 
+## there is no "quintessential" genre example ##
+
+
+
+
+
+
+
+I’ve been looking, but I haven’t been able to find anything that ONLY replicated one genre’s set of tropes without including anything a bit original or incongruous; similarly no one work is able to contain ALL generic tropes. There is no “typical” Gothic novel 
+
+
+
+### Genre is like Aristotelian species? ###
+
+
+
+
+
+
+
+Genre operates like Aristotelian species, where we see individual examples and mentally combine them into a created “ideal” or perhaps placeholder? (Does this have… useful implications? Does Cai have anything to say about this?)
+
+
+
+### 1820s parody gothics are gothic ###
+
+
+
+
+
+
+
+The second flourishing of the Gothic in the 1820s as parody, meaningfully is Gothic.
+
+
+
+### Gothic checklists have no referents ###
+
+
+
+
+
+
+
+Checklists of Gothic tropes functioned as successful pointers, despite the fact that no one work completed all the checklist items.
+
+
+
 ## what to teach: convo with Jack ##
 
 
