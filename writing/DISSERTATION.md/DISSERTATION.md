@@ -773,6 +773,46 @@ Conviction in the face of oppression is powerful, if you refuse to believe the t
 
 
 
+## edit anthologies in chronological order ##
+
+
+
+
+
+
+
+Okay, but really, what **if** the Norton Anthology presented all the works in chronological order, instead of grouping them by author? 
+
+
+
+### de-emphasize The Author ###
+
+
+
+
+
+
+
+You could include author bios at at author's first appearance, but the whole system of biographical readings would break down.. instead, there would have to be running historical contextualization. It would make current ways of teaching inconvenient, but perhaps in productive ways: if you wanted to read a bunch of poems by one author, students would have to skip past the other writing that was produced in between, a tangible reminder of the time that actually did separate those works. It also makes it easier to sub in less "important" authors, when you're looking for a work to fill just one chronological slice rather, than an author whose ouevre will be broadly applicable.
+
+
+
+### must decide "when" a work happens ###
+
+
+
+
+
+
+
+Does a work get listed according it its composition? (Beginning of first composition, or end of last revision?) Its first publication? But “publication” doesn’t apply to works that circulated widely in manuscript form — date from the first time a copy was “distributed” to someone other than the author? (What about, e.g., Percy editing Frankenstein? Other manuscript works were surely revised in response to feedback, but Mary giving Percy a copy doesn’t feel like “publication”.)
+
+
+
+Beginning of first composition is probably easiest (though still not easy) to actually pin to a fixed moment, but work change so much over the course of composition that the chronological conclusions drawn from this arrangement aren’t likely to be fully useful. I like first publication to reflect when the work became less inchoate and entered into a broader literary conversation — this is the point at which chronological connections seem most likely to be informative.
+
+
+
 # Experiments #
 
 
@@ -789,11 +829,55 @@ Conviction in the face of oppression is powerful, if you refuse to believe the t
 
 
 
-![PastedGraphic.png](PastedGraphic.png)![cause.png](cause.png)
+![][cause.png]
 
 
 
-![who-when-2.png](who-when-2.png)![why-people-cause-crying.png](why-people-cause-crying.png)![why-people-cry.png](why-people-cry.png)![person-crying.png](person-crying.png)![who-when.png](who-when.png)
+![why-people-cause-crying.png](why-people-cause-crying.png)![why-people-cry.png](why-people-cry.png)![person-crying.png](person-crying.png)![who-when.png](who-when.png)
+
+
+
+### overall index: cryingest spots ###
+
+
+
+
+
+
+
+![][index.png]
+
+
+
+### who cries when? ###
+
+
+
+
+
+
+
+![][who-when.png]
+
+
+
+#### Harley's experience at Bedlam is odd ####
+
+
+
+
+
+
+
+Harley's encounter at Bedlam, in general, relates to the rest of the work in unexpected ways. The encounter itself is exactly the kind of thing I expected from a book titled Man of Feeling: Harley is uninterested in his friends' fashionable entertainments, but agrees to go along on a tour of the Bedlam asylum (which was, uh, a common place to tour for amusement); at the asylum, he sees a beautiful and ladylike woman with a tragic backstory that has induced in her a whimsical and nonthreatening sort of madness; this sets her apart from the other, repulsive inmates of the asylum, and Harley is moved to effusive tears at her distress. His tears inspire pity in his friends and their tour guide as well, opening their eyes to new frontiers of sympathetic feeling, and the madwoman gives him a memento to remember her by.
+
+
+
+Then he leaves and never mentions her again. And I found myself noticing that his character trait of "feeling" was fairly sudden. A lot of book happens before our protagonist leads us in a round of tears!
+
+
+
+[Are the other parts of the novel meant to demonstrate “feeling” also? Because they really just look like naievete.]
 
 
 
@@ -1978,6 +2062,12 @@ Sedgewick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Para
 
 
 Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly* 69.3 (2006): 425–450. Web.
+
+[cause.png]: cause.png
+
+[index.png]: index.png
+
+[who-when.png]: who-when.png
 
 [PastedGraphic.png]: PastedGraphic.png width=449px height=220px
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 01:47:27 -0400" ModID="07F9197A-0334-470A-A27C-94A682E38D4A">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 14:04:42 -0400" ModID="EF6666A1-FE38-44AA-9114-612B93B1552F">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -482,6 +482,16 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem ID="208" UUID="21F7C6BF-4B6B-4437-9C23-342FA382007D" Type="Text" Created="2017-09-19 14:04:33 -0400" Modified="2017-09-19 14:04:40 -0400">
+                                    <Title>Vicar of Wakefield crying in jail</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem ID="160" UUID="D326340D-8C4D-408A-BF38-EFE9744B03F6" Type="Text" Created="2017-08-11 16:06:03 -0400" Modified="2017-08-11 16:06:13 -0400">
                                     <Title>Two Shoemakers crying in jail</Title>
                                     <MetaData>
@@ -593,7 +603,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>94,0</TextSelection>
+                                        <TextSelection>100,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -640,8 +650,8 @@
                                 <TextSelection>275,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="191" UUID="3659F3DF-B1BB-4428-ABC6-58799E36EF47" Type="Text" Created="2017-09-06 16:25:23 -0400" Modified="2017-09-06 16:26:01 -0400">
-                            <Title>conviction is powerful; preposessions dangerous</Title>
+                        <BinderItem ID="191" UUID="3659F3DF-B1BB-4428-ABC6-58799E36EF47" Type="Text" Created="2017-09-06 16:25:23 -0400" Modified="2017-09-19 14:04:20 -0400">
+                            <Title>conviction powerful; preposession dangerous</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -649,6 +659,38 @@
                             <TextSettings>
                                 <TextSelection>0,321</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="205" UUID="D539440A-33D1-4C12-A304-6351D2D59DD8" Type="Text" Created="2017-09-19 13:58:54 -0400" Modified="2017-09-19 13:59:22 -0400">
+                            <Title>edit anthologies in chronological order</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>135,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="206" UUID="C2721539-0CE2-47EB-92E9-71EBADFD2FD9" Type="Text" Created="2017-09-19 13:59:09 -0400" Modified="2017-09-19 13:59:22 -0400">
+                                    <Title>de-emphasize The Author</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>681,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="207" UUID="70A285FC-D1A9-4F7C-8FA7-850171F6AC17" Type="Text" Created="2017-09-19 13:59:20 -0400" Modified="2017-09-19 14:03:11 -0400">
+                                    <Title>must decide "when" a work happens</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>954,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -680,7 +722,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="204" UUID="B59BE95E-26B1-4187-A9CF-64514C85B810" Type="Text" Created="2017-09-19 01:46:34 -0400" Modified="2017-09-19 01:47:01 -0400">
@@ -1653,7 +1695,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="313" Characters="1850" Date="2017-09-19 01:42:19 -0400"></PreviousSession>
+        <PreviousSession Words="596" Characters="3620" Date="2017-09-19 13:58:46 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
