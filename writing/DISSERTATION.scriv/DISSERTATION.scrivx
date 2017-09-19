@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 00:21:15 -0400" ModID="5A5D1B25-4EBD-4EC6-A713-E8608A219DD8">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 01:47:27 -0400" ModID="07F9197A-0334-470A-A27C-94A682E38D4A">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -673,15 +673,49 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="177" UUID="7C05C929-E994-44C9-A398-B420C344E470" Type="Text" Created="2017-08-21 02:16:57 -0400" Modified="2017-08-21 02:21:12 -0400">
+                        <BinderItem ID="177" UUID="7C05C929-E994-44C9-A398-B420C344E470" Type="Text" Created="2017-08-21 02:16:57 -0400" Modified="2017-09-19 01:47:11 -0400">
                             <Title>graphs - index to tears</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4,1</TextSelection>
+                                <TextSelection>3,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="204" UUID="B59BE95E-26B1-4187-A9CF-64514C85B810" Type="Text" Created="2017-09-19 01:46:34 -0400" Modified="2017-09-19 01:47:01 -0400">
+                                    <Title>overall index: cryingest spots</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="203" UUID="E656C488-AEE5-40E3-97D7-1E8EFB93DC94" Type="Text" Created="2017-09-19 01:45:44 -0400" Modified="2017-09-19 01:46:03 -0400">
+                                    <Title>who cries when?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="201" UUID="BF4D39CC-D6E7-43AE-8252-96DE2BF955DF" Type="Text" Created="2017-09-19 01:42:28 -0400" Modified="2017-09-19 01:46:11 -0400">
+                                            <Title>Harley's experience at Bedlam is odd</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1146,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="195" UUID="8DC9676F-215C-4AB5-BD24-5F20BA287312" Type="Text" Created="2017-09-10 18:41:12 -0400" Modified="2017-09-10 18:41:17 -0400">
                             <Title>potential ideas</Title>
@@ -1562,6 +1596,18 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem ID="202" UUID="EFFA0A6F-2813-4DC4-9941-E329D1800ED6" Type="Text" Created="2017-09-19 01:44:52 -0400" Modified="2017-09-19 01:44:57 -0400">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -1607,7 +1653,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="112" Characters="704" Date="2017-09-19 00:16:14 -0400"></PreviousSession>
+        <PreviousSession Words="313" Characters="1850" Date="2017-09-19 01:42:19 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
