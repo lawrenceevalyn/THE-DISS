@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 14:04:42 -0400" ModID="EF6666A1-FE38-44AA-9114-612B93B1552F">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 23:40:54 -0400" ModID="535AF2C4-ED0D-4117-B7B5-1C085D8344F7">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -368,6 +368,26 @@
                                 <TextSelection>264,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="210" UUID="E1CCA503-B3FB-4215-A7C5-B37DAC7EFBC0" Type="Text" Created="2017-09-19 23:34:46 -0400" Modified="2017-09-19 23:37:16 -0400">
+                            <Title>how can we decanonize Wordsworth?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>119,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="211" UUID="ACFEB199-D1F9-40E5-987C-EA4D18E74E2A" Type="Text" Created="2017-09-19 23:34:56 -0400" Modified="2017-09-19 23:36:46 -0400">
+                            <Title>how can we decanonize Jane Austen?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>80,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="131" UUID="11BF4A7B-4C91-4806-A362-319BF51B971B" Type="Text" Created="2017-08-11 15:20:10 -0400" Modified="2017-08-11 15:20:11 -0400">
@@ -688,6 +708,28 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>954,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="212" UUID="D45E63CB-57AB-483E-B3D7-F92E5ABB9AEC" Type="Text" Created="2017-09-19 23:37:18 -0400" Modified="2017-09-19 23:37:24 -0400">
+                            <Title>Wordsworth wrote collaboratively</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="213" UUID="B10220B7-8A9B-4339-9410-578182F128BA" Type="Text" Created="2017-09-19 23:38:05 -0400" Modified="2017-09-19 23:39:32 -0400">
+                                    <Title>Coleridge wrote "We Are Seven"</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1209,15 +1251,25 @@
                                 <TextSelection>365,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="18" UUID="A8314F73-6247-4A4D-AD70-32A24AF9C227" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
-                            <Title>Text 3</Title>
+                        <BinderItem ID="18" UUID="A8314F73-6247-4A4D-AD70-32A24AF9C227" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2017-09-19 23:33:07 -0400">
+                            <Title>Kirwan, Peter. Shakespeare and the Idea of Apocrypha: Negotiating the Boundaries of the Dramatic Canon</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>152,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="209" UUID="E158F644-8798-457E-BAB2-D6288E7402F8" Type="Text" Created="2017-09-19 23:33:03 -0400" Modified="2017-09-19 23:34:31 -0400">
+                            <Title>Reviewed by IAN H. DE JONG</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>478,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="19" UUID="6878C619-CD76-4DD7-91EA-11D570A4D29C" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
@@ -1695,7 +1747,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="596" Characters="3620" Date="2017-09-19 13:58:46 -0400"></PreviousSession>
+        <PreviousSession Words="1171" Characters="7350" Date="2017-09-19 23:31:59 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

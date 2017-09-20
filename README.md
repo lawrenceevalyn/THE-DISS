@@ -11,6 +11,7 @@
 * Read 18thC texts voraciously, to inform my gut intuition of the period
 * Use ESTC data to model the decade 1789-99
 * Figure out what question the field of literary study is trying to answer, exactly
+    * Figure out what question I, personally, want most urgently to know the answer to
 * Just throw all my research ideas into this one repo, and figure out later how it connects
 
 # Writing workflow
@@ -22,6 +23,20 @@
 # Next-do: migrate thoughts from research log to monster scrivener doc
 
 # Research Log
+
+## September 19, 2017
+
+Okay, but really, what **if** the Norton Anthology presented all the works in chronological order, instead of grouping them by author? You could include author bios at at author's first appearance, but the whole system of biographical readings would break down.. instead, there would have to be running historical contextualization. It would make current ways of teaching inconvenient, but perhaps in productive ways: if you wanted to read a bunch of poems by one author, students would have to skip past the other writing that was produced in between, a tangible reminder of the time that actually did separate those works. It also makes it easier to sub in less "important" authors, when you're looking for a work to fill just one chronological slice rather, than an author whose ouevre will be broadly applicable.
+
+---
+
+I want to do something like **Shakespeare and the Idea of Apocrypha: Negotiating the Boundaries of the Dramatic Canon**, by Peter Kirwan ... does that mean I am going to have to much about with Wordsworth and Coleridge and the Romantics? (At that point am I just replicating Michael Gamer's work?)
+
+Part of what frustrates me is that these important, fascinating novels **aren't** in any kind of canon, that the canon just skips from Richardson to Austen, despite the fact that Austen is a wild aberration.
+
+Oh no... am I going to have to write against **Austen**?? But I adore her!
+
+(also, how hilariously nearsighted that I can't think of anybody canonical from my period, hahaha, when Austen is one of the few names able to tangle with Shakespeare.)
 
 ## September 9, 2017
 

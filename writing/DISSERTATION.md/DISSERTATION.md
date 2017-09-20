@@ -357,6 +357,38 @@ Is there a way I could use JSTOR information & ESTC information to identify popu
 
 
 
+## how can we decanonize Wordsworth? ##
+
+
+
+
+
+
+
+(And Coleridge and the other Romantics… especially Blake)
+
+
+
+One part is bursting open all their self-indulgent mythmaking
+
+
+
+## how can we decanonize Jane Austen? ##
+
+
+
+
+
+
+
+Goodness gracious, do we even WANT to?
+
+
+
+But she’s really so unlike everyone else…
+
+
+
 # Thoughts #
 
 
@@ -534,6 +566,10 @@ Is the stock sentimental trope of crying in a jail marked by continuity or disco
 
 
 ### Man of Feeling crying in jail ###
+
+
+
+### Vicar of Wakefield crying in jail ###
 
 
 
@@ -753,7 +789,7 @@ Both ballad poems are using the same idea of an abandoned woman and the horrors 
 
 
 
-## conviction is powerful; preposessions dangerous ##
+## conviction powerful; preposession dangerous ##
 
 
 
@@ -810,6 +846,38 @@ Does a work get listed according it its composition? (Beginning of first composi
 
 
 Beginning of first composition is probably easiest (though still not easy) to actually pin to a fixed moment, but work change so much over the course of composition that the chronological conclusions drawn from this arrangement aren’t likely to be fully useful. I like first publication to reflect when the work became less inchoate and entered into a broader literary conversation — this is the point at which chronological connections seem most likely to be informative.
+
+
+
+## Wordsworth wrote collaboratively ##
+
+
+
+### Coleridge wrote "We Are Seven" ###
+
+
+
+
+
+
+
+“My friends will not deem it too trifling to relate that while walking to and fro I composed the last stanza first, having begun with the last line. When it was all but finished, I came in and recited it to Mr. Coleridge and my Sister, and said, 'A prefatory stanza must be added, and I should sit down to our little tea-meal with greater pleasure if my task were finished.' I mentioned in substance what I wished to be expressed, and Coleridge immediately threw off the stanza thus:-'A little child, dear brother Jim,' —I objected to the rhyme, 'dear brother Jim,' as being ludicrous, but we all enjoyed the joke of hitching-in our friend, James T —'s name, who was familiarly called Jim.” (WW)
+
+
+
+
+
+
+
+And it’s even an IN JOKE, and he uses the stanza just as Coleridge wrote it, deleting the joke without replacing it with anything!! This is not transcendent inspiration and individual genius. (He had long left behind the mountain and the girl when he wrote; he was thinking about tea time!)
+
+
+
+
+
+
+
+— It is perfectly fine to be thinking about tea time; the poem is still wonderful. But the myth simply doesn’t work.
 
 
 
@@ -1889,7 +1957,67 @@ Worrall provides a theoretical framework for understanding the dramatic works wh
 
 
 
-## Text 3 ##
+## Kirwan, Peter. Shakespeare and the Idea of Apocrypha: Negotiating the Boundaries of the Dramatic Canon ##
+
+
+
+
+
+
+
+Shakespeare and the Idea of Apocrypha: Negotiating the Boundaries of the Dramatic Canon. By PETER KIRWAN. Cambridge: Cambridge University Press, 2015. 
+
+
+
+
+
+
+
+## Reviewed by IAN H. DE JONG ##
+
+
+
+
+
+
+
+Reviewed by IAN H. DE JONG 
+
+
+
+“Kirwan praises Ward Elliot and Robert Valenza’s “call for acknowledgement of uncertainty (a productive agnosticism rather than a reactionary atheism or unquestioning faith),” concluding the section with the dictum that “critics should be as willing to lose Shakespeare as to find him””
+
+
+
+“The Apocrypha “are the plays attributed to, but emphatically not by, Shakespeare” (3). They are “a deeply problematic group on the fringe of Shakespeare Studies””
+
+
+
+“Shakespeare and the Idea of Apocrypha rebels against that trend, marshaling literary criticism, critical canon theory, attribution studies, and historical sleuthing in an eclectic and ambitious attempt to interrogate the apocryphal nature of the Apocrypha. In so doing, Kirwan proposes to continue destabilizing the monolithic “Shakespeare,” a project he traces back two decades.”
+
+
+
+“a startlingly diffuse, unexpectedly consistent corpus of plays linked by company ownership, rather than by what he argues is the anachronism of authorial ownership.
+
+
+
+Motivated to trouble “post-Romantic ideals of individual authorship””
+
+
+
+“Boldly, he offers agnosticism to replace the “did-didn’t binary.” This yields “the possibility of Shakespeare’s contribution” to Locrine (137) or a proposed differentiation between “Shakespearean” and “by Shakespeare” (161). This third chapter may inflame more controversy than anything else in the book.”
+
+
+
+“the field of attribution studies desperately needs critical metacognitive appraisals of its methods, its successes, and its failures. Kirwan’s assessment of and engagement with attribution studies ought to be cited for years to come”
+
+
+
+“Having proven the constructedness of “Canon” and “Apocrypha,” having demonstrated the viability of collaboratively created drama, and having questioned the use and availability of “certain” attributions, Kirwan performs his crowning disruption—to “redefine the meanings of both ‘Shakespeare’ and ‘complete’ in a bid to offer multiple configurations of canon” (205). Here and throughout, Kirwan affirms canons, not a Canon.”
+
+
+
+“Kirwan’s final chapter models alternative canon-writing practices as evidence of the potentiality of multivalent canons “to provide options instead of answers” dependent upon audiences’ critical participation”
 
 
 
