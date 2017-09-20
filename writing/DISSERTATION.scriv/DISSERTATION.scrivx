@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-19 23:40:54 -0400" ModID="535AF2C4-ED0D-4117-B7B5-1C085D8344F7">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-20 13:19:57 -0400" ModID="5D241592-FAC2-45BA-8058-27943D5FD5F4">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -492,16 +492,6 @@
                                 <TextSelection>380,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="159" UUID="53131A7D-2BF4-4853-BDED-0327EB1A177E" Type="Text" Created="2017-08-11 16:05:28 -0400" Modified="2017-08-11 16:06:03 -0400">
-                                    <Title>Man of Feeling crying in jail</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem ID="208" UUID="21F7C6BF-4B6B-4437-9C23-342FA382007D" Type="Text" Created="2017-09-19 14:04:33 -0400" Modified="2017-09-19 14:04:40 -0400">
                                     <Title>Vicar of Wakefield crying in jail</Title>
                                     <MetaData>
@@ -531,7 +521,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,90</TextSelection>
+                                <TextSelection>90,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="152" UUID="A01CFBEE-6C95-406E-9A0B-0689060DF18F" Type="Text" Created="2017-08-11 16:01:24 -0400" Modified="2017-08-11 16:02:12 -0400">
@@ -729,10 +719,20 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1105,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem ID="214" UUID="3FC0029F-DA23-49C6-83B6-4E98B6453225" Type="Text" Created="2017-09-20 13:19:21 -0400" Modified="2017-09-20 13:19:31 -0400">
+                            <Title>no such thing as ideological purity</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>140,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1701,6 +1701,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="159" UUID="53131A7D-2BF4-4853-BDED-0327EB1A177E" Type="Text" Created="2017-08-11 16:05:28 -0400" Modified="2017-08-11 16:06:03 -0400">
+                    <Title>Man of Feeling crying in jail</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1747,7 +1757,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="1171" Characters="7350" Date="2017-09-19 23:31:59 -0400"></PreviousSession>
+        <PreviousSession Words="23" Characters="140" Date="2017-09-20 13:19:10 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
