@@ -389,6 +389,22 @@ But she’s really so unlike everyone else…
 
 
 
+## are Gothic novels usually fragmentary? ##
+
+
+
+
+
+
+
+They seems to be prone to the proliferation of subplots, but they are much more invested in plot threads and wrapping-up than, say, The Man of Feeling, or Tristram Shandy, which are frankly picaresque
+
+
+
+(Sentimental narratives are fragmentary, often skipping straight to the good bits — if the gothic has its roots in the sentimental, is this something that carries over? Or does the gothic laboriously fill in all the connective tissue?)
+
+
+
 # Thoughts #
 
 
@@ -562,10 +578,6 @@ Is the stock sentimental trope of crying in a jail marked by continuity or disco
 
 
 [Crying in a jail means something different before and after the Revolution; the uses of emotion gain new possible powers] [So these same sentiments gain new importance and need a new name, the Gothic, when they collide with political realities]
-
-
-
-### Man of Feeling crying in jail ###
 
 
 
@@ -878,6 +890,30 @@ And it’s even an IN JOKE, and he uses the stanza just as Coleridge wrote it, d
 
 
 — It is perfectly fine to be thinking about tea time; the poem is still wonderful. But the myth simply doesn’t work.
+
+
+
+## no such thing as ideological purity ##
+
+
+
+
+
+
+
+One of the lessons we should probably learn from the French Revolution is that ideological purity is not only unecesseary, it is impossible.
+
+
+
+## the glow-worm is a common poetic subject ##
+
+
+
+
+
+
+
+Why?
 
 
 
