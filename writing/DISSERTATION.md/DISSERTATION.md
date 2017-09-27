@@ -405,6 +405,118 @@ They seems to be prone to the proliferation of subplots, but they are much more 
 
 
 
+## What models of 18thC publishers' social networks already exist? ##
+
+
+
+## Are Hookham, Carpenter, and Hookham & Carpenter three publishers or one? ##
+
+
+
+## How big were the print runs for each of the works published by my four authors? ##
+
+
+
+## Does the ESTC works-per-year graph match the Garside?  ##
+
+
+
+## Is the number of "null" (unsigned) authors associated with the Minerva Press proportionate to the overall number of "null" authors? ##
+
+
+
+## potential experiment ideas ##
+
+
+
+### use of Shakespeare in the 18thC?? ###
+
+
+
+### Corpora ###
+
+
+
+#### Women's Writing Online ####
+
+
+
+#### Corvey Collection ####
+
+
+
+#### Early Moden Drama ####
+
+
+
+#### Chawton House Library ####
+
+
+
+### Experiments? ###
+
+
+
+----
+
+
+
+#### Network of the Chawtons? ####
+
+
+
+##### ? #####
+
+
+
+----
+
+
+
+#### Networks of 18thC plays? ####
+
+
+
+##### ? #####
+
+
+
+----
+
+
+
+#### Genre identification? ####
+
+
+
+##### ? #####
+
+
+
+----
+
+
+
+#### Bibliographical metadata? ####
+
+
+
+##### ? #####
+
+
+
+----
+
+
+
+#### Text analysis of Corvey? ####
+
+
+
+##### ? #####
+
+
+
 # Thoughts #
 
 
@@ -917,11 +1029,15 @@ Why?
 
 
 
-# Experiments #
+## 18thC Gothics provide nourishment for suffering ##
 
 
 
-## use of Shakespeare in the 18thC ##
+
+
+
+
+(Search convos with hbbo?)
 
 
 
@@ -985,91 +1101,67 @@ Then he leaves and never mentions her again. And I found myself noticing that hi
 
 
 
-## potential ideas ##
+## Venice Preserv'd / Grecian Daughter ##
 
 
 
-### Corpora ###
+### two ways of looking at a heroine ###
 
 
 
-#### Women's Writing Online ####
 
 
 
-#### Corvey Collection ####
+
+Belvidera: emotional connection
 
 
 
-#### Early Moden Drama ####
+Euphrasia: plot effectiveness
 
 
 
-#### Chawton House Library ####
+Shifts within she-tragedy?
 
 
 
-### Experiments? ###
+### the "zone of death" ###
 
 
 
-----
 
 
 
-#### Network of the Chawtons? ####
+
+It’s Renault!!!
 
 
 
-##### ? #####
+### Moretti's "control" research authorizes innovation ###
 
 
 
-----
 
 
 
-#### Networks of 18thC plays? ####
+
+If Moretti hadn’t shown that social networks accurately identify Hamlet as a protagonist, we couldn’t use that method to hunt down protagonists in more ambiguous plays
 
 
 
-##### ? #####
+### audience as member of node ###
 
 
 
-----
 
 
 
-#### Genre identification? ####
+
+Asides and soliloquies interpellate the author into having a sympathetic connection with some characters over others — the role of the audience in the social network can be informative regarding the play’s overall sympathies
 
 
 
-##### ? #####
-
-
-
-----
-
-
-
-#### Bibliographical metadata? ####
-
-
-
-##### ? #####
-
-
-
-----
-
-
-
-#### Text analysis of Corvey? ####
-
-
-
-##### ? #####
+# Experimental methods #
 
 
 
