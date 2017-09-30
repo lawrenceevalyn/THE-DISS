@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-27 19:11:07 -0400" ModID="0CF3E683-5881-4DD4-A3FF-2530CF58F016">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-09-30 02:42:54 -0400" ModID="2B221DA1-867B-4A8F-9CA2-2E136E70FA1C">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -1012,6 +1012,28 @@
                             <TextSettings>
                                 <TextSelection>4,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="229" UUID="F7BC9941-264E-4D70-841C-13A22B94D693" Type="Text" Created="2017-09-28 02:05:51 -0400" Modified="2017-09-28 02:06:24 -0400">
+                                    <Title>Percy Shelley's the Sky-Lark</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>172,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="230" UUID="59EE10A2-BB68-4DC1-AE92-B180A3C392D0" Type="Text" Created="2017-09-28 02:06:05 -0400" Modified="2017-09-30 02:42:54 -0400">
+                                    <Title>Charlotte Smith's the Glow Worm</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="223" UUID="25446D49-E734-4BB0-9612-C5947DABCA78" Type="Text" Created="2017-09-25 01:31:50 -0400" Modified="2017-09-27 19:06:04 -0400">
                             <Title>18thC Gothics provide nourishment for suffering</Title>
@@ -1104,7 +1126,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>167,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="227" UUID="5F7F5C5C-4EE6-4F16-B102-17297847D904" Type="Text" Created="2017-09-27 19:09:03 -0400" Modified="2017-09-27 19:09:46 -0400">
@@ -1897,7 +1919,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="71" Characters="494" Date="2017-09-27 18:27:25 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-09-30 01:01:47 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -24,6 +24,14 @@
 
 # Research Log
 
+## September 30, 2017
+
+Lesson learned from editing my journal article: I'd gotten carried away starting a new paper entirely at the end; when I felt like I needed "more" in order to conclude, even though I'd hit the word count, that was the next idea getting started. **Be on the look-out for a new paper starting, as the sign that the previous paper has finally finished.** (Just like starting to revise/write my second draft means that the first draft has previously finished!)
+
+## September 20, 2017
+
+One of the lessons we should probably learn from the French Revolution is that ideological purity is not only unecesseary, it is impossible.
+
 ## September 19, 2017
 
 Okay, but really, what **if** the Norton Anthology presented all the works in chronological order, instead of grouping them by author? You could include author bios at at author's first appearance, but the whole system of biographical readings would break down.. instead, there would have to be running historical contextualization. It would make current ways of teaching inconvenient, but perhaps in productive ways: if you wanted to read a bunch of poems by one author, students would have to skip past the other writing that was produced in between, a tangible reminder of the time that actually did separate those works. It also makes it easier to sub in less "important" authors, when you're looking for a work to fill just one chronological slice rather, than an author whose ouevre will be broadly applicable.
