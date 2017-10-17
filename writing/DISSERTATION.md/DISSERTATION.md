@@ -1,6 +1,42 @@
 Title: DISSERTATION
 Author: Lawrence Evalyn
 
+# OGS Plan of Study (500 wds) #
+
+
+
+
+
+
+
+Indicate what stage you are at in your thesis.
+
+
+
+I have passed my Special Fields exams, and am now “all but dissertation,” at the very earliest stages of the writing process.
+
+
+
+
+
+
+
+Provide an outline of your thesis proposal, including, for example, background, hypothesis, context, objectives, methodology, and contribution to the advancement of knowledge.
+
+
+
+
+
+
+
+
+
+
+
+Clearly state the differences between work already completed for your thesis, what you hope to accomplish during the award tenure, and what will remain to be done before you obtain your degree.
+
+
+
 # Guiding Principles #
 
 
@@ -517,6 +553,26 @@ They seems to be prone to the proliferation of subplots, but they are much more 
 
 
 
+## can I use reviews to identify popular / important works? ##
+
+
+
+
+
+
+
+Where are all these reviews collected? Can I put them in my relational database?
+
+
+
+Can I come up with some kind of measure like “surprise” in that model of Darwin’s reading habits, to see when something makes a splash?
+
+
+
+Can I see which things get used as points of reference in reviews of other works?
+
+
+
 # Thoughts #
 
 
@@ -901,7 +957,107 @@ The decade 1789-99 is suddenly *about me*, and *mine*.
 
 
 
-## "The Thorn" & "Ballad of Robert & Richard" ##
+## chapterable: Wordsworth & More ##
+
+
+
+
+
+
+
+let’s see, looking though my notes — looks like William Wordsworth writes a ton of poems that are just incredibly pretentious versions of Hannah More’s stories/ballads
+
+
+
+Alex: “has that been said before. god I hate wordsworth
+
+
+
+such a mansplainer
+
+
+
+so that would be a great topic”
+
+
+
+Michael Gamer has said, essentially, that Wordsworth is writing more pretentious versions of popular ghost stories
+
+
+
+Alex: “proving that he is one of those dudes in a meeting who repeats what the woman said but louder
+
+
+
+but no one Hannah More especially?”
+
+
+
+no, Hannah More hates ghost stories for the same reason Wordsworth does — they are vulgar and unchristian
+
+
+
+but she uses them anyway, the same way wordsworth does
+
+
+
+to subvert them into morally improving tales
+
+
+
+or, well, WW is less clear w/ moral improvement of individual poems
+
+
+
+but Gamer makes a compelling argument re: his overall claim to have “elevated” his material
+
+
+
+Alex: “is there room to argue against Gamer, or to move it in another direction then?”
+
+
+
+I don’t know that More is a specific source for Wordsworth; it’s not impossible, but also not immediately likely to me. What interests me is the similarity of their rhetorical stance toward their material and their shared mission of “elevating” for moral improvement, contrasted with their success — Wordsworth has got everybody buying his propaganda, More not so much
+
+
+
+Alex: “well, he is a dude.......
+
+
+
+but I see the question, and how it relates to the question about 1790s you have formulated...
+
+
+
+certainly not a rabbit hole, or sideline -  this sounds like core business.”
+
+
+
+hmmm.. Gamer is mostly making a broader argument about the Gothic as the immediate source for Romanticism, whereas More is essentially orthogonal to Romanticism…
+
+
+
+(I agree with & really like Gamer’s argument about the Gothic & Romanticism)
+
+
+
+More want to repurpose and “elevate” the Gothic for essentially evangelical Christian ends — it is astonishing how much I like her, really, given that she is the perfect precursor to all those meddling Victorian moralist middle-class ladies
+
+
+
+Alex: “right, but you are still seeing something new there, about More, that both fits in with an is distinct from Gamer - and is core to your questions about your period”
+
+
+
+yeah, I think I would use Gamer as a leaping-off point to pursue this slightly separate track, about other attempts to elevate/repurpose popular writing
+
+
+
+Alex: “sounds chapter-able. very good.”
+
+
+
+### "The Thorn" & "Ballad of Robert & Richard" ###
 
 
 
@@ -1005,7 +1161,31 @@ And it’s even an IN JOKE, and he uses the stanza just as Coleridge wrote it, d
 
 
 
-## no such thing as ideological purity ##
+## lessons learned from the French Revolution ##
+
+
+
+
+
+
+
+ideological purity is impossible and it is dangerous to demand it, perfect rationality is impossible and it is dangerous to ignore emotion or the body when making decisions, tying one’s self or group identity to concrete policies or facts leaves one with no options if those things don’t work or aren’t true… and market capitalism causes a lot of suffering
+
+
+
+Alex: “that does not sound like a rabbit hole so much as  - you learning the broader stuff for your field
+
+
+
+perfect rationality is a very amusing idea
+
+
+
+and one to which literature speaks better than political writing, generally: since literary writers tend not to believe quite so hard”
+
+
+
+### no such thing as ideological purity ###
 
 
 
@@ -1017,7 +1197,7 @@ One of the lessons we should probably learn from the French Revolution is that i
 
 
 
-## the glow-worm is a common poetic subject ##
+## sideline later: timeline of Revolution ##
 
 
 
@@ -1025,7 +1205,119 @@ One of the lessons we should probably learn from the French Revolution is that i
 
 
 
-Why?
+see if French Revolution deaths track with summer heat or escalating price of bread (hypothesis: yes)
+
+
+
+my guess is, everybody gets murderous when they are hot, hungry, and worried that they are losing their various wars
+
+
+
+the “status of the wars” would be harder to stick onto an X-axis but the overall thing appeals as a response to the famous map of Napoleon’s march into Russia
+
+
+
+Alex: “sure -sounds fab. that one I also check off - though I'd argue for after fields, after a couple of articles are in with readers”
+
+
+
+## rabbit hole: glow-worm as poetic subject ##
+
+
+
+
+
+
+
+why are there so many poems about glow-worms? I’ve never seen the glow-worm discussed as a standard poetic subject, but after a certain point everybody seems to write a glow-worm poem. Is it connected to all the walking around in the middle of the night they apparently do?
+
+
+
+### Percy Shelley's the Sky-Lark ###
+
+
+
+
+
+
+
+    Like a glow-worm golden
+
+
+
+ 
+
+
+
+        In a dell of dew,
+
+
+
+ 
+
+
+
+      Scattering unbeholden
+
+
+
+ 
+
+
+
+        Its aërial hue
+
+
+
+ 
+
+
+
+Among the flowers and grass which screen it from the view:
+
+
+
+
+
+
+
+### Charlotte Smith's the Glow Worm ###
+
+
+
+### a new trope - natural history? ###
+
+
+
+
+
+
+
+there are no such poems in Middle English
+
+
+
+so it is not just night wandering
+
+
+
+bc they do that in middle ages
+
+
+
+it is not renaissance trope either that I know of -is it not perhaps associated with natural history movements - experiments on tiny creatures, microscopes etc
+
+
+
+### chronological connection? ###
+
+
+
+
+
+
+
+they might start to appear around 1800 — Charlotte Smith loves night wandering but doesn’t write about glow-worms until the 6th vol of Elegiac Sonnets
 
 
 
@@ -1158,6 +1450,102 @@ If Moretti hadn’t shown that social networks accurately identify Hamlet as a p
 
 
 Asides and soliloquies interpellate the author into having a sympathetic connection with some characters over others — the role of the audience in the social network can be informative regarding the play’s overall sympathies
+
+
+
+## pursue: Austen looms over all of this... ##
+
+
+
+
+
+
+
+I sort of — suddenly remembered that she is, like Shakespeare, a monumentally canonized author, and that I am interested in such figures, and that she is in my period — and I got very curious about reading her in relation to Radcliffe, Smith, and Robinson, all of whom were celebrities in the decade before her
+
+
+
+### her shadow isn't interesting ###
+
+
+
+
+
+
+
+I’d rather just play around with Smith as Smith, rather than Smith in the shadow of Austen
+
+
+
+### Austen & Radcliffe ###
+
+
+
+
+
+
+
+having re-read Radcliffe, I could easily imagine a Radcliffe fandom along the lines of an Austen fandom — Udolpho really is very good
+
+
+
+the Radcliffe-Austen connection ought to be pretty well-trod, though; Northanger Abbey is famously a rewriting of Udolpho
+
+
+
+Alex: “yes very - but you are not talking about Austen's reading of Radcliffe so much as her reading v. their reading?”
+
+
+
+### literary celebrity can inhibit legacy ###
+
+
+
+
+
+
+
+I… think I am actually interested in the role of “celebrity” as related to authors, and the observation that too much / the wrong kind of celebrity during an author’s lifetime counteracts the potential for long-lasting literary fame
+
+
+
+though, Radcliffe was also like Austen quite reclusive and resistant to the “celebrity author” role, even after she achieved financial literary success
+
+
+
+but, that just meant that salacious stories of her Gothic madness & death circulated unchallenged after she stopped writing and scholars are still trying to figure out what really did happen to her
+
+
+
+hmm-- it ties into my general interest of trying to pick my way through my decade of choice, trying on a range of different metrics for “important” and then paying attention to the bodies of texts that come forward as “important” for each metric
+
+
+
+and my diss authors (other than Radcliffe) are all attempting to use and cultivate literary fame as one of the ends of their writing
+
+
+
+(well, even Radcliffe is cultivating fame, but with less directly political ends)
+
+
+
+I picked authors who wrote prolifically in a range of mediums and genres because I am interested in the emerging “reading public” and what it looked like in the 1790s when all that writing and reading got very high-stakes
+
+
+
+### Austen as 1790s author? ###
+
+
+
+
+
+
+
+it might be interesting, actually, to look just at the juvenilia that was written during my decade of interest
+
+
+
+oh, especially her history of england, which is a riot — in conversation with the general problem/project of national history in the shadow of the revolution
 
 
 

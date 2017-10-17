@@ -13,6 +13,7 @@
 * Figure out what question the field of literary study is trying to answer, exactly
     * Figure out what question I, personally, want most urgently to know the answer to
 * Just throw all my research ideas into this one repo, and figure out later how it connects
+* start setting up a relational database
 
 # Writing workflow
 * Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc.
@@ -23,6 +24,30 @@
 # Next-do: migrate thoughts from research log to monster scrivener doc
 
 # Research Log
+
+## October 16, 2017
+
+Talked with Alex about some of the research rabbit holes I've been going down--
+* glow-worms: a rabbit hole, albeit interesting one
+* something about Austen and the negative impact of literary celebrity on legacy: check: go down that rabbit hole
+* lessons from the French revolution: does not sound like a rabbit hole so much as  - you learning the broader stuff for your field
+* timeline of the French revolution keyed to temperature: also not a rabbit hole, but a cool sideline instead! but after some articles are to readers
+* Wordsworth and More: certainly not a rabbit hole, or sideline -  this sounds like core business
+
+## October 1, 2017
+
+Stray notes found while tidying my desktop:
+
+#### Gothic notes.txt
+
+gothic as survival strategy for vulnerable women
+
+the gothic of A Little Princess
+
+the meaning of suffering
+
+
+if I want to topic model Gothic and Not Gothic, my Not Gothic needs to be some astonishingly boring non-fiction treatise in order to ensure that it is actually not gothic
 
 ## September 30, 2017
 
