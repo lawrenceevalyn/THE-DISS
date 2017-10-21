@@ -25,6 +25,10 @@
 
 # Research Log
 
+## October 20, 2017
+
+CSECS is SO INSPIRING -- I want to really deeply dig into some research!! I want to know new things that other people might want to hear about!!! I've avoide conferences because writing papers about completed works wasn't helping me get closer to publication -- but now I think I need to do another round of them to inspire me to generate to ideas and research new work. I haven't DONE RESEARCH in ages, and I miss it!
+
 ## October 16, 2017
 
 Talked with Alex about some of the research rabbit holes I've been going down--
