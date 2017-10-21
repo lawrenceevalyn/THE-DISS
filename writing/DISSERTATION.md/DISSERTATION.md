@@ -1285,6 +1285,90 @@ Among the flowers and grass which screen it from the view:
 
 
 
+
+
+
+
+WHEN on some balmy-breathing night of Spring
+
+
+
+The happy child, to whom the world is new,
+
+
+
+Pursues the evening moth, of mealy wing,
+
+
+
+Or from the heath-bell beats the sparkling dew;
+
+
+
+He sees before his inexperienced eyes
+
+
+
+The brilliant Glow-worm, like a meteor, shine
+
+
+
+On the turf-bank;--amazed, and pleased, he cries,
+
+
+
+'Star of the dewy grass!--I make thee mine!'--
+
+
+
+Then, ere he sleep, collects 'the moisten'd' flower,
+
+
+
+And bids soft leaves his glittering prize enfold,
+
+
+
+And dreams that Fairy-lamps illume his bower:
+
+
+
+Yet with the morning shudders to behold
+
+
+
+His lucid treasure, rayless as the dust!
+
+
+
+--So turn the world's bright joys to cold and blank disgust. 
+
+
+
+#### Charlotte Smith <3 natural history ####
+
+
+
+
+
+
+
+Charlotte Smith is particularly invested in natural history — cf Rural Walks
+
+
+
+##### natural history as consolation for world #####
+
+
+
+
+
+
+
+Lisa V’s paper at CSECS: natural history as a consolation when life disappoints you / coping method for the pains of worldly life
+
+
+
 ### a new trope - natural history? ###
 
 

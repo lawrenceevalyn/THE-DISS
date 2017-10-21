@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-10-16 22:43:52 -0400" ModID="FD1BB47E-F9C7-46A0-8290-996C771DCDBE">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-10-21 00:32:14 -0400" ModID="2FECCEF0-D729-43E4-B7BD-E68D11F4C095">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -946,7 +946,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1735,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="190" UUID="A33456A8-68C4-4BA0-807A-97083B9DAA86" Type="Text" Created="2017-09-06 11:09:12 -0400" Modified="2017-09-06 11:10:20 -0400">
@@ -1077,15 +1077,39 @@
                                         <TextSelection>172,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="230" UUID="59EE10A2-BB68-4DC1-AE92-B180A3C392D0" Type="Text" Created="2017-09-28 02:06:05 -0400" Modified="2017-09-30 02:42:54 -0400">
+                                <BinderItem ID="230" UUID="59EE10A2-BB68-4DC1-AE92-B180A3C392D0" Type="Text" Created="2017-09-28 02:06:05 -0400" Modified="2017-10-21 00:31:40 -0400">
                                     <Title>Charlotte Smith's the Glow Worm</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>649,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="243" UUID="FB64F27C-CDBB-4941-BD66-81147EC79CCD" Type="Text" Created="2017-10-21 00:30:28 -0400" Modified="2017-10-21 00:31:40 -0400">
+                                            <Title>Charlotte Smith &lt;3 natural history</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>76,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="244" UUID="A3D590A2-9733-4CFC-95E2-5E2F5AEC9718" Type="Text" Created="2017-10-21 00:31:22 -0400" Modified="2017-10-21 00:31:51 -0400">
+                                                    <Title>natural history as consolation for world</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>129,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem ID="233" UUID="D11513CF-70C6-493E-8FD5-8BEDB099C70B" Type="Text" Created="2017-10-16 15:04:41 -0400" Modified="2017-10-16 15:11:33 -0400">
                                     <Title>a new trope - natural history?</Title>
@@ -2045,7 +2069,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="1247" Characters="7386" Date="2017-10-16 13:09:42 -0400"></PreviousSession>
+        <PreviousSession Words="147" Characters="854" Date="2017-10-21 00:29:39 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
