@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-10-21 00:32:14 -0400" ModID="2FECCEF0-D729-43E4-B7BD-E68D11F4C095">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-10-22 22:14:29 -0400" ModID="19AADDF5-1EEC-4B60-A483-D9BF826F1D2C">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -1291,6 +1291,58 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem ID="247" UUID="3E025559-AA4E-48B3-A2A7-B6FB712CBD40" Type="Text" Created="2017-10-22 22:11:20 -0400" Modified="2017-10-22 22:11:29 -0400">
+                            <Title>many works not actual one single object</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="245" UUID="23145DD4-7A08-4047-B36E-DE2C1B35A004" Type="Text" Created="2017-10-22 01:22:17 -0400" Modified="2017-10-22 01:22:31 -0400">
+                                    <Title>Elegiac Sonnets written over time</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>596,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="248" UUID="C0864CE0-1075-43FC-A9F5-931D7F73480E" Type="Text" Created="2017-10-22 22:11:32 -0400" Modified="2017-10-22 22:13:46 -0400">
+                                    <Title>Alfoxden &amp; Grasmere mingled with much</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>389,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="249" UUID="009098E7-6BA6-4BDF-BB6D-036CE8ED1B23" Type="Text" Created="2017-10-22 22:13:20 -0400" Modified="2017-10-22 22:14:29 -0400">
+                                    <Title>Tristram Shandy written over time</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="246" UUID="D313BE9A-0F50-4E89-AD2B-75F6F57DF979" Type="Text" Created="2017-10-22 01:27:45 -0400" Modified="2017-10-22 01:28:02 -0400">
+                            <Title>account for variety with information density</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>61,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="134" UUID="D983AC00-809B-4877-B8F4-6CB0A4ECAAFE" Type="Text" Created="2017-08-11 15:20:18 -0400" Modified="2017-09-27 19:07:55 -0400">
@@ -2069,7 +2121,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="147" Characters="854" Date="2017-10-21 00:29:39 -0400"></PreviousSession>
+        <PreviousSession Words="375" Characters="2074" Date="2017-10-22 01:22:03 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

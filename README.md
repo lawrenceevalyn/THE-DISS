@@ -25,6 +25,14 @@
 
 # Research Log
 
+## October 24, 2017
+
+The idea of an author doesn't hold water: not just Dorothy Wordsworth is part of William Wordsworth's poems, but also Jane Austen's family is part of her novels; it's inaccurate to imagine them as self-contained founts of genius, all writing is collaboration with someone
+
+The conclusion I draw from that is 20% "so let's make sure we research things like the family joke in Northanger about the name Richard"
+
+And 80%: All *reading* is a collaboration! So when you read something, especially when you're a wee student and you're handed some monument of Literature to read, that's not actually a one-way full of Great Knowledge from the Great Author to you, that's a process that you have a share in, and you probably want to put some work in to make yourself a *good* reader (see: my struggles with sci fi and noir), but you also have the power to choose a mode of reading that works for you, that gives you things you want out of the literature (reparative reading!)
+
 ## October 20, 2017
 
 CSECS is SO INSPIRING -- I want to really deeply dig into some research!! I want to know new things that other people might want to hear about!!! I've avoide conferences because writing papers about completed works wasn't helping me get closer to publication -- but now I think I need to do another round of them to inspire me to generate to ideas and research new work. I haven't DONE RESEARCH in ages, and I miss it!
