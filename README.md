@@ -25,6 +25,10 @@
 
 # Research Log
 
+## October 26, 2017
+
+Talked with Terry today -- *timeliness* is emerging as a crucial concept for me.
+
 ## October 24, 2017
 
 The idea of an author doesn't hold water: not just Dorothy Wordsworth is part of William Wordsworth's poems, but also Jane Austen's family is part of her novels; it's inaccurate to imagine them as self-contained founts of genius, all writing is collaboration with someone

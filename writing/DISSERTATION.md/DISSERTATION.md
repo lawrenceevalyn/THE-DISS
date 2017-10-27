@@ -573,6 +573,82 @@ Can I see which things get used as points of reference in reviews of other works
 
 
 
+## Why was Frankie a "revival" of Gothic but not others? ##
+
+
+
+
+
+
+
+read all the Gothics that also came out in 1818, for context for Frankenstein: why was it remembered as a revival when the others weren’t?
+
+
+
+
+
+
+
+## how can Powis Castle satirize in 1788 something which ##
+
+
+
+
+
+
+
+how can Powis Castle satirize in 1788 something which barely even exists yet?
+
+
+
+## will Garside just GIVE me data 1789-99???? ##
+
+
+
+
+
+
+
+Can I… ask?
+
+
+
+## read just first and last pages of novels?? ##
+
+
+
+
+
+
+
+Can I make useful assessments by reading just the first and last page of a whole bunch of novels??
+
+
+
+## Network of reuse of character names in the Gothic ##
+
+
+
+
+
+
+
+Network of reuse of character names in the Gothic??
+
+
+
+## in/out-degrees of she-heroines in networks? ##
+
+
+
+
+
+
+
+I would be really interested to know each character's ratio for being the source vs the target of speech -- how much more does Hamlet talk to others than they talk to him? How does he compare to everybody else? This seems really easy to calculate from the information already found, I just never thought to look at it until the student's thesis mentioned Hamlet's in-degree and out-degree numbers.
+
+
+
 # Thoughts #
 
 
@@ -1633,6 +1709,102 @@ oh, especially her history of england, which is a riot — in conversation with 
 
 
 
+## many works not actual one single object ##
+
+
+
+### Elegiac Sonnets written over time ###
+
+
+
+
+
+
+
+I am not sure what I now know about Charlotte Smith that I didn't before, but I feel like I know something. Mostly, I think, spreading all these poems out in my timeline helps to clarify that Elegiac Sonnets (like Tristram Shandy!) is not actually a single unified work representing one moment of time, but rather an assemblage that can react to the events it shapes. The re-introduction of chronological gaps makes it easier to identify where she is developing her thoughts or changing her mind, and highlights the trial-and-error of her experiments as sets of poems are entered into the record.
+
+
+
+### Alfoxden & Grasmere mingled with much ###
+
+
+
+
+
+
+
+“She… now had at handa book of 3 years before, still with many empty pages; thus, on 14 Feb, when she needed another book for the Grasmere Journal, she filled this, leaving 1 blank page, and writing on until 2 May 1801 when she met the fragment of W’s essay on moralists coming from the other end.”
+
+
+
+Why do we treat “the Grasmere Journal” as a distinct text with a title and clear bounds???
+
+
+
+### Tristram Shandy written over time ###
+
+
+
+
+
+
+
+Whole other books came out in between volumes!! 
+
+
+
+His Gothic moments begin to appear after Otranto
+
+
+
+Are there differences between volumes that were printed at the same time (eg vol 1 and 2) vs vols with gaps (eg vol 2 and 3)?
+
+
+
+## account for variety with information density ##
+
+
+
+
+
+
+
+Minard is actually making a strong and brutal argument in his chart -- against war, against Napoleon, and against history as the biography of celebrity. I need to do a lot of actual research first, to figure out what I think is true, and why I think it, but I will know that I have succeeded, I think, if I can produce something half so rich and persuasive.
+
+
+
+
+
+
+
+Right now this means that I am throwing out my current dissertation outline, which separates things based on which corpus I am pulling my information from. I will describe my methods in the most voluminous appendices the department has ever seen if I must (and I strongly suspect that, in the end, I must) but I am on a quest for astonishingly dense synthesis.
+
+
+
+
+
+
+
+I think this how how one properly accounts overwhelming detail and variety: lots of different bits of information all correlated with each other.
+
+
+
+## performative vulnerability: “topping from the bottom: ##
+
+
+
+
+
+
+
+performative vulnerability as a woman’s “topping from the bottom” power play — that the disress being expressed is REAL doesn’t make its expression less manipulative; contrast with the Victorian “A Little Princess” idea of suffering only inwardly
+
+
+
+Grecian Daughter, she-tragedy heroine generally; also Emmeline
+
+
+
 # Experimental methods #
 
 
@@ -1854,6 +2026,38 @@ Like the Garside bibliography of the novel, the last volume of this enormous com
 
 
 
+
+
+
+### The History of Gothic Publishing, 1800-1835: Exhuming ###
+
+
+
+
+
+
+
+The History of Gothic Publishing, 1800-1835: Exhuming the Trade — it’s actually a full bibliography in its appendices
+
+
+
+### Dictionary of Anonymous and Pseudonymous English Literature, Volume 1
+
+
+
+By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simoni ###
+
+
+
+
+
+
+
+Dictionary of Anonymous and Pseudonymous English Literature, Volume 1
+
+
+
+By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simoni
 
 
 
