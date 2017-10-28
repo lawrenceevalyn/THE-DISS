@@ -77,7 +77,7 @@ Look for crossover between ideas, multiple ways of approaching a given subject. 
 
 
 
-# Research Questions #
+# Questions #
 
 
 
@@ -149,7 +149,7 @@ do literary fads emerge in plays, poems, and prose simultaneously, or move throu
 
 
 
-How different are the writers and audiences for each medium?
+How different are the writers and audiences for each medium?	
 
 
 
@@ -166,18 +166,6 @@ What do my corpora tell us about what was ‘normal’ during my decade?
 
 
 What does it mean to be “normal” or to seek the “normal” over the exceptional?
-
-
-
-### how do we account for variety? ###
-
-
-
-
-
-
-
-One of the things I like about computational methods is that, ultimately, there are no glossy simplifications — one must touch and somehow *account for* the things that don’t fit the pattern
 
 
 
@@ -393,7 +381,19 @@ Is there a way I could use JSTOR information & ESTC information to identify popu
 
 
 
-## how can we decanonize Wordsworth? ##
+## is decanonization my model? ##
+
+
+
+
+
+
+
+Like decolonialization? (Though that is likely an appropriative framework)
+
+
+
+### how can we decanonize Wordsworth? ###
 
 
 
@@ -409,7 +409,7 @@ One part is bursting open all their self-indulgent mythmaking
 
 
 
-## how can we decanonize Jane Austen? ##
+### how can we decanonize Jane Austen? ###
 
 
 
@@ -465,31 +465,15 @@ They seems to be prone to the proliferation of subplots, but they are much more 
 
 
 
-### use of Shakespeare in the 18thC?? ###
+----
 
 
 
-### Corpora ###
+### Network of the Chawtons? ###
 
 
 
-#### Women's Writing Online ####
-
-
-
-#### Corvey Collection ####
-
-
-
-#### Early Moden Drama ####
-
-
-
-#### Chawton House Library ####
-
-
-
-### Experiments? ###
+#### ? ####
 
 
 
@@ -497,23 +481,11 @@ They seems to be prone to the proliferation of subplots, but they are much more 
 
 
 
-#### Network of the Chawtons? ####
+### Networks of 18thC plays? ###
 
 
 
-##### ? #####
-
-
-
-----
-
-
-
-#### Networks of 18thC plays? ####
-
-
-
-##### ? #####
+#### ? ####
 
 
 
@@ -521,23 +493,11 @@ They seems to be prone to the proliferation of subplots, but they are much more 
 
 
 
-#### Genre identification? ####
+### Genre identification? ###
 
 
 
-##### ? #####
-
-
-
-----
-
-
-
-#### Bibliographical metadata? ####
-
-
-
-##### ? #####
+#### ? ####
 
 
 
@@ -545,11 +505,23 @@ They seems to be prone to the proliferation of subplots, but they are much more 
 
 
 
-#### Text analysis of Corvey? ####
+### Bibliographical metadata? ###
 
 
 
-##### ? #####
+#### ? ####
+
+
+
+----
+
+
+
+### Text analysis of Corvey? ###
+
+
+
+#### ? ####
 
 
 
@@ -649,7 +621,363 @@ I would be really interested to know each character's ratio for being the source
 
 
 
-# Thoughts #
+## sideline later: timeline of Revolution ##
+
+
+
+
+
+
+
+see if French Revolution deaths track with summer heat or escalating price of bread (hypothesis: yes)
+
+
+
+my guess is, everybody gets murderous when they are hot, hungry, and worried that they are losing their various wars
+
+
+
+the “status of the wars” would be harder to stick onto an X-axis but the overall thing appeals as a response to the famous map of Napoleon’s march into Russia
+
+
+
+Alex: “sure -sounds fab. that one I also check off - though I'd argue for after fields, after a couple of articles are in with readers”
+
+
+
+## crying in jails ##
+
+
+
+
+
+
+
+Is the stock sentimental trope of crying in a jail marked by continuity or discontinuity in its meaning, during the French Revolution?
+
+
+
+[Crying in a jail means something different before and after the Revolution; the uses of emotion gain new possible powers] [So these same sentiments gain new importance and need a new name, the Gothic, when they collide with political realities]
+
+
+
+### Vicar of Wakefield crying in jail ###
+
+
+
+### Two Shoemakers crying in jail ###
+
+
+
+
+
+
+
+Two Shoemakers: The gaoler observed him drop a tear, and asked the cause. I cannot forget, said he, that the most dissolute of these men is still my fellow-creature. The same GOD made them; the same SAVIOUR died for them; how then can I hate the worst of them? With my advantages they might have been much better than I am; without the blessing of GOD on my good Minister's instructions, I might have been worse than the worst of these. I have no cause for pride, much for thankfulness: let us not be high-minded, but fear.
+
+
+
+## rabbit hole: glow-worm as poetic subject ##
+
+
+
+
+
+
+
+why are there so many poems about glow-worms? I’ve never seen the glow-worm discussed as a standard poetic subject, but after a certain point everybody seems to write a glow-worm poem. Is it connected to all the walking around in the middle of the night they apparently do?
+
+
+
+### Percy Shelley's the Sky-Lark ###
+
+
+
+
+
+
+
+    Like a glow-worm golden
+
+
+
+ 
+
+
+
+        In a dell of dew,
+
+
+
+ 
+
+
+
+      Scattering unbeholden
+
+
+
+ 
+
+
+
+        Its aërial hue
+
+
+
+ 
+
+
+
+Among the flowers and grass which screen it from the view:
+
+
+
+
+
+
+
+### Charlotte Smith's the Glow Worm ###
+
+
+
+
+
+
+
+WHEN on some balmy-breathing night of Spring
+
+
+
+The happy child, to whom the world is new,
+
+
+
+Pursues the evening moth, of mealy wing,
+
+
+
+Or from the heath-bell beats the sparkling dew;
+
+
+
+He sees before his inexperienced eyes
+
+
+
+The brilliant Glow-worm, like a meteor, shine
+
+
+
+On the turf-bank;--amazed, and pleased, he cries,
+
+
+
+'Star of the dewy grass!--I make thee mine!'--
+
+
+
+Then, ere he sleep, collects 'the moisten'd' flower,
+
+
+
+And bids soft leaves his glittering prize enfold,
+
+
+
+And dreams that Fairy-lamps illume his bower:
+
+
+
+Yet with the morning shudders to behold
+
+
+
+His lucid treasure, rayless as the dust!
+
+
+
+--So turn the world's bright joys to cold and blank disgust. 
+
+
+
+#### Charlotte Smith <3 natural history ####
+
+
+
+
+
+
+
+Charlotte Smith is particularly invested in natural history — cf Rural Walks
+
+
+
+##### natural history as consolation for world #####
+
+
+
+
+
+
+
+Lisa V’s paper at CSECS: natural history as a consolation when life disappoints you / coping method for the pains of worldly life
+
+
+
+### a new trope - natural history? ###
+
+
+
+
+
+
+
+there are no such poems in Middle English
+
+
+
+so it is not just night wandering
+
+
+
+bc they do that in middle ages
+
+
+
+it is not renaissance trope either that I know of -is it not perhaps associated with natural history movements - experiments on tiny creatures, microscopes etc
+
+
+
+### chronological connection? ###
+
+
+
+
+
+
+
+they might start to appear around 1800 — Charlotte Smith loves night wandering but doesn’t write about glow-worms until the 6th vol of Elegiac Sonnets
+
+
+
+### Grasmere journal ###
+
+
+
+
+
+
+
+“Glowworm Rock”
+
+
+
+LOTS of nighttime walks featuring glowworms
+
+
+
+### "Proud Maisie" Walter Scott ###
+
+
+
+
+
+
+
+“The glowworm o’er grave and stone
+
+
+
+Shall light the steady,
+
+
+
+The owl from the steeple sing,
+
+
+
+‘Welcome, proud lady.’”
+
+
+
+## pursue: Austen looms over all of this... ##
+
+
+
+
+
+
+
+I sort of — suddenly remembered that she is, like Shakespeare, a monumentally canonized author, and that I am interested in such figures, and that she is in my period — and I got very curious about reading her in relation to Radcliffe, Smith, and Robinson, all of whom were celebrities in the decade before her
+
+
+
+### her shadow isn't interesting ###
+
+
+
+
+
+
+
+I’d rather just play around with Smith as Smith, rather than Smith in the shadow of Austen
+
+
+
+### Austen & Radcliffe ###
+
+
+
+
+
+
+
+having re-read Radcliffe, I could easily imagine a Radcliffe fandom along the lines of an Austen fandom — Udolpho really is very good
+
+
+
+the Radcliffe-Austen connection ought to be pretty well-trod, though; Northanger Abbey is famously a rewriting of Udolpho
+
+
+
+Alex: “yes very - but you are not talking about Austen's reading of Radcliffe so much as her reading v. their reading?”
+
+
+
+### Austen as 1790s author? ###
+
+
+
+
+
+
+
+it might be interesting, actually, to look just at the juvenilia that was written during my decade of interest
+
+
+
+oh, especially her history of england, which is a riot — in conversation with the general problem/project of national history in the shadow of the revolution
+
+
+
+## how is Marie Antoinette represented when? ##
+
+
+
+
+
+
+
+Do poems about her in prison take place before she is actually imprisoned, or not?
+
+
+
+Does her representation shift in time with her location/status as an actual person, or in time with shifting ideas about the revolution?
+
+
+
+# Observations #
 
 
 
@@ -809,7 +1137,7 @@ be true to the variety of the period, but also true to its chief emphasis.
 
 
 
-## crying in jails ##
+### account for variety with information density ###
 
 
 
@@ -817,19 +1145,7 @@ be true to the variety of the period, but also true to its chief emphasis.
 
 
 
-Is the stock sentimental trope of crying in a jail marked by continuity or discontinuity in its meaning, during the French Revolution?
-
-
-
-[Crying in a jail means something different before and after the Revolution; the uses of emotion gain new possible powers] [So these same sentiments gain new importance and need a new name, the Gothic, when they collide with political realities]
-
-
-
-### Vicar of Wakefield crying in jail ###
-
-
-
-### Two Shoemakers crying in jail ###
+Minard is actually making a strong and brutal argument in his chart -- against war, against Napoleon, and against history as the biography of celebrity. I need to do a lot of actual research first, to figure out what I think is true, and why I think it, but I will know that I have succeeded, I think, if I can produce something half so rich and persuasive.
 
 
 
@@ -837,7 +1153,27 @@ Is the stock sentimental trope of crying in a jail marked by continuity or disco
 
 
 
-Two Shoemakers: The gaoler observed him drop a tear, and asked the cause. I cannot forget, said he, that the most dissolute of these men is still my fellow-creature. The same GOD made them; the same SAVIOUR died for them; how then can I hate the worst of them? With my advantages they might have been much better than I am; without the blessing of GOD on my good Minister's instructions, I might have been worse than the worst of these. I have no cause for pride, much for thankfulness: let us not be high-minded, but fear.
+Right now this means that I am throwing out my current dissertation outline, which separates things based on which corpus I am pulling my information from. I will describe my methods in the most voluminous appendices the department has ever seen if I must (and I strongly suspect that, in the end, I must) but I am on a quest for astonishingly dense synthesis.
+
+
+
+
+
+
+
+I think this how how one properly accounts overwhelming detail and variety: lots of different bits of information all correlated with each other.
+
+
+
+### computations don't allow generalization ###
+
+
+
+
+
+
+
+One of the things I like about computational methods is that, ultimately, there are no glossy simplifications — one must touch and somehow *account for* the things that don’t fit the pattern
 
 
 
@@ -849,7 +1185,7 @@ Two Shoemakers: The gaoler observed him drop a tear, and asked the cause. I cann
 
 
 
-What other ways could I examine performative vulnerability as a social strategy for women?
+Grecian Daughter, she-tragedy heroine generally; also Emmeline
 
 
 
@@ -890,6 +1226,18 @@ Women’s ostentatious vulnerability demands male intervention — if women can 
 
 
 The escapism of the story is not that men won’t kidnap you — it’s that the only strategy you have available to you (performative vulnerability) will work.
+
+
+
+### “topping from the bottom" ###
+
+
+
+
+
+
+
+performative vulnerability as a woman’s “topping from the bottom” power play — that the distress being expressed is REAL doesn’t make its expression less manipulative; contrast with the Victorian “A Little Princess” idea of suffering only inwardly
 
 
 
@@ -957,7 +1305,7 @@ There are so many of them and they look at first glance so similar
 
 
 
-(Even for, like, modernism….? Or Romanticism, that first round of glorification of individual genius?)
+They reveal that our canonical authors aren’t inherently exceptional
 
 
 
@@ -1205,6 +1553,58 @@ Beginning of first composition is probably easiest (though still not easy) to ac
 
 
 
+### cf Cox's(?) edition of Keats ###
+
+
+
+
+
+
+
+Presented peoms and letters intermingled chronologically
+
+
+
+### assumption: time matters more than person ###
+
+
+
+
+
+
+
+A chronological anthology is structured by the assuption that the most important context for a work is not who it is by, but when it was produced. Author comes second. This reverses the traditional anthology (Norton etc), which is structured by the assumption that the most important context for a work is the author who produced it, with chronology as a second concern.
+
+
+
+Author is of course an important component! But it can also promote the false idea that changes within an author’s body of work are mostly due to personal matters or artistic evolution, rather than being responses to other works being produced or to changes in the world at large. 
+
+
+
+### chronology demands decisions ###
+
+
+
+
+
+
+
+To edit chronologically requires deciding, often at an astonishing level of particularity, exactly when a work first came into being. Almost no work is straightforwardly reducible to a single date, especially if one seeks to capture composition rather than publication: [Smith’s sonnets, Lyrical Ballads, Coleridge — but even Walpole and Lewis whose second editions make a different stir than their first].
+
+
+
+#### publication = entry to conversation ####
+
+
+
+
+
+
+
+I argue for organization by publication date over composition only partly because publication is more likely to be feasible. Many works in the period circulated as manuscripts or in private readings before publication (even Austen!) but it is the point of publication which marks an intentional, temporarily-fixed/timely entry into a broader public conversation.
+
+
+
 ## Wordsworth wrote collaboratively ##
 
 
@@ -1273,214 +1673,6 @@ One of the lessons we should probably learn from the French Revolution is that i
 
 
 
-## sideline later: timeline of Revolution ##
-
-
-
-
-
-
-
-see if French Revolution deaths track with summer heat or escalating price of bread (hypothesis: yes)
-
-
-
-my guess is, everybody gets murderous when they are hot, hungry, and worried that they are losing their various wars
-
-
-
-the “status of the wars” would be harder to stick onto an X-axis but the overall thing appeals as a response to the famous map of Napoleon’s march into Russia
-
-
-
-Alex: “sure -sounds fab. that one I also check off - though I'd argue for after fields, after a couple of articles are in with readers”
-
-
-
-## rabbit hole: glow-worm as poetic subject ##
-
-
-
-
-
-
-
-why are there so many poems about glow-worms? I’ve never seen the glow-worm discussed as a standard poetic subject, but after a certain point everybody seems to write a glow-worm poem. Is it connected to all the walking around in the middle of the night they apparently do?
-
-
-
-### Percy Shelley's the Sky-Lark ###
-
-
-
-
-
-
-
-    Like a glow-worm golden
-
-
-
- 
-
-
-
-        In a dell of dew,
-
-
-
- 
-
-
-
-      Scattering unbeholden
-
-
-
- 
-
-
-
-        Its aërial hue
-
-
-
- 
-
-
-
-Among the flowers and grass which screen it from the view:
-
-
-
-
-
-
-
-### Charlotte Smith's the Glow Worm ###
-
-
-
-
-
-
-
-WHEN on some balmy-breathing night of Spring
-
-
-
-The happy child, to whom the world is new,
-
-
-
-Pursues the evening moth, of mealy wing,
-
-
-
-Or from the heath-bell beats the sparkling dew;
-
-
-
-He sees before his inexperienced eyes
-
-
-
-The brilliant Glow-worm, like a meteor, shine
-
-
-
-On the turf-bank;--amazed, and pleased, he cries,
-
-
-
-'Star of the dewy grass!--I make thee mine!'--
-
-
-
-Then, ere he sleep, collects 'the moisten'd' flower,
-
-
-
-And bids soft leaves his glittering prize enfold,
-
-
-
-And dreams that Fairy-lamps illume his bower:
-
-
-
-Yet with the morning shudders to behold
-
-
-
-His lucid treasure, rayless as the dust!
-
-
-
---So turn the world's bright joys to cold and blank disgust. 
-
-
-
-#### Charlotte Smith <3 natural history ####
-
-
-
-
-
-
-
-Charlotte Smith is particularly invested in natural history — cf Rural Walks
-
-
-
-##### natural history as consolation for world #####
-
-
-
-
-
-
-
-Lisa V’s paper at CSECS: natural history as a consolation when life disappoints you / coping method for the pains of worldly life
-
-
-
-### a new trope - natural history? ###
-
-
-
-
-
-
-
-there are no such poems in Middle English
-
-
-
-so it is not just night wandering
-
-
-
-bc they do that in middle ages
-
-
-
-it is not renaissance trope either that I know of -is it not perhaps associated with natural history movements - experiments on tiny creatures, microscopes etc
-
-
-
-### chronological connection? ###
-
-
-
-
-
-
-
-they might start to appear around 1800 — Charlotte Smith loves night wandering but doesn’t write about glow-worms until the 6th vol of Elegiac Sonnets
-
-
-
 ## 18thC Gothics provide nourishment for suffering ##
 
 
@@ -1490,6 +1682,18 @@ they might start to appear around 1800 — Charlotte Smith loves night wandering
 
 
 (Search convos with hbbo?)
+
+
+
+### "suffer like a heroine" ###
+
+
+
+
+
+
+
+The Udolpho line is infamous, but even knowing it was coming, I had a shudder of satisfaction at reaching it, eager for Emily to indeed suffer like a heroine, nobly and successfully.
 
 
 
@@ -1613,51 +1817,7 @@ Asides and soliloquies interpellate the author into having a sympathetic connect
 
 
 
-## pursue: Austen looms over all of this... ##
-
-
-
-
-
-
-
-I sort of — suddenly remembered that she is, like Shakespeare, a monumentally canonized author, and that I am interested in such figures, and that she is in my period — and I got very curious about reading her in relation to Radcliffe, Smith, and Robinson, all of whom were celebrities in the decade before her
-
-
-
-### her shadow isn't interesting ###
-
-
-
-
-
-
-
-I’d rather just play around with Smith as Smith, rather than Smith in the shadow of Austen
-
-
-
-### Austen & Radcliffe ###
-
-
-
-
-
-
-
-having re-read Radcliffe, I could easily imagine a Radcliffe fandom along the lines of an Austen fandom — Udolpho really is very good
-
-
-
-the Radcliffe-Austen connection ought to be pretty well-trod, though; Northanger Abbey is famously a rewriting of Udolpho
-
-
-
-Alex: “yes very - but you are not talking about Austen's reading of Radcliffe so much as her reading v. their reading?”
-
-
-
-### literary celebrity can inhibit legacy ###
+## literary celebrity can inhibit legacy ##
 
 
 
@@ -1690,22 +1850,6 @@ and my diss authors (other than Radcliffe) are all attempting to use and cultiva
 
 
 I picked authors who wrote prolifically in a range of mediums and genres because I am interested in the emerging “reading public” and what it looked like in the 1790s when all that writing and reading got very high-stakes
-
-
-
-### Austen as 1790s author? ###
-
-
-
-
-
-
-
-it might be interesting, actually, to look just at the juvenilia that was written during my decade of interest
-
-
-
-oh, especially her history of england, which is a riot — in conversation with the general problem/project of national history in the shadow of the revolution
 
 
 
@@ -1761,7 +1905,11 @@ Are there differences between volumes that were printed at the same time (eg vol
 
 
 
-## account for variety with information density ##
+### parts of major works circulate seperately ###
+
+
+
+#### Wordsworth's Prelude ####
 
 
 
@@ -1769,7 +1917,23 @@ Are there differences between volumes that were printed at the same time (eg vol
 
 
 
-Minard is actually making a strong and brutal argument in his chart -- against war, against Napoleon, and against history as the biography of celebrity. I need to do a lot of actual research first, to figure out what I think is true, and why I think it, but I will know that I have succeeded, I think, if I can produce something half so rich and persuasive.
+What parts were printed elsewhere, and where?
+
+
+
+(What parts were read to people, and when??)
+
+
+
+How much was the work anticipated, when it was published on his death?
+
+
+
+#### Radcliffe's poems ####
+
+
+
+## 1790s demand timeliness from literature ##
 
 
 
@@ -1777,31 +1941,31 @@ Minard is actually making a strong and brutal argument in his chart -- against w
 
 
 
-Right now this means that I am throwing out my current dissertation outline, which separates things based on which corpus I am pulling my information from. I will describe my methods in the most voluminous appendices the department has ever seen if I must (and I strongly suspect that, in the end, I must) but I am on a quest for astonishingly dense synthesis.
+The need for speed in composition & publishing affects more than just political pamphlets, introduces a responsiveness to literature, has effects even in somewhat unexpected places
 
 
 
+# Resources #
 
 
 
-
-I think this how how one properly accounts overwhelming detail and variety: lots of different bits of information all correlated with each other.
-
-
-
-## performative vulnerability: “topping from the bottom: ##
+## Corpora ##
 
 
 
+### Women's Writing Online ###
 
 
 
-
-performative vulnerability as a woman’s “topping from the bottom” power play — that the disress being expressed is REAL doesn’t make its expression less manipulative; contrast with the Victorian “A Little Princess” idea of suffering only inwardly
-
+### Corvey Collection ###
 
 
-Grecian Daughter, she-tragedy heroine generally; also Emmeline
+
+### Early Moden Drama ###
+
+
+
+### Chawton House Library ###
 
 
 
