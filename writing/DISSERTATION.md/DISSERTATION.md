@@ -977,6 +977,54 @@ Does her representation shift in time with her location/status as an actual pers
 
 
 
+## apocalyptic visions ##
+
+
+
+
+
+
+
+How common are these? Is it women writing them? Are they popular? Do people write about them?
+
+
+
+“Beachy Head”, “Eighteen Hundred and Eleven”, maybe some Blake?? “Ozymandias”
+
+
+
+## Wordsworth's Salisbury Plain? ##
+
+
+
+
+
+
+
+What was it? Any connection to More??
+
+
+
+
+
+
+
+## Palmyra ##
+
+
+
+### Barbauld "1811" ###
+
+
+
+
+
+
+
+“In desert solitudes then Tadmor sleeps”
+
+
+
 # Observations #
 
 
@@ -1942,6 +1990,398 @@ How much was the work anticipated, when it was published on his death?
 
 
 The need for speed in composition & publishing affects more than just political pamphlets, introduces a responsiveness to literature, has effects even in somewhat unexpected places
+
+
+
+## Romantic poets relied upon women ##
+
+
+
+
+
+
+
+In their own acknowledgement (?), from the beginning, the poet’s occupation and their romantic connection with nature rely upon the support of the women in their lives; certainly Coleridge knew the importance of Dorothy to Wordsworth, and surely knowing of her would have been key to being “in the know” in their whole social circle; effacing these women’s importance wasn’t key to the myth-making yet (?) but was something grabbed ahold of and exaggerated later?
+
+
+
+### Wordsworth ###
+
+
+
+
+
+
+
+Tintern Abbey and The Prelude refer directly to Dorothy’s presence, importance, and role in shaping his mind/career
+
+
+
+
+
+
+
+Wordsworth also published some of Dorothy’s poems as “by a female friend” -- how many people knew they were hers?
+
+
+
+### Coleridge ###
+
+
+
+
+
+
+
+Coleridge: “Frost at Midnight” : For still I hoped to see the stranger's face, / Townsman, or aunt, or sister more beloved, / My play-mate when we both were clothed alike! — His sister stands out from other people and relatives as the most desirable possible arrival
+
+
+
+## Coleridge misdiagnoses his nightmares ##
+
+
+
+
+
+
+
+See the Norton: he was probably going through opium withdrawal, but the morality of supernaturalism made him misdiagnose bad dreams as symptoms of deep guilt
+
+
+
+## imagining London as a future ruin ##
+
+
+
+### Barbauld "1811", 1812 ###
+
+
+
+
+
+
+
+The comfort, in Barbauld’s imagining, is that the ruined buildings will still be imaginatively occupied by a veritable flood of still-remembered named individuals who constitute a national legacy; a much more soothing image than Smith’s, in which the buildings are unreadable
+
+
+
+
+
+
+
+Memoralizing, too, is cyclical: “And now, where Caesar saw with proud disdain / The wattled hut and skin of azure stain, / Corinthian columns rear their graceful forms, / And light varandas brave the wintry storms, / While British tongues the fading fame prolong / Of Tully's eloquence and Maro's song.”
+
+
+
+
+
+
+
+Perhaps, she says, long ages past away, 
+
+
+
+And set in western waves our closing day, {120} 
+
+
+
+Night, Gothic night, again may shade the plains 
+
+
+
+Where Power is seated, and where Science reigns; 
+
+
+
+England, the seat of arts, be only known 
+
+
+
+By the gray ruin and the mouldering stone; 
+
+
+
+That Time may tear the garland from her brow, {125} 
+
+
+
+And Europe sit in dust, as Asia now. 
+
+
+
+   Yet then the ingenuous youth whom Fancy fires 
+
+
+
+With pictured glories of illustrious sires, 
+
+
+
+With duteous zeal their pilgrimage shall take 
+
+
+
+From the blue mountains, or Ontario's lake, {130} 
+
+
+
+With fond adoring steps to press the sod 
+
+
+
+By statesmen, sages, poets, heroes trod
+
+
+
+
+
+
+
+…
+
+
+
+
+
+
+
+  But who their mingled feelings shall pursue 
+
+
+
+When London's faded glories rise to view? 
+
+
+
+The mighty city, which by every road, 
+
+
+
+In floods of people poured itself abroad; {160} 
+
+
+
+Ungirt by walls, irregularly great, 
+
+
+
+No jealous drawbridge, and no closing gate; 
+
+
+
+Whose merchants (such the state which commerce brings) 
+
+
+
+Sent forth their mandates to dependant kings; 
+
+
+
+Streets, where the turban'd Moslem, bearded Jew, {165} 
+
+
+
+And woolly Afric, met the brown Hindu; 
+
+
+
+Where through each vein spontaneous plenty flowed, 
+
+
+
+Where Wealth enjoyed, and Charity bestowed. 
+
+
+
+Pensive and thoughtful shall the wanderers greet 
+
+
+
+Each splendid square, and still, untrodden street; {170} 
+
+
+
+Or of some crumbling turret, mined by time, 
+
+
+
+The broken stair with perilous step shall climb, 
+
+
+
+Thence stretch their view the wide horizon round, 
+
+
+
+By scattered hamlets trace its antient bound, 
+
+
+
+And, choked no more with fleets, fair Thames survey {175} 
+
+
+
+Through reeds and sedge pursue his idle way. 
+
+
+
+  With throbbing bosoms shall the wanderers tread 
+
+
+
+The hallowed mansions of the silent dead, 
+
+
+
+Shall enter the long isle and vaulted dome 
+
+
+
+Where Genius and where Valour find a home; {180} 
+
+
+
+Awe-struck, midst chill sepulchral marbles breathe, 
+
+
+
+Where all above is still, as all beneath; 
+
+
+
+Bend at each antique shrine, and frequent turn 
+
+
+
+To clasp with fond delight some sculptured urn, 
+
+
+
+The ponderous mass of Johnson's form to greet, {185} 
+
+
+
+Or breathe the prayer at Howard's sainted feet. 
+
+
+
+
+
+
+
+…
+
+
+
+
+
+
+
+Oft shall the strangers turn their eager feet {205} 
+
+
+
+The rich remains of antient art to greet, 
+
+
+
+The pictured walls with critic eye explore, 
+
+
+
+And Reynolds be what Raphael was before. 
+
+
+
+On spoils from every clime their eyes shall gaze, 
+
+
+
+Egyptian granites and the Etruscan vase; {210} 
+
+
+
+And when midst fallen London, they survey 
+
+
+
+The stone where Alexander's ashes lay, 
+
+
+
+Shall own with humbled pride the lesson just 
+
+
+
+By Time's slow finger written in the dust. 
+
+
+
+### Horace Smith, "Ozymandias", 1818 ###
+
+
+
+
+
+
+
+ IN Egypt's sandy silence, all alone, 
+
+
+
+      Stands a gigantic Leg, which far off throws 
+
+
+
+      The only shadow that the Desart knows:— 
+
+
+
+    "I am great OZYMANDIAS," saith the stone, 
+
+
+
+      "The King of Kings; this mighty City shows 
+
+
+
+    "The wonders of my hand."— The City's gone,— 
+
+
+
+      Nought but the Leg remaining to disclose 
+
+
+
+    The site of this forgotten Babylon.
+
+
+
+
+
+
+
+    We wonder,—and some Hunter may express 
+
+
+
+    Wonder like ours, when thro' the wilderness 
+
+
+
+      Where London stood, holding the Wolf in chace, 
+
+
+
+    He meets some fragment huge, and stops to guess 
+
+
+
+      What powerful but unrecorded race 
+
+
+
+      Once dwelt in that annihilated place.
 
 
 
@@ -2989,7 +3429,79 @@ Motivated to trouble “post-Romantic ideals of individual authorship””
 
 
 
-## Text 4 ##
+## Felski, Rita. The Limits of Critique ##
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.31.09AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.32.29AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.33.08AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.33.39AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.35.28AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.35.46AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.36.16AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.37.59AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-10-31at12.38.06AM.png]
 
 
 
@@ -3178,3 +3690,21 @@ Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Hunti
 [PastedGraphic3.png]: PastedGraphic3.png width=344px height=219px
 
 [PastedGraphic4.png]: PastedGraphic4.png width=441px height=296px
+
+[ScreenShot2017-10-31at12.31.09AM.png]: ScreenShot2017-10-31at12.31.09AM.png width=521px height=470px
+
+[ScreenShot2017-10-31at12.32.29AM.png]: ScreenShot2017-10-31at12.32.29AM.png width=349px height=385px
+
+[ScreenShot2017-10-31at12.33.08AM.png]: ScreenShot2017-10-31at12.33.08AM.png width=361px height=245px
+
+[ScreenShot2017-10-31at12.33.39AM.png]: ScreenShot2017-10-31at12.33.39AM.png width=361px height=258px
+
+[ScreenShot2017-10-31at12.35.28AM.png]: ScreenShot2017-10-31at12.35.28AM.png width=357px height=50px
+
+[ScreenShot2017-10-31at12.35.46AM.png]: ScreenShot2017-10-31at12.35.46AM.png width=365px height=336px
+
+[ScreenShot2017-10-31at12.36.16AM.png]: ScreenShot2017-10-31at12.36.16AM.png width=359px height=261px
+
+[ScreenShot2017-10-31at12.37.59AM.png]: ScreenShot2017-10-31at12.37.59AM.png width=365px height=85px
+
+[ScreenShot2017-10-31at12.38.06AM.png]: ScreenShot2017-10-31at12.38.06AM.png width=363px height=132px
