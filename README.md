@@ -22,8 +22,13 @@
 * Don't create empty spaces for thoughts to go in the future. (Add research questions and hypotheses instead.)
 
 # Next-do: migrate thoughts from research log to monster scrivener doc
+Then color-code ideas
 
 # Research Log
+
+## November 1, 2017
+
+Reading Rita Felski -- I am energized by a desire to recuperate the emotional *use* to which the Gothic can be put as an outlet and coping mechanism for suffering, for social subjection, for lack of futurity
 
 ## October 26, 2017
 

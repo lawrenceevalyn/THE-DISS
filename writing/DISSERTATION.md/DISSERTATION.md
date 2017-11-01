@@ -1721,7 +1721,7 @@ One of the lessons we should probably learn from the French Revolution is that i
 
 
 
-## 18thC Gothics provide nourishment for suffering ##
+## Gothics provide nourishment for suffering ##
 
 
 
@@ -3505,11 +3505,143 @@ Motivated to trouble “post-Romantic ideals of individual authorship””
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.17.57AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.18.23AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.19.02AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.19.38AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.20.43AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.22.32AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.23.32AM.png]
+
+
+
+
+
+
+
+![][ScreenShot2017-11-01at3.28.44AM.png]
+
+
+
+![][ScreenShot2017-11-01at3.28.48AM.png]
+
+
+
+
+
+
+
 ## Text 5 ##
 
 
 
 ## Text 6 ##
+
+
+
+## reading recs ##
+
+
+
+### Alan Liu, _Wordsworth: The Sense of History_: this ###
+
+
+
+
+
+
+
+Alan Liu, _Wordsworth: The Sense of History_: this is an extraordinary, although quite difficult book. On its surface, it's a New Historicist account of Wordsworth's poetry. However, I've learned more about aesthetics in general from this book than from most other Romanticist criticism. (For one of many, many examples in this book, see Liu's brilliant discussion of "atmosphere" in landscape painting and poetry from essentially the Middle Ages to Wordsworth in his chapter on Wordsworth and the picturesque--in a few brief pages, one gets an incredibly helpful art history account that also illuminates Wordsworth's poetry)
+
+
+
+### Timothy Morton, _Shelley and the Revolution in Taste ###
+
+
+
+
+
+
+
+Timothy Morton, _Shelley and the Revolution in Taste: The Body and the Natural World_: a deconstructive/Zizekian-ideology-critique account of P. B. Shelley's poetry--really smart stuff, and an engaging style. (Morton has since gone on to become a major figure in ecocriticism)
+
+
+
+### M.H. Abrams, _The Mirror and the Lamp_: a classic, and ###
+
+
+
+
+
+
+
+M.H. Abrams, _The Mirror and the Lamp_: a classic, and in a sense now dated, account of the emergence of Romanticism. What is perhaps especially invigorating is how continental/wide-ranging Abrams's account is (something that is, alas, not the norm now: people tend to focus on much more limited time and national frames)
+
+
+
+### Friedrich Kittler, _Discourse Networks, 1800/1900 ###
+
+
+
+
+
+
+
+Friedrich Kittler, _Discourse Networks, 1800/1900_: also a difficult book (and one that focuses solely in its first part on German Romanticism), but one that emphasizes the importance of thinking about information technologies (including writing) for understanding Romanticism
 
 
 
@@ -3708,3 +3840,21 @@ Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Hunti
 [ScreenShot2017-10-31at12.37.59AM.png]: ScreenShot2017-10-31at12.37.59AM.png width=365px height=85px
 
 [ScreenShot2017-10-31at12.38.06AM.png]: ScreenShot2017-10-31at12.38.06AM.png width=363px height=132px
+
+[ScreenShot2017-11-01at3.17.57AM.png]: ScreenShot2017-11-01at3.17.57AM.png width=355px height=162px
+
+[ScreenShot2017-11-01at3.18.23AM.png]: ScreenShot2017-11-01at3.18.23AM.png width=361px height=113px
+
+[ScreenShot2017-11-01at3.19.02AM.png]: ScreenShot2017-11-01at3.19.02AM.png width=355px height=52px
+
+[ScreenShot2017-11-01at3.19.38AM.png]: ScreenShot2017-11-01at3.19.38AM.png width=366px height=552px
+
+[ScreenShot2017-11-01at3.20.43AM.png]: ScreenShot2017-11-01at3.20.43AM.png width=388px height=598px
+
+[ScreenShot2017-11-01at3.22.32AM.png]: ScreenShot2017-11-01at3.22.32AM.png width=365px height=622px
+
+[ScreenShot2017-11-01at3.23.32AM.png]: ScreenShot2017-11-01at3.23.32AM.png width=367px height=422px
+
+[ScreenShot2017-11-01at3.28.44AM.png]: ScreenShot2017-11-01at3.28.44AM.png width=359px height=122px
+
+[ScreenShot2017-11-01at3.28.48AM.png]: ScreenShot2017-11-01at3.28.48AM.png width=359px height=94px
