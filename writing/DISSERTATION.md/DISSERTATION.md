@@ -37,6 +37,10 @@ Clearly state the differences between work already completed for your thesis, wh
 
 
 
+# Position Paper (3000 wds) #
+
+
+
 # Guiding Principles #
 
 
@@ -1025,6 +1029,62 @@ What was it? Any connection to More??
 
 
 
+## What were nuns up to? ##
+
+
+
+
+
+
+
+Is there a difference between the actual nuns of the world, and the literary depiction of nuns?
+
+
+
+### convents as woman-storage ###
+
+
+
+
+
+
+
+Women “bury themselves” in convents — it’s a living death
+
+
+
+(But there’s always this anxiety that they’re not dead enough, that they are too beautiful or too rich to be discarded from consideration)
+
+
+
+### women have leisure in convents ###
+
+
+
+
+
+
+
+“I came to learn that women have never had a history or culture of leisure. (Unless you were a nun, one researcher later told me.) That from the dawn of humanity, high status men, removed from the drudge work of life, have enjoyed long, uninterrupted hours of leisure. And in that time, they created art, philosophy, literature, they made scientific discoveries and sank into what psychologists call the peak human experience of flow. Women aren’t expected to flow. I read feminist leisure research (who knew such a thing existed?) and international studies that found women around the globe felt that they didn’t deserve leisure time. It felt too selfish. Instead, they felt they had to earn time to themselves by getting to the end of a very long To Do list. Which, let’s face it, never ends. I began to realise that time is power. That time is a feminist issue.”
+
+
+
+— 
+
+
+
+Brigid Schulte: Why time is a feminist issue 
+
+
+
+
+
+
+
+### was the bleeding nun a common story? ###
+
+
+
 # Observations #
 
 
@@ -1225,70 +1285,6 @@ One of the things I like about computational methods is that, ultimately, there 
 
 
 
-## performative vulnerability ##
-
-
-
-
-
-
-
-Grecian Daughter, she-tragedy heroine generally; also Emmeline
-
-
-
-### men are easily manipulated ###
-
-
-
-
-
-
-
-Men are easily manipulated because they position of power makes it unecessary for them to adeptly perceive situations; they have the privilege of not really seeing the suffering they cause
-
-
-
-### women's vulnerability demands intervention ###
-
-
-
-
-
-
-
-Women’s ostentatious vulnerability demands male intervention — if women can manage to be sufficiently vulnerable in front of the right men, they can reach their desired end states
-
-
-
-(It creates a vacuum)
-
-
-
-### escapism: performative vulnerability works ###
-
-
-
-
-
-
-
-The escapism of the story is not that men won’t kidnap you — it’s that the only strategy you have available to you (performative vulnerability) will work.
-
-
-
-### “topping from the bottom" ###
-
-
-
-
-
-
-
-performative vulnerability as a woman’s “topping from the bottom” power play — that the distress being expressed is REAL doesn’t make its expression less manipulative; contrast with the Victorian “A Little Princess” idea of suffering only inwardly
-
-
-
 ## ESTC: publishers visible over authors ##
 
 
@@ -1426,138 +1422,6 @@ You make/remake the object of your inquiry according to your own interests, prio
 
 
 The decade 1789-99 is suddenly *about me*, and *mine*.
-
-
-
-## chapterable: Wordsworth & More ##
-
-
-
-
-
-
-
-let’s see, looking though my notes — looks like William Wordsworth writes a ton of poems that are just incredibly pretentious versions of Hannah More’s stories/ballads
-
-
-
-Alex: “has that been said before. god I hate wordsworth
-
-
-
-such a mansplainer
-
-
-
-so that would be a great topic”
-
-
-
-Michael Gamer has said, essentially, that Wordsworth is writing more pretentious versions of popular ghost stories
-
-
-
-Alex: “proving that he is one of those dudes in a meeting who repeats what the woman said but louder
-
-
-
-but no one Hannah More especially?”
-
-
-
-no, Hannah More hates ghost stories for the same reason Wordsworth does — they are vulgar and unchristian
-
-
-
-but she uses them anyway, the same way wordsworth does
-
-
-
-to subvert them into morally improving tales
-
-
-
-or, well, WW is less clear w/ moral improvement of individual poems
-
-
-
-but Gamer makes a compelling argument re: his overall claim to have “elevated” his material
-
-
-
-Alex: “is there room to argue against Gamer, or to move it in another direction then?”
-
-
-
-I don’t know that More is a specific source for Wordsworth; it’s not impossible, but also not immediately likely to me. What interests me is the similarity of their rhetorical stance toward their material and their shared mission of “elevating” for moral improvement, contrasted with their success — Wordsworth has got everybody buying his propaganda, More not so much
-
-
-
-Alex: “well, he is a dude.......
-
-
-
-but I see the question, and how it relates to the question about 1790s you have formulated...
-
-
-
-certainly not a rabbit hole, or sideline -  this sounds like core business.”
-
-
-
-hmmm.. Gamer is mostly making a broader argument about the Gothic as the immediate source for Romanticism, whereas More is essentially orthogonal to Romanticism…
-
-
-
-(I agree with & really like Gamer’s argument about the Gothic & Romanticism)
-
-
-
-More want to repurpose and “elevate” the Gothic for essentially evangelical Christian ends — it is astonishing how much I like her, really, given that she is the perfect precursor to all those meddling Victorian moralist middle-class ladies
-
-
-
-Alex: “right, but you are still seeing something new there, about More, that both fits in with an is distinct from Gamer - and is core to your questions about your period”
-
-
-
-yeah, I think I would use Gamer as a leaping-off point to pursue this slightly separate track, about other attempts to elevate/repurpose popular writing
-
-
-
-Alex: “sounds chapter-able. very good.”
-
-
-
-### "The Thorn" & "Ballad of Robert & Richard" ###
-
-
-
-
-
-
-
-Both ballad poems are using the same idea of an abandoned woman and the horrors of death, but in different ways; both are trying to re-purpose an existing cultural phenomenon/trope while filing off the parts they find distateful to serve their more morally uplifting purposes
-
-
-
-## conviction powerful; preposession dangerous ##
-
-
-
-
-
-
-
-Conviction in the face of oppression is powerful, if you refuse to believe the tyrants they can never truly conquer you ----- but also preposessions make rationality impossible and hurt society
-
-
-
-
-
-
-
-(Women in Gothic novels know the tyranny of patriarchy is unjust, and by suffering without ever condeding to it, they triumph)
 
 
 
@@ -1745,6 +1609,90 @@ The Udolpho line is infamous, but even knowing it was coming, I had a shudder of
 
 
 
+### performative vulnerability ###
+
+
+
+
+
+
+
+Grecian Daughter, she-tragedy heroine generally; also Emmeline
+
+
+
+#### men are easily manipulated ####
+
+
+
+
+
+
+
+Men are easily manipulated because they position of power makes it unecessary for them to adeptly perceive situations; they have the privilege of not really seeing the suffering they cause
+
+
+
+#### women's vulnerability demands intervention ####
+
+
+
+
+
+
+
+Women’s ostentatious vulnerability demands male intervention — if women can manage to be sufficiently vulnerable in front of the right men, they can reach their desired end states
+
+
+
+(It creates a vacuum)
+
+
+
+#### escapism: performative vulnerability works ####
+
+
+
+
+
+
+
+The escapism of the story is not that men won’t kidnap you — it’s that the only strategy you have available to you (performative vulnerability) will work.
+
+
+
+#### “topping from the bottom" ####
+
+
+
+
+
+
+
+performative vulnerability as a woman’s “topping from the bottom” power play — that the distress being expressed is REAL doesn’t make its expression less manipulative; contrast with the Victorian “A Little Princess” idea of suffering only inwardly
+
+
+
+### conviction powerful; preposession dangerous ###
+
+
+
+
+
+
+
+Conviction in the face of oppression is powerful, if you refuse to believe the tyrants they can never truly conquer you ----- but also preposessions make rationality impossible and hurt society
+
+
+
+
+
+
+
+(Women in Gothic novels know the tyranny of patriarchy is unjust, and by suffering without ever condeding to it, they triumph)
+
+
+
 ## graphs - index to tears ##
 
 
@@ -1901,6 +1849,206 @@ I picked authors who wrote prolifically in a range of mediums and genres because
 
 
 
+## chapter: ballads in More & WW ##
+
+
+
+### long history of using songs to be popular ###
+
+
+
+
+
+
+
+I've been thinking a lot about songs. As far as I can tell, in the 1820s, poets have been boldly revitalizing poetry by publishing edited versions of popular songs for at least fifty years.
+
+
+
+
+
+
+
+The first part of "thinking a lot about songs," then, mostly has to do with being frustrated yet again by Lyrical Ballads' claim to glorious individual genius when their bold and original ballads!! come a good decade after, say, Robert Burns and Hannah More undertake their own ballad projects. But, seeing Wordsworth and Coleridge as participants in a literary conversation also makes them more interesting again, so I can forgive them their propaganda and just focus on how interesting it is that Wordsworth's 1798 "The Thorn" has so much in common with Hannah More's 1796 "Ballad of Robert and Richard" (both of them are trying to 'elevate' ghost stories above vulgar superstition, for the improvement of their audiences, but with completely different ideas as to what that entails).
+
+
+
+
+
+
+
+The second part of "thinking a lot about songs" involves a leap of several hundred years: Jo Walton is a Hugo- and Nebula-winning writer, and she says that "the single most quoted thing I have ever written" is... a limerick she posted in a usenet newsgroup in 1998, "The Lurkers Support Me In Email," to the tune of “My Bonny Lies Over the Ocean.” I wouldn't be remotely surprised to find that Hannah More has also written a morally-improving ballad to that tune (or, if she hasn't, it's only because the song is too associated with Jacobins), and certainly her other songs all mention specific tunes which she assumes I will already know.
+
+
+
+
+
+
+
+So there's something interesting to me, here, about the idea of layering your words over top of pattern someone else already knows, as a way to get your version to stick more easily in people's heads. I don't think Jo Walton was intentionally trying to write something extremely memorable, but Hannah More certainly was.
+
+
+
+#### novels mention but don't always show ballads ####
+
+
+
+
+
+
+
+The poetry certainly circulated outside its novelistic content -- in the case of Udolpho, two of the main character's poems were actually published separately in periodicals beforethe novel. But the songs and poems included in novels seem to be there in part to "elevate" and grant respectability to the fiction -- Udolpho mentions a ballad, but doesn't print it. So perhaps the somewhat disreputable nature of popular ballads could be tempered by literary or moral intervention, but only when that was the only literary project going.
+
+
+
+
+
+
+
+But Waverley includes a lot of ballads!
+
+
+
+##### did people sing these songs? #####
+
+
+
+
+
+
+
+I'm curious, too, about the afterlives of the songs that often appear in the novels of the decade. Did people actually sing them?
+
+
+
+### Wordsworth & More ###
+
+
+
+
+
+
+
+let’s see, looking though my notes — looks like William Wordsworth writes a ton of poems that are just incredibly pretentious versions of Hannah More’s stories/ballads
+
+
+
+Alex: “has that been said before. god I hate wordsworth
+
+
+
+such a mansplainer
+
+
+
+so that would be a great topic”
+
+
+
+Michael Gamer has said, essentially, that Wordsworth is writing more pretentious versions of popular ghost stories
+
+
+
+Alex: “proving that he is one of those dudes in a meeting who repeats what the woman said but louder
+
+
+
+but no one Hannah More especially?”
+
+
+
+no, Hannah More hates ghost stories for the same reason Wordsworth does — they are vulgar and unchristian
+
+
+
+but she uses them anyway, the same way wordsworth does
+
+
+
+to subvert them into morally improving tales
+
+
+
+or, well, WW is less clear w/ moral improvement of individual poems
+
+
+
+but Gamer makes a compelling argument re: his overall claim to have “elevated” his material
+
+
+
+Alex: “is there room to argue against Gamer, or to move it in another direction then?”
+
+
+
+I don’t know that More is a specific source for Wordsworth; it’s not impossible, but also not immediately likely to me. What interests me is the similarity of their rhetorical stance toward their material and their shared mission of “elevating” for moral improvement, contrasted with their success — Wordsworth has got everybody buying his propaganda, More not so much
+
+
+
+Alex: “well, he is a dude.......
+
+
+
+but I see the question, and how it relates to the question about 1790s you have formulated...
+
+
+
+certainly not a rabbit hole, or sideline -  this sounds like core business.”
+
+
+
+hmmm.. Gamer is mostly making a broader argument about the Gothic as the immediate source for Romanticism, whereas More is essentially orthogonal to Romanticism…
+
+
+
+(I agree with & really like Gamer’s argument about the Gothic & Romanticism)
+
+
+
+More want to repurpose and “elevate” the Gothic for essentially evangelical Christian ends — it is astonishing how much I like her, really, given that she is the perfect precursor to all those meddling Victorian moralist middle-class ladies
+
+
+
+Alex: “right, but you are still seeing something new there, about More, that both fits in with an is distinct from Gamer - and is core to your questions about your period”
+
+
+
+yeah, I think I would use Gamer as a leaping-off point to pursue this slightly separate track, about other attempts to elevate/repurpose popular writing
+
+
+
+Alex: “sounds chapter-able. very good.”
+
+
+
+#### "The Thorn" & "Ballad of Robert & Richard" ####
+
+
+
+
+
+
+
+Both ballad poems are using the same idea of an abandoned woman and the horrors of death, but in different ways; both are trying to re-purpose an existing cultural phenomenon/trope while filing off the parts they find distateful to serve their more morally uplifting purposes
+
+
+
+#### When WW makes ballad lyrical he is gross ####
+
+
+
+
+
+
+
+More writes ballads about and for the people she discusses
+
+
+
+When Wordsworth makes them LYRICAL ballads he turns the poor into spectacles / objects of pity; he subordinates their lived experience to his intellectual/poetic/aesthetic experience
+
+
+
 ## many works not actual one single object ##
 
 
@@ -2046,6 +2194,46 @@ Coleridge: “Frost at Midnight” : For still I hoped to see the stranger's fac
 
 
 See the Norton: he was probably going through opium withdrawal, but the morality of supernaturalism made him misdiagnose bad dreams as symptoms of deep guilt
+
+
+
+## debt vs credit ##
+
+
+
+
+
+
+
+It has JUST occurred to me that, in an odd counterpoint to all the 18thC wailing about commerce and debt as destructive of social institutions, etc etc, actually nearly every nobleman depicted across everything I’ve read makes judicious use of financial credit
+
+
+
+It’s a classic move for a man to, say, crawl out of the channel after a shipwreck and turn up at the nearest peasant and say “as you can see I am a gentleman in temporary distress, help me and I’ll pay you back” (sometimes not even needing to promise repayment) and then 80% of the time we’re told that he did follow up and repay
+
+
+
+Are the screeds against debt in the same works...? I’ll have to check, but I THINK there’s a distinction being made between “credit” (which is tied to social credibility) and “debt” (which is seen as impersonal and with near-mystical properties)
+
+
+
+Similarly peasants can live like 5 years in a cottage without paying rent and they’ll get around to it when the landlord asks them, and this too is not “debt”, in fact at the start of the century it’s a narrative marker of cruelty for the landlord to insist on the rent being paid
+
+
+
+Ok, those are my thoughts on credit vs debt as part of the shift from parochial economies to imperial market capitalism
+
+
+
+### Hannah More HATES DEBT ###
+
+
+
+
+
+
+
+Debt can even be a sin
 
 
 

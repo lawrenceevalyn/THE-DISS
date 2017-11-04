@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-11-01 03:31:31 -0400" ModID="C7C68A63-6A4E-4ECD-A479-AA989F6F41BB">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-11-04 00:01:01 -0400" ModID="962C4890-CA1F-411D-944E-FDE64AD80743">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -11,7 +11,7 @@
                 <SelectedSubdocumentIDs>53</SelectedSubdocumentIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="231" UUID="27F1E55C-97D8-4FD2-A96B-3E6B360D78E0" Type="Text" Created="2017-10-16 13:09:58 -0400" Modified="2017-10-16 13:48:13 -0400">
+                <BinderItem ID="231" UUID="27F1E55C-97D8-4FD2-A96B-3E6B360D78E0" Type="Text" Created="2017-10-16 13:09:58 -0400" Modified="2017-11-03 23:51:48 -0400">
                     <Title>OGS Plan of Study (500 wds)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -19,6 +19,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>172,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="300" UUID="171EC036-1A43-4AC2-889D-E9AEC9950B04" Type="Text" Created="2017-11-03 23:59:36 -0400" Modified="2017-11-03 23:59:58 -0400">
+                    <Title>Position Paper (3000 wds)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="158" UUID="C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3" Type="Text" Created="2017-08-11 16:04:11 -0400" Modified="2017-09-10 18:38:26 -0400">
@@ -892,6 +902,48 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem ID="289" UUID="90F929B6-537C-4D43-95DA-91CFDD898435" Type="Text" Created="2017-11-01 22:21:09 -0400" Modified="2017-11-01 22:21:53 -0400">
+                            <Title>What were nuns up to?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>95,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="290" UUID="DA06F707-6C77-47D1-9327-67BBCE4C058D" Type="Text" Created="2017-11-01 22:21:28 -0400" Modified="2017-11-01 22:22:28 -0400">
+                                    <Title>convents as woman-storage</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>188,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="292" UUID="74831393-F77B-4DB8-8898-A1F0F23B0408" Type="Text" Created="2017-11-01 22:23:12 -0400" Modified="2017-11-01 22:23:28 -0400">
+                                    <Title>women have leisure in convents</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="291" UUID="F5FE304F-D24C-4B8E-BDEE-905933A839CC" Type="Text" Created="2017-11-01 22:22:46 -0400" Modified="2017-11-01 22:22:53 -0400">
+                                    <Title>was the bleeding nun a common story?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="131" UUID="11BF4A7B-4C91-4806-A362-319BF51B971B" Type="Text" Created="2017-08-11 15:20:10 -0400" Modified="2017-10-28 15:03:49 -0400">
@@ -1009,58 +1061,6 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="155" UUID="91ED910F-5B74-4770-B2F4-21912343114C" Type="Text" Created="2017-08-11 16:02:15 -0400" Modified="2017-10-28 15:05:32 -0400">
-                            <Title>performative vulnerability</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>62,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="152" UUID="A01CFBEE-6C95-406E-9A0B-0689060DF18F" Type="Text" Created="2017-08-11 16:01:24 -0400" Modified="2017-08-11 16:02:12 -0400">
-                                    <Title>men are easily manipulated</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>188,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="156" UUID="8795A219-E771-41EC-B776-5013DB5A7B0E" Type="Text" Created="2017-08-11 16:02:49 -0400" Modified="2017-08-11 16:03:06 -0400">
-                                    <Title>women's vulnerability demands intervention</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>201,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="157" UUID="DC68CB99-F051-4ABB-B70C-FAEC9E7A1C6C" Type="Text" Created="2017-08-11 16:03:13 -0400" Modified="2017-08-11 16:03:21 -0400">
-                                    <Title>escapism: performative vulnerability works</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>154,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="257" UUID="450BD315-2555-4053-A91B-F3991DE1D5FB" Type="Text" Created="2017-10-26 20:49:53 -0400" Modified="2017-10-28 15:05:47 -0400">
-                                    <Title>“topping from the bottom"</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>92,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
                         <BinderItem ID="161" UUID="EE519946-C464-41D3-95F3-BFC82EB59A03" Type="Text" Created="2017-08-11 16:07:17 -0400" Modified="2017-08-11 16:07:45 -0400">
                             <Title>ESTC: publishers visible over authors</Title>
                             <MetaData>
@@ -1154,38 +1154,6 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
-                        </BinderItem>
-                        <BinderItem ID="235" UUID="1E2CC8D2-D780-43E7-9196-C5CE306795FD" Type="Text" Created="2017-10-16 15:13:49 -0400" Modified="2017-10-16 16:11:23 -0400">
-                            <Title>chapterable: Wordsworth &amp; More</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1735,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="190" UUID="A33456A8-68C4-4BA0-807A-97083B9DAA86" Type="Text" Created="2017-09-06 11:09:12 -0400" Modified="2017-09-06 11:10:20 -0400">
-                                    <Title>"The Thorn" &amp; "Ballad of Robert &amp; Richard"</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>275,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="191" UUID="3659F3DF-B1BB-4428-ABC6-58799E36EF47" Type="Text" Created="2017-09-06 16:25:23 -0400" Modified="2017-09-19 14:04:20 -0400">
-                            <Title>conviction powerful; preposession dangerous</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>321,0</TextSelection>
-                            </TextSettings>
                         </BinderItem>
                         <BinderItem ID="205" UUID="D539440A-33D1-4C12-A304-6351D2D59DD8" Type="Text" Created="2017-09-19 13:58:54 -0400" Modified="2017-09-19 13:59:22 -0400">
                             <Title>edit anthologies in chronological order</Title>
@@ -1326,6 +1294,68 @@
                                         <TextSelection>129,6</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem ID="155" UUID="91ED910F-5B74-4770-B2F4-21912343114C" Type="Text" Created="2017-08-11 16:02:15 -0400" Modified="2017-10-28 15:05:32 -0400">
+                                    <Title>performative vulnerability</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>62,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="152" UUID="A01CFBEE-6C95-406E-9A0B-0689060DF18F" Type="Text" Created="2017-08-11 16:01:24 -0400" Modified="2017-08-11 16:02:12 -0400">
+                                            <Title>men are easily manipulated</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>188,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="156" UUID="8795A219-E771-41EC-B776-5013DB5A7B0E" Type="Text" Created="2017-08-11 16:02:49 -0400" Modified="2017-08-11 16:03:06 -0400">
+                                            <Title>women's vulnerability demands intervention</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>201,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="157" UUID="DC68CB99-F051-4ABB-B70C-FAEC9E7A1C6C" Type="Text" Created="2017-08-11 16:03:13 -0400" Modified="2017-08-11 16:03:21 -0400">
+                                            <Title>escapism: performative vulnerability works</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>154,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="257" UUID="450BD315-2555-4053-A91B-F3991DE1D5FB" Type="Text" Created="2017-10-26 20:49:53 -0400" Modified="2017-10-28 15:05:47 -0400">
+                                            <Title>“topping from the bottom"</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>92,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="191" UUID="3659F3DF-B1BB-4428-ABC6-58799E36EF47" Type="Text" Created="2017-09-06 16:25:23 -0400" Modified="2017-09-19 14:04:20 -0400">
+                                    <Title>conviction powerful; preposession dangerous</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>321,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem ID="177" UUID="7C05C929-E994-44C9-A398-B420C344E470" Type="Text" Created="2017-08-21 02:16:57 -0400" Modified="2017-09-19 01:47:11 -0400">
@@ -1433,6 +1463,85 @@
                             <TextSettings>
                                 <TextSelection>1043,0</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="296" UUID="1D6BBCB3-A6AA-43C5-90DA-881FCEAA3F2C" Type="Text" Created="2017-11-03 23:53:56 -0400" Modified="2017-11-03 23:54:13 -0400">
+                            <Title>chapter: ballads in More &amp; WW</Title>
+                            <MetaData>
+                                <LabelID>8</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="294" UUID="259F0FC8-76D9-4420-85A0-A443CBEDC976" Type="Text" Created="2017-11-03 23:52:30 -0400" Modified="2017-11-03 23:53:42 -0400">
+                                    <Title>long history of using songs to be popular</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1940,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="293" UUID="AABBF5DD-AF53-4998-89F7-FD6C59562745" Type="Text" Created="2017-11-03 23:51:28 -0400" Modified="2017-11-03 23:53:28 -0400">
+                                            <Title>novels mention but don't always show ballads</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>541,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="295" UUID="EF19098D-4104-4165-8E7A-C668888B86F3" Type="Text" Created="2017-11-03 23:53:29 -0400" Modified="2017-11-03 23:53:46 -0400">
+                                                    <Title>did people sing these songs?</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>3,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="235" UUID="1E2CC8D2-D780-43E7-9196-C5CE306795FD" Type="Text" Created="2017-10-16 15:13:49 -0400" Modified="2017-11-03 23:54:23 -0400">
+                                    <Title>Wordsworth &amp; More</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1735,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="190" UUID="A33456A8-68C4-4BA0-807A-97083B9DAA86" Type="Text" Created="2017-09-06 11:09:12 -0400" Modified="2017-09-06 11:10:20 -0400">
+                                            <Title>"The Thorn" &amp; "Ballad of Robert &amp; Richard"</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>275,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="299" UUID="0694850C-358B-43C1-B8F7-0E521927B7C8" Type="Text" Created="2017-11-03 23:57:19 -0400" Modified="2017-11-03 23:58:28 -0400">
+                                            <Title>When WW makes ballad lyrical he is gross</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>241,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="247" UUID="3E025559-AA4E-48B3-A2A7-B6FB712CBD40" Type="Text" Created="2017-10-22 22:11:20 -0400" Modified="2017-10-22 22:11:29 -0400">
                             <Title>many works not actual one single object</Title>
@@ -1559,6 +1668,28 @@
                             <TextSettings>
                                 <TextSelection>157,0</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="297" UUID="C590B1A7-7380-4DA8-A19F-02F1C169A574" Type="Text" Created="2017-11-03 23:55:15 -0400" Modified="2017-11-03 23:55:57 -0400">
+                            <Title>debt vs credit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1117,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="298" UUID="8B6486AF-3548-4CCA-8098-678C21D98610" Type="Text" Created="2017-11-03 23:55:49 -0400" Modified="2017-11-03 23:56:06 -0400">
+                                    <Title>Hannah More HATES DEBT</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>22,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="276" UUID="9655BE16-4380-4CB9-8C1B-E9CDC363BE0C" Type="Text" Created="2017-10-30 01:15:48 -0400" Modified="2017-10-30 01:15:55 -0400">
                             <Title>imagining London as a future ruin</Title>
@@ -2497,7 +2628,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="232" Characters="1528" Date="2017-11-01 03:25:06 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-11-04 00:00:16 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
