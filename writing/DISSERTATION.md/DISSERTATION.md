@@ -41,6 +41,114 @@ Clearly state the differences between work already completed for your thesis, wh
 
 
 
+## more bibliographical than "DH" ##
+
+
+
+
+
+
+
+My use of computational methods is skeptical of the reification of “Digital Humanities” as a discipline. I pursue answers to literary questions via a range of methods, some of which will employ databases, [other things]. However, [rather than focusing on the digitality of my tools], I emphasize the continuity of my approach with, for example, the exhaustive descriptive bibliography of Garside and the empirical quantificaion of St Clair.
+
+
+
+### no longer considering scales as different models ###
+
+
+
+
+
+
+
+My initial thesis proposal proposed approaching my decade of interest by examining three different “models” of different levels of detail: “One of my models will be large and distant: 51,965 bibliographic entries from the ETSC. One model will be smaller and closer: 502 full texts from the Eighteenth Century Collections Online Text Creation Partnership (ECCO-TCP) corpus. And yet another model will occur at a more traditional scale for literary scholarship: key works by key writers, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically in the period, often as a means to further aesthetic and political goals in a range of literary forms.”
+
+
+
+I still anticipate building and comparing multiple ‘models’ of literary activity in the decade, but no longer conceive of this as a division shaped by my textual sources. Instead, I anticipate considering publisher-centric, reader-centric, and author-centric models, each examined at multiple scales of detail.
+
+
+
+## still want to "account for" everything ##
+
+
+
+## authors ##
+
+
+
+
+
+
+
+My fields study has confirmed my interest in Hannah More, Charlotte Smith, and Mary Robinson as writers creatively making use of multiple genres in the public mediascape. However, it has also highlighted Ann Radcliffe’s striking difference in these terms. Her difference in approach and marketing, despite her wide-reaching fame, could be the object of my study of her works. I could turn instead to Sarah Scudgell Wilkinson, a prolific writer of Gothic chapbooks as well as longer works of multiple kinds, as my entry to the ‘School of Radcliffe.’ Or, my reading has interested me in Samuel Taylor Coleridge’s writing for periodicals; he could take Radcliffe’s place as a ‘key writer’ for a shift away from the Gothic.
+
+
+
+I am unsure about how best to structure my use of ‘key authors’ to shape my study: it seems crucial to [ground my broader observations in detailed examination of individual attempts to navigate the complex systems], and to apply my contextual findings to individual case studies. However, I am not sure how many authors is appropriate, or how to select them — especially since one of my key questions is, “how can we appropriately select ‘representatives’ from complex bodies of texts?” 
+
+
+
+## possible chapters ##
+
+
+
+
+
+
+
+My reading has allowed me to develop more specific hypotheses regarding potential chapters. 
+
+
+
+
+
+
+
+are all my chapters going to be “compare two authors and how they use one genre”?
+
+
+
+are my other chapters “Ann Radcliffe, Charlotte Smith, and the gothic novel” and “Mary Robinson, Samuel Taylor Coleridge, and the periodical poem”?
+
+
+
+if so, is three chapters enough?? cuz I only have three chapters worth of ideas in that format
+
+
+
+and/or do I think I’ll come up with other ideas in that format?
+
+
+
+or are my chapters more different from each other? like, maybe I write about More & Wordsworth, and all the ballad stuff goes into a different chapter that’s just about “okay but most of what people were reading was fun stuff like songs and ghost stories”
+
+
+
+and that’s the one where I talk about my emerging theory of timeliness
+
+
+
+or is timeliness not a chapter, but in fact the overarching theme of the whole diss?
+
+
+
+### timeliness ###
+
+
+
+### More & Wordsworth & ballads ###
+
+
+
+
+
+
+
+One potential chapter, for example, might examine Hannah More and William Wordsworth’s varying use of supernatural content and ballad forms as literary tools to “elevate” their readers. This inquiry would consider the authors’ individual literary techniques, perhaps by comparing Wordsworth’s 1798 “The Thorn” and More’s 1796 “Robert and Richard; Or, The Ghost of Poor Molly, Who Was Drowned In Richard’s Mill Pond.” It would also consider the publishing context of ballads and songs generally, perhaps by using topic-modelling of the titles in the English Short Title Catalogue to identify the “songs” for sale and exploring the use of ballads as drivers of sales. And it would consider the multiple contexts in which readers encountered ballads, not just in broadsheets and collections, but also as ephemeral social experiences, and as references or extracts in longer prose works.
+
+
+
 # Guiding Principles #
 
 
@@ -385,6 +493,18 @@ Is there a way I could use JSTOR information & ESTC information to identify popu
 
 
 
+## Sarah Scudgell Wilkinson ##
+
+
+
+
+
+
+
+http://orlando.cambridge.org/public/svPeople?person_id=wilksa
+
+
+
 ## is decanonization my model? ##
 
 
@@ -426,6 +546,18 @@ Goodness gracious, do we even WANT to?
 
 
 But she’s really so unlike everyone else…
+
+
+
+#### When and how was Austen canonized? ####
+
+
+
+
+
+
+
+Broadview p XL: “Austen’s works are now seen to hold a central position in the history of the novel” — did they not before??
 
 
 
@@ -586,6 +718,10 @@ how can Powis Castle satirize in 1788 something which barely even exists yet?
 
 
 Can I… ask?
+
+
+
+### will William St Clair????? ###
 
 
 
@@ -881,7 +1017,75 @@ LOTS of nighttime walks featuring glowworms
 
 
 
+Glowworm Rock Still by the side of the old road just north of the junction with the new road at White Moss. ‘We have been in the habit of calling it the Glow-worm Rock from the number of glow-worms we have often seen hanging on to it as described.
+
+
+
 ### "Proud Maisie" Walter Scott ###
+
+
+
+
+
+
+
+Proud Maisie
+
+
+
+Proud Maisie is in the wood
+
+
+
+   Walking so early;
+
+
+
+Sweet Robin sits on the bush,
+
+
+
+   Singing so rarely.
+
+
+
+
+
+
+
+“Tell me, thou bonny bird,
+
+
+
+   When shall I marry me?”—
+
+
+
+“When six braw gentlemen
+
+
+
+   Kirkward shall carry ye.”
+
+
+
+
+
+
+
+“Who makes the bridal bed,
+
+
+
+   Birdie, say truly?”—
+
+
+
+“The gray-headed sexton
+
+
+
+   That delves the grave duly.
 
 
 
@@ -893,7 +1097,7 @@ LOTS of nighttime walks featuring glowworms
 
 
 
-Shall light the steady,
+   Shall light thee steady;
 
 
 
@@ -901,7 +1105,219 @@ The owl from the steeple sing,
 
 
 
-‘Welcome, proud lady.’”
+   ‘Welcome, proud lady.'”
+
+
+
+
+
+
+
+Walter Scott, 1818. Overheard by some characters in The Heart of Midlothian.
+
+
+
+
+
+
+
+### Wordsworth ###
+
+
+
+
+
+
+
+the Glowworm The poem, ‘Among all lovely things my Love had been’, W’s gift to D on his return from seeing Mary in Middleham the previous week; see 20 Apr. 1802 for an account of the poem’s composition on horseback (Calvert’s horse). It is about the finding of a glow-worm for ‘Lucy’ to see. ‘The incident’, wrote W when he copied it out to send to C that same night on reaching Grasmere, ‘took place about seven years ago between Dorothy and me’ (EY, p. 348). The gesture was delicate at Racedown in 1795, and the poem about it is particularly delicate in Apr. 1802; it clearly did reassure D that W’s intended marriage would mean no diminution of his love for her.
+
+
+
+### Cowper ###
+
+
+
+
+
+
+
+The Nightingale and the Glow-worm
+
+
+
+
+
+
+
+#### Translations from VINCENT BOURNE ####
+
+
+
+
+
+
+
+Translations from VINCENT BOURNE.
+
+
+
+<< Previous section   Next section >>
+
+
+
+1. THE GLOW-WORM,
+
+
+
+1.
+
+
+
+BENEATH the hedge, or near the stream,
+
+
+
+A worm is known to stray;
+
+
+
+That shews by night a lucid beam,
+
+
+
+Which disappears by day.
+
+
+
+2.
+
+
+
+Disputes have been and still prevail
+
+
+
+From whence his rays proceed;
+
+
+
+Some give that honour to his tail,
+
+
+
+And others to his head.
+
+
+
+Page  336
+
+
+
+3.
+
+
+
+But this is sure—the hand of might
+
+
+
+That kindles up the skies,
+
+
+
+Gives him a modicum of light,
+
+
+
+Proportion'd to his size.
+
+
+
+4.
+
+
+
+Perhaps indulgent nature meant
+
+
+
+By such a lamp bestow'd,
+
+
+
+To bid the trav'ler, as he went,
+
+
+
+Be careful where he trod:
+
+
+
+5.
+
+
+
+Nor crush a worm, whose useful light
+
+
+
+Might serve, however small,
+
+
+
+To shew a stumbling stone by night,
+
+
+
+And save him from a fall.
+
+
+
+6.
+
+
+
+Whate'er she meant, this truth divine
+
+
+
+Is legible and plain,
+
+
+
+'Tis power almighty bids him shine,
+
+
+
+Nor bids him shine in vain.
+
+
+
+Page  337
+
+
+
+7.
+
+
+
+Ye proud and wealthy, let this theme
+
+
+
+Teach humbler thoughts to you,
+
+
+
+Since such a reptile has its gem,
+
+
+
+And boasts its splendour too.
+
+
+
+
 
 
 
@@ -1085,7 +1501,203 @@ Brigid Schulte: Why time is a feminist issue 
 
 
 
+## natural / unnatural family relations ##
+
+
+
+### Hannah More ###
+
+
+
+
+
+
+
+The Two Shoemakers: much discussion of “unnatural” family
+
+
+
+	•	Part 4: “He was just able to sob out, My unnatural father leaves me to perish, and my injured friend is more than a father to me. Stock told him that one proof he must give him of his repentance was, that he must forgive his father, whose provocation had been very great.” 
+
+
+
+
+
+
+
+### William Hazlitt ###
+
+
+
+
+
+
+
+“This is but natural: it is but natural for a mother to have more regard for her son than for a whole city; but then the city should be left to take some care of itself”. Review of Coriolanus; Norton p 550
+
+
+
+## Emily St Aubert has 3 girlfiends ##
+
+
+
+
+
+
+
+The Italian woman, the peasant girl, and then Blanche — and it is Blanche who most fully sees her to happiness
+
+
+
+(Can I read something related to Between Women to understand this?)
+
+
+
+### she also has 3 boyfriends ###
+
+
+
+
+
+
+
+Morano and the fishing-house stalker seem like basically fine boyfriends — why is Valancourt so superior?
+
+
+
+## Is the dislike of "new money"... justified? ##
+
+
+
+
+
+
+
+Broadview p XLV: “To possess a good deal of money as a result not of belonging to the ‘landed gentry’ but rather of having amassed it through commercial activity was considered more than faintly disreputable.” — That commercial activity was probably partly unsavory or exploitative, and without a local community to whom one has obligations, greed has full reign
+
+
+
+## ending with an ad for next time ##
+
+
+
+### Tristram Shandy ###
+
+
+
+### Hannah More ###
+
+
+
+### William Hazlitt ###
+
+
+
+
+
+
+
+On his first acquaintance with the poets—
+
+
+
+“Enough of this for the present. ‘But there is matter for another rhyme, / And I to this may add a second tale.’” (Norton p 564)
+
+
+
+### Wordsworth Heart-Leap Well ###
+
+
+
+
+
+
+
+‘But there is matter for another rhyme, / And I to this may add a second tale.’
+
+
+
+## Hazlitt on Coleridge on fame ##
+
+
+
+### Lewis too popular ###
+
+
+
+
+
+
+
+As per Hazlitt, Norton p 561
+
+
+
+“He had been to see the Castle Spectre by Monk Lewis, while at Bristol, and described it very well. He said ‘it fitted the taste of the audience like a glove.’ This ad captandum merit was, however, by no means a recommendation of it, according to the severse principles of the new school, which reject rather than court popular efffect.”
+
+
+
+### Thompson appropriately popular ###
+
+
+
+
+
+
+
+Norton p 563, Hazlitt on Coleridge:
+
+
+
+“It was in ths room that we found a little worn-out copy of the Seasons, lying in a window seat, on which Coleridge exclaimed, ‘That is true fame!’ He said Thompson was a great poet, rather than a good one; his style was as meretricious as his thoughts were natural. He spoke of Cowper as the best modern poet. He said the Lyrical Ballads were an experiment about to be tried by him and Wordsworth, to see how far the public taste would endure poetry written in a more natural and simple style than had hitherto been attempted, and making use only of such words as had probably been common in the most ordinary language since the days of Henry II.”
+
+
+
+## is 1793 copyright a big deal? ##
+
+
+
+
+
+
+
+Can I detect the influence of a change in France’s copyright in 1793? Is it as big a deal as William St Clair suggests?
+
+
+
+
+
+
+
 # Observations #
+
+
+
+## novels as puzzle-solving practice ##
+
+
+
+### Radcliffe vs Austen ###
+
+
+
+
+
+
+
+In Radcliffe you know who the heroine should marry; the mysteries are all cosmetic (though there’s always the slight chance that she will die before the end and someone else will marry the nice gentleman); in Austen, the stories are all high-stakes mysteries that puts the reader in the same shoes as the heroine-investigator as she tries to figure out who is a good person for her to marry.
+
+
+
+### Fielding ###
+
+
+
+
+
+
+
+There’s lots of writing on Fielding staging the interpretation of evidence and testimony
 
 
 
@@ -1214,22 +1826,6 @@ Also -- many times the "bad" texts through Idea 1 above are, really, socially ma
 
 
 So, I am practically allergic to the mere thought of trying to identify Good and Bad texts -- by my own instincts I will then end up only wishing to spend time on my Bad ones -- but I do feel like there is space here to distinguish between the **multiple** uses of literature. If there are **many** lists of Good Books, does that address the fundamental problem at all???
-
-
-
-## ballads make ideas catchy ##
-
-
-
-
-
-
-
-Jo Walton’s “single most quoted thing I have ever written” is a song “The Lurkers Support Me In Email” to the tune of “My Bonny Lies Over The Ocean” — because the tune makes the words more memorable, so if the idea itself sticks with you you now have a pre-packaged way to share it
-
-
-
-JUST LIKE what Hannah More does when she publishes hymns / the entire song market of the 18thC!! 
 
 
 
@@ -1390,6 +1986,38 @@ Sedgwick’s project in Thinking Feeling was “the ambition of thinking other t
 
 
 The title of a work was the main ‘advertisement’ available to a text (even author names played a minor role!) so 18thC titles are doing a lot of heavy linguistic signalling of the contents intentionally to locate/interpellate their audiences
+
+
+
+## nitpicks ##
+
+
+
+### Smith definitely goes to the headland ###
+
+
+
+
+
+
+
+“SONNET LXX. On being cautioned against walking over a headland overlooking the sea, because it was frequented by a Lunatic.” — Not “on cancelling my walk because I’ve been cautioned!”
+
+
+
+“In moody sadness, on the giddy brink, / I see him more with envy than with fear;” — why would this not be literally true? (At least as per the poetic premise)
+
+
+
+### WW helped with the root ###
+
+
+
+
+
+
+
+It’s buying into Wordsworth’s weird aesthetic fetishization of poverty to say that a poor old man is defined by his struggle with a root and has nothing left after the wandering poet slices it for him. There is another root. There are a lot more roots. There are also clothes to wash and furniture to mend and a thousand, thousand other household labours, which his wife has been doing! If anything, the sadness of his gratitude is that, as the poet knows, cutting one root does nothing to change the actual condition of the man’s life.
 
 
 
@@ -1921,6 +2549,22 @@ I'm curious, too, about the afterlives of the songs that often appear in the nov
 
 
 
+#### ballads make ideas catchy ####
+
+
+
+
+
+
+
+Jo Walton’s “single most quoted thing I have ever written” is a song “The Lurkers Support Me In Email” to the tune of “My Bonny Lies Over The Ocean” — because the tune makes the words more memorable, so if the idea itself sticks with you you now have a pre-packaged way to share it
+
+
+
+JUST LIKE what Hannah More does when she publishes hymns / the entire song market of the 18thC!! 
+
+
+
 ### Wordsworth & More ###
 
 
@@ -2077,7 +2721,7 @@ I am not sure what I now know about Charlotte Smith that I didn't before, but 
 
 
 
-Why do we treat “the Grasmere Journal” as a distinct text with a title and clear bounds???
+Why do we treat “the Grasmere Journal” as a distinct text with a title and clear bounds??? I’m not convinced that it is actually A Thing.
 
 
 
@@ -2570,6 +3214,34 @@ By Time's slow finger written in the dust. 
 
 
       Once dwelt in that annihilated place.
+
+
+
+### Shelley "England in 1819", 1839 ###
+
+
+
+### Years in titles reflect foreshortening of historic ###
+
+
+
+
+
+
+
+Years in titles reflect foreshortening of historic scope?
+
+
+
+## writing to each other is like Della Cruscans ##
+
+
+
+
+
+
+
+The incestuous Romantic poets writing to each other all the time is a translation of the Della Cruscans; Mary Robinson participates in both conversations
 
 
 

@@ -26,6 +26,57 @@ Then color-code ideas
 
 # Research Log
 
+##November 11, 2017
+
+####Explaining fields to Olli:
+
+passing the exam means proving that I am ready to write my first chapter
+
+and to write a chapter that I know will actually fit inside of the dissertation as a while, I now need to have about a 50% understanding of what the hell my dissertation is ABOUT
+
+Lawrence: like: are all my chapters going to be “compare two authors and how they use one genre”? (I…. think so???)
+
+Lawrence: are my other chapters “Ann Radcliffe, Charlotte Smith, and the gothic novel” and “Mary Robinson, Samuel Taylor Coleridge, and the periodical poem”?
+
+Lawrence: if so, is three chapters enough?? cuz I only have three chapters worth of ideas in that format
+
+Lawrence: and/or do I think I’ll come up with other ideas in that format?
+
+Lawrence: or are my chapters more different from each other? like, maybe I write about More & Wordsworth, and all the ballad stuff goes into a different chapter that’s just about “okay but most of what people were reading was fun stuff like songs and ghost stories”
+
+Lawrence: and that’s the one where I talk about my emerging theory of timeliness
+
+Lawrence: or is timeliness not a chapter, but in fact the overarching theme of the whole diss?
+
+Lawrence: who knows!!! hopefully me, in a month!
+
+## November 8, 2017
+
+Meeting with mom about Shakespeare!
+
+Updates on progress:
+- I sent mom some abstracts
+-- progressive structuration - similar questions as me about how to look at plot at a large scale, but a 
+-- Hewitt's paper - he did basically the same thing we did technically speaking, but then extracted just one mathematical feature (Eigenvector centrality) and saw a long-term historical trend in that figure
+--- we can be different by looking at more/different figures, and seeing what correlated with genres; we're interested 
+-- Personae - a pretty (but uninteresting too), only two plays, and yet sufficient for presentation at ADH
+--- what we're doing better is looking at genre, wider variety of statistics available, more plays, more useful tool
+
+- Word Vectors: mom did this in 1999! we should do something with this, for 2019...?
+-- topic models are just dimensionality and math, nothing remotely semantic to them; word vectors get more semantically involved because they pay attention to word contexts
+--- runs on individual words; for every individual word see what words occur around it, coming up with a vector, 
+---- what is the usage of "Gothic"? ***
+-- began as a technique to automatically build thesaurae (which could then be used to expand querys for search!) -- but published it as a query expansion technique, not as a text analysis technique
+
+
+Project status:
+- quotations: going more slowly; mom met with her and she should be done with GREs this week and resuming research again
+- networks: almost had all the data etc today! but it will be Friday
+- comparing plays to movie scripts, waiting on Manisha
+
+Potential future development: if networks are indeed useful for genre, train a neural network on them and see if it can identify genre
+- compare English, French, and Asian plays from different time periods
+
 ## November 1, 2017
 
 Reading Rita Felski -- I am energized by a desire to recuperate the emotional *use* to which the Gothic can be put as an outlet and coping mechanism for suffering, for social subjection, for lack of futurity
@@ -33,6 +84,65 @@ Reading Rita Felski -- I am energized by a desire to recuperate the emotional *u
 ## October 26, 2017
 
 Talked with Terry today -- *timeliness* is emerging as a crucial concept for me.
+
+## October 25, 2017
+
+Notes from meeting with mom:
+
+meeting with mom
+
+- I will go through the DH2018 application beforehand
+
+AGENDA ITEMS
+- ask mom what has been done so far
+
+-- Manisha Shulka (MA student) is in charge of the projects, she is doing her masters thesis in this area
+
+-- the French students have gone; they were working on two distinct projects:
+--- we have downloaded and parsed all of the Shakespeare, and built social networks on all of them (Pierre and Manuel, and before than Preston)
+--- Manisha is in charge of putting that on the web
+--- get these exposed and really happy, fix interface issues, etc, and THEN maybe the 500 Early Modern Plays
+--- something went wrong with the play... it’s showing definitely wrong numbers for Much Ado but works for Hamlet
+
+-- another student (senior undergrad honors) wants to compare play and movie scripts and how their social networks compare; he is looking at non-shakespeare based just on what he can find scripts of for free (I am interested in all movie adaptations of Hamlet) - but this will be a while
+
+-- freshman honors student is also interested in something here, TB
+
+-- also the quotation project with Marion, looking for all the shakespeare in Northanger Abbey; mom needs to meet with her, is following up now
+--- she is having difficulty developing for non-exact matches, ngram matches
+--- she has all the ECCO texts parsed; she extracted just the raw text so we can look for any quote in any book
+
+-- Marion is going to combine the best parts of everybody’s parsing code and put it up on the server
+-- also going to find all those “details” of numbers paper
+
+
+- if I want to mess with this:
+-- log in as mom with the info given previously, find probably /projects/clip/sna and then the online thing is in javascript package d3; the counting code was in java, then went into gephi to analyse the graph
+-- I could copy all of it, play away and make it look nicer, and then merge it back in later
+
+- literary implications: 
+-- looking at tragedy, comedy, history
+-- do ensembles change over time? interest in large groups or just one protagonist?
+-- what plays are most similar, what plays most different?
+-- can we detect subplots via clusters? - what’s the mathematical value of cliquishness? gephi has this
+
+- ask what I should say in meeting with Jeremy
+-- infodump that we’re working on, demo Hamlet (but don’t leave him with the URL) -- ask him for his immediate thoughts, thumbs-up/down on current lines of thought, what questions dome to mind that you’d like answer to -- and we’ll scurry away
+--- who else should we compare to?
+
+** I will send mom that DH2018 paper on social networks
+
+- schedule next meeting
+
+Next steps:
+- once the code is working, mom will send Manisha to let me play with aesthetics in a sandbox; once it looks nicer, we’ll move it into the main area
+- I will get the CLiP website sorted in the mean time
+- I will have an initial meeting with Jeremy
+- I will send DH2017 article about networks
+- DH2018: the tool (live demo) is available for you to use! email us interesting question you have! we are excited to collaborate with you on new features!
+-- plan for us to both go, but negotiate with Emma
+
+** figure christmas plans
 
 ## October 24, 2017
 
@@ -54,6 +164,29 @@ Talked with Alex about some of the research rabbit holes I've been going down--
 * lessons from the French revolution: does not sound like a rabbit hole so much as  - you learning the broader stuff for your field
 * timeline of the French revolution keyed to temperature: also not a rabbit hole, but a cool sideline instead! but after some articles are to readers
 * Wordsworth and More: certainly not a rabbit hole, or sideline -  this sounds like core business
+
+
+Notes for meeting with Gillespie:
+
+items accomplished from last time:
+- scheduled fields exam!
+- finished a readable draft of MA essay journal article and sent it for feedback
+
+items still in progress from last time:
+- OGS: reviewed requirements, currently drafting Plan of Study
+- meetings with Tom & Terry re: fields questions: I will reach out schedule these today
+- MLA paper: next step was to pick a gamey journal to publish in, I have a shortlist and am narrowing it down
+- think about research questions for my diss that *I* really want to know the answers to:
+-- I am going down a lot of little, odd rabbit holes! (like glowworms)
+-- I am thinking about Jane Austen, and wondering whether my chronological focus is cutting me off from something interesting... why Austen and not Radcliffe? What would the literary canon look like with Radcliffe as our central figure? (I re-read Udolpho and it’s GOOD)
+
+items Alex was going to do:
+- look into ways for me to be involved with DHN
+- sound out Holger re: Shakespeare collaboration
+
+things to talk about today:
+- MA essay journal article?
+- diss research questions?
 
 ## October 1, 2017
 
