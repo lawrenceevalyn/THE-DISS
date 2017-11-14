@@ -26,7 +26,14 @@ Then color-code ideas
 
 # Research Log
 
-##November 11, 2017
+## November 14, 2017
+
+Reviewing notes from meeting with Tom & Terry to make a report to Alex; some ideas that seem particularly fruitful right now:
+* Gothic as cross-generic mode
+* The decade's attention to timeliness requires a particular generic reciprocity and reponsiveness from all works
+    * the idea of a work as a singular unified "object" is created by modern editing
+
+## November 11, 2017
 
 ####Explaining fields to Olli:
 
@@ -81,9 +88,81 @@ Potential future development: if networks are indeed useful for genre, train a n
 
 Reading Rita Felski -- I am energized by a desire to recuperate the emotional *use* to which the Gothic can be put as an outlet and coping mechanism for suffering, for social subjection, for lack of futurity
 
+## October 31, 2017
+
+Met with Tom today -- Fields has to do with demonstrating capability for teaching undergrads, familiarity with field without getting bogged down in criticism
+
+#### Notes from my journal:
+
+I think these are the general areas in which I hope to write. what sort of questions interest you in these general areas?
+1. generic mixing
+2. publication history (timeliness) <- narrators, France
+3. “information / truth management” <- supernatural (empiricist epistemology)
+4. benevolence, sentiment
+5. istoric memory / futurity? <- discontinuity (apocalypse)
+6. commerce & credit
+
+position in relation to scholarship w/o losing text <-- position paper
+
+show broader context for diss *texts* + can situate them among landmarks
+* --> engagement w/ *primary* texts + show reading / teaching (keep secondary secondary)
+
+1. less into drama, less in the Romantic curriculum.
+    * Gothic as cross-generic mode: interesting, not well-written
+2. Beckford - Gothic novels influencing each other out of publication sequence <-- Northanger has
+    * Byron poetical Tristram Shandy
+3. J Paul Hunter *Before Novels* "continuation _____s" Shandy etc endings
+4. novel vs lyric poem vulnerability to parody
+    * Hannah More "sensibility" * [for engagement with the danger that sentimental engagement prevents rather than enables direct intervention for good]
+        * <-- conservative evangelical attacks on sensibility as well as radicals
+        * (More wants to abolition grounded in Christian duty, not "mere" feeling)
+5. psychological authors' relation to watershed moments / historic breaks
+6. Hume: "On Commerce" / "On Luxury" * "commerce, luxury, money, + interest"
+
+how many Qs help w/ drama?
+
 ## October 26, 2017
 
 Talked with Terry today -- *timeliness* is emerging as a crucial concept for me.
+
+#### Notes from my journal:
+
+Things that interest me:
+* Ghost stories (Wordsworth vs More, as per Gamer)
+* Benevolence
+* Economics
+* Surprisingly, not works of direct political philosophy? (They're so... theatrica? I find their emotional narratives more palatable in fiction) -- Frustrated by disconnect between content and rhetoric
+* Timeliness as a literary trait -- many seemingly unified works are actually not (Shandy, CSmith, WW + LB)
+
+W's preface why poetry vs *theatre*
+
+Jeff Cox edition of Keats - chronological
+--> I should look for scholarship *
+
+Shandy + Otranto * Timeliness --> DH meetings,
+
+When do people write about Marie Antoinette in prison? does she get mentally imprisoned before reality? <-- a lot on Marie, need to find something *really surprising* to be worth it
+
+generic reciprocity
+
+what occurs *between* volumes / editions that makes one work need to be responsive?
+
+**The decade's attention to timeliness requires a particular generic reciprocity** * *
+* (More interesting than tracing literal direct discussion of French Revolution)
+
+Dany O'Quinn - performance negotiating aftermath of American War
+
+my frustration with treatises -> a result of time pressure ---- pressure produces affective quality?
+* --> but Godwin *does* pause to reflect etc and then I get bored and want a novel
+
+pamphlet vs tome *physically* ephemeral/timely
+
+Mary Robinson's "snowdrop" poem from novel <-- like CSmith + Radcliffe
+
+( -->)mediation + remediation (<-- like citation)
+* --> Terry will find scholars
+
+editions are "theme + variatins" not unified, singular
 
 ## October 25, 2017
 

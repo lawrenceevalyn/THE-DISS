@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-11-11 18:57:15 -0500" ModID="2294839E-0930-4674-BD3D-D3F6B68503CD">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-11-13 14:57:42 -0500" ModID="FA130D42-5914-4424-B43B-31C706BE7D70">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -21,6 +21,16 @@
                         <TextSelection>172,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="341" UUID="CFC7DF7B-BBBC-446C-99FE-AE0EA03527B4" Type="Text" Created="2017-11-13 14:57:27 -0500" Modified="2017-11-13 14:57:42 -0500">
+                    <Title>Report on 6-7 themes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="300" UUID="171EC036-1A43-4AC2-889D-E9AEC9950B04" Type="Text" Created="2017-11-03 23:59:36 -0400" Modified="2017-11-11 18:04:27 -0500">
                     <Title>Position Paper (3000 wds)</Title>
                     <MetaData>
@@ -31,6 +41,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="340" UUID="D27E714B-1B7C-4D64-BC4D-9D45F7AE7BA4" Type="Text" Created="2017-11-13 14:53:35 -0500" Modified="2017-11-13 14:55:23 -0500">
+                            <Title>guidelines</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>751,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="330" UUID="87AAFD74-EB91-4315-B947-74D8598B6A8B" Type="Text" Created="2017-11-11 18:04:09 -0500" Modified="2017-11-11 18:07:40 -0500">
                             <Title>more bibliographical than "DH"</Title>
                             <MetaData>
@@ -48,7 +68,27 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1002,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="338" UUID="E33C175D-697E-428B-8FDB-1F2D4C61ADBE" Type="Text" Created="2017-11-12 19:48:45 -0500" Modified="2017-11-12 19:50:20 -0500">
+                                    <Title>Felski: I want to avoid critique</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>198,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="339" UUID="C7B3A18E-48A5-472A-820D-233189655E48" Type="Text" Created="2017-11-12 19:48:51 -0500" Modified="2017-11-12 19:49:04 -0500">
+                                    <Title>Sedgwick: I want to be reparative</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -80,7 +120,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>92,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="331" UUID="001C05E0-B1C0-428E-969A-1C186954CD3E" Type="Text" Created="2017-11-11 18:05:47 -0500" Modified="2017-11-11 18:05:51 -0500">
@@ -3023,7 +3063,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="724" Characters="4487" Date="2017-11-11 18:00:44 -0500"></PreviousSession>
+        <PreviousSession Words="194" Characters="1024" Date="2017-11-13 14:53:30 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

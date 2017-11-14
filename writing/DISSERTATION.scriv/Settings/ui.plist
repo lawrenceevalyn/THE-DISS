@@ -17,7 +17,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>7</integer>
+		<integer>5</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
@@ -54,8 +54,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {716, 417.5}}</string>
-		<string>{{0, 427.5}, {716, 243.5}}</string>
+		<string>{{0, 0}, {716, 418}}</string>
+		<string>{{0, 428}, {716, 243}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -913,9 +913,9 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {716, 620}}</string>
+	<string>{{0, 0}, {716, 192}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{997, 0}</string>
+	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -931,7 +931,7 @@
 	<string>74 110 1029 721 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>334</integer>
+		<integer>338</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -960,7 +960,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>17</integer>
+		<integer>23</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1107,14 +1107,62 @@
 					<integer>334</integer>
 				</array>
 				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>333</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>338</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>339</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>338</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>339</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>338</integer>
+				</array>
+				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {621, 304}}</string>
-	<key>supportingDocumentEditor.selectedItemIDs</key>
-	<array/>
+	<string>{{0, 0}, {572.79999, 293.60001}}</string>
+	<key>supportingDocumentEditor.selectedRanges</key>
+	<string>{198, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
