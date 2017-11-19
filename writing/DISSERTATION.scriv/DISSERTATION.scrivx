@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-11-13 14:57:42 -0500" ModID="FA130D42-5914-4424-B43B-31C706BE7D70">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-11-19 01:01:55 -0500" ModID="28EB51AB-2701-491D-9197-44A1FC6FF94F">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -28,7 +28,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>273,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="300" UUID="171EC036-1A43-4AC2-889D-E9AEC9950B04" Type="Text" Created="2017-11-03 23:59:36 -0400" Modified="2017-11-11 18:04:27 -0500">
@@ -49,6 +49,16 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>751,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="343" UUID="8FFC6A8A-A682-4F31-A4F2-0D488D788A47" Type="Text" Created="2017-11-19 01:01:49 -0500" Modified="2017-11-19 01:01:49 -0500">
+                            <Title>Untitled</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="330" UUID="87AAFD74-EB91-4315-B947-74D8598B6A8B" Type="Text" Created="2017-11-11 18:04:09 -0500" Modified="2017-11-11 18:07:40 -0500">
@@ -79,16 +89,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>198,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="339" UUID="C7B3A18E-48A5-472A-820D-233189655E48" Type="Text" Created="2017-11-12 19:48:51 -0500" Modified="2017-11-12 19:49:04 -0500">
-                                    <Title>Sedgwick: I want to be reparative</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -144,6 +144,16 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem ID="342" UUID="EC2F89E0-51CB-4E00-A5E7-74859542A83D" Type="Text" Created="2017-11-19 00:59:18 -0500" Modified="2017-11-19 01:01:24 -0500">
+                            <Title>reparative reading</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>522,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -3022,6 +3032,16 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="339" UUID="C7B3A18E-48A5-472A-820D-233189655E48" Type="Text" Created="2017-11-12 19:48:51 -0500" Modified="2017-11-12 19:49:04 -0500">
+                    <Title>Sedgwick: I want to be reparative</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -3063,7 +3083,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="194" Characters="1024" Date="2017-11-13 14:53:30 -0500"></PreviousSession>
+        <PreviousSession Words="91" Characters="522" Date="2017-11-19 00:59:11 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

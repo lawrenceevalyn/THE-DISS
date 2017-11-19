@@ -26,6 +26,18 @@ Then color-code ideas
 
 # Research Log
 
+## November 17, 2017
+
+Meeting with Dr Lopez:
+- some ideas about using it as a pedagogical tool, especially if we can visually encode unreliability of source texts, have it give more useful "feedback", put charts next to each other at same scale, include substantial editorial apparatus
+- but honestly, I don't want to get into the world of pedagogical shakespeare tools. I think our time would be better spent moving on to 18thC texts
+- does mom want to try to collaborate with the personas tool people??
+- I think we could publish some basic genre things in a CS or *maybe* DH journal, but not a literary one. So, I don't want to spend TOO long on that, and instead go forward with 18thC tragedies
+
+## November 15, 2017
+
+question for mom: are you at all interested in a database unification project..? I’m trying to figure out how to combine multiple archives and it occurs to me that something ProFusion-y might be interesting... the main difficulty comes from the fact that many interesting databases are ‘closed’ and require institutional access; but would it be possible to have someone log in via their institution and search one database that correlates 
+
 ## November 14, 2017
 
 Reviewing notes from meeting with Tom & Terry to make a report to Alex; some ideas that seem particularly fruitful right now:
