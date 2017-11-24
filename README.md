@@ -9,7 +9,6 @@
 
 # Current Priorities
 * Read 18thC texts voraciously, to inform my gut intuition of the period
-* Use ESTC data to model the decade 1789-99
 * Figure out what question the field of literary study is trying to answer, exactly
     * Figure out what question I, personally, want most urgently to know the answer to
 * Just throw all my research ideas into this one repo, and figure out later how it connects

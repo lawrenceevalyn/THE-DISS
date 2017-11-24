@@ -37,7 +37,63 @@ Clearly state the differences between work already completed for your thesis, wh
 
 
 
+# Report on 6-7 themes #
+
+
+
+
+
+
+
+-- highlight for me the things you think are going to be 'position paper' with asterisks or something
+
+
+
+-- that will force you to choose. if such did not come up in the meeting -then write them up anyway
+
+
+
+-- I cant look at the paper, but I am allowed to know the directions...
+
+
+
 # Position Paper (3000 wds) #
+
+
+
+## guidelines ##
+
+
+
+
+
+
+
+--- remember this process is unsatisfying inherently. choose like 3/100 ideas, and explain them well in your position paper; the rest will emerge at the oral
+
+
+
+--- I really mean - 3/100. The worst that can happen for someone like you is you get lost in the trees, can't see the wood, etc. Simplify it down
+
+
+
+--- more like a manifesto than a thesis proposal
+
+
+
+--- it should be an exploration of ideas though, not a 'here is a list of the ideas I will explore and in this structure'
+
+
+
+--- it's something like - I read all this, i learned all this, i care about THIS THIS AND THIS (just 3 things, out of 100!) - here is how I want to move forward
+
+
+
+— your question is -what do i think my investment in this field is. what do I want to spend 2-3 years writing about
+
+
+
+## pick exactly three big ideas ##
 
 
 
@@ -66,6 +122,18 @@ My initial thesis proposal proposed approaching my decade of interest by examini
 
 
 I still anticipate building and comparing multiple ‘models’ of literary activity in the decade, but no longer conceive of this as a division shaped by my textual sources. Instead, I anticipate considering publisher-centric, reader-centric, and author-centric models, each examined at multiple scales of detail.
+
+
+
+### Felski: I want to avoid critique ###
+
+
+
+
+
+
+
+One line of thinking which attempts to sidestep critique is to consider the throughlines of Gothic fiction as providing nourishment for suffering [suffer like a heroine, performative vulnerability, 
 
 
 
@@ -146,6 +214,30 @@ or is timeliness not a chapter, but in fact the overarching theme of the whole d
 
 
 One potential chapter, for example, might examine Hannah More and William Wordsworth’s varying use of supernatural content and ballad forms as literary tools to “elevate” their readers. This inquiry would consider the authors’ individual literary techniques, perhaps by comparing Wordsworth’s 1798 “The Thorn” and More’s 1796 “Robert and Richard; Or, The Ghost of Poor Molly, Who Was Drowned In Richard’s Mill Pond.” It would also consider the publishing context of ballads and songs generally, perhaps by using topic-modelling of the titles in the English Short Title Catalogue to identify the “songs” for sale and exploring the use of ballads as drivers of sales. And it would consider the multiple contexts in which readers encountered ballads, not just in broadsheets and collections, but also as ephemeral social experiences, and as references or extracts in longer prose works.
+
+
+
+## reparative reading ##
+
+
+
+
+
+
+
+I want to both do reparative reading and examine how 18thC audiences might have read reparatively.
+
+
+
+I look at literatture as something that is always ephemeral and timely, always in a moment that has the power to be momentous — a play and a song and a novel all have their own ways of occupying the lives of their audiences
+
+
+
+Uses and practices around / with texts
+
+
+
+Texts as trying to encourage particular uses, reaching out to particular readers —but not able to control those uses (seriousness always on the verge of parody)
 
 
 
@@ -1318,6 +1410,34 @@ And boasts its splendour too.
 
 
 
+
+
+
+### Ann Radcliffe ###
+
+
+
+#### poem in Udolpho ####
+
+
+
+
+
+
+
+There’s a glow-worm poem in Udolpho!!
+
+
+
+#### "On the Supernatural in Poetry" ####
+
+
+
+
+
+
+
+“Oh, I should never be weary of dwelling on the perfection of Shakspeare, in his management of every scene connected with that most solemn and mysterious being, which takes such entire possession of the imagination, that we hardly seem conscious we are beings of this world while we contemplate ‘the extravagant and erring spirit.' The spectre departs, accompanied by natural circumstances as touching as those with which he had approached. It is by the strange light of the glow-worm, which ‘'gins to pale his ineffectual fire ;' it is at the first scent of the morning air–the living breath, that the apparition retires. There is, however, no little vexation in seeing the ghost of Hamlet played. The finest imagination is requisite to give the due colouring to such a character on the stage; and yet almost any actor is thought capable of performing it. In the scene where Horatio breaks his secret to Hamlet, Shakspeare, still true to the touch of circumstances, makes the time evening, and marks it by the very words of Hamlet, ‘Good even, sir,' which Hanmer and Warburton changed, without any reason, to ‘good morning,' thus making Horatio relate his most interesting and solemn story by the clear light of the cheerfullest part of the day; when busy sounds are stirring, and the sun itself seems to contradict every doubtful tale, and lessen every feeling of terror. The discord of this must immediately be understood by those who have bowed the willing soul to the poet.””
 
 
 
@@ -3242,6 +3362,34 @@ Years in titles reflect foreshortening of historic scope?
 
 
 The incestuous Romantic poets writing to each other all the time is a translation of the Della Cruscans; Mary Robinson participates in both conversations
+
+
+
+## critics are right: Gothics make you anxious ##
+
+
+
+
+
+
+
+The reading experience of “living with” Udolpho is so different from “living with” Tristram or Waverley; the naysayers aren’t wrong about the emotional impact of the narrative, and really the think Waverley does with the Gothic isn’t making it respectable but defanging it. (Or perhaps, defanging it is what makes it respectable? Intellectual distance now instead of emotional and personal impact?)
+
+
+
+
+
+
+
+## Frankenstein refs Wakefield ##
+
+
+
+
+
+
+
+Frankenstein quotes Vicar of Wakefield as if it will be familiar (Clerval — “I eat mutton without Greek) — book has a very long afterlife!
 
 
 
