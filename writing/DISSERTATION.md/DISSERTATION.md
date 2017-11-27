@@ -229,7 +229,7 @@ I want to both do reparative reading and examine how 18thC audiences might have 
 
 
 
-I look at literatture as something that is always ephemeral and timely, always in a moment that has the power to be momentous — a play and a song and a novel all have their own ways of occupying the lives of their audiences
+I look at literature as something that is always ephemeral and timely, always in a moment that has the potential to be momentous — a play and a song and a novel all have their own ways of occupying the lives of their audiences.
 
 
 
@@ -1693,7 +1693,7 @@ Morano and the fishing-house stalker seem like basically fine boyfriends — why
 
 
 
-Broadview p XLV: “To possess a good deal of money as a result not of belonging to the ‘landed gentry’ but rather of having amassed it through commercial activity was considered more than faintly disreputable.” — That commercial activity was probably partly unsavory or exploitative, and without a local community to whom one has obligations, greed has full reign
+Broadview p XLV: “To possess a good deal of money as a result not of belonging to the ‘landed gentry’ but rather of having amassed it through commercial activity was considered more than faintly disreputable.” — That commercial activity was probably partly unsavory or exploitative; without a local community to whom one has obligations, greed has full reign
 
 
 
@@ -1786,6 +1786,38 @@ Can I detect the influence of a change in France’s copyright in 1793? Is it as
 
 
 
+
+
+
+## Byron and Southey are interesting! ##
+
+
+
+
+
+
+
+Southey is even interesting in the 1790s! Writes a LOT, in a lot of forms, with shifting political allegiances
+
+
+
+## pirate press publishes against author's reputation ##
+
+
+
+
+
+
+
+Queen Mab kept in print in pirated editions by radical press, to his embarassment (Norton p 749)
+
+
+
+Southey’s radical early writing revived in 1820s to his embarassment by pirate press (Norton, in the bit on Byron’s parody of Southey)
+
+
+
+The pirate press prints what sells regardless of whether it’s HOW the authors now want to sell themselves
 
 
 
@@ -3393,6 +3425,18 @@ Frankenstein quotes Vicar of Wakefield as if it will be familiar (Clerval — �
 
 
 
+## Shakespeare obnoxiously exceptional ##
+
+
+
+
+
+
+
+Shelley in preface has to parenthetically except Shakespeare from discussion of England not having produced great works — an obligatory stock rhetorical position, to namedrop shakespeare, rather than a personal engagement with his works (Norton 796)
+
+
+
 # Resources #
 
 
@@ -3418,6 +3462,18 @@ Frankenstein quotes Vicar of Wakefield as if it will be familiar (Clerval — �
 
 
 # Experimental methods #
+
+
+
+## TEI play parser ##
+
+
+
+
+
+
+
+The parser uses stage directions to break the play into ‘blocks’. Each block represents a section of the play during which a set of characters are on stage together. Whenever the parser encounters a stage direction, it parses that direction to determine whether it includes a character entrance or exit and thus demarcates a new block. Within each block, the parser uses speaker tags and parsed stage directions to determine who is on stage for that block, and keeps a running tally of how many words each character has spoken. At the end of the block, the connections within that block are recorded and the next block begun.
 
 
 
