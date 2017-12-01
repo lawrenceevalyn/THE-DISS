@@ -25,6 +25,12 @@ Then color-code ideas
 
 # Research Log
 
+## November 27, 2017
+
+Hypotheses to test in shakespeare project:
+- Stiller et al day that plays have an upper limit in size because of an inherent limit in human social groupings; plays become incoherent if they present more people/groups than humans are accustomed to tracking the detailed relationships of. But what if this is a metric distinguishing tragedies and comedies, and tragedies present fracturing social worlds where comedies present clear and connected/clustered worlds?
+- in-degree/out-degree disparity as a marker for social rank?
+
 ## November 17, 2017
 
 Meeting with Dr Lopez:
@@ -110,7 +116,7 @@ I think these are the general areas in which I hope to write. what sort of quest
 2. publication history (timeliness) <- narrators, France
 3. “information / truth management” <- supernatural (empiricist epistemology)
 4. benevolence, sentiment
-5. istoric memory / futurity? <- discontinuity (apocalypse)
+5. historic memory / futurity? <- discontinuity (apocalypse)
 6. commerce & credit
 
 position in relation to scholarship w/o losing text <-- position paper

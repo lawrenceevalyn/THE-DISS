@@ -1,7 +1,7 @@
 Title: DISSERTATION
 Author: Lawrence Evalyn
 
-# OGS Plan of Study (500 wds) #
+# OGS Plan of Study (3,950 chars) #
 
 
 
@@ -9,35 +9,23 @@ Author: Lawrence Evalyn
 
 
 
-Indicate what stage you are at in your thesis.
+Digital Humanities research in literary studies is entering a new stage, less starstruck by the sheer quantity of material available and more attentive to the bibliographic detail that constitute its quality. Katherine Bode’s forthcoming article exemplifies this shift, critiquing the “distant reading” pioneers Franco Moretti and Matthew Jockers for too often disregarding the provenance of the thousands of texts they select for study. When distant reading treats its mass corpora as stable and objective, Bode argues, it is no different than New Criticism’s technique of close reading, which attempts to dismiss historical context as irrelevant. As an alternative, Bode calls for scholarly editions of literary systems, rather than individual texts, in order to produce a “data-rich literary history” that integrates computational research with the textual scholarship of fields like bibliography and book history. My dissertation answers this call by systematically researching all texts printed in England between the years 1789 to 1799.
 
 
 
-I have passed my Special Fields exams, and am now “all but dissertation,” at the very earliest stages of the writing process.
+I have narrowed my focus to an eleven-year “decade,” defined by the French Revolution, in order to make my voracious scope feasible. Late eighteenth-century literary production, as the writers of the period themselves anxiously observed, was characterized by incredible volume. In the 1730s, the English Short Title Catalogue (ESTC) records roughly sixteen thousand works published in England: this number triples, to forty-eight thousand works, in the 1790s. I hypothesize that the works published in the 1790s — whether newly written or reprinted to meet new demand — were characterized by an unusual attention to timeliness, with frequently-revised editions responding to rapidly shifting political events and literary tastes. Somewhat contentiously, I follow Michael Gamer in applying this market-based framework even to the Romantic poets William Wordsworth and Samuel Taylor Coleridge, whose era-defining Lyrical Ballads was published in 1798.
 
 
 
+To account for the true variety and complex interconnectedness of the literary mediascape during this period, I will borrow methodologies from distant reading, corpus stylistics, bibliographic research, and traditional literary interpretation. I will work with four main collections of texts, or corpora, of different sizes and from different sources, which allow me to view my decade from multiple perspectives. I have already acquired digitcal bibliographic records for 51,965 works from 1789-99 listed in the English Short Title Catalogue (ESTC), my largest and most “distant” corpus. I am in the process of acquiring 4,381 full-length texts from HathiTrust; these texts can be unreliable, but include many works not available elsewehere, including works not listed in the ESTC. I have already acquired 502 full-length texts from the Eighteenth Century Online Text Creation Partnership (ECCO-TCP), which have been carefully marked up in XML according to the Text Encoding Initiative (TEI) standards, thus enabling more detailed computational exploration of its subject matter. Finally, I have identified four authors whose ‘case studies’ will contextualize my larger-scale findings. These key authors are Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson, all of whom wrote prolifically, successfully, and influentially during the 1790s, but who are not generally accorded a prominent place in the modern literary canon. Throughout the project, I will expand my focus beyond the novels and poems which generally occupy literary attention, to consider pamphlets, songs, theatrical productions, and other ephemeral printed works, to encompass the period’s full breadth.
 
 
 
-
-Provide an outline of your thesis proposal, including, for example, background, hypothesis, context, objectives, methodology, and contribution to the advancement of knowledge.
-
+The Ontario Graduate Scholarship would fund the fourth year of my five-year PhD program, during which I hope to complete a rough first draft of my dissertation. I have already begun to explore my corpora individually; during this year, I will build a personal database to integrate them and seek correlations. [Do I need to explicitly state what I will do in the fifth year? Words are precious.] My inquiry will discover fresh insights into how English writers used literature to cope with what appeared to be near-apocalyptic political upheaval during the French Revolution, and recontextualize the Romantic poets whose reputations have outstripped those of their more popular peers. My novel methodology reconciling disparate corpora will also provide a valuable precedent for Digital Humanities literary scholars in other fields who wish to pursue data-rich literary history.
 
 
 
-
-
-
-
-
-
-
-Clearly state the differences between work already completed for your thesis, what you hope to accomplish during the award tenure, and what will remain to be done before you obtain your degree.
-
-
-
-# Report on 6-7 themes #
+## OGS guideline ##
 
 
 
@@ -45,15 +33,211 @@ Clearly state the differences between work already completed for your thesis, wh
 
 
 
--- highlight for me the things you think are going to be 'position paper' with asterisks or something
+	•	Main ingredients in plan of study (OGS) or program of work (SSHRC) should include (besides those indicated in the instructions):
 
 
 
--- that will force you to choose. if such did not come up in the meeting -then write them up anyway
+	◦	Statement of a theoretical problem rooted in the sociological literature. Be clear about the theoretical paradigm you are using, but be relatively brief to leave space for a concrete description of your research project.
 
 
 
--- I cant look at the paper, but I am allowed to know the directions...
+	▪	General examples of theoretical problems: a logical contradiction that has not been resolved between two theoretical propositions; an implication of social theory that has not been tested empirically or that can be tested in a new way; a theoretical issue that is outstanding; a social phenomenon that raises theoretical issues.
+
+
+
+	◦	Statement of a researchable substantive topic, problem, or question formulated at a more concrete level than the theoretical problem, but should in some sense be derived from it.
+
+
+
+	◦	Critical review of a relevant literature and the way in which the theoretical problem and substantive research topic emerge out of, and address, a gap in the literature. Pay attention to alternative theoretical paradigms and orientations in the literature. Make sure you know the substantive empirical literature in the subject area of your thesis or dissertation. Be relatively brief.
+
+
+
+	◦	Selection and justification of sources of empirical data. This is necessary whether you use historical documents, qualitative field or interview data, survey data., or some other data source.
+
+
+
+	◦	Statement of the methodology. What is the logic of your research design? Does your choice of data collection and analysis fit logically and sociologically with your statements of the theoretical problem and substantive topic?
+
+
+
+	◦	Statement of the research techniques to be used, such as questionnaires and interview schedules in the data collection, and statistical or qualitative techniques in the data analysis.
+
+
+
+	◦	Schedule for data collection, analysis, and write-up. Show that this is reasonable within the time allotted to complete the degree.
+
+
+
+	◦	Likely interpretation of the data you expect to find.
+
+
+
+	◦	Contribution of your thesis to the advancement of knowledge. How it helps to tell us something we did not know before, or helps to fill a gap in the literature. Will it change the way people in the field look at a question? This should relate back to your statement of the theoretical problem.
+
+
+
+	◦	All of this in a page (OGS) or two pages + references (SSHRC)!
+
+
+
+	◦	Conform to the font and page-format requirements. For both SSHRC and OGS: single-spaced (no more than 6 lines per inch), no smaller than 12-point font (Times New Roman font for SSHRC), and no smaller than 3/4-inch margins! See the SSHRC and OGS web sites for further information about attachments to your application.
+
+
+
+
+
+
+
+# Works Cited #
+
+
+
+
+
+
+
+*Eighteenth Century Collections Online Text Creation Partnership*. Gale Cengage. Web.
+
+
+
+*English Short Title Catalogue*. The British Library. Web.
+
+
+
+HathiTrust
+
+
+
+
+
+
+
+Bode, Katherine. “The Equivalence of ‘Close’ and ‘Distant’ Reading; Or, Towards a New Object for Data-Rich Literary History.” Modern Language Quarterly 78.1 (December 2017): 77-106. Web.
+
+
+
+Drucker, Johanna
+
+
+
+Felski, Rita. *The Limits of Critique*. Chicago: U Chicago, 2015. Print.
+
+
+
+Fischer-Starcke, Bettina
+
+
+
+Gamer, Michael. *Romanticism and the Gothic: Genre, Reception, and Canon Formation*. Cambridge: Cambridge UP, 2000. Print. 
+
+
+
+Garside
+
+
+
+Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” *LIBER Quarterly* 25.2 (2015): 87–31. Web.
+
+
+
+Marcus, Sharon, Heather Love, and Stephen Best. “Building a Better Description.” *Representations* 135.1 (Summer 2016): 2-21. Web.
+
+
+
+McCarty, Willard
+
+
+
+Moretti, Franco. *Distant Reading*. London: Verso, 2013. Print. 
+
+
+
+Samuels, Lisa and Jerome McGann. “Deformance and Interpretation.” *New Literary History* 30.1 (Winter 1999): 25-56. JSTOR. Web. 24 Feb. 2014. 
+
+
+
+Sedgewick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You.” *Touching Feeling*. Durham, NC: Duke UP, 2003. Print.
+
+
+
+St. Clair, William
+
+
+
+Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly* 69.3 (2006): 425–450. Web.
+
+
+
+
+
+
+
+# notes #
+
+
+
+
+
+
+
+“the gaps between “the published” (all literary works in history), “the archive” (the portion of what was published that has been preserved and is now increasingly digitized), and “the corpus” (the segment of the archive selected for a particular research question)” (Bode )
+
+
+
+
+
+
+
+In this context of what Michael Gamer describes as “exploding literacy rates accompanied by an increasingly bewildering and diverse collection of reading audiences” (32), it became ever harder to make sense of the literary world as a cohesive whole
+
+
+
+
+
+
+
+Hypothesis: If I can marry computational methods with scholarly/bibliographical/something attention to detail, I can “account for” the full variety AND scale of what was produced, and thus properly detect intergeneric / hybrid works / writers. [I think that, as the literary mediascape fractured and specialized, authors wrote “to” specific audiences.] [I also, more importantly, think that the pressures of rabid change during the apocalyptic french revolution introduced timeliness as an important quality of a literary work — even non political and non pamphlet publications needed to be responsive]
+
+
+
+
+
+
+
+	•	Although I have described these three ways of modeling the decade 1789-99 in sequence, I will research them in parallel, with an eye to the connections between them. I will look at how each of the three models represents the position of my case study authors among their peers. To interpret those findings, I will consider the construction of each model, to determine what each occludes and what it renders visible. My many 
+
+
+
+	•	disparate approaches will converge on my central question: what texts can be said to be “representative” of this decade? And what do they “represent”?
+
+
+
+
+
+
+
+Contribution to the advancement of knowledge: [cool new information about the literature of revolution and social upheaval; cool new information about some interesting writers; a methodology that can be scaled up chronologically to apply similar detail-oriented  ]
+
+
+
+
+
+
+
+Clearly distinguish timing of work
+
+
+
+I am about to complete my Special Fields exams, and at the very earliest stages of the writing process.
+
+
+
+
+
+
+
+The OGS, if awarded, would fund the fourth year of my five-year PhD program. During that year, I hope to [What you hope to accomplish during the award tenure]. After my fourth year, [What will remain to be done before you obtain your degree].
 
 
 
@@ -969,6 +1153,30 @@ Among the flowers and grass which screen it from the view:
 
 
 
+#### Shelley's Prometheus Unbound ####
+
+
+
+
+
+
+
+“Look again,—the flames almost
+
+
+
+    To a glow-worm’s lamp have dwindled:
+
+
+
+The survivors round the embers
+
+
+
+    Gather in dread.” (Norton 812)
+
+
+
 ### Charlotte Smith's the Glow Worm ###
 
 
@@ -1818,6 +2026,18 @@ Southey’s radical early writing revived in 1820s to his embarassment by pirate
 
 
 The pirate press prints what sells regardless of whether it’s HOW the authors now want to sell themselves
+
+
+
+## add copyright laws & libraries to timeline ##
+
+
+
+
+
+
+
+From William St Clair
 
 
 
@@ -2717,6 +2937,18 @@ JUST LIKE what Hannah More does when she publishes hymns / the entire song marke
 
 
 
+#### Captive's aferlife as Victorian ballad ####
+
+
+
+
+
+
+
+http://siderealpressblog.blogspot.ca/2012/05/maniac-captive-and-monk-my-good-friend.html
+
+
+
 ### Wordsworth & More ###
 
 
@@ -3434,6 +3666,18 @@ Frankenstein quotes Vicar of Wakefield as if it will be familiar (Clerval — �
 
 
 Shelley in preface has to parenthetically except Shakespeare from discussion of England not having produced great works — an obligatory stock rhetorical position, to namedrop shakespeare, rather than a personal engagement with his works (Norton 796)
+
+
+
+## prior attachment the only reason for rejection ##
+
+
+
+
+
+
+
+This is REALLY firmly believed, not just by characters but implicit in narrative structures — why? Why is a prior attachment given such weight? Why can’t someone be rejected for themself??
 
 
 
