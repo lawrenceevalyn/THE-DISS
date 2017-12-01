@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-12-01 04:07:38 -0500" ModID="DDE0EE08-3F66-4791-B060-CB55D9859B7F">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-12-01 04:11:55 -0500" ModID="018CDB35-0BE2-4695-B8B5-B8F85ADD1238">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -8,48 +8,6 @@
                 <IconFileName>Blackboard.tiff</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem ID="231" UUID="27F1E55C-97D8-4FD2-A96B-3E6B360D78E0" Type="Text" Created="2017-10-16 13:09:58 -0400" Modified="2017-11-30 08:55:36 -0500">
-                    <Title>OGS Plan of Study (3,950 chars)</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2614,5</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="354" UUID="3A783925-A363-4EC0-9D28-81878E44CA41" Type="Text" Created="2017-11-27 05:52:23 -0500" Modified="2017-11-27 05:52:35 -0500">
-                            <Title>OGS guideline</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>668,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="359" UUID="91F768BB-0C04-4BAB-ABF9-F231C937E380" Type="Text" Created="2017-11-30 08:31:06 -0500" Modified="2017-11-30 08:52:56 -0500">
-                    <Title>Works Cited</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,1453</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="358" UUID="318116C2-62AC-4579-A6A0-36B7D1FDE2E1" Type="Text" Created="2017-11-30 05:49:06 -0500" Modified="2017-11-30 07:13:38 -0500">
-                    <Title>notes</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>274,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="300" UUID="171EC036-1A43-4AC2-889D-E9AEC9950B04" Type="Text" Created="2017-11-03 23:59:36 -0400" Modified="2017-11-11 18:04:27 -0500">
                     <Title>Position Paper (3000 wds)</Title>
                     <MetaData>
@@ -1386,6 +1344,16 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>21,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="358" UUID="318116C2-62AC-4579-A6A0-36B7D1FDE2E1" Type="Text" Created="2017-11-30 05:49:06 -0500" Modified="2017-12-01 04:10:03 -0500">
+                            <Title>gaps: published, archive, corpus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>329,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2799,8 +2767,8 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <TextSelection>361,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-01-29 19:12:54 -0500">
-                            <Title>Proposal</Title>
+                        <BinderItem ID="53" UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-12-01 04:11:18 -0500">
+                            <Title>Thesis Proposal</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -2899,6 +2867,28 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>246,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="231" UUID="27F1E55C-97D8-4FD2-A96B-3E6B360D78E0" Type="Text" Created="2017-10-16 13:09:58 -0400" Modified="2017-12-01 04:10:38 -0500">
+                            <Title>OGS Plan of Study</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4001,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="359" UUID="91F768BB-0C04-4BAB-ABF9-F231C937E380" Type="Text" Created="2017-11-30 08:31:06 -0500" Modified="2017-12-01 04:10:50 -0500">
+                                    <Title>References</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1919,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3206,6 +3196,16 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                     </MetaData>
                     <TextSettings>
                         <TextSelection>273,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="354" UUID="3A783925-A363-4EC0-9D28-81878E44CA41" Type="Text" Created="2017-11-27 05:52:23 -0500" Modified="2017-11-27 05:52:35 -0500">
+                    <Title>OGS guideline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>668,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>

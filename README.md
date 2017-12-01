@@ -25,6 +25,10 @@ Then color-code ideas
 
 # Research Log
 
+## November 30, 2017
+
+Finished OGS application -- time for special fields!!!!
+
 ## November 27, 2017
 
 Hypotheses to test in shakespeare project:
