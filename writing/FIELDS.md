@@ -7,9 +7,7 @@ Can a serious case be made for the literature of sensibility on aesthetic and/or
 
 ## intro ##
 
-The literature of sensibility, which foregrounds feeling, [They’re all trying to work out a value system that can serve as a viable alternative to money and rationalism, placing family ties and feeling at the centre. And then bouncing off the limits of that value system.] 
-For a work to successfully provide the pleasurable aesthetic experience of “virtue in distress,” it must articulate compelling ethical definitions of both “distress” and “virtue.” To be compelling, these definitions must both resonate with the audience’s expectations of the world, and chart some feasible path through their conflicts. The premise of sensibility is a valuation of feeling, but, as the literature of sensibility expresses, intense feeling easily amplifies distress and, when it conflicts with duty, impedes virtue. The literature of sensibility — which I take to encompass sentimental literature through its evolution into the gothic — is thus engaged in a constant negotiation regarding the failure points of its own convictions. A detailed examination of individual works’ navigation of these tensions, and of the mental pleasures they offer to readers, may not constitute a “serious” case, but, following Eve Sedgwick and Rita Felski, it attempts a feeling case.
-[Make sure to mention my key texts & why]
+The literature of sensibility — which I take to encompass sentimental literature through its evolution into the gothic — presents a value system based in feeling, but engaged in a constant negotiation regarding the failure points of its own convictions. For a work to successfully provide the pleasurable aesthetic experience of “virtue in distress,” it must articulate compelling ethical definitions of both “distress” and “virtue.” A detailed examination of individual works’ navigation of these concepts, and of the mental pleasures they offer to readers, may not constitute a “serious” case, but, following Eve Sedgwick and Rita Felski, it attempts a feeling case. Accordingly, I examine The Vicar of Wakefield, A Simple Story, and The Captive, attentive to the terms by which each recommends an embrace of misery.
 
 ### they're trying to work out a value system ###
 
@@ -70,8 +68,7 @@ The moment responsible for the majority of the fainting during the performance a
 
 ## conclusion ##
 
-Submission may not appeal to contemporary readers as a virtuous response to distress. On its own, it smacks of too little justice; and if a deus ex machina supplies the justice, this feels unsatisfyingly unrealistic. To say that the literature of sensibility constitutes a sustained engagement with the aesthetics and ethics of submission to authority may not, therefore, constitute a serious case “for” these texts. But in their central acknowledgement of feeling, they supply a crucial lack in enlightenment discourses on virtue. And in their provision of narrative vindication, they can provide supreme pleasure to the readers who accept their premise.
-[Add stuff about money and alternative value systems]
+In its misfire, The Captive reveals the necessity, in the literature of sensibility, for distress to be contained within the comforting frameworks that Wakefield and A Simple Story employ, so that it may be palatably embraced by its audience. Submission may not appeal to contemporary readers as a virtuous response to distress. On its own, it smacks of too little justice; and if a deus ex machina supplies the justice, this feels unsatisfyingly unrealistic. To say that the literature of sensibility constitutes a sustained engagement with the aesthetics and ethics of an embrace of passive misery may not, therefore, constitute a serious case “for” these texts. But in their central acknowledgement of feeling, they supply a crucial lack in enlightenment discourses on virtue. And in their provision of narrative vindication, they can provide supreme pleasure to the readers who accept their premise.
 
 ----
 
