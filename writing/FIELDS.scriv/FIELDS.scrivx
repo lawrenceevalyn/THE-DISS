@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-12-04 15:48:43 -0500" ModID="A2EBAA16-3BD6-4646-B3C8-35D6A89FC170">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-12-04 17:18:02 -0500" ModID="A4CAD922-0646-4D08-BA88-23ECBB07488E">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-12-01 04:13:48 -0500" Modified="2017-12-01 04:13:48 -0500">
             <Title>Draft</Title>
@@ -206,10 +206,11 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="283" UUID="8497299A-7583-444B-8C1F-325FA8E60497" Type="Folder" Created="2017-12-04 01:52:48 -0500" Modified="2017-12-04 01:54:23 -0500">
+                <BinderItem ID="283" UUID="8497299A-7583-444B-8C1F-325FA8E60497" Type="Folder" Created="2017-12-04 01:52:48 -0500" Modified="2017-12-04 17:17:45 -0500">
                     <Title>Paper B: 5. what is lost in distant reading</Title>
                     <GroupMode>Scrivenings</GroupMode>
                     <MetaData>
+                        <LabelID>3</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                         <IconFileName>Front Matter.tiff</IconFileName>
@@ -218,21 +219,21 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="275" UUID="097E8DE5-17F1-4017-9D7C-C6FCC505FF5E" Type="Text" Created="2017-12-04 01:27:57 -0500" Modified="2017-12-04 09:35:35 -0500">
+                        <BinderItem ID="275" UUID="097E8DE5-17F1-4017-9D7C-C6FCC505FF5E" Type="Text" Created="2017-12-04 01:27:57 -0500" Modified="2017-12-04 16:51:41 -0500">
                             <Title>intro: lose monoliths</Title>
                             <MetaData>
-                                <LabelID>2</LabelID>
+                                <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>601,62</TextSelection>
+                                <TextSelection>2548,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="245" UUID="5A5207EE-0E0E-4E40-8D2A-2243C4BFD25E" Type="Text" Created="2017-12-03 09:01:47 -0500" Modified="2017-12-04 10:28:51 -0500">
+                        <BinderItem ID="245" UUID="5A5207EE-0E0E-4E40-8D2A-2243C4BFD25E" Type="Text" Created="2017-12-03 09:01:47 -0500" Modified="2017-12-04 15:59:38 -0500">
                             <Title>anthologies</Title>
                             <MetaData>
-                                <LabelID>2</LabelID>
+                                <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -262,7 +263,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="247" UUID="296D6B4D-9928-44D0-ACC8-BA56553DB11C" Type="Text" Created="2017-12-03 09:01:49 -0500" Modified="2017-12-04 15:48:28 -0500">
+                                <BinderItem ID="247" UUID="296D6B4D-9928-44D0-ACC8-BA56553DB11C" Type="Text" Created="2017-12-03 09:01:49 -0500" Modified="2017-12-04 16:47:02 -0500">
                                     <Title>tokenism - CSmith rocks</Title>
                                     <MetaData>
                                         <LabelID>3</LabelID>
@@ -270,7 +271,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1182,0</TextSelection>
+                                        <TextSelection>660,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -286,7 +287,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="248" UUID="2ED6106C-B114-4704-94F5-9110AB92EEA7" Type="Text" Created="2017-12-03 09:01:49 -0500" Modified="2017-12-04 15:15:49 -0500">
+                                <BinderItem ID="248" UUID="2ED6106C-B114-4704-94F5-9110AB92EEA7" Type="Text" Created="2017-12-03 09:01:49 -0500" Modified="2017-12-04 15:59:21 -0500">
                                     <Title>The Thorn</Title>
                                     <MetaData>
                                         <LabelID>3</LabelID>
@@ -294,7 +295,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1032,0</TextSelection>
+                                        <TextSelection>28,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="249" UUID="BCC7F286-EF99-480F-ADB6-16230E9C1829" Type="Text" Created="2017-12-03 09:01:50 -0500" Modified="2017-12-04 15:15:13 -0500">
@@ -356,10 +357,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="288" UUID="5035857D-93F9-4EF3-A684-85827973A51F" Type="Text" Created="2017-12-04 02:26:05 -0500" Modified="2017-12-04 10:44:04 -0500">
+                        <BinderItem ID="288" UUID="5035857D-93F9-4EF3-A684-85827973A51F" Type="Text" Created="2017-12-04 02:26:05 -0500" Modified="2017-12-04 17:17:42 -0500">
                             <Title>reform anthologies</Title>
                             <MetaData>
-                                <LabelID>2</LabelID>
+                                <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -367,26 +368,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="253" UUID="7D926150-065C-4C6C-BD94-BC065C51867F" Type="Text" Created="2017-12-03 09:03:45 -0500" Modified="2017-12-04 10:44:04 -0500">
+                                <BinderItem ID="253" UUID="7D926150-065C-4C6C-BD94-BC065C51867F" Type="Text" Created="2017-12-03 09:03:45 -0500" Modified="2017-12-04 17:06:34 -0500">
                                     <Title>edit the anthoogies</Title>
                                     <MetaData>
-                                        <LabelID>2</LabelID>
+                                        <LabelID>3</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>463,0</TextSelection>
+                                        <TextSelection>1210,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="276" UUID="748A9405-55B6-4488-86F0-7DCA9BFEDA94" Type="Text" Created="2017-12-04 01:30:46 -0500" Modified="2017-12-04 10:44:04 -0500">
+                                <BinderItem ID="276" UUID="748A9405-55B6-4488-86F0-7DCA9BFEDA94" Type="Text" Created="2017-12-04 01:30:46 -0500" Modified="2017-12-04 17:18:01 -0500">
                                     <Title>REALLY edit anthologies</Title>
                                     <MetaData>
-                                        <LabelID>2</LabelID>
+                                        <LabelID>3</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1225,0</TextSelection>
+                                        <TextSelection>1272,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3154,8 +3155,8 @@
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-04 02:21:51 -0500" IgnoreDeadline="No">6000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
-        <PreviousSession Words="1265" Characters="8099" Date="2017-12-04 00:41:15 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">125</SessionTarget>
+        <PreviousSession Words="1512" Characters="9721" Date="2017-12-04 00:41:15 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
