@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-12-07 10:18:16 -0500" ModID="CF002C92-4BA4-4B7F-AF89-93CBDF43D355">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-12-07 11:57:04 -0500" ModID="7B98AE7E-2673-464D-B7DD-753064332C9C">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -18,7 +18,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="368" UUID="15AA80CE-7BC9-497B-9E1B-7323A42D5CD6" Type="Folder" Created="2017-12-06 13:52:43 -0500" Modified="2017-12-06 13:52:49 -0500">
+                        <BinderItem ID="368" UUID="15AA80CE-7BC9-497B-9E1B-7323A42D5CD6" Type="Folder" Created="2017-12-06 13:52:43 -0500" Modified="2017-12-07 10:49:21 -0500">
                             <Title>MY POSITION</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -29,6 +29,16 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem ID="396" UUID="B5E0D710-844A-4FCB-AD05-2280440B5793" Type="Text" Created="2017-12-07 11:23:54 -0500" Modified="2017-12-07 11:56:26 -0500">
+                                    <Title>MY POSITION</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1969,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem ID="366" UUID="A22273DD-8CDC-43C0-918B-B0226C9B4F25" Type="Text" Created="2017-12-06 13:52:18 -0500" Modified="2017-12-07 07:26:38 -0500">
                                     <Title>intro</Title>
                                     <MetaData>
@@ -101,6 +111,16 @@
                                 <TextSelection>751,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="395" UUID="EF0BFA19-762A-4FCD-9EE2-B4C88D2E208C" Type="Text" Created="2017-12-07 10:49:11 -0500" Modified="2017-12-07 11:23:51 -0500">
+                            <Title>position attempt 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>926,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="343" UUID="8FFC6A8A-A682-4F31-A4F2-0D488D788A47" Type="Text" Created="2017-11-19 01:01:49 -0500" Modified="2017-11-19 01:02:57 -0500">
                             <Title>pick exactly three big ideas</Title>
                             <MetaData>
@@ -161,6 +181,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>50,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="397" UUID="8784E1E2-A6B0-42E2-A374-39A324234DCA" Type="Text" Created="2017-12-07 11:43:07 -0500" Modified="2017-12-07 11:43:22 -0500">
+                                    <Title>false empiricism only affects humanists</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>391,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="376" UUID="36B2EC80-8260-4549-90BC-D95ACB54E5CF" Type="Text" Created="2017-12-07 07:27:11 -0500" Modified="2017-12-07 07:31:04 -0500">
@@ -1700,7 +1730,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>0,183</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="358" UUID="318116C2-62AC-4579-A6A0-36B7D1FDE2E1" Type="Text" Created="2017-11-30 05:49:06 -0500" Modified="2017-12-01 04:10:03 -0500">
@@ -3617,7 +3647,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="1695" Characters="10502" Date="2017-12-07 06:14:47 -0500"></PreviousSession>
+        <PreviousSession Words="2707" Characters="16619" Date="2017-12-07 06:14:47 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
