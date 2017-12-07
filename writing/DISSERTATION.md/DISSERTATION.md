@@ -5,6 +5,50 @@ Author: Lawrence Evalyn
 
 
 
+----
+
+
+
+## MY POSITION ##
+
+
+
+### intro ###
+
+
+
+
+
+
+
+Here’s what I’ve noticed about what I’ve read so far: what do we do about feelings?? lots of cool connections; reading a bunch of texts leads me to a bunch of close-reading based research Qs.
+
+
+
+My thinking has led me to a methodology, a subject matter, and a philosophical/emotional stance.
+
+
+
+### response to readings ###
+
+
+
+### approach: reparative, bodily ###
+
+
+
+### subject: sentimental -> gothic ###
+
+
+
+### method: timeliness, bibliography ###
+
+
+
+### conclusion ###
+
+
+
 ## guidelines ##
 
 
@@ -41,7 +85,7 @@ Author: Lawrence Evalyn
 
 
 
-## more bibliographical than "DH" ##
+### more bibliographical than "DH" ###
 
 
 
@@ -53,7 +97,7 @@ My use of computational methods is skeptical of the reification of “Digital Hu
 
 
 
-### no longer considering scales as different models ###
+#### no longer considering scales as different models ####
 
 
 
@@ -69,7 +113,7 @@ I still anticipate building and comparing multiple ‘models’ of literary acti
 
 
 
-### Felski: I want to avoid critique ###
+#### Felski: I want to avoid critique ####
 
 
 
@@ -81,11 +125,11 @@ One line of thinking which attempts to sidestep critique is to consider the thro
 
 
 
-## still want to "account for" everything ##
+### still want to "account for" everything ###
 
 
 
-## authors ##
+### authors ###
 
 
 
@@ -101,7 +145,23 @@ I am unsure about how best to structure my use of ‘key authors’ to shape my 
 
 
 
-## possible chapters ##
+#### works I love ####
+
+
+
+
+
+
+
+Works I love: Vicar of Wakefield, A Simple Story, Percy?, Old Manor House, Shepherd of Salisbury Plain, some of Coleridge, so much of Keats, Radcliffe 4 eva, UNCLE TOBY, ode on the death of a favourite cat, 1811, Charlotte Smith, Cowper!!, 
+
+
+
+Mostly I don’t like… men? But Keats and Gray and Cowper and Sterne and Walpole and Lewis are all ok?
+
+
+
+### possible chapters ###
 
 
 
@@ -145,11 +205,11 @@ or is timeliness not a chapter, but in fact the overarching theme of the whole d
 
 
 
-### timeliness ###
+#### timeliness ####
 
 
 
-### More & Wordsworth & ballads ###
+#### More & Wordsworth & ballads ####
 
 
 
@@ -161,7 +221,7 @@ One potential chapter, for example, might examine Hannah More and William Wordsw
 
 
 
-## reparative reading ##
+### reparative reading ###
 
 
 
@@ -182,6 +242,166 @@ Uses and practices around / with texts
 
 
 Texts as trying to encourage particular uses, reaching out to particular readers —but not able to control those uses (seriousness always on the verge of parody)
+
+
+
+#### trying to take advice from the texts themselves ####
+
+
+
+
+
+
+
+The 18thC debate about the appropriate uses of feeling, its contradictions with rational philosophy but also its necessity, is — what I care about also
+
+
+
+### worried about contrariness ###
+
+
+
+
+
+
+
+Some level of my interest in Hannah More and disinterest in Wordsworth stems from a basic contrariness that I don’t think is the best motivation
+
+
+
+### I'm reading a lot of disreputable stuff ###
+
+
+
+
+
+
+
+My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro & Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.
+
+
+
+### More vs Wordsworth ###
+
+
+
+
+
+
+
+A central tension for me is the sense that Hannah More and William Wordsworth are both falling into similar traps of aestheticizing and moralizing their disdain for the very real distress for those in poverty, and that I nonetheless find Shepherd of Salisbury Plain more palatable than Michael. Michael in its beauties disguises its operaions; More is so transparent that it’s easy to simply set aside what is unpalatable and read for the other details.
+
+
+
+ 
+
+
+
+### interesting ###
+
+
+
+
+
+
+
+18thC usage of the word “interesting” doesn’t just mean “intriguing / inducing of curiosity” but “garnered invested interest in acting on behalf of”
+
+
+
+I want to expand what we find interesting
+
+
+
+### always on the brink of parody ###
+
+
+
+#### what is seriousness for, anyway ####
+
+
+
+### 1797 elegiac sonnets as a major poetic intervention ###
+
+
+
+
+
+
+
+With aesthetic and political timeliness to rival lyrical ballads
+
+
+
+
+
+
+
+Responding to a LOT of calls to move away from treating he moment of original publication as the sole moment of importance, and away from the thing moretti does where he assumes works that are important now must have been important for their whole histories
+
+
+
+### I identify a lot ###
+
+
+
+
+
+
+
+As someone who left my home country to ensure my personal comfort and safety in response to an unacceptable political status quo, albeit in the most financially comfortable way possible, I feel a watered-down kinship with the situation of the French emigrés. Actual refugees are of course the more direct comparison to draw, given the very direct nature of the violence being fled in France, except that like the emigrés and unlike a refugee I have been able to comfortably make a quiet living off the ‘accomplishments’ I naturally acquired during my wealthy upbringing.
+
+
+
+#### want comfort from lit ####
+
+
+
+
+
+
+
+I want literature that provides context and comfort and a way out, and I think 18thC readers often wanted these things too.
+
+
+
+### why isn't literature a power law? ###
+
+
+
+
+
+
+
+What kind of curve IS it?
+
+
+
+### QUOTES ###
+
+
+
+
+
+
+
+"The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
+
+
+
+"What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
+
+
+
+### I honestly use computers because I don't know how not to ###
+
+
+
+
+
+
+
+Computational approaches are, in some ways, an awkward fit with these aims. I simply don’t know any other way to ask or answer questions. I completely reject the aura of empiricist objectivity which quantitative and computational methods attempt to surround themselves with. I embrace the messiness and intimacy of modelling.
 
 
 
