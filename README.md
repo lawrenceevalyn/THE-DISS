@@ -8,11 +8,12 @@
     * "What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
 
 # Current Priorities
-* Read 18thC texts voraciously, to inform my gut intuition of the period
-* Figure out what question the field of literary study is trying to answer, exactly
+* Assemble a **short** document of guiding principles
+    * Figure out what question the field of literary study is trying to answer, exactly
     * Figure out what question I, personally, want most urgently to know the answer to
-* Just throw all my research ideas into this one repo, and figure out later how it connects
-* start setting up a relational database
+* Finish throwing my research ideas to date into the scrivener doc
+* Start setting up a relational database
+* Start drafting the first chapter
 
 # Writing workflow
 * Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc.
@@ -24,6 +25,12 @@
 Then color-code ideas
 
 # Research Log
+
+## December 7, 2018
+
+I keep wanting to get more ridiculously exhaustive, just to see if I *can*.
+
+Could I reconstruct a month? Track down, e.g., weather, exactly what was published each day, letters and diaries from as many people as possible — how much information can I get on the happenings of a single day?
 
 ## November 30, 2017
 
