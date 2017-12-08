@@ -21,11 +21,23 @@ Author: Lawrence Evalyn
 
 
 
-My two ideas are feeling, and timeliness. Feeling in my subject matter: literature of sensibility. Feeling in my approach: reparative reading. Timeliness in my subject matter: historical rupture. Timeliness in my approach: exhaustive particularity. In my conclusion I reflect on why these tools don’t come directly from the digital humanities.
+Reading Feeling, Writing Timeliness:
+
+
+
+Eighteenth-Century Strategies for Ethical Literature
+
+
+
+To define a decade study of English literature by the milestones of the French Revolution is to implicity stake a claim to a set of themes and contexts: the tension between sensibility and rationalism, as assessment of national identity and history, the role of the public sphere. Late eighteenth-century writers — and not just the radicals — were engaged with a project testing the uses of literature. Two contentious elements of literature, the complex and variable interrelationship of which my study foregrounds, are feeling and timeliness. Both concepts shape eighteenth century writing, and my approach to it. “Feeling” as a central idea refers both to the literature of sensibility as an evolving counterpoint to enlightenment rationalism, and to contemporary processes of reparative reading which foreground the limits of scholarly critique. “Timeliness” encompasses both the urgent responses of the eighteenth century mediascape to a perceived historical rupture, and to an exhaustively particular methodology of historicized textual study. Although my project remains quantitative and computational in its technological foundations, my central interest remains with the field of eighteenth century studies, rather than the field of the digital humanities.
 
 
 
 ### feeling ###
+
+
+
+#### 18thC feeling ####
 
 
 
@@ -41,19 +53,43 @@ My readings have traced the development, in the latter half of the eighteenth ce
 
 
 
-Eve Sedgwick and, more recently, Rita Felski, among many others, have been having similar conversations about the role of emotional engagement and identification in literary scholarship. Felski: “what will save us from perdition, what will keep us from committing all those sins we’ve been warned against since we were bright-eyed neophytes: naive reading, sentimental effusion, impressionistic judgment, fuzzy-headed amateurism, and mere “chatter about Shelley”?”
+The “major” works across the period are characterized by sentimental novels before the 1780s, to political philosophy and gothic novels during the 80s and 90s, to romantic poetry at the turn of the 19th century. My interest in the gothic and the supernatural is thus subsumed within a larger conversation about the representation of feeling. As Clery, Miles, and Gamer have explored in different ways, gothic and supernatural stories encompass a subset of literary strategies to understand and use feeling, which exist in conversation and competition with other strategies. Each work must strike its own balance between exciting the feelings of its readers, and moderating them. The simplest narrative tracing this development begins with a naive emotional philosophy of benevolence in sentimental novels, which gets exposed as flawed by the rationalist political philosophy of the 80s and 90s and must grapple with its failures in the gothic literature of that period, and which forms a new balance though elevation and retrospection in romantic literature.
 
 
 
-Sedgwick introduces the idea of “reparative reading” as an alternative to more-traditional forms of paranoid reading, which particularly held sway in the 1990s. However, just as eighteenth-century writers found it easier to [criticize others] than to articulate a satisfying alternative, Sedgwick produces a much more detailed description of reparative reading than of its alternative. She nonethless points to a guiding motivation of reparative reading, from which one can begin: “The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self.” And she suggests an outcome of reparative literary scholarship, against which one can compare one’s findings: “What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them.”
+#### Sedgwick ####
 
 
 
-Sedgwick articulates some tentative groundwork which Felski’s monograph promises a more resounding answer two. The Limits of Critique, however, is centrally focused, as per its title, on current practices of critique and the limits of those practices. The conclusion gestures towards “neophenomenology,” “a sustained attention to the sheer range and complexity of aesthetic experiences, including moments of recognition, enchantment, shock, and knowledge.” Felski has begun this work by establishing a greater richness for the vocabulary of “identifying” with characters. Determining whether a character is “relatable” enough to “identify with” is often a key concern for undergraduate readers and for 18thC thinkers: Felski distinguishes literary itentification into at least three types, “structural or formal alignment, moral allegiance, and emotional empathy,” which can be useful for untangling 18thC sentimental literature.
 
 
 
-The language of these alternative modes of reading discuss dissatisfaction of the “surface vs depth” metaphors of paranoid or critical reading practices, in which the critic in in a priviledged position to expose the hidden inner workings of a text. Instead they use metaphors of closeness, and particularly of emotional rather than physical closeness, presenting reading as an intimate collaborative encounter with a text. Felski describes this as “a judicious decrease rather than an increase of distance -- a willingness to acknowledge and more fully engage our attachments,” in which being interested in a work would operate on the terms of “interest” current in the 18thC: [define 18thC interest.] Felski insists that this closeness and interest would enable “serious thinking.”
+
+Eve Sedgwick and, more recently, Rita Felski, among many others, have raised similar discussions about the role of emotional engagement and identification in literary scholarship. Sedgwick describes literary study which seeks to expose wide-reaching and harmful systems that underly large bodies of works as “paranoid reading,” and introduces the idea of “reparative reading” as an alternative. However, just as eighteenth-century writers found it easier to expose the flaws in a particular mode of thinking than to articulate a satisfying substitute, Sedgwick produces a much more detailed description of paranoid reading than of its alternative. She nonethless points to a guiding motivation of reparative reading, from which one can begin: “The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self.” And she suggests an outcome of reparative literary scholarship, against which one can compare one’s findings: “What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them.” The framework of reparative reading can thus be applied both to works of literature and to the reading practices which developed and around that literature. 
+
+
+
+#### Felski ####
+
+
+
+
+
+
+
+Felski’s monograph promises a more resounding answer to Sedgwick’s tentative groundwork. The Limits of Critique, however, is centrally focused, as per its title, on current practices of critique and the limits of those practices. Its extended discussion (and, at points, critique) of the practice of critique highlights similarities between conversations about reading in the eighteenth and twenty-first centuries. For example, when Felski hyperbolically lists the “unserious” reading practices which are presumed to be the only alternative to critique, “naive reading, sentimental effusion, impressionistic judgment, fuzzy-headed amateurism, and mere ‘chatter about Shelley’,” sentimentality is explicitly named alongside forms of ‘sloppy’ thinking that are presumed to be incompatible with rationality. The need to maintain rationality in the face of emotion takes on moral implications in Felski’s hyperbole as well: without critique, the question goes, “what will save us from perdition, what will keep us from committing all those sins we’ve been warned against,” what will keep us from being dangerously bad readers? Of course, part of Felski’s conclusion is that these forms of “bad reading” are not, despite their emotional contamination, morally wrong or intellectual vacuous — but like Sedgwick, she sketches her alternative lightly.
+
+
+
+#### closeness / interest ####
+
+
+
+
+
+
+
+Both Felski and Sedgwick suggest a greater acknowledgement of what an eighteenth century writer might term the interest we have in the texts we study. For a story to be “interesting,” in the late eighteenth century, means not only that it is informative or narratively compelling, but that it makes a claim on the emotional investment of its audience. One is not only interested in others, but interested for others, with the potential of actively demonstrating that interest through social assistance. Felski describes this as “a judicious decrease rather than an increase of distance -- a willingness to acknowledge and more fully engage our attachments.” As a scholarly practice to demonstrate this closeness, Felski gestures towards what she terms “neophenomenology,” “a sustained attention to the sheer range and complexity of aesthetic experiences, including moments of recognition, enchantment, shock, and knowledge.” Felski has begun this work by establishing a greater richness for the vocabulary of “identifying” with characters. Determining whether a character is “relatable” enough to “identify with” is often a key concern for undergraduate readers and for 18thC thinkers: Felski distinguishes literary itentification into at least three types, “structural or formal alignment, moral allegiance, and emotional empathy,” which could be useful for untangling the allegiance required of different works of sentimental literature. Felski thus begins to locate “post-critical, rather than uncritical” forms of “serious thinking” which could both shed light on and be modified by eighteenth-century practices.
 
 
 
@@ -65,11 +101,7 @@ The language of these alternative modes of reading discuss dissatisfaction of th
 
 
 
-The goal of this serious thinking is to remind us “that our institutions and ways of life, passions and prejudices, are not those around which past lives were organized” — a discovery which will “shock” us but also reinvigorate us, proving the necessary prerequisite for the concept that future ways of life will also be organized differently. Our response to this alterity, however, marks one of the major differences between current scholarly work to better integrate feeling into our understanding, and eighteenth century discourses. The late eighteenth century, and particularly the period in the 1790s defined by the ongoing shocks of the French Revolution, saw a similar acknowledgement that “our institutions and ways of life, passions and prejudices” are not universal and invulnerable.
-
-
-
-Robert Miles describes the impact of the French Revolution as one centred less on the political events on the day in and of themselves, and more on the “historical rupture” which the revolution was seen to constitute. He argues that this profoundly shaped far more than just political thought: “The sense of crisis … linked to the yawning question of what now did legitimate state authority, profoundly marks the literary production of the Romantic era. The Enlightenment modes that survive in the 1790s differ substantially from those that reappear ten and fifteen years later.” (Miles 11) [the context of the political debates demanded a particular timeliness / responsiveness from texts which affected much more than just political tracts.]
+The goal of this serious thinking, for Felski, is to remind us “that our institutions and ways of life, passions and prejudices, are not those around which past lives were organized” — a discovery which will “shock” us but also reinvigorate us, proving the necessary prerequisite to understant that future ways of life will also be organized differently. For Sedgwick, too, the possibility of “surprise” in a non-paranoid reading, the idea that even the most predictable past events could have unfolded differently, is crucial for imagining change in the future. Our response to this alterity, however, marks one of the major differences between current scholarly work to integrate feeling into our understanding, and eighteenth century discourses. The late eighteenth century, and particularly the period in the 1790s defined by the ongoing aftershocks of the French Revolution, saw a similar acknowledgement that “our institutions and ways of life, passions and prejudices” are not universal and invulnerable. Robert Miles is one of many to describe the impact of the French Revolution as centred less on individual events, and more on the alarming “historical rupture” which the revolution was seen to constitute. For many, this rupture represented an opportunity for optimism — but many more experienced the turmoil as near-apocalyptic, and even for optimists the sense of impending change was often uncomfortable. Miles argues that a widespread sense of profound change shaped far more than just political thought: “The sense of crisis … linked to the yawning question of what now did legitimate state authority, profoundly marks the literary production of the Romantic era. The Enlightenment modes that survive in the 1790s differ substantially from those that reappear ten and fifteen years later.” One way that these works were shaped by their context is a heightened sense of timeliness for published works.
 
 
 
@@ -81,31 +113,59 @@ Robert Miles describes the impact of the French Revolution as one centred less o
 
 
 
-Timeliness
-
-
-
-The naive version of timeliness is to seek a historical arc. These do somewhat exist. The “major” works across the period are characterized by sentimental novels before the 1780s, to political philosophy and gothic novels during the 80s and 90s, to romantic poetry at the turn of the 19th century. My interest in the gothic and the supernatural is thus subsumed within a larger conversation about the representation of feeling. As Clery, Miles, and Gamer have explored in different ways, gothic and supernatural stories encompass a subset of literary strategies to understand and use feeling, which exist in conversation and competition with other strategies. Each work must strike its own balance between exciting the feelings of its readers, and moderating them. The simplest narrative tracing this development begins with a naive emotional philosophy of benevolence in sentimental novels, which gets exposed as flawed by the rationalist political philosophy of the 80s and 90s and must grapple with its failures in the gothic literature of that period, and which forms a new balance though elevation and retrospection in romantic literature.
-
-
-
-In its broadest strokes, this narrative is probably mostly true, and can certainly be useful. Nonetheless, I wish to complicate it by seeking to reconcile “major” works with their “minor” peers, and by foregrounding what I refer to as the “timeliness” of a work. My interest in noncanonical works stems from a desire to recognize the real variety of responses expressed throughout the period in question. Even when one literary affective mode is at its peak popularity, other opinions are being expressed and other tools are being employed. [Just because an idea doesn’t “win” its year doesn’t make it uninteresting; rather, the opposite.] Moreover, individual authors evolve in opinion over time, and even individuals works change in meaning over time, hence my interest in timeliness.
-
-
-
-[Definition of timeliness: a way to resist the idea of singularity of a text; texts have a multiplicity of meanings as they are printed, reprinted, revised, and recontextualized.] So, for example, I am interested in Burke’s Reflections as a text which is outcompeted by Williams when it is first published, and attracts a flood of negative responses, but which slowly outcompetes the others and becomes more successful over time as it gains credit for its prescience. And the 1797 Elegiac Sonnets are also interesting.
-
-
-
-My interest in timeliness is not unprecedented. William St. Clair’s exhaustive bibliographical study of book prices and David Brewer’s reflection on the recent quantitative turn in literary studies both call attention to the limits of what St. Clair calls the “parade of authors” and “parliament of texts” models of literary history, and the need to account for what Brewer terms the “footprint” left by the ongoing resonance of texts beyond their moment of initial publication. Both of these studies, and others like them, [enrich our understanding of timeliness], [particularly as expressed in the marketing and sale of texts to readers]. [I am interested in these things, but more interested in the interplay between reading practices, audiences, and literary genres.] Felski suggests that Wai Chee Dimock’s attentiveness to the “busy afterlife of the literary artifact” which “refutes our efforts to box it into a moment of origin” has produced a valuable alternative to critique. Dimock’s concept of “resonance,” like Brewer’s of a “footprint,” [gets at the thing that I want to get at also]  
-
-
-
-My three ideas of feeling and timeliness reading combine in the idea that older texts reprinted in the 1790s would be read differently (reparatively) compared to how their strategies of feeling would have been read at other times. For example, I want to know why Goldsmith was reprinted so much. [I look at 18thC texts as sources that might have expertise to offer, or important pleasures to confer]
 
 
 
 
+
+
+
+
+#### define timeliness ####
+
+
+
+
+
+
+
+Writing Timeliness
+
+
+
+Whether newly written or reprinted to meet new demand, texts take on shifting meanings as they are printed, reprinted, revised, and recontextualized over time. The changing impact of works over time is most obvious in overtly political works like Edmund Burke’s Reflections on the Revolution in France, whose relationship with, for example, Helen Maria Williams’ Letters from France and Mary Wollstonecraft’s Vindication of the Rights of Men was directly determined by the extent to which the works in question were considered to have been borne out by political events. But time-sensitive readings, and an expected textual responsiveness for current events, extended to to literary works as well.
+
+
+
+Novels which, in scholarly editions, give the illusion of being singular, unified objects are nearly all the result of a more complicated and responsive process of coming into being. As Tristram Shandy was composed and published, for example, each new installment slightly shifted its emphasis, so that the emerging narrative only gradually solidified into what are, in retrospect, its major concerns. Particularly notable is the way that volumes 7 through 9 of Tristram Shandy, written after the publication of The Castle of Otranto, incorporate Gothic materials differently than the earlier volumes; rather than being one text with one interpretation of the role of the supernatural in heightening readerly emotion, Shandy was a phenomenon which unfolded and varied over time. Even works which were not printed in installments, like Matthew Lewis’s The Monk and Walter Scott’s Waverley, could change in content and in popular reception with a new edition.
+
+
+
+Similarly, Lyrical Ballads is often studied in the context of its 1798, 1800, and 1802 editions, but William Wordsworth and Samuel Taylor Coleridge seem to have been following standard poetic practice by writing new prefaces, selecting new poems, and re-editing their works for a new emphasis. Charlotte Smith enacts similar changes across the dozen editions of Elegiac Sonnets printed between 1784 and 1812. Smith’s 1797 edition, for example, includes a new preface, re-selects the non-sonnet poems, and adds new sonnets to create a “new” work out of poems which were as many as thirteen years old. The edition presents her as a politically engaged poet, directly relevant to the events of her day, whose radical philosophies are salient even in her earliest sonnets.
+
+
+
+#### bibliographers ####
+
+
+
+
+
+
+
+My interest in timeliness is not unprecedented. William St. Clair’s exhaustive bibliographical study of book prices and David Brewer’s reflection on the recent quantitative turn in literary studies both call attention to the limits of what St. Clair calls the “parade of authors” and “parliament of texts” models of literary history, and the need to account for what Brewer terms the “footprint” left by the ongoing impact of texts beyond their moment of initial publication. Both of these studies, and others like them, enrich our understanding of the immediate timely context of literary productions, particularly as expressed in the marketing and sale of texts to readers. Among Felski’s alternatives to critique, too, is Wai Chee Dimock’s concept of “resonance,” which takes Brewer’s “footprint” as the primary object of study to trace the “busy afterlife of the literary artifact” which “refutes our efforts to box it into a moment of origin.” This “busy afterlife” can be seen beyond the immediate material book history of the work’s editions, in the interplay between reading practices, audiences, and literary genres. 
+
+
+
+#### combine in Goldsmith ####
+
+
+
+
+
+
+
+A particularly interesting text which might reward a study of both its timeliness and its use of feeling is Oliver Goldsmith’s The Vicar of Wakefield, which was first published in 1766 but continued to be frequently reprinted in the 1790s. The persistence of Wakefield immediately undermines any literary history which wholly relegates the sentimental novel to the 1760s and 1770s. However, by the 1790s Wakefield is no longer competing with The Man of Feeling (which many of its former dedicated readers now regarded with embarassment), and instead was read alongside the contemporary literature of sensibility in the Gothic mode. There is much still to be uncovered about how readers in the 1790s made very different sense of this work’s political and religious sermons, dramatic and moving prison scenes, and moralizing love-plot.
 
 
 
@@ -117,27 +177,31 @@ My three ideas of feeling and timeliness reading combine in the idea that older 
 
 
 
+
+
+
+
+
+
+
+
+#### DH gets left out ####
+
+
+
+
+
+
+
 The Digital Humanities
 
 
 
-Timeliness and feeling, as investigated through bibliographical research and reparative reading, thus chart a right network of interrelated concepts. Reparative reading requires an openess to the multiplicity of meaning which works may accrue as they are printed, reprinted, revised, and adapated in response to the pressures of timeliness. Precise bibliographical research can recapture and contextualize the complex and variable strategies of feeling that competed throughout the period. Not yet integrated into this set of priorities and methodological frameworks is the element of my project which often requires the most justification: my use of quantitative and computational methodologies.
+Timeliness and feeling, as investigated through bibliographical research and reparative reading, thus chart a tangled network of interrelated concepts. Reparative reading requires an openess to the multiplicity of meaning which works may accrue as they are printed, reprinted, revised, and adapated in response to the pressures of timeliness. Precise bibliographical research can recapture and contextualize the complex and variable strategies of feeling that competed throughout the period. Not yet integrated into this set of priorities and methodological frameworks is the element of my project which often requires the most justification: my use of quantitative and computational methodologies.
 
 
 
-This is a conversation which has been taking place in different terms among digital humanities practitioners. eg Adam Hamond talks about the digital as a breach with the past so substantial that it renders the future unimaginable. Individual work is trying to figure out how to humanities-ize / humanize the digital. Except that Fischer-Starke’s book is totally uninterested in these questions.
-
-
-
-Willard McCarty’s chapter on interdisciplinary research strikes me as particularly fruitful. Willard McCarty says that “The range of possibilities in interdisciplinary research is from theft to assimilation”: the current state of “digital humanities” research still involves a lot of theft, of computational methods but particularly of the aura of empirical objectivity which the sciences bring with them. This aura of objectivity, which is actively cultivated by many “digital humanities” practitioners (especially Franco Moretti), is a strange illusion does not reflect how the sciences understand their own work. Because, as McCarty observes, “research in a discipline to which one is alien is difficult to see as good research, or even to see as research at all,” [it is easy for computational humanities research to dazzle or to fizzle, but hard for it to usefully inform.
-
-
-
-I hope to integrate my computational and quantitative research into a fully humanities project by largely refusing to centre the technological elements of my methodology, either in terms of its practice or in terms of its theory. I completely reject the aura of empiricist objectivity which quantitative and computational methods attempt to surround themselves with. I embrace the messiness and intimacy of modelling. Trying to integrate attentiveness to textual detail and emotional openness will be good for “DH.”
-
-
-
-## guidelines ##
+#### DH as historical breach ####
 
 
 
@@ -145,31 +209,59 @@ I hope to integrate my computational and quantitative research into a fully huma
 
 
 
---- remember this process is unsatisfying inherently. choose like 3/100 ideas, and explain them well in your position paper; the rest will emerge at the oral
+“Digital humanities” is often figured as a historical rupture of its own, one which calls into question past literary study and makes the future of the field impossible to predict. Adam Hammond uses his monograph to try to grasp the nature of the changes; more commonly, book-length criticism in the digital humanities take the form of edited collections, which accumulate many small snapshots of computationally-engaged research that only rarely attempt to theorize the whole. There are often common threads between these local strategies to maintain humanist and qualitative principles within individual computation projects, but even these are often seen as representing an intermediate stage. Bettina Fischer-Starke’s linguistics monograph, being totally embedded in the computational corpus analysis which now constitute linguistics itself as a field, presents an illuminating contrast to the hestitations and preoccupation with definitions and boundaries in self-identified “digital humanities” work.
 
 
 
---- I really mean - 3/100. The worst that can happen for someone like you is you get lost in the trees, can't see the wood, etc. Simplify it down
+#### McCarty: interdisciplinary ####
 
 
 
---- more like a manifesto than a thesis proposal
 
 
 
---- it should be an exploration of ideas though, not a 'here is a list of the ideas I will explore and in this structure'
+
+Willard McCarty stands out for often producing short articles which simply accumulate vocabulary from other fields and present them for consideration. My past work has made extensive use of his definitions of models and prototypes; now, his chapter on interdisciplinary research strikes me as particularly fruitful. Willard McCarty says that “[t]he range of possibilities in interdisciplinary research is from theft to assimilation”: the current state of “digital humanities” research still involves a lot of theft. Digital humanists kidnap computational methods for their own, often-unrelated needs, but more dangerously, digital research often steals an aura of empirical objectivity from its proximity to “hard sciences.” The aura of objective truth carried by graphs and tables — an aura which is actively cultivated by many digital humanities practitioners, especially Franco Moretti — is an illusion that does not reflect how the sciences understand their own work. Because, as McCarty observes, “research in a discipline to which one is alien is difficult to see as good research, or even to see as research at all,” it is easy for computational humanities research to dazzle or to fizzle, but hard for it to usefully inform. Transitioning from theft to something closer to assimilation will require a calm recognition that many scientific papers present incorrect results, and that the rhetoric of rationality is no guarantee of usefulness or accuracy — a lesson which returns us to the debates of the eighteenth century.
 
 
 
---- it's something like - I read all this, i learned all this, i care about THIS THIS AND THIS (just 3 things, out of 100!) - here is how I want to move forward
 
-
-
-— your question is -what do i think my investment in this field is. what do I want to spend 2-3 years writing about
 
 
 
 ## stray ideas ##
+
+
+
+
+
+
+
+Its priorities are tantalizingly attuned to those of the literature of sensibility itself.
+
+
+
+### complicate the arc ###
+
+
+
+
+
+
+
+In its broadest strokes, this narrative is probably mostly true, and can certainly be useful. Nonetheless, I wish to complicate it by seeking to reconcile “major” works with their “minor” peers, and by foregrounding what I refer to as the “timeliness” of a work. My interest in noncanonical works stems from a desire to recognize the real variety of responses expressed throughout the period in question. Even when one literary affective mode is at its peak popularity, other opinions are being expressed and other tools are being employed. [Just because an idea doesn’t “win” its year doesn’t make it uninteresting; rather, the opposite.] Moreover, individual authors evolve in opinion over time, and even individuals works change in meaning over time, hence my interest in timeliness.
+
+
+
+### conclusion ###
+
+
+
+
+
+
+
+I hope to integrate my computational and quantitative research into a fully humanities project by largely refusing to centre the technological elements of my methodology, either in terms of its practice or in terms of its theory. I completely reject the aura of empiricist objectivity which quantitative and computational methods attempt to surround themselves with. I embrace the messiness and intimacy of modelling. Trying to integrate attentiveness to textual detail and emotional openness will be good for “DH.”
 
 
 
@@ -274,6 +366,38 @@ My thinking has led me to a methodology, a subject matter, and a philosophical/e
 
 
 The literature itself offers strategies for emotional self-management, which readers must practice/enact by responding appropriately to the text. I want to identify these strategies, while resisting broad myths of chronological change.
+
+
+
+## guidelines ##
+
+
+
+
+
+
+
+--- remember this process is unsatisfying inherently. choose like 3/100 ideas, and explain them well in your position paper; the rest will emerge at the oral
+
+
+
+--- I really mean - 3/100. The worst that can happen for someone like you is you get lost in the trees, can't see the wood, etc. Simplify it down
+
+
+
+--- more like a manifesto than a thesis proposal
+
+
+
+--- it should be an exploration of ideas though, not a 'here is a list of the ideas I will explore and in this structure'
+
+
+
+--- it's something like - I read all this, i learned all this, i care about THIS THIS AND THIS (just 3 things, out of 100!) - here is how I want to move forward
+
+
+
+— your question is -what do i think my investment in this field is. what do I want to spend 2-3 years writing about
 
 
 
@@ -5589,7 +5713,7 @@ Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Hunti
 
 
 
-A recent article by  Bode exemplifies a current shift in approaches to digitally-enhanced literary scholarship. Bode builds a critique of “distant reading” pioneers Franco Moretti and Matthew Jockers, arguing that they too often disregard the provenance of the thousands of texts they select for study. When distant reading treats its mass corpora as complete and objective, Bode argues, it is not different from New Criticism’s technique of close reading, which attempts to dismiss historical context as irrelevant. As an alternative, Bode calls for scholarly editions of literary systems, rather than individual texts, in order to produce a “data-rich literary history” that integrates computational research with the textual scholarship of fields like bibliography and book history. My dissertation answers this call by systematically researching all texts printed in England between the years 1789 to 1799.
+A recent article by Bode exemplifies a current shift in approaches to digitally-enhanced literary scholarship. Bode builds a critique of “distant reading” pioneers Franco Moretti and Matthew Jockers, arguing that they too often disregard the provenance of the thousands of texts they select for study. When distant reading treats its mass corpora as complete and objective, Bode argues, it is not different from New Criticism’s technique of close reading, which attempts to dismiss historical context as irrelevant. As an alternative, Bode calls for scholarly editions of literary systems, rather than individual texts, in order to produce a “data-rich literary history” that integrates computational research with the textual scholarship of fields like bibliography and book history. My dissertation answers this call by systematically researching all texts printed in England between the years 1789 to 1799.
 
 
 
@@ -5686,6 +5810,38 @@ Sedgwick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Paran
 
 
 St. Clair, William. The Reading Nation in the Romantic Period. Cambridge: Cambridge UP, 2004. Print.
+
+
+
+# Acknowledgements #
+
+
+
+
+
+
+
+SSHRC
+
+
+
+ESTC
+
+
+
+Alex G, Terry, Tom
+
+
+
+Cai, Ashley
+
+
+
+Alex + Austin, Alyssa, Jakob, and all the other “civilians”/“innocent bystanders”
+
+
+
+Alex StrickVL?? Beeminder? 
 
 [cause.png]: cause.png
 
