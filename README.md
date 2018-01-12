@@ -26,6 +26,20 @@ Then color-code ideas
 
 # Research Log
 
+## January 11, 2017
+
+At MLA I felt slightly baffled by the Romanticism papers, and so delighted and excited by the theory and DH ones -- I think I can't possibly be a Romanticist.
+
+I might still be an 18thC scholar, but I gave Romanticism the good old college try, and it's just not where my heart lies.
+
+I don't think I've been in a good emotional place to work; I don't feel like I know what I'm trying to do, or how what I am doing is important or relevant to others. (I don't know how to leave my queerness etc at home, OR how to bring it into my work. 
+
+## December 14, 2017
+
+I passed fields!!
+
+I've been trying so hard to position my project as 18thC first, DH incidentally, but I wonder if that is misguided. 
+
 ## December 7, 2018
 
 I keep wanting to get more ridiculously exhaustive, just to see if I *can*.
