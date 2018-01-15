@@ -15,14 +15,14 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>47</integer>
+		<integer>7</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {304.5, 767}}</string>
-		<string>{{305.5, 0}, {924.5, 767}}</string>
+		<string>{{0, 0}, {305, 767}}</string>
+		<string>{{306, 0}, {924, 767}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -1039,13 +1039,13 @@
 	<key>mainDocumentView</key>
 	<string>supportingDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>131 88 1230 789 0 0 1440 877 </string>
+	<string>37 88 1230 789 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>228</integer>
+		<integer>283</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>supportingDocumentEditor.editorGroupsViewMode</key>
 	<integer>1</integer>
 	<key>supportingDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
@@ -1074,22 +1074,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>266</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>212</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>AggregateSelection</key>
 				<string>{0, 0}</string>
@@ -1924,12 +1908,28 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>286</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>283</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1361.6}, {556.79999, 550.40002}}</string>
+	<string>{{0, 4724}, {556.79999, 550.3999}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{3, 1}</string>
+	<string>{16220, 90}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>

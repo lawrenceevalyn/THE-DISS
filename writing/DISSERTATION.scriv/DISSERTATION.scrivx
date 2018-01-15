@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-01-10 23:42:20 -0500" ModID="BCA14F62-F4ED-4FB7-9C44-48FE505B4BE6">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-01-14 19:59:11 -0500" ModID="54E152E9-5BA0-469D-8BD7-B2F30465F6BC">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2017-08-11 15:20:00 -0400">
             <Title>Notes To Self</Title>
@@ -1565,6 +1565,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>242,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="435" UUID="E8B93483-AD88-4C08-8763-D6D6C3DDF345" Type="Text" Created="2018-01-14 19:58:35 -0500" Modified="2018-01-14 19:59:11 -0500">
+                                    <Title>readers can get sustenance anywhere</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3519,7 +3529,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>211,0</TextSelection>
+                                <TextSelection>1441,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem ID="434" UUID="D87B66DF-88F9-4618-8A1D-4D1C66D85B07" Type="Text" Created="2018-01-10 14:54:43 -0500" Modified="2018-01-10 14:55:02 -0500">
@@ -4067,7 +4077,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="294" Characters="1868" Date="2018-01-10 14:44:07 -0500"></PreviousSession>
+        <PreviousSession Words="42" Characters="237" Date="2018-01-14 19:57:34 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
