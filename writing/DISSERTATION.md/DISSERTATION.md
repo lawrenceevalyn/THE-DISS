@@ -2213,6 +2213,22 @@ The decade 1789-99 is suddenly *about me*, and *mine*.
 
 
 
+### readers can get sustenance anywhere ###
+
+
+
+
+
+
+
+*Anything* can become the thing that gets you through; some things might make the attachment easier than others, but the decision to attach lies in the reader, who returns to and re-interprets the text to shape it into the tool required.
+
+
+
+**This is the reason that the canon is not useful.**
+
+
+
 ## edit anthologies in chronological order ##
 
 
