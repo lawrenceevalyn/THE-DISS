@@ -7,6 +7,12 @@
     * "The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
     * "What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
 
+## 10 Questions I might want to answer:
+1. What older works were reprinted strategically during the 1790s to respond to a new context? ( / How did the timeliness of their printing affect how they were read?)
+1. What general strategies did writers use, to respond to the turmoil of their political situation? Do these strategies correlate with demographic or political categories? Do different strategies dominate at different times?
+    * (I increasingly thing that the anxieties-writ-large of Gothic novels really did increase emotional turmiol like their stodgy critics claimed. Does that make them "bad"?)
+    * (I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear.) 
+
 # Current Priorities
 * Assemble a **short** document of guiding principles
     * Figure out what question the field of literary study is trying to answer, exactly
@@ -25,6 +31,10 @@
 Then color-code ideas
 
 # Research Log
+
+## January 14, 2017
+
+I think I'm finally recovering from the 'blow' of special fieds... it at least feels **possible** to turn my hopes, interests, and tools into coherent and meaningful questions.
 
 ## January 11, 2017
 
