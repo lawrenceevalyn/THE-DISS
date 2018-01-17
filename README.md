@@ -12,6 +12,7 @@
 1. What general strategies did writers use, to respond to the turmoil of their political situation? Do these strategies correlate with demographic or political categories? Do different strategies dominate at different times?
     * (I increasingly thing that the anxieties-writ-large of Gothic novels really did increase emotional turmiol like their stodgy critics claimed. Does that make them "bad"?)
     * (I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear.) 
+1. How much DO we know about the chapbook/pamphlets trade? How did people write, print, sell, buy, and read them? How fast was the cycle of responses between pamphlets? What's the difference between a chapbook and a pamphlet, anyway? What was written down from which we can reconstruct their history? 
 
 # Current Priorities
 * Assemble a **short** document of guiding principles

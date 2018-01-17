@@ -15,7 +15,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>7</integer>
+		<integer>1</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
@@ -1042,7 +1042,7 @@
 	<string>37 88 1230 789 0 0 1440 877 </string>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>283</integer>
+		<integer>280</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>1</integer>
@@ -1074,16 +1074,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
 			<dict>
 				<key>AggregateSelection</key>
 				<string>{0, 0}</string>
@@ -1917,6 +1907,8 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{16220, 90}</string>
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>283</integer>
@@ -1924,12 +1916,20 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>280</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 4724}, {556.79999, 550.3999}}</string>
+	<string>{{0, 0}, {556.79999, 550.40002}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{16220, 90}</string>
+	<string>{0, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
