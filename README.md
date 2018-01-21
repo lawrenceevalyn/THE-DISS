@@ -34,7 +34,6 @@
 1. I could trace the development of a single idea / theme in the decade:
     * convents! you can store your women in them, but what's going to happen in there?
     * the invention of "debt" as a concept, and a sin (compared to credit)
-1. Who is reading what in Britain? 
 
 Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
 * old texts are reprinted to fit current needs (legacy is happenstance)
@@ -95,6 +94,16 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 * old texts are reprinted to fit current needs (legacy is happenstance)
 * genre fiction something something?
 * too much literary celebrity inhibits legacy
+
+------
+
+"Who read what, and how?" is essentially a meta-question -- it's not specific enough to make a dissertation (there's no way for me to start answering it), but will play a role in whatever I choose.
+
+I also really want to know "What works have reparative readings available that nourished in the 1790s and/or can nourish now?" -- (how) can that be my question? Or is that also just going to be underneath everything I do?
+
+![spreadsheet comparing my research Qs](/figures/artisanal-spreadsheets/research-Qs.png)
+
+I think I'd be interested in pursuing any of those top three questions...
 
 ## January 14, 2018
 
