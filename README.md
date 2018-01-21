@@ -43,10 +43,8 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 
 # Current Priorities
 * Assemble a **short** document of guiding principles
-    * Figure out what question the field of literary study is trying to answer, exactly
     * Figure out what question I, personally, want most urgently to know the answer to
-* Finish throwing my research ideas to date into the scrivener doc
-* Start setting up a relational database
+* Start setting up a relational database?
 * Start drafting the first chapter
 
 # Writing workflow
@@ -55,16 +53,54 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 * Let it all accumulate into groupings organically. Don't try to organize too soon.
 * Don't create empty spaces for thoughts to go in the future. (Add research questions and hypotheses instead.)
 
-# Next-do: migrate thoughts from research log to monster scrivener doc
-Then color-code ideas
+# Next-do: identify my specific research question
 
 # Research Log
 
-## January 14, 2017
+## January 21, 2018
+
+I told all my writing students that you know you're on the track of a good topic when you have too many ideas -- so I am in better shape than I feel. It does feel like a step forward to have identified several concrete, specific questions that are nonetheless dissertation-sized, even if some of them are are a bit orthoganal to the questions I thought I was interested in.
+
+For the record, my current list of potential questions is as follows:
+
+1. What older works were reprinted strategically during the 1790s to respond to a new context? ( / How did the timeliness of their printing affect how they were read?)
+    * How precisely can I recapture a historical moment? (timeline of the revolution correlated with weather, price of bread, etc)
+    * the impact of caffeine
+1. What general strategies did writers use, to respond to the turmoil of their political situation? Do these strategies correlate with demographic or political categories? Do different strategies dominate at different times?
+    * I increasingly think that the anxieties-writ-large of Gothic novels really did increase emotional turmoil like their stodgy critics claimed. Does that make them "bad"?
+    * I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear. 
+    * How does one "suffer like a heroine"? Does it help?
+    * Benevolence / sentiment will also probably emerge here as strategies
+1. How much DO we know about the chapbook/pamphlet trade? How did people write, print, sell, buy, and read them? What's the difference between a chapbook and a pamphlet, anyway? What was written down from which we can reconstruct their history?
+    * How fast was the cycle of responses between pamphlets?
+1. How do our current 18thC corpora (mis)represent the works printed in the 1790s? If we work only with the easiest-to-access corpora, what do we leave out?
+    * Can I make a reverse recommendation engine, to combat our assumptions of homophily?
+    * Most literary works aren't a single stable object at all
+    * What would decanonization look like?
+    * systematic meta-analysis of The Literature (and especially what it says about various forms of literary production), in spreadsheet form of course
+1. Does "genre fiction" operate differently from "other" fiction? Are the 1790s the origin of "genre fiction"?
+    * What history can I write of science fiction and apocalyptic fiction if I look only at the 18thC? Can I make direct comparisons to the present day?
+        * Check out depictions of future London as a ruin
+    * More and WW both use "genre" fiction for their non-"genre" works?
+    * How to see and make sense of generic hybridity? (Gothic as cross-generic mode)
+1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
+    * How do individual authors cultivate fame during my decade? Who is most successful? How does that correspond with later fame?
+    * The Romantics are like the Della Cruscans, except we remember them
+1. I could trace the development of a single idea / theme in the decade:
+    * convents! you can store your women in them, but what's going to happen in there?
+    * the invention of "debt" as a concept, and a sin (compared to credit)
+1. Who is reading what in Britain? 
+
+Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
+* old texts are reprinted to fit current needs (legacy is happenstance)
+* genre fiction something something?
+* too much literary celebrity inhibits legacy
+
+## January 14, 2018
 
 I think I'm finally recovering from the 'blow' of special fieds... it at least feels **possible** to turn my hopes, interests, and tools into coherent and meaningful questions.
 
-## January 11, 2017
+## January 11, 2018
 
 At MLA I felt slightly baffled by the Romanticism papers, and so delighted and excited by the theory and DH ones -- I think I can't possibly be a Romanticist.
 
