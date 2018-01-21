@@ -1829,6 +1829,58 @@ Also very familiar!
 
 
 
+## research methods for corpora comparisons ##
+
+
+
+
+
+
+
+My biggest-scale question is: I have all of these different corpora of stuff from 1789-99. How can I compare what they contain? If people only worked with the absolute easiest corpus to access (ECCO-TCP), what would they be leaving out?
+
+
+
+
+
+
+
+I want to develop a consistent ontology (in the computer science definition of the word) to apply to all of the corpora, so I can directly compare what kinds of materials each includes. It's important for this ontology to be able to tell me things like "this corpus consists entirely of plays" (because one of them definitely does) but I don't know how to know in advance what categories I'll need. (I'm going to ask my mom about this, ontologies are her jam.)
+
+
+
+
+
+
+
+Then I want to look at each individual corpus and classify its contents into my ontology categories. I'll probably do this computationally also, but it's important to me to classify at least some of each corpus by hand, to check (or train?) my computational approach. Since I can't classify 52,000 things by hand (1 minute per thing = 866 hours) I want to take a random sample, classify *that*, and say "the whole thing probably looks roughly like this." I'll probably be classifying just by title / title page so they should all be able to "respond," but if I want to look at how well those titles reflect the actual content I might start bumping up against works that I can't access (and also I'll want to use smaller samples so I can spend longer on each item.)
+
+
+
+
+
+
+
+I'd like to use the smallest sample that is still acceptably trustworthy. I don't know what is considered acceptably trustworthy: 70%? 98%?
+
+
+
+
+
+
+
+I have several corpora -- smallest one 466 items, biggest one 52,000 -- so I am looking for a calculation to run each time I decide to sample a new corpus. (My first instinct was to pick one number and sample that many of each one, but on reflection, that's... not right, is it? Should I sample the same *percentage* of each one?)
+
+
+
+
+
+
+
+I'm basically treating each corpus as a non-random sample of the platonic ideal of "Printed Works In Britain 1789-99" and trying to see how each corpus represents that platonic ideal, and also trying to inch closer to that platonic ideal.
+
+
+
 # Observations #
 
 
