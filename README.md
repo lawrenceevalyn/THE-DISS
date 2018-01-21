@@ -9,11 +9,33 @@
 
 ## 10 Questions I might want to answer:
 1. What older works were reprinted strategically during the 1790s to respond to a new context? ( / How did the timeliness of their printing affect how they were read?)
+    * How precisely can I recapture a historical moment? (timeline of the revolution correlated with weather, price of bread, etc)
 1. What general strategies did writers use, to respond to the turmoil of their political situation? Do these strategies correlate with demographic or political categories? Do different strategies dominate at different times?
-    * (I increasingly thing that the anxieties-writ-large of Gothic novels really did increase emotional turmiol like their stodgy critics claimed. Does that make them "bad"?)
-    * (I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear.) 
-1. How much DO we know about the chapbook/pamphlets trade? How did people write, print, sell, buy, and read them? How fast was the cycle of responses between pamphlets? What's the difference between a chapbook and a pamphlet, anyway? What was written down from which we can reconstruct their history?
+    * I increasingly think that the anxieties-writ-large of Gothic novels really did increase emotional turmiol like their stodgy critics claimed. Does that make them "bad"?
+    * I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear. 
+    * How does one "suffer like a heroine"? Does it help?
+    * What if the sneering conservatives are right, and Gothic novels aren't good for your anxiety?
+1. How much DO we know about the chapbook/pamphlet trade? How did people write, print, sell, buy, and read them? What's the difference between a chapbook and a pamphlet, anyway? What was written down from which we can reconstruct their history?
+    * How fast was the cycle of responses between pamphlets?
 1. How do our current 18thC corpora (mis)represent the works printed in the 1790s? If we work only with the easiest-to-access corpora, what do we leave out?
+    * Can I make a reverse recommendation engine, to combat our assumptions of homophily?
+    * Most literary works aren't a single stable object at all
+    * What would decanonization look like?
+1. Does "genre fiction" operate differently from "other" fiction? Are the 1790s the origin of "genre fiction"? What history can I write of science fiction and apocalyptic fiction if I look only at the 18thC?
+    * Can I make direct comparisons to the present day?
+    * More and WW both use "genre" fiction for their non-"genre" works?
+    * Check out depictions of future London as a ruin
+1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
+    * How do individual authors cultivate fame during my decade? Who is most successful? How does that correspond with later fame?
+    * The Romantics are like the Della Cruscans, except we remember them
+1. I could trace the development of a single idea / theme in the decade:
+    * convents! you can store your women in them, but what's going to happen in there?
+    * the invention of "debt" as a concept, and a sin (compared to credit)
+
+Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
+* old texts are reprinted to fit current needs (legacy is happenstance)
+* genre fiction something something?
+* too much literary celebrity inhibits legacy
 
 # Current Priorities
 * Assemble a **short** document of guiding principles

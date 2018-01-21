@@ -41,6 +41,26 @@ Look for crossover between ideas, multiple ways of approaching a given subject. 
 
 
 
+## Information Density ##
+
+
+
+
+
+
+
+I am on a quest for astonishingly dense synthesis.
+
+
+
+
+
+
+
+I think this how how one properly accounts overwhelming detail and variety: lots of different bits of information all correlated with each other.
+
+
+
 # Questions #
 
 
@@ -2545,7 +2565,7 @@ Conviction in the face of oppression is powerful, if you refuse to believe the t
 
 
 
-(Women in Gothic novels know the tyranny of patriarchy is unjust, and by suffering without ever condeding to it, they triumph)
+(Women in Gothic novels know the tyranny of patriarchy is unjust, and by suffering without ever conceding to it, they triumph)
 
 
 
