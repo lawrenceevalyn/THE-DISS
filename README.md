@@ -10,27 +10,31 @@
 ## 10 Questions I might want to answer:
 1. What older works were reprinted strategically during the 1790s to respond to a new context? ( / How did the timeliness of their printing affect how they were read?)
     * How precisely can I recapture a historical moment? (timeline of the revolution correlated with weather, price of bread, etc)
+    * the impact of caffeine
 1. What general strategies did writers use, to respond to the turmoil of their political situation? Do these strategies correlate with demographic or political categories? Do different strategies dominate at different times?
-    * I increasingly think that the anxieties-writ-large of Gothic novels really did increase emotional turmiol like their stodgy critics claimed. Does that make them "bad"?
+    * I increasingly think that the anxieties-writ-large of Gothic novels really did increase emotional turmoil like their stodgy critics claimed. Does that make them "bad"?
     * I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear. 
     * How does one "suffer like a heroine"? Does it help?
-    * What if the sneering conservatives are right, and Gothic novels aren't good for your anxiety?
+    * Benevolence / sentiment will also probably emerge here as strategies
 1. How much DO we know about the chapbook/pamphlet trade? How did people write, print, sell, buy, and read them? What's the difference between a chapbook and a pamphlet, anyway? What was written down from which we can reconstruct their history?
     * How fast was the cycle of responses between pamphlets?
 1. How do our current 18thC corpora (mis)represent the works printed in the 1790s? If we work only with the easiest-to-access corpora, what do we leave out?
     * Can I make a reverse recommendation engine, to combat our assumptions of homophily?
     * Most literary works aren't a single stable object at all
     * What would decanonization look like?
-1. Does "genre fiction" operate differently from "other" fiction? Are the 1790s the origin of "genre fiction"? What history can I write of science fiction and apocalyptic fiction if I look only at the 18thC?
-    * Can I make direct comparisons to the present day?
+    * systematic meta-analysis of The Literature (and especially what it says about various forms of literary production), in spreadsheet form of course
+1. Does "genre fiction" operate differently from "other" fiction? Are the 1790s the origin of "genre fiction"?
+    * What history can I write of science fiction and apocalyptic fiction if I look only at the 18thC? Can I make direct comparisons to the present day?
+        * Check out depictions of future London as a ruin
     * More and WW both use "genre" fiction for their non-"genre" works?
-    * Check out depictions of future London as a ruin
+    * How to see and make sense of generic hybridity? (Gothic as cross-generic mode)
 1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
     * How do individual authors cultivate fame during my decade? Who is most successful? How does that correspond with later fame?
     * The Romantics are like the Della Cruscans, except we remember them
 1. I could trace the development of a single idea / theme in the decade:
     * convents! you can store your women in them, but what's going to happen in there?
     * the invention of "debt" as a concept, and a sin (compared to credit)
+1. Who is reading what in Britain? 
 
 Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
 * old texts are reprinted to fit current needs (legacy is happenstance)
@@ -74,7 +78,7 @@ I passed fields!!
 
 I've been trying so hard to position my project as 18thC first, DH incidentally, but I wonder if that is misguided. 
 
-## December 7, 2018
+## December 7, 2017
 
 I keep wanting to get more ridiculously exhaustive, just to see if I *can*.
 
@@ -1340,9 +1344,9 @@ What percentage of books promise in their titles some kind of secret or mystery 
 
 MLA was a whirlwind! I was surprised to find myself describing an interest in religious and sentimental literature [ETA: **didactic** literature!], singing the praises of Hannah More -- it does reinforce my desire not to treat genres too separately.
 
-I most enjoyed a panel on "anti-marriage plots"-- it made me want to look at what narratologists are up to and how I might dip by toe into that field.
+I most enjoyed a panel on "anti-marriage plots"-- it made me want to look at what narratologists are up to and how I might dip my toe into that field.
 
-Reading Wolfenbach, Emmeline, Coelebs, and now Clermont, I have been impressed again and again by the importance of, hm, women's duplicity? The strategic use of emotion/affect, and the even more strategic use of vulnerability, as a way to control men and thus enact desirable change upon the world. There is spooky window dressing and a couple shocking secrets in these Gothics so far, but they are also deeply embedded in non-supernatural, non-Gothically-aestheticized problems of female powerlessness. I want to read more about the sentimental nove;: it seems like there is a really direct line form there to Radcliffe.
+Reading Wolfenbach, Emmeline, Coelebs, and now Clermont, I have been impressed again and again by the importance of, hm, women's duplicity? The strategic use of emotion/affect, and the even more strategic use of vulnerability, as a way to control men and thus enact desirable change upon the world. There is spooky window dressing and a couple shocking secrets in these Gothics so far, but they are also deeply embedded in non-supernatural, non-Gothically-aestheticized problems of female powerlessness. I want to read more about the sentimental novel: it seems like there is a really direct line from there to Radcliffe.
 
 I also want to look back at my MA work a bit more to see if I better understand my own arguments there, now that I have done more actual reading.
 
