@@ -56,6 +56,12 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 
 # Research Log
 
+## January 23
+
+‘Hard times produce extraordinary people. I don’t know what the practical application of that thought could be.’ - Doris Lessing’s autobiography
+
+This seems to be the central problem of A Simple Story. And perhaps of the whole novel of suffering in the first place?
+
 ## January 21, 2018
 
 I told all my writing students that you know you're on the track of a good topic when you have too many ideas -- so I am in better shape than I feel. It does feel like a step forward to have identified several concrete, specific questions that are nonetheless dissertation-sized, even if some of them are are a bit orthoganal to the questions I thought I was interested in.
