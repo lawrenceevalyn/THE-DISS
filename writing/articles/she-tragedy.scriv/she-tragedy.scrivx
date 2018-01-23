@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-01-23 14:18:15 -0500" ModID="8B127544-0D23-4342-87DF-BB11011442B4">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-01-23 15:24:30 -0500" ModID="FF89BF4B-CD10-4195-911A-F489610662DC">
     <Binder>
         <BinderItem ID="0" UUID="1DC4C385-56CE-47AC-99C7-40383678D5B8" Type="DraftFolder" Created="2016-02-25 20:03:41 -0500" Modified="2016-02-25 20:03:41 -0500">
             <Title>Draft</Title>
@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="146" UUID="7858C21D-8A0B-4576-A38C-67434E66CCDA" Type="Text" Created="2018-01-17 18:20:07 -0500" Modified="2018-01-17 21:07:11 -0500">
+                <BinderItem ID="146" UUID="7858C21D-8A0B-4576-A38C-67434E66CCDA" Type="Text" Created="2018-01-17 18:20:07 -0500" Modified="2018-01-23 15:14:12 -0500">
                     <Title>abstract</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>360,0</TextSelection>
+                        <TextSelection>1115,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="147" UUID="5519C482-CC52-4FB7-A933-30A7873F3A1D" Type="Text" Created="2018-01-17 21:03:11 -0500" Modified="2018-01-17 21:06:31 -0500">
@@ -34,8 +34,92 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>940,207</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="149" UUID="0D0EB78B-DC93-4682-B710-1581D2B40C3E" Type="Text" Created="2018-01-23 14:37:41 -0500" Modified="2018-01-23 15:08:29 -0500">
+                    <Title>list of she-tragedies</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>39,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="151" UUID="B55408AC-D61B-432D-86DB-4E72623D719F" Type="Text" Created="2018-01-23 14:44:18 -0500" Modified="2018-01-23 14:46:22 -0500">
+                            <Title>works to refer to</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>771,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="154" UUID="64677114-6D58-442D-A76C-A790339B8392" Type="Text" Created="2018-01-23 15:05:02 -0500" Modified="2018-01-23 15:05:08 -0500">
+                            <Title>list of non-she-tragedy pathetic dramas</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="152" UUID="4411532C-AB7A-46D2-95C9-7C4D65EF602F" Type="Text" Created="2018-01-23 14:55:28 -0500" Modified="2018-01-23 14:55:38 -0500">
+                            <Title>list of heroic dramas</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="153" UUID="864EA4AE-DFEB-437D-8A9E-623B91B52296" Type="Text" Created="2018-01-23 14:55:39 -0500" Modified="2018-01-23 15:13:38 -0500">
+                            <Title>list of bourgeois dramas</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>694,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="150" UUID="5CBA0A39-D23B-4A7D-85C0-08B872B54F06" Type="Text" Created="2018-01-23 14:39:34 -0500" Modified="2018-01-23 14:43:02 -0500">
+                    <Title>wikipedia on she-tragedy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3163,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="155" UUID="DC4963CE-AC3A-4768-AA38-58E72F3233A7" Type="Text" Created="2018-01-23 15:14:15 -0500" Modified="2018-01-23 15:14:16 -0500">
+                    <Title>notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="156" UUID="73EC9668-676F-4411-85CB-AC7CF10F3AD5" Type="Text" Created="2018-01-23 15:14:17 -0500" Modified="2018-01-23 15:14:27 -0500">
+                            <Title>french and german too</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>163,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -743,7 +827,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1402,116</TextSelection>
+                        <TextSelection>1439,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="67" UUID="F7B4DCD6-830C-411C-AA94-059C995DFB7D" Type="Text" Created="2016-03-29 19:21:46 -0400" Modified="2016-04-15 13:09:56 -0400">
@@ -1675,7 +1759,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-04-17 03:21:51 -0400" IgnoreDeadline="No">5389</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="222" Characters="1314" Date="2018-01-23 14:18:04 -0500"></PreviousSession>
+        <PreviousSession Words="1440" Characters="8746" Date="2018-01-23 14:18:04 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
