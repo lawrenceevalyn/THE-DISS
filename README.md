@@ -62,7 +62,7 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 
 #### HT Metadata availability, coverage, quality
 
-*Coverage*
+##### Coverage
 - bibiographic (descriptive) metadata generated from MARC provided by HT members
     - in case of duplication, Zephir picks 'best' record
     - this means that if there are two copies of the same edition of a work, they both have the same metadata applied from whichever copy was deemed "better"
@@ -73,7 +73,7 @@ each bibliographic catalog record is linked to 1 or more volumes / items
 - catalog records are per title, other metadata is per volume -- watch for this
 reading/dissecting a MARC record
 
-*Completeness*
+##### Completeness
 - using records from libraries built up over hundreds of years; completeness will vary WIDELY
 - everything has a title, most everything has a publication year, and 99% have OCLC numbers
 - only 80% subject headings, only 65% have call numbers
@@ -81,7 +81,7 @@ reading/dissecting a MARC record
     - fiction doesn't have genre assignments
     - also as Ted Underwood's "Understanding Genre in a Collection of a Million Volumes" points out, physical volume has multiple genres in it
 
-*Accuracy and quality*
+##### Accuracy and quality
 - MARC language codes often don't follow codes for translations, eg "engger" for english translation of german text (won't show up as english)
 - Librarians pretty good at author's names, but less good with names that appear in titles and keywords
 - Public-domain texts sometimes/often accidentally restricted is source libraries 
@@ -90,10 +90,10 @@ reading/dissecting a MARC record
     
 www.hathitrust.org/data
 
-*Ways to get metadata in bulk:*
+##### Ways to get metadata in bulk:
 - OAI-PMH harvest: public domain only, MARC or Dublin Core in XML, few hundred at a time openarchives.org
 - Bib API call: returns MARC in JSON or JSON & XML; up to 20 at a time; 
-- hathifiles file download: returns tab-delimited **selected** metadata; no subjects, for example
+- hathifiles file download: returns tab-delimited *selected* metadata; no subjects, for example
 
 OCLC number points to print record of phycial book, also records for the digital edition of that work in HathiTrust
 
@@ -104,9 +104,62 @@ HTRC Extracted Feature Solr Search: experimental, combine metadata and page/toke
 
 #### Reading/Dissecting a MARC record
 
-"MAchine Readable Cataloguing" : Library of Congress MARC 21 standards
+"MAchine Readable Cataloguing" : Library of Congress MARC 21 standards www.loc.gov/marc
 
-authorities data and vocabularies
+To view MARC record itself, clip record number from url and add file extension (eg .marc, .json)
+
+MARC record has 0 or 1 of LitF true/false to indicate whether the item is Literary Fiction
+
+##### Publication / Physical info
+26x fields: publication (sometimes keyword indexed)
+- 260 publication, distribution, etc (imprint) -- for older records
+- 264 production, publication, distrivution, manufacture, copyright notice
+redundancy: have to check both fields to capture the info; not always repeated or consistent
+
+3xx fields: for physical characteristics (rarely indexed)
+- 300 physical description (how many volumes, size, presence of illustration)
+- 310/321 publication frequency (for serials)
+- 342 geospatial reference data
+
+##### Notes are fields 500-599 (also usually keyword indexed)
+general, binding (563), content (505 - for multiple works in one volume), summary (520) - uncommon for old, reproduction, local
+- can I find all the volumes with binding info present?
+    - HOWEVER the MARC record has been applied to the 
+    
+MARCEdit can help turn MARC forms into more human-friendly forms
+
+##### Identifiers: 0xx fields
+- Local System Control Numbers:
+    - 001 - HathiTrust record ID; this is what catalog records are
+    - 003 - tells us what the 001 is; should all be MiAaHDL (Michican Anne Arbor Hathi Digital Library), other places will have something else... but not all library systems pay attention to 003, so stuff not from HT might be junk or misleading. some systems have OCLC numbers in 001 (because some systems use OCLC for their record numbers); check for this too
+- numbers to follow a title through different systems:
+    - LoC control number: 010 (41% of records have this)
+    - ISBN: 020 (only 27% of records have this)
+        - might have book original price attached to the ISBN also, watch for this
+        - none of my books will have these
+        - HathiTrust in theory has the best ISBN records
+    - ISSN: 022 (1%)
+    - System Control Nmber (OCLC): 035 (95% - though in theory they should all have them); this is how records get matched
+        - to use to match with other library systems or WorldCat
+    - 086: government document classification number (65% of gov docs have these; 10% are invalid)
+    - 776: OCLC numbers for different formats of the same work
+- HathiTrust Item ID: 974
+    - describes the particular volume
+    - 974r gives rights
+    - 974y gives pub date, in theory; it's sort of "best guess"
+        - 1999 is a very popular pub date... which just means that it was published some time in the 20thC century, and for rights reasons they assume it was 1999
+
+Very important to treat all identifiers are strings, not numbers; don't let your program throw away leading zeroes!
+
+All of these categories have been defined and redefined over years so it will be messy.
+
+#### Authority Data and Vocabularies
+
+When catalogs went from cards to machine-readable, they typed cards into the MARC record, but cards didn't always contain the same info that was in the MARC record, and also a human had to do this very boring data entry; there will be a lot of absences and misspellings, especially for things catalogued pre-1960
+- Have to correct MARC records manually at the level of the individual library originally holding the work; can send corrections to HathiTrust who will pass it on
+    - WorldCat is the defacto authority for metadata
+
+
 
 analysis tools
 
