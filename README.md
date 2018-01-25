@@ -124,7 +124,7 @@ redundancy: have to check both fields to capture the info; not always repeated o
 ##### Notes are fields 500-599 (also usually keyword indexed)
 general, binding (563), content (505 - for multiple works in one volume), summary (520) - uncommon for old, reproduction, local
 - can I find all the volumes with binding info present?
-    - HOWEVER the MARC record has been applied to the 
+    - HOWEVER the MARC record has been applied to all the catalog items 
     
 MARCEdit can help turn MARC forms into more human-friendly forms
 
@@ -173,7 +173,86 @@ When catalogs went from cards to machine-readable, they typed cards into the MAR
 - LC authority file: http://authorities.loc.gov
     - consult to see previous headings etc
 
-analysis tools
+#### Analysis Tools
+
+Traject: Ruby command line tool for extracting data from MARC records
+
+``` to_field "[field]" extract_marc("[content to match to]")
+```
+
+MarcEdit: can translate MARC into JSON and XML, including delimited data
+- but the headers etc will still be the MARC names, doesn't connect to human-friendly names for the categories
+- MarcEdit YouTube channel: https://www.youtube.com/playlist?list=PLrHRsJ91nVFScJLS91SWR5awtFfpewMWg
+- MARC in XML is pretty gross; doesn't take advantage of hierarchy...
+
+OpenRefine
+- data cleaning and standardization, reconcile by calling to controlled vocabulaties
+- analysis filters and facets, NER
+- programminghustorian tutorial, freeyourmetadata.org/reconciliation
+
+#### Subsetting Collections
+
+primary way of subsetting: creating collections
+- many collections already exist!
+- don't have to be a member to create collections
+- collections of about 10 thousand works are where you want to contact HathiTrust to get them built since works have to be added to collections manually
+    - even a spreadsheet of HathiTrust numbers doesn't help make a collection, though it *does* help make a workset
+    
+what's the difference between a collection and a workset?
+- collections can include full-view and restricted; worksets must be full-view
+- algorithms that run on collections just won't work on restricted volumes, except for rsync (the extracted features algorithm)
+
+#### Making a workset
+- Make a collection: do a full text search, then check checkbox for works you want to include
+- Download the metadata to get a list of volume IDs
+- Upload a list of HathiTrust volume IDs to create an HTRC workset.
+    - Files must be in CSV (comma-separated-value) or TXT format. The only required field is HathiTrust ID (for example, hvd.hn5f64) which should be the first column of your data. A collection metadata file downloaded from HathiTrust can be uploaded without any editing.
+    
+It would be fun to see how much of Tracy and Frank I can find -- I bet it's a decent amount
+
+Kevin Page and David Bainbridge - workset creation for scholarly research, developing ways to refine worksets based on their subject matter
+David Bainbridge also working on Solr search
+solr1.ischool.illinois
+
+### To get my stuff:
+- for a "dataset" (to play on my laptop)
+    - Contact feedback?; likely to talk to Angela; it has to be for research
+    - see their page about "datasets" -- sign paperwork to get info
+- for a "workset" (to play with HTRC algorithms)
+    - I will need a list of volumeIDs
+    - to get volumeIDs -- use hathifiles to spot things printed in my period and extract their volumeIDs
+        - (the full list of all of hathifiles will be too large to open in excel but I can scrape it basically with grep)
+        - (likely to get 2-3% junk results)
+
+they're hoping later this year to make metadata more effectively available, because it's not copyrighted and lots of people want it
+
+### Getting works printed in my decade
+
+#### Original instructions to import selected rows from HathiFiles
+1. Download hathi_upd_20171201.txt [for practice; this is what's hard-coded in the grep command right now]
+1. Use the single line script in Grep_Sed-PowerShell.txt to select and save rows from sample HathiFile for items published in 1890’s.
+    - If using a Mac, you can start Terminal by holding down command + space, typing Terminal and pressing enter. Change into folder containing the HathiFile or adjust paths in script accordingly. Note, copy and paste will lose tab characters, must be reinserted using ctrl-v followed by tab.
+1. Import into MS Excel or other spreadsheet application, being careful to import fields as text (not numbers). 
+    -You will have best results if you open Excel and use the Data Menu to import from Text File.  Remember to change each field being imported from General to Text or Date as appropriate for the values
+1. For column names, see: https://www.hathitrust.org/hathifiles_description
+1. Try reordering (for example) by Publication year (column Q) or HathiTrust Record Number (column D) which will collate serial volumes. HathiTrust Record numbers can be used to link to catalog records and Bib API in HathiTrust.
+
+#### My version of the grep command:
+```
+grep "	179[[:digit:]]	" hathi_upd_20171201.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" | sed -E "s/$/\"/" > VolsPublishedIn1790s.tsv
+
+grep "	1789	" hathi_upd_20171201.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" | sed -E "s/$/\"/" > VolsPublishedIn1789.tsv
+```
+manually add 4 tabs in command line so it will run right -- tap ctrl-V then tab to insert
+
+update the txt file to match whatever I'm running it on
+
+
+### Problems I am noticing:
+- Because of the way they 'unify' MARC records, each invididual volume of a multi-volume novel is usually labelled as just being that novel; novels are often missing a volume somewhere; this makes 18thC records particularly inaccurate
+- The site seems to expect us to work on groups of texts so small that even I would consider Just Reading Them as an appropriate alternative
+
+
 
 ## January 23
 
