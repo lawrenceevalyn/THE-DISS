@@ -56,6 +56,60 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 
 # Research Log
 
+## January 25
+
+### Mastering Metadata workshop
+
+#### HT Metadata availability, coverage, quality
+
+*Coverage*
+- bibiographic (descriptive) metadata generated from MARC provided by HT members
+    - in case of duplication, Zephir picks 'best' record
+    - this means that if there are two copies of the same edition of a work, they both have the same metadata applied from whichever copy was deemed "better"
+
+each bibliographic catalog record is linked to 1 or more volumes / items
+- each title (esp in my period) is likely to have many volumes (16 million total volumes; 8.4 total items
+)
+- catalog records are per title, other metadata is per volume -- watch for this
+reading/dissecting a MARC record
+
+*Completeness*
+- using records from libraries built up over hundreds of years; completeness will vary WIDELY
+- everything has a title, most everything has a publication year, and 99% have OCLC numbers
+- only 80% subject headings, only 65% have call numbers
+- mostly able to find fiction-only -- but then only 27% of 'fiction' items have subject headings
+    - fiction doesn't have genre assignments
+    - also as Ted Underwood's "Understanding Genre in a Collection of a Million Volumes" points out, physical volume has multiple genres in it
+
+*Accuracy and quality*
+- MARC language codes often don't follow codes for translations, eg "engger" for english translation of german text (won't show up as english)
+- Librarians pretty good at author's names, but less good with names that appear in titles and keywords
+- Public-domain texts sometimes/often accidentally restricted is source libraries 
+- publication dates reflect reprintings rather than first printings; works may be much older than they seem
+    - David Bamman "Estimating the Date of First Publication in a Large-Scale Digital Library"
+    
+www.hathitrust.org/data
+
+*Ways to get metadata in bulk:*
+- OAI-PMH harvest: public domain only, MARC or Dublin Core in XML, few hundred at a time openarchives.org
+- Bib API call: returns MARC in JSON or JSON & XML; up to 20 at a time; 
+- hathifiles file download: returns tab-delimited **selected** metadata; no subjects, for example
+
+OCLC number points to print record of phycial book, also records for the digital edition of that work in HathiTrust
+
+Page-level metadata
+- how many pages in the work, how many lines of text, how many tokens, tokens with part-of-speech IDs
+
+HTRC Extracted Feature Solr Search: experimental, combine metadata and page/token search to find volumes and pages of interest
+
+#### Reading/Dissecting a MARC record
+
+"MAchine Readable Cataloguing" : Library of Congress MARC 21 standards
+
+authorities data and vocabularies
+
+analysis tools
+
 ## January 23
 
 ‘Hard times produce extraordinary people. I don’t know what the practical application of that thought could be.’ - Doris Lessing’s autobiography
