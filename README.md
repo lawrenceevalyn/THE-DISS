@@ -159,7 +159,19 @@ When catalogs went from cards to machine-readable, they typed cards into the MAR
 - Have to correct MARC records manually at the level of the individual library originally holding the work; can send corrections to HathiTrust who will pass it on
     - WorldCat is the defacto authority for metadata
 
+##### Authority records
+- identify, then differentiate or distinguish, info to support consistency
+- HathiTrust uses the authoritative form used by the submitting library
 
+###### Names
+- VIAF (Virtual International Authority File) links different countries' authoritative names of authors - viaf.org
+ - Authority records often include gender; old German records include occupation
+
+###### Subject and other controlled vocabularies (6xx fields) in MARC
+- taken from LoC Subject Headings, LoC Fenre/Form Terms for Library and Archival Materials; MeSH (Medical Subject Headings)
+- Terminology for subject will change over time; updated records will also find things under old terms (since they're connected), but if contributor hasn't updated their vocabulary only the old subject will be attached
+- LC authority file: http://authorities.loc.gov
+    - consult to see previous headings etc
 
 analysis tools
 
