@@ -180,6 +180,58 @@ UC Berkeley published annual statistics -- major discrepencies at the world wars
 
 (This seems to me to be a MUCH MUCH better case study for HathiTrust's relevance to the social sciences)
 
+#### talk 4
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184188
+
+We show how faceted search using a combination of traditional classification systems and mixed-membership topic models can go beyond keyword search to inform resource discovery, hypothesis formulation, and argument extraction for interdisciplinary research. Our test domain is the history and philosophy of scientific work on animal mind and cognition. The methods can be generalized to other research areas and ultimately support a system for semi-automatic identification of argument structures. We provide a case study for the application of the methods to the problem of identifying and extracting arguments about anthropomorphism during a critical period in the development of comparative psychology. We show how a combination of classification systems and mixed-membership models trained over large digital libraries can inform resource discovery in this domain. Through a novel approach of “drill-down” topic modeling—simultaneously reducing both the size of the corpus and the unit of analysis—we are able to reduce a large collection of fulltext volumes to a much smaller set of pages within six focal volumes containing arguments of interest to historians and philosophers of comparative psychology. The volumes identified in this way did not appear among the first ten results of the keyword search in the HathiTrust digital library and the pages bear the kind of “close reading” needed to generate original interpretations that is the heart of scholarly work in the humanities. Zooming back out, we provide a way to place the books onto a map of science originally constructed from very different data and for different purposes. The multilevel approach advances understanding of the intellectual and societal contexts in which writings are interpreted.
+
+### Hands-On Module
+
+#### jupyter
+
+https://hub.mybinder.org/user/ds-modules-htrc-uncamp-lhu2h60t/tree
+
+jupyter hub with the binder extension makes it easy to use python in classrooms because people don't have to install it locally
+
+walkthrough: https://hub.mybinder.org/user/ds-modules-htrc-uncamp-lhu2h60t/notebooks/01-setup/01-HTRC-Extracted%20Features.ipynb
+
+#### TextThresher
+
+How can HTRC get more researchers using its archives?
+Need to let researchers identify and label the corpora, and then query by that structure.
+Two approaches:
+1. Teach people to write the document parsing scripts
+2. Get Humans To Do It (usually waves of undergraduates)
+   - humans are much better at event identification, action sequencing, recognizing metaphor, sarcasm or irony
+
+TextThresher lets you work with a different workforce; 10-year jobs can be 1-year jobs
+
+case study: the Deciding Force project, trying to see when and why police and protestors decide to use force
+- actions happen inside events, which happen inside campaigns, which happen inside cities, and each layer has impacts, and everything is occuring over time; can't program to identify the interactions
+
+Two-stage content analysis:
+1. Instead of having people look through a long article for a hundred variables, they just go through and mark the 5 units of analysis: just mark the parts of the article that are about what protestors are doing, what police are doing, etc
+2. Display just the smaller unit of text to someone and ask them more complex questions about its content; if it's about protestor action, ask eg how many protesters are there; and then ask them to highlight the part of the text that justifies their answer
+   - (this is also honestly a good way to teach students close readings, 
+   
+If researchers care about 70 things in relation to each event, the *wrong* way to ask people that is to give them a list of 70 questions for each event. Instead, structure the questions hierarchically so that they only get follow-up questions when they're relevant; on average, people actually only have to answer 9
+   
+df.goodlylabs.org
+
+Have several people classify the same thing, validate against each other
+
+After you've done a lot of this, you have extremely granular and accurate data that *can* be used for machine learning
+
+#### LC Labs & Collections As Data
+
+The jupyter notebook for Color clusters in images in Library of Congress collections: http://nbviewer.jupyter.org/github/LibraryOfCongress/data-exploration/blob/master/Dominant%20colors.ipynb
+
+Documentation increasingly seems crucial for expanding *meaningful* research access -- I'm really digging jupyter as interactive documentation to highlight *use*
+
+Their crowdsourcing approach is 'minimal viable' instructions
+
+
 ## January 25
 
 ### Mastering Metadata workshop
