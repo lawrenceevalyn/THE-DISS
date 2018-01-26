@@ -125,6 +125,61 @@ HathiTrust full of problems but why work on anything else?
 
 ### Use Cases
 
+#### talk 1
+
+how can people figure out what is there? how to encourage social sciences uses? call numbers are not enough -- only 45% have call number.
+
+Trying to produce summaries
+
+Make a database with MARC records, trying to find gaps and fill them with other sources (mostly OCLC APIs)
+Four classifications to create dictionaries: LC subject headings, LCCN (social science codes), Dewey Decimal (social science casses), UDC (social science classes)
+
+What is a duplicate? They took one vol of multivolume works; considered all editions of a work to be the same thing -- I want to treat eds and vols as unique but not copies of the same ed & vol... I also want to reason outward from implied volumes (like vol 1 of Anna St Ives)
+
+deduplication approach: volume ID + discipine + OCLC
+
+They kept duplicate records that had multiple classifications
+
+(They appear to be trying to identify works that are *about* the social sciences, which doesn't seem to me to be something that would be useful *to* social scientists?)
+
+#### talk 2: quantifying descriptiveness of writing
+Sayan Bhattacharyya
+
+immediate context: undergraduate classrooms; teaching computational thinking
+
+"show, don't tell" doesn't work when you're writing about a context your readers can't interpret; you have to just tell them what things mean
+
+#### talk 3: UC ClioMetric History Project
+studying histories of universities
+
+uccliometric.org
+
+working with semi-structured information like student registers (unlike unstructured novels); relative position is very important and valuable
+
+Formatted Optical Character Recognition
+
+Very helpful that the works in question have been scanned several times; for one register, they have 5 scans, which they OCR with 4 different programs (plus Hathi's OCR), and then compare
+
+build a database for each transcription, of each person who appeared; link where on the page records appeared; remove all but the highest-quality of each person's record; end up with a very high quality database
+
+their database: everyone who has gone to uni in California; also course catalogs, faculty, professional directories (teachers, doctors, etc) -- 1900 to 1960! This is an INCREDIBLE resource
+
+working on student transcripts post 1946
+
+UC Berkeley published annual statistics -- major discrepencies at the world wars which seems to reflect actual differences in how two parts of the university calculated the info; their methods stunningly effective
+
+##### my takeaway: the role of domain expertise is to design/locate good points of comparison to contextualize and validate experimental results
+
+(training name-gender-guesser based on social security data)
+
+"name score": first names capture a lot of information about the social class of their parents
+- all UC students were above-average in class
+- female students tended to be higher income than male
+- stanford higher income than berkeley, after about 1910s when they implemented and then raised tuition; exaggerates the impact of women's higher income
+(capturing what parental income was a necessary prerequisite for attendance -- women needed to have more resources behind them to make itto college, esp when then college is more expensive)
+
+(This seems to me to be a MUCH MUCH better case study for HathiTrust's relevance to the social sciences)
+
 ## January 25
 
 ### Mastering Metadata workshop
@@ -314,6 +369,8 @@ grep "	1789	" hathi_full_20180101.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" 
 manually add 4 tabs in command line so it will run right -- tap ctrl-V then tab to insert (use 'show invisibles' to see where tabs need to go in the above)
 
 update the txt file to match whatever I'm running it on
+
+in the output, I have to add "htitem_id" as the title of the first column and delete the other columns
 
 
 ### Problems I am noticing:
