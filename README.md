@@ -34,6 +34,7 @@
 1. I could trace the development of a single idea / theme in the decade:
     * convents! you can store your women in them, but what's going to happen in there?
     * the invention of "debt" as a concept, and a sin (compared to credit)
+1. What percentage of print materials contained poetry/songs? How does verse adapt to its print context?
 
 Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
 * old texts are reprinted to fit current needs (legacy is happenstance)
@@ -177,8 +178,7 @@ When catalogs went from cards to machine-readable, they typed cards into the MAR
 
 Traject: Ruby command line tool for extracting data from MARC records
 
-``` to_field "[field]" extract_marc("[content to match to]")
-```
+``` to_field "[field]" extract_marc("[content to match to]")```
 
 MarcEdit: can translate MARC into JSON and XML, including delimited data
 - but the headers etc will still be the MARC names, doesn't connect to human-friendly names for the categories
@@ -238,27 +238,147 @@ they're hoping later this year to make metadata more effectively available, beca
 1. Try reordering (for example) by Publication year (column Q) or HathiTrust Record Number (column D) which will collate serial volumes. HathiTrust Record numbers can be used to link to catalog records and Bib API in HathiTrust.
 
 #### My version of the grep command:
-```
-grep "	179[[:digit:]]	" hathi_upd_20171201.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" | sed -E "s/$/\"/" > VolsPublishedIn1790s.tsv
 
-grep "	1789	" hathi_upd_20171201.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" | sed -E "s/$/\"/" > VolsPublishedIn1789.tsv
-```
-manually add 4 tabs in command line so it will run right -- tap ctrl-V then tab to insert
+```grep "	179[[:digit:]]	" hathi_full_20180101.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" | sed -E "s/$/\"/" > VolsPublishedIn1790s.tsv
+
+grep "	1789	" hathi_full_20180101.txt | sed -E "s/	/\"	\"/g" | sed -E "s/^/\"/" | sed -E "s/$/\"/" > VolsPublishedIn1789.tsv```
+
+manually add 4 tabs in command line so it will run right -- tap ctrl-V then tab to insert (use 'show invisibles' to see where tabs need to go in the above)
 
 update the txt file to match whatever I'm running it on
 
 
 ### Problems I am noticing:
 - Because of the way they 'unify' MARC records, each invididual volume of a multi-volume novel is usually labelled as just being that novel; novels are often missing a volume somewhere; this makes 18thC records particularly inaccurate
-- The site seems to expect us to work on groups of texts so small that even I would consider Just Reading Them as an appropriate alternative
+- The collection-building process seems to expect us to work on groups of texts so small that even I would consider Just Reading Them as an appropriate alternative
 
+<!-- As predicted the solution to “I can’t figure out how to do anything at all with this resource” is “show up in person and people will share the private google docs containing instructions and bits of custom code” -->
 
+### Keynote
+
+#### "Increasing our Vision for 21st-Century Digital Libraries"
+Elizabeth Lorang and Leen-Kiat Soh, U Nebraska-Lincoln
+projectaida.org
+
+Library of Congress's American Memory digital collection in 1998 was the first online digital collection -- departed from previous practice by allowing access to full texts. Browse collections by time, place, and later topic, rather than by item -- a "main door". This remains the foregrounded entry point now, 20 years later; much-expanded content options, but no change in *ways* of accessing information. Same in most large-scale digital libraries.
+
+"More product, less process": a framework to address backlog of archival materials; prioritize getting collections accessible rather than dealing with them in rich detail. "establishes an acceptable minimum level of work" sufficient to encourage use (which then becomes the norm)
+
+For digital libraries, MPLP means: digital image; basic bibliographic metadata; for printed material only, basic OCR; text-based searching of metadata and OCR'd text, browsing interface via metadata
+
+What does it really mean to process digital materials to an extent that they are findable and usable for researchers? Are they truly accessible?
+
+Some libraries now allow access via APIs and bulk downloads; a significant development for certain kinds of research and use
+
+"Main doors" introduce visitors to the collections and highlight particular kinds of use / access
+
+Not enough for the materials to exist -- users must be able to find them
+The current processing and access benchmarks are simply not adequate by these factors
+
+The "workset model" of HathiTrust is an attempt at another model
+
+Power of interfaces as normative to structure even the kinds of questions
+
+What has been the impact of 20 years of keyword searches for users' ideas of what's of value in collections?
+
+Common use of keyword search is taken as evidence of the need for keyword search, but of course people use keyword search when it is the default and often only way to interact with materials
+
+##### Images analysis as basis for exploring textual materials
+
+(Would be cool to see something that automatically resized images based on the dimensions of the work)
+
+Visual cues are generaly noticable in fascimiles but users can't do more than observe them
+
+Resources invested in making some collectons more detailed or more usable will reinforce their use -- thus raising the possibility of only more firmly reinscribing the biases and canons that literary and cultural studies have been working to explode
+
+Work with historic newspapers: highly challenging; highly heterogeneous (= highly rewarding)
+
+keyword search assumes that researchers want to find names or dates, but the ability to find particular kinds of content is no better than pre-digital... can we find poems?
+
+(This is exactly what I wanted to do with poems and epigraphs in 18thC novels!)
+
+Inspired by the cognitive power of human vision in abstracting what we see and learning to recognize patters
+
+their paper: http://www.dlib.org/dlib/july15/lorang/07lorang.html
+
+This is exciting enough that all I can think about it kidnapping it to find poetry in the 1790s and doing my whole dissertation on that -- or poetry in a longer stretch of time? 1750-1820?
+
+The promise is that it will also work in languages other than English, further extending the promise of studying outside of pre-defined silos
+
+#### Lightning talks
+
+##### David Bamman "The impact of OCR quality on natural language processing"
+
+choice of training texts is always crucial, changing domains trickier than it seems: @dbammam describing how NLP trained on news is bad as identifying subjects that come after their verbs
+
+do we just get garbage, if we add OCR errors on top of that?
+
+use Gutenberg and manual identification to build a body of accurate part of speech tagging: compare this true transcription with a bunch of OCR transcriptions from HathiTrust
+
+HathiTrust has 400 copies of Robinson Crusoe -- align those to the Gutenberg and compare to evaluate the OCR accuracy, and compare that to POS
+
+Linear relationship between quality -- as OCR gets worse, POS gets worse (and syntax trees get worse) but gradually rather than with a horrible cliff
+
+##### U Iowa writers workshop
+
+Impressive change in gender balance over time -- strikingly male-dominated for a time but now balanced
+
+Text data collection: Style Card, LitMap (location references)
+
+Wanted to work at scale with contemporary literature, which is in copyright -- data capsule to the rescue
+
+What was the data-cleaning process that brought them from 2500 vols 280 authors -> 1500 vols 270 authors
+
+Looking at locations in their writing is a cool way to combine biographical data and literary data
+
+(Want to make data explorable so people can find new research questions..... I approve strongly of the avoidance of a black box, but are there times where the creation of tools/manipulable datasets dodges the work of providing analysis/interpretation/conclusions ?)
+
+##### "Evaluating the Chicago School: Why Supervised Algorithms?" - Dan Costa Baclu
+
+Interesting that one must not justify using supervision; unsupervised neural networks now becoming the norm
 
 ## January 23
 
 ‘Hard times produce extraordinary people. I don’t know what the practical application of that thought could be.’ - Doris Lessing’s autobiography
 
 This seems to be the central problem of A Simple Story. And perhaps of the whole novel of suffering in the first place?
+
+##### Laura Nelson, Northeastern U: "Collections as Data"
+
+(what is her first chart? it's talkin about my stuff!)
+
+Comarative Histrical Social Science: what were the political identities that led to the French Revolution, class or neighbourhood? (Stephen Gould) -- extremely specific questions about time periods, people, etc
+
+social sciences have very specific theories of sampling and generalizability; not comfortable using eg google books without very detailed info on data-generating process
+- focus on specific authors, organizations, and publications
+- missing metadata can be a dealbreaker; missing data can be a dealbreaker
+- focus is not on 'high culture'; interested in periodicals, not novels -- often not a high priorities for libraries, and missing data can *really* be a dealbreaker
+
+###### Example: women's movements
+Is there an isomorphism between ideas and social structures? (Ideas of individuals and groups have to match to social structure or the culture is unstable)
+
+Did it the hard way with hand-digitized materials 1860-1975, found a difference in NYC vs Chicago
+- NYC change happens through individuals, generalizing experiences of individual women and abstracting to theories of social structures
+   - more decentralized social structure (lower graph centrality score)
+- Chicago change happens through insititutions making concrete changes to policies
+   - spoke-and-wheel social structure (higher graph centrality score)
+
+The 'who cares': which structures lead to lasting social change? how do we translate ideas into practice?
+
+(she is using jupyter)
+
+It's reassuring to see someone taking missing data taken so seriously, rather than kind of hand-waving it.
+
+##### Scalable Detection of Text Reuse
+
+Original approach: partitioning docs into windows, partitioning windows into ngrams - all in RAM, which is a terrible idea!
+
+Intertext makes it happen at scale!
+(intended to be like commonplacecultures but more user-friendly)
+
+3grams in a sliding window; take minhashes of the window
+
+github.com/yaledhlab/intertext -- it looks like this is working well enough that I could use it to answer my questions about 18thC Shakespeare!
 
 ## January 21, 2018
 
