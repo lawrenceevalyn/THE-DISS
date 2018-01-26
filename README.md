@@ -57,6 +57,74 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 
 # Research Log
 
+## January 26
+
+### Consistency and confidence in the million book library
+David Minmo
+
+What the computational tools we use with big libraries ACTUALLY do — why they’re powerful and why (misleading)
+
+Point wise mutual information
+Topic models
+K means clustering
+— second order tools
+
+But what we really want is to create a model — a miniature that orients us, possibly from a different perspective
+
+Moldy strawberries: we only throw away the moldy ones. So if a model is flawed, don’t throw away the whole thing. — but does this entirely apply? You DO throw away 
+
+#### Theory: frequency and correlation
+
+Optimist: “it’s ok to have noisy data if it’s big data because it averages out” but big data is just lots and lots of small data
+
+First order models just the words; second order models look at words appearing together
+
+#### How do we find patterns?
+
+Trying to find what math calls a basis: simple components that can combine complexly/richly — represent all observations as combinations of components
+
+Bases: three directions in 3D space; primary colors
+
+Matt Jockers LDA buffet asserts that author’s mix set concepts together (like pride + prejudice + zombies) — eg topics
+
+(I think i disagree with this model because I don’t think certain aesthetic considerations count as topics.....??)
+
+#### Are patterns reliable?
+
+We are interested in a subset of the patterns that exist — the ones that aren’t ocr errors
+
+Bootstrapping : checking the reliability by re-running your process with random samples
+
+Ranking similarities highly variable — #1 the first time likely to still be in top 5 in other runs, but the first #5 result could be #25 second time you run it
+
+If you do 20-25 bootstrap samples they converge on something more stable
+
+#### Can we affect which patterns are found?
+
+Topic modeling science fiction mostly cluster around character names; it tells us authorship but we already know that
+
+Goal: find patterns that do not just correlate with known variables
+
+Can’t just remove words that only appear in 1 author — 2 people wrote dune. Can’t do only appearing in 2 authors because lots of people have characters named Paul...
+
+The problem isn’t that we don’t want to know about appearance of the word desert; Problem is that we want to know more about desert than that it appears in dune
+
+Thresholds for “overuse”: bring outliers down to hypothesis thresholds
+
+Drop max partition proportion : topics no longer dominated by just one author 
+
+#### closing
+
+All sorts of tools are really just word concurrence
+
+Don’t trust one model. Averaging over ~20 models on slightly varied datasets provides good info about reliability
+
+Modification to model input can have predictable effects (we can make progress)
+
+HathiTrust full of problems but why work on anything else?
+
+### Use Cases
+
 ## January 25
 
 ### Mastering Metadata workshop
@@ -379,6 +447,18 @@ Intertext makes it happen at scale!
 3grams in a sliding window; take minhashes of the window
 
 github.com/yaledhlab/intertext -- it looks like this is working well enough that I could use it to answer my questions about 18thC Shakespeare!
+
+##### Lightning talks
+
+Pine Mountain Appalachian archives are telling a story about the natural world, local practices -- and leaving out coal. Something important here about the role of the researcher as expert who can spot absences? (esp connected to Laura Nelson's observations on missing data as a dealbreaker)
+
+abbyy finereader: OCR software
+
+(Don't ask me to compare the red parts of two graphs when red means something different in each graph! D: )
+
+(I only grow more and more confident in my convictions re: what topic modelling can and cannot identify.)
+
+Library of Congress crowdsourcing to find images & their captions is cool, though as always I want to know what "the crowd" gets out of helping... something that let users find out more about the images in some fashion might make it informative/enjoyable. (Also I'm not sure if it's working, if my squares disappear after I click "done"? Some kind of feedback showing that I did it right would help!)
 
 ## January 21, 2018
 
