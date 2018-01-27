@@ -35,6 +35,7 @@
     * convents! you can store your women in them, but what's going to happen in there?
     * the invention of "debt" as a concept, and a sin (compared to credit)
 1. What percentage of print materials contained poetry/songs? How does verse adapt to its print context?
+    * what poets get used by whom?
 
 Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
 * old texts are reprinted to fit current needs (legacy is happenstance)
@@ -58,6 +59,12 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 # Research Log
 
 ## January 26
+
+Lots more stuff on the HathiTrust UnCamp is below, but I think the real takeaway is the way that it has shifted my dissertation interests:
+
+![spreadsheet comparing my research Qs](/figures/artisanal-spreadsheets/research-Qs-2.png)
+
+-----
 
 ### Consistency and confidence in the million book library
 David Minmo
@@ -336,6 +343,10 @@ When one scholar discovers something that fills a gap, how can they propagate th
 As a practical path forward, we seem to turn to combining multiple sources.
 
 ### Final Plenary
+
+If researchers have created a dataset and corrected the OCR, how do they make that available? Should HathiTrust come up with some facility to offer multiple OCR versions? HathiTrust does get re-OCR'd material periodically -- for a humanities research who has a dataset, if the dataset just indicates IDs they won't know what version of the OCR they are working on
+
+Advocating for HathiTrust not to depend on Google for OCR: how can HathiTrust work within its resources to improve OCR
 
 ## January 25
 
