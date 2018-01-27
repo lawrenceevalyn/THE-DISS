@@ -231,6 +231,111 @@ Documentation increasingly seems crucial for expanding *meaningful* research acc
 
 Their crowdsourcing approach is 'minimal viable' instructions
 
+### How To Deal With Missing Data
+
+Amanda: interested in this because she's interested in archival absences generally; for right now, it's enough to just say 'hey this is missing' which is an answer in itself.
+
+But archives are just a bunch of stuff: how do you even know if there is supposed to be something there?
+
+Different types of missing: collected but lost, vs never collected
+
+My kind of missing: I have a title but nothing else for one text, and a full text for another -- how do I deal with those holes and not replicate inequalities of attention?
+
+Jonathan: How do we make inferences? If we can't describe the population from which we have a sample, what are we even learning?
+
+Angelica: get a lot of user feedback asking for data or items to be added, but they have no good methods to do that
+
+Jeffrey Young: see a lot of silos; data isn't interoperable; how do you connect those dots? If something is in a silo somwehere, how do you find it? How do you tear down barriers to find
+
+Nathan: 80 various legacy digital projects with little to no metadata, but still serving a very loud bunch of scholars who don't want anything done with them; they're starting a new digital repository on campus and want to bring everything in and standardize. Dublin Core just ot start, with an army of undergraduates -- and then authority control.
+
+Paul Fogel: responsible for generating a lot of content in mass digitization projects; curious about places where they're not filling the needs; also deeply involved in quality efforts: removing data where you think it is, if OCR is terrible the data is not there even though you think it is
+
+Stanislav: have to look somewhere else too to compare HathiTrust; is there a way to contribute it back.
+
+HathiTrust doesn't allow sharing onward of resources, tension with open access
+(but open access can be less sustainable, so those resources don't last)
+
+Hathi's balance between being open and being protective/responsible
+
+Hathi gets us so close to the beautiful dream of breaking out of the silos, but that just means it's more frustrating when we hit the walls and can't just tidy up the metadata ourselves when we notice a gaps; it's frustrating to have to send feedback outward
+-- but it would cross a major line for HathiTrust to become the canonical metadata source
+
+Hathi's opposite is the Internet Archive: a wild world of not being able to find anything easily, but all kinds of things are there
+
+Have there been crowdsourced project for correcting metadata? -- Wikidata
+
+Sustainability depends on more control, but usability depends on having the data that users need
+
+More and more it's better to use large-scale tools to fix things: and if an individual project collects corrected data for thousands of items, there's nowhere to put it
+
+A lot of cleaning happens in nearly every project before any work is done, but we're duplicating effort; it would be good to be able to feed that back! But then it's so much that it's not reviewable by one person... and again it breaks the model
+
+Are we duplicating as much effort as we feel like we are? Every project is so specific
+
+Some projects actually took advantage of the redundancy! Duplication might not be a problem
+
+The question of authority is still an important one. Publication dates vary across copies -- but who's right and how do you know? The title page of the phycial volume can tell you but 
+
+The best data is chosen, based on scoring
+
+Archive Grid service: tries to identify archives and provide a portal
+
+the scale of texts is mind-boggling --  if you compare it to what exists in physical archives in europe, those items are totally unknoable
+
+Just because it's digitized that doesn't mean anybody can find it; especially digitizing from microfilm... you're putting more noise into your system
+
+social science framework of sample/population: something like google books can't be your sample to study a population of "what people thought"; my approach has been to sort of pre-emptively treat each archive/bibliography as the new population from which I sample
+
+you know there is bias, but you don't know what it is
+
+study of google books found that it's not suitable as a foundation for cultural analytics because it's shaped too strongly by archival failures of various kinds
+
+if we can get some sense of the world of published books -- WorldCat? Alrich Catalogue for journal publications? -- we can compare those against individual archives...
+
+Publication as something that also reinforces gaps: HathiTrust has little emphasis on manuscripts, a very few pamphlets; so maybe it's just not a helpful resource to answer questions about 
+
+Combining multiple sources for analysis: the path forward? Does the data capsule allow this? The technology itself could allow you to bring in URIs from elsewhere -- a good direction?
+
+Or is the thing to signal strongly to researchers to op-out if they are not interested in printed materials from this set of years? Librarians quest for an impossible goal of everything in one place that the librarians have total control over... but there should be different sources for different kinds of work.
+
+HathiTrust's goal is a cultural legacy?
+
+Librarians want perfect complete granular comprehensive universal records -- archivists are just happy if there's a record anywhere at all / the sticky note from a decade ago doesn't fall off the box
+
+Tension between structured data and unstructured data.
+
+Is this about things missing, or about search? Biases built into search engines: what about all that stuff that's on page 40 of your search that might be relevant. Ranking algorithms might have bias... And full-text search is not really full-text search, there's indexing under there. And you're relying on the quality of the OCR.
+
+Search vs query: search great for text, query for other kinds of data
+
+Is Hathi's role just capturing and disseminating, or is there a point where they ever move on to cleaning, or adding value to what you have? (Version control? Actual capture of metadata record?)
+
+The one thing siloing does well is define goals and boundaries of an inquiry or resource. If they only interoperated!
+
+Focus deeper on what HathiTrust does well, make the OCR better? HathiTrust is already pretty wide. Improving OCR also improves the tools
+
+I work in the 18thC where OCR doesn't: improved OCR would fill a lot of gaps in one fell swoop for me at least
+
+OCL enables interoperability in a way you had nothing before; OCR adds another layer of interoperability
+
+#### Conclusions
+
+Many kinds of "missing":
+- never collected
+- collected but lost
+- seems like it's there but it's not (unusable OCR)
+- never catalogued, never encoded
+- protected by copyright restricted can be "missing"
+- collected but held somewhere obscure or unreachable
+
+There's a difference between knowing that you're missing something, and knowing what you're missing
+
+When one scholar discovers something that fills a gap, how can they propagate that back to help others?
+
+As a practical path forward, we seem to turn to combining multiple sources.
+
+### Final Plenary
 
 ## January 25
 
