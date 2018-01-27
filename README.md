@@ -28,6 +28,7 @@
         * Check out depictions of future London as a ruin
     * More and WW both use "genre" fiction for their non-"genre" works?
     * How to see and make sense of generic hybridity? (Gothic as cross-generic mode)
+    * how do works try to market themselves? how does that ontology compare to current ontologies?
 1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
     * How do individual authors cultivate fame during my decade? Who is most successful? How does that correspond with later fame?
     * The Romantics are like the Della Cruscans, except we remember them
