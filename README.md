@@ -37,6 +37,7 @@
     * the invention of "debt" as a concept, and a sin (compared to credit)
 1. What percentage of print materials contained poetry/songs? How does verse adapt to its print context?
     * what poets get used by whom?
+1. something something orientalism and cosmopolitanism and 18thC Arabic literature?
 
 Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
 * old texts are reprinted to fit current needs (legacy is happenstance)
@@ -46,8 +47,7 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 # Current Priorities
 * Assemble a **short** document of guiding principles
     * Figure out what question I, personally, want most urgently to know the answer to
-* Start setting up a relational database?
-* Start drafting the first chapter
+* Write a thesis proposal for the end of Feb
 
 # Writing workflow
 * Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc.
@@ -55,11 +55,23 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 * Let it all accumulate into groupings organically. Don't try to organize too soon.
 * Don't create empty spaces for thoughts to go in the future. (Add research questions and hypotheses instead.)
 
-# Next-do: identify my specific research question
+# Next-do: put together potential research Qs to talk over with Gillespie
 
 # Research Log
 
-## January 26
+## January 29, 2018
+
+Great meeting with Alex today -- soothed many of my anxieties, esp. re: fields debrief.
+
+Takeaways: this is a DH-centric dissertation that is trying to nonetheless win over non-DH people; I want to be an 18thC scholar on the job market.
+
+My interest is basically critical algorithm studies, interested in women and the novel at the end of the 18thC, with a gender & sexuality bent to it what will inform my work without being an explicit part of my conversations with Terry & Tom.
+
+Side project thought: while I am figuring out what's in all my corpora, I should look for works that claim to be translated from Arabic, to start accumulating data for a future project with those materials.
+
+![spreadsheet comparing my research Qs](/figures/artisanal-spreadsheets/research-Qs-3.png)
+
+## January 26, 2018
 
 Lots more stuff on the HathiTrust UnCamp is below, but I think the real takeaway is the way that it has shifted my dissertation interests:
 
