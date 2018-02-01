@@ -6,43 +6,10 @@
 * I want to do reparative research: 
     * "The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
     * "What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
-
-## 10 Questions I might want to answer:
-1. What older works were reprinted strategically during the 1790s to respond to a new context? ( / How did the timeliness of their printing affect how they were read?)
-    * How precisely can I recapture a historical moment? (timeline of the revolution correlated with weather, price of bread, etc)
-    * the impact of caffeine
-1. What general strategies did writers use, to respond to the turmoil of their political situation? Do these strategies correlate with demographic or political categories? Do different strategies dominate at different times?
-    * I increasingly think that the anxieties-writ-large of Gothic novels really did increase emotional turmoil like their stodgy critics claimed. Does that make them "bad"?
-    * I would love to spend some time on strategies of reading 'against the grain', particularly those which can give solace in times of fear. 
-    * How does one "suffer like a heroine"? Does it help?
-    * Benevolence / sentiment will also probably emerge here as strategies
-1. How much DO we know about the chapbook/pamphlet trade? How did people write, print, sell, buy, and read them? What's the difference between a chapbook and a pamphlet, anyway? What was written down from which we can reconstruct their history?
-    * How fast was the cycle of responses between pamphlets?
-1. How do our current 18thC corpora (mis)represent the works printed in the 1790s? If we work only with the easiest-to-access corpora, what do we leave out?
-    * Can I make a reverse recommendation engine, to combat our assumptions of homophily?
-    * Most literary works aren't a single stable object at all
-    * What would decanonization look like?
-    * systematic meta-analysis of The Literature (and especially what it says about various forms of literary production), in spreadsheet form of course
-1. Does "genre fiction" operate differently from "other" fiction? Are the 1790s the origin of "genre fiction"?
-    * What history can I write of science fiction and apocalyptic fiction if I look only at the 18thC? Can I make direct comparisons to the present day?
-        * Check out depictions of future London as a ruin
-    * More and WW both use "genre" fiction for their non-"genre" works?
-    * How to see and make sense of generic hybridity? (Gothic as cross-generic mode)
-    * how do works try to market themselves? how does that ontology compare to current ontologies?
-1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
-    * How do individual authors cultivate fame during my decade? Who is most successful? How does that correspond with later fame?
-    * The Romantics are like the Della Cruscans, except we remember them
-1. I could trace the development of a single idea / theme in the decade:
-    * convents! you can store your women in them, but what's going to happen in there?
-    * the invention of "debt" as a concept, and a sin (compared to credit)
-1. What percentage of print materials contained poetry/songs? How does verse adapt to its print context?
-    * what poets get used by whom?
-1. something something orientalism and cosmopolitanism and 18thC Arabic literature?
-
-Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in the above:
-* old texts are reprinted to fit current needs (legacy is happenstance)
-* genre fiction something something?
-* too much literary celebrity inhibits legacy
+* Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in my Qs so far:
+    * old texts are reprinted to fit current needs (legacy is happenstance)
+    * genre fiction something something? 
+    * too much literary celebrity inhibits legacy
 
 # Current Priorities
 * Assemble a **short** document of guiding principles
@@ -59,6 +26,12 @@ Am I trying to make a theory of literary history? "I set out to explain the logi
 
 # Research Log
 
+## February 1, 2018
+
+Fussing with the research Qs before my meeting with Alex:
+
+![spreadsheet comparing my research Qs](/figures/artisanal-spreadsheets/research-Qs-4.png)
+
 ## January 29, 2018
 
 Great meeting with Alex today -- soothed many of my anxieties, esp. re: fields debrief.
@@ -70,6 +43,16 @@ My interest is basically critical algorithm studies, interested in women and the
 Side project thought: while I am figuring out what's in all my corpora, I should look for works that claim to be translated from Arabic, to start accumulating data for a future project with those materials.
 
 ![spreadsheet comparing my research Qs](/figures/artisanal-spreadsheets/research-Qs-3.png)
+
+### Transcription of meeting notes
+
+novels, women, late 18thC, critical algorithm studies (--> Avery Slater), lit crit as algorithmic
+
+my job in the thesis: prove that spreadsheets can answer Qs for people who think spreadsheets are the worst
+
+once we have the shape, it'll be easy to produce -- but the shape will be difficult. this is contested space that people dislike -- until they don't. when's that changeover?
+
+ask a Q multiple ways
 
 ## January 26, 2018
 
