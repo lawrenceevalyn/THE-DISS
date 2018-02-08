@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-02-08 00:22:39 -0500" ModID="AB3B9EB8-8797-4162-A8F7-2CEAC02E4D86">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-02-08 00:28:06 -0500" ModID="C3FA2B21-7561-467E-9CEB-9AE4D7A89B79">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="158" UUID="C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3" Type="Text" Created="2017-08-11 16:04:11 -0400" Modified="2017-09-10 18:38:26 -0400">
+                <BinderItem ID="158" UUID="C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3" Type="Text" Created="2017-08-11 16:04:11 -0400" Modified="2018-02-08 00:25:39 -0500">
                     <Title>Guiding Principles</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>314,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem ID="194" UUID="D606F0DD-8E54-4C22-8AB4-93D43DD3C86C" Type="Text" Created="2017-09-10 18:38:11 -0400" Modified="2017-09-10 18:38:26 -0400">
@@ -37,24 +37,24 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="457" UUID="24CAD34E-0099-49FD-B20F-02A9E671A531" Type="Text" Created="2018-01-21 16:16:39 -0500" Modified="2018-01-21 16:17:33 -0500">
-                            <Title>Design Principles</Title>
+                        <BinderItem ID="457" UUID="24CAD34E-0099-49FD-B20F-02A9E671A531" Type="Text" Created="2018-01-21 16:16:39 -0500" Modified="2018-02-08 00:27:03 -0500">
+                            <Title>Design</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>249,0</TextSelection>
+                                <TextSelection>246,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="458" UUID="115C75E7-AFFA-4FCE-900A-F0895F3CC502" Type="Text" Created="2018-01-21 16:17:42 -0500" Modified="2018-01-21 16:17:49 -0500">
-                                    <Title>6 principles</Title>
+                                <BinderItem ID="458" UUID="115C75E7-AFFA-4FCE-900A-F0895F3CC502" Type="Text" Created="2018-01-21 16:17:42 -0500" Modified="2018-02-08 00:27:10 -0500">
+                                    <Title>Tufte's six principles of design:</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>578,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3966,7 +3966,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="213" Characters="1394" Date="2018-02-08 00:12:47 -0500"></PreviousSession>
+        <PreviousSession Words="161" Characters="1046" Date="2018-02-08 00:25:26 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

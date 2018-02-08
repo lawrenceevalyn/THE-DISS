@@ -5,26 +5,6 @@ Author: Lawrence Evalyn
 
 
 
-
-
-
-
-Literally every idea I have for “research”, of any kind, goes in this document.
-
-
-
-One snippet per “thought.”
-
-
-
-Let it all accumulate into groupings organically.
-
-
-
-Look for crossover between ideas, multiple ways of approaching a given subject. Similarity of experimental method does not in itself constitute a connection.
-
-
-
 ## Reparative Reading ##
 
 
@@ -61,7 +41,7 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
-## Design Principles ##
+## Design ##
 
 
 
@@ -69,23 +49,15 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
-	•	keep underlying structures simple -- what will be rich and luscious is your content
+- keep underlying structures simple -- what will be rich and luscious is your content
 
 
 
-	•	information at exact point of need
+- information at exact point of need
 
 
 
-	•	total indifference to mode of production is critical. (oh god, I'm going to lay out my whole diss in indesign, aren't I)
-
-
-
-
-
-
-
-### 6 principles ###
+- total indifference to mode of production is critical. (oh god, I'm going to lay out my whole diss in indesign, aren't I)
 
 
 
@@ -93,31 +65,39 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
-Six principles of design:
+### Tufte's six principles of design: ###
 
 
 
-	1.	show comparisons, contrasts, differences
 
 
 
-	2.	show causality, mechanism, explanation, systemtic structure (intervention relies on manipulable causality -- can't do anything with the information without causality)
 
 
 
-	3.	show multiple variables (3 or more) -- the world is multivariate
+
+
+1. show comparisons, contrasts, differences
 
 
 
-	4.	completely integrate words, numbers, maps, graphics, etc, etc
+2. show causality, mechanism, explanation, systemtic structure (intervention relies on manipulable causality -- can't do anything with the information without causality)
 
 
 
-	5.	documentation must thorouhgly describe evidence and its sources, provide complete measurement scales
+3. show multiple variables (3 or more) -- the world is multivariate
 
 
 
-	6.	presentations succeed based on their content. for better presentations, get better content.
+4. completely integrate words, numbers, maps, graphics, etc, etc
+
+
+
+5. documentation must thorouhgly describe evidence and its sources, provide complete measurement scales
+
+
+
+6. presentations succeed based on their content. for better presentations, get better content.
 
 
 
