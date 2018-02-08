@@ -1,30 +1,23 @@
-# Research Goals
-* I want to address, somehow, the use of canons, and and consider better ways to contextualize and teach literature
-    * Somehow I want to "account for" the arc of literature in all its variety
-* I want to apply the conceptual frameworks of prototyping and models to literary research
-* I really like the Gothic; I really like everything I learn enough about
-* I want to do reparative research: 
-    * "The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self."
-    * "What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them."
-* Am I trying to make a theory of literary history? "I set out to explain the logic behind literary survival and oblivion" (Moretti Distant Reading 145) Possible theories in my Qs so far:
-    * old texts are reprinted to fit current needs (legacy is happenstance)
-    * genre fiction something something? 
-    * too much literary celebrity inhibits legacy
+# Next-do: turn outline into a thesis proposal
+* Also set up scrivener doc for diss itself (organize around Qs, delete things that don't go in diss project)
 
-# Current Priorities
-* Assemble a **short** document of guiding principles
-    * Figure out what question I, personally, want most urgently to know the answer to
-* Write a thesis proposal for the end of Feb
-
-# Writing workflow
-* Literally every idea I have for “research”, of any kind, goes in the monster scrivener doc.
-* One snippet per thought. Keep the pieces small.
-* Let it all accumulate into groupings organically. Don't try to organize too soon.
-* Don't create empty spaces for thoughts to go in the future. (Add research questions and hypotheses instead.)
-
-# Next-do: put together potential research Qs to talk over with Gillespie
+# Research questions
+1. How do our current 18thC corpora (mis)represent the works printed in the 1790s? When we work with just one thing, or just the easiest thing, what do we leave out?
+1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
+1. What older works were reprinted strategically during the 1790s to respond to a new context?
+1. What is the relationship between "genre fiction" and “literary" fiction? (Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?)
+1. If William St Clair is weak here, how much DO we know about the chapbook/pamphlet trade?
+1. something something orientalism and cosmopolitanism and 18thC Arabic literature?
 
 # Research Log
+
+## February 8, 2018
+
+I felt a burst of energy and just started rearranging all my notes! Having an outline of questions feels like such incredible progress.
+
+## February 2, 2018
+
+Notes from meeting with Alex: 
 
 ## February 1, 2018
 
