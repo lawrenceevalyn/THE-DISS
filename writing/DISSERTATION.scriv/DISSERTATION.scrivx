@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-02-08 00:28:06 -0500" ModID="C3FA2B21-7561-467E-9CEB-9AE4D7A89B79">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-02-11 14:31:40 -0500" ModID="18E2EA65-66AE-4352-B97C-9F4889241BF9">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -54,7 +54,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>547,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -70,6 +70,30 @@
                     <TextSettings>
                         <TextSelection>319,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="492" UUID="F7C7AC8C-E0B5-4376-840F-DD06F71F5682" Type="Text" Created="2018-02-09 14:08:24 -0500" Modified="2018-02-09 14:08:39 -0500">
+                            <Title>flatten translations / foreign lang issues</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="491" UUID="2AEA3492-C9F2-44DC-983C-05F8B38EFA71" Type="Text" Created="2018-02-09 14:03:54 -0500" Modified="2018-02-09 14:08:18 -0500">
+                                    <Title>How much did people read in French?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>101,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="485" UUID="F91B4BC3-8D0B-4363-A56B-AE40AA6FE681" Type="Text" Created="2018-02-08 00:14:21 -0500" Modified="2018-02-08 00:15:46 -0500">
                     <Title>Does celebrity help men but hurt women?</Title>
@@ -120,6 +144,18 @@
                     <TextSettings>
                         <TextSelection>220,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="490" UUID="CB8A1565-826C-4DA4-8CEB-401CFCF2B7A3" Type="Text" Created="2018-02-09 14:00:46 -0500" Modified="2018-02-09 14:08:50 -0500">
+                            <Title>Was the French translation standard in England?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>82,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="134" UUID="D983AC00-809B-4877-B8F4-6CB0A4ECAAFE" Type="Text" Created="2017-08-11 15:20:18 -0400" Modified="2017-09-27 19:07:55 -0400">
                     <Title>Experimental methods</Title>
@@ -3966,7 +4002,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="161" Characters="1046" Date="2018-02-08 00:25:26 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-02-11 12:16:26 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

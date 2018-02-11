@@ -121,6 +121,26 @@ sample a lot of different corpora; develop an ontology of genres; compare corpor
 
 
 
+## flatten translations / foreign lang issues ##
+
+
+
+### How much did people read in French? ###
+
+
+
+
+
+
+
+Sales catalogues of French books? Are French books in England necessarily bootleg? (Scottish pirates?)
+
+
+
+(Movements of goods from France to England generally — how did it work? Taxation data? Places outside Paris all bootlegging? )
+
+
+
 # Does celebrity help men but hurt women? #
 
 
@@ -198,6 +218,22 @@ something something orientalism and cosmopolitanism and 18thC Arabic literature?
 
 
 find how much and what kinds of Arabic literature people were reading; read 1001 nights & compare to 18thC Arabic editions; re-learn Arabic
+
+
+
+## Was the French translation standard in England? ##
+
+
+
+
+
+
+
+Was the French translation of 1001 nights the “go-to” translation even in England?
+
+
+
+
 
 
 
