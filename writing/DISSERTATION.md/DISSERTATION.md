@@ -1,6 +1,98 @@
 Title: DISSERTATION
 Author: Lawrence Evalyn
 
+# Thesis Proposal #
+
+
+
+## For Alex's Eyes Only ##
+
+
+
+## For The 18thC Experts ##
+
+
+
+
+
+
+
+This thesis proposal outlines the questions in which I am interested, and my current hypotheses about their answers, as the element of primary importance. I will discuss my proposed methods as well, but my goal is to remain as flexible as possible regarding methods, so that 
+
+
+
+## CSECS abstract ##
+
+
+
+### ballads ###
+
+
+
+
+
+
+
+Reforming the Gothic reader in William Wordsworth’s and Hannah More’s ballads
+
+
+
+Big picture: Scholars like Michael Gamer have increasingly been attentive to the importance of the Gothic to Romanticism, [something about “bad readers” / popular literature]] [lyric introspection is seen as in conversation with a something else]
+
+
+
+Gap in literature: Often don’t look at materials which are actually aimed at “bad readers”? (contemporary rather than presumed-ancient ballads?)
+
+
+
+My project filling the gap: Hannah More!
+
+
+
+Specific material: I read Wordsworth’s lyrical ballad “The Thorn” against More’s chapbook ballad “Robert and Richard.” Both works promise a ghost story that they then refuse to deliver satisfactorily. Wordsworth puts “The Thorn” into the mouth of a speaker eager for a thrilling story, but centres its narrative around the harm caused by this self-fulfilling thirst for the salacious. More titles her work “Robert and Richard, Or, The Ghost of Poor Molly, Who was Drowned in Richard’s Mill Pond” to compete in the marketplace against genuine ghost stories, but sidelines her ghost in favour of a didactic religious message. In their own ways, then, both authors make use of Gothic materials in an attempt to reform Gothic readers. However, although More is the only one to introduce an unabiguously real ghost, she is also the only one to fully refuse the Gothic thrills that she and Wordsworth disavow.
+
+
+
+[I contextualize these two poems within a broader publishing context of ballads and the supernatural, to show important stakes for a bigger conversation.]
+
+
+
+Concluding sentence: 
+
+
+
+### archives ###
+
+
+
+
+
+
+
+The 1790s in the Archive
+
+
+
+Big picture: 
+
+
+
+Gap in literature:
+
+
+
+My project filling the gap: 
+
+
+
+Specific material: I compare the 52,000 titles in the English Short Title Catalogue to the 5,000 facsimiles in the HathiTrust Digital Library to the 5
+
+
+
+Concluding sentence: 
+
+
+
 # Guiding Principles #
 
 
