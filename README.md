@@ -11,6 +11,16 @@
 
 # Research Log
 
+## February 14, 2018
+
+The Qatar Digital Library has a bunch of cool stuff!
+
+https://www.qdl.qa/en/search/site?page=1&f%5B0%5D=document_source%3Aarchive_source&f%5B1%5D=date_range%3A%5B1789%20TO%201799%5D
+
+2,038 results 1789-99
+
+A map! https://www.qdl.qa/en/archive/qnlhc/12893.1 Made my a mathemetician for some reason?
+
 ## February 8, 2018
 
 I felt a burst of energy and just started rearranging all my notes! Having an outline of questions feels like such incredible progress.
