@@ -17,7 +17,15 @@ Author: Lawrence Evalyn
 
 
 
-This thesis proposal outlines the questions in which I am interested, and my current hypotheses about their answers, as the element of primary importance. I will discuss my proposed methods as well, but my goal is to remain as flexible as possible regarding methods, so that 
+This thesis proposal outlines the questions in which I am interested, and my current hypotheses about their answers, as the element of primary importance. I will discuss my proposed methods as well, but my goal is to remain as flexible as possible regarding methods.
+
+
+
+
+
+
+
+Chapter two will take up the idea of literary celebrity. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I particularly want to investigate the long-term impact of literary fame: I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
 
 
 
