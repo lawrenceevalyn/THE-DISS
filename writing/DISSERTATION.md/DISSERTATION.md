@@ -17,6 +17,10 @@ Author: Lawrence Evalyn
 
 
 
+My current thinking on my dissertation consists of a series of questions, the answers to which I expect to be interrelated.
+
+
+
 This thesis proposal outlines the questions in which I am interested, and my current hypotheses about their answers, as the element of primary importance. I will discuss my proposed methods as well, but my goal is to remain as flexible as possible regarding methods.
 
 
@@ -26,78 +30,6 @@ This thesis proposal outlines the questions in which I am interested, and my cur
 
 
 Chapter two will take up the idea of literary celebrity. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I particularly want to investigate the long-term impact of literary fame: I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
-
-
-
-## CSECS abstract ##
-
-
-
-### ballads ###
-
-
-
-
-
-
-
-Reforming the Gothic reader in William Wordsworth’s and Hannah More’s ballads
-
-
-
-Big picture: Scholars like Michael Gamer have increasingly been attentive to the importance of the Gothic to Romanticism, [something about “bad readers” / popular literature]] [lyric introspection is seen as in conversation with a something else]
-
-
-
-Gap in literature: Often don’t look at materials which are actually aimed at “bad readers”? (contemporary rather than presumed-ancient ballads?)
-
-
-
-My project filling the gap: Hannah More!
-
-
-
-Specific material: I read Wordsworth’s lyrical ballad “The Thorn” against More’s chapbook ballad “Robert and Richard.” Both works promise a ghost story that they then refuse to deliver satisfactorily. Wordsworth puts “The Thorn” into the mouth of a speaker eager for a thrilling story, but centres its narrative around the harm caused by this self-fulfilling thirst for the salacious. More titles her work “Robert and Richard, Or, The Ghost of Poor Molly, Who was Drowned in Richard’s Mill Pond” to compete in the marketplace against genuine ghost stories, but sidelines her ghost in favour of a didactic religious message. In their own ways, then, both authors make use of Gothic materials in an attempt to reform Gothic readers. However, although More is the only one to introduce an unabiguously real ghost, she is also the only one to fully refuse the Gothic thrills that she and Wordsworth disavow.
-
-
-
-[I contextualize these two poems within a broader publishing context of ballads and the supernatural, to show important stakes for a bigger conversation.]
-
-
-
-Concluding sentence: 
-
-
-
-### archives ###
-
-
-
-
-
-
-
-The 1790s in the Archive
-
-
-
-Big picture: 
-
-
-
-Gap in literature:
-
-
-
-My project filling the gap: 
-
-
-
-Specific material: I compare the 52,000 titles in the English Short Title Catalogue to the 5,000 facsimiles in the HathiTrust Digital Library to the 5
-
-
-
-Concluding sentence: 
 
 
 
@@ -241,6 +173,54 @@ Sales catalogues of French books? Are French books in England necessarily bootle
 
 
 
+## corpora ##
+
+
+
+
+
+
+
+51,965 bibliographic entries in the English Short Title Catalogue
+
+
+
+42,463 facsimiles in Eighteenth Century Collections Online
+
+
+
+10,832 facsimiles in 12 archives of Nineteenth Century Collections Online
+
+
+
+4,381 facsimiles with OCR transcription in the HathiTrust Digital Library
+
+
+
+466 XML files created by the ECCO Text Creation Partnership
+
+
+
+
+
+
+
+??? Project Gutenberg
+
+
+
+## resources to look at ##
+
+
+
+
+
+
+
+http://www.thomaskeymer.com/linksandresources/
+
+
+
 # Does celebrity help men but hurt women? #
 
 
@@ -273,6 +253,22 @@ look for long gaps between printings or spikes; recapture historical context in 
 
 
 
+# How and by whom were chapbooks purchased? #
+
+
+
+
+
+
+
+If William St Clair is weak here, how much DO we know about the chapbook/pamphlet trade? How fast was a the cycle of responses between pamphlets? Are there geographic or social disjunctions in timeliness?
+
+
+
+? read a lot of existing books; look for records of sale; look for bibliographic records of works with few pages; topic-model titles? — Read Franz Potter again
+
+
+
 # Does "serious" fiction use "genre" fiction parasitically? #
 
 
@@ -286,22 +282,6 @@ What is the relationship between "genre fiction" and “literary" fiction? (Does
 
 
 ?? read… stuff? try to play spot-the-gothic? build a case study of 1790s gothic vs 1750s sentimental vs later SF vs current romance??
-
-
-
-# How much DO we know about the chapbook trade? #
-
-
-
-
-
-
-
-If William St Clair is weak here, how much DO we know about the chapbook/pamphlet trade? How fast was a the cycle of responses between pamphlets? Are there geographic or social disjunctions in timeliness?
-
-
-
-? read a lot of existing books; look for records of sale; look for bibliographic records of works with few pages; topic-model titles? — Read Franz Potter again
 
 
 
@@ -334,6 +314,18 @@ Was the French translation of 1001 nights the “go-to” translation even in En
 
 
 
+
+
+
+## is this 1790s or just 1810s+ ? ##
+
+
+
+
+
+
+
+It really seems like this is a very minor thread in *this* decade
 
 
 
@@ -1574,6 +1566,182 @@ M.H. Abrams, _The Mirror and the Lamp_: a classic, and in a sense now dated, acc
 
 
 Friedrich Kittler, _Discourse Networks, 1800/1900_: also a difficult book (and one that focuses solely in its first part on German Romanticism), but one that emphasizes the importance of thinking about information technologies (including writing) for understanding Romanticism
+
+
+
+### G. J. Barker-Benfield’s The Culture of Sensibility ###
+
+
+
+
+
+
+
+G. J. Barker-Benfield’s The Culture of Sensibility: Sex and Society in Eighteenth-Century Britain (1992) 
+
+
+
+For Barker- Benfield, the Revolution inspired Mary Wollstonecraft, Hannah More and others to rewrite the code of sensibility which had for decades been used to define and limit women. 
+
+
+
+
+
+
+
+### Eve Tavor Bannet’s The Domestic Revolution: Enlightenment ###
+
+
+
+
+
+
+
+Eve Tavor Bannet’s The Domestic Revolution: Enlightenment Feminisms and the Novel (2000) 
+
+
+
+In Bannet’s book the importance of the French Revolution itself is actually minimised, when compared, that is, with the behavioural and attitudinal changes slowly fomented by British women writers across the eighteenth century. But, Bannet argues, the British reactions to the French Revolution nevertheless remain crucial in shaping and re-shaping ideas of domesticity. 
+
+
+
+
+
+
+
+### Marjorie Levinson’s Wordsworth’s Great Period Poems ###
+
+
+
+
+
+
+
+Marjorie Levinson’s Wordsworth’s Great Period Poems (1986). Writing broadly in the tradition of Marxist criticism Levinson theorised interestingly about the relationship between history and literature in her Rethinking Historicism (1989), but it was her new readings of ostensibly unpolitical poems such as the ‘Intimations of Immortality’ ode and ‘Tintern Abbey’ in the earlier book which have had the most lasting effect. For her, political events were vital in shaping Wordsworth’s verse, even when they were apparently absent. His choice of images could reveal the link Levinson argued. An apparently innocuous reference to a solitary ‘tree’, for example, might allude to the French tree of liberty, or his ‘single field’ to the Champ de Mars. But it was the omissions that were more important, representing a deliberate suppression of political optimism and its replacement with a new system of belief, the ‘myth of the soul’ at the core of the Intimations ode. For the disenchanted Wordsworth, latching on to new ideals in the poem,‘there are victories’, wrote Levinson, 
+
+
+
+far greater than those once anticipated from the French Revolution. Rather than grieve over those mundane losses, the reader is exhorted to set his sights on those other and spiritual palms . . . the ‘soothing thoughts that spring / Out of human suffering.’ (Wordsworth’s Great Period Poems 93–4, 98–9) 
+
+
+
+Such an approach has perhaps proved so influential because it helps to explain, and perhaps even authorise, Wordsworth’s rather forlorn retreat from his youthful idealism. 
+
+
+
+### historian John Barrell’s Imagining the King’s Death ###
+
+
+
+
+
+
+
+historian John Barrell’s Imagining the King’s Death (2000). This is a massive and complex book, again written from a Marxist perspective, focussing on the period from the French regicide in 1793 to the British treason trials of 1794–95.It investigates how agents of the British state sought to make the act of imagining the King’s death a treasonable offence. Their argument was that thinking and writing about revolution would promote it, and revolutions, as the French example showed, killed kings. Many (including the juries who tried those arrested for ‘thoughtcrimes’ like these) could not agree, but Barrell shows how both conservatives and radicals engaged with the argument about the political power of imagination. 
+
+
+
+### Richard Cronin, for instance, provides a good account ###
+
+
+
+
+
+
+
+Richard Cronin, for instance, provides a good account of the British poetic response to the Revolution as a whole in his The Politics of Romantic Poetry (2000). His ‘Introduction’ provides a useful summary of recent work in the field, and his later chapters show convincingly how the political issues of the 1790s remained current for many writers into the 1810s and 20s. 
+
+
+
+
+
+
+
+### Simon Bainbridge, who has tracked down the war poetry ###
+
+
+
+
+
+
+
+Simon Bainbridge, who has tracked down the war poetry of both canonical and non-canonical writers, published on its own and in newspapers and magazines. In British Poetry and the Revolutionary and Napoleonic Wars (2003), Bainbridge presents a double argument: that the wars with France had an important effect in shaping the poetry produced in Britain, and that the war poetry written by figures such as Coleridge and Byron, and Charlotte Smith and Felicia Hemans, had an important effect in shaping public attitudes to the wars. 
+
+
+
+### George Taylor’s The French Revolution and the London ###
+
+
+
+
+
+
+
+George Taylor’s The French Revolution and the London Stage, 1789–1805 (2000), follows the same general line of argument. Taylor shows that although smaller theatres had been able to avoid the Lord Chamberlain’s restrictions at the time the Revolution broke out, and had therefore been able to exhibit some enthusiastic dramatisations of events in Paris, censorship was quickly imposed across all London theatres. This forced engagement with the Revolution to become more covert. Censorship meant that British radical writers ‘had to relinquish the theatre as a means of rational instruction’, and political comment was forced into seemingly unlikely theatrical modes: musical entertainments, pantomimes, and above all a new offshoot of the gothic, the melodrama (99). Throughout the 1790s, Taylor argues, political anxieties and hopes were represented by metaphor, images of imprisonment, blindness or dispossession being routinely employed as veiled but recognisable references to current events. 
+
+
+
+
+
+
+
+### Paula Backscheider’s book Spectacular Politics (1993 ###
+
+
+
+
+
+
+
+Paula Backscheider’s book Spectacular Politics (1993) goes furthest in investigating the cultural and political significance of the also very neglected gothic plays – a ‘popular literary mode’ in the 1780s and a ‘mania’ in the 1790s (149). In Backscheider’s analysis these plays were easily applicable to the politics of the 1790s, over and over again depicting villainous aristocrats violating the sanctity of life, liberty, property and female chastity, and powerful crowds able to overthrow them. But, she quickly adds, ‘Year by year, the plays show stronger and stronger strategies of containment’ (226). They characterise mob-rule as being just as inimical as despotism, and they represent the virtuous and legitimate protagonists as able to conquer abuses and restore order though non-confrontational means. Ultimately then, the plays ‘propagated a comforting vision of community, of human nature, and of a providential, benignly ordered world’ (232). More powerfully still, they provided a safety valve for a nervous and agitated public: 
+
+
+
+By acting out repressed anxieties and hopes in overt and symbolic representations, the plays released tensions and made social contradictions momentarily innocuous. Social antagonism became opportunities to demonstrate the idealized British self-image and to confirm that no revolution was needed in their country . . . The aristocrats could be restrained and the poor would be taken care of . . . Conflict became spectacle, a containable and consumable product. (233) 
+
+
+
+
+
+
+
+### Gillian Russell’s Theatres of War (1995), which considers ###
+
+
+
+
+
+
+
+Gillian Russell’s Theatres of War (1995), which considers the spectacle of the Revolutionary and Napoleonic Wars on the stages of public and private theatres as well as the presence of the military in audiences and its consequences. Russell also reveals much about the performance of plays by military personnel, in barracks or on-board ships. There is a substantial investigation of the theatricality of Nelson’s funeral too. 
+
+
+
+
+
+
+
+### Marc Baer’s Theatre and Disorder in Late Georgian London ###
+
+
+
+
+
+
+
+Marc Baer’s Theatre and Disorder in Late Georgian London (1992) also examines the playing out of political tensions in the playhouse and its environs, concentrating on the almost customary phenomenon of the theatre riot. 
+
+
+
+### Nicola J. Watson’s Revolution and the Form of the British ###
+
+
+
+
+
+
+
+Nicola J. Watson’s Revolution and the Form of the British Novel (1994) also investigates the associations between fictional form and politics. For Watson, novelists on both sides of the Revolution debate realised that there was a clear connection between some major themes of the novel and the political debates of the 1790s. The sentimental novel’s depiction of a heroine choosing her own lover in defiance of parental authority,for example,might correlate with disobedience towards political authority,just as an attempted seduction of a heroine could stand for the attempts of insurgents to tempt unwary Britons into sedition. Watson argues that both conservative and radical novelists tried to exploit these metaphorical connections, making the majority of 1790s novels much more political that they might at first appear. Even the very form of the novel,Watson contends, was a political statement in itself. Epistolary novels, for instance, were inherently political because the letter was a deeply suspect article in the 1790s, standing for secret communi- cation between people and connected with espionage, with the evidence used in treason trials and with the radical ‘corresponding societies’ (established in Britain to communicate directly with the Revolutionaries in France). 
 
 
 
@@ -2898,6 +3066,66 @@ Concluding sentence:
 
 
 6) a strong concluding sentence.
+
+
+
+## CSECS abstract ##
+
+
+
+### ballads ###
+
+
+
+
+
+
+
+Reforming the Gothic reader in William Wordsworth’s and Hannah More’s ballads
+
+
+
+Big picture: Scholars like Michael Gamer have increasingly been attentive to the importance of the Gothic to Romanticism, [something about “bad readers” / popular literature]] [lyric introspection is seen as in conversation with a something else]
+
+
+
+Gap in literature: Often don’t look at materials which are actually aimed at “bad readers”? (contemporary rather than presumed-ancient ballads?)
+
+
+
+My project filling the gap: Hannah More!
+
+
+
+Specific material: I read Wordsworth’s lyrical ballad “The Thorn” against More’s chapbook ballad “Robert and Richard.” Both works promise a ghost story that they then refuse to deliver satisfactorily. Wordsworth puts “The Thorn” into the mouth of a speaker eager for a thrilling story, but centres its narrative around the harm caused by this self-fulfilling thirst for the salacious. More titles her work “Robert and Richard, Or, The Ghost of Poor Molly, Who was Drowned in Richard’s Mill Pond” to compete in the marketplace against genuine ghost stories, but sidelines her ghost in favour of a didactic religious message. In their own ways, then, both authors make use of Gothic materials in an attempt to reform Gothic readers. However, although More is the only one to introduce an unabiguously real ghost, she is also the only one to fully refuse the Gothic thrills that she and Wordsworth disavow.
+
+
+
+[I contextualize these two poems within a broader publishing context of ballads and the supernatural, to show important stakes for a bigger conversation.]
+
+
+
+Concluding sentence: 
+
+
+
+### archives ###
+
+
+
+
+
+
+
+The 1790s in Digital Archives: A Meta-Analysis of Holdings
+
+
+
+A major concern regarding digital humanities research is the ability of findings to be “representative.” There is broad understanding that digital archives contain gaps, but little specific knowledge of the nature of those gaps. My project is analogous to a scientific meta-analysis, comparing several major digital collections. I consider all works published in Britain between 1789 and 1799 across six digital archives. The collections examined are heterogeneous, ranging from 51,965 bibliographic entries in the English Short Title Catalogue to 466 XML files created by the Eighteenth Century Collections Online Text Creation Partnership. I use a range of approaches, including topic modelling, to identify what kinds of literature each corpus emphasizes, and what omissions and errors scholars must be aware of. By comparing the holdings and metadata of these collections, this paper lays groundwork for future scholars to work with digital corpora in a nuanced, selective way.
+
+
+
+Lawrence Evalyn, Ph.D. Candidate at the University of Toronto. (lawrence.evalyn@mail.utoronto.ca)
 
 
 

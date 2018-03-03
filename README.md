@@ -2,14 +2,18 @@
 * Also set up scrivener doc for diss itself (organize around Qs, delete things that don't go in diss project)
 
 # Research questions
-1. How do our current 18thC corpora (mis)represent the works printed in the 1790s? When we work with just one thing, or just the easiest thing, what do we leave out?
-1. Does literary celebrity inhibit the formation of a lasting legacy? Or only for women?
+1. How do our current 18thC corpora (mis)represent the works printed in the 1790s?
+1. Does literary celebrity help the legacy of men while hurting women?
 1. What older works were reprinted strategically during the 1790s to respond to a new context?
-1. What is the relationship between "genre fiction" and “literary" fiction? (Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?)
-1. If William St Clair is weak here, how much DO we know about the chapbook/pamphlet trade?
+1. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?
+1. How and by whom were chapbooks purchased?
 1. something something orientalism and cosmopolitanism and 18thC Arabic literature?
 
 # Research Log
+
+## March 3 2018
+
+I miss doing research... I read a lit review today and all I wanted to do was spend the next week holed up in the library reading.
 
 ## February 14, 2018
 
