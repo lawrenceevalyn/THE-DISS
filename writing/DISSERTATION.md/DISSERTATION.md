@@ -9,6 +9,14 @@ Author: Lawrence Evalyn
 
 
 
+
+
+
+
+The more I research Arab orientalism in the 18thC, the more I think the things I noticed during fields are just a little too late, chronologically, to make sense for the dissertation; I’ll keep my eyes peeled and add something in if I notice something cool, but am not planning on it being present for sure. (I’ll pursue it on the side for sure though / do some preliminary reading so it can be my second book project after the diss.)
+
+
+
 ## For The 18thC Experts ##
 
 
@@ -21,7 +29,11 @@ My current thinking on my dissertation consists of a series of questions, the an
 
 
 
-This thesis proposal outlines the questions in which I am interested, and my current hypotheses about their answers, as the element of primary importance. I will discuss my proposed methods as well, but my goal is to remain as flexible as possible regarding methods.
+
+
+
+
+### ch 1 - what's not novels? ###
 
 
 
@@ -29,7 +41,83 @@ This thesis proposal outlines the questions in which I am interested, and my cur
 
 
 
-Chapter two will take up the idea of literary celebrity. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I particularly want to investigate the long-term impact of literary fame: I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
+Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. 
+
+
+
+Current materials include:
+
+
+
+	•	51,965 bibliographic entries in the English Short Title Catalogue
+
+
+
+	•	42,463 facsimiles in Eighteenth Century Collections Online
+
+
+
+	•	10,832 facsimiles in 12 archives of Nineteenth Century Collections Online
+
+
+
+	•	4,381 facsimiles with OCR transcription in the HathiTrust Digital Library
+
+
+
+	•	466 XML files created by the ECCO Text Creation Partnership
+
+
+
+### ch 2 - fame and legacy ###
+
+
+
+
+
+
+
+Chapter two asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the percerived “seriousness” of their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. I am currently thinking of ways to use reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
+
+
+
+### ch 3 - lingering legacies ###
+
+
+
+
+
+
+
+In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. Its first question is one of discovery: what works resurface in this decade, and what makes them seem newly relevant?
+
+
+
+### ch 4 - chapbook sales ###
+
+
+
+
+
+
+
+If William St Clair is weak here, how much DO we know about the chapbook/pamphlet trade? How fast was a the cycle of responses between pamphlets? Are there geographic or social disjunctions in timeliness?
+
+
+
+? read a lot of existing books; look for records of sale; look for bibliographic records of works with few pages; topic-model titles? — Read Franz Potter again
+
+
+
+### ch 5 - serious vs unserious fiction ###
+
+
+
+
+
+
+
+My final chapter marries these lines of thoughts to ask what relationship “serious literature” had to the non-literary, and especially to sub-literary fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms? How do works market themselves? What makes writing “disreputable”? How do we recuperate “disreputable” writing?
 
 
 
@@ -137,6 +225,50 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
+# corpora contents #
+
+
+
+
+
+
+
+51,965 bibliographic entries in the English Short Title Catalogue
+
+
+
+42,463 facsimiles in Eighteenth Century Collections Online
+
+
+
+10,832 facsimiles in 12 archives of Nineteenth Century Collections Online
+
+
+
+4,381 facsimiles with OCR transcription in the HathiTrust Digital Library
+
+
+
+466 XML files created by the ECCO Text Creation Partnership
+
+
+
+
+
+
+
+??? Project Gutenberg
+
+
+
+
+
+
+
+1,836 book reviews in the Novels Reviewed Database, representing 1,215 novels and 445 identified authors (for 1790-1820; not sure how many fit 1790-99)
+
+
+
 # How do18thC corpora (mis)represent the 1790s? #
 
 
@@ -173,42 +305,6 @@ Sales catalogues of French books? Are French books in England necessarily bootle
 
 
 
-## corpora ##
-
-
-
-
-
-
-
-51,965 bibliographic entries in the English Short Title Catalogue
-
-
-
-42,463 facsimiles in Eighteenth Century Collections Online
-
-
-
-10,832 facsimiles in 12 archives of Nineteenth Century Collections Online
-
-
-
-4,381 facsimiles with OCR transcription in the HathiTrust Digital Library
-
-
-
-466 XML files created by the ECCO Text Creation Partnership
-
-
-
-
-
-
-
-??? Project Gutenberg
-
-
-
 ## resources to look at ##
 
 
@@ -218,6 +314,10 @@ Sales catalogues of French books? Are French books in England necessarily bootle
 
 
 http://www.thomaskeymer.com/linksandresources/
+
+
+
+https://www.18thcenturycommon.org/collections/digital-humanities-18th-century-studies/
 
 
 

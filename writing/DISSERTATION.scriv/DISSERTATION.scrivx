@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-03-03 17:05:28 -0500" ModID="112D938D-69CE-4549-BB8F-E74B064C8618">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2018-03-03 17:39:44 -0500" ModID="61BBD7BB-55E7-45CA-9174-E5679E97E7C7">
     <Binder>
         <BinderItem ID="0" UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -17,7 +17,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="494" UUID="9B1531AE-7175-46D8-9523-E865E05D4481" Type="Text" Created="2018-02-11 18:23:51 -0500" Modified="2018-02-11 18:23:56 -0500">
+                        <BinderItem ID="494" UUID="9B1531AE-7175-46D8-9523-E865E05D4481" Type="Text" Created="2018-02-11 18:23:51 -0500" Modified="2018-03-03 17:39:17 -0500">
                             <Title>For Alex's Eyes Only</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -27,15 +27,67 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="495" UUID="827134E0-05DA-4071-8DC8-33FF0930D68E" Type="Text" Created="2018-02-11 18:23:58 -0500" Modified="2018-03-03 16:17:45 -0500">
+                        <BinderItem ID="495" UUID="827134E0-05DA-4071-8DC8-33FF0930D68E" Type="Text" Created="2018-02-11 18:23:58 -0500" Modified="2018-03-03 17:12:52 -0500">
                             <Title>For The 18thC Experts</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>123,0</TextSelection>
+                                <TextSelection>39,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="516" UUID="962F7FF6-1371-45EC-B342-CAA5CEB83DFB" Type="Text" Created="2018-03-03 17:12:20 -0500" Modified="2018-03-03 17:36:43 -0500">
+                                    <Title>ch 1 - what's not novels?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>419,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="517" UUID="EC89BF35-7BC4-4C78-AE47-7D9C80477970" Type="Text" Created="2018-03-03 17:12:22 -0500" Modified="2018-03-03 17:36:08 -0500">
+                                    <Title>ch 2 - fame and legacy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>761,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="518" UUID="03EB62C0-DCB6-4669-8A0A-CD75D89AC055" Type="Text" Created="2018-03-03 17:12:24 -0500" Modified="2018-03-03 17:36:16 -0500">
+                                    <Title>ch 3 - lingering legacies</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>422,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="519" UUID="0AB3159E-5FEC-42F4-9747-BDB5E25CDC38" Type="Text" Created="2018-03-03 17:12:26 -0500" Modified="2018-03-03 17:36:36 -0500">
+                                    <Title>ch 4 - chapbook sales</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>364,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="520" UUID="F881F14F-336C-479B-84CE-1CD344CA3DA4" Type="Text" Created="2018-03-03 17:12:27 -0500" Modified="2018-03-03 17:36:50 -0500">
+                                    <Title>ch 5 - serious vs unserious fiction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>388,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -93,6 +145,17 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="502" UUID="2A150BFD-2EEF-458C-B56E-A91DFB0C961A" Type="Text" Created="2018-02-20 20:42:44 -0500" Modified="2018-03-03 17:27:58 -0500">
+                    <Title>corpora contents</Title>
+                    <MetaData>
+                        <LabelID>8</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>508,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="484" UUID="E75D4B49-1D09-4FD6-997E-385BAB99F578" Type="Text" Created="2018-02-08 00:13:13 -0500" Modified="2018-02-08 00:14:23 -0500">
                     <Title>How do18thC corpora (mis)represent the 1790s?</Title>
                     <MetaData>
@@ -125,24 +188,14 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="502" UUID="2A150BFD-2EEF-458C-B56E-A91DFB0C961A" Type="Text" Created="2018-02-20 20:42:44 -0500" Modified="2018-02-20 20:43:11 -0500">
-                            <Title>corpora</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>355,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="503" UUID="64C6CAA1-1B14-4B75-8BF3-6EDA6892A3A7" Type="Text" Created="2018-02-25 23:43:39 -0500" Modified="2018-02-25 23:43:47 -0500">
+                        <BinderItem ID="503" UUID="64C6CAA1-1B14-4B75-8BF3-6EDA6892A3A7" Type="Text" Created="2018-02-25 23:43:39 -0500" Modified="2018-03-03 17:33:11 -0500">
                             <Title>resources to look at</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>46,0</TextSelection>
+                                <TextSelection>133,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -164,10 +217,10 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>180,0</TextSelection>
+                        <TextSelection>267,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="488" UUID="118E2975-9779-41A8-8AB4-AA73001876D3" Type="Text" Created="2018-02-08 00:16:12 -0500" Modified="2018-03-03 16:16:07 -0500">
+                <BinderItem ID="488" UUID="118E2975-9779-41A8-8AB4-AA73001876D3" Type="Text" Created="2018-02-08 00:16:12 -0500" Modified="2018-03-03 17:33:42 -0500">
                     <Title>How and by whom were chapbooks purchased?</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -300,7 +353,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>122,728</TextSelection>
+                                <TextSelection>850,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="69" UUID="6F518876-88B1-4011-9F7C-0DE38615FA0A" Type="Text" Created="2016-11-30 22:00:20 -0500" Modified="2017-01-16 23:29:01 -0500">
@@ -723,7 +776,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>446,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -4140,6 +4193,16 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem ID="521" UUID="1FBE203C-507B-4467-90A4-5A6E758DA306" Type="Text" Created="2018-03-03 17:23:13 -0500" Modified="2018-03-03 17:23:20 -0500">
+                                    <Title>A database of linguistic and stylistic criticism in</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>270,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem ID="464" UUID="42D9F0E4-1B22-49F7-90B1-B771983D5673" Type="Text" Created="2018-01-21 16:27:27 -0500" Modified="2018-01-21 16:27:36 -0500">
@@ -4241,7 +4304,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="1312" Characters="8575" Date="2018-03-03 14:28:13 -0500"></PreviousSession>
+        <PreviousSession Words="1667" Characters="10851" Date="2018-03-03 14:28:13 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
