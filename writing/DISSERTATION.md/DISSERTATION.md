@@ -29,7 +29,11 @@ My current thinking on my dissertation consists of a series of questions, the an
 
 
 
+I care about popularity / timeliness / marginalization vs seriousness / timelessness / legacy. I want to ask how the latter have achieved their prominent positions, and find works in the former that merit further consideration.
 
+
+
+These are all questions which scholars have been working on long before me: I want to join in with this constant progress, contributing my small, spreadsheet-based brick to the edifice.
 
 
 
@@ -41,7 +45,7 @@ My current thinking on my dissertation consists of a series of questions, the an
 
 
 
-Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. 
+Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. It begin with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of 18thC texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to fascimiles to transcripts. I will discuss the nature of these exclusions, and consider paths to ameliorate them. Then I will synthesize these disaparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be.
 
 
 
@@ -77,7 +81,7 @@ Current materials include:
 
 
 
-Chapter two asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the percerived “seriousness” of their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. I am currently thinking of ways to use reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
+Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the percerived “seriousness” of their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. I am currently thinking of ways to use reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
 
 
 
@@ -89,7 +93,7 @@ Chapter two asks what long-term impact literary celebrity has on an author’s l
 
 
 
-In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. Its first question is one of discovery: what works resurface in this decade, and what makes them seem newly relevant?
+In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. This is another way of engaging with the idea of “legacy” / “timelessness.” The chapter’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant?
 
 
 
@@ -101,11 +105,7 @@ In keeping with my contention that literary works must be considered as still �
 
 
 
-If William St Clair is weak here, how much DO we know about the chapbook/pamphlet trade? How fast was a the cycle of responses between pamphlets? Are there geographic or social disjunctions in timeliness?
-
-
-
-? read a lot of existing books; look for records of sale; look for bibliographic records of works with few pages; topic-model titles? — Read Franz Potter again
+My fourth chapter pursues a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. These are usually excluded for not being “literature” rather than not being “1790s” (though part of my inquiry will also be to determine how ‘out of date’ chapbooks would get before reaching their readers, and how this compares to book publishing). This print-historical chapter seeks to explore what is often seen as a “gap”/weakness in William St. Clair, to see how much we do know about the chapbook trade. I am particularly interested in the cycle of responses between pamphlets, and whether there are geographic or social disjunctions in timeliness?
 
 
 
@@ -117,7 +117,7 @@ If William St Clair is weak here, how much DO we know about the chapbook/pamphle
 
 
 
-My final chapter marries these lines of thoughts to ask what relationship “serious literature” had to the non-literary, and especially to sub-literary fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms? How do works market themselves? What makes writing “disreputable”? How do we recuperate “disreputable” writing?
+My final chapter marries these lines of thoughts to ask what relationship “serious literature” had to the non-literary, and especially to sub-literary fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms? When and why is timeliness seen as “unserious”? How do works market themselves? What makes writing “disreputable”? How do we recuperate “disreputable” writing?
 
 
 
@@ -1617,11 +1617,11 @@ Motivated to trouble “post-Romantic ideals of individual authorship””
 
 
 
-## reading recs ##
+# reading recs #
 
 
 
-### Alan Liu, _Wordsworth: The Sense of History_: this ###
+## Alan Liu, _Wordsworth: The Sense of History_: this ##
 
 
 
@@ -1633,7 +1633,7 @@ Alan Liu, _Wordsworth: The Sense of History_: this is an extraordinary, although
 
 
 
-### Timothy Morton, _Shelley and the Revolution in Taste ###
+## Timothy Morton, _Shelley and the Revolution in Taste ##
 
 
 
@@ -1645,7 +1645,7 @@ Timothy Morton, _Shelley and the Revolution in Taste: The Body and the Natural W
 
 
 
-### M.H. Abrams, _The Mirror and the Lamp_: a classic, and ###
+## M.H. Abrams, _The Mirror and the Lamp_: a classic, and ##
 
 
 
@@ -1657,7 +1657,7 @@ M.H. Abrams, _The Mirror and the Lamp_: a classic, and in a sense now dated, acc
 
 
 
-### Friedrich Kittler, _Discourse Networks, 1800/1900 ###
+## Friedrich Kittler, _Discourse Networks, 1800/1900 ##
 
 
 
@@ -1669,7 +1669,7 @@ Friedrich Kittler, _Discourse Networks, 1800/1900_: also a difficult book (and o
 
 
 
-### G. J. Barker-Benfield’s The Culture of Sensibility ###
+## G. J. Barker-Benfield’s The Culture of Sensibility ##
 
 
 
@@ -1689,7 +1689,7 @@ For Barker- Benfield, the Revolution inspired Mary Wollstonecraft, Hannah More a
 
 
 
-### Eve Tavor Bannet’s The Domestic Revolution: Enlightenment ###
+## Eve Tavor Bannet’s The Domestic Revolution: Enlightenment ##
 
 
 
@@ -1709,7 +1709,7 @@ In Bannet’s book the importance of the French Revolution itself is actually mi
 
 
 
-### Marjorie Levinson’s Wordsworth’s Great Period Poems ###
+## Marjorie Levinson’s Wordsworth’s Great Period Poems ##
 
 
 
@@ -1729,7 +1729,7 @@ Such an approach has perhaps proved so influential because it helps to explain, 
 
 
 
-### historian John Barrell’s Imagining the King’s Death ###
+## historian John Barrell’s Imagining the King’s Death ##
 
 
 
@@ -1741,7 +1741,7 @@ historian John Barrell’s Imagining the King’s Death (2000). This is a massiv
 
 
 
-### Richard Cronin, for instance, provides a good account ###
+## Richard Cronin, for instance, provides a good account ##
 
 
 
@@ -1757,7 +1757,7 @@ Richard Cronin, for instance, provides a good account of the British poetic resp
 
 
 
-### Simon Bainbridge, who has tracked down the war poetry ###
+## Simon Bainbridge, who has tracked down the war poetry ##
 
 
 
@@ -1769,7 +1769,7 @@ Simon Bainbridge, who has tracked down the war poetry of both canonical and non-
 
 
 
-### George Taylor’s The French Revolution and the London ###
+## George Taylor’s The French Revolution and the London ##
 
 
 
@@ -1785,7 +1785,7 @@ George Taylor’s The French Revolution and the London Stage, 1789–1805 (2000)
 
 
 
-### Paula Backscheider’s book Spectacular Politics (1993 ###
+## Paula Backscheider’s book Spectacular Politics (1993 ##
 
 
 
@@ -1805,7 +1805,7 @@ By acting out repressed anxieties and hopes in overt and symbolic representation
 
 
 
-### Gillian Russell’s Theatres of War (1995), which considers ###
+## Gillian Russell’s Theatres of War (1995), which considers ##
 
 
 
@@ -1821,7 +1821,7 @@ Gillian Russell’s Theatres of War (1995), which considers the spectacle of the
 
 
 
-### Marc Baer’s Theatre and Disorder in Late Georgian London ###
+## Marc Baer’s Theatre and Disorder in Late Georgian London ##
 
 
 
@@ -1833,7 +1833,7 @@ Marc Baer’s Theatre and Disorder in Late Georgian London (1992) also examines 
 
 
 
-### Nicola J. Watson’s Revolution and the Form of the British ###
+## Nicola J. Watson’s Revolution and the Form of the British ##
 
 
 
@@ -1842,6 +1842,18 @@ Marc Baer’s Theatre and Disorder in Late Georgian London (1992) also examines 
 
 
 Nicola J. Watson’s Revolution and the Form of the British Novel (1994) also investigates the associations between fictional form and politics. For Watson, novelists on both sides of the Revolution debate realised that there was a clear connection between some major themes of the novel and the political debates of the 1790s. The sentimental novel’s depiction of a heroine choosing her own lover in defiance of parental authority,for example,might correlate with disobedience towards political authority,just as an attempted seduction of a heroine could stand for the attempts of insurgents to tempt unwary Britons into sedition. Watson argues that both conservative and radical novelists tried to exploit these metaphorical connections, making the majority of 1790s novels much more political that they might at first appear. Even the very form of the novel,Watson contends, was a political statement in itself. Epistolary novels, for instance, were inherently political because the letter was a deeply suspect article in the 1790s, standing for secret communi- cation between people and connected with espionage, with the evidence used in treason trials and with the radical ‘corresponding societies’ (established in Britain to communicate directly with the Revolutionaries in France). 
+
+
+
+## Jacobs E (2003) Eighteenth-century British circulating ##
+
+
+
+
+
+
+
+Jacobs E (2003) Eighteenth-century British circulating libraries and cultural book history. Book History; 6, 1–22.
 
 
 
