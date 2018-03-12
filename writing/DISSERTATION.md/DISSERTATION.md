@@ -17,7 +17,19 @@ Notes to Alex:
 
 
 
-The more I research Arab orientalism in the 18thC, the more I think the things I noticed during fields are too late, chronologically, to make sense for the dissertation. I’m going to keep my eyes peeled, and might add it back in, but it doesn’t make sense to me as a chapter right now. Instead, I’m going to keep brushing up my Arabic reading skills, and start percolating ideas for my next project after this one.
+
+
+
+
+I’ve cut the “something something Arab orientalism” chapter for now because the really good stuff seems to come just after the end of my decade -- I’ll keep my eyes peeled, and might add it back in if I see somewhere that it belongs, but it doesn’t make sense to me as a chapter right now. Instead, I’ll keep brushing up on my Arabic, and start percolating ideas for the next project after this one.
+
+
+
+
+
+
+
+I think this is “enough” proposal that I know how I would start researching/writing each of these chapters, and how I would be able to tell when it was done answering my question -- is it “enough” proposal to make my approach and intentions clear to a third party?
 
 
 
@@ -29,19 +41,15 @@ The more I research Arab orientalism in the 18thC, the more I think the things I
 
 
 
-My current thinking on my dissertation consists of a series of questions, the answers to which I expect to be interrelated.
+My current thinking on my dissertation consists of a series of questions, the answers to which I expect to be interrelated. As I pose these questions, my central concern is the distinction drawn between popularity/timeliness/marginalization and seriousness/timelessness/legacy. I want to ask how works that are now considered serious and timeless have achieved their prominent positions, and examine “unserious” or ephemeral works that reward further consideration.
 
 
 
-I care about popularity / timeliness / marginalization vs seriousness / timelessness / legacy. I want to ask how the latter have achieved their prominent positions, and find works in the former that merit further consideration.
+Chapter one engages with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. My fourth chapter pursues a different tack to focus on another set of widely-read works that are often excluded from “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
 
 
 
-Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. My fourth chapter pursues a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
-
-
-
-These are all questions which scholars have been working on long before me: I want to join in with this constant project, contributing my small, spreadsheet-based brick to the edifice.
+With the possible exception of the first chapter (which, in its focus on archival gaps, also has its non-digital precursors), none of the questions asked above are inherently computational, or questions which have gone unasked previously. My goal is to continue existing scholarly work along these lines, contributing the computational approach which comes naturally to me, to synthesize or enrich non-computational approached.
 
 
 
@@ -145,7 +153,7 @@ My fifth chapter brings together these lines of thought, to ask what relationshi
 
 
 
-The dissertation as a whole, then, 
+The dissertation as a whole, then, looks at the same large body of texts (works printed in England 1789-99) through several different, but interconnected, lenses. Only some of these lenses have specific computational projects in mind already, but all of them ask questions at a scale where I know I will want at least a spreadsheet, and quite probably much more, in order to bring together the many pieces of information that I examine. I expect some works and lines of thought to re-emerge in multiple chapters as I clarify the connections between my central concepts.
 
 
 
@@ -189,35 +197,7 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
-## Design ##
-
-
-
-
-
-
-
-- keep underlying structures simple -- what will be rich and luscious is your content
-
-
-
-- information at exact point of need
-
-
-
-- total indifference to mode of production is critical. (oh god, I'm going to lay out my whole diss in indesign, aren't I)
-
-
-
-
-
-
-
 ### Tufte's six principles of design: ###
-
-
-
-
 
 
 
@@ -229,7 +209,7 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
-2. show causality, mechanism, explanation, systemtic structure (intervention relies on manipulable causality -- can't do anything with the information without causality)
+2. show causality, mechanism, explanation, systemic structure (intervention relies on manipulable causality -- can't do anything with the information without causality)
 
 
 
@@ -237,11 +217,11 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
-4. completely integrate words, numbers, maps, graphics, etc, etc
+4. *completely integrate* words, numbers, maps, graphics, etc, etc. Provide information at exact point of need
 
 
 
-5. documentation must thorouhgly describe evidence and its sources, provide complete measurement scales
+5. documentation must thoroughly describe evidence and its sources, provide complete measurement scales
 
 
 
@@ -250,6 +230,22 @@ I think this how how one properly accounts overwhelming detail and variety: lot
 
 
 
+
+
+
+keep underlying structures simple -- what will be rich and luscious is your content
+
+
+
+## Finish The Figures ##
+
+
+
+
+
+
+
+It is disproportionally difficult to revisit a graph that is 80% complete to add the remaining finishing touches; before putting down one phase of a project, take the time to fully finish the figures as beautiful, print-resolution images.
 
 
 
