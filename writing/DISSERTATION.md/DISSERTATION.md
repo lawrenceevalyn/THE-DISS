@@ -13,7 +13,11 @@ Author: Lawrence Evalyn
 
 
 
-The more I research Arab orientalism in the 18thC, the more I think the things I noticed during fields are just a little too late, chronologically, to make sense for the dissertation; I’ll keep my eyes peeled and add something in if I notice something cool, but am not planning on it being present for sure. (I’ll pursue it on the side for sure though / do some preliminary reading so it can be my second book project after the diss.)
+Notes to Alex:
+
+
+
+The more I research Arab orientalism in the 18thC, the more I think the things I noticed during fields are too late, chronologically, to make sense for the dissertation. I’m going to keep my eyes peeled, and might add it back in, but it doesn’t make sense to me as a chapter right now. Instead, I’m going to keep brushing up my Arabic reading skills, and start percolating ideas for my next project after this one.
 
 
 
@@ -33,7 +37,11 @@ I care about popularity / timeliness / marginalization vs seriousness / timeless
 
 
 
-These are all questions which scholars have been working on long before me: I want to join in with this constant progress, contributing my small, spreadsheet-based brick to the edifice.
+Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. My fourth chapter pursues a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
+
+
+
+These are all questions which scholars have been working on long before me: I want to join in with this constant project, contributing my small, spreadsheet-based brick to the edifice.
 
 
 
@@ -45,11 +53,11 @@ These are all questions which scholars have been working on long before me: I wa
 
 
 
-Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. It begin with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of 18thC texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to fascimiles to transcripts. I will discuss the nature of these exclusions, and consider paths to ameliorate them. Then I will synthesize these disaparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be.
+Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. It begin with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of 18thC texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to fascimiles to transcripts. I will discuss the nature of these exclusions, and consider paths to ameliorate them. Then I will synthesize these disaparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
 
 
 
-Current materials include:
+Current materials acquired include:
 
 
 
@@ -73,6 +81,14 @@ Current materials include:
 
 
 
+Also under consideration is Project Gutenberg (as the corpus everyone uses but no one likes to admit to using).
+
+
+
+The first chapter thus introduces my decade of interest and the materials and perspectives I bring to bear on it, laying the foundation for my future questions about literary popularity and literary legacy.
+
+
+
 ### ch 2 - fame and legacy ###
 
 
@@ -81,7 +97,7 @@ Current materials include:
 
 
 
-Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the percerived “seriousness” of their reputations. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both nuanced and fruitful. I am currently thinking of ways to use reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. As my “case study” for this chapter, I am interested in exploring the relationship between Mary Robinson and Samuel Taylor Coleridge.
+Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the percerived “seriousness” of their reputations. Influenced by Ashley J. Cross’s “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt,” I am interested in exploring the careers of Mary Robinson and Samuel Taylor Coleridge as my “case study” for this chapter. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both fruitful and nuanced. In addition to reading the extensive literature grappling with these concerns for individual authors, I am currently thinking of ways to use mentions in reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. I may also add scholarly uptake (perhaps through the proxy of  JSTOR articles, since JSTOR makes their archive accessible for experiments of this type) as a particular sub-type of “legacy.”
 
 
 
@@ -93,7 +109,7 @@ Chapter two introduces the driving stakes of the dissertation: it asks what long
 
 
 
-In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. This is another way of engaging with the idea of “legacy” / “timelessness.” The chapter’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant?
+Taking up David Brewer’s challenge in “Counting, Resonance, and Form” to account for the increased “footprint” of some texts beyond the moment of their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent re-printing (or, in the case of plays, re-staging). The chapter’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant? As in my first chapter, the “case study” texts for this chapter will emerge from my broader research. I am particularly eager to investigate timely re-stagings of plays, given the heightened ephemerality and thus timeliness of theatrical productions compared to print; my first step is to assemble a precise timeline of what was staged during the period. For printed works, some initial exploration suggests that Shakespeare, Oliver Goldsmith, Daniel Defoe, Samuel Johnson, or Milton might be of interest. I will need to determine what distinction, if any, I might want to draw between “canonical” authors like Shakespeare and Milton, whose posthumous prominence is predictable, and any shorter-lived targeted reprintings that I might discover. This chapter, then, is another way of engaging with the idea of “legacy,” exploring the distinctions between “timelessness” and “lasting timeliness.”
 
 
 
@@ -105,7 +121,7 @@ In keeping with my contention that literary works must be considered as still �
 
 
 
-My fourth chapter pursues a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. These are usually excluded for not being “literature” rather than not being “1790s” (though part of my inquiry will also be to determine how ‘out of date’ chapbooks would get before reaching their readers, and how this compares to book publishing). This print-historical chapter seeks to explore what is often seen as a “gap”/weakness in William St. Clair, to see how much we do know about the chapbook trade. I am particularly interested in the cycle of responses between pamphlets, and whether there are geographic or social disjunctions in timeliness?
+My fourth chapter pursues a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. These are usually excluded for not being “literature” rather than not being “1790s” (though part of my inquiry will also be to determine how ‘out of date’ chapbooks would get before reaching their readers, and how this compares to book publishing). This print-historical chapter seeks to explore what is often seen as a “gap” in William St. Clair’s history, to see how much we do know about the chapbook trade. I am particularly interested in the cycle of responses between pamphlets, and whether there are geographic or social disjunctions in timeliness. This chapter will of course address Hannah More’s Cheap Repository Tracts, but I am equally curious about the works among which hers were sold. My “case study” could trace the printing and circulation of one of More’s pamphlets and a few of its fellow-travellers, as the foundation for a discussion of More’s hybrid literary forms. 
 
 
 
@@ -117,7 +133,19 @@ My fourth chapter pursues a different tack to focus on widely-read works that ar
 
 
 
-My final chapter marries these lines of thoughts to ask what relationship “serious literature” had to the non-literary, and especially to sub-literary fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms? When and why is timeliness seen as “unserious”? How do works market themselves? What makes writing “disreputable”? How do we recuperate “disreputable” writing?
+My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?  When and why is timeliness seen as “unserious”? What makes writing “disreputable”? How do we read “disreputable” writing? This chapter engages most directly with the vexed roles and uses of the Gothic: drawing on the work of Michael Gamer and others, I will discuss the Gothic roots of Romanticism. I am particularly interested in comparing the strategies used by writers who wish to use Gothic materials without “being” Gothic (like Hannah More and William Wordsworth), those who accept being Gothic but without being “unserious” (like Ann Radcliffe and Charlotte Smith), and those who embrace both the Gothic and its charge of unseriousness. Matthew Lewis may provide a useful case study for debates about “redeeming literary value” in the Gothic.
+
+
+
+### conclusion ###
+
+
+
+
+
+
+
+The dissertation as a whole, then, 
 
 
 
