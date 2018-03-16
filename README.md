@@ -1,17 +1,19 @@
-# Next-do: turn outline into a thesis proposal
-* Also set up scrivener doc for diss itself (organize around Qs, delete things that don't go in diss project)
+# Next-do: meet with committee re: thesis proposal
 
 # Research questions
 1. How do our current 18thC corpora (mis)represent the works printed in the 1790s?
 1. Does literary celebrity help the legacy of men while hurting women?
 1. What older works were reprinted strategically during the 1790s to respond to a new context?
-1. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?
 1. How and by whom were chapbooks purchased?
-1. something something orientalism and cosmopolitanism and 18thC Arabic literature?
+1. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?
 
 # Research Log
 
-## March 3 2018
+## March 16, 2018
+
+I was accepted to CSECS! To present the findings of ch 1! Which means my deadline for ch 1 is now October 10!!
+
+## March 3, 2018
 
 I miss doing research... I read a lit review today and all I wanted to do was spend the next week holed up in the library reading.
 
