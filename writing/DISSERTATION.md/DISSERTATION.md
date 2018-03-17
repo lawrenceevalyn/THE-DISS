@@ -249,7 +249,95 @@ It is disproportionally difficult to revisit a graph that is 80% complete to add
 
 
 
-# corpora contents #
+# THE DISS #
+
+
+
+## Introduction: this is all about canons ##
+
+
+
+### Alex's notes ###
+
+
+
+
+
+
+
+Is there a way in which this can be said to be, overall, about how texts do or don't 'enter' a 'canon' of writings - by which you mean, as per e.g. Guillory or Bourdieu, and the idea of cultural capital, a set of texts studied, produced, valued (to varying degrees over time) within certain cultural fields, most especially the field of academic research (but also education, modern publishing, creative industries etc). And then your contribution to the many discussions that go on about (and indeed change) canon, is to bring show we can use digital tools to ask and answer that question? I think maybe it is, and if that is the case, then you need to say just that, and that the other issues - timelessness, popularity, marginalization, immediacy, fall out of that larger question… If you frame it like this, and I think I am suggesting you should, it will force you to have a preliminary chapter or part of the introduction where you review terms/concepts like ‘popularity’ or indeed, canon, or ‘marginalization’ - all of which have their own literatures, outside of DH, but also sometimes in or adjacent it (see e.g. the arguments of Lesser, Farmer, Blayney about Shx’s popularity as measured by edition output and print runs - which used some very basic data tools). You need this because at the moment, you just jump into the studies without the framing questions well established. Such a chapter/intro would also enable you to deal directly with the way that other researchers in your fields (18thC and DH) have already tried to address these questions using different approaches, among them editing (new canons) or distant reading. 
+
+
+
+
+
+
+
+This initial chapter/introduction  I am imagining would also deal with “why 1790s literature” and who else treats the 1790s as a period worthy of cordoning off like this (thus, who your scholarly interlocutors are). 
+
+
+
+
+
+
+
+Finally, you’ve not tried to articulate the queer theory piece here. I think you should, perhaps by thinking with something like this… https://dh2017.adho.org/abstracts/406/406.pdf. What would be the special character of a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature. 
+
+
+
+## How do18thC corpora (mis)represent the 1790s? ##
+
+
+
+
+
+
+
+How do our current 18thC corpora (mis)represent the works printed in the 1790s? When we work with just one thing, or just the easiest thing, what do we leave out? What would decanonization look like?
+
+
+
+sample a lot of different corpora; develop an ontology of genres; compare corpora; make an anti-recommendation engine ?
+
+
+
+### flatten translations / foreign lang issues ###
+
+
+
+#### How much did people read in French? ####
+
+
+
+
+
+
+
+Sales catalogues of French books? Are French books in England necessarily bootleg? (Scottish pirates?)
+
+
+
+(Movements of goods from France to England generally — how did it work? Taxation data? Places outside Paris all bootlegging? )
+
+
+
+### resources to look at ###
+
+
+
+
+
+
+
+http://www.thomaskeymer.com/linksandresources/
+
+
+
+https://www.18thcenturycommon.org/collections/digital-humanities-18th-century-studies/
+
+
+
+### corpora contents ###
 
 
 
@@ -293,59 +381,7 @@ It is disproportionally difficult to revisit a graph that is 80% complete to add
 
 
 
-# How do18thC corpora (mis)represent the 1790s? #
-
-
-
-
-
-
-
-How do our current 18thC corpora (mis)represent the works printed in the 1790s? When we work with just one thing, or just the easiest thing, what do we leave out? What would decanonization look like?
-
-
-
-sample a lot of different corpora; develop an ontology of genres; compare corpora; make an anti-recommendation engine ?
-
-
-
-## flatten translations / foreign lang issues ##
-
-
-
-### How much did people read in French? ###
-
-
-
-
-
-
-
-Sales catalogues of French books? Are French books in England necessarily bootleg? (Scottish pirates?)
-
-
-
-(Movements of goods from France to England generally — how did it work? Taxation data? Places outside Paris all bootlegging? )
-
-
-
-## resources to look at ##
-
-
-
-
-
-
-
-http://www.thomaskeymer.com/linksandresources/
-
-
-
-https://www.18thcenturycommon.org/collections/digital-humanities-18th-century-studies/
-
-
-
-# Does celebrity help men but hurt women? #
+## Does celebrity help men but hurt women? ##
 
 
 
@@ -361,7 +397,7 @@ develop metrics for literary celebrity (mentions in news? reprintings? responses
 
 
 
-# What older works were reprinted strategically? #
+## What older works were reprinted strategically? ##
 
 
 
@@ -377,7 +413,7 @@ look for long gaps between printings or spikes; recapture historical context in 
 
 
 
-# How and by whom were chapbooks purchased? #
+## How and by whom were chapbooks purchased? ##
 
 
 
@@ -393,7 +429,7 @@ If William St Clair is weak here, how much DO we know about the chapbook/pamphle
 
 
 
-# Does "serious" fiction use "genre" fiction parasitically? #
+## Does "serious" fiction use "genre" fiction parasitically? ##
 
 
 
@@ -406,50 +442,6 @@ What is the relationship between "genre fiction" and “literary" fiction? (Does
 
 
 ?? read… stuff? try to play spot-the-gothic? build a case study of 1790s gothic vs 1750s sentimental vs later SF vs current romance??
-
-
-
-# How prevalent is Arab orientalism? #
-
-
-
-
-
-
-
-something something orientalism and cosmopolitanism and 18thC Arabic literature?
-
-
-
-find how much and what kinds of Arabic literature people were reading; read 1001 nights & compare to 18thC Arabic editions; re-learn Arabic
-
-
-
-## Was the French translation standard in England? ##
-
-
-
-
-
-
-
-Was the French translation of 1001 nights the “go-to” translation even in England?
-
-
-
-
-
-
-
-## is this 1790s or just 1810s+ ? ##
-
-
-
-
-
-
-
-It really seems like this is a very minor thread in *this* decade
 
 
 
@@ -710,6 +702,58 @@ Dictionary of Anonymous and Pseudonymous English Literature, Volume 1
 
 
 By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simoni
+
+
+
+# Stray Thoughts #
+
+
+
+## How prevalent is Arab orientalism? ##
+
+
+
+
+
+
+
+something something orientalism and cosmopolitanism and 18thC Arabic literature?
+
+
+
+find how much and what kinds of Arabic literature people were reading; read 1001 nights & compare to 18thC Arabic editions; re-learn Arabic
+
+
+
+### Was the French translation standard in England? ###
+
+
+
+
+
+
+
+Was the French translation of 1001 nights the “go-to” translation even in England?
+
+
+
+
+
+
+
+### is this 1790s or just 1810s+ ? ###
+
+
+
+
+
+
+
+It really seems like this is a very minor thread in *this* decade
+
+
+
+## why no evangelical revival in 1790s? ##
 
 
 

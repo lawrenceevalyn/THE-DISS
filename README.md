@@ -9,6 +9,10 @@
 
 # Research Log
 
+## March 17, 2018
+
+Send the thesis proposal to Terry... immediately starting to feel worried about whether she will absolutely hate it. But, well -- it's okay if she does; I can ask her to tell me what she would change, evaluate those suggestions, and adapt. I don't know everythng yet -- I'm only trying to point myself in the direction of interesting questions that I'll start knowing answers to later.
+
 ## March 16, 2018
 
 I was accepted to CSECS! To present the findings of ch 1! Which means my deadline for ch 1 is now October 10!!
