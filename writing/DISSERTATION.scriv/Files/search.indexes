@@ -1020,7 +1020,7 @@ Algee-Hewitt undertakes a computational analysis of a large volume of eighteenth
         </Document>
         <Document ID="516">
             <Title>ch 1 - what's not novels?</Title>
-            <Text>Chapter one engages directly with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s. It begin with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of 18thC texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to fascimiles to transcripts. I will discuss the nature of these exclusions, and consider paths to ameliorate them. Then I will synthesize these disaparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
+            <Text>Chapter one takes up the eternal problem of archival gaps, and asks how we might interrogate or fill these gaps with computational methods. It asks how existing corpora of eighteenth century literature (mis)represent the 1790s. It begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to fascimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disaparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
 Current materials acquired include:
 	•	51,965 bibliographic entries in the English Short Title Catalogue
 	•	42,463 facsimiles in Eighteenth Century Collections Online
@@ -1203,8 +1203,8 @@ Author is of course an important component! But it can also promote the false id
             <Title>Guiding Principles</Title>
         </Document>
         <Document ID="520">
-            <Title>ch 5 - serious vs unserious fiction</Title>
-            <Text>My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?  When and why is timeliness seen as “unserious”? What makes writing “disreputable”? How do we read “disreputable” writing? This chapter engages most directly with the vexed roles and uses of the Gothic: drawing on the work of Michael Gamer and others, I will discuss the Gothic roots of Romanticism. I am particularly interested in comparing the strategies used by writers who wish to use Gothic materials without “being” Gothic (like Hannah More and William Wordsworth), those who accept being Gothic but without being “unserious” (like Ann Radcliffe and Charlotte Smith), and those who embrace both the Gothic and its charge of unseriousness. Matthew Lewis may provide a useful case study for debates about “redeeming literary value” in the Gothic.</Text>
+            <Title>ch 5 - Gothic</Title>
+            <Text>My fifth chapter engages most directly with the vexed uses of the Gothic: drawing on the work of Michael Gamer and others, I will discuss the Gothic roots of Romanticism. This chapter could be well-served by a stylometric approach, examining “Gothic vocabularies” in full texts, to explore the reach of the Gothic. I am particularly interested in comparing the strategies used by writers who wish to use Gothic materials without “being” Gothic (like Hannah More and William Wordsworth), those who accept being Gothic but without being “unserious” (like Ann Radcliffe and Charlotte Smith), and those who embrace both the Gothic and its charge of unseriousness. Matthew Lewis may provide a useful case study for debates about “redeeming literary value” in the Gothic.</Text>
         </Document>
         <Document ID="410">
             <Title>conclusion: DH gets left out</Title>
@@ -1336,7 +1336,7 @@ Also -- many times the "bad" texts through Idea 1 above are, really, socially ma
 So, I am practically allergic to the mere thought of trying to identify Good and Bad texts -- by my own instincts I will then end up only wishing to spend time on my Bad ones -- but I do feel like there is space here to distinguish between the **multiple** uses of literature. If there are **many** lists of Good Books, does that address the fundamental problem at all???</Text>
         </Document>
         <Document ID="527">
-            <Title>Introduction</Title>
+            <Title>Introduction: this is all about canons</Title>
         </Document>
         <Document ID="272">
             <Title>Radcliffe's poems</Title>
@@ -1344,6 +1344,9 @@ So, I am practically allergic to the mere thought of trying to identify Good and
         <Document ID="161">
             <Title>ESTC: publishers visible over authors</Title>
             <Text>The decade 1789-99, according to the ESTC corpus, is driven by publishers at least as much as it is by authors. At this scale, no one author can be seen to have particular impact. Even Paine, and More, and Wesley are dwarfed by the volume of work produced by “Great Britain”, and dwarfed again by the works by “null” authors who were not only unsigned at the time but elude bibliographic documentation now.</Text>
+        </Document>
+        <Document ID="528">
+            <Title>Stray Thoughts</Title>
         </Document>
         <Document ID="417">
             <Title>define timeliness</Title>
@@ -1358,17 +1361,9 @@ Similarly, Lyrical Ballads is often studied in the context of its 1798, 1800, an
         </Document>
         <Document ID="494">
             <Title>For Alex's Eyes Only</Title>
-            <Text>Notes to Alex:
-
-I’ve cut the “something something Arab orientalism” chapter for now because the really good stuff seems to come just after the end of my decade -- I’ll keep my eyes peeled, and might add it back in if I see somewhere that it belongs, but it doesn’t make sense to me as a chapter right now. Instead, I’ll keep brushing up on my Arabic, and start percolating ideas for the next project after this one.
-
-I think this is “enough” proposal that I know how I would start researching/writing each of these chapters, and how I would be able to tell when it was done answering my question -- is it “enough” proposal to make my approach and intentions clear to a third party?</Text>
         </Document>
         <Document ID="383">
             <Title>sensibility</Title>
-        </Document>
-        <Document ID="528">
-            <Title>Stray Thoughts</Title>
         </Document>
         <Document ID="273">
             <Title>Romantic poets relied upon women</Title>
@@ -1381,6 +1376,9 @@ When Smith begins to branch out into more political radical works, she needs to 
 Robinson: ???
 More accomplishes her stunning volume of work partly by being a publisher as much as she is an author. (See: The Apprentice’s Monitor) Her shifting publisher data is mostly information on the Cheap Repository Tracts. [But I was cautioned that these dates are less reliable! Ignore chronological information over sheer quantity? This also addresses the other difficulties re: there being too many publishers to show as a timeline]</Text>
         </Document>
+        <Document ID="529">
+            <Title>THE DISS</Title>
+        </Document>
         <Document ID="418">
             <Title>complicate the arc</Title>
             <Text>In its broadest strokes, this narrative is probably mostly true, and can certainly be useful. Nonetheless, I wish to complicate it by seeking to reconcile “major” works with their “minor” peers, and by foregrounding what I refer to as the “timeliness” of a work. My interest in noncanonical works stems from a desire to recognize the real variety of responses expressed throughout the period in question. Even when one literary affective mode is at its peak popularity, other opinions are being expressed and other tools are being employed. [Just because an idea doesn’t “win” its year doesn’t make it uninteresting; rather, the opposite.] Moreover, individual authors evolve in opinion over time, and even individuals works change in meaning over time, hence my interest in timeliness.</Text>
@@ -1389,17 +1387,13 @@ More accomplishes her stunning volume of work partly by being a publisher as muc
             <Title>novels as puzzle-solving practice</Title>
         </Document>
         <Document ID="495">
-            <Title>For The 18thC Experts</Title>
-            <Text>My current thinking on my dissertation consists of a series of questions, the answers to which I expect to be interrelated. As I pose these questions, my central concern is the distinction drawn between popularity/timeliness/marginalization and seriousness/timelessness/legacy. I want to ask how works that are now considered serious and timeless have achieved their prominent positions, and examine “unserious” or ephemeral works that reward further consideration.
-Chapter one engages with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. My fourth chapter pursues a different tack to focus on another set of widely-read works that are often excluded from “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
-With the possible exception of the first chapter (which, in its focus on archival gaps, also has its non-digital precursors), none of the questions asked above are inherently computational, or questions which have gone unasked previously. My goal is to continue existing scholarly work along these lines, contributing the computational approach which comes naturally to me, to synthesize or enrich non-computational approached.</Text>
+            <Title>proposal intro</Title>
+            <Text>My current thinking on my dissertation consists of a series of questions which are, ultimately, about the construction of written canons. As I pose these questions, I am concerned with some interrelated dichotomies which fall out of this larger question: popularity versus seriousness, timeliness versus timelessness and marginalization versus canonization. I want to ask how works that are now considered serious and timeless have achieved their prominent positions, and examine “unserious” or ephemeral works that reward further consideration. I thus wade directly into some of the most complex and contentious concerns of literary studies; my goal is to contribute something novel in my computational approaches, while taking part in the constant evolution of the current “canon.”
+My introduction establishes the vocabularies that I will use. Chapter one engages with the problem of archival gaps, to ask how existing digital corpora of eighteenth century literature represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. My fourth chapter pursues a different tack to focus on another set of widely-read works that are often excluded from “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.</Text>
         </Document>
         <Document ID="384">
             <Title>no one answer/arc for the period</Title>
             <Text>Each author and work will have its own take on what feeling is for, where it comes from, how it is best to be evoked or controlled or used — and hence there is no arching narrative. But I can trace specific materials, like tears, ghosts, and nature</Text>
-        </Document>
-        <Document ID="529">
-            <Title>THE DISS</Title>
         </Document>
         <Document ID="274">
             <Title>Wordsworth</Title>
@@ -1647,6 +1641,14 @@ This article analyses publication trends of history in early modern Britain and 
             <Title>bibliographers</Title>
             <Text>My interest in timeliness is not unprecedented. William St. Clair’s exhaustive bibliographical study of book prices and David Brewer’s reflection on the recent quantitative turn in literary studies both call attention to the limits of what St. Clair calls the “parade of authors” and “parliament of texts” models of literary history, and the need to account for what Brewer terms the “footprint” left by the ongoing impact of texts beyond their moment of initial publication. Both of these studies, and others like them, enrich our understanding of the immediate timely context of literary productions, particularly as expressed in the marketing and sale of texts to readers. Among Felski’s alternatives to critique, too, is Wai Chee Dimock’s concept of “resonance,” which takes Brewer’s “footprint” as the primary object of study to trace the “busy afterlife of the literary artifact” which “refutes our efforts to box it into a moment of origin.” This “busy afterlife” can be seen beyond the immediate material book history of the work’s editions, in the interplay between reading practices, audiences, and literary genres. </Text>
         </Document>
+        <Document ID="531">
+            <Title>Alex's notes</Title>
+            <Text>Is there a way in which this can be said to be, overall, about how texts do or don't 'enter' a 'canon' of writings - by which you mean, as per e.g. Guillory or Bourdieu, and the idea of cultural capital, a set of texts studied, produced, valued (to varying degrees over time) within certain cultural fields, most especially the field of academic research (but also education, modern publishing, creative industries etc). And then your contribution to the many discussions that go on about (and indeed change) canon, is to bring show we can use digital tools to ask and answer that question? I think maybe it is, and if that is the case, then you need to say just that, and that the other issues - timelessness, popularity, marginalization, immediacy, fall out of that larger question… If you frame it like this, and I think I am suggesting you should, it will force you to have a preliminary chapter or part of the introduction where you review terms/concepts like ‘popularity’ or indeed, canon, or ‘marginalization’ - all of which have their own literatures, outside of DH, but also sometimes in or adjacent it (see e.g. the arguments of Lesser, Farmer, Blayney about Shx’s popularity as measured by edition output and print runs - which used some very basic data tools). You need this because at the moment, you just jump into the studies without the framing questions well established. Such a chapter/intro would also enable you to deal directly with the way that other researchers in your fields (18thC and DH) have already tried to address these questions using different approaches, among them editing (new canons) or distant reading. 
+
+This initial chapter/introduction  I am imagining would also deal with “why 1790s literature” and who else treats the 1790s as a period worthy of cordoning off like this (thus, who your scholarly interlocutors are). 
+
+Finally, you’ve not tried to articulate the queer theory piece here. I think you should, perhaps by thinking with something like this… https://dh2017.adho.org/abstracts/406/406.pdf. What would be the special character of a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature. </Text>
+        </Document>
         <Document ID="310">
             <Title>When and how was Austen canonized?</Title>
             <Text>Broadview p XL: “Austen’s works are now seen to hold a central position in the history of the novel” — did they not before??</Text>
@@ -1654,6 +1656,16 @@ This article analyses publication trends of history in early modern Britain and 
         <Document ID="421">
             <Title>combine in Goldsmith</Title>
             <Text>A particularly interesting text which might reward a study of both its timeliness and its use of feeling is Oliver Goldsmith’s The Vicar of Wakefield, which was first published in 1766 but continued to be frequently reprinted in the 1790s. The persistence of Wakefield immediately undermines any literary history which wholly relegates the sentimental novel to the 1760s and 1770s. However, by the 1790s Wakefield is no longer competing with The Man of Feeling (which many of its former dedicated readers now regarded with embarassment), and instead was read alongside the contemporary literature of sensibility in the Gothic mode. There is much still to be uncovered about how readers in the 1790s made very different sense of this work’s political and religious sermons, dramatic and moving prison scenes, and moralizing love-plot.</Text>
+        </Document>
+        <Document ID="532">
+            <Title>intro - vocab</Title>
+            <Text>My introduction will define the terms and concepts which the rest of the dissertation will use, paying particular attention to the parallel development of similar concerns in DH and non-DH fields. I will explicitly note that my DH methods align me with scholars in queer DH, and discuss some of the underlying assumptions of queer theory which shape my thinking: my aspiration is a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature. The introduction will also address why I define my window of interest as 1789-99, and who my scholarly interlocutors are in treating the 1790s as its own small literary period.
+Vocabulary to be discussed:
+	•	“Surface” reading vs “distant” reading (and, of course, their ties to close reading)
+	•	Popularity, canon, marginalization
+	•	My preferred DH terminology around modelling, sensitivity, and fruitfulness
+The introduction will thus allow me to to deal directly with the way that other researchers in my fields (18thC and DH) have already tried to address my questions using different approaches, among them editing (new canons) or distant reading.
+</Text>
         </Document>
         <Document ID="311">
             <Title>Shelley "England in 1819", 1839</Title>
@@ -1667,6 +1679,10 @@ This article analyses publication trends of history in early modern Britain and 
             <Text>The Digital Humanities
 Timeliness and feeling, as investigated through bibliographical research and reparative reading, thus chart a tangled network of interrelated concepts. Reparative reading requires an openess to the multiplicity of meaning which works may accrue as they are printed, reprinted, revised, and adapated in response to the pressures of timeliness. Precise bibliographical research can recapture and contextualize the complex and variable strategies of feeling that competed throughout the period. Not yet integrated into this set of priorities and methodological frameworks is the element of my project which often requires the most justification: my use of quantitative and computational methodologies.</Text>
         </Document>
+        <Document ID="533">
+            <Title>Shakey popularity paper to read</Title>
+            <Text>review terms/concepts like ‘popularity’ or indeed, canon, or ‘marginalization’ - all of which have their own literatures, outside of DH, but also sometimes in or adjacent it (see e.g. the arguments of Lesser, Farmer, Blayney about Shx’s popularity as measured by edition output and print runs - which used some very basic data tools</Text>
+        </Document>
         <Document ID="312">
             <Title>Years in titles reflect foreshortening of historic</Title>
             <Text>Years in titles reflect foreshortening of historic scope?</Text>
@@ -1674,6 +1690,10 @@ Timeliness and feeling, as investigated through bibliographical research and rep
         <Document ID="423">
             <Title>DH as historical breach</Title>
             <Text>“Digital humanities” is often figured as a historical rupture of its own, one which calls into question past literary study and makes the future of the field impossible to predict. Adam Hammond uses his monograph to try to grasp the nature of the changes; more commonly, book-length criticism in the digital humanities take the form of edited collections, which accumulate many small snapshots of computationally-engaged research that only rarely attempt to theorize the whole. There are often common threads between these local strategies to maintain humanist and qualitative principles within individual computation projects, but even these are often seen as representing an intermediate stage. Bettina Fischer-Starke’s linguistics monograph, being totally embedded in the computational corpus analysis which now constitute linguistics itself as a field, presents an illuminating contrast to the hestitations and preoccupation with definitions and boundaries in self-identified “digital humanities” work.</Text>
+        </Document>
+        <Document ID="534">
+            <Title>queer DH</Title>
+            <Text>… https://dh2017.adho.org/abstracts/406/406.pdf. What would be the special character of a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature.  </Text>
         </Document>
         <Document ID="390">
             <Title>parade vs parliament</Title>
@@ -1689,6 +1709,11 @@ Timeliness and feeling, as investigated through bibliographical research and rep
         <Document ID="424">
             <Title>McCarty: interdisciplinary</Title>
             <Text>Willard McCarty stands out for often producing short articles which simply accumulate vocabulary from other fields and present them for consideration. My past work has made extensive use of his definitions of models and prototypes; now, his chapter on interdisciplinary research strikes me as particularly fruitful. Willard McCarty says that “[t]he range of possibilities in interdisciplinary research is from theft to assimilation”: the current state of “digital humanities” research still involves a lot of theft. Digital humanists kidnap computational methods for their own, often-unrelated needs, but more dangerously, digital research often steals an aura of empirical objectivity from its proximity to “hard sciences.” The aura of objective truth carried by graphs and tables — an aura which is actively cultivated by many digital humanities practitioners, especially Franco Moretti — is an illusion that does not reflect how the sciences understand their own work. Because, as McCarty observes, “research in a discipline to which one is alien is difficult to see as good research, or even to see as research at all,” it is easy for computational humanities research to dazzle or to fizzle, but hard for it to usefully inform. Transitioning from theft to something closer to assimilation will require a calm recognition that many scientific papers present incorrect results, and that the rhetoric of rationality is no guarantee of usefulness or accuracy — a lesson which returns us to the debates of the eighteenth century.
+</Text>
+        </Document>
+        <Document ID="535">
+            <Title>gillespie comment</Title>
+            <Text>Is there a way in which this can be said to be, overall, about how texts do or don't 'enter' a 'canon' of writings - by which you mean, as per e.g. Guillory or Bourdieu, and the idea of cultural capital, a set of texts studied, produced, valued (to varying degrees over time) within certain cultural fields, most especially the field of academic research (but also education, modern publishing, creative industries etc). And then your contribution to the many discussions that go on about (and indeed change) canon, is to bring show we can use digital tools to ask and answer that question.
 </Text>
         </Document>
         <Document ID="391">
@@ -1710,6 +1735,11 @@ Timeliness and feeling, as investigated through bibliographical research and rep
             <Title>conclusion</Title>
             <Text>I hope to integrate my computational and quantitative research into a fully humanities project by largely refusing to centre the technological elements of my methodology, either in terms of its practice or in terms of its theory. I completely reject the aura of empiricist objectivity which quantitative and computational methods attempt to surround themselves with. I embrace the messiness and intimacy of modelling. Trying to integrate attentiveness to textual detail and emotional openness will be good for “DH.”</Text>
         </Document>
+        <Document ID="536">
+            <Title>deleted ideas from ch 5</Title>
+            <Text>brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?  When and why is timeliness seen as “unserious”? What makes writing “disreputable”? How do we read “disreputable” writing? This chapter engages most directly with the vexed roles and uses of the Gothic</Text>
+            <Comments>the stuff I delete here is really all stuff you need to cover earlier -see above</Comments>
+        </Document>
         <Document ID="392">
             <Title>works with useful lessons??</Title>
         </Document>
@@ -1721,6 +1751,43 @@ Timeliness and feeling, as investigated through bibliographical research and rep
             <Title>Lewis too popular</Title>
             <Text>As per Hazlitt, Norton p 561
 “He had been to see the Castle Spectre by Monk Lewis, while at Bristol, and described it very well. He said ‘it fitted the taste of the audience like a glove.’ This ad captandum merit was, however, by no means a recommendation of it, according to the severse principles of the new school, which reject rather than court popular efffect.”</Text>
+        </Document>
+        <Document ID="537">
+            <Title>notes from meeting</Title>
+            <Text>All my terms (seriousness, timelessness, etc) are reasons a work might be canonized — clarifies my interests by ‘zooming out’ to the framework of the canon
+What is the print landscape of the 1790s actually like? As opposed to our filtered versions via academics, subsequent generations of writers
+TL Cowan etc - how do you actually do recuperative/reparative work on archives
+Looking at digital corpora the way that people look at anthologies, classroom teaching, etc; talk about why it’s important to know this, becase this is what we all refer to now
+Celebrity: easy to say a woman was famous but then forgotten, but once I have my corpora etc I can meaningfully ask how famous they were; but stick just to the 1790s, and not get into questions that will require engagement with the 19thC. (Can I figure how, comparatively, how famous people are in the ebbs and flows of the 1790s)
+Why the 1790s? 18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernavular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. (But stay away from seeing Romanticism as starting here; I’d have to do a lot of work to justify to scholars the beginning of Romanticism in the 1790s)
+Suggested chapter: DH study of the popular/mainstream press; recover contemporary printing practices; chapbooks and religious tracts; look at celebrity via print culture — just “what was most popular during the day, according to what they’re showing us” (draw this out as its own chapter). But how do you prove popularity? Why does one corpus show one popuar thing, and another show another. Do our major corpora just show us what the major publishing houses published? (Bring my questions about celebrity and reprinting into this chapter)
+Something on politics: chapter on the radical press, which is something else entirely. Pamphlets, essays, periodicals. Engage with an exciting and burgeoning field. Joseph-Johnson Circle: printed Wollstonecraft &amp; Paine. Think about individual printers as having political allegiances; radical publishers. Dissenting societies. My question is: who was publishing? Are we not seeing these text? Conservative works/responses overrepresented in the corpora? Social network graphs?? Authors choosing publishers strageically. Coterie publishing? Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. (Complicate the story of popularity?) Radical Underworld monograph. —— And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database? Or maybe I undo the argument that this was happening surreptitiously/underground?
+A lot of my questions aren’t quite about canons, they’re about ARCHIVES, which are related but without the idea of cultural capital; do our archives just reflect our canons? — Marisett - how the dewey decimal system systematically excludes african american authors of the 20thC — data production (of course it’s really all capta — the things you choose, and also the things that are made available for capture; shaped by choices and by constraints)
+Is it even possible to get back to that initial moment before the archive formation began? I’m going to try! Undoing the misperception of what we begin with “before” the archive, and the perception of what is produced by DH
+
+Who was actually printing what? Booksellers and print culture from a DH angle
+
+Gothic: synthesize popular and political? Radcial novels are often Gothic; but Gothic is also highly popular/mainstream. Not just a simple fusion of mass and racial media, but something there? Gothic as a mode or material that people want to have an inherent political content, but in fact it can be used for any agenda, it can be used for various forms… but there’s a lot that can’t be reshaped? Repackages radical themes to be mass accessible (melodrama?)? — Re-read Gary Kelley’s Jacobin Novel; something on melodrama
+
+TITLE:  (1790s English) Print Politics in the Digital Archive
+
+Map of the thesis at this stage:
+	1.	Introduction: archive formation!
+	2.	Comparison of digital corpora (write this first)
+	3.	Ok, now how can I use these corpora to ask again what the print landscape of the 1790s actually looked like?
+	⁃	Mainstream press?
+	⁃	Radical press? Is it actually surreptitious/marginal?
+[Something something the Gothic? (Will develop as the earlier parts develop) — but don’t put this in the proposal set]
+TODO: Slot all the bits that I don’t want to lose into this new structure
+
+Ongoing warning: I’m not trying to talk to undergrads, so I don’t need to debunk undergrad misperceptions. Read more secondary literature. Email Terry for books more often!
+
+Mention that I am writing my own code, and that I think it’s crucial to read code and critique its algorithmic assumptions. Very explicit about methods. 2015 NSF report on reproducibility of research. My methods have to be able to explain how they are trustworthy.
+(Put datasets in open access — T-space? Cultural Analytics?)
+(Can generate a lot of words on methods section — but don’t bury in appendices? Instead put it in methods sections? 10,000 words, not 40,000 words. Remember that Terry is the audience.)
+
+To read: Alan Liu — read his work on Romantic canonization; try to meet him? Him and the editors of Romantic Circles are the godfathers of DH and Romanticism. Just had one in PMLA about disjunction between DH and literary critics, how we frame questions and results
+Stephen Berhrendt? Editor of Romantic Circles?</Text>
         </Document>
         <Document ID="14">
             <Title>Works Cited</Title>

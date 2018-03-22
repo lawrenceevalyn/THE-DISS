@@ -1,4 +1,4 @@
-# Next-do: meet with committee re: thesis proposal
+# Next-do: redraft proposal, submit March 27
 
 # Research questions
 1. How do our current 18thC corpora (mis)represent the works printed in the 1790s?
@@ -8,6 +8,10 @@
 1. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?
 
 # Research Log
+
+## March 20, 2018
+
+Feeling so good after that meeting!! Excited and energized!
 
 ## March 17, 2018
 
