@@ -1,73 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# March 20 Thesis Proposal #
-
-
-
-My current thinking on my dissertation consists of a series of questions which are, ultimately, about the construction of written canons. As I pose these questions, I am concerned with some interrelated dichotomies which fall out of this larger question: popularity versus seriousness, timeliness versus timelessness and marginalization versus canonization. I want to ask how works that are now considered serious and timeless have achieved their prominent positions, and examine “unserious” or ephemeral works that reward further consideration. I thus wade directly into some of the most complex and contentious concerns of literary studies; my goal is to contribute something novel in my computational approaches, while taking part in the constant evolution of the current “canon.”
-
-
-
-My introduction establishes the vocabularies that I will use. Chapter one engages with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s place in a canon, particularly for male versus female authors. Another argument I hope to advance is that literary works can be considered relevant to a given literary period, even after their original publication; my third chapter turns its attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to successive re-printings during that decade. My fourth chapter pursues a different tack to focus on another set of widely-read works that are sometimes excluded from the category “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
-
-
-
-My introduction will define the terms and concepts which the rest of the dissertation will use, paying particular attention to the parallel development of similar concerns in DH and non-DH fields. I will explicitly note that my DH methods align me with scholars in queer DH, and discuss some of the underlying assumptions of queer theory which shape my thinking: my aspiration is a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature. The introduction will also address why I define my window of interest as 1789-99, and who my scholarly interlocutors are in treating the 1790s as its own small literary period.
-
-Vocabulary to be discussed:
-
-	•	“Surface” reading vs “distant” reading (and, of course, their ties to close reading) 
-
-	•	Popularity, canon, marginalization 
-
-	•	My preferred DH terminology around modelling, sensitivity, and fruitfulness 
-
-The introduction will thus allow me to to deal directly with the way that other researchers in my fields (18thC and DH) have already tried to address my questions using different approaches, among them editing (new canons) or distant reading.
-
-
-
-Chapter one takes up the eternal problem of archival gaps, and asks how we might interrogate or fill these gaps with computational methods. It asks how existing corpora of eighteenth century literature (mis)represent the 1790s. It begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
-
-Current materials acquired include:
-
-	•	51,965 bibliographic entries in the English Short Title Catalogue 
-
-	•	42,463 facsimiles in Eighteenth Century Collections Online 
-
-	•	10,832 facsimiles in 12 archives of Nineteenth Century Collections Online 
-
-	•	4,381 facsimiles with OCR transcription in the HathiTrust Digital Library 
-
-	•	466 XML files created by the ECCO Text Creation Partnership 
-
-Also under consideration is Project Gutenberg (as the corpus everyone uses but no one likes to admit to using).
-
-The first chapter thus introduces my decade of interest and the materials and perspectives I bring to bear on it, laying the foundation for my questions about canonization.
-
-
-
-Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the perceived “seriousness” of their reputations. Influenced by Ashley J. Cross’s “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt,” I am interested in exploring the careers of Mary Robinson and Samuel Taylor Coleridge as my “case study” for this chapter. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both fruitful and nuanced. In addition to reading the extensive literature grappling with these concerns for individual authors, I am currently thinking of ways to use mentions in reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. I may also add scholarly uptake (perhaps through the proxy of  JSTOR articles, since JSTOR makes their archive accessible for experiments of this type) as a particular sub-type of “legacy.”
-
-
-
-Taking up David Brewer’s challenge in “Counting, Resonance, and Form” to account for the increased “footprint” of some texts beyond the moment of their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting (or, in the case of plays, re-staging). The chapter’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant? As in my first chapter, the “case study” texts for this chapter will emerge from my broader research. I am particularly eager to investigate timely re-stagings of plays, given the heightened ephemerality and thus timeliness of theatrical productions compared to print; my first step is to assemble a precise timeline of what was staged during the period. For printed works, some initial exploration suggests that Shakespeare, Oliver Goldsmith, Daniel Defoe, Samuel Johnson, or Milton are prominent in the English Short Title Catalogue and therefore might be of interest. I will need to determine what distinction, if any, I might want to draw between “canonical” authors like Shakespeare and Milton, whose posthumous prominence is predictable, and any shorter-lived targeted reprintings that I might discover.
-
-
-
-My fourth chapter takes a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. These are usually excluded for not being “literature” rather than not being “1790s” (though part of my inquiry will also be to determine how ‘out of date’ chapbooks would get before reaching their readers, and how this compares to book publishing). This print-historical chapter seeks to explore what is often seen as a “gap” in William St. Clair’s history, to see how much we do know about the chapbook trade. I am particularly interested in pamphlets produced in response to other pamphlets, and whether there are geographic or social disjunctions in timeliness. This chapter will of course address Hannah More’s Cheap Repository Tracts, but I am equally curious about the works among which hers were sold. My “case study” could trace the printing and circulation of one of More’s pamphlets and some of its fellow-travellers, as the foundation for a discussion of More’s hybrid literary forms. 
-
-
-
-My fifth chapter builds on the work of Michael Gamer and others,  describes the relationship of the Gothic to Romanticism. This chapter could be well-served by a stylometric approach, examining “Gothic vocabularies” in full texts, to explore the reach of the Gothic. I am particularly interested in comparing the strategies used by writers who wish to use Gothic materials without “being” Gothic (like Hannah More and William Wordsworth), those who accept being Gothic but without being “unserious” (like Ann Radcliffe and Charlotte Smith), and those who embrace both the Gothic and its charge of unseriousness. Matthew Lewis may provide a useful case study for debates about “redeeming literary value” in the Gothic.
-
-
-
-The dissertation as a whole, then, looks at the same large body of texts (works printed in England 1789-99) through several different, but interconnected, lenses. Only some of these lenses have specific computational projects in mind already, but all of them ask questions at a scale where I know I will want at least a spreadsheet, and quite probably much more, in order to bring together the many pieces of information that I examine. I expect some works and lines of thought to re-emerge in multiple chapters as I clarify the connections between my central concepts.
-
-
-
-# April 27 Thesis Proposal #
+# April 27 Thesis Proposal Notes #
 
 
 
@@ -103,7 +37,7 @@ My current thinking on my dissertation consists of a series of questions which a
 
 
 
-My introduction establishes the vocabularies that I will use. Chapter one engages with the problem of archival gaps, to ask how existing digital corpora of eighteenth century literature represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. In keeping with my contention that literary works must be considered as still “active” even after their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to prominent re-printing. My fourth chapter pursues a different tack to focus on another set of widely-read works that are often excluded from “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
+My introduction establishes the vocabularies that I will use. Chapter one engages with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s place in a canon, particularly for male versus female authors. Another argument I hope to advance is that literary works can be considered relevant to a given literary period, even after their original publication; my third chapter turns its attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to successive re-printings during that decade. My fourth chapter pursues a different tack to focus on another set of widely-read works that are sometimes excluded from the category “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
 
 
 
@@ -125,11 +59,51 @@ Mention that I am writing my own code, and that I think it’s crucial to read c
 
 
 
+TL Cowan etc - how do you actually do recuperative/reparative work on archives
+
+
+
+
+
+My introduction will define the terms and concepts which the rest of the dissertation will use, paying particular attention to the parallel development of similar concerns in DH and non-DH fields. I will explicitly note that my DH methods align me with scholars in queer DH, and discuss some of the underlying assumptions of queer theory which shape my thinking: my aspiration is a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature. The introduction will also address why I define my window of interest as 1789-99, and who my scholarly interlocutors are in treating the 1790s as its own small literary period.
+
+Vocabulary to be discussed:
+
+	•	“Surface” reading vs “distant” reading (and, of course, their ties to close reading) 
+
+	•	Popularity, canon, marginalization 
+
+	•	My preferred DH terminology around modelling, sensitivity, and fruitfulness 
+
+The introduction will thus allow me to to deal directly with the way that other researchers in my fields (18thC and DH) have already tried to address my questions using different approaches, among them editing (new canons) or distant reading.
+
+
+
 ## ch 1 - digital corpora ##
 
 
 
 Looking at digital corpora the way that people look at anthologies, classroom teaching, etc; talk about why it’s important to know this, becase this is what we all refer to now
+
+
+
+Chapter one takes up the eternal problem of archival gaps, and asks how we might interrogate or fill these gaps with computational methods. It asks how existing corpora of eighteenth century literature (mis)represent the 1790s. It begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
+
+Current materials acquired include:
+
+	•	51,965 bibliographic entries in the English Short Title Catalogue 
+
+	•	42,463 facsimiles in Eighteenth Century Collections Online 
+
+	•	10,832 facsimiles in 12 archives of Nineteenth Century Collections Online 
+
+	•	4,381 facsimiles with OCR transcription in the HathiTrust Digital Library 
+
+	•	466 XML files created by the ECCO Text Creation Partnership 
+
+Also under consideration is Project Gutenberg (as the corpus everyone uses but no one likes to admit to using).
+
+The first chapter thus introduces my decade of interest and the materials and perspectives I bring to bear on it, laying the foundation for my questions about canonization.
 
 
 
@@ -139,7 +113,27 @@ Looking at digital corpora the way that people look at anthologies, classroom te
 
 Suggested chapter: DH study of the popular/mainstream press; recover contemporary printing practices; chapbooks and religious tracts; look at celebrity via print culture — just “what was most popular during the day, according to what they’re showing us” (draw this out as its own chapter). But how do you prove popularity? Why does one corpus show one popuar thing, and another show another. Do our major corpora just show us what the major publishing houses published? (Bring my questions about celebrity and reprinting into this chapter)
 
+
+
+
+
 Celebrity: easy to say a woman was famous but then forgotten, but once I have my corpora etc I can meaningfully ask how famous they were; but stick just to the 1790s, and not get into questions that will require engagement with the 19thC. (Can I figure how, comparatively, how famous people are in the ebbs and flows of the 1790s)
+
+Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s legacy, particularly for male versus female authors. I want to contextualize individual writers’ claims both to popularity (Hannah More) and to obscurity (William Wordsworth). I hypothesize that some level of celebrity assists male authors in achieving long-lasting legacies, but that celebrity is of no help to female authors, and may even harm the perceived “seriousness” of their reputations. Influenced by Ashley J. Cross’s “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt,” I am interested in exploring the careers of Mary Robinson and Samuel Taylor Coleridge as my “case study” for this chapter. The technical challenge in this chapter lies in developing metrics for “popularity,” “celebrity,” and “legacy” which are both fruitful and nuanced. In addition to reading the extensive literature grappling with these concerns for individual authors, I am currently thinking of ways to use mentions in reviews and news articles as an index of celebrity, and posthumous printings as an index of legacy. I may also add scholarly uptake (perhaps through the proxy of  JSTOR articles, since JSTOR makes their archive accessible for experiments of this type) as a particular sub-type of “legacy.”
+
+
+
+
+
+Taking up David Brewer’s challenge in “Counting, Resonance, and Form” to account for the increased “footprint” of some texts beyond the moment of their original publication, my third chapter turns it attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting (or, in the case of plays, re-staging). The chapter’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant? As in my first chapter, the “case study” texts for this chapter will emerge from my broader research. I am particularly eager to investigate timely re-stagings of plays, given the heightened ephemerality and thus timeliness of theatrical productions compared to print; my first step is to assemble a precise timeline of what was staged during the period. For printed works, some initial exploration suggests that Shakespeare, Oliver Goldsmith, Daniel Defoe, Samuel Johnson, or Milton are prominent in the English Short Title Catalogue and therefore might be of interest. I will need to determine what distinction, if any, I might want to draw between “canonical” authors like Shakespeare and Milton, whose posthumous prominence is predictable, and any shorter-lived targeted reprintings that I might discover.
+
+
+
+My fourth chapter takes a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. These are usually excluded for not being “literature” rather than not being “1790s” (though part of my inquiry will also be to determine how ‘out of date’ chapbooks would get before reaching their readers, and how this compares to book publishing). This print-historical chapter seeks to explore what is often seen as a “gap” in William St. Clair’s history, to see how much we do know about the chapbook trade. I am particularly interested in pamphlets produced in response to other pamphlets, and whether there are geographic or social disjunctions in timeliness. This chapter will of course address Hannah More’s Cheap Repository Tracts, but I am equally curious about the works among which hers were sold. My “case study” could trace the printing and circulation of one of More’s pamphlets and some of its fellow-travellers, as the foundation for a discussion of More’s hybrid literary forms. 
+
+
+
+
 
 
 
@@ -147,15 +141,21 @@ Celebrity: easy to say a woman was famous but then forgotten, but once I have my
 
 
 
-Something on politics: chapter on the radical press, which is something else entirely. Pamphlets, essays, periodicals. Engage with an exciting and burgeoning field. Joseph-Johnson Circle: printed Wollstonecraft & Paine. Think about individual printers as having political allegiances; radical publishers. Dissenting societies. My question is: who was publishing? Are we not seeing these text? Conservative works/responses overrepresented in the corpora? Social network graphs?? Authors choosing publishers strageically. Coterie publishing? Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. (Complicate the story of popularity?) Radical Underworld monograph. —— And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database? Or maybe I undo the argument that this was happening surreptitiously/underground?
+Something on politics: chapter on the radical press, which is something else entirely. Pamphlets, essays, periodicals. Engage with an exciting and burgeoning field. Joseph-Johnson Circle: printed Wollstonecraft & Paine. Think about individual printers as having political allegiances; radical publishers. Dissenting societies. My question is: who was publishing? Are we not seeing these text? Conservative works/responses overrepresented in the corpora? Social network graphs?? Authors choosing publishers strategically. Coterie publishing? Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. (Complicate the story of popularity?) Radical Underworld monograph. —— And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database? Or maybe I undo the argument that this was happening surreptitiously/underground?
+
+My fifth chapter builds on the work of Michael Gamer and others,  describes the relationship of the Gothic to Romanticism. This chapter could be well-served by a stylometric approach, examining “Gothic vocabularies” in full texts, to explore the reach of the Gothic. I am particularly interested in comparing the strategies used by writers who wish to use Gothic materials without “being” Gothic (like Hannah More and William Wordsworth), those who accept being Gothic but without being “unserious” (like Ann Radcliffe and Charlotte Smith), and those who embrace both the Gothic and its charge of unseriousness. Matthew Lewis may provide a useful case study for debates about “redeeming literary value” in the Gothic.
 
 
 
-## ? - theory chapter ##
+## conclusion ##
 
 
 
-TL Cowan etc - how do you actually do recuperative/reparative work on archives
+The dissertation as a whole, then, looks at the same large body of texts (works printed in England 1789-99) through several different, but interconnected, lenses. Only some of these lenses have specific computational projects in mind already, but all of them ask questions at a scale where I know I will want at least a spreadsheet, and quite probably much more, in order to bring together the many pieces of information that I examine. I expect some works and lines of thought to re-emerge in multiple chapters as I clarify the connections between my central concepts.
+
+
+
+# April 27 Thesis Proposal #
 
 
 
