@@ -1,17 +1,63 @@
 # Next-do: redraft proposal, submit March 27
 
-# Research questions
-1. How do our current 18thC corpora (mis)represent the works printed in the 1790s?
-1. Does literary celebrity help the legacy of men while hurting women?
-1. What older works were reprinted strategically during the 1790s to respond to a new context?
-1. How and by whom were chapbooks purchased?
-1. Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?
+# Thesis Map
+Map of the thesis at this stage:
+1.	Introduction: archive formation!
+2.	Comparison of digital corpora (write this first)
+3.	Ok, now how can I use these corpora to ask again what the print landscape of the 1790s actually looked like?
+	⁃	Mainstream press?
+	⁃	Radical press? Is it actually surreptitious/marginal?
+4. [Something something the Gothic? (Will develop as the earlier parts develop) — but don’t put this in the proposal set]
+
 
 # Research Log
 
 ## March 20, 2018
 
 Feeling so good after that meeting!! Excited and energized!
+
+Ongoing warning: I’m not trying to talk to undergrads, so I don’t need to debunk undergrad misperceptions. Read more secondary literature. Email Terry for books more often!
+
+---
+
+Full notes dump from meeting:
+
+All my terms (seriousness, timelessness, etc) are reasons a work might be canonized — clarifies my interests by ‘zooming out’ to the framework of the canon
+What is the print landscape of the 1790s actually like? As opposed to our filtered versions via academics, subsequent generations of writers
+TL Cowan etc - how do you actually do recuperative/reparative work on archives
+Looking at digital corpora the way that people look at anthologies, classroom teaching, etc; talk about why it’s important to know this, becase this is what we all refer to now
+Celebrity: easy to say a woman was famous but then forgotten, but once I have my corpora etc I can meaningfully ask how famous they were; but stick just to the 1790s, and not get into questions that will require engagement with the 19thC. (Can I figure how, comparatively, how famous people are in the ebbs and flows of the 1790s)
+Why the 1790s? 18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernavular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. (But stay away from seeing Romanticism as starting here; I’d have to do a lot of work to justify to scholars the beginning of Romanticism in the 1790s)
+Suggested chapter: DH study of the popular/mainstream press; recover contemporary printing practices; chapbooks and religious tracts; look at celebrity via print culture — just “what was most popular during the day, according to what they’re showing us” (draw this out as its own chapter). But how do you prove popularity? Why does one corpus show one popuar thing, and another show another. Do our major corpora just show us what the major publishing houses published? (Bring my questions about celebrity and reprinting into this chapter)
+Something on politics: chapter on the radical press, which is something else entirely. Pamphlets, essays, periodicals. Engage with an exciting and burgeoning field. Joseph-Johnson Circle: printed Wollstonecraft & Paine. Think about individual printers as having political allegiances; radical publishers. Dissenting societies. My question is: who was publishing? Are we not seeing these text? Conservative works/responses overrepresented in the corpora? Social network graphs?? Authors choosing publishers strageically. Coterie publishing? Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. (Complicate the story of popularity?) Radical Underworld monograph. —— And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database? Or maybe I undo the argument that this was happening surreptitiously/underground?
+A lot of my questions aren’t quite about canons, they’re about ARCHIVES, which are related but without the idea of cultural capital; do our archives just reflect our canons? — Marisett - how the dewey decimal system systematically excludes african american authors of the 20thC — data production (of course it’s really all capta — the things you choose, and also the things that are made available for capture; shaped by choices and by constraints)
+Is it even possible to get back to that initial moment before the archive formation began? I’m going to try! Undoing the misperception of what we begin with “before” the archive, and the perception of what is produced by DH
+
+Who was actually printing what? Booksellers and print culture from a DH angle
+
+Gothic: synthesize popular and political? Radcial novels are often Gothic; but Gothic is also highly popular/mainstream. Not just a simple fusion of mass and racial media, but something there? Gothic as a mode or material that people want to have an inherent political content, but in fact it can be used for any agenda, it can be used for various forms… but there’s a lot that can’t be reshaped? Repackages radical themes to be mass accessible (melodrama?)? — Re-read Gary Kelley’s Jacobin Novel; something on melodrama
+
+TITLE:  (1790s English) Print Politics in the Digital Archive
+
+Map of the thesis at this stage:
+	1.	Introduction: archive formation!
+	2.	Comparison of digital corpora (write this first)
+	3.	Ok, now how can I use these corpora to ask again what the print landscape of the 1790s actually looked like?
+	⁃	Mainstream press?
+	⁃	Radical press? Is it actually surreptitious/marginal?
+[Something something the Gothic? (Will develop as the earlier parts develop) — but don’t put this in the proposal set]
+TODO: Slot all the bits that I don’t want to lose into this new structure
+
+Ongoing warning: I’m not trying to talk to undergrads, so I don’t need to debunk undergrad misperceptions. Read more secondary literature. Email Terry for books more often!
+
+Mention that I am writing my own code, and that I think it’s crucial to read code and critique its algorithmic assumptions. Very explicit about methods. 2015 NSF report on reproducibility of research. My methods have to be able to explain how they are trustworthy.
+(Put datasets in open access — T-space? Cultural Analytics?)
+(Can generate a lot of words on methods section — but don’t bury in appendices? Instead put it in methods sections? 10,000 words, not 40,000 words. Remember that Terry is the audience.)
+
+To read: Alan Liu — read his work on Romantic canonization; try to meet him? Him and the editors of Romantic Circles are the godfathers of DH and Romanticism. Just had one in PMLA about disjunction between DH and literary critics, how we frame questions and results
+Stephen Berhrendt? Editor of Romantic Circles?
+
+Meet as soon as possible, by early April, with a new version. First send a next draft, then we’ll meet. 
 
 ## March 17, 2018
 

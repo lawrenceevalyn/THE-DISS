@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included" IncludeGroupText="Yes">
+            <CompileGroup Type="BinderItem">043D9B6B-FB35-4879-B62B-870533D0FC75</CompileGroup>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>5F019618-106D-4CE6-B387-20FB66CFFD0F</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Replacements>
+            <Replacement>
+                <Replace><![CDATA[
+]]></Replace>
+                <With><![CDATA[
+
+]]></With>
+            </Replacement>
+        </Replacements>
+        <Options>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <Links>
+                <ConvertDocumentLinksToHTML>Yes</ConvertDocumentLinksToHTML>
+            </Links>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <FootnotesAsScriptNotes>Yes</FootnotesAsScriptNotes>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC>
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>DISSERTATION</ProjectTitle>
+            <ProjectAbbreviatedTitle>DISSERTATION</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author Role="aut">Lawrence Evalyn</Author>
+            </Authors>
+            <Surname>Evalyn</Surname>
+            <Subjects>
+                <Subject></Subject>
+            </Subjects>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>Print</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="7EE7D41D-D3A6-4A2C-A246-9A259BCCA072">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="088E61C5-C037-4E02-9DBB-70A13C84E4DB">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats></LastUsedFormats>
+</CompileSettings>
