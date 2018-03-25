@@ -66,8 +66,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {250.5, 766}}</string>
-		<string>{{251.5, 0}, {949.5, 766}}</string>
+		<string>{{0, 0}, {251, 766}}</string>
+		<string>{{252, 0}, {949, 766}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -101,8 +101,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {949.5, 361.5}}</string>
-		<string>{{0, 362.5}, {949.5, 373.5}}</string>
+		<string>{{0, 0}, {949, 362}}</string>
+		<string>{{0, 363}, {949, 373}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -987,7 +987,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 189.763671875}, {620, 317}}</string>
+	<string>{{0, 190}, {620, 317}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
@@ -1054,22 +1054,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>716F0BF9-59ED-4047-9B1B-E96EECA29F01</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -1922,14 +1906,30 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>760F6F2D-F7BB-4353-9285-292548E595F9</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>F90D8DD9-7804-4B37-BA9E-B86FF687FCED</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 305}}</string>
+	<string>{{0, 0}, {620, 306}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>78,0</string>
+	<string>29,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
