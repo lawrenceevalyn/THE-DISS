@@ -9,6 +9,9 @@ Map of the thesis at this stage:
 	⁃	Radical press? Is it actually surreptitious/marginal?
 4. [Something something the Gothic? (Will develop as the earlier parts develop) — but don’t put this in the proposal set]
 
+# Writing Principles
+* Don't be precious about preserving previous drafts. Cannibalize them and move on. It's okay for things to be left behind. (Git has my historical record.)
+* Remember that I'm not trying to write to undergrads.
 
 # Research Log
 
