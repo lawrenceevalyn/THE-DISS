@@ -1,7 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# April 27 Thesis Proposal Notes #
+# April 27 Thesis Proposal #
 
 
 
@@ -13,23 +13,7 @@ Print Politics in the Digital Archive, 1789–99
 
 
 
-Map of the thesis at this stage:
-
-	1.	Introduction: archive formation!
-
-	2.	Comparison of digital corpora (write this first)
-
-	3.	Ok, now how can I use these corpora to ask again what the print landscape of the 1790s actually looked like?
-
-	⁃	Mainstream press?
-
-	⁃	Radical press? Is it actually surreptitious/marginal?
-
-
-
-My current thinking on my dissertation consists of a series of questions which are, ultimately, about the construction of written canons. As I pose these questions, I am concerned with some interrelated dichotomies which fall out of this larger question: popularity versus seriousness, timeliness versus timelessness and marginalization versus canonization. I want to ask how works that are now considered serious and timeless have achieved their prominent positions, and examine “unserious” or ephemeral works that reward further consideration. I thus wade directly into some of the most complex and contentious concerns of literary studies; my goal is to contribute something novel in my computational approaches, while taking part in the constant evolution of the current “canon.”
-
-— But actually it’s archives!
+My dissertation seeks to determine, at as minute a level of detail as possible, what the print landscape in England 1789-99 was actually like (in contrast to the filtered and interpreted literary histories which have been built up by scholars or later generations of writers), and how this print landscape persists in archives. As I investigate, I am concerned with some interrelated dichotomies which fall out of my larger concern: popularity versus seriousness, timeliness versus timelessness, and marginalization versus canonization. I want to ask how works that are now considered serious and timeless have achieved their prominent positions, and examine “unserious” or ephemeral works that reward further consideration. I thus wade directly into some of the most complex and contentious concerns of literary studies; my goal is to contribute something novel in my computational approaches, while taking part in the constant evolution of the current “canon.”
 
 
 
@@ -37,7 +21,9 @@ My current thinking on my dissertation consists of a series of questions which a
 
 
 
-My introduction establishes the vocabularies that I will use. Chapter one engages with a digital humanities problem, to ask how existing corpora of eighteenth century literature (mis)represent the 1790s, establishing a foundation of knowledge for the following chapters. Chapter two introduces the driving stakes of the dissertation: it asks what long-term impact literary celebrity has on an author’s place in a canon, particularly for male versus female authors. Another argument I hope to advance is that literary works can be considered relevant to a given literary period, even after their original publication; my third chapter turns its attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to successive re-printings during that decade. My fourth chapter pursues a different tack to focus on another set of widely-read works that are sometimes excluded from the category “1790s literature”: chapbooks. My fifth chapter brings together these lines of thought, to ask what relationship “serious literature” had to the “non-literary”, and especially to “sub-literary” fiction, in the 1790s.
+My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade. Chapter two turns a critical eye on the existing digital archives of the 1790s.
+
+
 
 
 
@@ -45,37 +31,21 @@ My introduction establishes the vocabularies that I will use. Chapter one engage
 
 
 
-What is the print landscape of the 1790s actually like? As opposed to our filtered versions via academics, subsequent generations of writers
+My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade.
 
-All my terms (seriousness, timelessness, etc) are reasons a work might be canonized — clarifies my interests by ‘zooming out’ to the framework of the canon
+My methodology situates me within queer DH and critical algorithm studies. I follow the work of scholars like T.L. Cowan in undertaking reparative work on archives. My aspiration is to join a growing body of queer DH scholarship in developing a non-extractive, anti-oppressive, less neoliberal digital humanities methodology. Accordingly, I will present a humanistic critique of essentialist tendencies in simplistic digital projects, and discuss the pitfalls I have attempted to avoid in my own methodology. In discussing my methods, I will take up Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.” I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code. I will also discuss my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty.
 
-Why the 1790s? 18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernavular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. (But stay away from seeing Romanticism as starting here; I’d have to do a lot of work to justify to scholars the beginning of Romanticism in the 1790s)
-
-A lot of my questions aren’t quite about canons, they’re about ARCHIVES, which are related but without the idea of cultural capital; do our archives just reflect our canons? — Marisett - how the dewey decimal system systematically excludes african american authors of the 20thC — data production (of course it’s really all capta — the things you choose, and also the things that are made available for capture; shaped by choices and by constraints)
-
-Is it even possible to get back to that initial moment before the archive formation began? I’m going to try! Undoing the misperception of what we begin with “before” the archive, and the perception of what is produced by DH
-
-Mention that I am writing my own code, and that I think it’s crucial to read code and critique its algorithmic assumptions. Very explicit about methods. 2015 NSF report on reproducibility of research. My methods have to be able to explain how they are trustworthy.
+My subject matter situates me in a densely-discussed intersection of scholarly fields.
 
 
 
-TL Cowan etc - how do you actually do recuperative/reparative work on archives
+The years 1789-99 make an eleven-year “decade” delimited by the major events of the French Revolution, but also home to a crucial literary moment in which thematized literary canons begin to take form. 
+
+18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernacular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. 
 
 
 
-
-
-My introduction will define the terms and concepts which the rest of the dissertation will use, paying particular attention to the parallel development of similar concerns in DH and non-DH fields. I will explicitly note that my DH methods align me with scholars in queer DH, and discuss some of the underlying assumptions of queer theory which shape my thinking: my aspiration is a non-extractive/anti-oppressive/less neo-lib or conservative or colonial  DH approach to the ‘canon of 1790s’ literature. The introduction will also address why I define my window of interest as 1789-99, and who my scholarly interlocutors are in treating the 1790s as its own small literary period.
-
-Vocabulary to be discussed:
-
-	•	“Surface” reading vs “distant” reading (and, of course, their ties to close reading) 
-
-	•	Popularity, canon, marginalization 
-
-	•	My preferred DH terminology around modelling, sensitivity, and fruitfulness 
-
-The introduction will thus allow me to to deal directly with the way that other researchers in my fields (18thC and DH) have already tried to address my questions using different approaches, among them editing (new canons) or distant reading.
+The introduction will also address who my scholarly interlocutors are in treating the 1790s as its own small literary period. [Britain, England, or London?] 
 
 
 
@@ -83,27 +53,27 @@ The introduction will thus allow me to to deal directly with the way that other 
 
 
 
-Looking at digital corpora the way that people look at anthologies, classroom teaching, etc; talk about why it’s important to know this, becase this is what we all refer to now
+Chapter two examines corpora of eighteenth century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives increasingly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions.
 
+ The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience flying to California in order to be taught about HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible.
 
-
-Chapter one takes up the eternal problem of archival gaps, and asks how we might interrogate or fill these gaps with computational methods. It asks how existing corpora of eighteenth century literature (mis)represent the 1790s. It begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
+Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
 
 Current materials acquired include:
 
-	•	51,965 bibliographic entries in the English Short Title Catalogue 
+* 51,965 bibliographic entries in the English Short Title Catalogue
 
-	•	42,463 facsimiles in Eighteenth Century Collections Online 
+*42,463 facsimiles in Eighteenth Century Collections Online
 
-	•	10,832 facsimiles in 12 archives of Nineteenth Century Collections Online 
+* 10,832 facsimiles in 12 archives of Nineteenth Century Collections Online
 
-	•	4,381 facsimiles with OCR transcription in the HathiTrust Digital Library 
+* 4,381 facsimiles with OCR transcription in the HathiTrust Digital Library
 
-	•	466 XML files created by the ECCO Text Creation Partnership 
+* 466 XML files created by the ECCO Text Creation Partnership
 
 Also under consideration is Project Gutenberg (as the corpus everyone uses but no one likes to admit to using).
 
-The first chapter thus introduces my decade of interest and the materials and perspectives I bring to bear on it, laying the foundation for my questions about canonization.
+The second chapter thus establishes the corpora with which I will answer my subsequent questions.
 
 
 
@@ -133,6 +103,8 @@ My fourth chapter takes a different tack to focus on widely-read works that are 
 
 
 
+Another argument I hope to advance is that literary works can be considered relevant to a given literary period, even after their original publication; my third chapter turns its attention to works originally written before the 1790s which nonetheless can be considered as important “1790s literature” due to successive re-printings during that decade.
+
 
 
 
@@ -152,10 +124,6 @@ My fifth chapter builds on the work of Michael Gamer and others,  describes the
 
 
 The dissertation as a whole, then, looks at the same large body of texts (works printed in England 1789-99) through several different, but interconnected, lenses. Only some of these lenses have specific computational projects in mind already, but all of them ask questions at a scale where I know I will want at least a spreadsheet, and quite probably much more, in order to bring together the many pieces of information that I examine. I expect some works and lines of thought to re-emerge in multiple chapters as I clarify the connections between my central concepts.
-
-
-
-# April 27 Thesis Proposal #
 
 
 
@@ -212,6 +180,14 @@ keep underlying structures simple -- what will be rich and luscious is your con
 
 
 It is disproportionally difficult to revisit a graph that is 80% complete to add the remaining finishing touches; before putting down one phase of a project, take the time to fully finish the figures as beautiful, print-resolution images.
+
+
+
+## I'm Not Writing About ##
+
+
+
+… reception history outside the 1790s.
 
 
 
