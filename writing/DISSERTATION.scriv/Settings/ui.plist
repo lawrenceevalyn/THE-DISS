@@ -66,8 +66,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {251, 766}}</string>
-		<string>{{252, 0}, {949, 766}}</string>
+		<string>{{0, 0}, {264, 766}}</string>
+		<string>{{265, 0}, {720, 766}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -101,7 +101,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {949, 328}}</string>
+		<string>{{0, 0}, {720, 449}}</string>
+		<string>{{0, 450}, {720, 286}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -179,86 +180,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>27F96EBE-76AE-49F0-9178-D9D7C5CB795C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>9EB2911D-6B11-4D71-8834-EB0B8C09E088</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>C2DD7DA2-919B-455F-A789-8C059F47C1C4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>774A0104-F685-44BE-84C1-45A65E6D046A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B4FD4B57-9CD1-4806-BFBF-D4E2AAC547EB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>774A0104-F685-44BE-84C1-45A65E6D046A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>C2DD7DA2-919B-455F-A789-8C059F47C1C4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>9EB2911D-6B11-4D71-8834-EB0B8C09E088</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>27F96EBE-76AE-49F0-9178-D9D7C5CB795C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>6F518876-88B1-4011-9F7C-0DE38615FA0A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -990,6 +911,8 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{914, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
 					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
@@ -997,14 +920,94 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>333B7232-879E-4267-A8BE-143629AA6D35</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>BEF7375F-E85C-401A-9262-B06AB53DA4EB</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>625A8C09-FB36-4251-9F28-B999B9513DEE</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2286.8999999999987}, {620, 680}}</string>
+	<string>{{0, 0}, {620, 230}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>914,0</string>
+	<string>94,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1017,7 +1020,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>25 84 1201 788 0 0 1440 877 </string>
+	<string>0 89 985 788 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1064,13 +1067,13 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>99</integer>
+		<integer>53</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>11ADED5C-A481-429B-BC61-8B5E00E16DDF</string>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1078,25 +1081,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>67D2E316-B77F-411C-A45F-FA76B42C25FC</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>29946A10-3373-42AE-A10D-065B51D92787</string>
+					<string>625A8C09-FB36-4251-9F28-B999B9513DEE</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1104,25 +1089,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>716F0BF9-59ED-4047-9B1B-E96EECA29F01</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1130,87 +1097,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>6402C3D3-3CAF-487D-8F87-DB93FCE48129</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>38396A52-40F3-4EFD-94C1-2D9BDC40E8F4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>74179035-0EB7-4DC1-8EB4-E17DFCD27153</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>74179035-0EB7-4DC1-8EB4-E17DFCD27153</string>
-					<string>838F3A8D-7E26-40C3-96D1-FD13DDC689E7</string>
-					<string>E6025257-B075-4CBE-9925-418C242BCC7A</string>
-					<string>13E72BE7-5AE2-45BD-A954-68E5EF3FF2FB</string>
-					<string>66644AAF-5156-4532-A678-72E3C0477D45</string>
-					<string>97C6FD8F-DD0D-4C56-9844-5E093B0742A8</string>
-					<string>67D2E316-B77F-411C-A45F-FA76B42C25FC</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>38396A52-40F3-4EFD-94C1-2D9BDC40E8F4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B731F015-C8B4-4CF9-A37B-CC400392F159</string>
+					<string>3CB6E25B-B47C-4101-ABCF-88B24EB3CD55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1218,30 +1105,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>8482516E-8732-4F5E-A191-77B7657CD3EF</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>8482516E-8732-4F5E-A191-77B7657CD3EF</string>
-					<string>E75D4B49-1D09-4FD6-997E-385BAB99F578</string>
-					<string>F91B4BC3-8D0B-4363-A56B-AE40AA6FE681</string>
-					<string>10C7FF42-35CB-4DA4-BB30-9213814E2711</string>
-					<string>118E2975-9779-41A8-8AB4-AA73001876D3</string>
-					<string>716F0BF9-59ED-4047-9B1B-E96EECA29F01</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F74030DE-9681-4674-B304-739908CE1F53</string>
+					<string>0AA889B4-2AEC-458D-9B20-620F40B1A596</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1249,7 +1113,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
+					<string>6C12E22D-7644-431F-AF21-0A56322288BD</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1257,7 +1121,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>827134E0-05DA-4071-8DC8-33FF0930D68E</string>
+					<string>4E7C1283-4719-44CB-9F15-BA0F0850C3F5</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1265,7 +1129,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>374DEFA9-6AD4-4DC2-A8B2-A95140A857F6</string>
+					<string>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1273,7 +1137,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>962F7FF6-1371-45EC-B342-CAA5CEB83DFB</string>
+					<string>4E7C1283-4719-44CB-9F15-BA0F0850C3F5</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1281,7 +1145,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
+					<string>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1289,25 +1153,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{713, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1315,7 +1161,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>3CB6E25B-B47C-4101-ABCF-88B24EB3CD55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1323,7 +1169,47 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>51BFA4A8-43D3-476B-BCBC-ADD06D60EE51</string>
+					<string>0AA889B4-2AEC-458D-9B20-620F40B1A596</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6C12E22D-7644-431F-AF21-0A56322288BD</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>4E7C1283-4719-44CB-9F15-BA0F0850C3F5</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6C12E22D-7644-431F-AF21-0A56322288BD</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>4E7C1283-4719-44CB-9F15-BA0F0850C3F5</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1339,7 +1225,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>F288F662-7588-48E4-93A2-428EFF8A7FBF</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1347,7 +1233,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>51BFA4A8-43D3-476B-BCBC-ADD06D60EE51</string>
+					<string>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1355,7 +1241,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>4E7C1283-4719-44CB-9F15-BA0F0850C3F5</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1363,7 +1249,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A</string>
+					<string>6C12E22D-7644-431F-AF21-0A56322288BD</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1371,7 +1257,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>8538D277-5042-4D03-98DE-EBBE7BC23578</string>
+					<string>0AA889B4-2AEC-458D-9B20-620F40B1A596</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1379,7 +1265,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>625A8C09-FB36-4251-9F28-B999B9513DEE</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1387,7 +1273,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>0AF59A77-673F-401A-8F59-30F6A23B021D</string>
+					<string>3CB6E25B-B47C-4101-ABCF-88B24EB3CD55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1395,7 +1281,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1403,73 +1289,17 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C</string>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>BEF7375F-E85C-401A-9262-B06AB53DA4EB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>BEF7375F-E85C-401A-9262-B06AB53DA4EB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>BEF7375F-E85C-401A-9262-B06AB53DA4EB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>2</integer>
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{2, 0}</string>
+				<string>{543, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
+					<string>333B7232-879E-4267-A8BE-143629AA6D35</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -1477,330 +1307,10 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>BEF7375F-E85C-401A-9262-B06AB53DA4EB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F881F14F-336C-479B-84CE-1CD344CA3DA4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>557CA1F8-9AAC-4A3D-8F9E-5DE1E73ADB22</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>760F6F2D-F7BB-4353-9285-292548E595F9</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>051CF740-75B7-4BEE-B98C-94BC25B843AB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B531A3F8-0E11-4BD2-96F3-2EEDEF1956EB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B731F015-C8B4-4CF9-A37B-CC400392F159</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
-					<string>6402C3D3-3CAF-487D-8F87-DB93FCE48129</string>
-					<string>29946A10-3373-42AE-A10D-065B51D92787</string>
-					<string>275DC523-EDDA-486D-AD30-0BFC42405E90</string>
-					<string>62F33C9A-9020-4235-B8A7-E5B6A6B1F6ED</string>
-					<string>09FD869A-0D86-4A23-8CCA-224042D1E53A</string>
-					<string>F90D8DD9-7804-4B37-BA9E-B86FF687FCED</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F74030DE-9681-4674-B304-739908CE1F53</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
-					<string>6402C3D3-3CAF-487D-8F87-DB93FCE48129</string>
-					<string>29946A10-3373-42AE-A10D-065B51D92787</string>
-					<string>275DC523-EDDA-486D-AD30-0BFC42405E90</string>
-					<string>62F33C9A-9020-4235-B8A7-E5B6A6B1F6ED</string>
-					<string>09FD869A-0D86-4A23-8CCA-224042D1E53A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>275DC523-EDDA-486D-AD30-0BFC42405E90</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>09FD869A-0D86-4A23-8CCA-224042D1E53A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>760F6F2D-F7BB-4353-9285-292548E595F9</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>F90D8DD9-7804-4B37-BA9E-B86FF687FCED</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{2, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{550, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>043D9B6B-FB35-4879-B62B-870533D0FC75</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{169, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>043D9B6B-FB35-4879-B62B-870533D0FC75</string>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
-					<string>827134E0-05DA-4071-8DC8-33FF0930D68E</string>
-					<string>374DEFA9-6AD4-4DC2-A8B2-A95140A857F6</string>
-					<string>962F7FF6-1371-45EC-B342-CAA5CEB83DFB</string>
-					<string>EC89BF35-7BC4-4C78-AE47-7D9C80477970</string>
-					<string>03EB62C0-DCB6-4669-8A0A-CD75D89AC055</string>
-					<string>0AB3159E-5FEC-42F4-9747-BDB5E25CDC38</string>
-					<string>F881F14F-336C-479B-84CE-1CD344CA3DA4</string>
-					<string>9649A675-DB01-4216-9A7D-CDE2971C8F2D</string>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-					<string>BEF7375F-E85C-401A-9262-B06AB53DA4EB</string>
-					<string>8538D277-5042-4D03-98DE-EBBE7BC23578</string>
-					<string>0AF59A77-673F-401A-8F59-30F6A23B021D</string>
-					<string>2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A</string>
-					<string>51BFA4A8-43D3-476B-BCBC-ADD06D60EE51</string>
-					<string>1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C</string>
-					<string>C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3</string>
-					<string>D606F0DD-8E54-4C22-8AB4-93D43DD3C86C</string>
-					<string>0DC360E4-D27F-43E5-9830-36E1D2A9EE6D</string>
-					<string>051CF740-75B7-4BEE-B98C-94BC25B843AB</string>
-					<string>F74030DE-9681-4674-B304-739908CE1F53</string>
-					<string>D983AC00-809B-4877-B8F4-6CB0A4ECAAFE</string>
-					<string>F90D8DD9-7804-4B37-BA9E-B86FF687FCED</string>
-					<string>760F6F2D-F7BB-4353-9285-292548E595F9</string>
-					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
-					<string>09FD869A-0D86-4A23-8CCA-224042D1E53A</string>
-					<string>B531A3F8-0E11-4BD2-96F3-2EEDEF1956EB</string>
-					<string>B731F015-C8B4-4CF9-A37B-CC400392F159</string>
-					<string>F567B1B9-205A-4769-860A-D5A007683941</string>
-					<string>6402C3D3-3CAF-487D-8F87-DB93FCE48129</string>
-					<string>29946A10-3373-42AE-A10D-065B51D92787</string>
-					<string>275DC523-EDDA-486D-AD30-0BFC42405E90</string>
-					<string>62F33C9A-9020-4235-B8A7-E5B6A6B1F6ED</string>
-					<string>38396A52-40F3-4EFD-94C1-2D9BDC40E8F4</string>
-					<string>BB0E9FD3-BADD-4BFD-B0ED-90BBA4D79870</string>
-					<string>11BF4A7B-4C91-4806-A362-319BF51B971B</string>
-					<string>5F4810CA-70C6-47CE-993B-35E80E83D88A</string>
-					<string>5230D78F-F1A3-4261-A8FE-1B636C529482</string>
-					<string>1CD2817E-EBA7-4D19-ABAB-16A70F32328C</string>
-					<string>00A865BF-CB12-4BC7-8B35-AC0C7CBC7372</string>
-					<string>FF258C4E-5601-48DE-8A7E-F47F600C32C4</string>
-					<string>CF5287F4-737A-4E9B-98BC-E14B57CB99F6</string>
-					<string>1FBE203C-507B-4467-90A4-5A6E758DA306</string>
-					<string>42D9F0E4-1B22-49F7-90B1-B771983D5673</string>
-					<string>3098E885-6958-4BA5-8FDD-EC62CD7AE739</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{355, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>043D9B6B-FB35-4879-B62B-870533D0FC75</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>E55CEBCD-8433-47A9-BD87-745C0A614EDB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>00CDB512-0EC9-4EBC-A6FF-1CAECDCD3E20</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>E55CEBCD-8433-47A9-BD87-745C0A614EDB</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>827134E0-05DA-4071-8DC8-33FF0930D68E</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
@@ -1819,140 +1329,105 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>AggregateSelection</key>
-				<string>{370, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>827134E0-05DA-4071-8DC8-33FF0930D68E</string>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>827134E0-05DA-4071-8DC8-33FF0930D68E</string>
-					<string>374DEFA9-6AD4-4DC2-A8B2-A95140A857F6</string>
-					<string>962F7FF6-1371-45EC-B342-CAA5CEB83DFB</string>
-					<string>EC89BF35-7BC4-4C78-AE47-7D9C80477970</string>
-					<string>03EB62C0-DCB6-4669-8A0A-CD75D89AC055</string>
-					<string>0AB3159E-5FEC-42F4-9747-BDB5E25CDC38</string>
-					<string>F881F14F-336C-479B-84CE-1CD344CA3DA4</string>
-					<string>9649A675-DB01-4216-9A7D-CDE2971C8F2D</string>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
 				</array>
 				<key>ViewMode</key>
-				<integer>1</integer>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>333B7232-879E-4267-A8BE-143629AA6D35</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>4E7C1283-4719-44CB-9F15-BA0F0850C3F5</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6C12E22D-7644-431F-AF21-0A56322288BD</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>0AA889B4-2AEC-458D-9B20-620F40B1A596</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>3CB6E25B-B47C-4101-ABCF-88B24EB3CD55</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2CDB07AA-9D8D-4797-89D0-D0624337DB55</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>333B7232-879E-4267-A8BE-143629AA6D35</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
 					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>02498A97-F711-45A8-AA5D-A2668A3399E4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>02498A97-F711-45A8-AA5D-A2668A3399E4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>066B398A-31A6-4FEE-A2C6-8851CBC96F1A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>0AF59A77-673F-401A-8F59-30F6A23B021D</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>02498A97-F711-45A8-AA5D-A2668A3399E4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>02498A97-F711-45A8-AA5D-A2668A3399E4</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>51BFA4A8-43D3-476B-BCBC-ADD06D60EE51</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1968,7 +1443,7 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>7F555F2D-494C-4478-BA1C-61EE07445970</string>
+					<string>220946DC-933F-48F8-B08E-61A52A8013BA</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1976,7 +1451,59 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>B72D63B9-9BAE-49B8-A47A-6CC3CB403563</string>
+					<string>8538D277-5042-4D03-98DE-EBBE7BC23578</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>0AF59A77-673F-401A-8F59-30F6A23B021D</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{17574, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>043D9B6B-FB35-4879-B62B-870533D0FC75</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{15212, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>3098E885-6958-4BA5-8FDD-EC62CD7AE739</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2E45450E-A3DE-4E68-B6AF-5AEE13E85C82</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -1984,9 +1511,11 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 272}}</string>
+	<string>{{0, 0}, {620, 393}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
+	<key>supportingDocumentEditor.selectedTextRanges</key>
+	<string>442,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1997,6 +1526,6 @@
 		<false/>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<false/>
+	<true/>
 </dict>
 </plist>

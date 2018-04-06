@@ -1,7 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# March 27 Thesis Proposal #
+# April 2 Thesis Proposal #
 
 
 
@@ -13,119 +13,7 @@ Print Politics in the Digital Archive, 1789–99
 
 
 
-My dissertation seeks to determine, at as minute a level of detail as possible, what the print landscape in England 1789-99 was actually like (in contrast to the filtered and interpreted literary histories which have been built up by scholars or later generations of writers), and how this print landscape persists in archives.
-
-
-
-## outline ##
-
-
-
-My first chapter establishes the vocabulary and theoretical frameworks of the dissertation. Chapter two turns a critical eye on the existing digital archives of the 1790s. Chapter three uses these corpora of 1790s literature to present a study of mainstream print production during the decade, with some discussion of celebrity as it manifests in print culture. Chapter four turns its attention to the radical press, and the social ties underlying radical writing and publishing. A potential fifth chapter could explore the penetration of the Gothic as a trans-generic mode; I would be interested to see what percentage of works during the decade can be said to contain Gothic materials.
-
-
-
-## intro - archive formation ##
-
-
-
-My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade.
-
-My methodology situates me within queer DH and critical algorithm studies. I follow the work of scholars like T.L. Cowan in undertaking reparative work on archives. My aspiration is to join a growing body of queer DH scholarship in developing a non-extractive, anti-oppressive, less neoliberal digital humanities methodology. Accordingly, I will present a humanistic critique of essentialist tendencies in simplistic digital projects, and discuss the pitfalls I have attempted to avoid in my own methodology. In discussing my methods, I will take up Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.” I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code. I will also discuss my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty.
-
-My subject matter situates me in a densely-discussed intersection of scholarly fields.
-
-
-
-The years 1789-99 make an eleven-year “decade” delimited by the major events of the French Revolution, but also home to a crucial literary moment in which thematized literary canons begin to take form. 
-
-18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernacular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. 
-
-The introduction will also address who my scholarly interlocutors are in treating the 1790s as its own small literary period.
-
-(How do I define my geographical area? England, or “Britain”? I could just focus on London; even if I try not to, I suspect actually nearly everything will end up being from London.) 
-
-
-
-## ch 1 - digital corpora ##
-
-
-
-Chapter two examines corpora of eighteenth century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives increasingly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions.
-
- The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience flying to California in order to be taught about HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible.
-
-Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
-
-Current materials acquired include:
-
-* 51,965 bibliographic entries in the English Short Title Catalogue
-
-*42,463 facsimiles in Eighteenth Century Collections Online
-
-* 10,832 facsimiles in 12 archives of Nineteenth Century Collections Online
-
-* 4,381 facsimiles with OCR transcription in the HathiTrust Digital Library
-
-* 466 XML files created by the ECCO Text Creation Partnership
-
-Also under consideration is Project Gutenberg (as the corpus everyone uses but no one likes to admit to using).
-
-The second chapter thus establishes the corpora with which I will answer my subsequent questions.
-
-
-
-## ch 2 - mainstream press ##
-
-
-
-Chapter three uses these corpora of 1790s literature to present a study of mainstream print production during the decade.
-
-One thread of inquiry is simply to recover contemporary printing practices: who was printing what, and when? What role do chapbooks and religious tracts play? Do our archives simply replicate the output of the major publishing houses?
-
- Taking up David Brewer’s challenge in “Counting, Resonance, and Form” to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant? If possible, I would also like to examine theatrical production through this framework. Given the heightened ephemerality of theatre, it seems likely that the re-staging of an older play will be even more interestingly shaped by its potential to provide a timely response to the context in which it is re-staged.
-
-A second thread of inquiry shaped by this attention to mainstream print production is to examine celebrity via print culture. Restricting my inquiry only to the 1790s rather that nineteenth-century legacies, I will use my corpora to compare how famous various literary celebrities were over the course of the decade. The technical challenge for this part of the project is to define a feasible and fruitful metric of celebrity. In addition to looking at various raw publication counts, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. I will also discuss popularity more generally: after developing a few different metrics for popularity, I will ask: what was most popular during the decade, according to my corpora? Why does one corpus show one popular thing, and another show another?
-
-
-
-## ch 3 - radical press ##
-
-
-
-My fourth chapter turns its attention to the radical press. It will use social network graphs of writers and printers to study the personal connections making up this underground print culture. (Look for political clusters in graphs, and printing circles / overlapping circles)
-
-Something on politics: chapter on the radical press, which is something else entirely. Pamphlets, essays, periodicals. Joseph-Johnson Circle: printed Wollstonecraft & Paine. Think about individual printers as having political allegiances; radical publishers. Dissenting societies. My question is: who was publishing? Are we not seeing these texts? Conservative works/responses overrepresented in the corpora? Authors choosing publishers strategically. Coterie publishing? Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. (Complicate the story of popularity?) Radical Underworld monograph. —— And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database? Or maybe I undo the argument that this was happening surreptitiously/underground?
-
-(There must be something about competing definitions of “popular,” i.e., pop culture vs populism)
-
-
-
-## ch 5 - gothic? ##
-
-
-
-A potential fifth chapter could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production. (Assuming that turns out to be true, of course.) My previous work suggests that the Gothic, unlike most literary content, can be “spotted” computationally. This chapter use a stylometric approach to computationally identify and then search for “Gothic vocabularies” in full texts, to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? (I expect it to be a lot.) What kinds of literary productions are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses?
-
-
-
-## conclusion ?? ##
-
-
-
-# April 2 Thesis Proposal #
-
-
-
-## proposal intro ##
-
-
-
-Popular Print Politics in the Digital Archive, 1789–99
-
-
-
-My dissertation seeks to determine, at as minute a level of detail as possible, what the print landscape in England 1789-99 was actually like (in contrast to the filtered and interpreted literary histories which have been built up by scholars or later generations of writers), and how this print landscape persists in archives. My first chapter establishes the vocabulary and theoretical frameworks of the dissertation. Chapter two turns a critical eye on the existing digital archives of the 1790s. Chapter three uses these corpora of 1790s literature to examine celebrity via print culture. Chapter four introduces a second substantial experiment, a comprehensive mapping of the social networks underlying print production during the decade. Chapter five uses these networks to compare mainstream and radical printing practices. The sixth and final chapter would, in some fashion, draw together my overarching concern with print culture as a social activity, to present some conclusions about “popularity” as “pop culture” and as “populism.”
+My dissertation seeks to determine, in as minute detail as possible, what the print landscape in England 1789-99 was actually like, in contrast to the filtered and interpreted literary histories which have been built up by scholars or later generations of writers, and how this print landscape persists in archives. My first chapter establishes the vocabulary and theoretical frameworks of the dissertation. Chapter two turns a critical eye on the existing digital archives that feature material printed in the 1790s. Chapter three uses these corpora of 1790s literature to examine celebrity as evidenced by print culture. Chapter four introduces a second substantial experiment, a comprehensive mapping of the social networks underlying print production during the decade. Chapter five uses these networks to compare mainstream and non-mainstream printing practices. The sixth and final chapter will, in some fashion, draw together my overarching concern with print culture as a social activity, to address debates about how to measure the popularity of printed books, and how to distinguish a popular from another title.
 
 
 
@@ -133,7 +21,7 @@ My dissertation seeks to determine, at as minute a level of detail as possible, 
 
 
 
-My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade.
+My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on the 1790s. 
 
 My methodology situates me within queer DH and critical algorithm studies. I follow the work of scholars like T.L. Cowan in undertaking reparative work on archives. My aspiration is to join a growing body of queer DH scholarship in developing a non-extractive, anti-oppressive, less neoliberal digital humanities methodology. Accordingly, I will present a humanistic critique of essentialist tendencies in simplistic digital projects, and discuss the pitfalls I have attempted to avoid in my own methodology. In discussing my methods, I will take up Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.” I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code. I will also discuss my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty.
 
@@ -141,7 +29,7 @@ My subject matter situates me in a densely-discussed intersection of scholarly f
 
 18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernacular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. 
 
-(How do I define my geographical area? England, or “Britain”? I could just focus on London; even if I try not to, I suspect actually nearly everything will end up being from London.)
+(My geographical era is Britain, not just England.)
 
 
 
@@ -149,13 +37,7 @@ My subject matter situates me in a densely-discussed intersection of scholarly f
 
 
 
-Chapter two examines corpora of eighteenth century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives increasingly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions.
-
- The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience flying to California in order to be taught about HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible.
-
-Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter.
-
-The second chapter thus establishes the corpora with which I will answer my subsequent questions.
+Chapter two examines corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives increasingly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth century texts (at least, the ones containing at least 100 works from the 1790s): simply putting all of this information in one place is useful as a lit review; adding a discussion of each archive’s selection criteria brings it into the realm of a meta-analysis. I expect to find systematic exclusions as archives “specialize” from bibliographic data to facsimiles to transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience flying to California in order to be taught about HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to ameliorate them. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious to see if even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.
 
 
 
@@ -163,9 +45,11 @@ The second chapter thus establishes the corpora with which I will answer my subs
 
 
 
-Chapter three expands upon the findings of the experiment carried out in chapter two, to examine celebrity via print culture. Restricting my inquiry only to the 1790s rather that nineteenth-century legacies, I will use my corpora to compare how famous various literary celebrities were over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. I will also discuss popularity more generally: after developing a few different metrics for popularity, I will ask: what was most popular during the decade, according to my corpora? Why does one corpus show one popular thing, and another show another?
+Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. After developing a few different metrics for popularity, I will ask: what was most popular during the decade, according to my corpora? Why does one corpus show one popular thing, and another show another? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? One of the things I will do is Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare how famous various literary celebrities were over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. 
 
- Taking up David Brewer’s challenge in “Counting, Resonance, and Form” to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant? If possible, I would also like to examine theatrical production through this framework. Given the heightened ephemerality of theatre, it seems likely that the re-staging of an older play will be even more interestingly shaped by its potential to provide a timely response to the context in which it is re-staged.
+The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s. How might this affect what we define as "popular literature"?
+
+Cite that fight about popularity that Alex keeps sending me (Lesser and Farmer)
 
 
 
@@ -173,7 +57,9 @@ Chapter three expands upon the findings of the experiment carried out in chapter
 
 
 
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices: who was printing what, and when?
+Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices: who was printing what, and when? Authors, printers, publishers; but not patrons, readers, etc. I would read a range of scholarly monographs to encode individual sets of relationships they describe.
+
+Include a brief lit review; address the major studies and their arguments.
 
 
 
@@ -181,9 +67,9 @@ Chapter four introduces my second major experiment, a mapping of the social worl
 
 
 
-Having recaptured these complex networks in some depth, I can then examine them for their relation to our current understanding of radical and mainstream printing circles.
+Having recaptured these complex networks in some depth, I can then examine them, in chapter five, for their relation to our current understanding of radical and mainstream printing circles.
 
-
+Are radical presses as separate from the mainstream 
 
 (Look for political clusters in graphs, and printing circles / overlapping circles)
 
@@ -191,11 +77,17 @@ Something on politics. Pamphlets, essays, periodicals. Joseph-Johnson Circle: pr
 
 
 
-## ch 6 - pop culture vs populism ##
+
+
+## coda? - gothic ##
 
 
 
-The final chapter would, in some fashion, draw together my overarching concern with print culture as a social activity. I will resist the impulse to discuss to take the Gothic as my main subject or the driving framework for an experiment (though I expect that the social nature of print will nonetheless include discussion of the Gothic). I think instead I might get at the two meanings of “popular”, that is, “pop culture” (mainstream) and “populist” (radical).
+A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production. (Assuming that turns out to be true, of course.) My previous work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. This chapter could use a stylometric approach to computationally identify and then search for “Gothic vocabularies” in full texts, to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? (I expect it to be a lot.) What kinds of literary productions are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? Importantly, however, stylometric methods are not able to distinguish a Gothic parody from a “real” Gothic; as I theorize and interpret my findings, I would take up Horner & Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy. 
+
+[keep this in the back of my mind in case it turns out to have a place, but leave it off for now]
+
+[it would nice to cite and build on my published Gothic work as part of the Gothic showing up on its own in mainstream/non-mainstream]
 
 
 
