@@ -1,19 +1,25 @@
-# Next-do: redraft proposal, submit March 27
+# Next-do: final polished proposal, April 25
 
 # Thesis Map
 Map of the thesis at this stage:
-1.	Introduction: archive formation!
+1.	Theoretical groundings
 2.	Comparison of digital corpora (write this first)
-3.	Ok, now how can I use these corpora to ask again what the print landscape of the 1790s actually looked like?
-	⁃	Mainstream press?
-	⁃	Radical press? Is it actually surreptitious/marginal?
-4. [Something something the Gothic? (Will develop as the earlier parts develop) — but don’t put this in the proposal set]
+3.	Use these corpora to discuss popularity
+4.  Publishing networks
+5.  Use these networks to discuss mainstream / non-mainstream printing (another take on popularity)
+6.  Coda or afterword on the Gothic?
 
 # Writing Principles
 * Don't be precious about preserving previous drafts. Cannibalize them and move on. It's okay for things to be left behind. (Git has my historical record.)
 * Remember that I'm not trying to write to undergrads.
 
 # Research Log
+
+## April 2
+
+A new, more focused structure! With a second main experiment! Need to be careful about scope creep with the networks; prototype it, and then abandon in favour of some kind of stylometry if it's too much sitzfleisch.
+
+I feel like I could go forth and write the whole thing, pretty much, which is a *great* feeling. Now to write up the proposal in pretty prose for Tom's feedback! (Which will probably cause it to change again, which will be a *good* thing that I should resist feeling frustrated by, since it will be improving / deepening my thinking.)
 
 ## March 20, 2018
 
