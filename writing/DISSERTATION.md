@@ -57,7 +57,7 @@ Cite that fight about popularity that Alex keeps sending me (Lesser and Farmer)
 
 
 
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices: who was printing what, and when? Authors, printers, publishers; but not patrons, readers, etc. I would read a range of scholarly monographs to encode individual sets of relationships they describe.
+Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work already exists on printing circles, coterie publishing, and individual publishing houses. My project will consult this work to extract and encode the relationships between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts)[^cf1] in order to explicitly synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three.
 
 Include a brief lit review; address the major studies and their arguments.
 
@@ -228,3 +228,5 @@ Characteristics of a High Quality Thesis
 	•	Written expression is elegant, precise, and economical. 
 
 	•	There is evidence of systematic proofreading and error correction. 
+
+[^cf1]: where do booksellers and book buyers fall here? (can I distinguish between book buyers and consumers?)
