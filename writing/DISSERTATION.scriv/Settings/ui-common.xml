@@ -15,15 +15,15 @@
             <ItemID>5230D78F-F1A3-4261-A8FE-1B636C529482</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>333B7232-879E-4267-A8BE-143629AA6D35</ItemID>
+            <ItemID>043D9B6B-FB35-4879-B62B-870533D0FC75</ItemID>
         </Selection>
     </Binder>
-    <Inspector Show="No" View="Comments">
+    <Inspector Show="Yes" View="Comments">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Horizontal</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">No</Binder>
@@ -45,7 +45,7 @@
         <UseVerticalLayout>No</UseVerticalLayout>
         <ShowScriveningsTitles>No</ShowScriveningsTitles>
         <ShowInvisibles>No</ShowInvisibles>
-        <RevisionMode>0</RevisionMode>
+        <RevisionMode>1</RevisionMode>
         <TextChecking>
             <Spelling>Yes</Spelling>
             <Grammar>No</Grammar>
@@ -58,7 +58,7 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1">
+    <Editors Primary="Editor2">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
@@ -66,9 +66,6 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
-                <Content>
-                    <ItemID>CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1</ItemID>
-                </Content>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>
@@ -110,10 +107,10 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
-                <CurrentViewMode>Single</CurrentViewMode>
+                <CurrentViewMode>Scrivenings</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>333B7232-879E-4267-A8BE-143629AA6D35</ItemID>
+                    <ItemID>043D9B6B-FB35-4879-B62B-870533D0FC75</ItemID>
                 </Content>
             </View>
             <Text>

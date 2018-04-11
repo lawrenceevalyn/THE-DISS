@@ -67,7 +67,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {264, 766}}</string>
-		<string>{{265, 0}, {720, 766}}</string>
+		<string>{{265, 0}, {831, 766}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -102,7 +102,6 @@
 	<key>editorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {720, 449}}</string>
-		<string>{{0, 450}, {720, 286}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -139,7 +138,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {288, 756}}</string>
+		<string>{{0, 0}, {603, 736}}</string>
+		<string>{{604, 0}, {227, 736}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -1003,11 +1003,9 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 230}}</string>
+	<string>{{0, 0}, {480, 262}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
-	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>1534,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1020,7 +1018,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>215 89 985 788 0 0 1440 877 </string>
+	<string>218 89 1096 788 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1067,7 +1065,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>83</integer>
+		<integer>84</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1760,19 +1758,31 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
 					<string>333B7232-879E-4267-A8BE-143629AA6D35</string>
 				</array>
 				<key>ViewMode</key>
-				<integer>0</integer>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>043D9B6B-FB35-4879-B62B-870533D0FC75</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
 			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 393}}</string>
+	<string>{{0, 2033.6666666666667}, {402, 453.33333333333326}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
+	<key>supportingDocumentEditor.selectedTextRanges</key>
+	<string>7141,431</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1783,6 +1793,6 @@
 		<false/>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
