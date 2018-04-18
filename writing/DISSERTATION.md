@@ -47,9 +47,7 @@ Cite that fight about popularity that Alex keeps sending me: https://www.jstor.o
 
 
 
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work already exists on printing circles, coterie publishing, and individual publishing houses. My project will consult this work to extract and encode the relationships between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts)[^cf1] in order to explicitly synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three.
-
-Include a brief lit review; address the major studies and their arguments.
+Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work already exists on printing circles, coterie publishing, and individual publishing houses. [List some of it here! Include a brief lit review; address the major studies and their arguments] My project will consult this work to extract and encode the relationships between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts)[^cf1] in order to explicitly synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will [give] a rich description of my resulting network graph. The graph I create may show one large interconnected network, or several separate networks of varying sizes; these networks may show highly distinct clusters, or evenly interconnected webs. The chapter will explain the implications of whichever shape the network ultimately displays, and present an overview of the people I identify as the “major players” in the publishing world of the 1790s.
 
 
 
@@ -57,17 +55,15 @@ Include a brief lit review; address the major studies and their arguments.
 
 
 
-Having recaptured these complex networks in some depth, I can then examine them, in chapter five, for their relation to our current understanding of radical and mainstream printing circles.
+Having recaptured these complex networks in some depth, I can then examine them, in chapter five, for their relation to our current understanding of radical and mainstream printing circles. 
 
-My network graphs will model individual “politics” [as a complex, socially defined thing] rather than a set of concrete and unchanging ideological stances. [By looking for clusters in the big hairball] I will Think about individual printers as having political allegiances (as in Dissenting societies, radical publishers, correspondence societies) Authors choosing publishers strategically.
+[By looking for clusters in the big hairball] I will Think about individual printers as having political allegiances (as in Dissenting societies, radical publishers, correspondence societies) Authors choosing publishers strategically. My network graphs will model individual “politics” [as a complex, socially defined thing] rather than a set of concrete and unchanging ideological stances. 
 
-Having identified the radical elements in the publishing world, I will interrogate the radicals’ claims to marginalization. Are they as socially estranged from the mainstream as they frame themselves?
+Having identified the radical elements in the publishing world, I will interrogate the radicals’ claims to marginalization. Are they as socially estranged from the mainstream as they frame themselves? Are we not seeing these texts? Conservative works/responses overrepresented in the corpora? (Complicate the story of popularity?) 
 
-My question is: who was publishing? Are we not seeing these texts? Conservative works/responses overrepresented in the corpora?
+Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. 
 
-Inchbald’s The Massacre circulated in manuscript, not published…. Alternative print markets and alternative circulation. (Complicate the story of popularity?) 
-
-And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database? Or maybe I undo the argument that this was happening surreptitiously/underground?
+I will also critically interrogate my own research practices, [seeking connections with work by people like [TL Cowan??]] to engage ethically with the intentional discovery and exposure of communities which intentionally operated “under the radar.” And how to ethically engage with things that circulated intentionally under the radar, intentionally trying not to be collected into some big systematized database?
 
 TODO: read Radical Underworld
 
