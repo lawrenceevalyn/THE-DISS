@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise" Author="Lawrence Evalyn" Modified="2018-04-18 02:46:32 -0700" ModID="BD3F026C-900C-4E84-8F67-8C1E040E8675">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise" Author="Lawrence Evalyn" Modified="2018-04-18 02:49:13 -0700" ModID="D593A99D-B027-4499-9226-5981BE3319BB">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 09:26:45 -0700" Modified="2018-02-07 20:56:35 -0800">
             <Title>Draft</Title>
@@ -157,17 +157,6 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <Children>
-                        <BinderItem UUID="0DCEEB84-7BC8-48BD-849F-053BCEFF8299" Type="Text" Created="2017-11-26 16:10:55 -0800" Modified="2018-02-07 21:13:04 -0800">
-                            <Title>TEI play parser</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
                 <BinderItem UUID="F90D8DD9-7804-4B37-BA9E-B86FF687FCED" Type="Text" Created="2017-05-22 22:56:24 -0700" Modified="2018-04-13 01:20:10 -0700">
                     <Title>Acknowledgements</Title>
@@ -178,7 +167,7 @@
                         <TextSelection>170,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="760F6F2D-F7BB-4353-9285-292548E595F9" Type="Text" Created="2018-03-24 20:18:15 -0700" Modified="2018-04-13 01:20:10 -0700">
+                <BinderItem UUID="760F6F2D-F7BB-4353-9285-292548E595F9" Type="Text" Created="2018-03-24 20:18:15 -0700" Modified="2018-04-18 02:48:54 -0700">
                     <Title>Characteristics of a High Quality Thesis</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4229,6 +4218,15 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="0DCEEB84-7BC8-48BD-849F-053BCEFF8299" Type="Text" Created="2017-11-26 16:10:55 -0800" Modified="2018-02-07 21:13:04 -0800">
+                    <Title>TEI play parser</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4287,11 +4285,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-01 23:21:51 -0700" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="104" Characters="688" Date="2018-04-18 02:28:25 -0700"></PreviousSession>
+        <PreviousSession Words="104" Characters="670" Date="2018-04-18 02:28:25 -0700"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-04-18 00:00:00 -0700">
         <DraftWordCount>104</DraftWordCount>
-        <DraftCharCount>688</DraftCharCount>
+        <DraftCharCount>670</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

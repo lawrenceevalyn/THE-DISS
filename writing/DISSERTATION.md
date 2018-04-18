@@ -153,10 +153,6 @@ It is disproportionally difficult to revisit a graph that is 80% complete to add
 
 
 
-## TEI play parser ##
-
-
-
 # Acknowledgements #
 
 
@@ -183,40 +179,40 @@ OBNS
 
 Characteristics of a High Quality Thesis 
 
-	•	The title clearly reflects the focus and the argument. 
+* The title clearly reflects the focus and the argument. 
 
-	•	A significant and substantial problem has been selected for investigation. 
+* A significant and substantial problem has been selected for investigation. 
 
-	•	There is an early statement of the project aims. 
+* There is an early statement of the project aims. 
 
-	•	The project presents a considerable advance on existing knowledge. 
+* The project presents a considerable advance on existing knowledge. 
 
-	•	The thesis demonstrates a systematic pursuit of a consistent line of inquiry. 
+* The thesis demonstrates a systematic pursuit of a consistent line of inquiry. 
 
-	•	It is well-planned and executed, with each section clearly building on the last (that is, there is a coherent and unifying macro-level structure). 
+* It is well-planned and executed, with each section clearly building on the last (that is, there is a coherent and unifying macro-level structure). 
 
-	•	There is clear signposting and linking between paragraphs, sections, and chapters. It consistently (but not repetitively) reminds the reader of the purpose, argument, or overall thrust of the thesis. 
+* There is clear signposting and linking between paragraphs, sections, and chapters. It consistently (but not repetitively) reminds the reader of the purpose, argument, or overall thrust of the thesis. 
 
-	•	The literature review is critical and evaluative, and sets forth an argument for why and how the study should be conducted. 
+* The literature review is critical and evaluative, and sets forth an argument for why and how the study should be conducted. 
 
-	•	The discussion of the rationale for selecting a methodology and method (including up-to-date methodological literature) is balanced. The ground-setting is sophisticated and appropriate (including exposition of underlying assumptions, and relevance to the research aim). 
+* The discussion of the rationale for selecting a methodology and method (including up-to-date methodological literature) is balanced. The ground-setting is sophisticated and appropriate (including exposition of underlying assumptions, and relevance to the research aim). 
 
-	•	The research design is appropriate and allows the questions to be answered. 
+* The research design is appropriate and allows the questions to be answered. 
 
-	•	There is a meticulous account of the procedure. 
+* There is a meticulous account of the procedure. 
 
-	•	A rich variety of evidence is employed to develop a balanced argument. 
+* A rich variety of evidence is employed to develop a balanced argument. 
 
-	•	Advanced analytical skills are used to demonstrate a deep understanding of the problem; a clear chain of evidence is laid down. 
+* Advanced analytical skills are used to demonstrate a deep understanding of the problem; a clear chain of evidence is laid down. 
 
-	•	The discussion is disciplined and not excessively speculative. 
+* The discussion is disciplined and not excessively speculative. 
 
-	•	Conclusions are well drawn and convincing (they relate the outcomes back to the research aims); clear and strong knowledge claims are made about the exact contributions of the thesis. 
+* Conclusions are well drawn and convincing (they relate the outcomes back to the research aims); clear and strong knowledge claims are made about the exact contributions of the thesis. 
 
-	•	Key concepts or variables are clearly defined and consistently used throughout. 
+* Key concepts or variables are clearly defined and consistently used throughout. 
 
-	•	Written expression is elegant, precise, and economical. 
+* Written expression is elegant, precise, and economical. 
 
-	•	There is evidence of systematic proofreading and error correction. 
+* There is evidence of systematic proofreading and error correction. 
 
 [^cf1]: where do booksellers and book buyers fall here? (can I distinguish between book buyers and consumers?)
