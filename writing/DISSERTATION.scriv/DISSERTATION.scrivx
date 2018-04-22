@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise" Author="Lawrence Evalyn" Modified="2018-04-18 02:49:13 -0700" ModID="D593A99D-B027-4499-9226-5981BE3319BB">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise" Author="Lawrence Evalyn" Modified="2018-04-22 02:03:33 -0700" ModID="DD6A303F-8FF7-4FED-9D95-DD7F7ECA9145">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 09:26:45 -0700" Modified="2018-02-07 20:56:35 -0800">
             <Title>Draft</Title>
@@ -7,8 +7,8 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="333B7232-879E-4267-A8BE-143629AA6D35" Type="Text" Created="2018-04-02 11:18:46 -0700" Modified="2018-04-02 11:18:52 -0700">
-                    <Title>April 2 Thesis Proposal</Title>
+                <BinderItem UUID="333B7232-879E-4267-A8BE-143629AA6D35" Type="Text" Created="2018-04-02 11:18:46 -0700" Modified="2018-04-22 01:35:17 -0700">
+                    <Title>April 25 Thesis Proposal</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -43,13 +43,13 @@
                                 <TextSelection>2044,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0AA889B4-2AEC-458D-9B20-620F40B1A596" Type="Text" Created="2018-04-02 11:19:59 -0700" Modified="2018-04-13 01:27:39 -0700">
+                        <BinderItem UUID="0AA889B4-2AEC-458D-9B20-620F40B1A596" Type="Text" Created="2018-04-02 11:19:59 -0700" Modified="2018-04-22 02:03:18 -0700">
                             <Title>ch 3 - archive popularity</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1789,0</TextSelection>
+                                <TextSelection>1084,30</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="6C12E22D-7644-431F-AF21-0A56322288BD" Type="Text" Created="2018-04-02 11:20:06 -0700" Modified="2018-04-18 02:44:54 -0700">
@@ -173,7 +173,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>472,0</TextSelection>
+                        <TextSelection>1866,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1445,14 +1445,14 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <TextSelection>47,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="85F9AD4A-A077-4866-90F4-7D2539398BE3" Type="Text" Created="2016-09-02 09:26:45 -0700" Modified="2016-09-02 09:26:45 -0700">
-                            <Title>Text 5</Title>
+                        <BinderItem UUID="85F9AD4A-A077-4866-90F4-7D2539398BE3" Type="Text" Created="2016-09-02 09:26:45 -0700" Modified="2018-04-22 01:57:28 -0700">
+                            <Title>Structures of Popularity in the Early Modern Book Trade</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>369,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="A6FB209C-081F-4B52-8878-89214991C085" Type="Text" Created="2016-09-02 09:26:45 -0700" Modified="2016-09-02 09:26:45 -0700">
@@ -4227,6 +4227,15 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="E17C5F85-A017-4783-9C8E-7FFB87DE10F0" Type="Text" Created="2018-04-20 21:43:11 -0700" Modified="2018-04-20 21:43:58 -0700">
+                    <Title>Manisha's email</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4285,13 +4294,13 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-01 23:21:51 -0700" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="104" Characters="670" Date="2018-04-18 02:28:25 -0700"></PreviousSession>
+        <PreviousSession Words="41" Characters="261" Date="2018-04-22 01:29:00 -0700"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-04-18 00:00:00 -0700">
-        <DraftWordCount>104</DraftWordCount>
-        <DraftCharCount>670</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2018-04-22 00:00:00 -0700">
+        <DraftWordCount>41</DraftWordCount>
+        <DraftCharCount>261</DraftCharCount>
+        <OtherWordCount>191</OtherWordCount>
+        <OtherCharCount>1175</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

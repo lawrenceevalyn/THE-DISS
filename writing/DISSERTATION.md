@@ -1,7 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# April 2 Thesis Proposal #
+# April 25 Thesis Proposal #
 
 
 
@@ -37,9 +37,11 @@ Chapter two examines corpora of eighteenth-century literature through the same c
 
 
 
-Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. After developing a few different metrics for popularity, I will ask: what was most popular during the decade, according to my corpora? Why does one corpus show one popular thing, and another show another? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? One of the things I will do is Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare how famous various literary celebrities were over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might this affect what we define as "popular literature”.
+Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. After developing a few different metrics for popularity, I will ask: what was most popular during the decade, according to my corpora? Why does one corpus show one popular thing, and another show another? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare how famous various literary celebrities were over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might affect what we define as "popular literature”.
 
-Cite that fight about popularity that Alex keeps sending me: https://www.jstor.org/stable/3844307
+
+
+Cite Lesser and Farmer: “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
 
 
 
