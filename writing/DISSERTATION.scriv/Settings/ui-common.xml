@@ -8,23 +8,24 @@
             <ItemID>043D9B6B-FB35-4879-B62B-870533D0FC75</ItemID>
             <ItemID>333B7232-879E-4267-A8BE-143629AA6D35</ItemID>
             <ItemID>C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3</ItemID>
-            <ItemID>D983AC00-809B-4877-B8F4-6CB0A4ECAAFE</ItemID>
+            <ItemID>0DC360E4-D27F-43E5-9830-36E1D2A9EE6D</ItemID>
             <ItemID>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</ItemID>
             <ItemID>B531A3F8-0E11-4BD2-96F3-2EEDEF1956EB</ItemID>
+            <ItemID>275DC523-EDDA-486D-AD30-0BFC42405E90</ItemID>
             <ItemID>38396A52-40F3-4EFD-94C1-2D9BDC40E8F4</ItemID>
             <ItemID>5F4810CA-70C6-47CE-993B-35E80E83D88A</ItemID>
             <ItemID>5230D78F-F1A3-4261-A8FE-1B636C529482</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>760F6F2D-F7BB-4353-9285-292548E595F9</ItemID>
+            <ItemID>333B7232-879E-4267-A8BE-143629AA6D35</ItemID>
         </Selection>
     </Binder>
-    <Inspector Show="Yes" View="Comments">
+    <Inspector Show="No" View="Comments">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>None</Split>
+    <Split>Horizontal</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="No">No</Binder>
@@ -46,7 +47,7 @@
         <UseVerticalLayout>No</UseVerticalLayout>
         <ShowScriveningsTitles>No</ShowScriveningsTitles>
         <ShowInvisibles>No</ShowInvisibles>
-        <RevisionMode>2</RevisionMode>
+        <RevisionMode>3</RevisionMode>
         <TextChecking>
             <Spelling>Yes</Spelling>
             <Grammar>No</Grammar>
@@ -59,14 +60,17 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor2">
+    <Editors Primary="Editor1">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
-                <GroupsViewMode>Scrivenings</GroupsViewMode>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
+                <Content>
+                    <ItemID>85F9AD4A-A077-4866-90F4-7D2539398BE3</ItemID>
+                </Content>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>
@@ -108,10 +112,10 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
-                <CurrentViewMode>Single</CurrentViewMode>
+                <CurrentViewMode>Scrivenings</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>760F6F2D-F7BB-4353-9285-292548E595F9</ItemID>
+                    <ItemID>333B7232-879E-4267-A8BE-143629AA6D35</ItemID>
                 </Content>
             </View>
             <Text>

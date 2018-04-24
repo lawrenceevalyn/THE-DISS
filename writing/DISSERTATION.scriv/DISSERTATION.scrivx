@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise" Author="Lawrence Evalyn" Modified="2018-04-22 02:03:33 -0700" ModID="DD6A303F-8FF7-4FED-9D95-DD7F7ECA9145">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise" Author="Lawrence Evalyn" Modified="2018-04-24 00:02:41 -0700" ModID="31950CD4-162D-42C3-A127-FE621DA83CE1">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 09:26:45 -0700" Modified="2018-02-07 20:56:35 -0800">
             <Title>Draft</Title>
@@ -1452,7 +1452,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>369,0</TextSelection>
+                                <TextSelection>0,369</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="A6FB209C-081F-4B52-8878-89214991C085" Type="Text" Created="2016-09-02 09:26:45 -0700" Modified="2016-09-02 09:26:45 -0700">
@@ -4294,13 +4294,13 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-01 23:21:51 -0700" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="41" Characters="261" Date="2018-04-22 01:29:00 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-04-23 23:53:40 -0700"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-04-22 00:00:00 -0700">
-        <DraftWordCount>41</DraftWordCount>
-        <DraftCharCount>261</DraftCharCount>
-        <OtherWordCount>191</OtherWordCount>
-        <OtherCharCount>1175</OtherCharCount>
+    <RecentWritingHistory Date="2018-04-24 00:00:00 -0700">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

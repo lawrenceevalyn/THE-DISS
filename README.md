@@ -15,6 +15,10 @@ Map of the thesis at this stage:
 
 # Research Log
 
+## April 23
+
+Been puttering away on the thesis proposal bit by bit and feeling better and better about it. Every time I finally read some secondary criticsm, it is enormously illuminating and invigorating: how can I dramatically increase the rate at which I do so...?
+
 ## April 2
 
 A new, more focused structure! With a second main experiment! Need to be careful about scope creep with the networks; prototype it, and then abandon in favour of some kind of stylometry if it's too much sitzfleisch.
