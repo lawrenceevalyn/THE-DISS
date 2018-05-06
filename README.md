@@ -1,4 +1,4 @@
-# Next-do: final polished proposal, April 25
+# Next-do: make revisions and send to Tom
 
 # Thesis Map
 Map of the thesis at this stage:
