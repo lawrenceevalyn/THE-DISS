@@ -15,6 +15,12 @@ Map of the thesis at this stage:
 
 # Research Log
 
+## May 15, 2018
+
+https://omnia.sas.upenn.edu/story/prospecting-playbills
+
+Can I ask Michael Gamer to let me transcribe the playbills from 1789-99 in exchange for using all their info in my diss…? It is VERY exciting to me that this project is happening and I want to be a part of it..
+
 ## April 23
 
 Been puttering away on the thesis proposal bit by bit and feeling better and better about it. Every time I finally read some secondary criticsm, it is enormously illuminating and invigorating: how can I dramatically increase the rate at which I do so...?
