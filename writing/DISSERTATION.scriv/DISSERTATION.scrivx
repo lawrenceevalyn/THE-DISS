@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-05-26 02:44:59 -0400" ModID="9F2FE570-BBA2-47C1-BFD5-2504012F03EF">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-05-27 16:09:56 -0400" ModID="FB5FDED3-955D-4FC9-A61D-7CDD7B6BDA00">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -26,14 +26,14 @@
                                 <TextSelection>719,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-05-22 03:44:48 -0400">
+                        <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-05-27 16:09:38 -0400">
                             <Title>ch 1 - intro</Title>
                             <MetaData>
                                 <LabelID>13</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>996,0</TextSelection>
+                                <TextSelection>986,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3CB6E25B-B47C-4101-ABCF-88B24EB3CD55" Type="Text" Created="2018-04-02 14:19:51 -0400" Modified="2018-05-22 03:39:49 -0400">
@@ -164,13 +164,96 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="7D7DB3AB-1C27-4999-AA55-EF22774792A6" Type="Text" Created="2018-05-22 03:41:12 -0400" Modified="2018-05-22 03:41:22 -0400">
+                                <BinderItem UUID="FB34B409-14E5-4C6C-91ED-1229511DAF8C" Type="Text" Created="2018-05-27 15:39:04 -0400" Modified="2018-05-27 15:39:40 -0400">
+                                    <Title>queer DH</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>315,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="82425A20-9FF0-4B25-9726-A735EFDB276D" Type="Text" Created="2018-05-27 15:39:53 -0400" Modified="2018-05-27 15:40:25 -0400">
+                                    <Title>critique of DH essentialism</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>85,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EC204CF2-6930-4249-B4AB-1FD2B5DD59B4" Type="Text" Created="2018-05-27 15:40:12 -0400" Modified="2018-05-27 15:40:25 -0400">
+                                    <Title>"capta"</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>168,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A74D80A2-C08F-4060-B01B-8C1427505DFB" Type="Text" Created="2018-05-27 15:40:30 -0400" Modified="2018-05-27 15:40:40 -0400">
+                                    <Title>modelling, sensitivity, fruitfulness</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>125,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="9E483242-C1DD-4F8B-8FE1-678FA79B539E" Type="Text" Created="2018-05-27 15:53:16 -0400" Modified="2018-05-27 15:53:48 -0400">
+                                            <Title>editing</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>134,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="7E6CB2C3-E917-4D55-B78B-42516ACB8C89" Type="Text" Created="2018-05-27 15:51:40 -0400" Modified="2018-05-27 15:51:46 -0400">
+                                    <Title>close-read my own code</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>205,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5051496E-517B-441B-8449-58AA18C1C8A3" Type="Text" Created="2018-05-27 15:40:44 -0400" Modified="2018-05-27 15:50:11 -0400">
+                                    <Title>why 1789-99?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>138,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5DA1FAA6-204A-4630-9681-4BA7235112A2" Type="Text" Created="2018-05-27 15:40:59 -0400" Modified="2018-05-27 16:09:30 -0400">
+                                    <Title>lit review</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C4128E58-B680-4B18-827F-C1A40A54198A" Type="Text" Created="2018-05-27 15:50:39 -0400" Modified="2018-05-27 15:50:53 -0400">
+                                    <Title>18th canon building</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>569,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7D7DB3AB-1C27-4999-AA55-EF22774792A6" Type="Text" Created="2018-05-22 03:41:12 -0400" Modified="2018-05-27 15:39:01 -0400">
                                     <Title>"schools of thought"</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>328,0</TextSelection>
+                                        <TextSelection>284,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -194,6 +277,15 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2018-05-27 16:08:15 -0400">
+                            <Title>Works Cited</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>201,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -4376,11 +4468,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="-12" Characters="-78" Date="2018-05-26 02:43:02 -0400"></PreviousSession>
+        <PreviousSession Words="329" Characters="2038" Date="2018-05-27 15:37:41 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-05-26 00:00:00 -0400">
-        <DraftWordCount>-12</DraftWordCount>
-        <DraftCharCount>-78</DraftCharCount>
+    <RecentWritingHistory Date="2018-05-27 00:00:00 -0400">
+        <DraftWordCount>329</DraftWordCount>
+        <DraftCharCount>2038</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
