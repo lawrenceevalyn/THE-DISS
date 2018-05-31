@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-05-27 16:09:56 -0400" ModID="FB5FDED3-955D-4FC9-A61D-7CDD7B6BDA00">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-05-31 19:03:10 -0400" ModID="15B18C63-6DFB-42C4-8DCE-79DDF6414364">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -7,8 +7,8 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="333B7232-879E-4267-A8BE-143629AA6D35" Type="Text" Created="2018-04-02 14:18:46 -0400" Modified="2018-04-22 04:35:17 -0400">
-                    <Title>April 25 Thesis Proposal</Title>
+                <BinderItem UUID="333B7232-879E-4267-A8BE-143629AA6D35" Type="Text" Created="2018-04-02 14:18:46 -0400" Modified="2018-05-31 18:04:21 -0400">
+                    <Title>Thesis Proposal</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -26,10 +26,10 @@
                                 <TextSelection>719,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-05-27 16:09:38 -0400">
+                        <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-05-31 19:02:23 -0400">
                             <Title>ch 1 - intro</Title>
                             <MetaData>
-                                <LabelID>13</LabelID>
+                                <LabelID>12</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -56,27 +56,27 @@
                                 <TextSelection>1874,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6C12E22D-7644-431F-AF21-0A56322288BD" Type="Text" Created="2018-04-02 14:20:06 -0400" Modified="2018-05-22 03:44:41 -0400">
+                        <BinderItem UUID="6C12E22D-7644-431F-AF21-0A56322288BD" Type="Text" Created="2018-04-02 14:20:06 -0400" Modified="2018-05-31 19:02:34 -0400">
                             <Title>ch 4 - networks</Title>
                             <MetaData>
-                                <LabelID>13</LabelID>
+                                <LabelID>12</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1093,0</TextSelection>
+                                <TextSelection>432,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4E7C1283-4719-44CB-9F15-BA0F0850C3F5" Type="Text" Created="2018-04-02 14:20:10 -0400" Modified="2018-05-22 03:44:53 -0400">
+                        <BinderItem UUID="4E7C1283-4719-44CB-9F15-BA0F0850C3F5" Type="Text" Created="2018-04-02 14:20:10 -0400" Modified="2018-05-31 19:02:27 -0400">
                             <Title>ch 5 - networks popularity</Title>
                             <MetaData>
-                                <LabelID>13</LabelID>
+                                <LabelID>12</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>814,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1" Type="Text" Created="2018-04-02 14:20:15 -0400" Modified="2018-05-22 03:39:49 -0400">
+                        <BinderItem UUID="CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1" Type="Text" Created="2018-04-02 14:20:15 -0400" Modified="2018-05-31 18:11:38 -0400">
                             <Title>coda? - gothic</Title>
                             <MetaData>
                                 <LabelID>12</LabelID>
@@ -4468,11 +4468,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="329" Characters="2038" Date="2018-05-27 15:37:41 -0400"></PreviousSession>
+        <PreviousSession Words="-19" Characters="-92" Date="2018-05-31 18:04:03 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-05-27 00:00:00 -0400">
-        <DraftWordCount>329</DraftWordCount>
-        <DraftCharCount>2038</DraftCharCount>
+    <RecentWritingHistory Date="2018-05-31 00:00:00 -0400">
+        <DraftWordCount>-19</DraftWordCount>
+        <DraftCharCount>-92</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
