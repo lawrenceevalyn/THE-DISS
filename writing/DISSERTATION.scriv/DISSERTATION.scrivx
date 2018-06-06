@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-06-03 01:06:10 -0400" ModID="F93E914D-E0BC-4C30-98EF-1890CB7B84C1">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-06-06 03:34:31 -0400" ModID="0CF9DB6E-5481-4CFB-9AD0-0B673A8D94F0">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -16,7 +16,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2E45450E-A3DE-4E68-B6AF-5AEE13E85C82" Type="Text" Created="2018-04-02 14:18:52 -0400" Modified="2018-05-26 02:44:34 -0400">
+                        <BinderItem UUID="2E45450E-A3DE-4E68-B6AF-5AEE13E85C82" Type="Text" Created="2018-04-02 14:18:52 -0400" Modified="2018-06-06 03:20:12 -0400">
                             <Title>proposal intro</Title>
                             <MetaData>
                                 <LabelID>12</LabelID>
@@ -26,7 +26,7 @@
                                 <TextSelection>719,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-05-31 19:02:23 -0400">
+                        <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-06-06 03:21:17 -0400">
                             <Title>ch 1 - intro</Title>
                             <MetaData>
                                 <LabelID>12</LabelID>
@@ -46,7 +46,7 @@
                                 <TextSelection>1595,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0AA889B4-2AEC-458D-9B20-620F40B1A596" Type="Text" Created="2018-04-02 14:19:59 -0400" Modified="2018-05-26 02:43:57 -0400">
+                        <BinderItem UUID="0AA889B4-2AEC-458D-9B20-620F40B1A596" Type="Text" Created="2018-04-02 14:19:59 -0400" Modified="2018-06-06 03:22:12 -0400">
                             <Title>ch 3 - archive popularity</Title>
                             <MetaData>
                                 <LabelID>12</LabelID>
@@ -56,7 +56,7 @@
                                 <TextSelection>1874,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6C12E22D-7644-431F-AF21-0A56322288BD" Type="Text" Created="2018-04-02 14:20:06 -0400" Modified="2018-05-31 19:02:34 -0400">
+                        <BinderItem UUID="6C12E22D-7644-431F-AF21-0A56322288BD" Type="Text" Created="2018-04-02 14:20:06 -0400" Modified="2018-06-06 03:22:57 -0400">
                             <Title>ch 4 - networks</Title>
                             <MetaData>
                                 <LabelID>12</LabelID>
@@ -66,7 +66,7 @@
                                 <TextSelection>432,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="4E7C1283-4719-44CB-9F15-BA0F0850C3F5" Type="Text" Created="2018-04-02 14:20:10 -0400" Modified="2018-05-31 19:02:27 -0400">
+                        <BinderItem UUID="4E7C1283-4719-44CB-9F15-BA0F0850C3F5" Type="Text" Created="2018-04-02 14:20:10 -0400" Modified="2018-06-06 03:34:08 -0400">
                             <Title>ch 5 - networks popularity</Title>
                             <MetaData>
                                 <LabelID>12</LabelID>
@@ -326,6 +326,15 @@
                 <IconFileName>Front Matter.tiff</IconFileName>
             </MetaData>
             <Children>
+                <BinderItem UUID="58E0B269-14FB-442E-A5BA-242309894222" Type="Text" Created="2018-06-06 01:13:01 -0400" Modified="2018-06-06 01:13:20 -0400">
+                    <Title>Rshiny?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="09FD869A-0D86-4A23-8CCA-224042D1E53A" Type="Text" Created="2017-09-10 18:36:29 -0400" Modified="2018-03-25 00:48:32 -0400">
                     <Title>Documentation</Title>
                     <MetaData>
@@ -4468,13 +4477,13 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-06-03 01:06:04 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-06 03:19:06 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-06-03 00:00:00 -0400">
+    <RecentWritingHistory Date="2018-06-06 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>8</OtherWordCount>
+        <OtherCharCount>44</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
