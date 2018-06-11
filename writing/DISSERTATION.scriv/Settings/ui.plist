@@ -67,7 +67,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {235, 766}}</string>
-		<string>{{236, 0}, {1107, 766}}</string>
+		<string>{{236, 0}, {833, 766}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -138,8 +138,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {879, 736}}</string>
-		<string>{{880, 0}, {227, 736}}</string>
+		<string>{{0, 0}, {605, 736}}</string>
+		<string>{{606, 0}, {227, 736}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -177,7 +177,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>50</integer>
+		<integer>52</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -600,6 +600,8 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{10114, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
 					<string>333B7232-879E-4267-A8BE-143629AA6D35</string>
@@ -607,14 +609,30 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>EC204CF2-6930-4249-B4AB-1FD2B5DD59B4</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>5C45860E-29CB-4760-B249-808D2E8E8D50</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 3.6666666666666665}, {586, 453.33333333333331}}</string>
+	<string>{{0, 0}, {403.33333333333331, 453.33333333333331}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>7525,0</string>
+	<string>80,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -627,7 +645,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>97 72 1343 788 0 0 1440 877 </string>
+	<string>0 85 1069 788 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
