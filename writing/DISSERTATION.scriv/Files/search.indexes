@@ -72,6 +72,10 @@ They reveal that our canonical authors aren’t inherently exceptional</Text>
             <Text>What is the relationship between "genre fiction" and “literary" fiction? (Does “serious” fiction use “genre” fiction parasitically or does it have its own separate genre norms?) How do works market themselves? What makes writing “disreputable”? How do we recuperate “disreputable” writing?
 ?? read… stuff? try to play spot-the-gothic? build a case study of 1790s gothic vs 1750s sentimental vs later SF vs current romance??</Text>
         </Document>
+        <Document ID="5C45860E-29CB-4760-B249-808D2E8E8D50">
+            <Title>Alberto Cairo</Title>
+            <Text>Data visualization vocabulary: framework; visual encoding (content); annotations</Text>
+        </Document>
         <Document ID="0AB3159E-5FEC-42F4-9747-BDB5E25CDC38">
             <Title>ch 4 - chapbook sales</Title>
             <Text>My fourth chapter pursues a different tack to focus on widely-read works that are often excluded from “1790s literature”: chapbooks. These are usually excluded for not being “literature” rather than not being “1790s” (though part of my inquiry will also be to determine how ‘out of date’ chapbooks would get before reaching their readers, and how this compares to book publishing). This print-historical chapter seeks to explore what is often seen as a “gap” in William St. Clair’s history, to see how much we do know about the chapbook trade. I am particularly interested in the cycle of responses between pamphlets, and whether there are geographic or social disjunctions in timeliness. This chapter will of course address Hannah More’s Cheap Repository Tracts, but I am equally curious about the works among which hers were sold. My “case study” could trace the printing and circulation of one of More’s pamphlets and a few of its fellow-travellers, as the foundation for a discussion of More’s hybrid literary forms. </Text>
@@ -79,10 +83,6 @@ They reveal that our canonical authors aren’t inherently exceptional</Text>
         <Document ID="74179035-0EB7-4DC1-8EB4-E17DFCD27153">
             <Title>Ch 1: Introduction</Title>
             <Synopsis>An Introductory Chapter – Tell the reader the problem you are tackling in this project. – State clearly how you aim to deal with this problem. – Limit the scope of your study. – Sketch out how the thesis is structured to achieve your aim.</Synopsis>
-        </Document>
-        <Document ID="5C45860E-29CB-4760-B249-808D2E8E8D50">
-            <Title>Alberto Cairo</Title>
-            <Text>Data visualization vocabulary: framework; visual encoding (content); annotations</Text>
         </Document>
         <Document ID="15C0054D-D943-4B49-8D79-903CE60508EC">
             <Title>Smith definitely goes to the headland</Title>
@@ -1505,6 +1505,56 @@ Although much of Drucker’s discussion of our contemporary relationship to visu
             <Text>What parts were printed elsewhere, and where?
 (What parts were read to people, and when??)
 How much was the work anticipated, when it was published on his death?</Text>
+        </Document>
+        <Document ID="19413934-BD7E-4E83-8A55-923BB1023ACF">
+            <Title>Chi squared test</Title>
+            <Text>OKAY, so, this is way less ~science~ than it probably appears, but: the rule of thumb for chi squared tests is to only do them when the expected value (if the null hypothesis is true) in any given cell is 5 or greater. In this case, we would have 4 cells (has tag/male, has tag/female, does not have tag/male, does not have tag/female), and the null hypothesis would be that the tags are just as likely to be in mens’ work as in womens’ work
+(It could also probably work as a 2 cell test, and the nuances of which it should be are slightly above my read-about-this-for-10-minutes pay grade, but it doesn’t matter because you aren’t actually doing the test)
+So the expected value in each cell would have to be 5 or above, which means that you would need at least 10 total works with the tag
+
+Alyssa Fowers:
+	this is less science-y than it appears because there are other statistical tests that you could do with smaller sample sizes, hOWEVER
+	it’s something to go off of!
+Lawrence Evalyn:
+	thank you so much!!!!
+Alyssa Fowers:
+	and the chi-squared test is definitely the basic test you’d be most likely to use in this case
+
+
+Alyssa Fowers:
+	Actually, crud, what is the general % of mens/womens/unknown works in this set?
+Lawrence Evalyn:
+	uh, more women than men, lemme see
+	His corpus is 43% female, 31% male, 26% unknown.
+Alyssa Fowers:
+	Ohhh okay, hm
+Lawrence Evalyn:
+	215 f, 156 m -- 58% female
+Alyssa Fowers:
+	So you’d want at least 5 in each group you’re looking at *if* it matched the distribution of the sample, I think
+Lawrence Evalyn:
+	(if we ignore the unsigned works)
+Alyssa Fowers:
+	you wouldn’t expect 50% men/50% women in a tag from this corpus--that would indicate an unusual number of men wrote about the thing. Let me math real quick
+Lawrence Evalyn:
+	so I guess my null hypothesis is, if there are 10 books, there should be 6 by women and 4 by men
+Alyssa Fowers:
+	(if we ignore unsigned works)
+	Yeah
+
+Alyssa Fowers:
+	So you’d want 13 total works
+	not including unsigned ones
+Lawrence Evalyn:
+	ok!
+Alyssa Fowers:
+	so that you could have at least 5 men
+Lawrence Evalyn:
+	because that would be 5 men and 8 women
+Alyssa Fowers:
+	Yeha
+	I’m rounding up slightly because I don’t think you could have 12.5 women
+</Text>
         </Document>
         <Document ID="295A20D7-510F-4716-A406-E84FFC1AB7BC">
             <Title>Thompson appropriately popular</Title>
