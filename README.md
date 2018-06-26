@@ -15,6 +15,15 @@ Map of the thesis at this stage:
 
 # Research Log
 
+## June 26, 2018
+
+### 18thC word vectors
+  - [ECCO](http://ryanheuser.org/data/word2vec.ECCO.skipgram_n=10.model.txt.gz). Eighteenth Century Collections Online (ECCO), “Literature and Language,” 1700-99, with 1.9 billion words and trained using word2vec with skip-gram size of 10 words
+  - [ECCO20](https://archive.org/details/word-vectors-18c-word2vec-models-across-20-year-periods). ECCO split in twenty-year periods of 18C, with 150 million words each and trained using word2vec with skip-gram size of 10 words
+  - [ECCO-TCP](http://ryanheuser.org/data/word2vec.ECCO-TCP.txt.zip). ECCO with 80 million words trained using skip-gram size of 5 words. Also available for [size of 10 words](http://ryanheuser.org/data/word2vec.ECCO-TCP.skipgram_n=10.txt.zip).
+
+It would be really interesting to use word vectors to quantify corpora bias as per DH2018 workshop
+
 ## May 15, 2018
 
 https://omnia.sas.upenn.edu/story/prospecting-playbills
