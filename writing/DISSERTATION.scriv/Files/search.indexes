@@ -1234,6 +1234,22 @@ The decade 1789-99 is suddenly *about me*, and *mine*.</Text>
             <Title>"capta"</Title>
             <Text>Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.”</Text>
         </Document>
+        <Document ID="9893AE8C-2F62-422E-AE7E-9D8246047E4F">
+            <Title>biased corpora</Title>
+            <Text>** Use the word vector exercises from DH2018 workshop
+
+Word embeddings allow for analogy checking. For example, man is to king as woman is to queen, expressed as man:king :: woman:queen, has its reflection on the vector representions of the words man, king, woman, queen in such a way that  king→−man→+woman→≈queen→king→−man→+woman→≈queen→ . However, this can also highlight some biases in the specific corpora the model has been trained on. Using as a base the pair she-he, find the most similar term for female from the term in the next list: doctor, captain, gallant, sheriff, engineer, scientist, author, surgeon, honorable, philosopher, warrior, architect, magician, liar, and coward. 
+When possible, compute the similarity between the expected term for female and the one for male. Use the Google News (2015), English Fiction (1900, 1950) and Genre-Balanced American English (1900, 1950) embeddings. For example, using the English Fiction 1850 embeddings, he:gallant :: she:x solves to x=gentle, and the similarity between gallant and gentle is ~0.418. Can you spot the problem? 
+Hint: Use Gensim's most_similar_cosmul()/most_similar() and similarity() functions
+
+Really cherry-picking the "interesting" results; scroll right past the total nonsense and latch onto anything that can be vaguely thinks
+
+By comparing how different the he:X :: she:X results are, we can quantify the gendered bias within the corpus, to skeptically evaluate our corpora
+
+Very hard to remove gendered bias without removing the other relationships that interest us
+
+Not just corpora that are biased; because the algorithm depends on the corpus, it will become biased too</Text>
+        </Document>
         <Document ID="C4128E58-B680-4B18-827F-C1A40A54198A">
             <Title>18th canon building</Title>
             <Text>this chapter will bring together modern theories of the archive and my eighteenth century materials, by discussing the 1790s as a literary moment in which some significant literary canons begin to take form. When eighteenth century editors began to collect an English vernacular tradition posited against a Classical past and a French present, the “archive” of literary history began to be interpreted into “canons” of texts, with connotations of merit and implications for national identity. The divergence between archive and canon motivates my return to the archive.</Text>

@@ -1,15 +1,8 @@
-@@ -1,3 +1,1036 @@
 # Word Vectors
-
-This is where I will take notes during the word vectors workshop at DH2018.
-<<<<<<< HEAD
-This is where I will take notes during the word vectors workshop at DH2018.
-=======
-This is where I will take notes during the word vectors workshop at DH2018.
 
 "Word vectors actually have an origin going back to the 70s, and word vectors aren't that special" -- essentially my mom's take on them
 
-# 1. Understanding Word Vectors with Visualization (50 mins)
+# 1. Understanding Word Vectors with Visualization
 
 This unit will give a brief introduction of word vectors and word embeddings. Concepts needed to understand the internal mechanics of how they work will also be explained, with the help of plots and visualizations that are commonly used when working with them.
 
@@ -1035,4 +1028,3 @@ In this unit, we will explore an application and caveat of using word embeddings
 0:10 - 0:40 Identifying bias in corpora (occupations, gender, ...)
 0:40 - 0:50 Towards unbiased embeddings; Examine “debiased” embeddings
 0:50 - 0:60 Concluding remarks and debate
->>>>>>> 46d163e... bias in corpora, using vectors for text classification
