@@ -1,4 +1,4 @@
-# Next-do: make revisions and send to Tom
+# Next-do: compile list of 18thC archives
 
 # Thesis Map
 Map of the thesis at this stage:
