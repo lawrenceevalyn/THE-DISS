@@ -115,7 +115,7 @@ this chapter will bring together modern theories of the archive and my eighteent
 
 my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
 
-Because politics occurs between individual people, not political parties, political affiliation, like literary genre, is not amenable to simple taxonomic classification.
+Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.
 
 
 
@@ -124,6 +124,16 @@ Because politics occurs between individual people, not political parties, politi
 
 
 Chapter two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives can implicitly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s): simply putting all of this information in one place will be a useful way to review it. Adding a discussion of each archive’s selection criteria will bring it into the realm of a meta-analysis. I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to greater inclusivity. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious whether even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.
+
+
+
+### research Qs ###
+
+
+
+What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
+
+How do digital vs physical holdings compare?
 
 
 
