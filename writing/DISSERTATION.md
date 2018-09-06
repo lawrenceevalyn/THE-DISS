@@ -1,6 +1,20 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
+# CSECS paper #
+
+
+
+## selection criteria ##
+
+
+
+The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
+
+I exclude single-author databases, such as diaries or correspondence, since they are not printed.
+
+
+
 # THE DISS #
 
 
