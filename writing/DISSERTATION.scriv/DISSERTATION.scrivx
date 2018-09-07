@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-06 20:17:06 -0400" ModID="710F2D60-B067-4086-8B1D-DE4CC7BBBBC9">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-06 20:34:08 -0400" ModID="F41AF069-A9FD-4627-B319-8B13AC24A576">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -16,15 +16,6 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65" Type="Text" Created="2018-09-06 18:46:29 -0400" Modified="2018-09-06 18:48:26 -0400">
-                            <Title>selection criteria</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>281,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C" Type="Text" Created="2018-09-06 19:05:26 -0400" Modified="2018-09-06 19:05:28 -0400">
                             <Title>corpora</Title>
                             <MetaData>
@@ -34,6 +25,24 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65" Type="Text" Created="2018-09-06 18:46:29 -0400" Modified="2018-09-06 18:48:26 -0400">
+                                    <Title>selection criteria</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>281,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="84832065-BF94-4292-838A-096582715C3D" Type="Text" Created="2018-09-06 20:33:47 -0400" Modified="2018-09-06 20:34:04 -0400">
+                                    <Title>excluded corpora</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>30,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="C58DA321-8F8B-41CA-BA6A-B475BE30FE68" Type="Text" Created="2018-09-06 19:04:57 -0400" Modified="2018-09-06 19:16:07 -0400">
                                     <Title>Early Novels Database</Title>
                                     <MetaData>
@@ -252,7 +261,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>211,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -4577,11 +4586,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="565" Characters="3881" Date="2018-09-06 16:40:57 -0400"></PreviousSession>
+        <PreviousSession Words="570" Characters="3911" Date="2018-09-06 16:40:57 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-09-06 00:00:00 -0400">
-        <DraftWordCount>565</DraftWordCount>
-        <DraftCharCount>3881</DraftCharCount>
+        <DraftWordCount>570</DraftWordCount>
+        <DraftCharCount>3911</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
