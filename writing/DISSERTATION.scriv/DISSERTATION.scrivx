@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-06 18:48:48 -0400" ModID="51F3E725-3A4D-4B99-B3F4-2CB69E3C535C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-06 20:17:06 -0400" ModID="710F2D60-B067-4086-8B1D-DE4CC7BBBBC9">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -22,8 +22,28 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>281,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C" Type="Text" Created="2018-09-06 19:05:26 -0400" Modified="2018-09-06 19:05:28 -0400">
+                            <Title>corpora</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="C58DA321-8F8B-41CA-BA6A-B475BE30FE68" Type="Text" Created="2018-09-06 19:04:57 -0400" Modified="2018-09-06 19:16:07 -0400">
+                                    <Title>Early Novels Database</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -225,6 +245,17 @@
                             <TextSettings>
                                 <TextSelection>432,7</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0282B03E-36C0-4B83-A5C5-99ECA347A9B4" Type="Text" Created="2018-09-06 20:15:29 -0400" Modified="2018-09-06 20:16:54 -0400">
+                                    <Title>British Book Trade Index</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="4E7C1283-4719-44CB-9F15-BA0F0850C3F5" Type="Text" Created="2018-04-02 14:20:10 -0400" Modified="2018-07-28 17:18:39 -0400">
                             <Title>ch 5 - networks popularity</Title>
@@ -4546,11 +4577,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="45" Characters="281" Date="2018-09-06 16:40:57 -0400"></PreviousSession>
+        <PreviousSession Words="565" Characters="3881" Date="2018-09-06 16:40:57 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-09-06 00:00:00 -0400">
-        <DraftWordCount>45</DraftWordCount>
-        <DraftCharCount>281</DraftCharCount>
+        <DraftWordCount>565</DraftWordCount>
+        <DraftCharCount>3881</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
