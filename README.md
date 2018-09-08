@@ -1,4 +1,4 @@
-# Next-do: compile list of 18thC archives
+# Next-do: learn OpenRefine
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -12,8 +12,16 @@ Map of the thesis at this stage:
 # Writing Principles
 * Don't be precious about preserving previous drafts. Cannibalize them and move on. It's okay for things to be left behind. (Git has my historical record.)
 * Remember that I'm not trying to write to undergrads.
+* Finish the figures right away.
 
 # Research Log
+
+## September 8, 2018
+
+The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
+
+What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
+A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
 
 ## June 26, 2018
 
