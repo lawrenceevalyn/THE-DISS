@@ -442,6 +442,12 @@ I still anticipate building and comparing multiple ‘models’ of literary acti
         <Document ID="02498A97-F711-45A8-AA5D-A2668A3399E4">
             <Title>ch ? - celebrity</Title>
         </Document>
+        <Document ID="84832065-BF94-4292-838A-096582715C3D">
+            <Title>excluded corpora</Title>
+            <Text>Chawton House - too few novels
+Gentleman’s Magazine resources - can’t filter by date
+Lewis Walpole images digital collection at Yale - can’t filter by date</Text>
+        </Document>
         <Document ID="F1CC502A-EA9E-411C-B3B6-C4F6434DE01E">
             <Title>willard mccarty interdisciplinary</Title>
             <Text>	•	“research in a discipline to which one is alien is difficult to see as good research, or even to see as research at all” 
@@ -450,10 +456,6 @@ I still anticipate building and comparing multiple ‘models’ of literary acti
 	•	“digital humanities offers a middle ground or conjectural space within which, data being simply data, the objects of study dear to the humanities may be treated temporarily as if they were objects of nature, like rocks or stars, then the results of that treatment juxtaposed to how we see them and questions asked.” … “via the conjectural space digital humanities inherits without surrender of authority to the sciences far more than the debate C.P. Snow started in 1959. It inherits many centuries of now relevant work that has been foreign to the humanities since Galileo.” 
 	•	“My aim here has been to suggest that not just the need to tackle great problems but also curiosity’s latest historical moment are with us, that becoming interdisciplinary both rides the urge to know and struggles to hang on against the possibility of being thrown by it. I have put great emphasis on faithfulness to a discipline’s self‐ understanding as countermeasure to solipsism, but at the same time the well‐attested history of fruitful poaching cannot be denied.” 
 </Text>
-        </Document>
-        <Document ID="84832065-BF94-4292-838A-096582715C3D">
-            <Title>excluded corpora</Title>
-            <Text>Chawton House - too few novels</Text>
         </Document>
         <Document ID="9F148578-4C06-4A31-9742-52B2CAB56556">
             <Title>Wordsworth Heart-Leap Well</Title>
@@ -757,6 +759,9 @@ So there's something interesting to me, here, about the idea of layering your wo
             <Text>Women “bury themselves” in convents — it’s a living death
 (But there’s always this anxiety that they’re not dead enough, that they are too beautiful or too rich to be discarded from consideration)</Text>
         </Document>
+        <Document ID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C">
+            <Title>excluded corpora</Title>
+        </Document>
         <Document ID="7003D614-FB4F-45CB-81CE-8507146C5A94">
             <Title>are they "representative"?</Title>
             <Text>Both the macro and the micro views will merge in the question: are my key writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers?</Text>
@@ -777,9 +782,6 @@ Responding to a LOT of calls to move away from treating he moment of original pu
         <Document ID="2E9A1551-E846-4128-9CE9-E24F16D8CAE3">
             <Title>will Garside just GIVE me data 1789-99????</Title>
             <Text>Can I… ask?</Text>
-        </Document>
-        <Document ID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C">
-            <Title>excluded corpora</Title>
         </Document>
         <Document ID="C0935CA5-E701-4173-B08D-4442E00FDF27">
             <Title>natural / unnatural family relations</Title>
@@ -970,6 +972,13 @@ Like the Garside bibliography of the novel, the last volume of this enormous com
             <Text>Sales catalogues of French books? Are French books in England necessarily bootleg? (Scottish pirates?)
 (Movements of goods from France to England generally — how did it work? Taxation data? Places outside Paris all bootlegging? )</Text>
         </Document>
+        <Document ID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC">
+            <Title>these are all databases</Title>
+            <Text>The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
+
+What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
+A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.</Text>
+        </Document>
         <Document ID="FD16F148-47A4-46E6-9914-349C1DBC100B">
             <Title>Byron and Southey are interesting!</Title>
             <Text>Southey is even interesting in the 1790s! Writes a LOT, in a lot of forms, with shifting political allegiances</Text>
@@ -1088,6 +1097,12 @@ I want to expand what we find interesting</Text>
         <Document ID="00A145E6-9645-43D5-903C-1CD2E3CE28FE">
             <Title>Years in titles reflect foreshortening of historic</Title>
             <Text>Years in titles reflect foreshortening of historic scope?</Text>
+        </Document>
+        <Document ID="67B1F75D-71CB-4A41-88B1-8129EA52E05F">
+            <Title>consult Reading Experience Database?</Title>
+            <Text>The Reading Experience Database contains over 30,000 searchable records documenting the history of reading in Britain from 1450 to 1945. Evidence comes from published and unpublished sources such as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records.
+
+Combine with Novels Reviewed Database</Text>
         </Document>
         <Document ID="BB5E107C-A4FD-4FE8-AE2F-A0A5C0731BCA">
             <Title>Barbauld "1811", 1812</Title>
@@ -1867,6 +1882,13 @@ Similarly, Lyrical Ballads is often studied in the context of its 1798, 1800, an
             <Title>false empiricism only affects humanists</Title>
             <Text>Computational work in the humanities often comes with a false veneer of empirical objectivity, but I think this is due in part to the fact that, as McCarty notes, research in other fields is hard even to identify *as* research. These things are not taken as exact or objective in computer science; they are just framed in such a way that humanists don’t easily understand the CS disclaimers.</Text>
         </Document>
+        <Document ID="0282B03E-36C0-4B83-A5C5-99ECA347A9B4">
+            <Title>British Book Trade Index</Title>
+            <Text>OBVIOUSLY this work should be built on the back of the British Book Trade Index, I can’t BELIEVE nobody told me about it!!
+
+http://bbti.bodleian.ox.ac.uk/#
+https://www.nls.uk/catalogues/scottish-book-trade-index</Text>
+        </Document>
         <Document ID="D87B66DF-88F9-4618-8A1D-4D1C66D85B07">
             <Title>abstract template</Title>
             <Text>1) big picture problem or topic widely debated in your field.
@@ -1882,13 +1904,6 @@ Similarly, Lyrical Ballads is often studied in the context of its 1798, 1800, an
 I look at literature as something that is always ephemeral and timely, always in a moment that has the potential to be momentous — a play and a song and a novel all have their own ways of occupying the lives of their audiences.
 Uses and practices around / with texts
 Texts as trying to encourage particular uses, reaching out to particular readers —but not able to control those uses (seriousness always on the verge of parody)</Text>
-        </Document>
-        <Document ID="0282B03E-36C0-4B83-A5C5-99ECA347A9B4">
-            <Title>British Book Trade Index</Title>
-            <Text>OBVIOUSLY this work should be built on the back of the British Book Trade Index, I can’t BELIEVE nobody told me about it!!
-
-http://bbti.bodleian.ox.ac.uk/#
-https://www.nls.uk/catalogues/scottish-book-trade-index</Text>
         </Document>
         <Document ID="7F5081A9-8597-4981-9892-337049FF1C18">
             <Title>conclusion: DH gets left out</Title>
@@ -2166,6 +2181,11 @@ hbbo ahahahahahaha yes IT'S TRUE, GIRLS IT'S ALL TRUE no rumor too wild</Text>
 For Barker- Benfield, the Revolution inspired Mary Wollstonecraft, Hannah More and others to rewrite the code of sensibility which had for decades been used to define and limit women. 
 </Text>
         </Document>
+        <Document ID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65">
+            <Title>excluded corpora</Title>
+            <Text>The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
+I exclude single-author databases, such as diaries or correspondence, since they are not printed.</Text>
+        </Document>
         <Document ID="6878C619-CD76-4DD7-91EA-11D570A4D29C">
             <Title>Felski, Rita. The Limits of Critique</Title>
             <Text>#
@@ -2205,11 +2225,6 @@ For Barker- Benfield, the Revolution inspired Mary Wollstonecraft, Hannah More a
 ￼
 ￼
 </Text>
-        </Document>
-        <Document ID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65">
-            <Title>excluded corpora</Title>
-            <Text>The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
-I exclude single-author databases, such as diaries or correspondence, since they are not printed.</Text>
         </Document>
         <Document ID="270BA58D-B6D4-4F51-AD32-BD3D007F04D2">
             <Title>Are Hookham, Carpenter, and Hookham &amp; Carpenter three publishers or one?</Title>

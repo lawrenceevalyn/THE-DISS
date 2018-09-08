@@ -23,6 +23,10 @@ The primary methodological challenge to the questions I would like to pose is th
 What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
 A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
 
+...I begin to think that this "semantic web" of "open linked data" via "RDF" that I've seen librarians talking about all the time.... is the answer. Which means I need to figure out how to use Twinkle to use SPARQL to query RDF data?
+
+In THEORY I should be able to link multiple sources of RDF data, right? Without having to go through and apply a universal "key" like I would for an SQL database? I wonder.... how.
+
 ## June 26, 2018
 
 ### 18thC word vectors
