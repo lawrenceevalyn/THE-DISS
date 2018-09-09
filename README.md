@@ -1,10 +1,10 @@
-# Next-do: learn OpenRefine
+# Next-do: start correlating archives -- learn OpenRefine? or RDF? or set up a database?
 
 # Thesis Map
 Map of the thesis at this stage:
-1.	Theoretical groundings
-2.	Comparison of digital corpora (write this first)
-3.	Use these corpora to discuss popularity
+1.  Theoretical groundings
+2.  Comparison of digital corpora (write this first)
+3.  Use these corpora to discuss popularity
 4.  Publishing networks
 5.  Use these networks to discuss mainstream / non-mainstream printing (another take on popularity)
 6.  Coda or afterword on the Gothic?
