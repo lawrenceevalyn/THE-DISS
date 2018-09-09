@@ -1,4 +1,6 @@
 # Next-do: start correlating archives -- learn OpenRefine? or RDF? or set up a database?
+* https://github.com/OpenRefine/OpenRefine/wiki/Reconcilable-Data-Sources
+* https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine
 
 # Thesis Map
 Map of the thesis at this stage:

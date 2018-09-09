@@ -446,7 +446,10 @@ I still anticipate building and comparing multiple ‘models’ of literary acti
             <Title>excluded corpora</Title>
             <Text>Chawton House - too few novels
 Gentleman’s Magazine resources - can’t filter by date
-Lewis Walpole images digital collection at Yale - can’t filter by date</Text>
+Lewis Walpole images digital collection at Yale - can’t filter by date
+The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
+
+U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english</Text>
         </Document>
         <Document ID="F1CC502A-EA9E-411C-B3B6-C4F6434DE01E">
             <Title>willard mccarty interdisciplinary</Title>
@@ -967,17 +970,17 @@ O’Quinn discusses three particular performances of Joseph Addison’s Cato (17
 Like the Garside bibliography of the novel, the last volume of this enormous comprehensive bibliography will provide me with the first list of the works I intend to examine in my much narrower chronological period. 
 </Text>
         </Document>
-        <Document ID="2AEA3492-C9F2-44DC-983C-05F8B38EFA71">
-            <Title>How much did people read in French?</Title>
-            <Text>Sales catalogues of French books? Are French books in England necessarily bootleg? (Scottish pirates?)
-(Movements of goods from France to England generally — how did it work? Taxation data? Places outside Paris all bootlegging? )</Text>
-        </Document>
         <Document ID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC">
             <Title>these are all databases</Title>
             <Text>The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
 
 What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
 A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.</Text>
+        </Document>
+        <Document ID="2AEA3492-C9F2-44DC-983C-05F8B38EFA71">
+            <Title>How much did people read in French?</Title>
+            <Text>Sales catalogues of French books? Are French books in England necessarily bootleg? (Scottish pirates?)
+(Movements of goods from France to England generally — how did it work? Taxation data? Places outside Paris all bootlegging? )</Text>
         </Document>
         <Document ID="FD16F148-47A4-46E6-9914-349C1DBC100B">
             <Title>Byron and Southey are interesting!</Title>
@@ -1102,7 +1105,11 @@ I want to expand what we find interesting</Text>
             <Title>consult Reading Experience Database?</Title>
             <Text>The Reading Experience Database contains over 30,000 searchable records documenting the history of reading in Britain from 1450 to 1945. Evidence comes from published and unpublished sources such as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records.
 
-Combine with Novels Reviewed Database</Text>
+Combine with Novels Reviewed Database
+
+Also https://vls.english.qmul.ac.uk/ Dissenting Libraries Online
+To find out more about the reading habits of individual borrowers, click on Browse borrowers. Explore the borrowing records of tutors, such as the Baptist Frederick W. Gotch, ministerial students, including Robert Cotton Mather (later a Congregational missionary), and their lay counterparts, such as William Rayner Wood (who became a prominent Unitarian businessman). 
+The most frequently borrowed books include periodicals, theological textbooks, and historical works. Click on the links to see lists of the most popular titles at Manchester College, Homerton Academy, or Bristol Baptist Academy.</Text>
         </Document>
         <Document ID="BB5E107C-A4FD-4FE8-AE2F-A0A5C0731BCA">
             <Title>Barbauld "1811", 1812</Title>
