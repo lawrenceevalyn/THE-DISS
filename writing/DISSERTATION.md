@@ -5,7 +5,11 @@ Author: Lawrence Evalyn
 
 
 
-## selection criteria ##
+## corpora ##
+
+
+
+### selection criteria ###
 
 
 
@@ -15,7 +19,21 @@ I exclude single-author databases, such as diaries or correspondence, since they
 
 
 
-## corpora ##
+### excluded corpora ###
+
+
+
+Chawton House - too few novels
+
+Gentleman’s Magazine resources - can’t filter by date
+
+Lewis Walpole images digital collection at Yale - can’t filter by date
+
+The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
+
+
+
+U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english
 
 
 
@@ -44,6 +62,20 @@ As of September 2017, the complete Early Novels Dataset totals 2,041 records. Th
 Pair END Data with Fulltext for Topic Modeling
 
 While END’s primary focus is metadata, we are also in the preliminary stages of a fulltext initiative for the CBAF novels digitized by Penn Libraries and available through Print at Penn. We have created fulltext files for each of these texts using OCR; cleanup work is ongoing, both computationally and through hand-correcting. The fulltext is available in our digital-collection repostiory. We have also worked with Penn Libraries' Digital Humanities Specialist Scott Enderle to experiment with topic modeling of this fulltext combined with END metadata. Work-in-progress can be found in our earlynovels-topic-model repository, and Scott's enhanced Topic Modeling Tool, which enables pairing fulltext with metadata, can be found here.
+
+
+
+## these are all databases ##
+
+
+
+The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
+
+
+
+What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
+
+A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
 
 
 
@@ -206,6 +238,18 @@ Can I ask Michael Gamer to let me transcribe the playbills from 1789-99 in excha
 
 
 Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. Influenced by Lesser and Farmer’s articulation of “structures of popularity,” I will consider popularity[ TK: Another tricky one. Might be best to avoid “popularity” unless you’re also going to factor in (as would be very hard) questions like print-runs (a nightmare imponderable), circulation (something aimed at libraries might have many more readers per copy than a book for home), unauthorized newspaper serializations, anthologization (is that a word?), false title pages (where a self-proclaimed 2nd or 10th edition might actually be just a new tp on remaindered sheets of a first edn that hasn’t sold. You could imagine (and this may have happened in practice) a novel published just once in 2,000 copies being more popular than one claiming five editions, none of which may have been more than 500 copies, and some of which may not have been true new editions at all. But which would come up as more popular give your metrics? This is all really tricky stuff and I think you’ll need a thorough discussion of the issues and assumptions.] in terms of total number of editions, frequency of reprinting, and market share.[ Lesser and Farmer also include profitability as one of the four measurements relevant to popularity in the book trade, but profitability is beyond the current scope of this project.] After determining how to calculate each of these metrics, I will ask: what was most popular during the decade, according to my corpora? How do the corpora differ in their answers, and why? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare the publication output of various literary celebrities over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might affect what we define as “popular literature”.
+
+
+
+### consult Reading Experience Database? ###
+
+
+
+The Reading Experience Database contains over 30,000 searchable records documenting the history of reading in Britain from 1450 to 1945. Evidence comes from published and unpublished sources such as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records.
+
+
+
+Combine with Novels Reviewed Database
 
 
 
