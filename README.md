@@ -1,6 +1,5 @@
 # Next-do: start correlating archives -- learn OpenRefine? or RDF? or set up a database?
 * https://github.com/OpenRefine/OpenRefine/wiki/Reconcilable-Data-Sources
-* https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -17,6 +16,24 @@ Map of the thesis at this stage:
 * Finish the figures right away.
 
 # Research Log
+
+## September 16, 2018
+
+I can't believe I used to do all this without OpenRefine!!! It's so helpful for data cleaning.
+
+cheat sheet: https://github.com/OpenRefine/OpenRefine/wiki/Recipes
+
+And the regex I use the most, to delete stuff:
+
+value.replace(/[THING-TO-DELETE]/,'')
+
+If I wanna actually replace:
+
+value.replace(/[THING-TO-REMOVE]/,'THING-TO-ADD').
+
+Today I've just been poking at metadata the bare minimum necessary to guess at how many 1790s texts they likely contain, and trying to remember that I'll need to re-do things meticulously once I begin asking my actual questions of the archives I've decided to study. So I need to remember not to trust rough-adelaide-authors.csv or rough-90s-flattened-book-data.csv (hence my decision to add "rough" to their names just now).
+
+Also useful ref: https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine
 
 ## September 8, 2018
 
