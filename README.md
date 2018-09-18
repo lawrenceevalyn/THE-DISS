@@ -17,6 +17,10 @@ Map of the thesis at this stage:
 
 # Research Log
 
+## September 18, 2018
+
+Got ECCO MARC records from U of T!!! Now I just need to figure out how to open and read MARC records. But I'm sure they contain the information I want!
+
 ## September 16, 2018
 
 I can't believe I used to do all this without OpenRefine!!! It's so helpful for data cleaning.
