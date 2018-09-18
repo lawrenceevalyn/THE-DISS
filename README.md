@@ -21,6 +21,16 @@ Map of the thesis at this stage:
 
 Got ECCO MARC records from U of T!!! Now I just need to figure out how to open and read MARC records. But I'm sure they contain the information I want!
 
+MarcEdit lets me "break" them so I can at least read them in TextEdit.
+
+I think I've started to figure out ECCO'S MARC records!
+
+001 stores ESTC number, though without leading numbers
+i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
+
+260 c stores publication year
+i.e., =260  […] $c (MARC) correlates to Imprint:[…] 1733 (online)
+
 ## September 16, 2018
 
 I can't believe I used to do all this without OpenRefine!!! It's so helpful for data cleaning.

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-08 22:52:47 -0400" ModID="4D5F3292-69DF-49CA-BF5F-1C9E9C459090">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-18 18:37:44 -0400" ModID="E5DDD4E8-2C75-4191-A0AC-3E3D31ED63B2">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -16,8 +16,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C" Type="Text" Created="2018-09-06 19:05:26 -0400" Modified="2018-09-06 19:05:28 -0400">
-                            <Title>corpora</Title>
+                        <BinderItem UUID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C" Type="Text" Created="2018-09-06 19:05:26 -0400" Modified="2018-09-18 18:37:19 -0400">
+                            <Title>corpora principles</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -25,13 +25,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65" Type="Text" Created="2018-09-06 18:46:29 -0400" Modified="2018-09-06 18:48:26 -0400">
+                                <BinderItem UUID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65" Type="Text" Created="2018-09-06 18:46:29 -0400" Modified="2018-09-18 18:35:16 -0400">
                                     <Title>selection criteria</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>281,0</TextSelection>
+                                        <TextSelection>319,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="84832065-BF94-4292-838A-096582715C3D" Type="Text" Created="2018-09-06 20:33:47 -0400" Modified="2018-09-08 19:28:10 -0400">
@@ -43,24 +43,51 @@
                                         <TextSelection>371,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="C58DA321-8F8B-41CA-BA6A-B475BE30FE68" Type="Text" Created="2018-09-06 19:04:57 -0400" Modified="2018-09-06 19:16:07 -0400">
-                                    <Title>Early Novels Database</Title>
+                                <BinderItem UUID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC" Type="Text" Created="2018-09-08 17:47:04 -0400" Modified="2018-09-08 17:54:02 -0400">
+                                    <Title>these are all databases</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>724,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC" Type="Text" Created="2018-09-08 17:47:04 -0400" Modified="2018-09-08 17:54:02 -0400">
-                            <Title>these are all databases</Title>
+                        <BinderItem UUID="B6F75AAE-9355-4A44-AFFA-12648C468110" Type="Text" Created="2018-09-18 18:36:47 -0400" Modified="2018-09-18 18:36:59 -0400">
+                            <Title>my "big six"</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>724,0</TextSelection>
+                                <TextSelection>157,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="84CF1C9C-0809-4DBF-8449-7336D6EB3427" Type="Text" Created="2018-09-18 18:32:23 -0400" Modified="2018-09-18 18:35:57 -0400">
+                            <Title>how many texts per year?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B4F44A57-8A65-45A2-B4D4-2265DB5D7B85" Type="Text" Created="2018-09-18 18:35:57 -0400" Modified="2018-09-18 18:36:04 -0400">
+                            <Title>what percent London?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E525D571-AD6B-4715-9FDF-6111F6E6F7E9" Type="Text" Created="2018-09-18 18:36:05 -0400" Modified="2018-09-18 18:36:10 -0400">
+                            <Title>male/female ratio?</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -324,6 +351,26 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="25EE45BB-4A7C-43C3-B684-1BB2787CED16" Type="Text" Created="2018-09-18 18:32:37 -0400" Modified="2018-09-18 18:34:20 -0400">
+                            <Title>ECCO MARC records</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>217,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C58DA321-8F8B-41CA-BA6A-B475BE30FE68" Type="Text" Created="2018-09-06 19:04:57 -0400" Modified="2018-09-06 19:16:07 -0400">
+                            <Title>Early Novels Database</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="F90D8DD9-7804-4B37-BA9E-B86FF687FCED" Type="Text" Created="2017-05-23 01:56:24 -0400" Modified="2018-04-26 03:54:19 -0400">
                     <Title>Acknowledgements</Title>
@@ -4606,11 +4653,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="302" Characters="2065" Date="2018-09-08 18:02:35 -0400"></PreviousSession>
+        <PreviousSession Words="59" Characters="412" Date="2018-09-18 18:32:12 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-09-08 00:00:00 -0400">
-        <DraftWordCount>302</DraftWordCount>
-        <DraftCharCount>2065</DraftCharCount>
+    <RecentWritingHistory Date="2018-09-18 00:00:00 -0400">
+        <DraftWordCount>59</DraftWordCount>
+        <DraftCharCount>412</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
