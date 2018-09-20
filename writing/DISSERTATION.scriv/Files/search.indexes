@@ -632,6 +632,15 @@ The introduction will thus allow me to to deal directly with the way that other 
         <Document ID="3E025559-AA4E-48B3-A2A7-B6FB712CBD40">
             <Title>many works not actual one single object</Title>
         </Document>
+        <Document ID="B6F75AAE-9355-4A44-AFFA-12648C468110">
+            <Title>my "big six"</Title>
+            <Text>English Short Title Catalogue
+ECCO (Parts I and II)
+HathiTrust
+ProQuest Literature Online    (incl. all Chadwyck-Healey)
+British Library 19thC books
+ECCO-TCP</Text>
+        </Document>
         <Document ID="AE0067F0-8634-4DB0-B97F-630A194274FC">
             <Title>Shakespeare obnoxiously exceptional</Title>
             <Text>Shelley in preface has to parenthetically except Shakespeare from discussion of England not having produced great works — an obligatory stock rhetorical position, to namedrop shakespeare, rather than a personal engagement with his works (Norton 796)</Text>
@@ -761,9 +770,6 @@ So there's something interesting to me, here, about the idea of layering your wo
             <Title>convents as woman-storage</Title>
             <Text>Women “bury themselves” in convents — it’s a living death
 (But there’s always this anxiety that they’re not dead enough, that they are too beautiful or too rich to be discarded from consideration)</Text>
-        </Document>
-        <Document ID="B24A5D18-0EEA-4C54-804F-CB9C16AB307C">
-            <Title>excluded corpora</Title>
         </Document>
         <Document ID="7003D614-FB4F-45CB-81CE-8507146C5A94">
             <Title>are they "representative"?</Title>
@@ -1825,6 +1831,14 @@ Right now this means that I am throwing out my current dissertation outline, whi
 
 I think this how how one properly accounts overwhelming detail and variety: lots of different bits of information all correlated with each other.</Text>
         </Document>
+        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
+            <Title>ECCO MARC records</Title>
+            <Text>001 stores ESTC number, though without leading numbers
+i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
+
+260 c stores publication year
+i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
+        </Document>
         <Document ID="470D7E96-AE99-42AB-B247-C5449A2145F0">
             <Title>add copyright laws &amp; libraries to timeline</Title>
             <Text>From William St Clair</Text>
@@ -2189,9 +2203,9 @@ For Barker- Benfield, the Revolution inspired Mary Wollstonecraft, Hannah More a
 </Text>
         </Document>
         <Document ID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65">
-            <Title>excluded corpora</Title>
+            <Title>selection criteria</Title>
             <Text>The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
-I exclude single-author databases, such as diaries or correspondence, since they are not printed.</Text>
+I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.</Text>
         </Document>
         <Document ID="6878C619-CD76-4DD7-91EA-11D570A4D29C">
             <Title>Felski, Rita. The Limits of Critique</Title>
