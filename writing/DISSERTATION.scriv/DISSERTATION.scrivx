@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-23 04:51:35 -0400" ModID="55D33F71-8EE3-46C7-8010-662C146BE22D">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-09-23 17:54:22 -0400" ModID="6F5FB82C-58A5-4D76-BF70-A2AFB5CB6B98">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -130,7 +130,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="624F83AB-517D-44FF-B8E9-43351A5CBFD8" Type="Text" Created="2018-09-23 04:48:50 -0400" Modified="2018-09-23 04:48:59 -0400">
+                        <BinderItem UUID="624F83AB-517D-44FF-B8E9-43351A5CBFD8" Type="Text" Created="2018-09-23 04:48:50 -0400" Modified="2018-09-23 17:54:20 -0400">
                             <Title>can I topic-model titles to compare kinds of lit??</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -138,6 +138,17 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="578FB307-8E43-42F8-9BEE-BDE715C148B4" Type="Text" Created="2018-09-23 17:54:13 -0400" Modified="2018-09-23 17:54:20 -0400">
+                                    <Title>DH article on this</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>67,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -4711,11 +4722,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-09-23 04:46:32 -0400"></PreviousSession>
+        <PreviousSession Words="9" Characters="67" Date="2018-09-23 17:54:02 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-09-23 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>9</DraftWordCount>
+        <DraftCharCount>67</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
