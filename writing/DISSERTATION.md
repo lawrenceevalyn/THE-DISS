@@ -69,15 +69,35 @@ ECCO-TCP
 
 
 
-## how many texts per year? ##
+### how many texts per year? ###
 
 
 
-## what percent London? ##
+### what percent London? ###
 
 
 
-## male/female ratio? ##
+### male/female ratio? ###
+
+
+
+## do these have marginalized lit? ##
+
+
+
+### what's in Corvey? ###
+
+
+
+### what's in WWO / Chawton? ###
+
+
+
+### what's in labouring-class poets? ###
+
+
+
+## can I topic-model titles to compare kinds of lit?? ##
 
 
 
