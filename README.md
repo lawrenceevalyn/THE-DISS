@@ -17,6 +17,10 @@ Map of the thesis at this stage:
 
 # Research Log
 
+## September 23, 2018
+
+Considered, but ruled out, WorldCat -- can only see results if there's a search term, no way to get everything matching date & location
+
 ## September 18, 2018
 
 Got ECCO MARC records from U of T!!! Now I just need to figure out how to open and read MARC records. But I'm sure they contain the information I want!
