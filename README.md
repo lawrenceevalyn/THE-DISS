@@ -1,5 +1,4 @@
-# Next-do: start correlating archives -- learn OpenRefine? or RDF? or set up a database?
-* https://github.com/OpenRefine/OpenRefine/wiki/Reconcilable-Data-Sources
+# Next-do: find basic "demographic" info on my Fab Five archives
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -16,6 +15,10 @@ Map of the thesis at this stage:
 * Finish the figures right away.
 
 # Research Log
+
+## September 29, 2018
+
+Not going to look at British Library Labs for CSECS after all -- time is running short, and excluding it will be an easy way to simplify my work. And it's the least "exciting" of the six, since it's the one I've heard of the least.
 
 ## September 23, 2018
 
