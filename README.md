@@ -14,7 +14,17 @@ Map of the thesis at this stage:
 * Remember that I'm not trying to write to undergrads.
 * Finish the figures right away.
 
+# Reference:
+
+*Useful regex*: \$c1789|\$c179[0123456789]  --  matches all my years in MARC
+
 # Research Log
+
+## Octover 3, 2018
+
+Getting demographic info from ESTC yesterday was trivially easy; doing it with ECCO MARC files today is a nightmare.
+
+By using MarcEdit to "export to OpenRefine" and then opening the resulting file as JSON, I can work with it one subfield per row, but this it's wholly functional. Because publication date & publication year are in the same row (260) I can filter by pub year and then look at pub location (for my London %), but with the data in this format I can't filter by years and then look at anything else (like author, or ESTC number, etc) -- and I don't want to be working with ALL of ECCO!
 
 ## September 29, 2018
 
