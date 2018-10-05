@@ -26,6 +26,13 @@ This is a helpful guide to finding ECCO-TCP files: https://shgregg.com/2017/08/1
 
 It doesn't seem like anyone has available a list of *just* what's in the ECCO-TCP; the closest I can come is the TCP-titles csv which includes EEBO and Evans TCP texts as well, and has no publisher info.
 
+### My horrible MARC > OpenRefine workflow
+
+Tools > Export Tab Delimited Data
+choose commas as delimiter
+Make sure to select fields / subfields!!!
+(can "load" settings to grab the same fields as previously; "basics" settings are just 100 and 260, to get author and publisher.)
+
 ## October 3, 2018
 
 Getting demographic info from ESTC yesterday was trivially easy; doing it with ECCO MARC files today is a nightmare.
