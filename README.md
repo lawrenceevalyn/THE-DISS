@@ -17,6 +17,7 @@ Map of the thesis at this stage:
 # Reference:
 
 *Useful regex*: \$c1789|\$c179[0123456789]  --  matches all my years in MARC
+non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
@@ -25,6 +26,8 @@ Map of the thesis at this stage:
 This is a helpful guide to finding ECCO-TCP files: https://shgregg.com/2017/08/16/finding-ecco-tcp-texts/
 
 It doesn't seem like anyone has available a list of *just* what's in the ECCO-TCP; the closest I can come is the TCP-titles csv which includes EEBO and Evans TCP texts as well, and has no publisher info.
+
+When getting publisher location data from ECCO, the ECCO1 slice of the corpus doesn't include catalog location info in the original MARC file so I use publisher's imprint instead :(
 
 ### My horrible MARC > OpenRefine workflow
 
