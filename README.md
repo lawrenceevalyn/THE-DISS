@@ -20,7 +20,13 @@ Map of the thesis at this stage:
 
 # Research Log
 
-## Octover 3, 2018
+## October 5, 2018
+
+This is a helpful guide to finding ECCO-TCP files: https://shgregg.com/2017/08/16/finding-ecco-tcp-texts/
+
+It doesn't seem like anyone has available a list of *just* what's in the ECCO-TCP; the closest I can come is the TCP-titles csv which includes EEBO and Evans TCP texts as well, and has no publisher info.
+
+## October 3, 2018
 
 Getting demographic info from ESTC yesterday was trivially easy; doing it with ECCO MARC files today is a nightmare.
 
