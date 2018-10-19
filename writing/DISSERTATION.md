@@ -101,6 +101,14 @@ ECCO-TCP
 
 
 
+### DH article on this ###
+
+
+
+https://academic.oup.com/dsh/article/30/suppl_1/i130/365257#5299119
+
+
+
 # THE DISS #
 
 
@@ -252,6 +260,34 @@ How do digital vs physical holdings compare?
 https://omnia.sas.upenn.edu/story/prospecting-playbills
 
 Can I ask Michael Gamer to let me transcribe the playbills from 1789-99 in exchange for using all their info in my diss…?
+
+
+
+### OpenRefine ###
+
+
+
+Having heard about OpenRefine by, essentially, eavesdropping on librarians at a conference, I adopted it for the task often called “data cleaning.”
+
+
+
+#### data cleaning ####
+
+
+
+The metaphor of “data cleaning,” which seeks to purge inconsistencies in order to produce homogenized “tidy data” is at odds with the process that it actually describes.
+
+[Messy, subjective judgments]
+
+Though, you are in the end attempting to impose some kind of order
+
+
+
+### topic modelling ###
+
+
+
+I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.
 
 
 
