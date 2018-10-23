@@ -1,4 +1,4 @@
-# Next-do: find basic "demographic" info on my Fab Five archives
+# Next-do: do some serious reading for a bit
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -20,6 +20,10 @@ Map of the thesis at this stage:
 non-MARC version: 1789|179[0123456789]
 
 # Research Log
+
+## October 23, 2018
+
+I think I'm feeling so unmoored from the 18thC scholarly conversation because I just haven't... really been reading 18thC scholarship. So I think I'm going to put the experimentation on the backburner a little, and focus on actually reading all the recommendations that Terry & Tom have given me.
 
 ## October 5, 2018
 
