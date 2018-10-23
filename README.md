@@ -25,6 +25,26 @@ non-MARC version: 1789|179[0123456789]
 
 I think I'm feeling so unmoored from the 18thC scholarly conversation because I just haven't... really been reading 18thC scholarship. So I think I'm going to put the experimentation on the backburner a little, and focus on actually reading all the recommendations that Terry & Tom have given me.
 
+### Notes from meeting with Alex
+
+Dissertation timeline:
+* Write out a detailed plan of the work ahead of me, and an explanation for why I'm going to do the reading I'm going to do next
+* Make the spreadsheet in which I will record my reading notes
+* Oct 31: send Alex the directed reading plan
+* Early Nov: meet with Alex
+* Nov: read!
+* Late Nov: meet with Terry
+* Churn through the data processing & experimenting during the winter
+* Finish writing chapter 2 by July
+* Write chapter 3 based on the same experimentation during the fall
+* Second round of experimentation
+* Write chs 4 & 5 over the summer
+
+Limit my non-diss work!
+* Can only work on gothic-motifs if I'm prepared to workship it with lab in early Jan; if it takes longer than that, need to let go of it.
+* Can only present at conferences if it's diss work.
+* I do NOT need to add "service" to my CV.
+
 ## October 5, 2018
 
 This is a helpful guide to finding ECCO-TCP files: https://shgregg.com/2017/08/16/finding-ecco-tcp-texts/
