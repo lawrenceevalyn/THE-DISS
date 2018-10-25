@@ -109,6 +109,56 @@ https://academic.oup.com/dsh/article/30/suppl_1/i130/365257#5299119
 
 
 
+## actual talk ##
+
+
+
+This is mostly a talk about how difficult it is to find out what's actually in a digital archive. Because it's digital, we expect accessibility/convenience, but often what digitality actually enables is a black box. The goal of my work, which is still extremely preliminary, is to take a small enough slice of "big data" that I can actually examine it carefully, and to scrutinize it.
+
+
+
+My work as a digital humanities scholar right now 
+
+
+
+
+
+data collection
+
+even though "MARC" stands for MAchine Readable Catalogue," at points I read these records with my feeble human eyes
+
+
+
+titles per year
+
+- this was unreasonably difficult to make; OpenRefine was the secret
+
+- TCP is the most unbalanced -- though that may be because it also includes Evans texts
+
+
+
+publisher location
+
+ESTC shows more published in Edinburgh than in Scotland
+
+(210 Edinburgh, 52 Scotland)
+
+Neither of these includes Ireland right now -- ESTC because it's not in my query, ECCO because I deleted Ireland to match ESTC
+
+
+
+ECCO stats are based on the 37,830 MARC records which include publisher location
+
+Somewhat inexplicably, 27,140 MARC records don't include bibliographical publisher assessment, just a transcription of the title page
+
+(I also have 25,000 more MARC records than I expected so I have some more correlating to do.)
+
+
+
+[Topic modelling of titles is a way to look at / compare large corpus of information without being reduced to a “lowest common denominator” approach — it’s an orthogonal move]
+
+
+
 # THE DISS #
 
 
