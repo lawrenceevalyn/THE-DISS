@@ -1,164 +1,6 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# CSECS paper #
-
-
-
-## corpora principles ##
-
-
-
-### selection criteria ###
-
-
-
-The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
-
-I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.
-
-
-
-### excluded corpora ###
-
-
-
-Chawton House - too few novels
-
-Gentleman’s Magazine resources - can’t filter by date
-
-Lewis Walpole images digital collection at Yale - can’t filter by date
-
-The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
-
-
-
-U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english
-
-
-
-### these are all databases ###
-
-
-
-The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
-
-
-
-What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
-
-A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
-
-
-
-## my "big six" ##
-
-
-
-English Short Title Catalogue
-
-ECCO (Parts I and II)
-
-HathiTrust
-
-ProQuest Literature Online    (incl. all Chadwyck-Healey)
-
-British Library 19thC books
-
-ECCO-TCP
-
-
-
-### how many texts per year? ###
-
-
-
-### what percent London? ###
-
-
-
-### male/female ratio? ###
-
-
-
-## do these have marginalized lit? ##
-
-
-
-### what's in Corvey? ###
-
-
-
-### what's in WWO / Chawton? ###
-
-
-
-### what's in labouring-class poets? ###
-
-
-
-## can I topic-model titles to compare kinds of lit?? ##
-
-
-
-### DH article on this ###
-
-
-
-https://academic.oup.com/dsh/article/30/suppl_1/i130/365257#5299119
-
-
-
-## actual talk ##
-
-
-
-This is mostly a talk about how difficult it is to find out what's actually in a digital archive. Because it's digital, we expect accessibility/convenience, but often what digitality actually enables is a black box. The goal of my work, which is still extremely preliminary, is to take a small enough slice of "big data" that I can actually examine it carefully, and to scrutinize it.
-
-
-
-My work as a digital humanities scholar right now 
-
-
-
-
-
-data collection
-
-even though "MARC" stands for MAchine Readable Catalogue," at points I read these records with my feeble human eyes
-
-
-
-titles per year
-
-- this was unreasonably difficult to make; OpenRefine was the secret
-
-- TCP is the most unbalanced -- though that may be because it also includes Evans texts
-
-
-
-publisher location
-
-ESTC shows more published in Edinburgh than in Scotland
-
-(210 Edinburgh, 52 Scotland)
-
-Neither of these includes Ireland right now -- ESTC because it's not in my query, ECCO because I deleted Ireland to match ESTC
-
-
-
-ECCO stats are based on the 37,830 MARC records which include publisher location
-
-Somewhat inexplicably, 27,140 MARC records don't include bibliographical publisher assessment, just a transcription of the title page
-
-(I also have 25,000 more MARC records than I expected so I have some more correlating to do.)
-
-
-
-[Topic modelling of titles is a way to look at / compare large corpus of information without being reduced to a “lowest common denominator” approach — it’s an orthogonal move]
-
-
-
 # THE DISS #
 
 
@@ -295,6 +137,164 @@ How do digital vs physical holdings compare?
 
 
 
+### CSECS paper ###
+
+
+
+#### corpora principles ####
+
+
+
+##### selection criteria #####
+
+
+
+The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
+
+I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.
+
+
+
+##### excluded corpora #####
+
+
+
+Chawton House - too few novels
+
+Gentleman’s Magazine resources - can’t filter by date
+
+Lewis Walpole images digital collection at Yale - can’t filter by date
+
+The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
+
+
+
+U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english
+
+
+
+##### these are all databases #####
+
+
+
+The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
+
+
+
+What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
+
+A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
+
+
+
+#### my "big six" ####
+
+
+
+English Short Title Catalogue
+
+ECCO (Parts I and II)
+
+HathiTrust
+
+ProQuest Literature Online    (incl. all Chadwyck-Healey)
+
+British Library 19thC books
+
+ECCO-TCP
+
+
+
+##### how many texts per year? #####
+
+
+
+##### what percent London? #####
+
+
+
+##### male/female ratio? #####
+
+
+
+#### do these have marginalized lit? ####
+
+
+
+##### what's in Corvey? #####
+
+
+
+##### what's in WWO / Chawton? #####
+
+
+
+##### what's in labouring-class poets? #####
+
+
+
+#### can I topic-model titles to compare kinds of lit?? ####
+
+
+
+##### DH article on this #####
+
+
+
+https://academic.oup.com/dsh/article/30/suppl_1/i130/365257#5299119
+
+
+
+#### actual talk ####
+
+
+
+This is mostly a talk about how difficult it is to find out what's actually in a digital archive. Because it's digital, we expect accessibility/convenience, but often what digitality actually enables is a black box. The goal of my work, which is still extremely preliminary, is to take a small enough slice of "big data" that I can actually examine it carefully, and to scrutinize it.
+
+
+
+My work as a digital humanities scholar right now 
+
+
+
+
+
+data collection
+
+even though "MARC" stands for MAchine Readable Catalogue," at points I read these records with my feeble human eyes
+
+
+
+titles per year
+
+- this was unreasonably difficult to make; OpenRefine was the secret
+
+- TCP is the most unbalanced -- though that may be because it also includes Evans texts
+
+
+
+publisher location
+
+ESTC shows more published in Edinburgh than in Scotland
+
+(210 Edinburgh, 52 Scotland)
+
+Neither of these includes Ireland right now -- ESTC because it's not in my query, ECCO because I deleted Ireland to match ESTC
+
+
+
+ECCO stats are based on the 37,830 MARC records which include publisher location
+
+Somewhat inexplicably, 27,140 MARC records don't include bibliographical publisher assessment, just a transcription of the title page
+
+(I also have 25,000 more MARC records than I expected so I have some more correlating to do.)
+
+
+
+[Topic modelling of titles is a way to look at / compare large corpus of information without being reduced to a “lowest common denominator” approach — it’s an orthogonal move]
+
+
+
 ### selection criteria ###
 
 
@@ -338,6 +338,38 @@ Though, you are in the end attempting to impose some kind of order
 
 
 I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.
+
+
+
+### reading ###
+
+
+
+I plan to read for two major kinds of information, both of which will form the “lit review” section of chapter two. For each work I read, I will record the following:
+
+
+
+Numbers against which I can compare my findings:
+
+- Titles per year
+
+- Authors, signed vs unsigned
+
+- Authors, female vs male vs unknown
+
+- Publication location
+
+
+
+Assumptions against which I can compare my methodology:
+
+- Treatment of reprints
+
+- Circulation assumptions
+
+- Excluded categories
+
+- Genre ontology
 
 
 

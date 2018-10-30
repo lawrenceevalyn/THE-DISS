@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-10-28 03:13:50 -0400" ModID="32B9813F-4E73-49F4-902E-C2393B890AA4">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-10-30 05:47:17 -0400" ModID="944B872E-F54C-4220-83FC-E3F2482CBFB4">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -367,6 +367,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>146,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B9B7FA60-0B9F-4712-B91F-948EF6F5EED1" Type="Text" Created="2018-10-30 05:43:05 -0400" Modified="2018-10-30 05:46:51 -0400">
+                                    <Title>reading</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -4769,11 +4778,11 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-10-28 03:13:21 -0400"></PreviousSession>
+        <PreviousSession Words="72" Characters="470" Date="2018-10-30 05:42:57 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-10-28 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2018-10-30 00:00:00 -0400">
+        <DraftWordCount>72</DraftWordCount>
+        <DraftCharCount>470</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
