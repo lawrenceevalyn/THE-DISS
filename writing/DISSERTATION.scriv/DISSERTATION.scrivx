@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-10-30 05:47:17 -0400" ModID="944B872E-F54C-4220-83FC-E3F2482CBFB4">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-07 19:04:53 -0500" ModID="A5DFFDDF-210C-4394-B013-71CAA9A23109">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -22,7 +22,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>719,0</TextSelection>
+                                <TextSelection>859,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Text" Created="2018-04-02 14:19:48 -0400" Modified="2018-07-28 17:18:39 -0400">
@@ -375,7 +375,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>168,302</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -426,7 +426,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>814,0</TextSelection>
+                                <TextSelection>873,15</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1" Type="Text" Created="2018-04-02 14:20:15 -0400" Modified="2018-07-28 17:18:39 -0400">
@@ -564,6 +564,16 @@
                 <IconFileName>Front Matter.tiff</IconFileName>
             </MetaData>
             <Children>
+                <BinderItem UUID="05998D2E-D785-4BE4-89E5-206B85FA4509" Type="Text" Created="2018-11-04 18:01:21 -0500" Modified="2018-11-04 18:46:40 -0500">
+                    <Title>Questions</Title>
+                    <MetaData>
+                        <LabelID>8</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>63,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="9893AE8C-2F62-422E-AE7E-9D8246047E4F" Type="Text" Created="2018-06-26 13:07:47 -0400" Modified="2018-06-26 13:08:45 -0400">
                     <Title>biased corpora</Title>
                     <MetaData>
@@ -1593,7 +1603,7 @@
                                 <TextSelection>850,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6F518876-88B1-4011-9F7C-0DE38615FA0A" Type="Text" Created="2016-11-30 22:00:20 -0500" Modified="2017-01-16 23:29:01 -0500">
+                        <BinderItem UUID="6F518876-88B1-4011-9F7C-0DE38615FA0A" Type="Text" Created="2016-11-30 22:00:20 -0500" Modified="2018-11-04 19:57:07 -0500">
                             <Title>Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1775,6 +1785,15 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="134CC259-2CD7-4FCA-A166-C69AB528EEA9" Type="Text" Created="2018-09-04 18:39:47 -0400" Modified="2018-11-07 19:04:21 -0500">
+                            <Title>Champion, Erik. Model vs simulation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>598,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="3005AE41-E241-45A4-BDA5-AAB258B8121C" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2017-07-06 00:02:03 -0400">
                             <Title>Cohen, Sentimental Education of the Novel</Title>
                             <MetaData>
@@ -1789,6 +1808,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                             <Title>Drucker, Johanna. Graphesis: Visual Forms of Knowledge</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>18,100</TextSelection>
@@ -1798,6 +1818,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                             <Title>Fischer-Starcke, Bettina. Corpus Linguistics in Literary</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>701,0</TextSelection>
@@ -1817,6 +1838,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                             <Title>Sandvoss, C. "The death of the reader: literary theory and the study of texts in popular culture."</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1090,0</TextSelection>
@@ -1826,6 +1848,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                             <Title>Worrall, David. Celebrity, Performance, Reception: British</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>365,0</TextSelection>
@@ -1840,15 +1863,17 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                             <TextSettings>
                                 <TextSelection>152,0</TextSelection>
                             </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="E158F644-8798-457E-BAB2-D6288E7402F8" Type="Text" Created="2017-09-19 23:33:03 -0400" Modified="2017-09-19 23:34:31 -0400">
-                            <Title>Reviewed by IAN H. DE JONG</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>478,0</TextSelection>
-                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E158F644-8798-457E-BAB2-D6288E7402F8" Type="Text" Created="2017-09-19 23:33:03 -0400" Modified="2017-09-19 23:34:31 -0400">
+                                    <Title>Reviewed by IAN H. DE JONG</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>478,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="6878C619-CD76-4DD7-91EA-11D570A4D29C" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2017-11-01 03:31:12 -0400">
                             <Title>Felski, Rita. The Limits of Critique</Title>
@@ -1870,8 +1895,136 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <TextSelection>369,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A6FB209C-081F-4B52-8878-89214991C085" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2016-09-02 12:26:45 -0400">
-                            <Title>Text 6</Title>
+                        <BinderItem UUID="A6FB209C-081F-4B52-8878-89214991C085" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2018-11-04 17:39:13 -0500">
+                            <Title>Bainbridge, Simon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B8D97E6E-3948-4F89-BC66-58F1418ED5F0" Type="Text" Created="2018-11-04 17:39:13 -0500" Modified="2018-11-04 19:51:29 -0500">
+                                    <Title>chapters</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2478,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D9CC2409-668B-4C1C-84EC-C907A7EE7F7A" Type="Text" Created="2018-11-04 17:39:18 -0500" Modified="2018-11-04 19:53:18 -0500">
+                                    <Title>my notes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>50877,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5086F865-D504-42EA-8CAA-822A03A5AF16" Type="Text" Created="2018-11-04 18:28:54 -0500" Modified="2018-11-04 19:52:49 -0500">
+                                    <Title>popular</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11114,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0818C5AE-9313-42E1-B947-43B7F14B0505" Type="Text" Created="2018-11-04 18:40:54 -0500" Modified="2018-11-04 19:16:16 -0500">
+                                    <Title>written</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5005,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="905ABB3B-BE62-4265-9804-0B688902512E" Type="Text" Created="2018-11-07 18:49:34 -0500" Modified="2018-11-07 19:03:40 -0500">
+                            <Title>Taylor, George. The French Revolution and the London Stage, 1789-1805</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9399,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="91579698-5FC1-40E2-8D42-F3693CBB1B4E" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D6FB832D-39CE-422B-891E-BEF44B20E501" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A626FA86-F827-444D-8512-85824FEBDD7C" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C30C9CF3-2FBB-454C-89D1-30DEF0F16A6F" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-3</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="620CCAA6-C4CA-4E61-8348-EC5E62E13B4A" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-4</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EE0EE577-6874-498D-BFCB-E95ACC8F5BB7" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-5</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="58F28118-9F2C-436A-9592-5A7B6BEB7455" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-6</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Book (Blue Book).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0DD38A82-7E6E-4A68-B192-5A3D48C990F2" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
+                            <Title>book-7</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
@@ -1881,179 +2034,6 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                             </TextSettings>
                         </BinderItem>
                     </Children>
-                </BinderItem>
-                <BinderItem UUID="62F33C9A-9020-4235-B8A7-E5B6A6B1F6ED" Type="Text" Created="2017-11-01 03:27:41 -0400" Modified="2017-11-01 03:27:46 -0400">
-                    <Title>reading recs</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="08CB776D-FBF7-4DB2-AF8B-9353C29DF993" Type="Text" Created="2017-11-01 03:27:51 -0400" Modified="2017-11-01 03:27:57 -0400">
-                            <Title>Alan Liu, _Wordsworth: The Sense of History_: this</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>103,184</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="E20DF5D0-6C71-4DD6-9889-C4436A74D5C9" Type="Text" Created="2017-11-01 03:27:55 -0400" Modified="2017-11-01 03:28:02 -0400">
-                            <Title>Timothy Morton, _Shelley and the Revolution in Taste</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>89,118</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="A95DD8BF-5DBB-475B-A1F6-2F84056FFDA8" Type="Text" Created="2017-11-01 03:28:04 -0400" Modified="2017-11-01 03:28:15 -0400">
-                            <Title>M.H. Abrams, _The Mirror and the Lamp_: a classic, and</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>40,169</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="2D29629B-1313-431A-B813-262AE2AEB734" Type="Text" Created="2017-11-01 03:28:12 -0400" Modified="2017-11-01 03:28:15 -0400">
-                            <Title>Friedrich Kittler, _Discourse Networks, 1800/1900</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,276</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="E53D8C39-5C1D-4D7A-AAFF-5D6D3DBD643A" Type="Text" Created="2018-03-03 14:57:58 -0500" Modified="2018-03-03 14:58:08 -0500">
-                            <Title>G. J. Barker-Benfield’s The Culture of Sensibility</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,290</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="3A63F53A-6BBE-4696-A6FA-1181C6330804" Type="Text" Created="2018-03-03 14:58:06 -0500" Modified="2018-03-03 14:58:23 -0500">
-                            <Title>Eve Tavor Bannet’s The Domestic Revolution: Enlightenment</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,460</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="EABA8E29-6047-494E-934D-A8F8D2B482F1" Type="Text" Created="2018-03-03 15:13:08 -0500" Modified="2018-03-03 15:13:18 -0500">
-                            <Title>Marjorie Levinson’s Wordsworth’s Great Period Poems</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,530</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="02C4CFBB-50E2-4391-A410-8F3C0D9448E3" Type="Text" Created="2018-03-03 15:20:38 -0500" Modified="2018-03-03 15:20:43 -0500">
-                            <Title>historian John Barrell’s Imagining the King’s Death</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,359</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="8B0AFB0C-99D7-48D0-86C5-866DD70CE517" Type="Text" Created="2018-03-03 15:24:15 -0500" Modified="2018-03-03 15:24:18 -0500">
-                            <Title>Richard Cronin, for instance, provides a good account</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,372</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="F25DE58D-A67F-42B9-8AB0-F14B8C3A31AC" Type="Text" Created="2018-03-03 15:24:26 -0500" Modified="2018-03-03 15:24:30 -0500">
-                            <Title>Simon Bainbridge, who has tracked down the war poetry</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,530</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="ABAA3964-DA94-4209-B352-BBF9A2BABF69" Type="Text" Created="2018-03-03 15:45:47 -0500" Modified="2018-03-03 15:45:51 -0500">
-                            <Title>George Taylor’s The French Revolution and the London</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,478</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="600779EE-7315-4ABD-A09F-3D7E8A862EB1" Type="Text" Created="2018-03-03 15:52:46 -0500" Modified="2018-03-03 15:53:05 -0500">
-                            <Title>Paula Backscheider’s book Spectacular Politics (1993</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,609</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="5E8A773D-49F0-47F5-81AF-95AFDCB21F21" Type="Text" Created="2018-03-03 16:05:15 -0500" Modified="2018-03-03 16:05:18 -0500">
-                            <Title>Gillian Russell’s Theatres of War (1995), which considers</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,426</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="2BEC9B74-115C-4C73-98F4-7CDF8DF6A05B" Type="Text" Created="2018-03-03 16:05:28 -0500" Modified="2018-03-03 16:05:32 -0500">
-                            <Title>Marc Baer’s Theatre and Disorder in Late Georgian London</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,221</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="B60CFAC8-2C8F-49FF-9BF1-7B5AB403E9DE" Type="Text" Created="2018-03-03 16:13:33 -0500" Modified="2018-03-03 16:15:38 -0500">
-                            <Title>Nicola J. Watson’s Revolution and the Form of the British</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,912</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="8CBEAA67-55AF-4E8E-A156-E2BD7DA55FD9" Type="Text" Created="2018-03-03 19:02:51 -0500" Modified="2018-03-03 19:02:55 -0500">
-                            <Title>Jacobs E (2003) Eighteenth-century British circulating</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,114</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="6E1B18FE-81B2-4822-8BBB-8E8FF98EACE1" Type="Text" Created="2018-10-23 13:15:02 -0400" Modified="2018-10-23 13:15:14 -0400">
-                            <Title>D. F. McKenzie</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>300,217</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="134CC259-2CD7-4FCA-A166-C69AB528EEA9" Type="Text" Created="2018-09-04 18:39:47 -0400" Modified="2018-09-04 18:40:10 -0400">
-                    <Title>model vs simulation</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>190,0</TextSelection>
-                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -4718,6 +4698,178 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="62F33C9A-9020-4235-B8A7-E5B6A6B1F6ED" Type="Text" Created="2017-11-01 03:27:41 -0400" Modified="2017-11-01 03:27:46 -0400">
+                    <Title>reading recs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="08CB776D-FBF7-4DB2-AF8B-9353C29DF993" Type="Text" Created="2017-11-01 03:27:51 -0400" Modified="2017-11-01 03:27:57 -0400">
+                            <Title>Alan Liu, _Wordsworth: The Sense of History_: this</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>103,184</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E20DF5D0-6C71-4DD6-9889-C4436A74D5C9" Type="Text" Created="2017-11-01 03:27:55 -0400" Modified="2017-11-01 03:28:02 -0400">
+                            <Title>Timothy Morton, _Shelley and the Revolution in Taste</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>89,118</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A95DD8BF-5DBB-475B-A1F6-2F84056FFDA8" Type="Text" Created="2017-11-01 03:28:04 -0400" Modified="2017-11-01 03:28:15 -0400">
+                            <Title>M.H. Abrams, _The Mirror and the Lamp_: a classic, and</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>40,169</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2D29629B-1313-431A-B813-262AE2AEB734" Type="Text" Created="2017-11-01 03:28:12 -0400" Modified="2017-11-01 03:28:15 -0400">
+                            <Title>Friedrich Kittler, _Discourse Networks, 1800/1900</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,276</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E53D8C39-5C1D-4D7A-AAFF-5D6D3DBD643A" Type="Text" Created="2018-03-03 14:57:58 -0500" Modified="2018-03-03 14:58:08 -0500">
+                            <Title>G. J. Barker-Benfield’s The Culture of Sensibility</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,290</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3A63F53A-6BBE-4696-A6FA-1181C6330804" Type="Text" Created="2018-03-03 14:58:06 -0500" Modified="2018-03-03 14:58:23 -0500">
+                            <Title>Eve Tavor Bannet’s The Domestic Revolution: Enlightenment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,460</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EABA8E29-6047-494E-934D-A8F8D2B482F1" Type="Text" Created="2018-03-03 15:13:08 -0500" Modified="2018-03-03 15:13:18 -0500">
+                            <Title>Marjorie Levinson’s Wordsworth’s Great Period Poems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,530</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="02C4CFBB-50E2-4391-A410-8F3C0D9448E3" Type="Text" Created="2018-03-03 15:20:38 -0500" Modified="2018-03-03 15:20:43 -0500">
+                            <Title>historian John Barrell’s Imagining the King’s Death</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,359</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8B0AFB0C-99D7-48D0-86C5-866DD70CE517" Type="Text" Created="2018-03-03 15:24:15 -0500" Modified="2018-03-03 15:24:18 -0500">
+                            <Title>Richard Cronin, for instance, provides a good account</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,372</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F25DE58D-A67F-42B9-8AB0-F14B8C3A31AC" Type="Text" Created="2018-03-03 15:24:26 -0500" Modified="2018-03-03 15:24:30 -0500">
+                            <Title>Simon Bainbridge, who has tracked down the war poetry</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,530</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ABAA3964-DA94-4209-B352-BBF9A2BABF69" Type="Text" Created="2018-03-03 15:45:47 -0500" Modified="2018-03-03 15:45:51 -0500">
+                            <Title>George Taylor’s The French Revolution and the London</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,478</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="600779EE-7315-4ABD-A09F-3D7E8A862EB1" Type="Text" Created="2018-03-03 15:52:46 -0500" Modified="2018-03-03 15:53:05 -0500">
+                            <Title>Paula Backscheider’s book Spectacular Politics (1993</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,609</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5E8A773D-49F0-47F5-81AF-95AFDCB21F21" Type="Text" Created="2018-03-03 16:05:15 -0500" Modified="2018-03-03 16:05:18 -0500">
+                            <Title>Gillian Russell’s Theatres of War (1995), which considers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,426</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2BEC9B74-115C-4C73-98F4-7CDF8DF6A05B" Type="Text" Created="2018-03-03 16:05:28 -0500" Modified="2018-03-03 16:05:32 -0500">
+                            <Title>Marc Baer’s Theatre and Disorder in Late Georgian London</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,221</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B60CFAC8-2C8F-49FF-9BF1-7B5AB403E9DE" Type="Text" Created="2018-03-03 16:13:33 -0500" Modified="2018-03-03 16:15:38 -0500">
+                            <Title>Nicola J. Watson’s Revolution and the Form of the British</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,912</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8CBEAA67-55AF-4E8E-A156-E2BD7DA55FD9" Type="Text" Created="2018-03-03 19:02:51 -0500" Modified="2018-03-03 19:02:55 -0500">
+                            <Title>Jacobs E (2003) Eighteenth-century British circulating</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,114</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6E1B18FE-81B2-4822-8BBB-8E8FF98EACE1" Type="Text" Created="2018-10-23 13:15:02 -0400" Modified="2018-10-23 13:15:14 -0400">
+                            <Title>D. F. McKenzie</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>300,217</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="5D5F8570-1E4E-4F5B-AF1F-1C1CA1CBE47B" Type="Text" Created="2018-11-04 18:30:10 -0500" Modified="2018-11-04 18:30:10 -0500">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4778,13 +4930,13 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="72" Characters="470" Date="2018-10-30 05:42:57 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-11-07 18:49:23 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-10-30 00:00:00 -0400">
-        <DraftWordCount>72</DraftWordCount>
-        <DraftCharCount>470</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2018-11-07 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>1468</OtherWordCount>
+        <OtherCharCount>9399</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

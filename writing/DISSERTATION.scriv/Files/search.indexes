@@ -29,6 +29,31 @@ Timeliness and feeling, as investigated through bibliographical research and rep
 This monumental, comprehensive bibliography provides the titles and impressive bibliographical details for every work listed, and will provide my initial list of prose fiction works 1789-1816 to seek out. 
 </Text>
         </Document>
+        <Document ID="C99F8713-8AC0-4FA7-8CF3-59C4159F9287">
+            <Title>actual talk</Title>
+            <Text>This is mostly a talk about how difficult it is to find out what's actually in a digital archive. Because it's digital, we expect accessibility/convenience, but often what digitality actually enables is a black box. The goal of my work, which is still extremely preliminary, is to take a small enough slice of "big data" that I can actually examine it carefully, and to scrutinize it.
+
+My work as a digital humanities scholar right now 
+
+
+data collection
+even though "MARC" stands for MAchine Readable Catalogue," at points I read these records with my feeble human eyes
+
+titles per year
+- this was unreasonably difficult to make; OpenRefine was the secret
+- TCP is the most unbalanced -- though that may be because it also includes Evans texts
+
+publisher location
+ESTC shows more published in Edinburgh than in Scotland
+(210 Edinburgh, 52 Scotland)
+Neither of these includes Ireland right now -- ESTC because it's not in my query, ECCO because I deleted Ireland to match ESTC
+
+ECCO stats are based on the 37,830 MARC records which include publisher location
+Somewhat inexplicably, 27,140 MARC records don't include bibliographical publisher assessment, just a transcription of the title page
+(I also have 25,000 more MARC records than I expected so I have some more correlating to do.)
+
+[Topic modelling of titles is a way to look at / compare large corpus of information without being reduced to a “lowest common denominator” approach — it’s an orthogonal move]</Text>
+        </Document>
         <Document ID="A2263CF8-A9C4-41D3-81E6-1CB0515CA9E7">
             <Title>cf Cox's(?) edition of Keats</Title>
             <Text>Presented peoms and letters intermingled chronologically</Text>
@@ -239,6 +264,22 @@ Ok, those are my thoughts on credit vs debt as part of the shift from parochial 
         </Document>
         <Document ID="29946A10-3373-42AE-A10D-065B51D92787">
             <Title>Primary Texts</Title>
+        </Document>
+        <Document ID="B9B7FA60-0B9F-4712-B91F-948EF6F5EED1">
+            <Title>reading</Title>
+            <Text>I plan to read for two major kinds of information, both of which will form the “lit review” section of chapter two. For each work I read, I will record the following:
+
+Numbers against which I can compare my findings:
+- Titles per year
+- Authors, signed vs unsigned
+- Authors, female vs male vs unknown
+- Publication location
+
+Assumptions against which I can compare my methodology:
+- Treatment of reprints
+- Circulation assumptions
+- Excluded categories
+- Genre ontology</Text>
         </Document>
         <Document ID="0357964F-3AB8-491F-BA75-F1886434AD96">
             <Title>Frow, John. Genre</Title>
@@ -596,6 +637,10 @@ Anyway, interesting. I should look this up.
 My readings have traced the development, in the latter half of the eighteenth century, of a complex negotiation regarding the role of feeling in the public sphere and in literature. Competing definitions of the effects of sympathy had high-stakes political and ethical implications: does universal sympathy unite all people into a moral society of citizens, or do emotional interpretations of events blind people to rational justice? When literature excites a strong emotional response, is this a healthy form of exercise for its audience’s moral feeling, or a weakening distraction from real moral action? These questions, in translated form, continue to shape my own questions about literature as a field: what should one read, and how should one read it, if one wishes to honor the importance of feeling without being misled by emotional manipulation?
 The “major” works across the period are characterized by sentimental novels before the 1780s, to political philosophy and gothic novels during the 80s and 90s, to romantic poetry at the turn of the 19th century. My interest in the gothic and the supernatural is thus subsumed within a larger conversation about the representation of feeling. As Clery, Miles, and Gamer have explored in different ways, gothic and supernatural stories encompass a subset of literary strategies to understand and use feeling, which exist in conversation and competition with other strategies. Each work must strike its own balance between exciting the feelings of its readers, and moderating them. The simplest narrative tracing this development begins with a naive emotional philosophy of benevolence in sentimental novels, which gets exposed as flawed by the rationalist political philosophy of the 80s and 90s and must grapple with its failures in the gothic literature of that period, and which forms a new balance though elevation and retrospection in romantic literature.</Text>
         </Document>
+        <Document ID="8C5C4230-108E-4A68-A8CC-81251DC51D83">
+            <Title>topic modelling</Title>
+            <Text>I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.</Text>
+        </Document>
         <Document ID="D09C5017-444D-47B8-B4CB-22F1772D250A">
             <Title>no one answer/arc for the period</Title>
             <Text>Each author and work will have its own take on what feeling is for, where it comes from, how it is best to be evoked or controlled or used — and hence there is no arching narrative. But I can trace specific materials, like tears, ghosts, and nature</Text>
@@ -866,6 +911,10 @@ More accomplishes her stunning volume of work partly by being a publisher as muc
             <Title>how to identify genres?</Title>
             <Text>How do we make sense of intergeneric connections? What is a genre? Why do we have them? What are they for?</Text>
         </Document>
+        <Document ID="C7957BDA-5857-4E26-BC3E-9CEB3A1D96B7">
+            <Title>OpenRefine</Title>
+            <Text>Having heard about OpenRefine by, essentially, eavesdropping on librarians at a conference, I adopted it for the task often called “data cleaning.”</Text>
+        </Document>
         <Document ID="EE519946-C464-41D3-95F3-BFC82EB59A03">
             <Title>ESTC: publishers visible over authors</Title>
             <Text>The decade 1789-99, according to the ESTC corpus, is driven by publishers at least as much as it is by authors. At this scale, no one author can be seen to have particular impact. Even Paine, and More, and Wesley are dwarfed by the volume of work produced by “Great Britain”, and dwarfed again by the works by “null” authors who were not only unsigned at the time but elude bibliographic documentation now.</Text>
@@ -894,6 +943,12 @@ Are there differences between volumes that were printed at the same time (eg vol
         <Document ID="5348EB00-C939-4C3B-A601-252EADBB954F">
             <Title>I'm Not Writing About</Title>
             <Text>… reception history outside the 1790s.</Text>
+        </Document>
+        <Document ID="70F8F56E-7687-4B1A-ABED-7B07F4481578">
+            <Title>data cleaning</Title>
+            <Text>The metaphor of “data cleaning,” which seeks to purge inconsistencies in order to produce homogenized “tidy data” is at odds with the process that it actually describes.
+[Messy, subjective judgments]
+Though, you are in the end attempting to impose some kind of order</Text>
         </Document>
         <Document ID="4A49D684-BA70-4694-A130-C9348A03D76F">
             <Title>ESTC: prominence of the "back catalogue"</Title>
@@ -995,6 +1050,9 @@ A true "standard" is probably both unfeasible and undesirable. So what can be us
         <Document ID="FD16F148-47A4-46E6-9914-349C1DBC100B">
             <Title>Byron and Southey are interesting!</Title>
             <Text>Southey is even interesting in the 1790s! Writes a LOT, in a lot of forms, with shifting political allegiances</Text>
+        </Document>
+        <Document ID="6E1B18FE-81B2-4822-8BBB-8E8FF98EACE1">
+            <Text>You might also like to look at D. F. McKenzie's two chapters on the London book trade in single years, 1644 and 1668, in his posthumous Making Meaning collection. This is analogue-era scholarship, and concerning a period other than yours, but I think very relevant for some of your groundwork issues. On publishing statistics, DFM is very incisive about the difference between production rates and survival rates, and the tendency of scholars to talk about the first when really the only thing they see is the second. This isn't going to be such a big issue for the 1790s, but it's going to be an issue all the same. He's good on sheet counts and print runs too: the way a fugitive one-sheet broadside in two tiny editions can show up bibliometrically (in an ESTC count, say) as a bigger deal than, or more "popular" than, a fat heavyweight folio in a single edition with a big print run. </Text>
         </Document>
         <Document ID="91ED910F-5B74-4770-B2F4-21912343114C">
             <Title>performative vulnerability</Title>
