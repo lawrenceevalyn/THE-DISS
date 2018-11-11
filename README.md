@@ -17,9 +17,16 @@ Map of the thesis at this stage:
 # Reference:
 
 *Useful regex*: \$c1789|\$c179[0123456789]  --  matches all my years in MARC
+
 non-MARC version: 1789|179[0123456789]
 
 # Research Log
+
+## November 10
+
+Reading has been assuaging my anxieties-- I can see now who I might want to quote and when, which gives actual context for what I should focus the data comparisons on.
+
+Also, I should probably go through and make the issue-tracker more accurate to my open questions.
 
 ## October 23, 2018
 
