@@ -1,6 +1,158 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
+# ch 2 - archives #
+
+
+
+Chapter two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives can implicitly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s): simply putting all of this information in one place will be a useful way to review it. Adding a discussion of each archive’s selection criteria will bring it into the realm of a meta-analysis. I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to greater inclusivity. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious whether even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.
+
+
+
+## research Qs ##
+
+
+
+	•	What’s in all these, anyway?
+
+	⁃	What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
+
+	⁃	How do digital vs physical holdings compare?
+
+	•	Can I identify how often texts are reprinted?? i.e., the most popular texts
+
+	•	Can I identify male/female ratios?
+
+	•	Can I identify the prevalence of various genres? (Topic modelling of titles) i.e., the most popular genres
+
+
+
+## lit review ##
+
+
+
+I plan to read secondary criticism for two major kinds of information, both of which will form the “lit review” section of chapter two. For each work I read, I will record the following:
+
+
+
+Numbers against which I can compare my findings:
+
+- Titles per year
+
+- Authors, signed vs unsigned
+
+- Authors, female vs male vs unknown
+
+- Publication location
+
+
+
+Assumptions against which I can compare my methodology:
+
+- Treatment of reprints
+
+- Circulation assumptions
+
+- Excluded categories
+
+- Genre ontology
+
+
+
+### How do people determine popularity? ###
+
+
+
+	1.	Simon Bainbridge: best-selling, most-reprinted, most-adapted
+
+	2.	George Taylor: simply asserts that some things are popular
+
+	3.	Emmet Kennedy, Marie-Laurence Netter, et al.: number of performances per play (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory)
+
+
+
+### Numbers to compare to ###
+
+
+
+Comedies vs tragedies performed: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)
+
+
+
+## corpora principles ##
+
+
+
+### selection criteria ###
+
+
+
+The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99. [Or England??]
+
+I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.
+
+
+
+### excluded corpora ###
+
+
+
+Chawton House - too few novels
+
+Gentleman’s Magazine resources - can’t filter by date
+
+Lewis Walpole images digital collection at Yale - can’t filter by date
+
+The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
+
+
+
+U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english
+
+
+
+### these are all databases ###
+
+
+
+The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
+
+
+
+What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
+
+A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
+
+
+
+## OpenRefine ##
+
+
+
+Having heard about OpenRefine by, essentially, eavesdropping on librarians at a conference, I adopted it for the task often called “data cleaning.”
+
+
+
+### data cleaning ###
+
+
+
+The metaphor of “data cleaning,” which seeks to purge inconsistencies in order to produce homogenized “tidy data” is at odds with the process that it actually describes.
+
+[Messy, subjective judgments]
+
+Though, you are in the end attempting to impose some kind of order
+
+
+
+## topic modelling ##
+
+
+
+I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.
+
+
+
 # THE DISS #
 
 
@@ -119,260 +271,6 @@ Because politics occurs between individual people, not political parties, I argu
 
 
 
-## ch 2 - archives ##
-
-
-
-Chapter two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives can implicitly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s): simply putting all of this information in one place will be a useful way to review it. Adding a discussion of each archive’s selection criteria will bring it into the realm of a meta-analysis. I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to greater inclusivity. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious whether even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.
-
-
-
-### research Qs ###
-
-
-
-What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
-
-How do digital vs physical holdings compare?
-
-
-
-### CSECS paper ###
-
-
-
-#### corpora principles ####
-
-
-
-##### selection criteria #####
-
-
-
-The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom, between the years 1789-99.
-
-I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.
-
-
-
-##### excluded corpora #####
-
-
-
-Chawton House - too few novels
-
-Gentleman’s Magazine resources - can’t filter by date
-
-Lewis Walpole images digital collection at Yale - can’t filter by date
-
-The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
-
-
-
-U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english
-
-
-
-##### these are all databases #####
-
-
-
-The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
-
-
-
-What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
-
-A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
-
-
-
-#### my "big six" ####
-
-
-
-English Short Title Catalogue
-
-ECCO (Parts I and II)
-
-HathiTrust
-
-ProQuest Literature Online    (incl. all Chadwyck-Healey)
-
-British Library 19thC books
-
-ECCO-TCP
-
-
-
-##### how many texts per year? #####
-
-
-
-##### what percent London? #####
-
-
-
-##### male/female ratio? #####
-
-
-
-#### do these have marginalized lit? ####
-
-
-
-##### what's in Corvey? #####
-
-
-
-##### what's in WWO / Chawton? #####
-
-
-
-##### what's in labouring-class poets? #####
-
-
-
-#### can I topic-model titles to compare kinds of lit?? ####
-
-
-
-##### DH article on this #####
-
-
-
-https://academic.oup.com/dsh/article/30/suppl_1/i130/365257#5299119
-
-
-
-#### actual talk ####
-
-
-
-This is mostly a talk about how difficult it is to find out what's actually in a digital archive. Because it's digital, we expect accessibility/convenience, but often what digitality actually enables is a black box. The goal of my work, which is still extremely preliminary, is to take a small enough slice of "big data" that I can actually examine it carefully, and to scrutinize it.
-
-
-
-My work as a digital humanities scholar right now 
-
-
-
-
-
-data collection
-
-even though "MARC" stands for MAchine Readable Catalogue," at points I read these records with my feeble human eyes
-
-
-
-titles per year
-
-- this was unreasonably difficult to make; OpenRefine was the secret
-
-- TCP is the most unbalanced -- though that may be because it also includes Evans texts
-
-
-
-publisher location
-
-ESTC shows more published in Edinburgh than in Scotland
-
-(210 Edinburgh, 52 Scotland)
-
-Neither of these includes Ireland right now -- ESTC because it's not in my query, ECCO because I deleted Ireland to match ESTC
-
-
-
-ECCO stats are based on the 37,830 MARC records which include publisher location
-
-Somewhat inexplicably, 27,140 MARC records don't include bibliographical publisher assessment, just a transcription of the title page
-
-(I also have 25,000 more MARC records than I expected so I have some more correlating to do.)
-
-
-
-[Topic modelling of titles is a way to look at / compare large corpus of information without being reduced to a “lowest common denominator” approach — it’s an orthogonal move]
-
-
-
-### selection criteria ###
-
-
-
- the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s) — digital only, or physical also….? (How would I even DO physical? Libraries? Or bibliographies?)
-
-
-
-#### Michael Gamer playbills??? ####
-
-
-
-https://omnia.sas.upenn.edu/story/prospecting-playbills
-
-Can I ask Michael Gamer to let me transcribe the playbills from 1789-99 in exchange for using all their info in my diss…?
-
-
-
-### OpenRefine ###
-
-
-
-Having heard about OpenRefine by, essentially, eavesdropping on librarians at a conference, I adopted it for the task often called “data cleaning.”
-
-
-
-#### data cleaning ####
-
-
-
-The metaphor of “data cleaning,” which seeks to purge inconsistencies in order to produce homogenized “tidy data” is at odds with the process that it actually describes.
-
-[Messy, subjective judgments]
-
-Though, you are in the end attempting to impose some kind of order
-
-
-
-### topic modelling ###
-
-
-
-I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.
-
-
-
-### reading ###
-
-
-
-I plan to read for two major kinds of information, both of which will form the “lit review” section of chapter two. For each work I read, I will record the following:
-
-
-
-Numbers against which I can compare my findings:
-
-- Titles per year
-
-- Authors, signed vs unsigned
-
-- Authors, female vs male vs unknown
-
-- Publication location
-
-
-
-Assumptions against which I can compare my methodology:
-
-- Treatment of reprints
-
-- Circulation assumptions
-
-- Excluded categories
-
-- Genre ontology
-
-
-
 ## ch 3 - archive popularity ##
 
 
@@ -453,61 +351,13 @@ How can I use this to cite specific page numbers?
 
 
 
-# Experimental methods #
-
-
-
-## ECCO MARC records ##
-
-
-
-001 stores ESTC number, though without leading numbers
-
-i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
-
-
-
-260 c stores publication year
-
-i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)
-
-
-
-## Early Novels Database ##
-
-
-
-So while the full.tsv contains records for works published as early as 1660 and as late as 1853, you can choose the 18c-full.tsv to look only at records published from 1700-1799, and the 19c-full.tsv for records with publication dates from 1800-1853.
-
-
-
-About the Dataset
-
-The Early Novels Dataset contains bibliographic metadata for early works of fiction held in the Collection of British and American Fiction, 1660-1830 (CBAF) at the University of Pennsylvania’s Kislak Center for Special Collections, Rare Books and Manuscripts, as well as other regional repositories. It consists of MARC catalog records enriched with custom subfields designed to offer new kinds of structured data about early fiction in English.
-
-
-
-The END dataset is comprised of high-quality, human-generated metadata that captures a much fuller range of edition- and copy-specific information about early novels than traditional library catalog records. The END metadata schema builds on library-standard MARC records with custom-designed subfields that use both controlled and discursive vocabularies to describe a range of bibliographic features outside the scope of traditional cataloging. These include important bibliographic details such as authority statements, full and half title, accurate and controlled place of publication, and edition statement. They capture both copy-specific information about marginalia, inscriptions, and bookplates as well as title-level data on narrative form. And finally, they record the presence of important paratextual features like authors’ notes, epigraphs, footnotes, and indices, which can be found in many works of early fiction but have never been cataloged in a systematic way that would enable faceted search across a corpus.
-
-
-
-As of September 2017, the complete Early Novels Dataset totals 2,041 records. The core eighteenth-century subset consists of 1,325 records, which represent all of Penn Libraries’ Collection of British and American Fiction holdings published from 1700-1794 and a sampling of holdings published from 1795-1799. A sample comparison of the CBAF holdings from the decade of the 1760s with all known fiction in English published during this period suggests that Penn's collection represents approximately 14% of this total corpus. In the core eighteenth-century subset, Penn's holdings are supplemented with selected holdings from other Philadelphia-area and regional repositories, including the Library Company of Philadelphia, the Rosenbach, the Swarthmore Libraries Rare Book Room, Bryn Mawr College Special Collections, and New York University's Fales Library.
-
-
-
-Pair END Data with Fulltext for Topic Modeling
-
-While END’s primary focus is metadata, we are also in the preliminary stages of a fulltext initiative for the CBAF novels digitized by Penn Libraries and available through Print at Penn. We have created fulltext files for each of these texts using OCR; cleanup work is ongoing, both computationally and through hand-correcting. The fulltext is available in our digital-collection repostiory. We have also worked with Penn Libraries' Digital Humanities Specialist Scott Enderle to experiment with topic modeling of this fulltext combined with END metadata. Work-in-progress can be found in our earlynovels-topic-model repository, and Scott's enhanced Topic Modeling Tool, which enables pairing fulltext with metadata, can be found here.
-
-
-
 # Acknowledgements #
 
 
 
 SSHRC (OGS?)
 
-ESTC, HathiTrust
+ESTC, HathiTrust, U Toronto Libraries (for ECCO metadata)
 
 Alex G, Terry, Tom
 
