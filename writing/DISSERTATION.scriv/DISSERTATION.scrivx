@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-12 04:22:48 -0500" ModID="2C3DD6E8-35F1-420D-A330-3B3C1F364662">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-12 04:24:22 -0500" ModID="C7C5406C-FDEB-4D7C-9807-EFADBF67347C">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-07 20:34:28 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -94,7 +94,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65" Type="Text" Created="2018-09-06 18:46:29 -0400" Modified="2018-11-12 03:39:19 -0500">
+                                <BinderItem UUID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65" Type="Text" Created="2018-09-06 18:46:29 -0400" Modified="2018-11-12 04:24:22 -0500">
                                     <Title>selection criteria</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -373,36 +373,6 @@
                         <TextSelection>70,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D983AC00-809B-4877-B8F4-6CB0A4ECAAFE" Type="Text" Created="2017-08-11 15:20:18 -0400" Modified="2017-09-27 19:07:55 -0400">
-                    <Title>Experimental methods</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Figures and Graphs.tiff</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="25EE45BB-4A7C-43C3-B684-1BB2787CED16" Type="Text" Created="2018-09-18 18:32:37 -0400" Modified="2018-09-18 18:34:20 -0400">
-                            <Title>ECCO MARC records</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,217</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="C58DA321-8F8B-41CA-BA6A-B475BE30FE68" Type="Text" Created="2018-09-06 19:04:57 -0400" Modified="2018-09-06 19:16:07 -0400">
-                            <Title>Early Novels Database</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3" Type="Text" Created="2017-08-11 16:04:11 -0400" Modified="2018-02-12 13:52:49 -0500">
@@ -479,6 +449,36 @@
                 <IconFileName>Front Matter.tiff</IconFileName>
             </MetaData>
             <Children>
+                <BinderItem UUID="D983AC00-809B-4877-B8F4-6CB0A4ECAAFE" Type="Text" Created="2017-08-11 15:20:18 -0400" Modified="2017-09-27 19:07:55 -0400">
+                    <Title>Experimental methods</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Figures and Graphs.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="25EE45BB-4A7C-43C3-B684-1BB2787CED16" Type="Text" Created="2018-09-18 18:32:37 -0400" Modified="2018-09-18 18:34:20 -0400">
+                            <Title>ECCO MARC records</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,217</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C58DA321-8F8B-41CA-BA6A-B475BE30FE68" Type="Text" Created="2018-09-06 19:04:57 -0400" Modified="2018-09-06 19:16:07 -0400">
+                            <Title>Early Novels Database</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
                 <BinderItem UUID="F567B1B9-205A-4769-860A-D5A007683941" Type="Text" Created="2016-11-30 15:31:14 -0500" Modified="2016-11-30 15:46:51 -0500">
                     <Title>Annotated Bibliography</Title>
                     <MetaData>
@@ -4982,11 +4982,11 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="6" Characters="41" Date="2018-11-12 03:12:10 -0500"></PreviousSession>
+        <PreviousSession Words="6" Characters="42" Date="2018-11-12 03:12:10 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-11-12 00:00:00 -0500">
         <DraftWordCount>6</DraftWordCount>
-        <DraftCharCount>41</DraftCharCount>
+        <DraftCharCount>42</DraftCharCount>
         <OtherWordCount>61</OtherWordCount>
         <OtherCharCount>354</OtherCharCount>
     </RecentWritingHistory>
