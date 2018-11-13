@@ -1,4 +1,4 @@
-# Next-do: do some serious reading for a bit
+# Next-do: how do 18thC scholars define "popularity"?
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -22,7 +22,11 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
-## November 10
+## November 12, 2018
+
+OK, went through and reviewed some of my research questions and the issue tracker -- very reassuring that I'm making meaningful progress.
+
+## November 10, 2018
 
 Reading has been assuaging my anxieties-- I can see now who I might want to quote and when, which gives actual context for what I should focus the data comparisons on.
 

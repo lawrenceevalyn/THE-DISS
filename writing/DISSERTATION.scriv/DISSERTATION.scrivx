@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-12 04:24:22 -0500" ModID="C7C5406C-FDEB-4D7C-9807-EFADBF67347C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-12 21:00:17 -0500" ModID="46FE53F4-7ACA-4CF0-B876-C1325F575E01">
     <Binder>
-        <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-07 20:34:28 -0500">
+        <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-12 20:58:35 -0500">
             <Title>OGS Plan of Study 2018</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>2774,0</TextSelection>
+                <TextSelection>893,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem UUID="8D461B28-331E-4B44-8725-67D7AC9F3E7C" Type="Text" Created="2018-11-12 20:38:28 -0500" Modified="2018-11-12 20:55:15 -0500">
+                    <Title>spare sentences</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>256,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="27F1E55C-97D8-4FD2-A96B-3E6B360D78E0" Type="Text" Created="2017-10-16 13:09:58 -0400" Modified="2018-11-07 20:21:08 -0500">
             <Title>OGS Plan of Study 2017</Title>
@@ -3215,8 +3226,17 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                         <TextSelection>361,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2017-12-01 04:11:18 -0500">
-                    <Title>Thesis Proposal</Title>
+                <BinderItem UUID="EE12143E-6190-438E-9EC0-B42C74F65D10" Type="Text" Created="2018-11-12 20:25:58 -0500" Modified="2018-11-12 20:28:49 -0500">
+                    <Title>Thesis Proposal (post fields)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>304,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2018-11-12 20:26:28 -0500">
+                    <Title>Thesis Proposal (before fields)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -4922,6 +4942,14 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="C809B5E5-418E-41B6-AC79-61BBCEE551A1" Type="Text" Created="2018-11-12 20:46:25 -0500" Modified="2018-11-12 20:46:25 -0500">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4982,13 +5010,13 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="6" Characters="42" Date="2018-11-12 03:12:10 -0500"></PreviousSession>
+        <PreviousSession Words="6" Characters="42" Date="2018-11-12 19:29:49 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-11-12 00:00:00 -0500">
         <DraftWordCount>6</DraftWordCount>
         <DraftCharCount>42</DraftCharCount>
-        <OtherWordCount>61</OtherWordCount>
-        <OtherCharCount>354</OtherCharCount>
+        <OtherWordCount>2514</OtherWordCount>
+        <OtherCharCount>16098</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
