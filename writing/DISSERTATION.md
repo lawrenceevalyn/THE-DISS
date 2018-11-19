@@ -21,6 +21,8 @@ Chapter two takes up contemporary digital archives directly, examining corpora o
 
 	•	Can I identify how often texts are reprinted?? i.e., the most popular texts
 
+	⁃	Can I look at the title info, which often states eg “7th ed”? — These will not always be accurate
+
 	•	Can I identify male/female ratios?
 
 	•	Can I identify the prevalence of various genres? (Topic modelling of titles) i.e., the most popular genres

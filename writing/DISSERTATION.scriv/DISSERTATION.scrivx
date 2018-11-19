@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-14 08:46:17 -0500" ModID="2E56CC0F-9FA7-4E35-8488-5E8089562D19">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-18 19:13:16 -0500" ModID="12205F87-EE0E-4118-A571-53B56C930CB9">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-12 20:58:35 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -868,14 +868,14 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="D6FB832D-39CE-422B-891E-BEF44B20E501" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
-                            <Title>book-1</Title>
+                        <BinderItem UUID="D6FB832D-39CE-422B-891E-BEF44B20E501" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-18 19:13:02 -0500">
+                            <Title>Cronin, Politics of Romantic Poetry</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2578,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="A626FA86-F827-444D-8512-85824FEBDD7C" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
@@ -5010,13 +5010,13 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="19" Characters="101" Date="2018-11-14 08:45:36 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-11-18 17:22:02 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-11-14 00:00:00 -0500">
-        <DraftWordCount>19</DraftWordCount>
-        <DraftCharCount>101</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2018-11-18 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>1569</OtherWordCount>
+        <OtherCharCount>9454</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
