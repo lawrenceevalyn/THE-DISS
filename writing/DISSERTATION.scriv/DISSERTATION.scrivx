@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-18 19:13:16 -0500" ModID="12205F87-EE0E-4118-A571-53B56C930CB9">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-18 20:30:32 -0500" ModID="73388DFE-B43A-475E-B07E-92DBC6E291AF">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-12 20:58:35 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -868,15 +868,26 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="D6FB832D-39CE-422B-891E-BEF44B20E501" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-18 19:13:02 -0500">
+                        <BinderItem UUID="D6FB832D-39CE-422B-891E-BEF44B20E501" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-18 20:29:01 -0500">
                             <Title>Cronin, Politics of Romantic Poetry</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2578,0</TextSelection>
+                                <TextSelection>10845,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="6EFB537C-3AD4-4350-BBE6-FE15338A4498" Type="Text" Created="2018-11-18 19:49:45 -0500" Modified="2018-11-18 20:27:29 -0500">
+                                    <Title>popularity</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="A626FA86-F827-444D-8512-85824FEBDD7C" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
                             <Title>book-2</Title>
@@ -3232,7 +3243,7 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>304,277</TextSelection>
+                        <TextSelection>5743,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="AF1C32D9-7373-4034-9649-00C00A3BA1FD" Type="Text" Created="2016-11-30 15:38:11 -0500" Modified="2018-11-12 20:26:28 -0500">
@@ -5015,8 +5026,8 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <RecentWritingHistory Date="2018-11-18 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1569</OtherWordCount>
-        <OtherCharCount>9454</OtherCharCount>
+        <OtherWordCount>3566</OtherWordCount>
+        <OtherCharCount>21576</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
