@@ -67,7 +67,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {235, 766}}</string>
-		<string>{{236, 0}, {1204, 766}}</string>
+		<string>{{236, 0}, {871, 766}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -101,8 +101,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1204, 451}}</string>
-		<string>{{0, 452}, {1204, 284}}</string>
+		<string>{{0, 0}, {871, 580}}</string>
+		<string>{{0, 581}, {871, 155}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -180,14 +180,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>600779EE-7315-4ABD-A09F-3D7E8A862EB1</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -1061,14 +1053,22 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6EFB537C-3AD4-4350-BBE6-FE15338A4498</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 3974.5}, {620, 228}}</string>
+	<string>{{0, 611.80000000000052}, {620, 99}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>304,277</string>
+	<string>4128,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -1077,7 +1077,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>0 89 1440 788 0 0 1440 877 </string>
+	<string>0 89 1107 788 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1124,7 +1124,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>49</integer>
+		<integer>62</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1546,6 +1546,8 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{2510, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
 					<string>043D9B6B-FB35-4879-B62B-870533D0FC75</string>
@@ -1553,14 +1555,130 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>D6FB832D-39CE-422B-891E-BEF44B20E501</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>91579698-5FC1-40E2-8D42-F3693CBB1B4E</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>905ABB3B-BE62-4265-9804-0B688902512E</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A6FB209C-081F-4B52-8878-89214991C085</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>85F9AD4A-A077-4866-90F4-7D2539398BE3</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{13822, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A6FB209C-081F-4B52-8878-89214991C085</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>D6FB832D-39CE-422B-891E-BEF44B20E501</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A6FB209C-081F-4B52-8878-89214991C085</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>D6FB832D-39CE-422B-891E-BEF44B20E501</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6EFB537C-3AD4-4350-BBE6-FE15338A4498</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{16747, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>D6FB832D-39CE-422B-891E-BEF44B20E501</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A626FA86-F827-444D-8512-85824FEBDD7C</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 128}, {620, 395}}</string>
+	<string>{{0, 15.5}, {620, 524}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>2510,0</string>
+	<string>7337,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

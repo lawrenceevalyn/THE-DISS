@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-18 21:46:45 -0500" ModID="04799D7E-5AE1-4184-AFA0-D18406CF27CA">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-23 03:31:43 -0500" ModID="9B781469-5640-4BB2-BE7D-63BEB9DFC716">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-12 20:58:35 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -56,7 +56,7 @@
                         <TextSelection>1595,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="AE223031-6F72-43CB-AE3E-4636DEC3FFA4" Type="Text" Created="2018-08-31 19:28:57 -0400" Modified="2018-11-14 08:46:17 -0500">
+                        <BinderItem UUID="AE223031-6F72-43CB-AE3E-4636DEC3FFA4" Type="Text" Created="2018-08-31 19:28:57 -0400" Modified="2018-11-23 03:28:30 -0500">
                             <Title>research Qs</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -74,7 +74,7 @@
                                 <TextSelection>35,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="C978CDE8-4669-4F5C-93B8-90BA7565305C" Type="Text" Created="2018-11-07 19:13:09 -0500" Modified="2018-11-12 03:29:13 -0500">
+                                <BinderItem UUID="C978CDE8-4669-4F5C-93B8-90BA7565305C" Type="Text" Created="2018-11-07 19:13:09 -0500" Modified="2018-11-23 03:31:31 -0500">
                                     <Title>How do people determine popularity?</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -884,19 +884,19 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>3757,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="A626FA86-F827-444D-8512-85824FEBDD7C" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-18 21:46:45 -0500">
-                            <Title>book-2</Title>
+                        <BinderItem UUID="A626FA86-F827-444D-8512-85824FEBDD7C" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-23 03:28:50 -0500">
+                            <Title>Murphy, Peter</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>7337,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C30C9CF3-2FBB-454C-89D1-30DEF0F16A6F" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-11-07 19:03:53 -0500">
@@ -5021,13 +5021,13 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-11-18 17:22:02 -0500"></PreviousSession>
+        <PreviousSession Words="90" Characters="596" Date="2018-11-23 03:26:20 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-11-18 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>4790</OtherWordCount>
-        <OtherCharCount>28913</OtherCharCount>
+    <RecentWritingHistory Date="2018-11-23 00:00:00 -0500">
+        <DraftWordCount>90</DraftWordCount>
+        <DraftCharCount>596</DraftCharCount>
+        <OtherWordCount>1</OtherWordCount>
+        <OtherCharCount>2</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

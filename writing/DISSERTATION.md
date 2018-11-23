@@ -27,6 +27,8 @@ Chapter two takes up contemporary digital archives directly, examining corpora o
 
 	•	Can I identify the prevalence of various genres? (Topic modelling of titles) i.e., the most popular genres
 
+	•	What do we do about Thomas Paine vs William Blake?
+
 
 
 ## lit review ##
@@ -65,11 +67,15 @@ Assumptions against which I can compare my methodology:
 
 
 
-	1.	Simon Bainbridge: best-selling, most-reprinted, most-adapted
+	1.	(Reprinting) Simon Bainbridge: best-selling, most-reprinted, most-adapted
 
-	2.	George Taylor: simply asserts that some things are popular
+	2.	(Assertion) George Taylor: simply asserts that some things are popular
 
-	3.	Emmet Kennedy, Marie-Laurence Netter, et al.: number of performances per play (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory)
+	3.	(Assertion) Peter Murphy: despite promising that his study “examines the tension between the material, economic pressures motivating poetry as an occupation, and traditional notions of the forces of literary history,” Murphy says NOTHING AT ALL about how well, to whom, for how much, etc etc things were sold.
+
+	4.	(Performances) Emmet Kennedy, Marie-Laurence Netter, et al.: number of performances per play (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory)
+
+	5.	(Book history) Cronin: mostly asserts that people are “popular” or “celebrated”; with Erasmus Darwin, supports this by saying that the book The Botanic Garden is beautiful & expensive
 
 
 
