@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-23 03:31:43 -0500" ModID="9B781469-5640-4BB2-BE7D-63BEB9DFC716">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-24 04:51:44 -0500" ModID="2790D62F-619E-42E1-AE60-B292F8F48F5A">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-12 20:58:35 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -130,6 +130,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>724,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B4B6D485-FB46-47FA-9206-30521B583FAE" Type="Text" Created="2018-11-24 04:49:25 -0500" Modified="2018-11-24 04:51:35 -0500">
+                                    <Title>so what?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5021,13 +5030,13 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="90" Characters="596" Date="2018-11-23 03:26:20 -0500"></PreviousSession>
+        <PreviousSession Words="47" Characters="331" Date="2018-11-24 04:48:36 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-11-23 00:00:00 -0500">
-        <DraftWordCount>90</DraftWordCount>
-        <DraftCharCount>596</DraftCharCount>
-        <OtherWordCount>1</OtherWordCount>
-        <OtherCharCount>2</OtherCharCount>
+    <RecentWritingHistory Date="2018-11-24 00:00:00 -0500">
+        <DraftWordCount>47</DraftWordCount>
+        <DraftCharCount>331</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

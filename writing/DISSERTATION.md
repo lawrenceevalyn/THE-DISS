@@ -133,6 +133,14 @@ A true "standard" is probably both unfeasible and undesirable. So what can be us
 
 
 
+### so what? ###
+
+
+
+These basic factual questions, about what is in the various eighteenth century digital corpora that represent “mass” 18thC holdings for scholars, matter because []. Even though the specific numbers are likely to change as these digital holdings are continuously updated, my investigation of an archive “snapshot” matters because []
+
+
+
 ## OpenRefine ##
 
 
