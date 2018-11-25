@@ -77,6 +77,10 @@ Assumptions against which I can compare my methodology:
 
 	5.	(Book history) Cronin: mostly asserts that people are “popular” or “celebrated”; with Erasmus Darwin, supports this by saying that the book The Botanic Garden is beautiful & expensive
 
+	6.	(Editions, reprints, market share, profitability) Structures of Popularity in the Early Modern Book Trade - “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
+
+
+
 
 
 ### Numbers to compare to ###
@@ -137,7 +141,7 @@ A true "standard" is probably both unfeasible and undesirable. So what can be us
 
 
 
-These basic factual questions, about what is in the various eighteenth century digital corpora that represent “mass” 18thC holdings for scholars, matter because []. Even though the specific numbers are likely to change as these digital holdings are continuously updated, my investigation of an archive “snapshot” matters because []
+These basic factual questions, about what is in the various eighteenth century digital corpora that represent “mass” 18thC holdings for scholars, matter because []. Even though the specific numbers are likely to change as these digital holdings are continuously updated, my investigation of an archive “snapshot” matters because [they show how questions of fact can (and cannot) be answered?]
 
 
 
