@@ -79,6 +79,8 @@ Assumptions against which I can compare my methodology:
 
 	6.	(Editions, reprints, market share, profitability) Structures of Popularity in the Early Modern Book Trade - “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
 
+	7.	(Title counts) MacLeod on the Minerva press — evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
+
 
 
 
