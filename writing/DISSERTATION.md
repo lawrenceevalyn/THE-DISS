@@ -9,29 +9,11 @@ Chapter two takes up contemporary digital archives directly, examining corpora o
 
 
 
-## research Qs ##
+## intro ##
 
 
 
-	•	What’s in all these, anyway?
-
-	⁃	What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
-
-	⁃	How do digital vs physical holdings compare?
-
-	•	Can I identify how often texts are reprinted?? i.e., the most popular texts
-
-	⁃	Can I look at the title info, which often states eg “7th ed”? — These will not always be accurate
-
-	•	Can I identify male/female ratios?
-
-	•	Can I identify the prevalence of various genres? (Topic modelling of titles) i.e., the most popular genres
-
-	•	What do we do about Thomas Paine vs William Blake?
-
-
-
-## lit review ##
+### lit review ###
 
 
 
@@ -63,7 +45,7 @@ Assumptions against which I can compare my methodology:
 
 
 
-### How do people determine popularity? ###
+#### How do people determine popularity? ####
 
 
 
@@ -85,7 +67,7 @@ Assumptions against which I can compare my methodology:
 
 
 
-### Numbers to compare to ###
+#### Numbers to compare to ####
 
 
 
@@ -93,21 +75,21 @@ Comedies vs tragedies performed: the ratio of comedies to tragedies performed wa
 
 
 
-## corpora principles ##
+### corpora ###
 
 
 
-### selection criteria ###
+#### selection criteria ####
 
 
 
-The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in the United Kingdom [Or England??], between the years 1789-99. 
+The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in England, between the years 1789-99. 
 
 I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.
 
 
 
-### excluded corpora ###
+#### excluded corpora ####
 
 
 
@@ -125,7 +107,7 @@ U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslse
 
 
 
-### these are all databases ###
+#### these are all databases ####
 
 
 
@@ -139,7 +121,7 @@ A true "standard" is probably both unfeasible and undesirable. So what can be us
 
 
 
-### so what? ###
+#### so what? ####
 
 
 
@@ -147,31 +129,151 @@ These basic factual questions, about what is in the various eighteenth century d
 
 
 
-## OpenRefine ##
+### demographics ###
 
 
 
-Having heard about OpenRefine by, essentially, eavesdropping on librarians at a conference, I adopted it for the task often called “data cleaning.”
+#### titles per year ####
 
 
 
-### data cleaning ###
+#### men vs women vs unsigned ####
 
 
 
-The metaphor of “data cleaning,” which seeks to purge inconsistencies in order to produce homogenized “tidy data” is at odds with the process that it actually describes.
-
-[Messy, subjective judgments]
-
-Though, you are in the end attempting to impose some kind of order
+Can I identify male/female ratios?
 
 
 
-## topic modelling ##
+## reprints ##
+
+
+
+### methods ###
+
+
+
+Can I identify how often texts are reprinted?? i.e., the most popular texts
+
+	⁃	Can I look at the title info, which often states eg “7th ed”? — These will not always be accurate
+
+
+
+
+
+### what's "normal"? ###
+
+
+
+Computationally identify reprints in the ESTC
+
+Take a random sample for which I attempt to locate size of print run
+
+Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
+
+
+
+### compare archives ###
+
+
+
+Compare most-reprinted texts overall to inclusions in smaller archives
+
+
+
+### sample: print runs ###
+
+
+
+Radcliffe doesn’t need many editions because her print runs started out large — take a random sample and see if I can find print runs for the works
+
+Compare the popularity order produced by raw edition count to the one normalized by print run — what’s the error rate?
+
+
+
+### close read: Paine vs WW vs Blake ? ###
+
+
+
+### close read: something old? ###
+
+
+
+Any cool “1790s lit” not written in the 1790s? Shakespeare? Goldsmith?
+
+
+
+## topics ##
+
+
+
+### methods ###
+
+
+
+Develop some kind of ontology of topic that encompasses "everything" (sticking to 18thC frameworks of, e.g., history vs romance)
+
+
+
+#### topic modelling ####
 
 
 
 I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.
+
+
+
+### sample: truthful titles ###
+
+
+
+Take a random sample to see how accurate titles are to contents overall
+
+
+
+### compare archives ###
+
+
+
+Count how many works of each topic appear in each archive -- what kinds of content has been excluded in each, esp. in ECCO-TCP
+
+
+
+### what's "normal"? ###
+
+
+
+Make my own guesses as to what the print landscape was like, and what this means (close-read something interesting that emerges, perhaps works that misrepresent their contents)
+
+
+
+### close read: ? ###
+
+
+
+## conclusions ##
+
+
+
+### compare archives ###
+
+
+
+ Which of these archives are the most "reliable", and which the most "distorted"? (obvs interrogate this framework)
+
+	•	What’s in all these, anyway?
+
+	⁃	What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
+
+	⁃	How do digital vs physical holdings compare?
+
+
+
+### what's "normal"? ###
+
+
+
+What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
 
 
 
