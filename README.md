@@ -1,4 +1,4 @@
-# Next-do: how do 18thC scholars define "popularity"?
+# Next-do: two popularity experiements: reprints, and topics
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -21,6 +21,47 @@ Map of the thesis at this stage:
 non-MARC version: 1789|179[0123456789]
 
 # Research Log
+
+## November 29, 2018
+
+Feeling reinvigorated after meeting with Terry -- I think I've done more work and thinking than I'd realised, even though it all seems barely-begun.
+
+These are the two concrete experiments that will make up my "popularity" section:
+1. Computationally identify reprints in the ESTC
+    1. Take a random sample for which I attempt to locate size of print run
+    1. Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
+    1. Compare most-reprinted texts overall to inclusions in smaller archives
+    1. Close-read something interesting that gets reprinted (Paine vs Wordsworth? Something that emerges?)
+1. Topic-model subject matter of titles
+    1. Develop some kind of ontology of topic that encompasses "everything" (sticking to 18thC frameworks of, e.g., history vs romance)
+    1. Take a random sample to see how accurate titles are to contents overall
+    1. Count how many works of each topic appear in each archive -- what kinds of content has been excluded in each, esp. in ECCO-TCP
+    1. Make my own guesses as to what the print landscape was like, and what this means (close-read something interesting that emerges, perhaps works that misrepresent their contents)
+1. Draw some overall conclusions
+    1. What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
+    1. Which of these archives are the most "reliable", and which the most "distorted"? (obvs interrogate this framework)
+
+### Transcript of meeting notes:
+
+What HAVE I been doing?
+
+basically have my data, am dithering a little
+
+I think I can ID reprints? + topic model titles to cluster subgenres? > these are my big experiments?
+
+random sample check title against contents
+
+topic model titles reveals blurriness of period itself
+
+defining parameters -- _not_ excerpts [i.e., don't worry about works that get reprinted in periodicals or excerpted]
+
+lack of reprints != lack of popularity
+
+just use a _few_ print run numbers
+
+* ask Tom where to find print run numbers?
+
+introduction: intentionally using / turning to DH + old school bibliography to fill each other's gaps
 
 ## November 12, 2018
 

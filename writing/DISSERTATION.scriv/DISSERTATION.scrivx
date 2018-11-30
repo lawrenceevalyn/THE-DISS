@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-30 00:20:03 -0500" ModID="8FFA6139-1F88-4F74-AEC3-3E2F29A0DE3C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-11-30 00:27:24 -0500" ModID="C5D2D5E4-1484-4FE5-A1D2-A98597741E99">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-28 03:29:54 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -210,13 +210,13 @@
                                         <TextSelection>70,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="94CBC367-E7CE-4FED-90B7-0E05B0B28AC2" Type="Text" Created="2018-11-30 00:12:19 -0500" Modified="2018-11-30 00:13:17 -0500">
+                                <BinderItem UUID="94CBC367-E7CE-4FED-90B7-0E05B0B28AC2" Type="Text" Created="2018-11-30 00:12:19 -0500" Modified="2018-11-30 00:26:39 -0500">
                                     <Title>sample: print runs</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>266,0</TextSelection>
+                                        <TextSelection>421,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="CE1E0291-EC56-45C4-A75A-5FA4BEE8E950" Type="Text" Created="2018-11-30 00:08:47 -0500" Modified="2018-11-30 00:14:13 -0500">
@@ -475,6 +475,15 @@
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
+                                </BinderItem>
+                                <BinderItem UUID="12103743-EF5D-4658-B9E8-036E78356F0C" Type="Text" Created="2018-11-30 00:27:16 -0500" Modified="2018-11-30 00:27:22 -0500">
+                                    <Title>DH &amp; bibliography</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -5222,11 +5231,11 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="221" Characters="1328" Date="2018-11-30 00:05:49 -0500"></PreviousSession>
+        <PreviousSession Words="265" Characters="1570" Date="2018-11-30 00:05:49 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-11-30 00:00:00 -0500">
-        <DraftWordCount>221</DraftWordCount>
-        <DraftCharCount>1328</DraftCharCount>
+        <DraftWordCount>265</DraftWordCount>
+        <DraftCharCount>1570</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
