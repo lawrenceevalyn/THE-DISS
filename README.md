@@ -1,4 +1,4 @@
-# Next-do: two popularity experiements: reprints, and topics
+# Next-do: two popularity experiments: reprints, and topics
 
 # Thesis Map
 Map of the thesis at this stage:
