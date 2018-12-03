@@ -22,6 +22,18 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## December 3, 2018
+
+Going to see that terrible Robin Hood movie has brought it to my attention that the "stealing from the rich to give to the poor" aspect of the Robin Hood story (which it actually from like the 14thC) was added in 1795 by Joseph Ritson!
+
+It's weird to me that I haven't really heard of him. He hasn't even been added as a "person" in the MARC records for ECCO or ESTC for his Robin Hood volumes.
+
+## December 2, 2018
+
+Apparently ECCO includes 5,689 titles with their size listed as "1 sheet", all of which seem to have ESTC numbers, so in addition to books and booklets I am also studying broadsheets! This may even include ephemera (what **is** ephemera, really?) so I guess it's true when I say "all printed material".
+
+It seems that the 1-sheet stuff is a lot of extremely practical lists, deathbed speeches, SOME songs but not as many as I expected, breaking news, complaints about breaking news, petitions to the government, and a whole bunch of other stuff.
+
 ## November 29, 2018
 
 Feeling reinvigorated after meeting with Terry -- I think I've done more work and thinking than I'd realised, even though it all seems barely-begun.

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-12-02 02:59:53 -0500" ModID="002BF33C-B6C5-434B-96DA-985C5681C49C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-12-03 02:01:08 -0500" ModID="C23B4513-919A-4591-9DD7-73517F87FF75">
     <Binder>
         <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-11-28 03:29:54 -0500">
             <Title>OGS Plan of Study 2018</Title>
@@ -3194,6 +3194,15 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
                                 <TextSelection>30,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="14DB748A-C0A4-4BAD-9F48-CBF424F46851" Type="Text" Created="2018-12-03 01:58:37 -0500" Modified="2018-12-03 02:01:08 -0500">
+                            <Title>Joseph Ritson's Robin Hood</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="5F4810CA-70C6-47CE-993B-35E80E83D88A" Type="Text" Created="2017-10-28 14:59:43 -0400" Modified="2017-10-28 14:59:45 -0400">
@@ -5231,13 +5240,13 @@ Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGrego
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="-2" Date="2018-12-02 00:16:02 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-12-03 01:58:23 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-12-02 00:00:00 -0500">
+    <RecentWritingHistory Date="2018-12-03 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>-2</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>360</OtherWordCount>
+        <OtherCharCount>2062</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
