@@ -45,6 +45,14 @@ Assumptions against which I can compare my methodology:
 
 
 
+#### Lesser & Farmer debate ####
+
+
+
+In Lesser & Farmer’s 2005 article “The Popularity of Playbooks Revisited” 
+
+
+
 #### How do people determine popularity? ####
 
 
@@ -59,7 +67,7 @@ Assumptions against which I can compare my methodology:
 
 	5.	(Book history) Cronin: mostly asserts that people are “popular” or “celebrated”; with Erasmus Darwin, supports this by saying that the book The Botanic Garden is beautiful & expensive
 
-	6.	(Editions, reprints, market share, profitability) Structures of Popularity in the Early Modern Book Trade - “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
+	6.	(Editions, reprints, market share, profitability) Lesser & Farmer, Structures of Popularity in the Early Modern Book Trade - “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
 
 	7.	(Title counts) MacLeod on the Minerva press — evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
 
@@ -171,6 +179,8 @@ Take a random sample for which I attempt to locate size of print run
 
 Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
 
+How old were books, usually? (i.e., how long ago was their first edition)
+
 
 
 ### compare archives ###
@@ -188,6 +198,10 @@ Compare most-reprinted texts overall to inclusions in smaller archives
 Radcliffe doesn’t need many editions because her print runs started out large — take a random sample and see if I can find print runs for the works
 
 Compare the popularity order produced by raw edition count to the one normalized by print run — what’s the error rate?
+
+
+
+Ask Tom how to find these numbers (it’s not in databases, but I can read a paper book! — This is one of the things that makes my methodology not 100% DH)
 
 
 
@@ -285,7 +299,7 @@ What is a "normal" footprint in the print culture of this decade? (i.e., what ar
 
 
 
- The Digital Archive and Print Politics, 1789–99
+Print Politics in the Digital Archive, 1789–99
 
 
 
@@ -392,6 +406,14 @@ this chapter will bring together modern theories of the archive and my eighteent
 my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
 
 Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.
+
+
+
+### DH & bibliography ###
+
+
+
+intentionally using / turning to DH + old school bibliography to fill each other's gaps
 
 
 
