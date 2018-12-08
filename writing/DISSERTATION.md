@@ -49,7 +49,11 @@ Assumptions against which I can compare my methodology:
 
 
 
-In Lesser & Farmer’s 2005 article “The Popularity of Playbooks Revisited” 
+Do these citations with some kind of LaTeX to learn that process
+
+A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer & Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.” Blayney’s “detailed statistical analysis of the market for printed plays” (F&L 4) argues that “never accounted for a very significant fraction of the trade in English books” (B, qtd in F&L 3) and that, based on their reprinting rate of “only” 48% of first editions, “no more than one play in five would have returned the publisher’s initial investment inside five years” (B, qtd in F&L 4). F&L argue that “ like all previous arguments about the popularity of playbooks, Blayney’s is flawed at a fundamental level because it does not systematically compare the market performance of playbooks to that of other kinds of books” (F&L 4). In response, therefore, “Using the same four criteria that Blayney employs—total number of editions, market share, frequency of reprinting, and profitability—but extending his research to include comparisons with other kinds of books, we will argue that playbooks were, in fact, far more popular than Blayney contends.” (F&L 4). Total number of editions and frequency of reprinting To properly contextualize market share, they carefully compare plays only to other “speculative” non-monopoly works (L&F 14). “Plays were, in fact, among the most successful books in which an early modern stationer could choose to invest.” (F&L 6). F&L stress that they study playbooks, not playtexts.
+
+The crucial intervention of F&L’s first article is the comparison of playbooks to the marketplace at large, and to another genre (sermons), since “popularity is ipso facto a relative term” (F&L 4). Also useful is the disentanglement of different metrics of popularity, since “Contrary to what one might have assumed, a higher market share did not always correlate with a higher reprint rate.” (F&L 26): “Sermons, for example, claimed a much greater share of the speculative market, but playbooks were far more likely to reach a second edition; so which class of books was more “popular”? … For reasons both cultural and economic, different kinds of books may have sold in different ways, may have had different structures of popularity.” (F&L 27)
 
 
 
