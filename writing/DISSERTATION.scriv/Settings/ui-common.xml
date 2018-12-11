@@ -5,19 +5,19 @@
         <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
-            <ItemID>4732648E-C406-4076-A0C9-6F91B629A8F6</ItemID>
             <ItemID>043D9B6B-FB35-4879-B62B-870533D0FC75</ItemID>
             <ItemID>3CB6E25B-B47C-4101-ABCF-88B24EB3CD55</ItemID>
             <ItemID>42EC3373-C927-4F33-9B74-0B2424FCAD8E</ItemID>
+            <ItemID>B9B7FA60-0B9F-4712-B91F-948EF6F5EED1</ItemID>
+            <ItemID>B24A5D18-0EEA-4C54-804F-CB9C16AB307C</ItemID>
             <ItemID>B6941745-123F-45E3-9B00-F49B928E0AEB</ItemID>
             <ItemID>6882FEA7-7C10-491A-B760-528945FD80D0</ItemID>
-            <ItemID>5E4A17A0-8197-4348-A2B6-753D913A95D0</ItemID>
-            <ItemID>10190650-EC31-488F-8A68-CCCE0A51FC62</ItemID>
-            <ItemID>F74030DE-9681-4674-B304-739908CE1F53</ItemID>
-            <ItemID>2CDB07AA-9D8D-4797-89D0-D0624337DB55</ItemID>
+            <ItemID>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</ItemID>
+            <ItemID>275DC523-EDDA-486D-AD30-0BFC42405E90</ItemID>
+            <ItemID>6CFF19CF-BE1A-4DB5-837D-64102E1A13DC</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>4732648E-C406-4076-A0C9-6F91B629A8F6</ItemID>
+            <ItemID>C30C9CF3-2FBB-454C-89D1-30DEF0F16A6F</ItemID>
         </Selection>
     </Binder>
     <Inspector Show="No" View="Comments">
@@ -25,7 +25,7 @@
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>None</Split>
+    <Split>Horizontal</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="Yes">Yes</Binder>
@@ -66,10 +66,10 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
-                <CurrentViewMode>Scrivenings</CurrentViewMode>
+                <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>4732648E-C406-4076-A0C9-6F91B629A8F6</ItemID>
+                    <ItemID>C30C9CF3-2FBB-454C-89D1-30DEF0F16A6F</ItemID>
                 </Content>
             </View>
             <Text>
@@ -111,9 +111,12 @@
             <View>
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
-                <GroupsViewMode>Scrivenings</GroupsViewMode>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
+                <Content>
+                    <ItemID>82903B22-91B6-43EB-89F6-319C493FBDDD</ItemID>
+                </Content>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>

@@ -79,6 +79,22 @@ The crucial intervention of F&L’s first article is the comparison of playbooks
 
 
 
+#### popularity is actually impossible ####
+
+
+
+It is not, in fact, possible to calculate 
+
+
+
+Without [certain kinds of evidence], as F&L note, “we will never be able to ascertain precisely the “popularity” of various kinds of books… if by popularity we mean something like the modern best-seller lists.”
+
+Would need size of print runs and cost to produce, as well as sale price, and quantity sold.
+
+[So it’s a little nonsense when people just say that something is popular]
+
+
+
 #### Numbers to compare to ####
 
 
