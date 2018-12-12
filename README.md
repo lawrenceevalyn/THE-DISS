@@ -20,7 +20,19 @@ Map of the thesis at this stage:
 
 non-MARC version: 1789|179[0123456789]
 
+### My horrible MARC > OpenRefine workflow
+
+Tools > Export Tab Delimited Data
+choose commas as delimiter
+Make sure to select fields / subfields!!!
+(can "load" settings to grab the same fields as previously; "basics" settings are just 100 and 260, to get author and publisher.)
+load csv in OpenRefine
+
 # Research Log
+
+## December 12, 2018
+
+Poking around in the ECCO files to try to figure out how to merge them and clean them up. It looks like SOME records are duplicated between the gigantic ECCO[no number] and the ECCO1, ECCO2, ECCO2A files, but possibly not all records. I think the best approach is to get final clean CSVs of all four, and then combine them, and then look for & merge duplicates.
 
 ## December 3, 2018
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-12-11 03:00:52 -0500" ModID="779188DA-3228-4F64-BE87-F52692BF64BF">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-12-12 16:26:48 -0500" ModID="EEE1649D-16F5-4E03-B07F-529BC521B288">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -58,7 +58,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>421,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="144D5CFC-32FD-45B7-B77D-1FD7B0F6DBB2" Type="Text" Created="2018-11-07 19:19:12 -0500" Modified="2018-12-08 16:11:22 -0500">
@@ -541,6 +541,46 @@
                         <TextSelection>70,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="E8A8A130-476D-4986-9620-E536A143A42A" Type="Text" Created="2018-12-12 16:20:53 -0500" Modified="2018-12-12 16:21:08 -0500">
+                    <Title>Works Referenced</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>103,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="696FF7BF-8561-40BA-A4A6-03327048B7AA" Type="Text" Created="2018-12-12 16:18:25 -0500" Modified="2018-12-12 16:22:37 -0500">
+                    <Title>Appendix A: methods</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="68761611-8C6A-48C0-9EEA-673EF96E72EF" Type="Text" Created="2018-12-12 16:18:27 -0500" Modified="2018-12-12 16:18:34 -0500">
+                            <Title>"data cleaning"</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="4FA0B36C-32D0-4681-85AA-9F28DEC5F35D" Type="Text" Created="2018-12-12 16:18:37 -0500" Modified="2018-12-12 16:23:06 -0500">
+                                    <Title>ECCO</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>549,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3" Type="Text" Created="2017-08-11 16:04:11 -0400" Modified="2018-02-12 13:52:49 -0500">
@@ -972,7 +1012,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                         <IconFileName>Book (Blue Book).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>19648,0</TextSelection>
+                                        <TextSelection>2391,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="85F9AD4A-A077-4866-90F4-7D2539398BE3" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2018-12-08 16:11:49 -0500">
@@ -5215,6 +5255,14 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                         <TextSelection>256,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="706E9EB3-22A2-4F68-BE16-67AC35EBCB16" Type="Text" Created="2018-12-12 16:21:50 -0500" Modified="2018-12-12 16:21:50 -0500">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -5275,11 +5323,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="74" Characters="422" Date="2018-12-11 02:53:40 -0500"></PreviousSession>
+        <PreviousSession Words="126" Characters="805" Date="2018-12-12 16:01:26 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-12-11 00:00:00 -0500">
-        <DraftWordCount>74</DraftWordCount>
-        <DraftCharCount>422</DraftCharCount>
+    <RecentWritingHistory Date="2018-12-12 00:00:00 -0500">
+        <DraftWordCount>126</DraftWordCount>
+        <DraftCharCount>805</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

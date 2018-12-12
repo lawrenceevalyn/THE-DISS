@@ -102,8 +102,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {308.5, 766}}</string>
-		<string>{{309.5, 0}, {743.5, 766}}</string>
+		<string>{{0, 0}, {309, 766}}</string>
+		<string>{{310, 0}, {743, 766}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -137,8 +137,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {743.5, 368}}</string>
-		<string>{{0, 369}, {743.5, 367}}</string>
+		<string>{{0, 0}, {743, 443.5}}</string>
+		<string>{{0, 444.5}, {743, 291.5}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -1074,11 +1074,11 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 3582}, {620, 311}}</string>
+	<string>{{0, 1499.5}, {620, 235}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>19648,0</string>
+	<string>2391,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -1134,7 +1134,7 @@
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1145,14 +1145,30 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>C978CDE8-4669-4F5C-93B8-90BA7565305C</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1FD9981D-C686-4B03-8351-A3985646A3EC</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 71}, {620, 312}}</string>
+	<string>{{0, 0}, {620, 387}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>1200,0</string>
+	<string>421,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

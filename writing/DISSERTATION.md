@@ -535,6 +535,40 @@ Alex StrickVL?? Beeminder?
 
 OBNS
 
+
+
+# Works Referenced #
+
+
+
+https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm
+
+Library of Congress MARC info
+
+
+
+# Appendix A: methods #
+
+
+
+## "data cleaning" ##
+
+
+
+### ECCO ###
+
+
+
+My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, on OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used a guide to standard MARC headings to pull out every heading that exists, to see which of these ECCO had used to encode data.
+
+
+
+
+
+https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm
+
+Library of Congress MARC info
+
 [^cf1]: Although all of these elements interest me, and I anticipate that attention to this decade will reveal their prominence, I seek to avoid framing my inquiry explicitly around them and thus begging the question of their importance.
 
 [^cf2]: Although all of these elements interest me, and I anticipate that attention to this decade will reveal their prominence, I seek to avoid framing my inquiry explicitly around them and thus begging the question of their importance.
