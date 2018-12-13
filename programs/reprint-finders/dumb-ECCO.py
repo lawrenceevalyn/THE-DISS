@@ -1,5 +1,11 @@
-take in a directory and filename
+## set things up
 
+# initate variables
+# hard-code source since this doesn't need to be re-used
+sourcefile = "../corpora/ECCO/combo-ECCO/all-nums-ECCO2A.csv"
+targetfile = "../data/ecco-reprints/ecco-reprints.csv"
+
+## run a program
 discard the information that I won't care about for this process
 
 for each row in the csv,
