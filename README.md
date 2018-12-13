@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## December 13, 2018
+
+I've created the monster combo-ECCO file! Now to filter out duplicates and empty columns...
+
 ## December 12, 2018
 
 Poking around in the ECCO files to try to figure out how to merge them and clean them up. It looks like SOME records are duplicated between the gigantic ECCO[no number] and the ECCO1, ECCO2, ECCO2A files, but possibly not all records. I think the best approach is to get final clean CSVs of all four, and then combine them, and then look for & merge duplicates.
