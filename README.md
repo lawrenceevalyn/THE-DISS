@@ -34,6 +34,34 @@ load csv in OpenRefine
 
 I've created the monster combo-ECCO file! Now to filter out duplicates and empty columns...
 
+Unfortunately it's too large to easily open in OpenRefine on my own laptop. I've finally reached the scale where I need high performance computing! I pinged A for access to UTM's cluster.
+
+### So, how exactly am I going to identify reprints, anyway?
+
+I think I have to hack something together in Python.
+
+Useful guide to python libraries: https://blog.ouseful.info/2017/09/04/simple-text-analysis-using-python-identifying-named-entities-tagging-fuzzy-string-matching-and-topic-modelling/
+
+I **do**, I think, want to be on the lookout for titles that identify themselves as second or third editions of someting.. but I don't want to rely on this.
+
+*What data output am I looking for?* I think, a list of titles, and next to each title, the number of times it was reprinted, and the years in which it was reprinted.
+
+How can I identify whether something has existed prior to 1789? Can I compare to pre-1789 ECCO? Can I use some central resource, like wikipedia or worldcat, to identify a first printing for works? Worldcat doesn't look like it will really be useful for this.
+
+Random sampling seems insufficient for this... but I really do want to know how many works printed in the 90s were actually written in the 90s. That's one of my core questions.
+
+If my reprint-identifier **works** I could run it on the whole ECCO/ESTC corpus, but that seems like more than they'd want to give me access to...
+
+MARC fields 245 and 250 include the word "edition". 500 has some additional info on these editions.
+
+MARC field 752 is where I can filter to only look at England.
+
+I don't have enough information from ESTC to find reprints via this method -- should I ask them for more? Maybe, after I have it working on ECCO...?
+
+If the method achieves an accuracy of 85%+ I won’t bother with trying to fuzzy-match titles? How can I decide what accuracy I need?
+
+Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to to manually (unlikely)
+
 ## December 12, 2018
 
 Poking around in the ECCO files to try to figure out how to merge them and clean them up. It looks like SOME records are duplicated between the gigantic ECCO[no number] and the ECCO1, ECCO2, ECCO2A files, but possibly not all records. I think the best approach is to get final clean CSVs of all four, and then combine them, and then look for & merge duplicates.
