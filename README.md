@@ -22,7 +22,7 @@ non-MARC version: 1789|179[0123456789]
 
 ### My horrible MARC > OpenRefine workflow
 
-Tools > Export Tab Delimited Data
+Tools > Export > Export Tab Delimited Records
 choose commas as delimiter
 Make sure to select fields / subfields!!!
 (can "load" settings to grab the same fields as previously; "basics" settings are just 100 and 260, to get author and publisher.)
@@ -33,6 +33,8 @@ load csv in OpenRefine
 ## December 12, 2018
 
 Poking around in the ECCO files to try to figure out how to merge them and clean them up. It looks like SOME records are duplicated between the gigantic ECCO[no number] and the ECCO1, ECCO2, ECCO2A files, but possibly not all records. I think the best approach is to get final clean CSVs of all four, and then combine them, and then look for & merge duplicates.
+
+UNFORTUNATELY it seems that ECCO stores its most important info in fields that are not standardized!!! So I guess the best way to find ALL of it is actually just to yank every number from 1 to 999 and see which ones have data. >:|
 
 ## December 3, 2018
 
