@@ -117,6 +117,16 @@ I exclude databases of diaries or correspondence, since they are not printed. Th
 
 
 
+#### women's archives ####
+
+
+
+I make an exception for archives which specifically seek to address gaps in archival holdings due to systemic bias, that is, three archives focused on women’s writing: Orlando, Chawton, and [I thought there was a third one].
+
+For the most part archives are either comprehensive and have significantly more than 100 texts, or they are single-author / single-researcher focused, and thus have significantly less than 100. These kinds of reparative projects occupy the middle space.
+
+
+
 #### excluded corpora ####
 
 
@@ -181,11 +191,11 @@ Can I identify male/female ratios?
 
 
 
-Can I identify how often texts are reprinted?? i.e., the most popular texts
+I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”
 
-	⁃	Can I look at the title info, which often states eg “7th ed”? — These will not always be accurate
+If this method achieves an accuracy of 85%+ I won’t bother with trying to fuzzy-match titles?
 
-
+Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to do manually (unlikely)
 
 
 
@@ -193,7 +203,7 @@ Can I identify how often texts are reprinted?? i.e., the most popular texts
 
 
 
-Computationally identify reprints in the ESTC
+Computationally identify reprints in ECCO
 
 Take a random sample for which I attempt to locate size of print run
 
@@ -559,7 +569,9 @@ Library of Congress MARC info
 
 
 
-My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, on OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used a guide to standard MARC headings to pull out every heading that exists, to see which of these ECCO had used to encode data.
+My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, on OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and [will] delete empty columns.
+
+ECCO encodes much of its data in “unassigned” columns, rather than the standardized LOC categories.
 
 
 
