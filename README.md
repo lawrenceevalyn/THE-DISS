@@ -62,6 +62,8 @@ If the method achieves an accuracy of 85%+ I won’t bother with trying to fuzzy
 
 Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to to manually (unlikely)
 
+(For ages I've been wondering how in the world I was ever going to publish anything from my dissertation, since all of it is just noodling around in spreadsheets for my own amusement, and then I started outlining this project and then suddenly realised that this whole experiment is absolutely a conference paper, and it will have real and relevant findings! I can't imagine publishing from my diss because I haven't done the *research* yet, but after I have more than justa bunch of questions it will fall into place just as much as the Shakespeare project did. Highly reassuring!)
+
 ## December 12, 2018
 
 Poking around in the ECCO files to try to figure out how to merge them and clean them up. It looks like SOME records are duplicated between the gigantic ECCO[no number] and the ECCO1, ECCO2, ECCO2A files, but possibly not all records. I think the best approach is to get final clean CSVs of all four, and then combine them, and then look for & merge duplicates.

@@ -770,6 +770,11 @@ ProQuest Literature Online    (incl. all Chadwyck-Healey)
 British Library 19thC books
 ECCO-TCP</Text>
         </Document>
+        <Document ID="84D436FF-165E-4150-BF47-1B9956A4574A">
+            <Title>women's archives</Title>
+            <Text>I make an exception for archives which specifically seek to address gaps in archival holdings due to systemic bias, that is, three archives focused on women’s writing: Orlando, Chawton, and [I thought there was a third one].
+For the most part archives are either comprehensive and have significantly more than 100 texts, or they are single-author / single-researcher focused, and thus have significantly less than 100. These kinds of reparative projects occupy the middle space.</Text>
+        </Document>
         <Document ID="AE0067F0-8634-4DB0-B97F-630A194274FC">
             <Title>Shakespeare obnoxiously exceptional</Title>
             <Text>Shelley in preface has to parenthetically except Shakespeare from discussion of England not having produced great works — an obligatory stock rhetorical position, to namedrop shakespeare, rather than a personal engagement with his works (Norton 796)</Text>
@@ -1374,7 +1379,7 @@ Why do we need to sort authors into schools? What makes the “Lake Poets” dif
             <Title>methods</Title>
             <Text>I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”
 If this method achieves an accuracy of 85%+ I won’t bother with trying to fuzzy-match titles?
-Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to to manually (unlikely)</Text>
+Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to do manually (unlikely)</Text>
         </Document>
         <Document ID="1B4E1AD0-FCB8-446E-96CA-408FF60A1950">
             <Title>do men and women use Shakey differently?</Title>
@@ -1898,7 +1903,7 @@ But she’s really so unlike everyone else…</Text>
         </Document>
         <Document ID="B924CBFB-25B1-4019-8F90-BFD1DDD34C6A">
             <Title>what's "normal"?</Title>
-            <Text>Computationally identify reprints in the ESTC
+            <Text>Computationally identify reprints in ECCO
 Take a random sample for which I attempt to locate size of print run
 Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
 How old were books, usually? (i.e., how long ago was their first edition)</Text>
@@ -2362,7 +2367,8 @@ Library of Congress MARC info</Text>
             <Title>Lesser &amp; Farmer debate</Title>
             <Text>Do these citations with some kind of LaTeX to learn that process
 A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer &amp; Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.” Blayney’s “detailed statistical analysis of the market for printed plays” (F&amp;L 4) argues that “never accounted for a very significant fraction of the trade in English books” (B, qtd in F&amp;L 3) and that, based on their reprinting rate of “only” 48% of first editions, “no more than one play in five would have returned the publisher’s initial investment inside five years” (B, qtd in F&amp;L 4). F&amp;L argue that “ like all previous arguments about the popularity of playbooks, Blayney’s is flawed at a fundamental level because it does not systematically compare the market performance of playbooks to that of other kinds of books” (F&amp;L 4). In response, therefore, “Using the same four criteria that Blayney employs—total number of editions, market share, frequency of reprinting, and profitability—but extending his research to include comparisons with other kinds of books, we will argue that playbooks were, in fact, far more popular than Blayney contends.” (F&amp;L 4). Total number of editions and frequency of reprinting To properly contextualize market share, they carefully compare plays only to other “speculative” non-monopoly works (L&amp;F 14). “Plays were, in fact, among the most successful books in which an early modern stationer could choose to invest.” (F&amp;L 6). F&amp;L stress that they study playbooks, not playtexts.
-The crucial intervention of F&amp;L’s first article is the comparison of playbooks to the marketplace at large, and to another genre (sermons), since “popularity is ipso facto a relative term” (F&amp;L 4). Also useful is the disentanglement of different metrics of popularity, since “Contrary to what one might have assumed, a higher market share did not always correlate with a higher reprint rate.” (F&amp;L 26): “Sermons, for example, claimed a much greater share of the speculative market, but playbooks were far more likely to reach a second edition; so which class of books was more “popular”? … For reasons both cultural and economic, different kinds of books may have sold in different ways, may have had different structures of popularity.” (F&amp;L 27)</Text>
+The crucial intervention of F&amp;L’s first article is the comparison of playbooks to the marketplace at large, and to another genre (sermons), since “popularity is ipso facto a relative term” (F&amp;L 4). Also useful is the disentanglement of different metrics of popularity, since “Contrary to what one might have assumed, a higher market share did not always correlate with a higher reprint rate.” (F&amp;L 26): “Sermons, for example, claimed a much greater share of the speculative market, but playbooks were far more likely to reach a second edition; so which class of books was more “popular”? … For reasons both cultural and economic, different kinds of books may have sold in different ways, may have had different structures of popularity.” (F&amp;L 27) Blayney’s response take issue, first, with the books which Farmer &amp; Lesser choose to exclude, and, second, with their comparisons of percentages rather than counts. Many of his critiques rest on Early Modern historical details not relevant to my inquiry, such as his argument against Farmer &amp; Lesser’s claim that “patented books were produced under fundamentally different economic conditions than other books” (L&amp;F 17, qtd in B 38). His methodological critiques, however, are immediately applicable: regarding the comparison of reprinting percentages, he notes, “the authors ignore an elementary arithmetical truism that completely vitiates their main conclusion. Simply put, a small percentage of a large number can be much bigger than a large percentage of a small number” (B 43). This is where I am inclined to stick with Farmer &amp; Lesser — even if, as Blayney persuasively supports the numbers showing that, of the playbooks, “no more than 107 (32.2 percent), and perhaps only 104 (31.3 percent)” (45), he still has not addressed Farmer &amp; Lesser’s need to address the choice of the qualifier “only” (L&amp;F 3). By his own numbers, [what’s the fate of sermon-books??]
+I do agree with Blayney’s central argument is that “Market share in the real world is not always greatly affected by what publishers (sometimes wrongly) think will sell, and is not determined at all by what academics subsequently choose to study. What counts is what the customers actually buy.” (B 40). But this seems to miss Farmer &amp; Lesser’s core point that market share is not the only metric of popularity, and that “what publishers (sometimes wrongly) think will sell” is its own valuable kind of popularity to examine.</Text>
         </Document>
         <Document ID="2AB16808-C0AC-4ABE-B2DD-D66AA519D097">
             <Title>sentimental novels &gt; Gothic</Title>
