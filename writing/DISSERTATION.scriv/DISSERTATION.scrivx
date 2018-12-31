@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-12-29 03:27:25 -0600" ModID="519BB934-9F26-49AC-9DAA-679BD5AB31C3">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2018-12-30 22:01:31 -0600" ModID="3F60149B-F3AB-4797-9B24-FF75B472B229">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 11:26:45 -0500" Modified="2018-02-07 22:56:35 -0600">
             <Title>Draft</Title>
@@ -58,7 +58,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>421,0</TextSelection>
+                                                <TextSelection>430,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="144D5CFC-32FD-45B7-B77D-1FD7B0F6DBB2" Type="Text" Created="2018-11-07 18:19:12 -0600" Modified="2018-12-08 15:11:22 -0600">
@@ -1144,6 +1144,44 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1970,173</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="F18D4A97-9C1E-474E-BF5A-04A79AE00FC0" Type="Text" Created="2018-12-30 22:01:18 -0600" Modified="2018-12-30 22:01:29 -0600">
+                                            <Title>revision in future edition</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="B6E920DE-234F-4D81-9512-8B81976D085F" Type="Text" Created="2018-12-30 21:56:49 -0600" Modified="2018-12-30 21:57:42 -0600">
+                                    <Title>print culture proof of Locke's importance</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1609,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="20732CBD-5826-4FE4-BD7A-F4BE2DA0949A" Type="Text" Created="2018-12-30 21:57:40 -0600" Modified="2018-12-30 21:58:25 -0600">
+                                    <Title>response tracts as proof of importance</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>244,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="568EAB46-1E78-476C-8B47-7DB50726DA4D" Type="Text" Created="2018-12-30 21:58:42 -0600" Modified="2018-12-30 21:58:57 -0600">
+                                    <Title>editions as proof of importance</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>107,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5343,13 +5381,13 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 01:21:51 -0500" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="84" Characters="521" Date="2018-12-29 03:21:31 -0600"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-12-30 21:54:26 -0600"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-12-29 00:00:00 -0600">
-        <DraftWordCount>84</DraftWordCount>
-        <DraftCharCount>521</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2018-12-30 00:00:00 -0600">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>544</OtherWordCount>
+        <OtherCharCount>3458</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
