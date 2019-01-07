@@ -30,11 +30,15 @@ load csv in OpenRefine
 
 # Research Log
 
+## January 6, 2018
+
+I've been poking away at writing the lit review, and I just opened a ticket to access the High Performance Computing cluster! It's like I'm actually creating a dissertation!
+
 ## December 13, 2018
 
 I've created the monster combo-ECCO file! Now to filter out duplicates and empty columns...
 
-Unfortunately it's too large to easily open in OpenRefine on my own laptop. I've finally reached the scale where I need high performance computing! I pinged A for access to UTM's cluster.
+Unfortunately it's too large to easily open in OpenRefine on my own laptop. I've finally reached the scale where I need high performance computing! I pinged Alex for access to UTM's cluster.
 
 ### So, how exactly am I going to identify reprints, anyway?
 
