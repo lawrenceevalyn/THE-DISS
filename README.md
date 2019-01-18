@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## January 18, 2018
+
+I know exactly what I need to do for several weeks of work in a row, I just need to go and **do** it...
+
 ## January 6, 2018
 
 I've been poking away at writing the lit review, and I just opened a ticket to access the High Performance Computing cluster! It's like I'm actually creating a dissertation!
