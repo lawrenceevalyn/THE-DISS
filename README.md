@@ -32,6 +32,10 @@ load csv in OpenRefine
 
 ## January 18, 2018
 
+A whole bunch of new titles from Cambridge UP that look interesting and relevant! Especially John Mee's book on the 1790s, which is almost perfectly apropos!!
+
+## January 17, 2018
+
 I know exactly what I need to do for several weeks of work in a row, I just need to go and **do** it...
 
 ## January 6, 2018
