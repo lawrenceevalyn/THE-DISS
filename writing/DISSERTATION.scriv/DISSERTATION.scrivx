@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-01-18 05:55:53 -0500" ModID="B3AB39AB-20C3-4334-A812-D14D3A2D9B9B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-01-20 03:46:09 -0500" ModID="FF8C0374-53C1-4D45-BD64-F66F05C9C6F6">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -1014,24 +1014,24 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="C30C9CF3-2FBB-454C-89D1-30DEF0F16A6F" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-12-08 18:07:30 -0500">
+                                <BinderItem UUID="C30C9CF3-2FBB-454C-89D1-30DEF0F16A6F" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2019-01-20 03:44:15 -0500">
                                     <Title>Farmer &amp; Lesser 1</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Book (Blue Book).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8808,0</TextSelection>
+                                        <TextSelection>16798,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="85F9AD4A-A077-4866-90F4-7D2539398BE3" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2018-12-08 16:11:49 -0500">
+                                <BinderItem UUID="85F9AD4A-A077-4866-90F4-7D2539398BE3" Type="Text" Created="2016-09-02 12:26:45 -0400" Modified="2019-01-20 03:46:06 -0500">
                                     <Title>Farmer &amp; Lesser 2 Structures of Popularity in the Early Modern Book Trade</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Book (Blue Book).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>565,0</TextSelection>
+                                        <TextSelection>2022,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="5E5F0875-C9D1-40A2-A12E-A0CC93C656C2" Type="Text" Created="2019-01-08 02:12:02 -0500" Modified="2019-01-09 04:43:21 -0500">
@@ -5391,13 +5391,13 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-01-18 05:55:47 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2019-01-20 03:29:27 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-01-18 00:00:00 -0500">
+    <RecentWritingHistory Date="2019-01-20 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>255</OtherWordCount>
+        <OtherCharCount>1658</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
