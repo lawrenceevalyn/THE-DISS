@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## January 21, 2019
+
+I think I struggle to prioritize work that isn't collaborative. I especially struggle to FINISH work that isn't collaborative. I think this is really my biggest hurdle with the diss right now -- anything that's just "for me" ends up lowest priority, and the diss is just for me. Maybe I can work on improving in this area in 2019. (Or gamify it to *make* it collaborative??)
+
 ## January 18, 2019
 
 A whole bunch of new titles from Cambridge UP that look interesting and relevant! Especially John Mee's book on the 1790s, which is almost perfectly apropos!!
