@@ -30,6 +30,14 @@ load csv in OpenRefine
 
 # Research Log
 
+## January 22, 2019
+
+I've started to read Mee's book! And also started trying to actually use DevonThink, which it's clear I need to do more fiddling with to get a proper notetaking workflow going... but which I think will reward that investment.
+
+Step 1, confirm that I can sync my notes & highlights from the Highlights app.
+
+Step 2, set up the database in Dropbox so it's not hogging my whole hard drive.
+
 ## January 21, 2019
 
 I think I struggle to prioritize work that isn't collaborative. I especially struggle to FINISH work that isn't collaborative. I think this is really my biggest hurdle with the diss right now -- anything that's just "for me" ends up lowest priority, and the diss is just for me. Maybe I can work on improving in this area in 2019. (Or gamify it to *make* it collaborative??)
