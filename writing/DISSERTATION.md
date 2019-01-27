@@ -67,6 +67,14 @@ Moreover, even if, as Blayney persuasively supports the numbers showing that, of
 
 
 
+Blayney believes that Lesser & Farmer attempt to disprove his “one inescapable fact about printed plays—namely, that they were not the best-selling moneyspinners that so many commentators have evidently believed they should have been” (7). But what really matters to him about identifying the “best-selling moneyspinners” of the day is not the ‘moneyspinning’ — the question of whether, when publisher bought a play, he was making a sound financial decision — but about the cultural centrality of ‘bestsellers’. The total market share of religious texts matters, not because it meant that publishers turned their highest profits off of religious texts, but because “[c]ustomers in early modern bookshops chose to spend far more of their money on religious books than they did on playbooks and other ‘literary’ publications,” evidence of “just how massively important godly books were to early modern readers” (7). Lesser and Farmer do not contradict the importance of religious texts to readers. But, in setting out “not merely to measure comparative popularity but also to explain why and how different kinds of books were published.” (F&L 213), they make the case that books with low market share, books that are not “best-selling,” could nonetheless be “moneyspinners.” Their rebuttal states that “...books could be in high demand even though their reprint rate was low. Likewise, books (such as ballads) could be in high demand even though their profitability per copy was low. And, as seems to have been the case with plays, books could be in high demand even though their market share was low” (F&L 213), but what they leave somewhat unstated is: “in high demand” with whom?
+
+
+
+My own work seeks to examine reprints, but in a more limited fashion than Farmer & Lesser were able to do. Rather than determine the reprint rate of various kinds of fiction, I carry out a Blayney-style examination of pure market share. I seek to identify reprints in order to determine the market share of new versus reprinted material in any given year.
+
+
+
 #### How do people determine popularity? ####
 
 
