@@ -36,6 +36,10 @@ Much less scared of Mee's book not that I'm far enough in to see where I can off
 
 Sorted out my notes & highlights in DevonThink. Still need to set things up in dropbox... I don't understand DevonThink's database structure at all. Possibly I will use it *and* Papers...?
 
+---
+
+I think filling my head with more dates from the 1790s will help. I need a central location to stash this kind of info. I could make a timeline? Options: Preceden; Timeglider; Temporis. Or I could just make a spreadsheet... Regardless, I should try learning them in Anki.
+
 ## January 22, 2019
 
 I've started to read Mee's book! And also started trying to actually use DevonThink, which it's clear I need to do more fiddling with to get a proper notetaking workflow going... but which I think will reward that investment.

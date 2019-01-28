@@ -137,8 +137,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {743, 429.5}}</string>
-		<string>{{0, 430.5}, {743, 305.5}}</string>
+		<string>{{0, 0}, {743, 96}}</string>
+		<string>{{0, 97}, {743, 639}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -216,22 +216,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>8C5C4230-108E-4A68-A8CC-81251DC51D83</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>C7957BDA-5857-4E26-BC3E-9CEB3A1D96B7</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -1071,14 +1055,32 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{137, 0}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>EE0EE577-6874-498D-BFCB-E95ACC8F5BB7</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>50D24F1A-742C-4D35-8028-8CCA29869202</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 399.5}, {620, 249}}</string>
+	<string>{{0, 0}, {620, 583}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>2555,493</string>
+	<string>12658,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -1620,7 +1622,7 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1445}, {620, 373}}</string>
+	<string>{{0, 1436}, {620, 40}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
@@ -1631,6 +1633,6 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
