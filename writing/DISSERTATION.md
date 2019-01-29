@@ -17,53 +17,15 @@ Chapter two takes up contemporary digital archives directly, examining corpora o
 
 
 
-I plan to read secondary criticism for two major kinds of information, both of which will form the “lit review” section of chapter two. For each work I read, I will record the following:
-
-
-
-Numbers against which I can compare my findings:
-
-- Titles per year
-
-- Authors, signed vs unsigned
-
-- Authors, female vs male vs unknown
-
-- Publication location
-
-
-
-Assumptions against which I can compare my methodology:
-
-- Treatment of reprints
-
-- Circulation assumptions
-
-- Excluded categories
-
-- Genre ontology
-
-
-
 #### Lesser & Farmer debate ####
 
 
 
 Do these citations with some kind of LaTeX to learn that process
 
-A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer & Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.” Blayney’s “detailed statistical analysis of the market for printed plays” (F&L 4) argues that “never accounted for a very significant fraction of the trade in English books” (B, qtd in F&L 3) and that, based on their reprinting rate of “only” 48% of first editions, “no more than one play in five would have returned the publisher’s initial investment inside five years” (B, qtd in F&L 4). F&L argue that “ like all previous arguments about the popularity of playbooks, Blayney’s is flawed at a fundamental level because it does not systematically compare the market performance of playbooks to that of other kinds of books” (F&L 4). In response, therefore, “Using the same four criteria that Blayney employs—total number of editions, market share, frequency of reprinting, and profitability—but extending his research to include comparisons with other kinds of books, we will argue that playbooks were, in fact, far more popular than Blayney contends.” (F&L 4). Total number of editions and frequency of reprinting To properly contextualize market share, they carefully compare plays only to other “speculative” non-monopoly works (L&F 14). “Plays were, in fact, among the most successful books in which an early modern stationer could choose to invest.” (F&L 6). F&L stress that they study playbooks, not playtexts.
 
-The crucial intervention of F&L’s first article is the comparison of playbooks to the marketplace at large, and to another genre (sermons), since “popularity is ipso facto a relative term” (F&L 4). Also useful is the disentanglement of different metrics of popularity, since “Contrary to what one might have assumed, a higher market share did not always correlate with a higher reprint rate.” (F&L 26): “Sermons, for example, claimed a much greater share of the speculative market, but playbooks were far more likely to reach a second edition; so which class of books was more “popular”? … For reasons both cultural and economic, different kinds of books may have sold in different ways, may have had different structures of popularity.” (F&L 27)
 
-Blayney’s response take issue, first, with the books which Farmer & Lesser choose to exclude, and, second, with their comparisons of percentages rather than counts. Many of his critiques rest on Early Modern historical details not relevant to my inquiry, such as his argument against Farmer & Lesser’s claim that “patented books were produced under fundamentally different economic conditions than other books” (L&F 17, qtd in B 38). His methodological critiques, however, are immediately applicable: regarding the comparison of reprinting percentages, he notes, “the authors ignore an elementary arithmetical truism that completely vitiates their main conclusion. Simply put, a small percentage of a large number can be much bigger than a large percentage of a small number” (B 43).
-
-This is where I am inclined to be sympathetic to Farmer & Lesser — Blayney seems to be ignoring the viewpoint from which the matter is being considered. Blayney seems to think that Lesser & Farmer argue against the position that “early modern readers could really have found books of divinity more desirable than Shakespeare quartos,” (47) but this was not the question. If you have a playbook in one hand and a sermon-book in the other, which one is more likely to be reprinted? The answer to that question will have nothing to do with the total number of playbooks and sermon-books printed each year; since the question is predictive, rather than evaluative, it relies on percentages. Farmer & Lesser ultimately want to contend that publishers would have published more plays if more plays had existed, that any given playbook had decent odds of turning a profit. [Why would you pose a question that way? It’s partly analogous to the question I posed re: Gothic gender, but also has a historical element. It bifurcates into one question about what kinds of books were really the best investments, and what kinds the publishers believed to be the best. F&L are a bit guilty of conflating those. Blayney misses both questions, distracted by market share: see quote below from p 40] — Farmer & Lesser explicitly express their wistful longing in the face of the reality that “we will never be able to ascertain precisely the “popularity” of various kinds of books… if by popularity we mean something like the modern best-seller lists” (F&L 16), whereas Blayney dismissively sniffs that “The apparent share could be artificially raised by adopting the methods by which the modern book trade constructs “top ten” lists that include only recently-published books of a specified kind” (B 47).
-
-Blayney’s ultimate goal seems to be: “Unless we recognize and accept just how massively important godly books were to early modern readers, we will never fully understand the background of the dramatic literature we now value so much more than they did.” (B 47)
-
-I do agree with Blayney’s central argument is that “Market share in the real world is not always greatly affected by what publishers (sometimes wrongly) think will sell, and is not determined at all by what academics subsequently choose to study. What counts is what the customers actually buy.” (B 40). But this seems to miss Farmer & Lesser’s core point that market share is not the only metric of popularity, and that “what publishers (sometimes wrongly) think will sell” is its own valuable kind of popularity to examine.
-
-Moreover, even if, as Blayney persuasively supports the numbers showing that, of the playbooks, “no more than 107 (32.2 percent), and perhaps only 104 (31.3 percent) were reprinted during the lifetimes of their first publishers” (45), he still has not addressed Farmer & Lesser’s need to address the choice of the qualifier “only” (L&F 3). By his own numbers, [what’s the fate of sermon-books??]
+A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer & Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.”
 
 
 
@@ -137,31 +99,13 @@ I exclude databases of diaries or correspondence, since they are not printed. Th
 
 
 
-#### women's archives ####
+##### women's archives #####
 
 
 
 I make an exception for archives which specifically seek to address gaps in archival holdings due to systemic bias, that is, three archives focused on women’s writing: Orlando, Chawton, and [I thought there was a third one].
 
 For the most part archives are either comprehensive and have significantly more than 100 texts, or they are single-author / single-researcher focused, and thus have significantly less than 100. These kinds of reparative projects occupy the middle space.
-
-
-
-#### excluded corpora ####
-
-
-
-Chawton House - too few novels
-
-Gentleman’s Magazine resources - can’t filter by date
-
-Lewis Walpole images digital collection at Yale - can’t filter by date
-
-The Oxford Text Archive seems to be synonymous with ECCO-TCP; where it’s not, it’s not filterable by date/origin
-
-
-
-U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslsetistexts.html#english
 
 
 
