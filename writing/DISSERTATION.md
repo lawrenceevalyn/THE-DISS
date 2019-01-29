@@ -177,6 +177,8 @@ What I'm trying to do, essentially, is to forcibly "join" all of those databases
 
 A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
 
+Another approach is to ignore the categories and use things like topic modelling; relies on a more intimate knowledge of the information being studies (i.e., humanities expertise)
+
 
 
 #### so what? ####
@@ -474,6 +476,14 @@ Because politics occurs between individual people, not political parties, I argu
 
 
 intentionally using / turning to DH + old school bibliography to fill each other's gaps
+
+
+
+### John Mee's book ###
+
+
+
+How my work relates to John Mee’s work: Mee silently defines “print, publicity, and popular radicalism” as being synonymous with the activities of the London Corresponding Society, and societies like it. These societies and their use of print are obviously crucial parts of the print landscape, reflecting one [take on] publicity, but I seek to go broader.
 
 
 

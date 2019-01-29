@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-01-29 03:46:47 -0500" ModID="B9E9C691-1148-4AE1-9FF5-07DFE55C1699">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-01-29 03:51:42 -0500" ModID="5AAEF23E-8C5C-4402-A241-F046DE1E7C31">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -108,7 +108,7 @@
                                                 <TextSelection>371,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC" Type="Text" Created="2018-09-08 17:47:04 -0400" Modified="2018-09-08 17:54:02 -0400">
+                                        <BinderItem UUID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC" Type="Text" Created="2018-09-08 17:47:04 -0400" Modified="2019-01-29 03:49:31 -0500">
                                             <Title>these are all databases</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -468,6 +468,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>87,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="79560E49-BB3F-4CAD-B1A0-0DDFAA89243C" Type="Text" Created="2019-01-29 03:49:38 -0500" Modified="2019-01-29 03:51:29 -0500">
+                                    <Title>John Mee's book</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5411,11 +5420,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="89" Characters="533" Date="2019-01-29 03:29:34 -0500"></PreviousSession>
+        <PreviousSession Words="173" Characters="1069" Date="2019-01-29 03:29:34 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-01-29 00:00:00 -0500">
-        <DraftWordCount>89</DraftWordCount>
-        <DraftCharCount>533</DraftCharCount>
+        <DraftWordCount>173</DraftWordCount>
+        <DraftCharCount>1069</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
