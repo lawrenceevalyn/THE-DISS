@@ -71,7 +71,7 @@ Blayney believes that Lesser & Farmer attempt to disprove his “one inescapable
 
 
 
-My own work seeks to examine reprints, but in a more limited fashion than Farmer & Lesser were able to do. Rather than determine the reprint rate of various kinds of fiction, I carry out a Blayney-style examination of pure market share. I seek to identify reprints in order to determine the market share of new versus reprinted material in any given year.
+My own work seeks to examine reprints, but in a more limited fashion than Farmer & Lesser were able to do. Rather than determine the reprint rate of various kinds of fiction, I carry out a Blayney-style examination of pure market share. I seek to identify reprints in order to determine the market share of new versus reprinted material in any given year. 
 
 
 
@@ -91,7 +91,9 @@ My own work seeks to examine reprints, but in a more limited fashion than Farmer
 
 	6.	(Editions, reprints, market share, profitability) Lesser & Farmer, Structures of Popularity in the Early Modern Book Trade - “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
 
-	7.	(Title counts) MacLeod on the Minerva press — evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
+	7.	(Market share) Blayney
+
+	8.	(Title counts) MacLeod on the Minerva press — evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
 
 
 
@@ -209,9 +211,13 @@ Can I identify male/female ratios?
 
 
 
-I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”
+Before I develop custom code, I establish some baselines by taking a random sample of 100 titles from each of my key corpora. I manually identify the original publication date of each title, and whether that title appears reprinted elsewhere in the corpus.
 
-If this method achieves an accuracy of 85%+ I won’t bother with trying to fuzzy-match titles?
+
+
+As I expand to algorithmically examine the full corpora, I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”
+
+If this method achieves an accuracy of 85%+ (as determined by comparison to my random sample) I won’t bother with trying to fuzzy-match titles?
 
 Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to do manually (unlikely)
 
@@ -222,8 +228,6 @@ Then next step is to identify which of these reprinted works are multi-reprints 
 
 
 Computationally identify reprints in ECCO
-
-Take a random sample for which I attempt to locate size of print run
 
 Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
 
@@ -243,6 +247,10 @@ Compare most-reprinted texts overall to inclusions in smaller archives
 
 
 
+Take a random sample for which I attempt to locate size of print run
+
+
+
 Radcliffe doesn’t need many editions because her print runs started out large — take a random sample and see if I can find print runs for the works
 
 Compare the popularity order produced by raw edition count to the one normalized by print run — what’s the error rate?
@@ -254,6 +262,10 @@ Ask Tom how to find these numbers (it’s not in databases, but I can read a pap
 
 
 ### close read: Paine vs WW vs Blake ? ###
+
+
+
+Paine vs Wordsworth vs Blake? (Vs CSmith and Radcliffe?) How to accord importance to these writers is at the heart of much of this project.
 
 
 

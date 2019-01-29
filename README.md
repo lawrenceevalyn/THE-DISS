@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## January 28, 2019
+
+It's just occurred to me that, since I will evaluate the accuracy of my algorithmic attempts to identify reprints by comparing their results to my random sample, I can *do the random sample first.* And then (minimum viable product-style!) I can just stop with the random sample if it turns out to tell me what I need!
+
 ## January 27, 2019
 
 Much less scared of Mee's book not that I'm far enough in to see where I can offer completely different material and methods, esp. re: women and fiction.

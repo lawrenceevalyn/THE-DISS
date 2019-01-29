@@ -4,6 +4,8 @@
 {\*\expandedcolortbl;;}
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
 
-\f0\fs22 \cf0 I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words \'93Xth edition.\'94\
-If this method achieves an accuracy of 85%+ I won\'92t bother with trying to fuzzy-match titles?\
+\f0\fs22 \cf0 Before I develop custom code, I establish some baselines by taking a random sample of 100 titles from each of my key corpora. I manually identify the original publication date of each title, and whether that title appears reprinted elsewhere in the corpus.\
+\
+As I expand to algorithmically examine the full corpora, I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words \'93Xth edition.\'94\
+If this method achieves an accuracy of 85%+ (as determined by comparison to my random sample) I won\'92t bother with trying to fuzzy-match titles?\
 Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching\'85 unless it\'92s small enough for me to do manually (unlikely)}

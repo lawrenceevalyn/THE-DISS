@@ -203,14 +203,14 @@
 <ul>
 <li>
 <p class="itemTitle">methods</p>
-<p class="itemText">I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”</p>
-<p class="itemText">If this method achieves an accuracy of 85%+ I won’t bother with trying to fuzzy-match titles?</p>
-<p class="itemText">Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to do manually (unlikely)</p>
+<p class="itemText">Before I develop custom code, I establish some baselines by taking a random sample of 100 titles from each of my key corpora. I manually identify the original publication date of each title, and whether that title appears reprinted elsewhere in the corpus.</p>
+<p class="itemText"></p>
+<p class="itemText">As I expand to algorithmically examine the full corpora, I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”</p>
+<p class="itemText">If this method achieves an accuracy of 85%+ (as determined by compari...</p>
 </li>
 <li>
 <p class="itemTitle">what's "normal"?</p>
 <p class="itemText">Computationally identify reprints in ECCO</p>
-<p class="itemText">Take a random sample for which I attempt to locate size of print run</p>
 <p class="itemText">Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)</p>
 <p class="itemText">How old were books, usually? (i.e., how long ago was their first edition)</p>
 </li>
@@ -220,6 +220,8 @@
 </li>
 <li>
 <p class="itemTitle">sample: print runs</p>
+<p class="itemText">Take a random sample for which I attempt to locate size of print run</p>
+<p class="itemText"></p>
 <p class="itemText">Radcliffe doesn’t need many editions because her print runs started out large — take a random sample and see if I can find print runs for the works</p>
 <p class="itemText">Compare the popularity order produced by raw edition count to the one normalized by print run — what’s the error rate?</p>
 <p class="itemText"></p>
@@ -227,6 +229,7 @@
 </li>
 <li>
 <p class="itemTitle">close read: Paine vs WW vs Blake ?</p>
+<p class="itemText">Paine vs Wordsworth vs Blake? (Vs CSmith and Radcliffe?) How to accord importance to these writers is at the heart of much of this project.</p>
 </li>
 <li>
 <p class="itemTitle">close read: something old?</p>
