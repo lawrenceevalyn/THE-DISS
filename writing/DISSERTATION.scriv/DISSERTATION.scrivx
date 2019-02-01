@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-01-29 04:04:56 -0500" ModID="40F7BDFB-8E31-4420-891B-C27261AB229F">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-01 02:09:56 -0500" ModID="1FA6F157-FCD8-46E3-AD06-D2A94F11DB4A">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -1223,6 +1223,15 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                         <TextSelection>1052,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="3118F401-51EF-44CD-AEC2-BB6229AA7FDD" Type="Text" Created="2019-01-30 01:38:27 -0500" Modified="2019-01-30 01:39:21 -0500">
+                                    <Title>reprint &amp; translation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem UUID="EE0EE577-6874-498D-BFCB-E95ACC8F5BB7" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2019-01-23 22:45:55 -0500">
@@ -1235,13 +1244,22 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="50D24F1A-742C-4D35-8028-8CCA29869202" Type="Text" Created="2019-01-23 22:58:27 -0500" Modified="2019-01-27 16:09:21 -0500">
+                                <BinderItem UUID="50D24F1A-742C-4D35-8028-8CCA29869202" Type="Text" Created="2019-01-23 22:58:27 -0500" Modified="2019-02-01 02:09:50 -0500">
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>61,0</TextSelection>
+                                        <TextSelection>9572,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CF8A0F24-A3FA-48CE-8B23-A3FBFDF68355" Type="Text" Created="2019-02-01 02:09:52 -0500" Modified="2019-02-01 02:09:53 -0500">
+                                    <Title>Ch 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5431,13 +5449,13 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="-856" Characters="-5240" Date="2019-01-29 03:29:34 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2019-02-01 02:09:26 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-01-29 00:00:00 -0500">
-        <DraftWordCount>-856</DraftWordCount>
-        <DraftCharCount>-5240</DraftCharCount>
-        <OtherWordCount>989</OtherWordCount>
-        <OtherCharCount>6042</OtherCharCount>
+    <RecentWritingHistory Date="2019-02-01 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>-688</OtherWordCount>
+        <OtherCharCount>-3086</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
