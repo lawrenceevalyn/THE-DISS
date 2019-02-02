@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-02 00:37:11 -0500" ModID="6CF5BFB9-4D74-4C73-99FD-FDD9C0496F6E">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-02 18:10:36 -0500" ModID="EC12DE30-90D7-4FB0-92B0-A420FFEE9B2E">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -161,26 +161,28 @@
                                 <TextSelection>178,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A943C79B-B443-4EC8-BBFB-9C726CEB8EF6" Type="Text" Created="2018-11-30 00:08:45 -0500" Modified="2019-01-29 03:43:26 -0500">
+                                <BinderItem UUID="A943C79B-B443-4EC8-BBFB-9C726CEB8EF6" Type="Text" Created="2018-11-30 00:08:45 -0500" Modified="2019-02-02 17:55:01 -0500">
                                     <Title>methods</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>398,0</TextSelection>
+                                        <TextSelection>256,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="6C6ED5D9-8246-4646-AE96-339979CA9CDD" Type="Text" Created="2019-02-02 18:02:17 -0500" Modified="2019-02-02 18:08:10 -0500">
+                                            <Title>taking samples</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>303,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem UUID="B924CBFB-25B1-4019-8F90-BFD1DDD34C6A" Type="Text" Created="2018-11-30 00:10:09 -0500" Modified="2019-01-29 03:44:47 -0500">
-                                    <Title>what's "normal"?</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>41,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="E0F0F9F2-33BE-4CAE-8812-A803C5E2CA6E" Type="Text" Created="2018-11-30 00:12:04 -0500" Modified="2018-11-30 00:12:16 -0500">
-                                    <Title>compare archives</Title>
+                                <BinderItem UUID="E0F0F9F2-33BE-4CAE-8812-A803C5E2CA6E" Type="Text" Created="2018-11-30 00:12:04 -0500" Modified="2019-02-02 18:02:12 -0500">
+                                    <Title>sample: reprints</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -195,6 +197,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>68,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B924CBFB-25B1-4019-8F90-BFD1DDD34C6A" Type="Text" Created="2018-11-30 00:10:09 -0500" Modified="2019-01-29 03:44:47 -0500">
+                                    <Title>what's "normal"?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>41,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="CE1E0291-EC56-45C4-A75A-5FA4BEE8E950" Type="Text" Created="2018-11-30 00:08:47 -0500" Modified="2019-01-29 03:45:39 -0500">
@@ -1259,7 +1270,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>5248,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5449,11 +5460,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-02-02 00:37:04 -0500"></PreviousSession>
+        <PreviousSession Words="74" Characters="436" Date="2019-02-02 00:37:04 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-02-02 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>74</DraftWordCount>
+        <DraftCharCount>436</DraftCharCount>
         <OtherWordCount>871</OtherWordCount>
         <OtherCharCount>5248</OtherCharCount>
     </RecentWritingHistory>

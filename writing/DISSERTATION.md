@@ -169,23 +169,67 @@ Then next step is to identify which of these reprinted works are multi-reprints 
 
 
 
-### what's "normal"? ###
+#### taking samples ####
 
 
 
-Computationally identify reprints in ECCO
+First, I make sure the data is “clean” and comparable to all the others:
 
-Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
+- Jan 1 1789 to Dec 31 1799
 
-How old were books, usually? (i.e., how long ago was their first edition)
+- ENGLAND ONLY, no Ireland or Scotland
+
+- With ECCO, make sure I don’t have duplicate entries
 
 
 
-### compare archives ###
+I get a count of how many titles are in the corpus.
+
+
+
+I use random.org to get 100 randomly-generated numbers.
+
+
+
+### sample: reprints ###
 
 
 
 Compare most-reprinted texts overall to inclusions in smaller archives
+
+
+
+ESTC
+
+ECCO
+
+ECCO-TCP
+
+
+
+HathiTrust
+
+ProQuest
+
+BL 19thC
+
+
+
+END?
+
+WWO+Chawton combo?
+
+
+
+Gutenberg
+
+Book Tracker
+
+
+
+Google Books??
+
+Internet Archive?
 
 
 
@@ -204,6 +248,18 @@ Compare the popularity order produced by raw edition count to the one normalized
 
 
 Ask Tom how to find these numbers (it’s not in databases, but I can read a paper book! — This is one of the things that makes my methodology not 100% DH)
+
+
+
+### what's "normal"? ###
+
+
+
+Computationally identify reprints in ECCO
+
+Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
+
+How old were books, usually? (i.e., how long ago was their first edition)
 
 
 

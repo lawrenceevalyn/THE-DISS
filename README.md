@@ -1,4 +1,23 @@
-# Next-do: two popularity experiments: reprints, and topics
+# Next-do: take random samples of corpora
+
+## Archives in order of priority
+
+* ESTC
+* ECCO
+* ECCO-TCP
+
+* HathiTrust
+* ProQuest
+* BL 19thC
+
+* END?
+* WWO+Chawton combo?
+
+* Gutenberg
+* Book Tracker
+
+* Google Books??
+* Internet Archive?
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -29,6 +48,12 @@ Make sure to select fields / subfields!!!
 load csv in OpenRefine
 
 # Research Log
+
+## February 2, 2019
+
+Okay, reading is nice and all, but it's time to START EXPERIMENTING! I'm going to take my random samples of 100 TODAY!!!
+
+Hahahaha, and *immediately*, even though this is the "easy way" to answer my question, it's way more complicated than it seems and I have a ton of methodological questions. Most importantly: should I use random.org's "sequence generator" or its "integer generator"?
 
 ## January 28, 2019
 
