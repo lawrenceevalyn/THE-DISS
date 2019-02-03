@@ -55,6 +55,8 @@ Okay, reading is nice and all, but it's time to START EXPERIMENTING! I'm going t
 
 Hahahaha, and *immediately*, even though this is the "easy way" to answer my question, it's way more complicated than it seems and I have a ton of methodological questions. Most importantly: should I use random.org's "sequence generator" or its "integer generator"?
 
+HEY, THE PRINT FUNCTION CHANGED, I DIDN'T AGREE TO THIS
+
 ## January 28, 2019
 
 It's just occurred to me that, since I will evaluate the accuracy of my algorithmic attempts to identify reprints by comparing their results to my random sample, I can *do the random sample first.* And then (minimum viable product-style!) I can just stop with the random sample if it turns out to tell me what I need!
