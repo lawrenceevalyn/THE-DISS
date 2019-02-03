@@ -7,28 +7,11 @@ randomsourcename = "testsample.txt" # must be a txt with one number per line
 
 # This is the actual code that uses the info provided above
 
-# open the source files
-# textsource = open(textsourcename, "r")
-# randomsource = open(randomsourcename, "r")
-
 # automatically name output file based on inputs
 outputfilename = ((os.path.splitext(textsourcename)[0])) + "-" + ((os.path.splitext(randomsourcename)[0])) + ".csv"
 
 outputfile = open(outputfilename, "w") # creates blank output file
 outputfile.close()					   # important so re-running rewrites!!
-
-# make sure the files above work
-#print ("textsource: ")
-#print (textsourcename)
-#print (textsource.read())
-
-#print ("randomsource: ")
-#print (randomsourcename)
-#print (randomsource.read())
-
-#print ("outputfile: ")
-#print (outputfilename)
-#print (outputfile.read())
 
 # TIME TO LOOP
 with open(randomsourcename) as fp: # can I do this in one line...?
@@ -39,16 +22,15 @@ with open(randomsourcename) as fp: # can I do this in one line...?
 		print("sampleno: ")
 		print(sampleno)
 		
-		# append that number to the output file
+		# get the line in textsource at sampleno
+		
+		# append sampleno to the output file
 		# (later change this so it appends the desired data from textsource)
 		fh = open(outputfilename, "a")
 		fh.write(sampleno) # this is the thing to change what gets appended
 		fh.close()
 
 print ("outputfile: " + outputfilename)
-fo = open(outputfilename, "r")
-print (fo.read())
-fo.close()
-
-#	get the line in textsource at sampleno
-#	append that line to outputfile
+fo = open(outputfilename, "r") # file handling is so weird and I hate it
+print (fo.read())			   # but this lets me check that the right thing
+fo.close()					   # ended up in the output file
