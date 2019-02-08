@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-07 23:40:03 -0500" ModID="871C9735-CEB2-4A51-8056-EAC9640EAF83">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-07 23:52:32 -0500" ModID="F2501AB9-3E1B-45A9-9215-42A2881C97C0">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -339,29 +339,83 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="12103743-EF5D-4658-B9E8-036E78356F0C" Type="Text" Created="2018-11-30 00:27:16 -0500" Modified="2019-02-07 20:40:43 -0500">
-                                    <Title>DH &amp; bibliography</Title>
+                                <BinderItem UUID="A9416C5F-A325-4BEC-B8F7-BAC9FD33138B" Type="Text" Created="2019-02-07 23:43:07 -0500" Modified="2019-02-07 23:49:30 -0500">
+                                    <Title>we need Venn</Title>
                                     <MetaData>
-                                        <LabelID>14</LabelID>
+                                        <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>87,0</TextSelection>
+                                        <TextSelection>838,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="FB34B409-14E5-4C6C-91ED-1229511DAF8C" Type="Text" Created="2018-05-27 15:39:04 -0400" Modified="2019-02-07 20:40:43 -0500">
-                                    <Title>queer DH</Title>
+                                <BinderItem UUID="3CF94639-29C3-4C86-BF2C-A6744BB76D8A" Type="Text" Created="2019-02-07 23:48:04 -0500" Modified="2019-02-07 23:48:27 -0500">
+                                    <Title>DH &amp; 1790s</Title>
                                     <MetaData>
-                                        <LabelID>14</LabelID>
+                                        <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>315,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="12103743-EF5D-4658-B9E8-036E78356F0C" Type="Text" Created="2018-11-30 00:27:16 -0500" Modified="2019-02-07 20:40:43 -0500">
+                                            <Title>DH &amp; bibliography</Title>
+                                            <MetaData>
+                                                <LabelID>14</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>87,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="EF31AE3D-5BAF-44BC-A397-552F5CF0E05D" Type="Text" Created="2019-02-07 23:48:07 -0500" Modified="2019-02-07 23:48:27 -0500">
+                                    <Title>1790s &amp; queer</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7996FDBB-7D9F-4414-92F8-0E5B7D520DC4" Type="Text" Created="2019-02-07 23:48:14 -0500" Modified="2019-02-07 23:48:27 -0500">
+                                    <Title>queer &amp; DH</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="FB34B409-14E5-4C6C-91ED-1229511DAF8C" Type="Text" Created="2018-05-27 15:39:04 -0400" Modified="2019-02-07 20:40:43 -0500">
+                                            <Title>queer DH</Title>
+                                            <MetaData>
+                                                <LabelID>14</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>315,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="5B785A19-E688-47DB-85E1-AB50D7330B78" Type="Text" Created="2019-02-07 23:48:17 -0500" Modified="2019-02-07 23:48:27 -0500">
+                                    <Title>all together now!</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="6C3F15A7-E599-4B89-9695-F5A9071D1CE3" Type="Text" Created="2019-02-07 20:40:00 -0500" Modified="2019-02-07 23:38:17 -0500">
+                        <BinderItem UUID="6C3F15A7-E599-4B89-9695-F5A9071D1CE3" Type="Text" Created="2019-02-07 20:40:00 -0500" Modified="2019-02-07 23:52:14 -0500">
                             <Title>upcoming 2 experiments</Title>
                             <MetaData>
                                 <LabelID>14</LabelID>
@@ -370,6 +424,48 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0AB19E56-8091-4D53-81F3-9184252AEF9A" Type="Text" Created="2019-02-07 23:51:32 -0500" Modified="2019-02-07 23:51:58 -0500">
+                                    <Title>overall goal</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>123,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2CAB42D7-43A7-42D8-8BB2-B7E226BDADE2" Type="Text" Created="2019-02-07 23:51:41 -0500" Modified="2019-02-07 23:52:18 -0500">
+                                    <Title>experiment 1</Title>
+                                    <MetaData>
+                                        <LabelID>14</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="324EFD80-356E-4A63-8443-F4B18859BA2A" Type="Text" Created="2019-02-07 23:51:45 -0500" Modified="2019-02-07 23:52:18 -0500">
+                                    <Title>experiment 2</Title>
+                                    <MetaData>
+                                        <LabelID>14</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B29DD102-F4B9-4762-9CDD-0E9FA7430CCE" Type="Text" Created="2019-02-07 23:51:49 -0500" Modified="2019-02-07 23:52:18 -0500">
+                                    <Title>chapter conclusion</Title>
+                                    <MetaData>
+                                        <LabelID>14</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -5720,11 +5816,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="377" Characters="2607" Date="2019-02-07 19:44:05 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2019-02-07 19:44:05 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-02-07 00:00:00 -0500">
-        <DraftWordCount>908</DraftWordCount>
-        <DraftCharCount>6217</DraftCharCount>
+        <DraftWordCount>1057</DraftWordCount>
+        <DraftCharCount>7178</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

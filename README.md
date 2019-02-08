@@ -1,4 +1,4 @@
-# Next-do: take random samples of corpora
+# Next-do: write competent draft of intro ASAP
 
 ## Archives in order of priority
 
@@ -49,6 +49,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## February 7, 2019
+
+I realised that, actually, the best way for me to have a 9,000 word "competent chapter draft" ready for March 1 while ALSO keeping my work with federated fandom as a high priority would be to go ahead and shove a rough draft of all of my theoretical groundings onto paper. I was leaving that chapter for last because I hate writing introductions, and because I know I'll discover more theorists etc as part of the research process so I know I'll need to rewrite the chapter at the end -- but it IS the part where I already know pretty much everything I'd want to say, and, well, it's also a of stuff that nobody else on my committee already knows so it probably IS helpful to get it out of my head for their benefit. I already wrote a thousand words of it today!! It feels good to be generating WORDS. And then I can continue taking the experimentation for chapter 2 very slow-and-steady.
+
 ## February 2, 2019
 
 Okay, reading is nice and all, but it's time to START EXPERIMENTING! I'm going to take my random samples of 100 TODAY!!!
@@ -56,6 +60,8 @@ Okay, reading is nice and all, but it's time to START EXPERIMENTING! I'm going t
 Hahahaha, and *immediately*, even though this is the "easy way" to answer my question, it's way more complicated than it seems and I have a ton of methodological questions. Most importantly: should I use random.org's "sequence generator" or its "integer generator"?
 
 HEY, THE PRINT FUNCTION CHANGED, I DIDN'T AGREE TO THIS
+
+Talking to Tina and Alyssa, I've decided to use the "sequence generator" for my fandom numbers, because duplicates don't even make any sense and what matters is that I have an appropriate sample size. 
 
 ## January 28, 2019
 
