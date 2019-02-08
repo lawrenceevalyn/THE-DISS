@@ -5,10 +5,6 @@ Author: Lawrence Evalyn
 
 
 
-My first chapter sets out the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on the 1790s. As this chapter will discuss, I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding my research as a kind of reparative work on archives. I hope to locate my project alongside others in the DH field, led by scholars who are seeking to develop less “extractive” and more anti-oppressive[ Is there a better term? (why did TK think I wanted “anti-interpretive”?)] digital humanities methodologies. My first chapter will present a humanistic critique of the essentialist tendencies of some work in the field of DH, and discuss the pitfalls I have attempted to avoid in my own methodology. In discussing my methods, I will take up Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.” I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code. I will also discuss my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty. Turning, then, from my tools to my materials, this chapter will also set out the limits to the project — material printed in Great Britain between January 1, 1789 and December 31, 1799 (inclusive). I will describe the importance of my selection of this this eleven-year “decade” to test my methods. A brief literature review of the literary output of the 1790s[ TK: Can you clarify this? Are you talking about the focus of the recent scholarship, or the focus of the writers at the time? As you rightly indicate elsewhere, these two things may not match -- your project might show the preoccupations of modern scholarship to be projections of our own rather than an accurate reflection of what dominated at the time. But “decade-long focus” makes it sound as though you’re talking about the 1790s writers themselves, i.e. accepting that “our” 1790s (dominated by, say, Thelwall and Wollstonecraft) is the same as the “real” one (though that might turn out to have been dominated by, say, Edmund Burke and Hannah More).] will highlight a decade-long focus on politics, the Gothic, and women writers.[ Although all of these elements interest me, and I anticipate that attention to this decade will reveal their prominence, I seek to avoid framing my inquiry explicitly around them and thus begging the question of their importance.] Finally, this chapter will bring together modern theories of the archive and my eighteenth century materials, by discussing the 1790s as a literary moment in which some significant literary canons begin to take form. When eighteenth century editors began to collect an English vernacular tradition posited against a Classical past and a French present, the “archive” of literary history was filtered into “canons” of texts, with connotations of merit and implications for national identity. The divergence between archive and canon motivates my return to the archive.
-
-
-
 ## Intro ##
 
 
@@ -97,7 +93,7 @@ Is there someone better to cite than Leah Price, for the idea that all attempts 
 
 
 
-#### close-read my own code ####
+#### critical algo studies ####
 
 
 
@@ -155,7 +151,11 @@ How my work relates to John Mee’s work: Mee silently defines “print, publici
 
 
 
-### William St John ###
+### William St Clair ###
+
+
+
+### Michael Gamer ###
 
 
 
@@ -215,7 +215,19 @@ Surface reading interpretation (?) — focus on taking the text at its word & ex
 
 
 
-### DH & bibliography ###
+### we need Venn ###
+
+
+
+Drawing together three scholarly conversations with three distinct histories, it is difficult to attentively delineate the links and the tensions between each thread. Especially since many of these fields have, in fact, overlapped substantially, there is a danger of simplistically conflating distinct lines of thoughts. At the same time, over-emphasis on these distinctions can overstate the separations between fields which do in fact (as the existence of this dissertation contents) share important affinities. To navigate these conceptual overlaps carefully, let us make our way through each area of an imagined Venn diagram of the three. We can discuss each pair in turn — DH and eighteenth century studies; eighteenth century studies and queer theory; queer theory and DH — to make our way toward the centre where all three overlap.
+
+
+
+### DH & 1790s ###
+
+
+
+#### DH & bibliography ####
 
 
 
@@ -223,7 +235,15 @@ intentionally using / turning to DH + old school bibliography to fill each other
 
 
 
-### queer DH ###
+### 1790s & queer ###
+
+
+
+### queer & DH ###
+
+
+
+#### queer DH ####
 
 
 
@@ -231,7 +251,47 @@ I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding
 
 
 
+#### humanist critique of DH ####
+
+
+
+a humanistic critique of the essentialist tendencies of some work in the field of DH
+
+
+
+### all together now! ###
+
+
+
 ## upcoming 2 experiments ##
+
+
+
+### overall goal ###
+
+
+
+[Having delineated a large and complex scholarly context for this work, it is time, now, to describe [WHAT I ACTUALLY DID]]
+
+
+
+### my 1790s ###
+
+
+
+material printed in England between January 1, 1789 and December 31, 1799 (inclusive).
+
+
+
+### experiment 1 ###
+
+
+
+### experiment 2 ###
+
+
+
+### chapter conclusion ###
 
 
 
