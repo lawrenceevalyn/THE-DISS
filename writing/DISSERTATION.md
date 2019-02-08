@@ -105,6 +105,10 @@ I will apply insights from the emerging field of critical algorithm studies to r
 
 
 
+#### Ted Underwood recording predictions ####
+
+
+
 ## 1790s ##
 
 
@@ -143,7 +147,67 @@ How my work relates to John Mee’s work: Mee silently defines “print, publici
 
 
 
-## queer theory ##
+### "popularity" in the print market ###
+
+
+
+### Garside & Raven ###
+
+
+
+### William St John ###
+
+
+
+## theory ##
+
+
+
+### reparative reading ###
+
+
+
+On the broadest level, my primary theoretical framework is that of reparative reading. I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH & 1790s)].
+
+
+
+### queer theory ###
+
+
+
+Latent in [<- LESS PARANOID PHRASING?] my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that [history consists of major discontinuities in individual psychology/ontology, as Foucault describes.] [I follow Judith Butler in understanding these historically-[constrained] identities as being “performative,” actively re-created in conversation between self and others.] [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [ALSO SUSAN SONTAG.] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
+
+
+
+### surface reading ###
+
+
+
+My search for other ways of relating to literature has also led me to emerging work under the umbrella of “surface reading”. “Surface reading” positions itself as an alternative to “symptomatic reading”; [RATHER THAN X, IT Y.] The analogues to reparative and paranoid reading are obvious, but also, I argue, overly simplistic: all paranoid reading is symptomatic, but not all symptomatic reading is paranoid. Reparative reading, as described by Sedgwick and potentially modelled by Felski, is still interested in ‘deep’ meanings of texts, in which striking textual features can be interpreted to locate additional meanings. [A LOT OF QUEER THEORY IS ALSO SYMPTOMATIC, EVEN WHEN IT’S NOT PARANOID (AND TBH IT’S OFTEN PARANOID).] In contrast, “surface reading” [DOES SOMETHING ELSE.] [GIVE EXAMPLES OF SURFACE READINGS.] [GROUP/CATEGORIZE SURFACE READINGS.] [CONCLUSION]
+
+
+
+#### surface readers ####
+
+
+
+Freedgood, Elaine, and Cannon Schmitt. “Denotatively, Technically, Literally.” Representations 125.1 (2014): 1–14. Web.
+
+Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History 41.2 (2010): 371–391. Project Muse. Web. 22 Feb. 2016.
+
+
+
+### summary ###
+
+
+
+Reparative reading rejects paranoia & the role of the critic as master
+
+	Felski rejects negativity? & role of critic?
+
+Queer reading rejects ?
+
+Surface reading interpretation (?) — focus on taking the text at its word & examining all details equally
 
 
 
