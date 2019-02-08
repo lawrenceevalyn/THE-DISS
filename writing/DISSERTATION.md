@@ -9,11 +9,11 @@ My first chapter sets out the vocabulary and theoretical frameworks of the disse
 
 
 
-## What Is DH ##
+## Intro ##
 
 
 
-### many definitions ###
+### many definitions of DH ###
 
 
 
@@ -21,19 +21,51 @@ The field of “digital humanities,” now several scholarly generations into it
 
 
 
-### humanizing history ###
+### many histories of DH ###
 
 
 
-When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. 
+When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. [TRADITIONAL HISTORY OF DH]. [FEMINIST HISTORY OF DH.] As these competing historiographies show, [CONCLUSION TO THIS PARAGRAPH.]
 
 
 
-## DH vocabulary ##
+### many histories of 1790s ###
 
 
 
-### "capta" ###
+So, too, are there many “histories” — or perhaps, narratives — available to describe the 1790s. [FOCUS ON POLITICS]. [FOCUS ON ROMANTICISM]. [FOCUS ON GOTHIC]. Of necessity, each of these histories must exclude something. [WHAT EACH EXCLUDES].
+
+
+
+#### rise of the novel ####
+
+
+
+### reparative reading ###
+
+
+
+It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. [SUMMARIZE SEDGWICK AND REPARATIVE READING]. Rita Felski, in her recent monograph The Limits of Critique, expands on Sedgwick. [SUMMARIZE FELSKI]. Sedgwick is often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE].
+
+
+
+### BLUF ###
+
+
+
+These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the theoretical frameworks within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two experiments which drive the dissertation as a whole, situating them within the three fields.
+
+
+
+## DH ##
+
+
+
+### DH vocabulary ###
+
+
+
+#### "capta" ####
 
 
 
@@ -41,7 +73,7 @@ Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphas
 
 
 
-### Alberto Cairo ###
+#### Alberto Cairo ####
 
 
 
@@ -49,7 +81,7 @@ Data visualization vocabulary: framework; visual encoding (content); annotations
 
 
 
-### modelling, sensitivity, fruitfulness ###
+#### modelling, sensitivity, fruitfulness ####
 
 
 
@@ -57,7 +89,7 @@ my own preferred vocabulary around experiment design (modelling, sensitivity, fr
 
 
 
-#### editing ####
+##### editing #####
 
 
 
@@ -65,7 +97,7 @@ Is there someone better to cite than Leah Price, for the idea that all attempts 
 
 
 
-### close-read my own code ###
+#### close-read my own code ####
 
 
 
@@ -73,27 +105,7 @@ I will apply insights from the emerging field of critical algorithm studies to r
 
 
 
-### queer DH ###
-
-
-
-I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding my research as a kind of reparative work on archives. I hope to locate my project alongside others in the DH field, led by scholars who are seeking to develop less “extractive” and more anti-oppressive digital humanities methodologies
-
-
-
-### critique of DH essentialism ###
-
-
-
- a humanistic critique of the essentialist tendencies of some work in the field of DH
-
-
-
-### why 1789-99? ###
-
-
-
-A brief literature review of the literary output of the 1790s will highlight decade-long focus on politics, the Gothic, and women writers[^cf1] 
+## 1790s ##
 
 
 
@@ -101,7 +113,7 @@ A brief literature review of the literary output of the 1790s will highlight dec
 
 
 
-A brief literature review of the literary output of the 1790s will highlight a decade-long focus on politics, the Gothic, and women writers.[^cf2]
+A brief literature review of the literary output of the 1790s will highlight a decade-long focus on politics, the Gothic, and women writers.[^cf1]
 
 
 
@@ -123,7 +135,23 @@ Because politics occurs between individual people, not political parties, I argu
 
 
 
-## DH & bibliography ##
+### John Mee's book ###
+
+
+
+How my work relates to John Mee’s work: Mee silently defines “print, publicity, and popular radicalism” as being synonymous with the activities of the London Corresponding Society, and societies like it. These societies and their use of print are obviously crucial parts of the print landscape, reflecting one [take on] publicity, but I seek to go broader.
+
+
+
+## queer theory ##
+
+
+
+## synthesis of 3 fields ##
+
+
+
+### DH & bibliography ###
 
 
 
@@ -131,11 +159,15 @@ intentionally using / turning to DH + old school bibliography to fill each other
 
 
 
-## John Mee's book ##
+### queer DH ###
 
 
 
-How my work relates to John Mee’s work: Mee silently defines “print, publicity, and popular radicalism” as being synonymous with the activities of the London Corresponding Society, and societies like it. These societies and their use of print are obviously crucial parts of the print landscape, reflecting one [take on] publicity, but I seek to go broader.
+I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding my research as a kind of reparative work on archives. I hope to locate my project alongside others in the DH field, led by scholars who are seeking to develop less “extractive” and more anti-oppressive digital humanities methodologies
+
+
+
+## upcoming 2 experiments ##
 
 
 
@@ -539,7 +571,7 @@ The most frequently borrowed books include periodicals, theological textbooks, a
 
 
 
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf3] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
+Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf2] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
 
 
 
@@ -643,6 +675,4 @@ Library of Congress MARC info
 
 [^cf1]: Although all of these elements interest me, and I anticipate that attention to this decade will reveal their prominence, I seek to avoid framing my inquiry explicitly around them and thus begging the question of their importance.
 
-[^cf2]: Although all of these elements interest me, and I anticipate that attention to this decade will reveal their prominence, I seek to avoid framing my inquiry explicitly around them and thus begging the question of their importance.
-
-[^cf3]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
+[^cf2]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
