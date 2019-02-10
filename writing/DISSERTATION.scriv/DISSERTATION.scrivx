@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-08 00:08:26 -0500" ModID="AC9F03A8-73AF-4E2F-82A1-10A7D8546290">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-09 22:22:40 -0500" ModID="6E3DEF2B-F03C-4E12-9952-3DBD891444FD">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -90,88 +90,85 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="924D5720-4640-4733-832D-726CA8C195CA" Type="Text" Created="2019-02-07 20:39:36 -0500" Modified="2019-02-07 23:38:12 -0500">
+                        <BinderItem UUID="924D5720-4640-4733-832D-726CA8C195CA" Type="Text" Created="2019-02-07 20:39:36 -0500" Modified="2019-02-09 22:21:23 -0500">
                             <Title>DH</Title>
                             <MetaData>
-                                <LabelID>14</LabelID>
+                                <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AB331E24-B3EA-4F44-985D-3FBF4886330C" Type="Text" Created="2018-05-22 03:41:05 -0400" Modified="2019-02-07 20:40:43 -0500">
-                                    <Title>DH vocabulary</Title>
+                                <BinderItem UUID="339D43EF-9044-4EF3-901E-B5FFD4894819" Type="Text" Created="2019-02-09 21:19:10 -0500" Modified="2019-02-09 21:31:58 -0500">
+                                    <Title>code is not neutral</Title>
                                     <MetaData>
-                                        <LabelID>14</LabelID>
+                                        <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>280,0</TextSelection>
                                     </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="EC204CF2-6930-4249-B4AB-1FD2B5DD59B4" Type="Text" Created="2018-05-27 15:40:12 -0400" Modified="2019-02-07 20:40:43 -0500">
-                                            <Title>"capta"</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>168,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="5C45860E-29CB-4760-B249-808D2E8E8D50" Type="Text" Created="2018-06-11 01:15:50 -0400" Modified="2019-02-07 20:40:43 -0500">
-                                            <Title>Alberto Cairo</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>80,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="A74D80A2-C08F-4060-B01B-8C1427505DFB" Type="Text" Created="2018-05-27 15:40:30 -0400" Modified="2019-02-07 20:40:43 -0500">
-                                            <Title>modelling, sensitivity, fruitfulness</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>125,0</TextSelection>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="9E483242-C1DD-4F8B-8FE1-678FA79B539E" Type="Text" Created="2018-05-27 15:53:16 -0400" Modified="2018-05-27 15:53:48 -0400">
-                                                    <Title>editing</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>134,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem UUID="7E6CB2C3-E917-4D55-B78B-42516ACB8C89" Type="Text" Created="2018-05-27 15:51:40 -0400" Modified="2019-02-08 00:06:05 -0500">
-                                            <Title>critical algo studies</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>205,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="FDF6FB24-CC83-4742-A883-E13F3876EBF9" Type="Text" Created="2019-02-07 23:01:44 -0500" Modified="2019-02-07 23:01:55 -0500">
-                                            <Title>Ted Underwood recording predictions</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="7BFFE9AF-2716-420F-A6F8-6373A0C05307" Type="Text" Created="2019-02-09 21:31:21 -0500" Modified="2019-02-09 22:17:54 -0500">
+                                    <Title>my methods</Title>
+                                    <MetaData>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>910,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7324EC31-23CB-4BC9-9A03-8CF62A5D027E" Type="Text" Created="2019-02-09 21:55:08 -0500" Modified="2019-02-09 22:02:42 -0500">
+                                    <Title>capta</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>316,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A3F2902B-6E53-4284-8B8C-A4A33CD56D07" Type="Text" Created="2019-02-09 21:57:24 -0500" Modified="2019-02-09 22:03:12 -0500">
+                                    <Title>critical algorithm studies</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>475,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="051852C3-FC08-41E6-A674-3B74D19B2534" Type="Text" Created="2019-02-09 22:03:39 -0500" Modified="2019-02-09 22:08:11 -0500">
+                                    <Title>procedural argument</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>438,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="937AFD75-8D1F-42BE-8755-C2C3AB431FE7" Type="Text" Created="2019-02-09 22:08:35 -0500" Modified="2019-02-09 22:15:45 -0500">
+                                    <Title>fruitful models/samples</Title>
+                                    <MetaData>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1149,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D8543F8C-2FF1-47ED-BC0D-F3BB58499A2D" Type="Text" Created="2019-02-09 22:16:38 -0500" Modified="2019-02-09 22:21:19 -0500">
+                                    <Title>data viz</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>427,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -255,9 +252,10 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DD6829D4-FFE1-4AA1-A651-774EDE347FFF" Type="Text" Created="2019-02-08 00:06:52 -0500" Modified="2019-02-08 00:07:20 -0500">
+                                <BinderItem UUID="DD6829D4-FFE1-4AA1-A651-774EDE347FFF" Type="Text" Created="2019-02-08 00:06:52 -0500" Modified="2019-02-08 04:11:21 -0500">
                                     <Title>Michael Gamer</Title>
                                     <MetaData>
+                                        <LabelID>14</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -318,7 +316,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="C7BD0DB3-5C7A-4C71-840D-FDBA3F8363D3" Type="Text" Created="2019-02-07 23:27:30 -0500" Modified="2019-02-07 23:30:51 -0500">
+                                <BinderItem UUID="C7BD0DB3-5C7A-4C71-840D-FDBA3F8363D3" Type="Text" Created="2019-02-07 23:27:30 -0500" Modified="2019-02-09 21:16:55 -0500">
                                     <Title>summary</Title>
                                     <MetaData>
                                         <LabelID>14</LabelID>
@@ -340,7 +338,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A9416C5F-A325-4BEC-B8F7-BAC9FD33138B" Type="Text" Created="2019-02-07 23:43:07 -0500" Modified="2019-02-07 23:49:30 -0500">
+                                <BinderItem UUID="A9416C5F-A325-4BEC-B8F7-BAC9FD33138B" Type="Text" Created="2019-02-07 23:43:07 -0500" Modified="2019-02-08 03:34:12 -0500">
                                     <Title>we need Venn</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
@@ -368,6 +366,36 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>87,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="EE1173FC-87F4-4123-B5A6-790C130395AA" Type="Text" Created="2019-02-08 04:37:06 -0500" Modified="2019-02-08 04:37:16 -0500">
+                                            <Title>Ted Underwood</Title>
+                                            <MetaData>
+                                                <LabelID>14</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="6E065633-E7CE-4481-95AC-956EB4C6F69A" Type="Text" Created="2019-02-08 04:37:09 -0500" Modified="2019-02-08 04:37:16 -0500">
+                                            <Title>Mark Algee-Hewitt</Title>
+                                            <MetaData>
+                                                <LabelID>14</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="1C8A18E0-E2E5-4B19-93C2-5DFB9A9A12B3" Type="Text" Created="2019-02-09 22:16:02 -0500" Modified="2019-02-09 22:16:21 -0500">
+                                            <Title>lit already models/samples</Title>
+                                            <MetaData>
+                                                <LabelID>14</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>52,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -410,6 +438,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>84,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="25CF97B6-FED6-4CDE-92BF-B5693E9845B4" Type="Text" Created="2019-02-09 22:05:29 -0500" Modified="2019-02-09 22:06:02 -0500">
+                                            <Title>the role of "surprise": pre-recording predictions</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -914,8 +951,17 @@
                         <TextSelection>103,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="696FF7BF-8561-40BA-A4A6-03327048B7AA" Type="Text" Created="2018-12-12 16:18:25 -0500" Modified="2018-12-12 16:22:37 -0500">
-                    <Title>Appendix A: methods</Title>
+                <BinderItem UUID="DEBF0871-C4DF-4611-BE9A-C891980EF84F" Type="Text" Created="2019-02-09 21:35:40 -0500" Modified="2019-02-09 21:35:51 -0500">
+                    <Title>Appendix A: codebase</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="696FF7BF-8561-40BA-A4A6-03327048B7AA" Type="Text" Created="2018-12-12 16:18:25 -0500" Modified="2019-02-09 21:35:44 -0500">
+                    <Title>Appendix B: detailed methods</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -1115,13 +1161,13 @@
                                 <TextSelection>104,746</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6F518876-88B1-4011-9F7C-0DE38615FA0A" Type="Text" Created="2016-11-30 22:00:20 -0500" Modified="2018-11-04 19:57:07 -0500">
+                        <BinderItem UUID="6F518876-88B1-4011-9F7C-0DE38615FA0A" Type="Text" Created="2016-11-30 22:00:20 -0500" Modified="2019-02-08 04:19:09 -0500">
                             <Title>Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,175</TextSelection>
+                                <TextSelection>1270,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="27F96EBE-76AE-49F0-9178-D9D7C5CB795C" Type="Text" Created="2016-11-30 16:01:30 -0500" Modified="2016-11-30 16:01:43 -0500">
@@ -5786,6 +5832,117 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="EC204CF2-6930-4249-B4AB-1FD2B5DD59B4" Type="Text" Created="2018-05-27 15:40:12 -0400" Modified="2019-02-09 22:00:56 -0500">
+                    <Title>"capta"</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>78,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7E6CB2C3-E917-4D55-B78B-42516ACB8C89" Type="Text" Created="2018-05-27 15:51:40 -0400" Modified="2019-02-09 21:18:12 -0500">
+                    <Title>critical algo studies</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>205,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2693C7FE-4AD5-425D-AFCA-EC93BBFBC4C9" Type="Text" Created="2019-02-09 21:18:12 -0500" Modified="2019-02-09 21:59:00 -0500">
+                    <Title>Wendy Chun</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4675D5C7-616E-4A28-A102-7C3D6EDAC1B5" Type="Text" Created="2019-02-09 21:18:12 -0500" Modified="2019-02-09 21:59:00 -0500">
+                    <Title>Wendy Chun-1</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="21392BD2-EDCB-4143-86E0-71B166E57A6F" Type="Text" Created="2019-02-09 21:58:51 -0500" Modified="2019-02-09 22:00:59 -0500">
+                    <Title>prodecural argument - Bogost</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="639857A4-361E-40D7-B96A-29AA8DD9C892" Type="Text" Created="2019-02-09 21:18:16 -0500" Modified="2019-02-09 21:18:32 -0500">
+                    <Title>algorithms &amp; critical race studies</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>57,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FDF6FB24-CC83-4742-A883-E13F3876EBF9" Type="Text" Created="2019-02-07 23:01:44 -0500" Modified="2019-02-07 23:01:55 -0500">
+                    <Title>Ted Underwood recording predictions</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A74D80A2-C08F-4060-B01B-8C1427505DFB" Type="Text" Created="2018-05-27 15:40:30 -0400" Modified="2019-02-07 20:40:43 -0500">
+                    <Title>modelling, sensitivity, fruitfulness</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>125,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9E483242-C1DD-4F8B-8FE1-678FA79B539E" Type="Text" Created="2018-05-27 15:53:16 -0400" Modified="2018-05-27 15:53:48 -0400">
+                            <Title>editing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>134,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="AB331E24-B3EA-4F44-985D-3FBF4886330C" Type="Text" Created="2018-05-22 03:41:05 -0400" Modified="2019-02-07 20:40:43 -0500">
+                    <Title>DH vocabulary</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5C45860E-29CB-4760-B249-808D2E8E8D50" Type="Text" Created="2018-06-11 01:15:50 -0400" Modified="2019-02-09 22:20:24 -0500">
+                    <Title>Alberto Cairo</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -5844,12 +6001,12 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">75000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">250</SessionTarget>
-        <PreviousSession Words="-335" Characters="-2090" Date="2019-02-08 00:02:37 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">1000</SessionTarget>
+        <PreviousSession Words="744" Characters="4800" Date="2019-02-09 20:54:56 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-02-08 00:00:00 -0500">
-        <DraftWordCount>-335</DraftWordCount>
-        <DraftCharCount>-2090</DraftCharCount>
+    <RecentWritingHistory Date="2019-02-09 00:00:00 -0500">
+        <DraftWordCount>744</DraftWordCount>
+        <DraftCharCount>4800</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included" IncludeGroupText="Yes">
+            <CompileGroup Type="BinderItem">DDF8AC31-4A85-4C8C-AE97-38C38E121C00</CompileGroup>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>5F019618-106D-4CE6-B387-20FB66CFFD0F</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <Links>
+                <ConvertDocumentLinksToHTML>Yes</ConvertDocumentLinksToHTML>
+            </Links>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <FootnotesAsScriptNotes>Yes</FootnotesAsScriptNotes>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC>
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>FIELDS</ProjectTitle>
+            <ProjectAbbreviatedTitle>FIELDS</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author FileAs="Evalyn, Lawrence" Role="aut">Lawrence Evalyn</Author>
+            </Authors>
+            <Surname>Evalyn</Surname>
+            <Forename>Lawrence</Forename>
+            <Subjects>
+                <Subject></Subject>
+            </Subjects>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>Print</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="CB9A2637-6E0E-457D-8B44-9581DFF1E23C">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="AC58D544-CEFD-43D1-9D24-18A6B6C2E414">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats></LastUsedFormats>
+</CompileSettings>

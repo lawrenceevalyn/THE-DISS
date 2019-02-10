@@ -3,17 +3,67 @@
 <head>
 <title>FIELDS</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- NOTE: margin property = top-right-bottom-left -->
 <style type="text/css">
-	body {background-color: #bac0c7}
-    p.binderItem {margin: 10.0px 0.0px 0.0px 05.0px; font-family:Times New Roman, Cochin, Times, Courier, Arial, serif; font-size:16.0px;}
-    .page {border: 1px solid #727272; background: #fff}
+
+	body {background-color: #e2e2e2}
+    
+    p.topLevelItemTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Times, Times New Roman, Palatino, Cochin, Serif;
+    	font-size: 30px;
+    	}
+    	
+    p.folderTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Times, Times New Roman, Palatino, Cochin, Serif;
+    	font-size: 18px;
+    	}
+    
+    p.itemTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	font-weight: bold;
+    	}
+    	
+    p.itemText {
+    	margin: 0px 0px 10px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	}
+    	
+    p.itemTextStart {
+    	margin: 30px 0px 10px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	}
+    
+    .page {border: 1px solid #c0c0c0; background: #fff}
+    
     hr {
-      border-top: 1px dashed #000;
-      border-bottom: 0px solid #fff;
-      color: #fff;
-      background-color: #fff;
-      height: 0px;
-  </style>
+        border: none;
+        height: 1px;
+        color: #d4d4d4;
+        background-color: #d4d4d4;
+      	}
+      	
+    hr.afterTitle {
+    	margin-top: -3px;
+    }
+      	
+    hr.afterText {
+    	margin-top: 30px;
+    }
+      	
+    ul {
+      	list-style-type: none;
+      	padding-left: 30px;
+      	}
+      	
+</style>
+
 </head>
 
 <body>
@@ -23,156 +73,203 @@
 <td>
 
 <table class="page" width="100%" cellspacing="10" cellpadding="2">
+
+<!-- Top margin -->
+<!-- Not needed, because of the padding above titles. -->
+<!--<tr><td height="15px"></td></tr>-->
+
 <tr>
+
+<!-- 42 + 30 of list indent = 72 - one inch. -->
+<!-- Actually that ends up too much, so we do 25 + 30 = 55px. -->
+<td width="25px">
+
 <td valign="top">
 
 <ul>
 <li>
-<p class="binderItem"><strong>Paper A: 3. case for lit of sensibility</strong><br/>Can a serious case be made for the literature of sensibility on aesthetic and/or ethical and/or political grounds? Discuss at least three literary texts from your reading list in at least two different genres.</p>
+<p class="topLevelItemTitle">Paper A: 3. case for lit of sensibility</p>
+<p class="itemText">Can a serious case be made for the literature of sensibility on aesthetic and/or ethical and/or political grounds? Discuss at least three literary texts from your reading list in at least two different genres.</p>
 </li>
-<hr/>
+<hr class="afterText"/>
 <ul>
 <li>
-<p class="binderItem"><strong>intro</strong><br/>The literature of sensibility — which I take to encompass sentimental literature through its evolution into the gothic — presents a value system based in feeling, but engaged in a constant negotiation regarding the failure points of its own convictions. For a work to successfully provide the pleasurable aesthetic experience of “virtue in distress,” it must articulate compelling ethical definitions of both “distress” and “virtue.” A detailed examination of individual works’ navigation of these co...</p>
+<p class="itemTitle">intro</p>
+<p class="itemText">The literature of sensibility — which I take to encompass sentimental literature through its evolution into the gothic — presents a value system based in feeling, but engaged in a constant negotiation regarding the failure points of its own convictions. For a work to successfully provide the pleasurable aesthetic experience of “virtue in distress,” it must articulate compelling ethical definitions of both “distress” and “virtue.” A detailed examination of individual works’ navigation of these co...</p>
 </li>
-<hr/>
+<hr class="afterText"/>
 <ul>
 <li>
-<p class="binderItem"><strong>they're trying to work out a value system</strong></p>
+<p class="itemTitle">they're trying to work out a value system</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterTitle"/>
+
 <li>
-<p class="binderItem"><strong>Wakefield (1766)</strong></p>
+<p class="itemTitle">Wakefield (1766)</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>not a satire</strong><br/>There is a substantial body of literary criticism beginning in the 1960s which treats Oliver Goldsmith's The Vicar of Wakefield (1766) as a satirical novel. As Vera Nünning points out, however, readers in the 18th and 19th centuries near-universally agreed that the novel was an exemplar of sentimentality’s delights. 20th century critics who declare the novel satirical based on the vicar's self-evident arrogance and hypocrisy are thus diametrically opposed to earlier readers who embraced the nove...</p>
+<p class="itemTitle">not a satire</p>
+<p class="itemText">There is a substantial body of literary criticism beginning in the 1960s which treats Oliver Goldsmith's The Vicar of Wakefield (1766) as a satirical novel. As Vera Nünning points out, however, readers in the 18th and 19th centuries near-universally agreed that the novel was an exemplar of sentimentality’s delights. 20th century critics who declare the novel satirical based on the vicar's self-evident arrogance and hypocrisy are thus diametrically opposed to earlier readers who embraced the nove...</p>
 </li>
 <li>
-<p class="binderItem"><strong>self-serving moral superiority</strong><br/>The virtue presented in Wakefield seems calculated for readers to enjoy identifying with Primrose’s clear moral superiority. Despite its escalating cavalcade of miseries, which to modern readers take on a comic tone in their excesses, the novel presents no conflict. Primrose’s path to virtue is always clear to him. Accordingly, even as he complains that he is too old and injured to journey through the snow to debtor’s prison in the middle of the night, he instructs his family to prepare for thei...</p>
+<p class="itemTitle">self-serving moral superiority</p>
+<p class="itemText">The virtue presented in Wakefield seems calculated for readers to enjoy identifying with Primrose’s clear moral superiority. Despite its escalating cavalcade of miseries, which to modern readers take on a comic tone in their excesses, the novel presents no conflict. Primrose’s path to virtue is always clear to him. Accordingly, even as he complains that he is too old and injured to journey through the snow to debtor’s prison in the middle of the night, he instructs his family to prepare for thei...</p>
 </li>
 <li>
-<p class="binderItem"><strong>critique of wealth</strong><br/>This sermon is among those which presents Wakefield’s critique of wealth. Primrose argues that capital punishment for crimes other than murder wrongly prioritizes the interests of the rich above the interests of humanity. Insisting that “it is far better that two men should live, than that one man should ride,” Primrose frames property law as a violation of natural law. Given the importance that England’s inviolable property laws will take on as synonyms for English liberty during the French Rev...</p>
+<p class="itemTitle">critique of wealth</p>
+<p class="itemText">This sermon is among those which presents Wakefield’s critique of wealth. Primrose argues that capital punishment for crimes other than murder wrongly prioritizes the interests of the rich above the interests of humanity. Insisting that “it is far better that two men should live, than that one man should ride,” Primrose frames property law as a violation of natural law. Given the importance that England’s inviolable property laws will take on as synonyms for English liberty during the French Rev...</p>
 </li>
 <li>
-<p class="binderItem"><strong>balancing-act conclusion</strong><br/>Primrose delivers this sermon, and then immediately in the next chapter the novel proceeds to provide all of the pleasures and rewards which it has lectured readers not to expect. Sir William Thornhill arrives as a messianic figure who has been watching the Primrose family in mortal guise and will now administer wide-reaching justice. This incongruous reversal of fortune may, perhaps, be generously interpreted as a “preview” of the terms of divine justice, with an important reminder regarding me...</p>
+<p class="itemTitle">balancing-act conclusion</p>
+<p class="itemText">Primrose delivers this sermon, and then immediately in the next chapter the novel proceeds to provide all of the pleasures and rewards which it has lectured readers not to expect. Sir William Thornhill arrives as a messianic figure who has been watching the Primrose family in mortal guise and will now administer wide-reaching justice. This incongruous reversal of fortune may, perhaps, be generously interpreted as a “preview” of the terms of divine justice, with an important reminder regarding me...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>Simple Story (1791)</strong></p>
+<p class="itemTitle">Simple Story (1791)</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>sentimental fails</strong><br/>Elizabeth Inchbald’s A Simple Story (1791) has an entirely different political and moral agenda from Wakefield, but engages with similar problems of mental superiority and the embrace of misery. The novel is presented as a testing-ground for ideas of personal reform and educaton. It attempts to determine how one is meant to acquire the strength of mind necessary for virtue, and reaches the uncomfortable conclusion that it cannot be done without distress. The novel’s decidedly un-simple two-part ...</p>
+<p class="itemTitle">sentimental fails</p>
+<p class="itemText">Elizabeth Inchbald’s A Simple Story (1791) has an entirely different political and moral agenda from Wakefield, but engages with similar problems of mental superiority and the embrace of misery. The novel is presented as a testing-ground for ideas of personal reform and educaton. It attempts to determine how one is meant to acquire the strength of mind necessary for virtue, and reaches the uncomfortable conclusion that it cannot be done without distress. The novel’s decidedly un-simple two-part ...</p>
 </li>
 <li>
-<p class="binderItem"><strong>it's kind of the same again</strong><br/>Among the mistakes made by Miss Milner and Dorriforth in the first half seems to have been an unwillingness to acknowledge the strength of their feelings, which prevents them from responding to them appropriately, and leads them into complicated and uncomfortable deceptions. When Miss Milner avows a false passion for Lord Frederick, or when Dorriforth very nearly marries the blank and dutiful Miss Fenton, for example, they spend weeks in miserable confusion. Dorriforth’s constant refrain is “How...</p>
+<p class="itemTitle">it's kind of the same again</p>
+<p class="itemText">Among the mistakes made by Miss Milner and Dorriforth in the first half seems to have been an unwillingness to acknowledge the strength of their feelings, which prevents them from responding to them appropriately, and leads them into complicated and uncomfortable deceptions. When Miss Milner avows a false passion for Lord Frederick, or when Dorriforth very nearly marries the blank and dutiful Miss Fenton, for example, they spend weeks in miserable confusion. Dorriforth’s constant refrain is “How...</p>
 </li>
 <li>
-<p class="binderItem"><strong>suffer like a heroine</strong><br/>The novel assures us that we have “every reason to suppose that their wedded life, was—a life of happiness.” If this is so, it is not because Matilda and Rushworth act fundamentally different from their predecessors, but because they both, and especially Matilda, now have such lowered expectations that, in accordance with Wakefield’s doctrine that pleasure is increased by the contrast with suffering, the same outcome constitutes a greater satisfaction. Unlike Miss Milner, Matilda is “[e]ducated ...</p>
+<p class="itemTitle">suffer like a heroine</p>
+<p class="itemText">The novel assures us that we have “every reason to suppose that their wedded life, was—a life of happiness.” If this is so, it is not because Matilda and Rushworth act fundamentally different from their predecessors, but because they both, and especially Matilda, now have such lowered expectations that, in accordance with Wakefield’s doctrine that pleasure is increased by the contrast with suffering, the same outcome constitutes a greater satisfaction. Unlike Miss Milner, Matilda is “[e]ducated ...</p>
 </li>
 <li>
-<p class="binderItem"><strong>striking message in favor of distress</strong><br/>Responses to A Simple Story often say that its conclusion is ambiguous or confusing, because its most obvious conclusion is unpalatable. Like Wakefield, A Simple Story presents a critique of wealth which can extend to a disavowal of the possession of wealth itself: “What is it makes wealth valuable? Is it the pleasures of the table? the pleasure of living in a fine house? or of wearing fine cloaths? These are pleasures, a Lord enjoys, but in common with his valet. … if we are conspicuous only fo...</p>
+<p class="itemTitle">striking message in favor of distress</p>
+<p class="itemText">Responses to A Simple Story often say that its conclusion is ambiguous or confusing, because its most obvious conclusion is unpalatable. Like Wakefield, A Simple Story presents a critique of wealth which can extend to a disavowal of the possession of wealth itself: “What is it makes wealth valuable? Is it the pleasures of the table? the pleasure of living in a fine house? or of wearing fine cloaths? These are pleasures, a Lord enjoys, but in common with his valet. … if we are conspicuous only fo...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>The Captive (1803)</strong></p>
+<p class="itemTitle">The Captive (1803)</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>how plays usually adapt sentiment</strong><br/>Of course, the best way to experience the moral improvements of distress, in the eighteenth century, was to go to the theatre to see a tragedy. When the literature of sensibility transitions to the stage, it no longer addresses an audience of one reader, whose reflections in distress it has leisure to philosophize over. Instead, theatrical productions of sensibility seek to unite their widely differing audience members in a shared experience of feeling and resolution. In so doing, they heighten ...</p>
+<p class="itemTitle">how plays usually adapt sentiment</p>
+<p class="itemText">Of course, the best way to experience the moral improvements of distress, in the eighteenth century, was to go to the theatre to see a tragedy. When the literature of sensibility transitions to the stage, it no longer addresses an audience of one reader, whose reflections in distress it has leisure to philosophize over. Instead, theatrical productions of sensibility seek to unite their widely differing audience members in a shared experience of feeling and resolution. In so doing, they heighten ...</p>
 </li>
 <li>
-<p class="binderItem"><strong>what makes captive different</strong><br/>In this context, Matthew Lewis’s The Captive (1803) provides an example of an interesting failure. The previous works discussed all provide a safe ground within which their audiences can practice embracing misery, and have that misery vindicated and comfortably resolved. The Captive, in contrast, begins from the same expectations, but betrays its audiences into an experience that overwhelms. It uses the systems of sensibility to engage its audience’s feelings at the highest pitch, and then destr...</p>
+<p class="itemTitle">what makes captive different</p>
+<p class="itemText">In this context, Matthew Lewis’s The Captive (1803) provides an example of an interesting failure. The previous works discussed all provide a safe ground within which their audiences can practice embracing misery, and have that misery vindicated and comfortably resolved. The Captive, in contrast, begins from the same expectations, but betrays its audiences into an experience that overwhelms. It uses the systems of sensibility to engage its audience’s feelings at the highest pitch, and then destr...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>conclusion</strong><br/>In its misfire, The Captive reveals the necessity, in the literature of sensibility, for distress to be contained within the comforting frameworks that Wakefield and A Simple Story employ, so that it may remain “practice” distress, rather than real distress. Submission to misery may not appeal to contemporary readers as a virtuous response to distress. On its own, it smacks of too little justice; and if a deus ex machina supplies the justice, this feels unsatisfyingly unrealistic. To say that th...</p>
+<p class="itemTitle">conclusion</p>
+<p class="itemText">In its misfire, The Captive reveals the necessity, in the literature of sensibility, for distress to be contained within the comforting frameworks that Wakefield and A Simple Story employ, so that it may remain “practice” distress, rather than real distress. Submission to misery may not appeal to contemporary readers as a virtuous response to distress. On its own, it smacks of too little justice; and if a deus ex machina supplies the justice, this feels unsatisfyingly unrealistic. To say that th...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>Paper B: 5. what is lost in distant reading</strong><br/>What is to be lost by distant reading? Ground your answer in both theory and practice, with reference to at least three literary texts from your reading list.</p>
+<p class="topLevelItemTitle">Paper B: 5. what is lost in distant reading</p>
+<p class="itemText">What is to be lost by distant reading? Ground your answer in both theory and practice, with reference to at least three literary texts from your reading list.</p>
 </li>
-<hr/>
+<hr class="afterText"/>
 <ul>
 <li>
-<p class="binderItem"><strong>intro: lose monoliths</strong><br/>What is to be lost in distant reading, I argue, is the reification of individual glorious texts. By reification I refer both to the idea that a text is a stable, immutable object separate from one’s study of it, and to the idea that a monolithic text may transcend its context in its singular importance. As “losses” go, these are utopian ambitions rather than definitional prerequisites for distant reading, and by no means the exclusive territory of computational research. Indeed, many existing di...</p>
+<p class="itemTitle">intro: lose monoliths</p>
+<p class="itemText">What is to be lost in distant reading, I argue, is the reification of individual glorious texts. By reification I refer both to the idea that a text is a stable, immutable object separate from one’s study of it, and to the idea that a monolithic text may transcend its context in its singular importance. As “losses” go, these are utopian ambitions rather than definitional prerequisites for distant reading, and by no means the exclusive territory of computational research. Indeed, many existing di...</p>
 </li>
 <li>
-<p class="binderItem"><strong>anthologies</strong></p>
+<p class="itemTitle">anthologies</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>anthologies are models</strong><br/>For my model of Romanticism as a field, I turn to anthologies. Anthologies represent the simplified models of a literary period which their editors believe is best-suited to introduce high school and undergraduate students to that period. These models are not “distant reading” models, since they do not attempt to draw conclusions about the anthologized texts as a corpus; instead, teachers are expected to select the subset of texts which suit their particular needs and supply the gap between the ...</p>
+<p class="itemTitle">anthologies are models</p>
+<p class="itemText">For my model of Romanticism as a field, I turn to anthologies. Anthologies represent the simplified models of a literary period which their editors believe is best-suited to introduce high school and undergraduate students to that period. These models are not “distant reading” models, since they do not attempt to draw conclusions about the anthologized texts as a corpus; instead, teachers are expected to select the subset of texts which suit their particular needs and supply the gap between the ...</p>
 </li>
 <li>
-<p class="binderItem"><strong>tokenism - Dorothy</strong><br/>The obligatory anthologization of Dorothy Wordsworth, for example, strikes me as misguided. Her journals are fascinating documents, but they are also private, not constructed as literature. Even the concept of “the Grasmere Journal” as a distinct entity reflects an interpretation meant to serve scholars’ interest in her brother, rather than a full understanding of the documents themselves. For example, the second manuscript included in “the Grasmere Journal,” in addition to other fascinating mis...</p>
+<p class="itemTitle">tokenism - Dorothy</p>
+<p class="itemText">The obligatory anthologization of Dorothy Wordsworth, for example, strikes me as misguided. Her journals are fascinating documents, but they are also private, not constructed as literature. Even the concept of “the Grasmere Journal” as a distinct entity reflects an interpretation meant to serve scholars’ interest in her brother, rather than a full understanding of the documents themselves. For example, the second manuscript included in “the Grasmere Journal,” in addition to other fascinating mis...</p>
 </li>
 <li>
-<p class="binderItem"><strong>tokenism - CSmith rocks</strong><br/>Similarly, but with the opposite tendency, Charlotte Smith’s inclusion always near Wordsworth — and actually embedded among the Lyrical Ballads as “context” in Longman— gives the entirely false impression that she is interesting primarily for her impact on Wordsworth, rather than as a crucial Romantic poet in her own right. As Knowles and Horrocks point out, Smith was at the centre of the English literary canon in 1798 when Lyrical Ballads was printed — her Elegiac Sonnets had just entered its e...</p>
+<p class="itemTitle">tokenism - CSmith rocks</p>
+<p class="itemText">Similarly, but with the opposite tendency, Charlotte Smith’s inclusion always near Wordsworth — and actually embedded among the Lyrical Ballads as “context” in Longman— gives the entirely false impression that she is interesting primarily for her impact on Wordsworth, rather than as a crucial Romantic poet in her own right. As Knowles and Horrocks point out, Smith was at the centre of the English literary canon in 1798 when Lyrical Ballads was printed — her Elegiac Sonnets had just entered its e...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>WW & CSmith</strong></p>
+<p class="itemTitle">WW & CSmith</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>The Thorn</strong><br/>However, I will nonetheless respond to the anthologies’ implied assessment of Smith as a Wordsworthian interlocutor, to examine her and Wordsworth as a pair. Wordsworth’s and Smith’s similarities and crucial differences, particularly as regards the way they position their poetry within the public sphere, play out in two of their emblematic, always-anthologized poems, “The Thorn” and “On being cautioned against walking on a headland overlooking the sea, because it was frequented by a lunatic.”<br/>
-Wo...</p>
+<p class="itemTitle">The Thorn</p>
+<p class="itemText">However, I will nonetheless respond to the anthologies’ implied assessment of Smith as a Wordsworthian interlocutor, to examine her and Wordsworth as a pair. Wordsworth’s and Smith’s similarities and crucial differences, particularly as regards the way they position their poetry within the public sphere, play out in two of their emblematic, always-anthologized poems, “The Thorn” and “On being cautioned against walking on a headland overlooking the sea, because it was frequented by a lunatic.”</p>
+<p class="itemText">Wo...</p>
 </li>
 <li>
-<p class="binderItem"><strong>On being cautioned</strong><br/>In contrast, Smith’s “On being cautioned” positions her poetic persona as not only the recipient of an alarming tale, but one who pursues that tale intentionally. Some readings of this poem make much hay out of the fact that Smith’s encounter with the eponymous lunatic is imagined, but I note that nowhere does she say that the caution she has been given is successful. One can easily read the poem as describing her continued walk toward the precipice. Even if Smith herself did not go, it is in ke...</p>
+<p class="itemTitle">On being cautioned</p>
+<p class="itemText">In contrast, Smith’s “On being cautioned” positions her poetic persona as not only the recipient of an alarming tale, but one who pursues that tale intentionally. Some readings of this poem make much hay out of the fact that Smith’s encounter with the eponymous lunatic is imagined, but I note that nowhere does she say that the caution she has been given is successful. One can easily read the poem as describing her continued walk toward the precipice. Even if Smith herself did not go, it is in ke...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>the alternative is Hannah More</strong></p>
+<p class="itemTitle">the alternative is Hannah More</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>no power law</strong><br/>But anthologies are not the only place to look for Wordsworth’s peers. If we return to the anthology as a model of Romanticism, but this time consider a graph instead of a chart, it is immediately notable that the distribution of pages by author does not follow a power-law distribution:<br/>
-[CHART] [POWER LAW REFERENCE IMAGE]<br/>
-Most natural phenomena (and many human phenomena) show a power-law distribution, in which the most frequently-appearing items appear exponentially more than the less frequent i...</p>
+<p class="itemTitle">no power law</p>
+<p class="itemText">But anthologies are not the only place to look for Wordsworth’s peers. If we return to the anthology as a model of Romanticism, but this time consider a graph instead of a chart, it is immediately notable that the distribution of pages by author does not follow a power-law distribution:</p>
+<p class="itemText">[CHART] [POWER LAW REFERENCE IMAGE]</p>
+<p class="itemText">Most natural phenomena (and many human phenomena) show a power-law distribution, in which the most frequently-appearing items appear exponentially more than the less frequent i...</p>
 </li>
 <li>
-<p class="binderItem"><strong>ESTC</strong><br/>That anthologies have selection criteria is not meant to be a surprise, either. But it is informative to compare their list against a less-curated body of texts. My point of comparison comes from data I have accumulated for my dissertation: the titles of roughly 52,000 words printed in England between the years 1789 to 1799. These titles constitute the public world of letters in the decade leading up to the publication of Lyrical Ballads. Interestingly, this collecton of texts also does not show...</p>
+<p class="itemTitle">ESTC</p>
+<p class="itemText">That anthologies have selection criteria is not meant to be a surprise, either. But it is informative to compare their list against a less-curated body of texts. My point of comparison comes from data I have accumulated for my dissertation: the titles of roughly 52,000 words printed in England between the years 1789 to 1799. These titles constitute the public world of letters in the decade leading up to the publication of Lyrical Ballads. Interestingly, this collecton of texts also does not show...</p>
 </li>
 <li>
-<p class="binderItem"><strong>Robert and Richard</strong><br/>Wordsworth’s intentional avoidance of mass print, however, does not prevent us from reading “The Thorn” again against another poem making use of gothic materials: Hannah More’s “Robert and Richard, or, the ghost of poor Molly, who was drowned in Richard’s mill pond.” More promises a ghost in the title of this Cheap Repository Tract, likely knowing that it would be competing for sale with other ghost stories among the chapbook hawkers that she used to distribute her Cheap Repository Tracts. More ...</p>
+<p class="itemTitle">Robert and Richard</p>
+<p class="itemText">Wordsworth’s intentional avoidance of mass print, however, does not prevent us from reading “The Thorn” again against another poem making use of gothic materials: Hannah More’s “Robert and Richard, or, the ghost of poor Molly, who was drowned in Richard’s mill pond.” More promises a ghost in the title of this Cheap Repository Tract, likely knowing that it would be competing for sale with other ghost stories among the chapbook hawkers that she used to distribute her Cheap Repository Tracts. More ...</p>
 </li>
 </ul>
-<hr/>
+<hr class="afterText"/>
+
 <li>
-<p class="binderItem"><strong>reform anthologies</strong></p>
+<p class="itemTitle">reform anthologies</p>
 </li>
-<hr/>
+<hr class="afterTitle"/>
 <ul>
 <li>
-<p class="binderItem"><strong>edit the anthoogies</strong><br/>More has not been entirely excluded from anthologies: her “Strictures on Female Education” appears in two anthologies as contextual matter for Mary Wollstonecraft, and “Sorrows of Yamba” in two for the section on slavery, and even “Village Politics” makes one appearance. And indeed, it is hard to argue for the inclusion of “Robert and Richard” on the grounds of its poetic beauties. But reading Wordsworth alongside a contemporary ballad produces a very different understanding of his literary borr...</p>
+<p class="itemTitle">edit the anthoogies</p>
+<p class="itemText">More has not been entirely excluded from anthologies: her “Strictures on Female Education” appears in two anthologies as contextual matter for Mary Wollstonecraft, and “Sorrows of Yamba” in two for the section on slavery, and even “Village Politics” makes one appearance. And indeed, it is hard to argue for the inclusion of “Robert and Richard” on the grounds of its poetic beauties. But reading Wordsworth alongside a contemporary ballad produces a very different understanding of his literary borr...</p>
 </li>
 <li>
-<p class="binderItem"><strong>REALLY edit anthologies</strong><br/>My discussion of Dorothy Wordsworth and Charlotte Smith above also has implications for possible restructuring of these anthologies, but of course, shuffling around a few authors does not address the core problem of the small and highly clustered network of “notable” writers which I argue is to be lost with distant reading. The question of anthology and teaching is not one to be solved here, or it would be solved already; there are real and compelling reasons for anthologies to be organized the ...</p>
+<p class="itemTitle">REALLY edit anthologies</p>
+<p class="itemText">My discussion of Dorothy Wordsworth and Charlotte Smith above also has implications for possible restructuring of these anthologies, but of course, shuffling around a few authors does not address the core problem of the small and highly clustered network of “notable” writers which I argue is to be lost with distant reading. The question of anthology and teaching is not one to be solved here, or it would be solved already; there are real and compelling reasons for anthologies to be organized the ...</p>
 </li>
 </ul>
 </ul>
 </ul>
 
 </td>
-<td width="8">
+<td width="55px">
 </td>
 </tr>
+
+<!-- Bottom margin -->
+<tr><td height="15px"></td></tr>
+
 </table>
 
 </td>

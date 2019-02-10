@@ -57,51 +57,59 @@ These, then, are the three scholarly conversations to which this dissertation co
 
 
 
-### DH vocabulary ###
+### code is not neutral ###
 
 
 
-#### "capta" ####
+The central contention of my computational praxis is that, despite the aura of empirical truth which accrues to some ‘scientific’ methodologies and discourses, nothing is neutral/objective. As Johanna Drucker argues, “data” is not neutral/objective. As Sophia Noble demonstrates, algorithms are not neutral/objective. As Wendy Chun reveals, computational technologies are not neutral/objective. As Alberto Cairo shows, graphs and charts are not neutral/objective. [FIND SOMEBODY TO SHOW THAT TOOLS LIKE VOYANT ARE NOT NEUTRAL — is this Chun?.] [PUT THESE IN ORDER ACCORDING TO FOLLOWING PARAGRAPHS] Each of these is constructed, by humans, for human purposes, constrained by human biases. As the humanities have long known, of course, things need not be neutral/objective to be meaningful or valuable. By setting aside the desire for a singular neutral/objective truth, we can instead draw quite close to the messy multitudes of truths which enable insight. Accordingly, [CONCLUSION].
 
 
 
-Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.”
+### my methods ###
 
 
 
-#### Alberto Cairo ####
+This dissertation will, nonetheless, make use of digital tools, algorithms, “data”, and data visualizations to carry out its inquiry. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A, accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains aan explanation of my best guess at its underlying process. My exact use of these tools — sufficient for another to replicate my work — is provided in Appendix B. These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means confined to the appendices. [CONCLUSION].
 
 
 
-Data visualization vocabulary: framework; visual encoding (content); annotations
+### capta ###
 
 
 
-#### modelling, sensitivity, fruitfulness ####
+My attention to the sources of digital knowledge creation comes from Johanna Drucker, and her distinction between “data” and “capta.” [EXTENDED SUMMARY OF DRUCKER.]  [records are created, shaped by choices and by constraints, captured, rather than neutrally “given.”] [EXAMPLE DATA FROM MY MATERIALS] [Conclusion: ??]
 
 
 
-my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty
+### critical algorithm studies ###
 
 
 
-##### editing #####
+If, as Drucker establishes, “data analysis” is already doomed to [MESSINESS?] from the moment of data capture, [SOMEHOW ALSO TRANSITION TO THE ALGORITHMS MAKE USE OF THAT DATA.] The emerging field of critical algorithm studies thus responds to an urgent need. [Extended summary of Sophia Noble]. [Write about Wendy Chun too] [EXAMPLE ALGORITHM FROM MY MATERIALS] [Conclusion: I am indebted to the ‘digital cultural studies’ scholars for giving me tools/lenses for my work….?]
 
 
 
-Is there someone better to cite than Leah Price, for the idea that all attempts to work with a text must involve editing/modelling it?
+### procedural argument ###
 
 
 
-#### critical algo studies ####
+An additional and perhaps-unexpected resource, for scrutinizing algorithms critically, comes from the work of those who study games, especially video games. [Ian Bogost argues that procedures contain arguments.] This framework allows us to see that all research methodologies, including non-digital ones, contain implicit arguments about the nature of what is studied. [EXAMPLE PROCEDURE FROM MY MATERIALS - something non-computational?] 
 
 
 
-I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code.
+### fruitful models/samples ###
 
 
 
-#### Ted Underwood recording predictions ####
+In light of the challenges of “empiricism,” my goal in this dissertation is to produce a series of fruitful models. [Willard McCarty on models] Another way of expressing this might be to borrow from the vocabulary of social science research: I would like to make discoveries about a “population” which is inaccessible to me, namely, “everything printed in England 1789-99.” Since I cannot access this population in full, I have taken a series of “samples,” which I hope to be representative; each sample can be examined as evidence of the makeup of the source population, but must also be examined in and of itself as a sample. [therefore, not attempting ‘accuracy’] [Rather than making claims about the 1790s each claim is filtered through / constrained by the specific model of the 1790s used to make it] Rather than producing a clear and pristine truth, my models are, in fact, quite likely to contradict each other. In these moments of contradiction, [we have the best opportunity to learn, because we can see why they contradict, and therefore why something may or may not be true.] [These opportunity are “fruitful”] [Expand on “fruitfulness”]
+
+
+
+### data viz ###
+
+
+
+[Transition: it’s part of my contention that one can actually learn and know things; I will be trying to communicate those things in part through charts!] [Drucker again: charts are misleading, humanities approaches to graphical display] [I am making my own charts] [In doing so, I owe a debt to Tufte] [I will also explain my charts, using Cairo’s vocabulary of framework; visual encoding (content); annotations]. [CONCLUSION]
 
 
 
@@ -201,6 +209,12 @@ Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.�
 
 
 
+Talk to Dana Seitler about the distinctions between surface reading and reparative reading
+
+History of queer theory: Oscillations of Literary Theory, AC Fecundo
+
+
+
 Reparative reading rejects paranoia & the role of the critic as master
 
 	Felski rejects negativity? & role of critic?
@@ -219,7 +233,7 @@ Surface reading interpretation (?) — focus on taking the text at its word & ex
 
 
 
-Drawing together three scholarly conversations with three distinct histories, it is difficult to attentively delineate the links and the tensions between each thread. Especially since many of these fields have, in fact, overlapped substantially, there is a danger of simplistically conflating distinct lines of thoughts. At the same time, over-emphasis on these distinctions can overstate the separations between fields which do in fact (as the existence of this dissertation contents) share important affinities. To navigate these conceptual overlaps carefully, let us make our way through each area of an imagined Venn diagram of the three. We can discuss each pair in turn — DH and eighteenth century studies; eighteenth century studies and queer theory; queer theory and DH — to make our way toward the centre where all three overlap.
+Drawing together three scholarly conversations with three distinct histories, it is difficult to attentively delineate the links and the tensions between each thread. Especially since many of these fields have, in fact, overlapped substantially, there is a danger of simplistically conflating distinct lines of thoughts. At the same time, over-emphasis on distinctions can overstate the separations between fields which do in fact (as the existence of this dissertation contents) share important affinities. To navigate these conceptual overlaps carefully, let us make our way through each area of an imagined Venn diagram of the three. We can discuss each pair in turn — DH and eighteenth century studies; eighteenth century studies and queer theory; queer theory and DH — to make our way toward the centre where all three overlap.
 
 
 
@@ -232,6 +246,22 @@ Drawing together three scholarly conversations with three distinct histories, it
 
 
 intentionally using / turning to DH + old school bibliography to fill each other's gaps
+
+
+
+#### Ted Underwood ####
+
+
+
+#### Mark Algee-Hewitt ####
+
+
+
+#### lit already models/samples ####
+
+
+
+Literary study already involves modelling / sampling
 
 
 
@@ -256,6 +286,10 @@ I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding
 
 
 a humanistic critique of the essentialist tendencies of some work in the field of DH
+
+
+
+#### the role of "surprise": pre-recording predictions ####
 
 
 
@@ -773,7 +807,11 @@ Library of Congress MARC info
 
 
 
-# Appendix A: methods #
+# Appendix A: codebase #
+
+
+
+# Appendix B: detailed methods #
 
 
 
