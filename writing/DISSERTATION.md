@@ -9,19 +9,19 @@ Author: Lawrence Evalyn
 
 
 
+### intro to overall argument ###
+
+
+
+This dissertation seeks to determine, in as minute detail as possible, what the print landscape in England 1789-99 was actually like. It also seeks to explain, in equally minute detail, why this task of historical recovery is, in fact, impossible. [FLESH OUT MY ACTUAL ARGUMENT AND TOPIC]
+
+
+
 ### many definitions of DH ###
 
 
 
 The field of “digital humanities,” now several scholarly generations into its development, has entered the phase in which so many scholars are carrying out “DH” research that no universally-acceptable definition of “DH” can exist. Many definitions are fundamentally methodological. [ADD A COUPLE DEFINITIONS OF DH HERE]. These definitions describe what might be called a “computational humanities.” Other definitions take up the new importance of digitality in daily life. [ADD SOME DIGITAL CULTURAL STUDIES STYLE DEFINITIONS HERE]. This kind of work is increasingly described as “digital cultural studies.” In positioning this work as a “DH” dissertation, I might at first glance seem to belong squarely within the “computational humanities.” To be sure, much of this work is intended to apply existing computational methodologies to conduct otherwise old-fashioned literary research. Several of my contributions, too, are purely methodological in nature, in the development of new code and new guidelines for computational research using particular digital resources. However, as a fuller discussion of Johanna Drucker’s distinction between “data” and “capta” will elucidate later in this chapter, no computational research exists separately from a specific, local, culturally-defined context. Accordingly, my computational research into eighteenth century literature and my development of new computational methodologies are both inevitably tied to “digital culture.” My results often have more to say about contemporary digital archives, and the history of literary record-keeping, than they do about the eighteenth century itself. I therefore rely on an extensive body of work in cultural digital studies to examine not only the eighteenth century, but eighteenth century studies.
-
-
-
-### many histories of DH ###
-
-
-
-When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. [TRADITIONAL HISTORY OF DH]. [FEMINIST HISTORY OF DH.] As these competing historiographies show, [CONCLUSION TO THIS PARAGRAPH.]
 
 
 
@@ -49,11 +49,19 @@ It is difficult, when faced with flawed and complex competing narratives, to res
 
 
 
-These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the theoretical frameworks within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two experiments which drive the dissertation as a whole, situating them within the three fields.
+These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the theoretical frameworks within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two experiments which drive the dissertation as a whole, situating them within the three fields, and providing a sketch of their development across the dissertation.
 
 
 
 ## DH ##
+
+
+
+### many histories of DH ###
+
+
+
+When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. [TRADITIONAL HISTORY OF DH]. [FEMINIST HISTORY OF DH.] As these competing historiographies show, [CONCLUSION TO THIS PARAGRAPH.]
 
 
 
@@ -69,7 +77,7 @@ The central contention of my computational praxis is that, despite the aura of e
 
 
 
-This dissertation will, nonetheless, make use of digital tools, algorithms, “data”, and data visualizations to carry out its inquiry. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A, accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains aan explanation of my best guess at its underlying process. My exact use of these tools — sufficient for another to replicate my work — is provided in Appendix B. These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means confined to the appendices. [CONCLUSION].
+This dissertation will, nonetheless, make use of digital tools, algorithms, “data”, and data visualizations to carry out its inquiry. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A, accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools — sufficient for another to replicate my work — is provided in Appendix B. These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means confined to the appendices. [CONCLUSION].
 
 
 
@@ -117,29 +125,27 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 
 
 
-### lit review ###
+### English history ###
 
 
 
-A brief literature review of the literary output of the 1790s will highlight a decade-long focus on politics, the Gothic, and women writers.[^cf1]
+All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf1] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND].
 
 
 
-### 18th canon building ###
+### English lit history ###
 
 
 
-this chapter will bring together modern theories of the archive and my eighteenth century materials, by discussing the 1790s as a literary moment in which some significant literary canons begin to take form. When eighteenth century editors began to collect an English vernacular tradition posited against a Classical past and a French present, the “archive” of literary history began to be interpreted into “canons” of texts, with connotations of merit and implications for national identity. The divergence between archive and canon motivates my return to the archive.
+The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison [MATCHES LITERARY HISTORY TOO. It is a decade in which literary “canons” begin to take form. [SOMEHOW FLESH OUT THIS PARAGRAPH SO IT LEADS TO MY CENTRAL QUESTION — it is not neutral, there will be competing narratives, we must accept them all?]
 
 
 
-### "schools of thought" ###
+### Michael Gamer ###
 
 
 
-my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
-
-Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.
+detailing the interconnectednesss of what is now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. Gamer explores the paradox that “gothic readers, gothic writers, and gothic reviewers are specific categories that do not reflect the demographic makeup of late-eighteenth-century British readership yet dominate gothic’s reception” (37), to argue that “gothic’s cultural stigma could serve as a basis for the construction of more legitimate cultural forms” (200). By using Gothic materials in self-avowedly non-Gothic ways, Romantic writers could appeal to popular taste while maintaining social cachet.
 
 
 
@@ -151,19 +157,21 @@ How my work relates to John Mee’s work: Mee silently defines “print, publici
 
 
 
-### "popularity" in the print market ###
+#### "schools of thought" ####
 
 
 
-### Garside & Raven ###
+my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
+
+Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.
 
 
 
-### William St Clair ###
+### EJ Clery ###
 
 
 
-### Michael Gamer ###
+This decade is the culmination of the rise of supernatural fiction that EJ Clery charts.
 
 
 
@@ -249,7 +257,11 @@ intentionally using / turning to DH + old school bibliography to fill each other
 
 
 
-#### Ted Underwood ####
+##### Garside & Raven #####
+
+
+
+##### William St Clair #####
 
 
 
@@ -290,6 +302,10 @@ a humanistic critique of the essentialist tendencies of some work in the field o
 
 
 #### the role of "surprise": pre-recording predictions ####
+
+
+
+##### Ted Underwood #####
 
 
 
@@ -835,6 +851,6 @@ https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm
 
 Library of Congress MARC info
 
-[^cf1]: Although all of these elements interest me, and I anticipate that attention to this decade will reveal their prominence, I seek to avoid framing my inquiry explicitly around them and thus begging the question of their importance.
+[^cf1]: Although these events, of course, did not occur on January 1 or December 31, respectively, the entirety of 1789 and 1799 are both included in my study here, out of sheer technological necessity.
 
 [^cf2]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
