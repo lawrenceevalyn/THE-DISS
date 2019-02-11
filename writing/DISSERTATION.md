@@ -129,31 +129,31 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 
 
 
-All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf1] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND].
+All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf1] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND]. [CONCLUSION: an environment which felt like it was on the edge of history]
 
 
 
-### English lit history ###
+### superlatives ###
 
 
 
-The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison [MATCHES LITERARY HISTORY TOO. It is a decade in which literary “canons” begin to take form. [SOMEHOW FLESH OUT THIS PARAGRAPH SO IT LEADS TO MY CENTRAL QUESTION — it is not neutral, there will be competing narratives, we must accept them all?]
+The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison [MATCHES LITERARY HISTORY TOO.] Each literary ‘mode’ was imbued with the potential for national importance. [WRITE ABOUT IMPORTANCE OF READING/WRITING TO NATIONAL IDENTITY —> CONCLUSION.]
 
 
 
-### Michael Gamer ###
+### canons ###
 
 
 
-detailing the interconnectednesss of what is now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. Gamer explores the paradox that “gothic readers, gothic writers, and gothic reviewers are specific categories that do not reflect the demographic makeup of late-eighteenth-century British readership yet dominate gothic’s reception” (37), to argue that “gothic’s cultural stigma could serve as a basis for the construction of more legitimate cultural forms” (200). By using Gothic materials in self-avowedly non-Gothic ways, Romantic writers could appeal to popular taste while maintaining social cachet.
+Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form, adjudicating between the “right” and “wrong” literatures. [The big one is the gothic!] [EJ Clery] [Michael Gamer] [But these aesthetic debates take on higher stakes due to the political context: corresponding societies] [also somehow Hannah More!!] [it is not neutral, there will be competing narratives, we must accept them all?]
 
 
 
-### John Mee's book ###
+#### John Mee's book ####
 
 
 
-How my work relates to John Mee’s work: Mee silently defines “print, publicity, and popular radicalism” as being synonymous with the activities of the London Corresponding Society, and societies like it. These societies and their use of print are obviously crucial parts of the print landscape, reflecting one [take on] publicity, but I seek to go broader.
+John Mee silently defines “print, publicity, and popular radicalism” as being synonymous with the activities of the London Corresponding Society, and societies like it. These societies and their use of print are obviously crucial parts of the print landscape, reflecting one [take on] publicity, but I seek to go broader.
 
 
 
@@ -167,11 +167,19 @@ Because politics occurs between individual people, not political parties, I argu
 
 
 
-### EJ Clery ###
+### more similar than different ###
 
 
 
-This decade is the culmination of the rise of supernatural fiction that EJ Clery charts.
+All of these schools of writing are, I argue, more similar than they are distinct, in the print marketplace of the 1790s. Which is to say, all of these individual writers are choosing strategies from the same pool of constrained choices. [Gothic strategies - Gamer] [Corresponding society strategies] [Poetic strategies - Mary Robinson] [Hannah More] [CONCLUSION: have to deal with everything at once; individuals, variety]
+
+
+
+### conclusion ###
+
+
+
+My synthesizing approach [SAYS SOMETHING THAT WRITING PREVIOUS PARAS WILL CLARIFY]
 
 
 
@@ -207,13 +215,7 @@ My search for other ways of relating to literature has also led me to emerging w
 
 
 
-Freedgood, Elaine, and Cannon Schmitt. “Denotatively, Technically, Literally.” Representations 125.1 (2014): 1–14. Web.
-
-Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History 41.2 (2010): 371–391. Project Muse. Web. 22 Feb. 2016.
-
-
-
-### summary ###
+### conclusion ###
 
 
 
@@ -253,19 +255,51 @@ Drawing together three scholarly conversations with three distinct histories, it
 
 
 
-intentionally using / turning to DH + old school bibliography to fill each other's gaps
+In the intersection of the digital humanities and eighteenth century studies, I turn to bibliography. If there is any research more magnificent in its scope than [SOME BIG DH THING], it is work like Garside & Raven’s The English Novel. This kind of work seeks to be both comprehensive and accurate. [DESCRIBE THE SIMILARITIES I SEE. — Resources for future research] [Now I’m going to survey the kinds of digital corpora and non-digital bibliographic resources that I focus on.]
 
 
 
-##### Garside & Raven #####
+#### scholarly archives ####
 
 
 
-##### William St Clair #####
+Eighteenth century materials of various kinds have been collected in many digital archives, of very different scope. These are discussed in more detail in Chapter 2. On the tip of anyone’s tongue, of course, is Gale’s Eighteenth Century Collections Online (ECCO), containing [CONTENTS]. A subset of these texts have been hand-prepared, as part of the Text Creation Partnership (TCP), to be easier to study. The resulting corpus of ECCO-TCP texts contains [CONTENTS]. ECCO is itself (mostly) a subset of the broader English Short Title Catalogue (ESTC), containing [CONTENTS]. These three digital collections [are the main ones.] [There are also two other kinds of digital archives: voracious mega-archives, and specialized micro-archives.]
 
 
 
-#### Mark Algee-Hewitt ####
+#### mega archives ####
+
+
+
+The best known mega-archive is, of course, Google Books. In a scholarly context, one hesitates even to designate this as an “archive,” particularly in the same breath as resources like ECCO: [CONTENTS OF GOOGLE BOOKS]. [ERRORS IN GOOGLE BOOKS]. Nonetheless, Google Books is frequently used to study the prevalence of various “n-grams” (words or short phrases) over time. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf2] [CONTENTS OF PROJECT GUTENBERG.] Similar in scope to Google Books but with more limited research tools is the Internet Archive. [CONTENTS OF INTERNET ARCHIVE.] Google Books, Project Gutenberg, and the Internet Archive are not “canonical” sources of texts, but they are nonetheless part of the ecosystem of digital eighteenth century studies. Moreover, as in eighteenth century texts themselves, the boundary between “canonical” and “noncanonical” digital archives is a permeable one: Google Books is also being integrated into HathiTrust, [EXPLANATION OF HATHITRUST].
+
+
+
+#### micro archives ####
+
+
+
+Representing an entirely different set of assumptions about how digital archives ought to be formulated are what might be called “micro-archives,” which are micro largely in comparison to the hundreds of thousands or even millions of texts which comprehensive archives seek to include. Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. [EXAMPLES OF SPECIALIZED COLLECTIONS.] To go with their specialized focus, these small collections typically have an idiosyncratic relationship to the information they collect. [GIVE EXAMPLES]. By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
+
+
+
+#### print archives ####
+
+
+
+[But of course not everything is digital]. [It is a core contention of my work that DH can’t ignore non-digital resources]. [LIST AND CATEGORIZE MAJOR PRINT BIBLIOGRAPHIC RESOURCES].
+
+Garside
+
+William St Clair
+
+
+
+#### scrutiny is not criticism ####
+
+
+
+As I scrutinize the underlying assumptions that are structurally reinforced by this work, I do so not in order to dismiss their value. These resources are created to enable future scholarship: for that future scholarship to thrive, 
 
 
 
@@ -277,7 +311,19 @@ Literary study already involves modelling / sampling
 
 
 
+#### conclusion: filling gaps ####
+
+
+
+Filling each others gaps
+
+
+
 ### 1790s & queer ###
+
+
+
+#### why 1790s ####
 
 
 
@@ -745,7 +791,7 @@ The most frequently borrowed books include periodicals, theological textbooks, a
 
 
 
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf2] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
+Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf3] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
 
 
 
@@ -853,4 +899,6 @@ Library of Congress MARC info
 
 [^cf1]: Although these events, of course, did not occur on January 1 or December 31, respectively, the entirety of 1789 and 1799 are both included in my study here, out of sheer technological necessity.
 
-[^cf2]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
+[^cf2]: I have heard it quipped more than once in digital humanities gatherings that you always think you’re going to get your texts from somewhere else, but Project Gutenberg is where you’ll actually get them.
+
+[^cf3]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.

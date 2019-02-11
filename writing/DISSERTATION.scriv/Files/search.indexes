@@ -88,6 +88,9 @@ A second thread of inquiry shaped by this attention to mainstream print producti
             <Title>my 1790s</Title>
             <Text>material printed in England between January 1, 1789 and December 31, 1799 (inclusive).</Text>
         </Document>
+        <Document ID="6E065633-E7CE-4481-95AC-956EB4C6F69A">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="5051496E-517B-441B-8449-58AA18C1C8A3">
             <Title>why 1789-99?</Title>
             <Text>A brief literature review of the literary output of the 1790s will highlight decade-long focus on politics, the Gothic, and women writers </Text>
@@ -126,7 +129,6 @@ They reveal that our canonical authors aren’t inherently exceptional</Text>
         </Document>
         <Document ID="5C45860E-29CB-4760-B249-808D2E8E8D50">
             <Title>Alberto Cairo</Title>
-            <Text>Data visualization vocabulary: framework; visual encoding (content); annotations</Text>
         </Document>
         <Document ID="0AB3159E-5FEC-42F4-9747-BDB5E25CDC38">
             <Title>ch 4 - chapbook sales</Title>
@@ -232,8 +234,9 @@ And 80%: All reading is a collaboration! So when you read something, especiall
         <Document ID="C1C4A89F-FCAE-4A47-B7BB-6E766454FCD3">
             <Title>Guiding Principles</Title>
         </Document>
-        <Document ID="B2415AA7-593F-4529-B21E-2AED71B1EE37">
-            <Title>Untitled</Title>
+        <Document ID="E1BFA95D-F40B-472F-97A8-1EA226BA32AE">
+            <Title>BLUF</Title>
+            <Text>These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the theoretical frameworks within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two experiments which drive the dissertation as a whole, situating them within the three fields, and providing a sketch of their development across the dissertation.</Text>
         </Document>
         <Document ID="3C411255-1B54-4D6C-992F-7253CABFA4CF">
             <Title>republished in 1792</Title>
@@ -247,9 +250,8 @@ Are the screeds against debt in the same works...? I’ll have to check, but I T
 Similarly peasants can live like 5 years in a cottage without paying rent and they’ll get around to it when the landlord asks them, and this too is not “debt”, in fact at the start of the century it’s a narrative marker of cruelty for the landlord to insist on the rent being paid
 Ok, those are my thoughts on credit vs debt as part of the shift from parochial economies to imperial market capitalism</Text>
         </Document>
-        <Document ID="E1BFA95D-F40B-472F-97A8-1EA226BA32AE">
-            <Title>BLUF</Title>
-            <Text>These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the theoretical frameworks within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two experiments which drive the dissertation as a whole, situating them within the three fields.</Text>
+        <Document ID="B2415AA7-593F-4529-B21E-2AED71B1EE37">
+            <Title>Untitled</Title>
         </Document>
         <Document ID="2A142AE8-9DAD-4F8E-BBE2-169D2353AD34">
             <Title>humanist critique of DH</Title>
@@ -540,7 +542,7 @@ I think this how how one properly accounts overwhelming detail and variety: lot
             <Title>Observations</Title>
         </Document>
         <Document ID="696FF7BF-8561-40BA-A4A6-03327048B7AA">
-            <Title>Appendix A: methods</Title>
+            <Title>conclusion</Title>
         </Document>
         <Document ID="051CF740-75B7-4BEE-B98C-94BC25B843AB">
             <Title>Finish The Figures</Title>
@@ -595,6 +597,10 @@ U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslse
 	•	“digital humanities offers a middle ground or conjectural space within which, data being simply data, the objects of study dear to the humanities may be treated temporarily as if they were objects of nature, like rocks or stars, then the results of that treatment juxtaposed to how we see them and questions asked.” … “via the conjectural space digital humanities inherits without surrender of authority to the sciences far more than the debate C.P. Snow started in 1959. It inherits many centuries of now relevant work that has been foreign to the humanities since Galileo.” 
 	•	“My aim here has been to suggest that not just the need to tackle great problems but also curiosity’s latest historical moment are with us, that becoming interdisciplinary both rides the urge to know and struggles to hang on against the possibility of being thrown by it. I have put great emphasis on faithfulness to a discipline’s self‐ understanding as countermeasure to solipsism, but at the same time the well‐attested history of fruitful poaching cannot be denied.” 
 </Text>
+        </Document>
+        <Document ID="7BFFE9AF-2716-420F-A6F8-6373A0C05307">
+            <Title>my methods</Title>
+            <Text>This dissertation will, nonetheless, make use of digital tools, algorithms, “data”, and data visualizations to carry out its inquiry. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A, accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools — sufficient for another to replicate my work — is provided in Appendix B. These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means confined to the appendices. [CONCLUSION].</Text>
         </Document>
         <Document ID="9F148578-4C06-4A31-9742-52B2CAB56556">
             <Title>Wordsworth Heart-Leap Well</Title>
@@ -745,12 +751,23 @@ Ask Tom how to find these numbers (it’s not in databases, but I can read a pap
             <Title>topic modelling</Title>
             <Text>I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.</Text>
         </Document>
+        <Document ID="1C2F9379-59DB-4483-A577-60EE88992426">
+            <Title>intro to overall argument</Title>
+            <Text>This dissertation seeks to determine, in as minute detail as possible, what the print landscape in England 1789-99 was actually like. It also seeks to explain, in equally minute detail, why this task of historical recovery is, in fact, impossible. [FLESH OUT MY ACTUAL ARGUMENT AND TOPIC]</Text>
+        </Document>
         <Document ID="D09C5017-444D-47B8-B4CB-22F1772D250A">
             <Title>no one answer/arc for the period</Title>
             <Text>Each author and work will have its own take on what feeling is for, where it comes from, how it is best to be evoked or controlled or used — and hence there is no arching narrative. But I can trace specific materials, like tears, ghosts, and nature</Text>
         </Document>
         <Document ID="1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C">
             <Title>conclusion ??</Title>
+        </Document>
+        <Document ID="D8543F8C-2FF1-47ED-BC0D-F3BB58499A2D">
+            <Title>data viz</Title>
+            <Text>[Transition: it’s part of my contention that one can actually learn and know things; I will be trying to communicate those things in part through charts!] [Drucker again: charts are misleading, humanities approaches to graphical display] [I am making my own charts] [In doing so, I owe a debt to Tufte] [I will also explain my charts, using Cairo’s vocabulary of framework; visual encoding (content); annotations]. [CONCLUSION]</Text>
+        </Document>
+        <Document ID="8EDCF0DE-EF44-4BB8-A01E-66D3C350BC44">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="B2A90B75-15E8-4167-9465-FA0B0F234FB8">
             <Title>surface readers</Title>
@@ -789,6 +806,10 @@ Vocabulary to be discussed:
 	•	My preferred DH terminology around modelling, sensitivity, and fruitfulness
 The introduction will thus allow me to to deal directly with the way that other researchers in my fields (18thC and DH) have already tried to address my questions using different approaches, among them editing (new canons) or distant reading.
 </Text>
+        </Document>
+        <Document ID="4B93EBC3-1586-44C0-B1DE-DEE6D6A96646">
+            <Title>EJ Clery</Title>
+            <Text>This decade is the culmination of the rise of supernatural fiction that EJ Clery charts.</Text>
         </Document>
         <Document ID="3E025559-AA4E-48B3-A2A7-B6FB712CBD40">
             <Title>many works not actual one single object</Title>
@@ -1018,6 +1039,9 @@ St. Clair, William. The Reading Nation in the Romantic Period. Cambridge: Cambri
             <Title>conclusion</Title>
             <Text>I hope to integrate my computational and quantitative research into a fully humanities project by largely refusing to centre the technological elements of my methodology, either in terms of its practice or in terms of its theory. I completely reject the aura of empiricist objectivity which quantitative and computational methods attempt to surround themselves with. I embrace the messiness and intimacy of modelling. Trying to integrate attentiveness to textual detail and emotional openness will be good for “DH.”</Text>
         </Document>
+        <Document ID="9DB9EBFA-6309-4632-83F9-EFA450E89A8F">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="FF258C4E-5601-48DE-8A7E-F47F600C32C4">
             <Title>Early Moden Drama</Title>
         </Document>
@@ -1060,6 +1084,9 @@ The first part of "thinking a lot about songs," then, mostly has to do with bein
 The second part of "thinking a lot about songs" involves a leap of several hundred years: Jo Walton is a Hugo- and Nebula-winning writer, and she says that "the single most quoted thing I have ever written" is... a limerick she posted in a usenet newsgroup in 1998, "The Lurkers Support Me In Email," to the tune of “My Bonny Lies Over the Ocean.” I wouldn't be remotely surprised to find that Hannah More has also written a morally-improving ballad to that tune (or, if she hasn't, it's only because the song is too associated with Jacobins), and certainly her other songs all mention specific tunes which she assumes I will already know.
 
 So there's something interesting to me, here, about the idea of layering your words over top of pattern someone else already knows, as a way to get your version to stick more easily in people's heads. I don't think Jo Walton was intentionally trying to write something extremely memorable, but Hannah More certainly was.</Text>
+        </Document>
+        <Document ID="7A00B4F4-438B-4B25-96A6-FA0C1FA1A588">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="14DB748A-C0A4-4BAD-9F48-CBF424F46851">
             <Title>Joseph Ritson's Robin Hood</Title>
@@ -1171,6 +1198,9 @@ Computational work in the humanities often comes with a false veneer of empirica
             <Title>modelling, sensitivity, fruitfulness</Title>
             <Text>my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty</Text>
         </Document>
+        <Document ID="21392BD2-EDCB-4143-86E0-71B166E57A6F">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="24DE9713-EF0E-4A72-B41E-14D1EAECB57C">
             <Title>what kinds of libraries were there?</Title>
             <Text>Circulating libraries, yes; do we have info on private libraries at all?
@@ -1191,6 +1221,10 @@ When Smith begins to branch out into more political radical works, she needs to 
 Robinson: ???
 More accomplishes her stunning volume of work partly by being a publisher as much as she is an author. (See: The Apprentice’s Monitor) Her shifting publisher data is mostly information on the Cheap Repository Tracts. [But I was cautioned that these dates are less reliable! Ignore chronological information over sheer quantity? This also addresses the other difficulties re: there being too many publishers to show as a timeline]</Text>
         </Document>
+        <Document ID="1C8A18E0-E2E5-4B19-93C2-5DFB9A9A12B3">
+            <Title>lit already models/samples</Title>
+            <Text>Literary study already involves modelling / sampling</Text>
+        </Document>
         <Document ID="171EC036-1A43-4AC2-889D-E9AEC9950B04">
             <Title>Position Paper (3000 wds)</Title>
         </Document>
@@ -1200,12 +1234,15 @@ More accomplishes her stunning volume of work partly by being a publisher as muc
         <Document ID="5F4810CA-70C6-47CE-993B-35E80E83D88A">
             <Title>Resources</Title>
         </Document>
-        <Document ID="3005AE41-E241-45A4-BDA5-AAB258B8121C">
-            <Title>Cohen, Sentimental Education of the Novel</Title>
-        </Document>
         <Document ID="5E813941-0BA8-4EE8-8934-51174778172A">
             <Title>reparative reading</Title>
             <Text>It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. [SUMMARIZE SEDGWICK AND REPARATIVE READING]. Rita Felski, in her recent monograph The Limits of Critique, expands on Sedgwick. [SUMMARIZE FELSKI]. Sedgwick is often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE].</Text>
+        </Document>
+        <Document ID="3005AE41-E241-45A4-BDA5-AAB258B8121C">
+            <Title>Cohen, Sentimental Education of the Novel</Title>
+        </Document>
+        <Document ID="70D190D6-CFEF-47F4-8266-10F1B6BA6CF9">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="C7957BDA-5857-4E26-BC3E-9CEB3A1D96B7">
             <Title>OpenRefine</Title>
@@ -1462,8 +1499,20 @@ Alex: “sure -sounds fab. that one I also check off - though I'd argue for afte
             <Title>conclusion</Title>
             <Text>Although I have described these three ways of modeling the decade 1789-99 in sequence, I will research them in parallel, with an eye to the connections between them. I will look at how each of the three models represents the position of my case study authors among their peers. To interpret those findings, I will consider the construction of each model, to determine what each occludes and what it renders visible. My many disparate approaches will converge on my central question: what texts can be said to be “representative” of this decade? And what do they “represent”?</Text>
         </Document>
+        <Document ID="A3F2902B-6E53-4284-8B8C-A4A33CD56D07">
+            <Title>critical algorithm studies</Title>
+            <Text>If, as Drucker establishes, “data analysis” is already doomed to [MESSINESS?] from the moment of data capture, [SOMEHOW ALSO TRANSITION TO THE ALGORITHMS MAKE USE OF THAT DATA.] The emerging field of critical algorithm studies thus responds to an urgent need. [Extended summary of Sophia Noble]. [Write about Wendy Chun too] [EXAMPLE ALGORITHM FROM MY MATERIALS] [Conclusion: I am indebted to the ‘digital cultural studies’ scholars for giving me tools/lenses for my work….?]</Text>
+        </Document>
+        <Document ID="937AFD75-8D1F-42BE-8755-C2C3AB431FE7">
+            <Title>conclusion</Title>
+            <Text>In light of the challenges of “empiricism,” my goal in this dissertation is to produce a series of fruitful models. [Willard McCarty on models] Another way of expressing this might be to borrow from the vocabulary of social science research: I would like to make discoveries about a “population” which is inaccessible to me, namely, “everything printed in England 1789-99.” Since I cannot access this population in full, I have taken a series of “samples,” which I hope to be representative; each sample can be examined as evidence of the makeup of the source population, but must also be examined in and of itself as a sample. [therefore, not attempting ‘accuracy’] [Rather than making claims about the 1790s each claim is filtered through / constrained by the specific model of the 1790s used to make it] Rather than producing a clear and pristine truth, my models are, in fact, quite likely to contradict each other. In these moments of contradiction, [we have the best opportunity to learn, because we can see why they contradict, and therefore why something may or may not be true.] [These opportunity are “fruitful”] [Expand on “fruitfulness”]</Text>
+        </Document>
         <Document ID="42EC3373-C927-4F33-9B74-0B2424FCAD8E">
             <Title>intro</Title>
+        </Document>
+        <Document ID="7324EC31-23CB-4BC9-9A03-8CF62A5D027E">
+            <Title>capta</Title>
+            <Text>My attention to the sources of digital knowledge creation comes from Johanna Drucker, and her distinction between “data” and “capta.” [EXTENDED SUMMARY OF DRUCKER.]  [records are created, shaped by choices and by constraints, captured, rather than neutrally “given.”] [EXAMPLE DATA FROM MY MATERIALS] [Conclusion: ??]</Text>
         </Document>
         <Document ID="1547AD65-5155-4AC8-AC1D-7A42C8D53B19">
             <Title>Hannah More</Title>
@@ -1511,6 +1560,9 @@ Another approach is to ignore the categories and use things like topic modelling
             <Title>D. F. McKenzie</Title>
             <Text>You might also like to look at D. F. McKenzie's two chapters on the London book trade in single years, 1644 and 1668, in his posthumous Making Meaning collection. This is analogue-era scholarship, and concerning a period other than yours, but I think very relevant for some of your groundwork issues. On publishing statistics, DFM is very incisive about the difference between production rates and survival rates, and the tendency of scholars to talk about the first when really the only thing they see is the second. This isn't going to be such a big issue for the 1790s, but it's going to be an issue all the same. He's good on sheet counts and print runs too: the way a fugitive one-sheet broadside in two tiny editions can show up bibliometrically (in an ESTC count, say) as a bigger deal than, or more "popular" than, a fat heavyweight folio in a single edition with a big print run. </Text>
         </Document>
+        <Document ID="4675D5C7-616E-4A28-A102-7C3D6EDAC1B5">
+            <Title>Wendy Chun-1</Title>
+        </Document>
         <Document ID="91ED910F-5B74-4770-B2F4-21912343114C">
             <Title>performative vulnerability</Title>
             <Text>Grecian Daughter, she-tragedy heroine generally; also Emmeline</Text>
@@ -1523,6 +1575,10 @@ What schools were 18thC readers familiar with?
 
 Why do we need to sort authors into schools? What makes the “Lake Poets” different from the “School of Radcliffe”?</Text>
         </Document>
+        <Document ID="A6CE1E54-497E-4217-A3E4-CF5B5057A57A">
+            <Title>many histories of 1790s</Title>
+            <Text>So, too, are there many “histories” — or perhaps, narratives — available to describe the 1790s. [FOCUS ON POLITICS]. [FOCUS ON ROMANTICISM]. [FOCUS ON GOTHIC]. Of necessity, each of these histories must exclude something. [WHAT EACH EXCLUDES].</Text>
+        </Document>
         <Document ID="A943C79B-B443-4EC8-BBFB-9C726CEB8EF6">
             <Title>methods</Title>
             <Text>Before I develop custom code, I establish some baselines by taking a random sample of 100 titles from each of my key corpora. I manually identify the original publication date of each title, and whether that title appears reprinted elsewhere in the corpus.
@@ -1530,10 +1586,6 @@ Why do we need to sort authors into schools? What makes the “Lake Poets” dif
 As I expand to algorithmically examine the full corpora, I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”
 If this method achieves an accuracy of 85%+ (as determined by comparison to my random sample) I won’t bother with trying to fuzzy-match titles?
 Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to do manually (unlikely)</Text>
-        </Document>
-        <Document ID="A6CE1E54-497E-4217-A3E4-CF5B5057A57A">
-            <Title>many histories of 1790s</Title>
-            <Text>So, too, are there many “histories” — or perhaps, narratives — available to describe the 1790s. [FOCUS ON POLITICS]. [FOCUS ON ROMANTICISM]. [FOCUS ON GOTHIC]. Of necessity, each of these histories must exclude something. [WHAT EACH EXCLUDES].</Text>
         </Document>
         <Document ID="1B4E1AD0-FCB8-446E-96CA-408FF60A1950">
             <Title>do men and women use Shakey differently?</Title>
@@ -1649,6 +1701,10 @@ One part is bursting open all their self-indulgent mythmaking</Text>
 Alex: “that does not sound like a rabbit hole so much as  - you learning the broader stuff for your field
 perfect rationality is a very amusing idea
 and one to which literature speaks better than political writing, generally: since literary writers tend not to believe quite so hard”</Text>
+        </Document>
+        <Document ID="DD6829D4-FFE1-4AA1-A651-774EDE347FFF">
+            <Title>Michael Gamer</Title>
+            <Text>detailing the interconnectednesss of what is now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. Gamer explores the paradox that “gothic readers, gothic writers, and gothic reviewers are specific categories that do not reflect the demographic makeup of late-eighteenth-century British readership yet dominate gothic’s reception” (37), to argue that “gothic’s cultural stigma could serve as a basis for the construction of more legitimate cultural forms” (200). By using Gothic materials in self-avowedly non-Gothic ways, Romantic writers could appeal to popular taste while maintaining social cachet.</Text>
         </Document>
         <Document ID="18051ABA-968F-4085-A183-125A8A001E37">
             <Title>interesting</Title>
@@ -1806,6 +1862,10 @@ The first chapter thus introduces my decade of interest and the materials and pe
         <Document ID="001C05E0-B1C0-428E-969A-1C186954CD3E">
             <Title>timeliness</Title>
         </Document>
+        <Document ID="D2DF57E2-2BCF-434D-8A4B-A4FC4B9C08E3">
+            <Title>queer theory</Title>
+            <Text>Latent in [&lt;- LESS PARANOID PHRASING?] my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that [history consists of major discontinuities in individual psychology/ontology, as Foucault describes.] [I follow Judith Butler in understanding these historically-[constrained] identities as being “performative,” actively re-created in conversation between self and others.] [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [ALSO SUSAN SONTAG.] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]</Text>
+        </Document>
         <Document ID="4E401104-D7C9-4951-9F1B-34560AC3F857">
             <Title>who wins Romantic poetry contests?</Title>
         </Document>
@@ -1820,10 +1880,6 @@ The first chapter thus introduces my decade of interest and the materials and pe
             <Title>but, okay, art can't fix the apocalypse.</Title>
             <Text>Tom Lehrer’s chillingly relevant youtube videos about the nuclear threat (https://www.youtube.com/watch?v=frAEmhqdLFs) feel both incredibly powerful and obviously inefficacious. (Here we are again, here we are again..) — I can make connections to the 1790s I’m sure, but what do we do with that?? Saying: “This person saw what was happening, and this is how they coped” — does that mean we should cope that way too?
 (I’m also reminded of how often I see people ask “How can I help with X world event?” and how often I see them get the answer “keep talking about it and make sure nobody forgets it’s happening” — attention does not equal solution, but it can FEEL like one. Can we actually learn to do something else?)</Text>
-        </Document>
-        <Document ID="D2DF57E2-2BCF-434D-8A4B-A4FC4B9C08E3">
-            <Title>queer theory</Title>
-            <Text>Latent in [&lt;- LESS PARANOID PHRASING?] my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that [history consists of major discontinuities in individual psychology/ontology, as Foucault describes.] [I follow Judith Butler in understanding these historically-[constrained] identities as being “performative,” actively re-created in conversation between self and others.] [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [ALSO SUSAN SONTAG.] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]</Text>
         </Document>
         <Document ID="09D252D8-EC42-4112-90D3-D6DD72E9293D">
             <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
@@ -1847,7 +1903,7 @@ The decade 1789-99 is suddenly *about me*, and *mine*.</Text>
         </Document>
         <Document ID="EC204CF2-6930-4249-B4AB-1FD2B5DD59B4">
             <Title>"capta"</Title>
-            <Text>Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.”</Text>
+            <Text>Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that</Text>
         </Document>
         <Document ID="9893AE8C-2F62-422E-AE7E-9D8246047E4F">
             <Title>biased corpora</Title>
@@ -1867,11 +1923,13 @@ Not just corpora that are biased; because the algorithm depends on the corpus, i
         </Document>
         <Document ID="C4128E58-B680-4B18-827F-C1A40A54198A">
             <Title>18th canon building</Title>
-            <Text>this chapter will bring together modern theories of the archive and my eighteenth century materials, by discussing the 1790s as a literary moment in which some significant literary canons begin to take form. When eighteenth century editors began to collect an English vernacular tradition posited against a Classical past and a French present, the “archive” of literary history began to be interpreted into “canons” of texts, with connotations of merit and implications for national identity. The divergence between archive and canon motivates my return to the archive.</Text>
         </Document>
         <Document ID="2D29629B-1313-431A-B813-262AE2AEB734">
             <Title>Friedrich Kittler, _Discourse Networks, 1800/1900</Title>
             <Text>Friedrich Kittler, _Discourse Networks, 1800/1900_: also a difficult book (and one that focuses solely in its first part on German Romanticism), but one that emphasizes the importance of thinking about information technologies (including writing) for understanding Romanticism</Text>
+        </Document>
+        <Document ID="20769115-5173-450F-A735-2F45CF1C32BA">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="573BE17F-9AC2-4B0F-9C50-D1181871DC1B">
             <Title>what plays get quoted most?</Title>
@@ -2019,8 +2077,11 @@ Zwicker uses a random sample of 500 books from the ETSC to represent the full ou
 </Text>
         </Document>
         <Document ID="C7BD0DB3-5C7A-4C71-840D-FDBA3F8363D3">
-            <Title>summary</Title>
-            <Text>Reparative reading rejects paranoia &amp; the role of the critic as master
+            <Title>conclusion</Title>
+            <Text>Talk to Dana Seitler about the distinctions between surface reading and reparative reading
+History of queer theory: Oscillations of Literary Theory, AC Fecundo
+
+Reparative reading rejects paranoia &amp; the role of the critic as master
 	Felski rejects negativity? &amp; role of critic?
 Queer reading rejects ?
 Surface reading interpretation (?) — focus on taking the text at its word &amp; examining all details equally</Text>
@@ -2155,6 +2216,13 @@ Alex: “sounds chapter-able. very good.”</Text>
             <Text>Marjorie Levinson’s Wordsworth’s Great Period Poems (1986). Writing broadly in the tradition of Marxist criticism Levinson theorised interestingly about the relationship between history and literature in her Rethinking Historicism (1989), but it was her new readings of ostensibly unpolitical poems such as the ‘Intimations of Immortality’ ode and ‘Tintern Abbey’ in the earlier book which have had the most lasting effect. For her, political events were vital in shaping Wordsworth’s verse, even when they were apparently absent. His choice of images could reveal the link Levinson argued. An apparently innocuous reference to a solitary ‘tree’, for example, might allude to the French tree of liberty, or his ‘single field’ to the Champ de Mars. But it was the omissions that were more important, representing a deliberate suppression of political optimism and its replacement with a new system of belief, the ‘myth of the soul’ at the core of the Intimations ode. For the disenchanted Wordsworth, latching on to new ideals in the poem,‘there are victories’, wrote Levinson, 
 far greater than those once anticipated from the French Revolution. Rather than grieve over those mundane losses, the reader is exhorted to set his sights on those other and spiritual palms . . . the ‘soothing thoughts that spring / Out of human suffering.’ (Wordsworth’s Great Period Poems 93–4, 98–9) 
 Such an approach has perhaps proved so influential because it helps to explain, and perhaps even authorise, Wordsworth’s rather forlorn retreat from his youthful idealism. </Text>
+        </Document>
+        <Document ID="339D43EF-9044-4EF3-901E-B5FFD4894819">
+            <Title>code is not neutral</Title>
+            <Text>The central contention of my computational praxis is that, despite the aura of empirical truth which accrues to some ‘scientific’ methodologies and discourses, nothing is neutral/objective. As Johanna Drucker argues, “data” is not neutral/objective. As Sophia Noble demonstrates, algorithms are not neutral/objective. As Wendy Chun reveals, computational technologies are not neutral/objective. As Alberto Cairo shows, graphs and charts are not neutral/objective. [FIND SOMEBODY TO SHOW THAT TOOLS LIKE VOYANT ARE NOT NEUTRAL — is this Chun?.] [PUT THESE IN ORDER ACCORDING TO FOLLOWING PARAGRAPHS] Each of these is constructed, by humans, for human purposes, constrained by human biases. As the humanities have long known, of course, things need not be neutral/objective to be meaningful or valuable. By setting aside the desire for a singular neutral/objective truth, we can instead draw quite close to the messy multitudes of truths which enable insight. Accordingly, [CONCLUSION].</Text>
+        </Document>
+        <Document ID="2693C7FE-4AD5-425D-AFCA-EC93BBFBC4C9">
+            <Title>Wendy Chun</Title>
         </Document>
         <Document ID="E755497F-6BB5-4E71-9355-927D96CC6CAD">
             <Title>Is the number of "null" (unsigned) authors associated with the Minerva Press proportionate to the overall number of "null" authors?</Title>
@@ -2370,6 +2438,7 @@ JUST LIKE what Hannah More does when she publishes hymns / the entire song marke
 (p 48)</Text>
         </Document>
         <Document ID="7E6CB2C3-E917-4D55-B78B-42516ACB8C89">
+            <Title>critical algo studies</Title>
             <Text>I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code.</Text>
         </Document>
         <Document ID="95D3738F-89A4-4202-972A-A534DBDDBEC1">
@@ -2584,6 +2653,10 @@ The ancien re ́gime and its critics
 was partly because the event resembled less a domestic rebellion than an invasion by a foreign prince, and crucially because of the need to placate the Tories who were inured to the doctrine of ‘passive obedience and non- resistance’ and to abhorrence of the ‘king-killing doctrines’ they associated with puritans and Jesuits. The need to assuage the troubled consciences of conservatives ensured that the Allegiance Controversy became chiefly an exercise in casuistry: the resolving of conscientious scruples by the applica- tion of general moral principles to equivocal practical contingencies. The matter was made pressing by the imposition of a new oath of allegiance to King William and Queen Mary, demanded of those who had previously solemnly sworn fealty to James II. Once again, an earlier debate was invoked, that surrounding the Engagement Controversy of 1649, when people had been required to swear allegiance to the English republic in the aftermath of the execution of Charles I. Anthony Ascham’s Of the Confusions and Rev- olutions of Government (1649) was republished, advising stoical acquiescence to power and the dispositions of divine providence. 
 </Text>
         </Document>
+        <Document ID="EF69F67F-4FE7-46C4-900A-3246807BDCDB">
+            <Title>English lit history</Title>
+            <Text>The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison [MATCHES LITERARY HISTORY TOO. It is a decade in which literary “canons” begin to take form. [SOMEHOW FLESH OUT THIS PARAGRAPH SO IT LEADS TO MY CENTRAL QUESTION — it is not neutral, there will be competing narratives, we must accept them all?]</Text>
+        </Document>
         <Document ID="82903B22-91B6-43EB-89F6-319C493FBDDD">
             <Title>Lesser &amp; Farmer debate</Title>
             <Text>Do these citations with some kind of LaTeX to learn that process
@@ -2598,6 +2671,10 @@ My own work seeks to examine reprints, but in a more limited fashion than Farmer
             <Title>sentimental novels &gt; Gothic</Title>
             <Text>IS the sentimental novel part of what I am trying to do here?? Just had a great talk with Ashley about the development of the sentimental novel -- 1750s tied to religion, mostly men; 1770s still male and respectable and now emotion as its own moral code; 1790s develop it into revolutionary sentiment, becoming tied to women; by 1810 it's been subsumed into women's Gothic writing and lost its potential for respectability
 Narrative fragmentation and suspense typical of the sentimental novel is also hugely typical of the Gothic -- Vicar of Wakefield and Man of Feeling both cut away from dramatic moments, withhold information, intentionally sustain anxiety. The Gothic is a natural amplification! But instead of catharsis through tears, it... all gets resolved into rationality?</Text>
+        </Document>
+        <Document ID="639857A4-361E-40D7-B96A-29AA8DD9C892">
+            <Title>algorithms &amp; critical race studies</Title>
+            <Text>Sophia Noble’s book on algorithms &amp; critical race studies</Text>
         </Document>
         <Document ID="D539440A-33D1-4C12-A304-6351D2D59DD8">
             <Title>edit anthologies in chronological order</Title>
@@ -3164,6 +3241,10 @@ TK: NB that you tend to use printing and publishing a bit too interchangeably. P
             <Title>David Brewer abstract</Title>
             <Text>The recent quantitative turn in literary studies has reminded us of the breadth and variety of the literary field of the past. In so doing, however, it has necessarily levelled out the felt distinctions between various texts, and so risks working against the very sort of literary history that its new vistas promise: one which does justice to the workings of form across time and space. In particular, the presumptive interchangeability of texts that is required to put them into a series susceptible to quantitative analysis ignores the massively different footprint left by commercially successful (and socially canonical) texts as we move beyond their moment of initial publication. Evelina, for example, may have been just another novel of 1778 when it first appeared, but it loomed far above all other productions of that year a decade later (or anywhere beyond the metropole). Such footprints, I argue, changed the significance of their texts’ form, making it seem richer, thicker, more resonant or definitive—perhaps, for some, more stifling or oppressive—than that of their apparently similar but less successful counterparts.</Text>
         </Document>
+        <Document ID="254B30F3-34C5-4936-BB8E-989754F5EA78">
+            <Title>reparative reading</Title>
+            <Text>On the broadest level, my primary theoretical framework is that of reparative reading. I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH &amp; 1790s)].</Text>
+        </Document>
         <Document ID="974A5397-1B3F-4617-8BB1-52B61796EA22">
             <Title>David's paintings</Title>
             <Text>David's pre- and post-revolutionary paintings get at this problem very well! His dismissal of, and then embrace of, womanly sentiment.</Text>
@@ -3188,14 +3269,10 @@ And it’s even an IN JOKE, and he uses the stanza just as Coleridge wrote it, d
 
 — It is perfectly fine to be thinking about tea time; the poem is still wonderful. But the myth simply doesn’t work.</Text>
         </Document>
-        <Document ID="254B30F3-34C5-4936-BB8E-989754F5EA78">
-            <Title>reparative reading</Title>
-            <Text>On the broadest level, my primary theoretical framework is that of reparative reading. I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH &amp; 1790s)].</Text>
-        </Document>
         <Document ID="6F518876-88B1-4011-9F7C-0DE38615FA0A">
             <Title>Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative</Title>
             <Text>Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly 25.2 (2015): 87–31. Web.
-This article analyses publication trends of history in early modern Britain and North America in 1470–1800, based on English Short- Title Catalogue (ESTC) data.2 Its major contribution is to demonstrate the potential of digitized library catalogues as an essential scholastic tool and part of reproducible research. We also introduce a novel way of quantitatively analysing a particular trend in book production, namely the publishing of works in the field of history. The study is also our first experimental analysis of paper consumption in early modern book production, and demonstrates in practice the importance of open-science principles for library and information science. Three main research questions are addressed: 1) who wrote history; 2) where history was published; and 3) how publishing changed over time in early modern Britain and North America. In terms of our main findings we demonstrate that the average book size of history publications decreased over time, and that the octavo-sized book was the rising star in the eighteenth century, which is a true indication of expand- ing audiences. The article also compares different aspects of the most popular writers on history, such as Edmund Burke and David Hume. Although focusing on history, these findings may reflect more widespread publishing trends in the early modern era. We show how some of the key questions in this eld can be addressed through the quantitative analysis of large-scale bibliographic data collections.3 </Text>
+This article analyses publication trends of history in early modern Britain and North America in 1470–1800, based on English Short- Title Catalogue (ESTC) data.2 Its major contribution is to demonstrate the potential of digitized library catalogues as an essential scholastic tool and part of reproducible research. We also introduce a novel way of quantitatively analysing a particular trend in book production, namely the publishing of works in the field of history. The study is also our first experimental analysis of paper consumption in early modern book production, and demonstrates in practice the importance of open-science principles for library and information science. Three main research questions are addressed: 1) who wrote history; 2) where history was published; and 3) how publishing changed over time in early modern Britain and North America. In terms of our main findings we demonstrate that the average book size of history publications decreased over time, and that the octavo-sized book was the rising star in the eighteenth century, which is a true indication of expanding audiences. The article also compares different aspects of the most popular writers on history, such as Edmund Burke and David Hume. Although focusing on history, these findings may reflect more widespread publishing trends in the early modern era. We show how some of the key questions in this eld can be addressed through the quantitative analysis of large-scale bibliographic data collections.3 </Text>
         </Document>
         <Document ID="B531A3F8-0E11-4BD2-96F3-2EEDEF1956EB">
             <Title>Old Drafts</Title>
@@ -3257,6 +3334,9 @@ Moreover, even if, as Blayney persuasively supports the numbers showing that, of
         </Document>
         <Document ID="EC34073E-1015-47DC-9927-E37E746F4995">
             <Title>what's in labouring-class poets?</Title>
+        </Document>
+        <Document ID="DEBF0871-C4DF-4611-BE9A-C891980EF84F">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="9FEC2271-C29B-4229-A17B-D090882D66B7">
             <Title>close read: something old?</Title>
@@ -3426,6 +3506,9 @@ Motivated to trouble “post-Romantic ideals of individual authorship””
 See: Zipf's law; that Vsauce video Olli sent me
 </Text>
         </Document>
+        <Document ID="25CF97B6-FED6-4CDE-92BF-B5693E9845B4">
+            <Title>the role of "surprise": pre-recording predictions</Title>
+        </Document>
         <Document ID="E4278D60-E44E-422A-A199-72DE6B668D70">
             <Title>is HathiTrust "representative?" or reliable??</Title>
         </Document>
@@ -3590,6 +3673,11 @@ There's a lot of information packed into these titles! Later on I think all of t
         <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
             <Title>Women's Writing Online</Title>
         </Document>
+        <Document ID="9A0227DC-8652-4900-A357-7931908D4D5D">
+            <Title>conclusion</Title>
+            <Text>All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799. In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND].</Text>
+            <Comments>Although these events, of course, did not occur on January 1 or December 31, respectively, the entirety of 1789 and 1799 are both included in my study here, out of sheer technological necessity.</Comments>
+        </Document>
         <Document ID="DA2F9035-5642-456C-8962-4D1117B35F64">
             <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
             <Text>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing as Recursive Agency in the Long Eighteenth Century.” Romanticism and Victorianism on the Net, no. 57 no. 57 (May 2, 2017): 1–22. doi:10.7202/1006517ar.
@@ -3703,6 +3791,9 @@ p.13: hmm -- I've been trying to resist my impulses toward tidy clustering; some
         <Document ID="86832EAA-C01C-4A63-ACAD-6AFBEF879AF3">
             <Title>feeling</Title>
         </Document>
+        <Document ID="EE1173FC-87F4-4123-B5A6-790C130395AA">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="DCDE9E9B-CE78-4C0A-892E-4334324565A6">
             <Title>Shelley v Horace Smith</Title>
             <Text>Ozymandias</Text>
@@ -3788,6 +3879,10 @@ Wordsworth also published some of Dorothy’s poems as “by a female friend” 
             <Title>Ch 5: Conclusion</Title>
             <Synopsis>Connecting discussion and conclusions: • Your conclusions are what your discussion chapter has been arguing for. • You could write the conclusions to your whole study as the last section of a chapter called ‘Discussion and Conclusions’, but it is usually preferable to have a separate ‘Conclusions’ chapter. • If they form a separate chapter there should be no conclusions to the discussion chapter, and you should inform the reader of this in the discussion. Rules about conclusions: • You should draw your conclusions solely from the discussion chapter. • There should be little further discussion in the conclusions chapter. • The conclusions should respond to the aim stated in the first chapter. • Summaries are not conclusions. • Conclusions should be crisp and concise. • The conclusions can be used to briefly explore the implications of your findings.</Synopsis>
         </Document>
+        <Document ID="051852C3-FC08-41E6-A674-3B74D19B2534">
+            <Title>procedural argument</Title>
+            <Text>An additional and perhaps-unexpected resource, for scrutinizing algorithms critically, comes from the work of those who study games, especially video games. [Ian Bogost argues that procedures contain arguments.] This framework allows us to see that all research methodologies, including non-digital ones, contain implicit arguments about the nature of what is studied. [EXAMPLE PROCEDURE FROM MY MATERIALS - something non-computational?] </Text>
+        </Document>
         <Document ID="AE223031-6F72-43CB-AE3E-4636DEC3FFA4">
             <Title>research Qs</Title>
             <Text>
@@ -3825,6 +3920,9 @@ I dunno how to put all of that together, but it feels important somehow! How can
         <Document ID="FF65ACEA-D6E6-46C6-916B-44568BA459E2">
             <Title>When and how was Austen canonized?</Title>
             <Text>Broadview p XL: “Austen’s works are now seen to hold a central position in the history of the novel” — did they not before??</Text>
+        </Document>
+        <Document ID="7557E9BF-8297-49A0-99ED-E935C465F4DC">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="D63AF7B0-B4ED-4BFE-9F8D-2DEC8D52D62F">
             <Title>Radcliffe's poems</Title>
@@ -4034,6 +4132,9 @@ So, I am practically allergic to the mere thought of trying to identify Good and
         </Document>
         <Document ID="59E76CE3-0E13-4EF1-BB56-0D1BD246E926">
             <Title>CSECS paper</Title>
+        </Document>
+        <Document ID="E999AF2D-8D23-4E9E-A434-A0F8D19FD3D3">
+            <Title>conclusion</Title>
         </Document>
         <Document ID="F0B2983B-54AC-43D3-8990-63749A77A46E">
             <Title>Bibliographical metadata?</Title>
