@@ -323,7 +323,19 @@ Filling each others gaps
 
 
 
-#### why 1790s ####
+#### queer gothics ####
+
+
+
+Queer readings of the 1790s — which is to say, of the Gothic — provide an invigorating way to value some of the most vibrant writing of the decade precisely for the features which rendered it less than “respectable.” [HISTORY OF QUEER GOTHIC STUDIES - Palmer I think, leading up to Franz Potter… this history is prob multiple paras]
+
+
+
+#### I'm not just gothic ####
+
+
+
+Although the queerest work in this period has centred on the Gothic, I intentionally do not limit my focus to the Gothic. My broader scope is, in part, based in an argument about the Gothic’s prevalence: following scholars like [EXAMPLE], I see the Gothic not as a clearly-defined literary genre, but rather as an affective ‘mode’ that can (and did) permeate writing far beyond the realm of supernatural fiction. Accordingly, [although I am interested in the Gothic, I study everything.] [Also I’m not just interested in the gothic.]
 
 
 
@@ -335,27 +347,37 @@ Filling each others gaps
 
 
 
-I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding my research as a kind of reparative work on archives. I hope to locate my project alongside others in the DH field, led by scholars who are seeking to develop less “extractive” and more anti-oppressive digital humanities methodologies
+[“Queer DH” is now a vibrant field in its own right.] [WRITE UP HISTORY / BROAD CATEGORIES OF QUEER DH RESEARCH] I draw on this work in my pursuit of less “extractive” and more anti-oppressive digital humanities methodologies.
 
 
 
-#### humanist critique of DH ####
+#### reparative DH ####
 
 
 
-a humanistic critique of the essentialist tendencies of some work in the field of DH
+[TALK ABOUT WHAT REPARATIVE DH METHODS LOOK LIKE, SOMEHOW] [Examples - TL Cowan, ]
 
 
 
-#### the role of "surprise": pre-recording predictions ####
+#### surprise! ####
 
 
 
-##### Ted Underwood #####
+Thus far, the importance of queer theory to DH is evident. But what about the other direction? Just as, I argue, both DH and bibliography have important resources to offer to each other, so to do I argue that DH has something to offer queer theory. Specifically, a well-formulated DH praxis can introduce a new relationship to the experience of surprise which is so challenging in paranoid reading. The most common dismissals of DH research are attempts to say, “we already knew that” — essentially, [PARANOID AVOIDANCE OF UNPLEASANT SURPRISE FROM DH THREAT]. This reaction invites two responses. First, [if the experiment told us that everything we knew was COMPLETELY WRONG, this would not be very good because probably at least some of what we know is right]. [Experiments fall into two categories: those which tell us about our methods, and those which tell us about our fields of study]. Second, as scholars such as Ted Underwood have noted, it is often only retroactively that these discoveries are declared to be “obvious” results which everyone “already knew” (CITE). If we are asked to form an explicit hypothesis in advance, we might be very surprised by the exact numbers. [CONCLUSION]
 
 
 
 ### all together now! ###
+
+
+
+#### CANONS ####
+
+
+
+“overall, about how texts do or don't 'enter' a 'canon' of writings - by which you mean, as per e.g. Guillory or Bourdieu, and the idea of cultural capital, a set of texts studied, produced, valued (to varying degrees over time) within certain cultural fields, most especially the field of academic research (but also education, modern publishing, creative industries etc). And then your contribution to the many discussions that go on about (and indeed change) canon, is to bring show we can use digital tools to ask and answer that question? I think maybe it is, and if that is the case, then you need to say just that, and that the other issues - timelessness, popularity, marginalization, immediacy, fall out of that larger question”
+
+(This can be a shorter section; write it after the rest?)
 
 
 
