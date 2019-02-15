@@ -145,7 +145,7 @@ The [world of letters? Public sphere? What do I call it?] in England responded t
 
 
 
-Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form, adjudicating between the “right” and “wrong” literatures. [The big one is the gothic!] [EJ Clery] [Michael Gamer] [But these aesthetic debates take on higher stakes due to the political context: corresponding societies] [also somehow Hannah More!!] [it is not neutral, there will be competing narratives, we must accept them all?]
+Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form, adjudicating between the “right” and “wrong” literatures. [The big one is the gothic!] E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news. The “rise” she describes not so much an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatual fiction ‘rises’ when it acquires cultural legitimacy. [Michael Gamer] [But these aesthetic debates take on higher stakes due to the political context: corresponding societies] [also somehow Hannah More!!] [it is not neutral, there will be competing narratives, we must accept them all?]
 
 
 
@@ -271,7 +271,7 @@ Eighteenth century materials of various kinds have been collected in many digita
 
 
 
-[Micro collections seem more scholarly, but have some limitations.] Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. [EXAMPLES OF SPECIALIZED COLLECTIONS.] The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonable aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts. However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from [attention to images — but this isn’t a standard]. By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
+[Micro collections seem more scholarly, but have some limitations.] Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. [EXAMPLES OF SPECIALIZED COLLECTIONS.] The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonable aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts. However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from  [attention to images — but this isn’t a standard]. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf2] [CONTENTS OF PROJECT GUTENBERG.] By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
 
 
 
@@ -279,9 +279,17 @@ Eighteenth century materials of various kinds have been collected in many digita
 
 
 
-The best known mega-archive is, of course, Google Books. In a scholarly context, one hesitates even to designate this as an “archive,” particularly in the same breath as resources like ECCO: [CONTENTS OF GOOGLE BOOKS]. [ERRORS IN GOOGLE BOOKS]. Nonetheless, Google Books is frequently used to study the prevalence of various “n-grams” (words or short phrases) over time. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf2] [CONTENTS OF PROJECT GUTENBERG.] Similar in scope to Google Books but with more limited research tools is the Internet Archive. [CONTENTS OF INTERNET ARCHIVE.] Google Books, Project Gutenberg, and the Internet Archive are not “canonical” sources of texts, but they are nonetheless part of the ecosystem of digital eighteenth century studies.
+The best known mega-archive is, of course, Google Books. In a scholarly context, one hesitates even to designate this as an “archive,” particularly in the same breath as resources like ECCO: books of all kinds are scanned indiscriminately with only the bare minimum of roughly-accurate metadata collected about them. Books are sourced from libraries whose collections are being scanned in bulk, or are submitted directly by publishers or authors who are attracted by Google’s call to “Promote your books on Google—for free” (CITE[^cf3]).   These rapidly-scanned books are prone to unpredictable errors, including inaccurate dates, misspellings, duplicate copies, and inaccurate subject classifications (Harper 2016; Jacsó 2008; Weiss 2016) (CITE Mike Sutton and Mark D. Griffiths) — infamously, many books have “1899” assigned as their publication date because this date was used as a placeholder for “no date”.[^cf4] Many photographed pages still include the fingers of the employee holding open the book. Nonetheless, Google Books is frequently used to study the prevalence of various “n-grams” (words or short phrases) over time, thanks to Google’s built-in tool. The tool is able to search books which are, for copyright restrictions, not available directly to readers, making it highly tempting for question about contemporary language use. Similar in scope to Google Books but with more limited research tools is The Internet Archive. The Internet Archive, unlike Google Books, is a non-profit, but like Google Books, it carries out mass scanning of books. The Internet Archive declares that it contains 20 million books and texts, and scans 1,000 books per day in 28 locations around the world (CITE).[^cf5] Equivalent numbers are not published for Google Books, which has received less attention from Google as it encountered more legal barriers; in 2013 books were scanned at the rate of 1,000 pages per hour, and in 2015 more than 25 million books had been scanned. Google Books, Project Gutenberg, and the Internet Archive are not “canonical” sources of texts, but they are nonetheless part of the ecosystem of digital eighteenth century studies.
 
-Moreover, as in eighteenth century texts themselves, the boundary between “canonical” and “noncanonical” digital archives is a permeable one: Google Books is also being integrated into HathiTrust, [EXPLANATION OF HATHITRUST]. The scholarly benefit of HathiTrust is most evident in the study of contemporary literature. On a technical level, whereas OCR typically produces gibberish when faced with eighteenth century typefaces captured in photographs of microfiche, OCR is extremely effective at reading contemporary typefaces and direct high-resolution digital scans of books. The materials 
+
+
+
+
+#### HathiTrust ####
+
+
+
+Moreover, as in eighteenth century texts themselves, the boundary between “canonical” and “noncanonical” digital archives is a permeable one: Google Books and the Internet Archive are also integrated into HathiTrust, [EXPLANATION OF HATHITRUST]. The scholarly benefit of HathiTrust is most evident in the study of contemporary literature. On a technical level, whereas OCR typically produces gibberish when faced with eighteenth century typefaces captured in photographs of microfiche, OCR is extremely effective at reading contemporary typefaces and direct high-resolution digital scans of books. The materials 
 
 
 
@@ -567,6 +575,22 @@ These basic factual questions, about what is in the various eighteenth century d
 
 
 
+##### Google Books #####
+
+
+
+###### chooses to be bad ######
+
+
+
+Google Books prioritizes low-quality information over no information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
+
+
+
+Per http://languagelog.ldc.upenn.edu/nll/?p=1701 , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily not.
+
+
+
 #### demographics ####
 
 
@@ -819,7 +843,7 @@ The most frequently borrowed books include periodicals, theological textbooks, a
 
 
 
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf3] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
+Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf6] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
 
 
 
@@ -929,4 +953,10 @@ Library of Congress MARC info
 
 [^cf2]: I have heard it quipped more than once in digital humanities gatherings that you always think you’re going to get your texts from somewhere else, but Project Gutenberg is where you’ll actually get them.
 
-[^cf3]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
+[^cf3]: https://books.google.ca/intl/en/googlebooks/partners/
+
+[^cf4]: CITE http://languagelog.ldc.upenn.edu/nll/?p=1701
+
+[^cf5]: https://archive.org/about/
+
+[^cf6]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
