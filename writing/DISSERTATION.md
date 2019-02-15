@@ -41,7 +41,7 @@ So, too, are there many “histories” — or perhaps, narratives — available
 
 
 
-It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. [SUMMARIZE SEDGWICK AND REPARATIVE READING]. Rita Felski, in her recent monograph The Limits of Critique, expands on Sedgwick. [SUMMARIZE FELSKI]. Sedgwick is often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE].
+It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. [SUMMARIZE SEDGWICK AND REPARATIVE READING]. Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” (CITE ch 5). Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE].
 
 
 
@@ -61,7 +61,7 @@ These, then, are the three scholarly conversations to which this dissertation co
 
 
 
-When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. [TRADITIONAL HISTORY OF DH]. [FEMINIST HISTORY OF DH.] As these competing historiographies show, [CONCLUSION TO THIS PARAGRAPH.]
+When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. [TRADITIONAL HISTORY OF DH]. [FEMINIST HISTORY OF DH.] As these competing historiographies show, much more is at stake than mere description, when certain methodologies are named as “digital humanities.” [CONCLUSION TO THIS PARAGRAPH.]
 
 
 
@@ -77,7 +77,7 @@ The central contention of my computational praxis is that, despite the aura of e
 
 
 
-This dissertation will, nonetheless, make use of digital tools, algorithms, “data”, and data visualizations to carry out its inquiry. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A, accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools — sufficient for another to replicate my work — is provided in Appendix B. These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means confined to the appendices. [CONCLUSION].
+This dissertation will, nonetheless, make use of digital tools, algorithms, “data”, and data visualizations to carry out its inquiry. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A, accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools — sufficient for another to replicate my work — is provided in Appendix B. These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means confined to the appendices. Computation is not a “black box” to be consulted for simple answers, but an inextricable from my reasoning and argument.
 
 
 
@@ -137,7 +137,7 @@ All of these [capta, samples, algorithms, models, and self-reflective methodolog
 
 
 
-The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison [MATCHES LITERARY HISTORY TOO.] Each literary ‘mode’ was imbued with the potential for national importance. [WRITE ABOUT IMPORTANCE OF READING/WRITING TO NATIONAL IDENTITY —> CONCLUSION.]
+The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between empiricist or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes. Each literary ‘mode’ was imbued with the potential for national importance. [WRITE ABOUT IMPORTANCE OF READING/WRITING TO NATIONAL IDENTITY —> CONCLUSION.]
 
 
 
@@ -191,7 +191,7 @@ My synthesizing approach [SAYS SOMETHING THAT WRITING PREVIOUS PARAS WILL CLARIF
 
 
 
-On the broadest level, my primary theoretical framework is that of reparative reading. I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH & 1790s)].
+On the broadest level, my primary theoretical framework is that of reparative reading. I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [Felski’s neophenomenology in Everyday Aesthetics]   [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH & 1790s)].
 
 
 
@@ -199,7 +199,7 @@ On the broadest level, my primary theoretical framework is that of reparative re
 
 
 
-Latent in [<- LESS PARANOID PHRASING?] my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that [history consists of major discontinuities in individual psychology/ontology, as Foucault describes.] [I follow Judith Butler in understanding these historically-[constrained] identities as being “performative,” actively re-created in conversation between self and others.] [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [ALSO SUSAN SONTAG.] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
+Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. [I follow Judith Butler in understanding these historically-[constrained] identities as being “performative,” actively re-created in conversation between self and others.] [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [ALSO SUSAN SONTAG.] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
 
 
 
@@ -212,6 +212,10 @@ My search for other ways of relating to literature has also led me to emerging w
 
 
 ### conclusion ###
+
+
+
+Surface reading and reparative meaning are not synonymous modes: Felski, at the forefront of reparative reading, explicitly distances herself from surface reading “I have no quarrel with interpretation, even though I favor description; nor am I drawn to a language of textual surfaces over depths” (CITE).
 
 
 
@@ -325,7 +329,7 @@ Thus, I see DH and bibliography as able to enhance each other reciprocally.
 
 
 
-Queer readings of the 1790s — which is to say, of the Gothic — provide an invigorating way to value some of the most vibrant writing of the decade precisely for the features which rendered it less than “respectable.” [HISTORY OF QUEER GOTHIC STUDIES - Palmer I think, leading up to Franz Potter… this history is prob multiple paras]
+Queer readings of the 1790s — which is to say, of the Gothic — provide an invigorating way to value some of the most vibrant writing of the decade precisely for the features which rendered it less than “respectable.” [HISTORY OF QUEER GOTHIC STUDIES - Palmer I think, leading up to Franz Potter… this history is prob multiple paras] [A lot of really good Gothic work is connected thematically rather than strictly chronologically, examining the “transtemporal affinities and connections” (CITE) that Felski argues are often shut out by contemporary historicist critique. And indeed, this mode of study is falling out of favour regarding the Female Gothic.]
 
 
 
@@ -354,6 +358,10 @@ Although the queerest work in this period has centred on the Gothic, I intention
 
 
 [TALK ABOUT WHAT REPARATIVE DH METHODS LOOK LIKE, SOMEHOW] [Examples - TL Cowan, ]
+
+
+
+By marrying “surface reading” and “distant reading” I may seem to leave “reparative reading” behind: after all, Felski’s call for postcritical analysis explicitly insists, “Sometimes serious thinking calls for a judicious decrease rather than and increase of distance” (CITE). Felski then defines a decrease of distance as “a willingness to acknowledge and more fully engage our attachments”: it is in this readiness to acknowledge and embrace the [DETAILS OF SOMETHING-SOMETHING]
 
 
 
