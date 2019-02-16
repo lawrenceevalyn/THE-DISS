@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-15 03:58:06 -0500" ModID="FDCCD717-828B-4822-B601-F2651374E566">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-16 02:30:32 -0500" ModID="913680A1-C0BA-410F-BF78-2C2440E54432">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -110,7 +110,7 @@
                                         <TextSelection>375,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="339D43EF-9044-4EF3-901E-B5FFD4894819" Type="Text" Created="2019-02-09 21:19:10 -0500" Modified="2019-02-09 21:31:58 -0500">
+                                <BinderItem UUID="339D43EF-9044-4EF3-901E-B5FFD4894819" Type="Text" Created="2019-02-09 21:19:10 -0500" Modified="2019-02-16 01:50:58 -0500">
                                     <Title>code is not neutral</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -120,27 +120,37 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7BFFE9AF-2716-420F-A6F8-6373A0C05307" Type="Text" Created="2019-02-09 21:31:21 -0500" Modified="2019-02-14 19:18:47 -0500">
+                                <BinderItem UUID="7BFFE9AF-2716-420F-A6F8-6373A0C05307" Type="Text" Created="2019-02-09 21:31:21 -0500" Modified="2019-02-16 01:49:10 -0500">
                                     <Title>my methods</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>747,0</TextSelection>
+                                        <TextSelection>742,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7324EC31-23CB-4BC9-9A03-8CF62A5D027E" Type="Text" Created="2019-02-09 21:55:08 -0500" Modified="2019-02-09 22:02:42 -0500">
+                                <BinderItem UUID="7324EC31-23CB-4BC9-9A03-8CF62A5D027E" Type="Text" Created="2019-02-09 21:55:08 -0500" Modified="2019-02-16 02:29:51 -0500">
                                     <Title>capta</Title>
                                     <MetaData>
-                                        <LabelID>9</LabelID>
+                                        <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>316,0</TextSelection>
+                                        <TextSelection>1617,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="A3F2902B-6E53-4284-8B8C-A4A33CD56D07" Type="Text" Created="2019-02-09 21:57:24 -0500" Modified="2019-02-09 22:03:12 -0500">
+                                <BinderItem UUID="5FE773B6-2E26-40DA-B273-C5A6729E030A" Type="Text" Created="2019-02-16 02:29:36 -0500" Modified="2019-02-16 02:29:51 -0500">
+                                    <Title>data viz</Title>
+                                    <MetaData>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1105,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A3F2902B-6E53-4284-8B8C-A4A33CD56D07" Type="Text" Created="2019-02-09 21:57:24 -0500" Modified="2019-02-16 02:30:17 -0500">
                                     <Title>critical algorithm studies</Title>
                                     <MetaData>
                                         <LabelID>9</LabelID>
@@ -168,16 +178,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1149,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="D8543F8C-2FF1-47ED-BC0D-F3BB58499A2D" Type="Text" Created="2019-02-09 22:16:38 -0500" Modified="2019-02-09 22:21:19 -0500">
-                                    <Title>data viz</Title>
-                                    <MetaData>
-                                        <LabelID>9</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>427,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1153,6 +1153,15 @@
                         <TextSelection>1866,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="0451CFFB-4EA5-40C9-877A-A30DD312ECFF" Type="Text" Created="2019-02-16 01:45:08 -0500" Modified="2019-02-16 01:45:45 -0500">
+                    <Title>Record Methology</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>186,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E" Type="ResearchFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-03-25 00:48:04 -0400">
@@ -1210,40 +1219,42 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="59CC1AA5-F325-427D-896F-F3C0A0A8C1CC" Type="Text" Created="2019-02-15 03:43:14 -0500" Modified="2019-02-15 03:43:17 -0500">
-                    <Title>Google Books</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="0F7CBBFF-6C60-4D7B-97B7-402601EEDFE8" Type="Text" Created="2019-02-15 03:14:14 -0500" Modified="2019-02-15 03:14:18 -0500">
-                    <Title>HathiTrust</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
                     <Children>
-                        <BinderItem UUID="3A49A653-8977-440A-8EBC-9D5DF76B2F2C" Type="Text" Created="2019-02-15 03:14:19 -0500" Modified="2019-02-15 03:14:57 -0500">
+                        <BinderItem UUID="59CC1AA5-F325-427D-896F-F3C0A0A8C1CC" Type="Text" Created="2019-02-15 03:43:14 -0500" Modified="2019-02-15 03:43:17 -0500">
+                            <Title>Google Books</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>263,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="FE00F004-4390-4CA7-AA0D-85150266BB2B" Type="Text" Created="2019-02-15 03:42:03 -0500" Modified="2019-02-15 03:43:52 -0500">
+                        <BinderItem UUID="0F7CBBFF-6C60-4D7B-97B7-402601EEDFE8" Type="Text" Created="2019-02-15 03:14:14 -0500" Modified="2019-02-15 03:14:18 -0500">
+                            <Title>HathiTrust</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>358,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="3A49A653-8977-440A-8EBC-9D5DF76B2F2C" Type="Text" Created="2019-02-15 03:14:19 -0500" Modified="2019-02-15 03:14:57 -0500">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>263,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FE00F004-4390-4CA7-AA0D-85150266BB2B" Type="Text" Created="2019-02-15 03:42:03 -0500" Modified="2019-02-15 03:43:52 -0500">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>358,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1520,7 +1531,16 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18,100</TextSelection>
+                                <TextSelection>18,9</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ACE610E1-E420-425A-8471-99DC632FAEEB" Type="Text" Created="2019-02-16 01:35:19 -0500" Modified="2019-02-16 01:36:45 -0500">
+                            <Title>Drucker, Humanities Approaches to Graphical Display</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="91579698-5FC1-40E2-8D42-F3693CBB1B4E" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-12-08 16:12:48 -0500">
@@ -6277,6 +6297,25 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="4A55F65A-A0FC-49E1-A26D-A30DA5B98407" Type="Text" Created="2019-02-16 01:44:28 -0500" Modified="2019-02-16 01:44:37 -0500">
+                    <Title>Appendix C: design rationale</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D8543F8C-2FF1-47ED-BC0D-F3BB58499A2D" Type="Text" Created="2019-02-09 22:16:38 -0500" Modified="2019-02-09 22:21:19 -0500">
+                    <Title>data viz</Title>
+                    <MetaData>
+                        <LabelID>9</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,427</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -6334,14 +6373,14 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-03-01 02:21:51 -0500" IgnoreDeadline="No">12500</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="ProjectClose" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">340</SessionTarget>
-        <PreviousSession Words="384" Characters="2533" Date="2019-02-15 03:01:11 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="ProjectClose" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">337</SessionTarget>
+        <PreviousSession Words="341" Characters="2320" Date="2019-02-16 00:00:19 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-02-15 00:00:00 -0500">
-        <DraftWordCount>384</DraftWordCount>
-        <DraftCharCount>2533</DraftCharCount>
-        <OtherWordCount>185</OtherWordCount>
-        <OtherCharCount>1304</OtherCharCount>
+    <RecentWritingHistory Date="2019-02-16 00:00:00 -0500">
+        <DraftWordCount>341</DraftWordCount>
+        <DraftCharCount>2320</DraftCharCount>
+        <OtherWordCount>248</OtherWordCount>
+        <OtherCharCount>1685</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
