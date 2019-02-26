@@ -41,7 +41,7 @@ So, too, are there many “histories” — or perhaps, narratives — available
 
 
 
-It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. [SUMMARIZE SEDGWICK AND REPARATIVE READING]. Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” (CITE ch 5). Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE].
+It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism. “Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” (CITE ch 5) \cite{Felski:z11z1lQx}. Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE - DH somehow?]. 
 
 
 
@@ -145,7 +145,23 @@ The [world of letters? Public sphere? What do I call it?] in England responded t
 
 
 
-Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form, adjudicating between the “right” and “wrong” literatures. [The big one is the gothic!] E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news. The “rise” she describes not so much an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatual fiction ‘rises’ when it acquires cultural legitimacy. [Michael Gamer] [But these aesthetic debates take on higher stakes due to the political context: corresponding societies] [also somehow Hannah More!!] [it is not neutral, there will be competing narratives, we must accept them all?]
+Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form, adjudicating between the “right” and “wrong” literatures. The “wrong” literature might be rejected as politically inflammatory, or ‘lowbrow’ and unrefined, or over-popular with women — or, as in the case of the Gothic, all of these at once. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news. The “rise” she describes is not so much an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatual fiction ‘rises’ when it acquires cultural legitimacy. [Michael Gamer] [But these aesthetic debates take on higher stakes due to the political context: corresponding societies] [also somehow Hannah More!!] [it is not neutral, there will be competing narratives, we must accept them all?]
+
+
+
+#### cite someone re: canons? ####
+
+
+
+“as per e.g. Guillory or Bourdieu, and the idea of cultural capital, a set of texts studied, produced, valued (to varying degrees over time)”
+
+
+
+### more similar than different ###
+
+
+
+All of these schools of writing are, I argue, more similar than they are distinct, in the print marketplace of the 1790s. Which is to say, all of these individual writers are choosing strategies from the same pool of constrained choices. [Gothic strategies - Gamer] [Corresponding society strategies] [Poetic strategies - Mary Robinson] [Hannah More] [CONCLUSION: have to deal with everything at once; individuals, variety]
 
 
 
@@ -164,14 +180,6 @@ John Mee silently defines “print, publicity, and popular radicalism” as bein
 my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
 
 Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.
-
-
-
-### more similar than different ###
-
-
-
-All of these schools of writing are, I argue, more similar than they are distinct, in the print marketplace of the 1790s. Which is to say, all of these individual writers are choosing strategies from the same pool of constrained choices. [Gothic strategies - Gamer] [Corresponding society strategies] [Poetic strategies - Mary Robinson] [Hannah More] [CONCLUSION: have to deal with everything at once; individuals, variety]
 
 
 
@@ -199,7 +207,7 @@ On the broadest level, my primary theoretical framework is that of reparative re
 
 
 
-Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. [I follow Judith Butler in understanding these historically-[constrained] identities as being “performative,” actively re-created in conversation between self and others.] [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [ALSO SUSAN SONTAG.] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
+Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. I follow Judith Butler in understanding these historically-framed identities as being “performative,” actively re-created in conversation between self and others. [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
 
 
 
@@ -271,7 +279,9 @@ Eighteenth century materials of various kinds have been collected in many digita
 
 
 
-[Micro collections seem more scholarly, but have some limitations.] Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. [EXAMPLES OF SPECIALIZED COLLECTIONS.] The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonable aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts. However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from  [attention to images — but this isn’t a standard]. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf3] [CONTENTS OF PROJECT GUTENBERG.] By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
+[Micro collections seem more scholarly, but have some limitations.] Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. Some will focus on particular kinds of texts, such as the Early Novels Database (2,041 novels 1700-1799) or Broadside Ballads Online (more than 30,000 broadside ballads). Others exhaustively index particular publications, such as The Hampshire Chronicle, the Index to the Lady’s Magazine (1770 to 1818), or the Novels Reviewed Database (1,836 reviews from The Critical Review and The Monthly Review, 1790-1820). Feminist scholarship in particular has seen the creation of resources like the Orlando Project, the Chawton House library Novels Online, Northeastern University’s Women Writers Online and UC Davis’s British Women Romantic Poets. The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonably aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts.
+
+However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from  [attention to images — but this isn’t a standard]. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf3] Unlike Google Books, Project Gutenberg actually does have selection criteria: it is only interested in public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
 
 
 
@@ -338,6 +348,14 @@ Thus, I see DH and bibliography as able to enhance each other reciprocally.
 
 
 Queer readings of the 1790s — which is to say, of the Gothic — provide an invigorating way to value some of the most vibrant writing of the decade precisely for the features which rendered it less than “respectable.” [HISTORY OF QUEER GOTHIC STUDIES - Palmer I think, leading up to Franz Potter… this history is prob multiple paras] [A lot of really good Gothic work is connected thematically rather than strictly chronologically, examining the “transtemporal affinities and connections” (CITE) that Felski argues are often shut out by contemporary historicist critique. And indeed, this mode of study is falling out of favour regarding the Female Gothic.]
+
+
+
+#### reparative gothic ####
+
+
+
+[A lot of queer Gothic work has been paranoid] [Something about Susan Sontag & camp being how I reparatively read the Gothic?]
 
 
 
