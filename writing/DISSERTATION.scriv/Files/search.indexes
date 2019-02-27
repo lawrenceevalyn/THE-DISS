@@ -642,12 +642,12 @@ U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslse
 	•	“My aim here has been to suggest that not just the need to tackle great problems but also curiosity’s latest historical moment are with us, that becoming interdisciplinary both rides the urge to know and struggles to hang on against the possibility of being thrown by it. I have put great emphasis on faithfulness to a discipline’s self‐ understanding as countermeasure to solipsism, but at the same time the well‐attested history of fruitful poaching cannot be denied.” 
 </Text>
         </Document>
-        <Document ID="02498A97-F711-45A8-AA5D-A2668A3399E4">
-            <Title>ch ? - celebrity</Title>
-        </Document>
         <Document ID="0451CFFB-4EA5-40C9-877A-A30DD312ECFF">
             <Title>Record Methology</Title>
             <Text>It is almost impossible to remember exactly how things were done, after the fact— ‘liveblog’ my research methods in the research log, so I have records. That’s what the log is there for!</Text>
+        </Document>
+        <Document ID="02498A97-F711-45A8-AA5D-A2668A3399E4">
+            <Title>ch ? - celebrity</Title>
         </Document>
         <Document ID="9F148578-4C06-4A31-9742-52B2CAB56556">
             <Title>Wordsworth Heart-Leap Well</Title>
@@ -1281,7 +1281,7 @@ More accomplishes her stunning volume of work partly by being a publisher as muc
         </Document>
         <Document ID="5E813941-0BA8-4EE8-8934-51174778172A">
             <Title>reparative reading</Title>
-            <Text>It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism. “Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” (CITE ch 5). Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE - DH somehow?].</Text>
+            <Text>It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism. “Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” (CITE ch 5) \cite{Felski:z11z1lQx}. Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE - DH somehow?]. </Text>
         </Document>
         <Document ID="79560E49-BB3F-4CAD-B1A0-0DDFAA89243C">
             <Title>John Mee's book</Title>
@@ -1959,6 +1959,16 @@ The first chapter thus introduces my decade of interest and the materials and pe
             <Title>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing</Title>
             <Text>Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing as Recursive Agency in the Long Eighteenth Century.” Romanticism and Victorianism on the Net 57-8 (2010). Web. 
 Algee-Hewitt undertakes a computational analysis of a large volume of eighteenth-century works that themselves express alarm at the rising volume of texts being produced in the eighteenth century, to find an emerging consensus that written texts had the power to affect not only their readers, but also other texts. Algee-Hewitt thus provides a model for using computational methods to narrow down an enormous field to a new body of texts (or text extracts) which can then be informatively close-read in response to a research question.</Text>
+        </Document>
+        <Document ID="105C7FDF-22BA-4257-B0CB-E9C6EED30987">
+            <Title>How to Do Citations</Title>
+            <Text>Use command-shift-C to call up Papers 3 and search for the item I want to cite
+Use this to insert text like \cite{Sedgwick:2015up}
+Add a page number by typing p.# in the citekey like so: \cite{Sedgwick:2015up p.25}
+When the entire document is done, compile to RTF format
+Open the RTC in Word
+Use command-shift-C to call up the citation window, and this time “format citations” will be an option.
+Use it!</Text>
         </Document>
         <Document ID="FF3B4B58-0F9D-496C-91D2-72020FE104DE">
             <Title>ballads</Title>
