@@ -89,7 +89,7 @@ My attention to the sources of digital knowledge creation comes from Johanna Dru
 
 
 
-Additionally, all of the figures presented in this dissertation are of my own design. My design vocabulary is drawn from the work of Edward Tufte and Alberto Cairo, both of whom provide practical design advice in service of demystifying the visual rhetoric by which graphs present their arguments. Neither Tufte nor Cairo is a scholar of media studies; rather, they are professional practitioners of ‘data visualization’ who reflect critically on the assumptions of their work. Tufte’s work primarily strives to correct badly-designed data visualizations, and the dangerous decisions that bad design can lead people to. His most famous example is an analysis of the scientists’ report at NASA which led to the ill-fated launch of the Challenger space shuttle in 1986: as his extensive visual analysis argues, the scientists (untrained in graphic design) unintentionally obfuscated crucial information about the day’s launch conditions. Tufte’s six principles of design[^cf2] primarily seek to guide undertrained designers away from misleading themselves. Cairo, following on Tufte’s work from the perspective of a data scientist rather than a pure designer, more often turns his attention to successful designs which mislead their audiences intentionally. [MORE ON CAIRO] Following in both Tufte and Cairo’s footsteps, I conceive of the figures throughout this dissertation as rhetorical devices. In service of arguing honestly, therefore, my designs are accompanied by explanations of my design rationale.
+Additionally, all of the figures presented in this dissertation are of my own design. My design praxis is informed by the work of Edward Tufte and Alberto Cairo, both of whom provide practical design advice in service of demystifying the visual rhetoric by which graphs present their arguments.[^cf2] Neither Tufte nor Cairo is a scholar of media studies; rather, they are professional practitioners of ‘data visualization’ who reflect critically on the assumptions of their work. Tufte’s work primarily strives to correct badly-designed data visualizations, and the dangerous decisions that bad design can lead people to. His most famous example is an analysis of the scientists’ report at NASA which led to the ill-fated launch of the Challenger space shuttle in 1986: as his extensive visual analysis argues, the scientists (untrained in graphic design) unintentionally obfuscated crucial information about the day’s launch conditions \cite{Tufte:2001vw}. Tufte’s six principles of design[^cf3] primarily seek to guide undertrained designers away from misleading themselves. Cairo, following on Tufte’s work from the perspective of an active journalist, more often turns his attention to successful designs which mislead their audiences intentionally. His forthcoming book, How Charts Lie, addresses the readers of infographics with insights into visual literacy \cite{Cairo:2019uf}. His preceding book, The Truthful Art, addresses the creators of good-faith infographics with insights into visual manipulation \cite{Cairo:2016uv}. Cairo draws a distinction between “data visualization” and “infographics”: “an infographic tells the stories that its designer wants to explain, but a data visualization lets people build their own insights based on the evidence provided,” summarized more succinctly as “infographics to explain, data visualizations to explore” \cite{Cairo:2014tl}. Using this terminology, my argument will proceed with infographics in the body of the dissertation as curated figures to support my argument, with fuller data visualizations available in Appendix C: Data to allow further exploration. Following in both Tufte and Cairo’s footsteps, I conceive of the figures throughout this dissertation as rhetorical devices. In service of arguing honestly, therefore, my designs — in the body of the dissertation and in Appendix C — are accompanied by footnoted explanations of my design rationale. 
 
 
 
@@ -97,7 +97,7 @@ Additionally, all of the figures presented in this dissertation are of my own de
 
 
 
-My emphasis on transparent, critical, and reflective praxis in the capture and visual presentation of data[^cf3] owes much to the emerging field of critical algorithm studies. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms [ARE IMPORTANTLY DIFFERENT FROM] “algorithms” implemented by humans The emerging field of critical algorithm studies thus responds to an urgent need. [Extended summary of Safiya Noble]. [Write about Wendy Chun too] [EXAMPLE ALGORITHM FROM MY MATERIALS] [Conclusion: I am indebted to the ‘digital cultural studies’ scholars for giving me tools/lenses for my work….?]
+My emphasis on transparent, critical, and reflective praxis in the capture and visual presentation of data[^cf4] owes much to the emerging field of critical algorithm studies. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms [ARE IMPORTANTLY DIFFERENT FROM] “algorithms” implemented by humans The emerging field of critical algorithm studies thus responds to an urgent need. [Extended summary of Safiya Noble]. [Write about Wendy Chun too] [EXAMPLE ALGORITHM FROM MY MATERIALS] [Conclusion: I am indebted to the ‘digital cultural studies’ scholars for giving me tools/lenses for my work….?]
 
 
 
@@ -125,7 +125,7 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 
 
 
-All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf4] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND]. [CONCLUSION: an environment which felt like it was on the edge of history]
+All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf5] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND]. [CONCLUSION: an environment which felt like it was on the edge of history]
 
 
 
@@ -141,7 +141,7 @@ The [world of letters? Public sphere? What do I call it?] in England responded t
 
 
 
-Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form. John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993uc p.viii}; the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993uc p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms. Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \cite{Clery:HFvEup7z}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled romanticism’s own rise \cite{Gamer:jX8nTxB-}. In Romanticism and the Gothic: Genre, Reception, and Canon Formation, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily uses Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is not literature, in order to better understand why it is not.
+Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form. John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993ve p.viii}; the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993ve p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms. Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \cite{Clery:HFvEup7z}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled romanticism’s own rise \cite{Gamer:jX8nTxB-}. In Romanticism and the Gothic: Genre, Reception, and Canon Formation, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily uses Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is not literature, in order to better understand why it is not.
 
 
 
@@ -273,7 +273,7 @@ Eighteenth century materials of various kinds have been collected in many digita
 
 Smaller collections seem more scholarly, but have some limitations.] Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. Some will focus on particular kinds of texts, such as the Early Novels Database (2,041 novels 1700-1799) or Broadside Ballads Online (more than 30,000 broadside ballads). Others exhaustively index particular publications, such as The Hampshire Chronicle, the Index to the Lady’s Magazine (1770 to 1818), or the Novels Reviewed Database (1,836 reviews from The Critical Review and The Monthly Review, 1790-1820). Feminist scholarship in particular has seen the creation of resources like the Orlando Project, the Chawton House library Novels Online, Northeastern University’s Women Writers Online and UC Davis’s British Women Romantic Poets. The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonably aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts.
 
-However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from  [attention to images — but this isn’t a standard]. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf5] Unlike Google Books, Project Gutenberg actually does have selection criteria: it is only interested in public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
+However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from  [attention to images — but this isn’t a standard]. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf6] Unlike Google Books, Project Gutenberg actually does have selection criteria: it is only interested in public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
 
 
 
@@ -281,7 +281,7 @@ However, as is inevitable, these specialized archives have the vices of their vi
 
 
 
-The best known mega-archive is, of course, Google Books. In a scholarly context, one hesitates even to designate this as an “archive,” particularly in the same breath as resources like ECCO: books of all kinds are scanned indiscriminately with only the bare minimum of roughly-accurate metadata collected about them. Books are sourced from libraries whose collections are being scanned in bulk, or are submitted directly by publishers or authors who are attracted by Google’s call to “Promote your books on Google—for free” (CITE[^cf6]).   These rapidly-scanned books are prone to unpredictable errors, including inaccurate dates, misspellings, duplicate copies, and inaccurate subject classifications (Harper 2016; Jacsó 2008; Weiss 2016) (CITE Mike Sutton and Mark D. Griffiths) — infamously, many books have “1899” assigned as their publication date because this date was used as a placeholder for “no date”.[^cf7] Many photographed pages still include the fingers of the employee holding open the book. Nonetheless, Google Books is frequently used to study the prevalence of various “n-grams” (words or short phrases) over time, thanks to Google’s built-in tool. The tool is able to search books which are, for copyright restrictions, not available directly to readers, making it highly tempting for question about contemporary language use. Similar in scope to Google Books but with more limited research tools is The Internet Archive. The Internet Archive, unlike Google Books, is a non-profit, but like Google Books, it carries out mass scanning of books. The Internet Archive declares that it contains 20 million books and texts, and scans 1,000 books per day in 28 locations around the world (CITE).[^cf8] Equivalent numbers are not published for Google Books, which has received less attention from Google as it encountered more legal barriers; in 2013 books were scanned at the rate of 1,000 pages per hour, and in 2015 more than 25 million books had been scanned. Google Books, Project Gutenberg, and the Internet Archive are not “canonical” sources of texts, but they are nonetheless part of the ecosystem of digital eighteenth century studies.
+The best known mega-archive is, of course, Google Books. In a scholarly context, one hesitates even to designate this as an “archive,” particularly in the same breath as resources like ECCO: books of all kinds are scanned indiscriminately with only the bare minimum of roughly-accurate metadata collected about them. Books are sourced from libraries whose collections are being scanned in bulk, or are submitted directly by publishers or authors who are attracted by Google’s call to “Promote your books on Google—for free” (CITE[^cf7]).   These rapidly-scanned books are prone to unpredictable errors, including inaccurate dates, misspellings, duplicate copies, and inaccurate subject classifications (Harper 2016; Jacsó 2008; Weiss 2016) (CITE Mike Sutton and Mark D. Griffiths) — infamously, many books have “1899” assigned as their publication date because this date was used as a placeholder for “no date”.[^cf8] Many photographed pages still include the fingers of the employee holding open the book. Nonetheless, Google Books is frequently used to study the prevalence of various “n-grams” (words or short phrases) over time, thanks to Google’s built-in tool. The tool is able to search books which are, for copyright restrictions, not available directly to readers, making it highly tempting for question about contemporary language use. Similar in scope to Google Books but with more limited research tools is The Internet Archive. The Internet Archive, unlike Google Books, is a non-profit, but like Google Books, it carries out mass scanning of books. The Internet Archive declares that it contains 20 million books and texts, and scans 1,000 books per day in 28 locations around the world (CITE).[^cf9] Equivalent numbers are not published for Google Books, which has received less attention from Google as it encountered more legal barriers; in 2013 books were scanned at the rate of 1,000 pages per hour, and in 2015 more than 25 million books had been scanned. Google Books, Project Gutenberg, and the Internet Archive are not “canonical” sources of texts, but they are nonetheless part of the ecosystem of digital eighteenth century studies.
 
 
 
@@ -435,533 +435,11 @@ material printed in England between January 1, 1789 and December 31, 1799 (inclu
 
 ### chapter conclusion ###
 
-
-
-# THE DISS #
-
-
-
-## proposal intro ##
-
-
-
-Print Politics in the Digital Archive, 1789–99
-
-
-
-My dissertation seeks to determine, in as minute detail as possible, what the print landscape[ TK: Books only, or also serials, periodicals, newspapers, print ephemera (for the 1790s, there are a lot of things like handbills and broadsides in ECCO)? A fairly restrictive definition might be wise …  ] in England 1789-99 was actually like  — in contrast to the version that is presented in filtered and interpreted literary histories, built up by scholars or later generations of writers — and how this print landscape is represented now, in current digital archives[ TK: This will be very valuable, but of course you’re dealing here with a moving target and one subject to sudden transformations as well as gradual / incremental changes. Not sure what the solution is here but it’s something to thing about. Presumably you can’t make this chapter the last thing you do if you need the data for later chapters – or can you?]. My first chapter establishes the vocabulary and theoretical frameworks of the dissertation. Chapter two turns a critical eye on existing digital archives that feature material printed in the 1790s. Chapter three uses these corpora of 1790s literature to examine the idea of “popularity” as it is manifested by print culture. Chapter four introduces a second substantial experiment, a comprehensive mapping of the social networks underlying print production during the decade. Chapter five uses these networks to compare mainstream and non-mainstream printing practices[ TK: NB that you tend to use printing and publishing a bit too interchangeably. Presumably this one should be publishing practices? Print technologies are also changing in this era but that’s a whole different story, not part of yours I would imagine.]. A possible afterword or coda may discuss the role of the Gothic across the textual landscape.
-
-
-
-## ch 2 - archives ##
-
-
-
-Chapter two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives can implicitly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s): simply putting all of this information in one place will be a useful way to review it. Adding a discussion of each archive’s selection criteria will bring it into the realm of a meta-analysis. I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to greater inclusivity. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious whether even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.
-
-
-
-### intro ###
-
-
-
-#### lit review ####
-
-
-
-##### Lesser & Farmer debate #####
-
-
-
-Do these citations with some kind of LaTeX to learn that process
-
-
-
-A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer & Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.”
-
-
-
-Blayney believes that Lesser & Farmer attempt to disprove his “one inescapable fact about printed plays—namely, that they were not the best-selling moneyspinners that so many commentators have evidently believed they should have been” (7). But what really matters to him about identifying the “best-selling moneyspinners” of the day is not the ‘moneyspinning’ — the question of whether, when publisher bought a play, he was making a sound financial decision — but about the cultural centrality of ‘bestsellers’. The total market share of religious texts matters, not because it meant that publishers turned their highest profits off of religious texts, but because “[c]ustomers in early modern bookshops chose to spend far more of their money on religious books than they did on playbooks and other ‘literary’ publications,” evidence of “just how massively important godly books were to early modern readers” (7). Lesser and Farmer do not contradict the importance of religious texts to readers. But, in setting out “not merely to measure comparative popularity but also to explain why and how different kinds of books were published.” (F&L 213), they make the case that books with low market share, books that are not “best-selling,” could nonetheless be “moneyspinners.” Their rebuttal states that “...books could be in high demand even though their reprint rate was low. Likewise, books (such as ballads) could be in high demand even though their profitability per copy was low. And, as seems to have been the case with plays, books could be in high demand even though their market share was low” (F&L 213), but what they leave somewhat unstated is: “in high demand” with whom?
-
-
-
-My own work seeks to examine reprints, but in a more limited fashion than Farmer & Lesser were able to do. Rather than determine the reprint rate of various kinds of fiction, I carry out a Blayney-style examination of pure market share. I seek to identify reprints in order to determine the market share of new versus reprinted material in any given year. 
-
-
-
-##### How do people determine popularity? #####
-
-
-
-	1.	(Reprinting) Simon Bainbridge: best-selling, most-reprinted, most-adapted
-
-	2.	(Assertion) George Taylor: simply asserts that some things are popular
-
-	3.	(Assertion) Peter Murphy: despite promising that his study “examines the tension between the material, economic pressures motivating poetry as an occupation, and traditional notions of the forces of literary history,” Murphy says NOTHING AT ALL about how well, to whom, for how much, etc etc things were sold.
-
-	4.	(Performances) Emmet Kennedy, Marie-Laurence Netter, et al.: number of performances per play (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory)
-
-	5.	(Book history) Cronin: mostly asserts that people are “popular” or “celebrated”; with Erasmus Darwin, supports this by saying that the book The Botanic Garden is beautiful & expensive
-
-	6.	(Editions, reprints, market share, profitability) Lesser & Farmer, Structures of Popularity in the Early Modern Book Trade - “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
-
-	7.	(Market share) Blayney
-
-	8.	(Title counts) MacLeod on the Minerva press — evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
-
-
-
-
-
-##### popularity is actually impossible #####
-
-
-
-It is not, in fact, possible to calculate 
-
-
-
-Without [certain kinds of evidence], as F&L note, “we will never be able to ascertain precisely the “popularity” of various kinds of books… if by popularity we mean something like the modern best-seller lists” (F&L 16)
-
-Would need size of print runs and cost to produce, as well as sale price, and quantity sold.
-
-[So it’s a little nonsense when people just say that something is popular]
-
-
-
-##### Numbers to compare to #####
-
-
-
-Comedies vs tragedies performed: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)
-
-
-
-#### corpora ####
-
-
-
-##### selection criteria #####
-
-
-
-The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in England, between the years 1789-99. 
-
-I exclude databases of diaries or correspondence, since they are not printed. This has the effect of excluding single-author databases.
-
-
-
-###### women's archives ######
-
-
-
-I make an exception for archives which specifically seek to address gaps in archival holdings due to systemic bias, that is, three archives focused on women’s writing: Orlando, Chawton, and [I thought there was a third one].
-
-For the most part archives are either comprehensive and have significantly more than 100 texts, or they are single-author / single-researcher focused, and thus have significantly less than 100. These kinds of reparative projects occupy the middle space.
-
-
-
-##### these are all databases #####
-
-
-
-The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
-
-
-
-What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
-
-A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
-
-Another approach is to ignore the categories and use things like topic modelling; relies on a more intimate knowledge of the information being studies (i.e., humanities expertise)
-
-
-
-##### so what? #####
-
-
-
-These basic factual questions, about what is in the various eighteenth century digital corpora that represent “mass” 18thC holdings for scholars, matter because []. Even though the specific numbers are likely to change as these digital holdings are continuously updated, my investigation of an archive “snapshot” matters because [they show how questions of fact can (and cannot) be answered?]
-
-
-
-##### Google Books #####
-
-
-
-###### chooses to be bad ######
-
-
-
-Google Books prioritizes low-quality information over no information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
-
-
-
-Per http://languagelog.ldc.upenn.edu/nll/?p=1701 , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily not.
-
-
-
-#### demographics ####
-
-
-
-##### titles per year #####
-
-
-
-##### men vs women vs unsigned #####
-
-
-
-Can I identify male/female ratios?
-
-
-
-### reprints ###
-
-
-
-#### methods ####
-
-
-
-Before I develop custom code, I establish some baselines by taking a random sample of 100 titles from each of my key corpora. I manually identify the original publication date of each title, and whether that title appears reprinted elsewhere in the corpus.
-
-
-
-As I expand to algorithmically examine the full corpora, I start with the simplest/dumbest way to identify a reprint: looking on its title page for the words “Xth edition.”
-
-If this method achieves an accuracy of 85%+ (as determined by comparison to my random sample) I won’t bother with trying to fuzzy-match titles?
-
-Then next step is to identify which of these reprinted works are multi-reprints of the same work, which will require some kind of fuzzy title matching… unless it’s small enough for me to do manually (unlikely)
-
-
-
-##### taking samples #####
-
-
-
-First, I make sure the data is “clean” and comparable to all the others:
-
-- Jan 1 1789 to Dec 31 1799
-
-- ENGLAND ONLY, no Ireland or Scotland
-
-- With ECCO, make sure I don’t have duplicate entries
-
-
-
-I get a count of how many titles are in the corpus.
-
-
-
-I use random.org to get 100 randomly-generated numbers. I use the “sequence” generator, not the “integer” generator.
-
-
-
-#### sample: reprints ####
-
-
-
-Compare most-reprinted texts overall to inclusions in smaller archives
-
-
-
-ESTC
-
-ECCO
-
-ECCO-TCP
-
-
-
-HathiTrust
-
-ProQuest
-
-BL 19thC
-
-
-
-END?
-
-WWO+Chawton combo?
-
-
-
-Gutenberg
-
-Book Tracker
-
-
-
-Google Books??
-
-Internet Archive?
-
-
-
-#### sample: print runs ####
-
-
-
-Take a random sample for which I attempt to locate size of print run
-
-
-
-Radcliffe doesn’t need many editions because her print runs started out large — take a random sample and see if I can find print runs for the works
-
-Compare the popularity order produced by raw edition count to the one normalized by print run — what’s the error rate?
-
-
-
-Ask Tom how to find these numbers (it’s not in databases, but I can read a paper book! — This is one of the things that makes my methodology not 100% DH)
-
-
-
-#### what's "normal"? ####
-
-
-
-Computationally identify reprints in ECCO
-
-Come up with a number that would be a "lot" of reprints vs "not a lot" (to gauge popularity generally)
-
-How old were books, usually? (i.e., how long ago was their first edition)
-
-
-
-#### close read: Paine vs WW vs Blake ? ####
-
-
-
-Paine vs Wordsworth vs Blake? (Vs CSmith and Radcliffe?) How to accord importance to these writers is at the heart of much of this project.
-
-
-
-#### close read: something old? ####
-
-
-
-Any cool “1790s lit” not written in the 1790s? Shakespeare? Goldsmith?
-
-
-
-### topics ###
-
-
-
-#### methods ####
-
-
-
-Develop some kind of ontology of topic that encompasses "everything" (sticking to 18thC frameworks of, e.g., history vs romance)
-
-
-
-##### topic modelling #####
-
-
-
-I turn to topic modelling as a way to move “laterally”: if I can only query attributes which every archive records, I can’t query anything at all.
-
-
-
-#### sample: truthful titles ####
-
-
-
-Take a random sample to see how accurate titles are to contents overall
-
-
-
-#### compare archives ####
-
-
-
-Count how many works of each topic appear in each archive -- what kinds of content has been excluded in each, esp. in ECCO-TCP
-
-
-
-#### what's "normal"? ####
-
-
-
-Make my own guesses as to what the print landscape was like, and what this means (close-read something interesting that emerges, perhaps works that misrepresent their contents)
-
-
-
-#### close read: ? ####
-
-
-
-### conclusions ###
-
-
-
-#### compare archives ####
-
-
-
- Which of these archives are the most "reliable", and which the most "distorted"? (obvs interrogate this framework)
-
-	•	What’s in all these, anyway?
-
-	⁃	What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
-
-	⁃	How do digital vs physical holdings compare?
-
-
-
-#### what's "normal"? ####
-
-
-
-What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
-
-
-
-## ch 3 - archive popularity ##
-
-
-
-Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. Influenced by Lesser and Farmer’s articulation of “structures of popularity,” I will consider popularity[ TK: Another tricky one. Might be best to avoid “popularity” unless you’re also going to factor in (as would be very hard) questions like print-runs (a nightmare imponderable), circulation (something aimed at libraries might have many more readers per copy than a book for home), unauthorized newspaper serializations, anthologization (is that a word?), false title pages (where a self-proclaimed 2nd or 10th edition might actually be just a new tp on remaindered sheets of a first edn that hasn’t sold. You could imagine (and this may have happened in practice) a novel published just once in 2,000 copies being more popular than one claiming five editions, none of which may have been more than 500 copies, and some of which may not have been true new editions at all. But which would come up as more popular give your metrics? This is all really tricky stuff and I think you’ll need a thorough discussion of the issues and assumptions.] in terms of total number of editions, frequency of reprinting, and market share.[ Lesser and Farmer also include profitability as one of the four measurements relevant to popularity in the book trade, but profitability is beyond the current scope of this project.] After determining how to calculate each of these metrics, I will ask: what was most popular during the decade, according to my corpora? How do the corpora differ in their answers, and why? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare the publication output of various literary celebrities over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might affect what we define as “popular literature”.
-
-
-
-### consult Reading Experience Database? ###
-
-
-
-The Reading Experience Database contains over 30,000 searchable records documenting the history of reading in Britain from 1450 to 1945. Evidence comes from published and unpublished sources such as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records.
-
-
-
-Combine with Novels Reviewed Database
-
-
-
-Also https://vls.english.qmul.ac.uk/ Dissenting Libraries Online
-
-To find out more about the reading habits of individual borrowers, click on Browse borrowers. Explore the borrowing records of tutors, such as the Baptist Frederick W. Gotch, ministerial students, including Robert Cotton Mather (later a Congregational missionary), and their lay counterparts, such as William Rayner Wood (who became a prominent Unitarian businessman). 
-
-The most frequently borrowed books include periodicals, theological textbooks, and historical works. Click on the links to see lists of the most popular titles at Manchester College, Homerton Academy, or Bristol Baptist Academy.
-
-
-
-## ch 4 - networks ##
-
-
-
-Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work[ TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?] already exists on printing circles, coterie publishing, and individual publishing houses.[^cf9] My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
-
-
-
-### British Book Trade Index ###
-
-
-
-OBVIOUSLY this work should be built on the back of the British Book Trade Index, I can’t BELIEVE nobody told me about it!!
-
-
-
-http://bbti.bodleian.ox.ac.uk/#
-
-https://www.nls.uk/catalogues/scottish-book-trade-index
-
-
-
-## ch 5 - networks popularity ##
-
-
-
-Having recaptured these complex networks in some depth, I can then examine them, in chapter five, for their relation to our current understanding of mainstream and radical — or as I am terming them “mainstream” and “non-mainstream” — printing circles. My network graphs will model individual political affiliation as a complex, socially defined practice rather than a taxonomy of concrete and unchanging ideological stances.[ TK: Excellent point, especially in these fast-changing years. But again, this looks like potentially very daunting. Stable binaries are so much more convenient for scholars to work with! I’m excited to see what you come up with here.] This chapter will look for traces of affiliation in the print practices of publishers and of authors. I will consider individual printers with political allegiances, as in Dissenting societies, radical publishers, correspondence societies. This will then enable me to consider authors’ strategic choices as they publish with different printers[ TK: Again presumably you mean publishers not printers? NB too that the choice could work the other way round: authors for hire being commissioned by publishers to write something suitable for a list. I don’t know much about the Minerva Press, but I imagine that’s the way this kind of publisher would have operated, at least in part.]. Having identified radical elements in the publishing world, I will interrogate the radicals’ claims to marginalization. I suspect that I might find that they were not as socially estranged from the mainstream as they describe themselves, and that their printed works may accordingly have been less marginal. I will discuss alternative print markets and alternative circulation, and what kind of “alternatives” they offer to the mainstream. The circulation of works in manuscript presents me two challenges which will be discussed here. The first challenge is methodological: the circulation of manuscripts clearly occurred, and may have constituted “publication” within social circles, but manuscripts fall outside my purview[ TK: Yes, goodness, yes! You can deal with this via a brief discussion of recent scholarship on the persistence of manuscript culture and association practices e.g. Betty Schellenberg, Aileen Douglas, Michelle Levy, I would have thought.]. This chapter will therefore discuss the nature and rough shape of the gap which the exclusion of manuscript works leaves in my study. The second task of this chapter is more theoretical: as queer and decolonial DH scholars note, there is an ethical choice implicated in the decision to systematically discover, collect, and expose communities which intentionally operated below the notice of state observation. Historical distance prevents me from worrying about causing direct harm through my work, but nonetheless I will critically interrogate my own research practices and contextualize my choices within the horizon of expectations of the radical circles I (and other scholars) expose. Finally, having discussed the networks of radical and mainstream publishing in the 1790s, I will also compare the position of radical publishers in the 1790s with their status in the corpora discussed in chapters two and three (where they may in fact be marginalized; I expect to find conservative works overrepresented in the corpora). Together, these approaches will further complicate the story of popularity which the dissertation challenges elsewhere, by suggesting ways to reassess of the popularity of radical works.
-
-
-
-## coda? - gothic ##
-
-
-
-A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production (assuming that turns out to be true, of course.) Some of my earlier work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. (Importantly, stylometric methods are not able to distinguish a parody of the Gothic from a “real” Gothic; as I theorize and interpret my findings, then, I would take up Horner and Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy.) This final section could use a stylometric approach to identify and then search for “Gothic vocabularies” in full texts, computationally, in order to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? What kinds of literary production are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? This afterword would sketch out a preliminary map of the Gothic in the print world of the 1790s. This closing section would thus cite and build upon my prior work with the Gothic, in the context of the 1790s as a period when the penetration of Gothic modes into mainstream print had particularly complex political stakes.
-
-
-
-## Works Cited ##
-
-
-
-But wait, I want to use LaTeX or some other citation manager for this.
-
-Command-shift-C will call up the Papers citation tool.
-
-\cite{Scheuermann:2001tc}
-
-How can I use this to cite specific page numbers?
-
-
-
-# Acknowledgements #
-
-
-
-SSHRC (OGS?)
-
-ESTC, HathiTrust, U Toronto Libraries (for ECCO metadata)
-
-Alex G, Terry, Tom
-
-Cai, Ashley
-
-Alex + Austin, Alyssa, Jakob, and all the other “civilians”/“innocent bystanders”
-
-Alex StrickVL?? Beeminder? 
-
-OBNS
-
-
-
-# Works Referenced #
-
-
-
-https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm
-
-Library of Congress MARC info
-
-
-
-# Appendix A: codebase #
-
-
-
-# Appendix B: detailed methods #
-
-
-
-## "data cleaning" ##
-
-
-
-### ECCO ###
-
-
-
-My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, on OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and [will] delete empty columns.
-
-ECCO encodes much of its data in “unassigned” columns, rather than the standardized LOC categories.
-
-
-
-
-
-https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm
-
-Library of Congress MARC info
-
 [^cf1]: It may also be the case, of course, that even fields with a long history of graphical display would benefit from greater scrutiny of the evidence they use; see: the Data Dinosaur. But this is beyond the remit of what an English PhD can address.
 
-[^cf2]: 1. show comparisons, contrasts, differences
+[^cf2]: I cite Tufte and Cairo as the thinkers whose design philosophies best accord with my own current understanding of the work and craft of persuasive data visualization, but my actual practical training as a graphic designer is indebted to Judith Galas, Sonia Davis Gutiérrez, and Tom Hapgood.
+
+[^cf3]: 1. show comparisons, contrasts, differences
 	
 	2. show causality, mechanism, explanation, systemic structure (intervention relies on manipulable causality -- can't do anything with the information without causality)
 	
@@ -973,16 +451,14 @@ Library of Congress MARC info
 	
 	6. presentations succeed based on their content. for better presentations, get better content.
 
-[^cf3]: As a recurrent Freudian slip, I have more than once typo’d the word “data” as “danger”
+[^cf4]: As a recurrent Freudian slip, I have more than once typo’d the word “data” as “danger”
 
-[^cf4]: Although these events, of course, did not occur on January 1 or December 31, respectively, the entirety of 1789 and 1799 are both included in my study here, out of sheer technological necessity.
+[^cf5]: Although these events, of course, did not occur on January 1 or December 31, respectively, the entirety of 1789 and 1799 are both included in my study here, out of sheer technological necessity.
 
-[^cf5]: I have heard it quipped more than once in digital humanities gatherings that you always think you’re going to get your texts from somewhere else, but Project Gutenberg is where you’ll actually get them.
+[^cf6]: I have heard it quipped more than once in digital humanities gatherings that you always think you’re going to get your texts from somewhere else, but Project Gutenberg is where you’ll actually get them.
 
-[^cf6]: https://books.google.ca/intl/en/googlebooks/partners/
+[^cf7]: https://books.google.ca/intl/en/googlebooks/partners/
 
-[^cf7]: CITE http://languagelog.ldc.upenn.edu/nll/?p=1701
+[^cf8]: CITE http://languagelog.ldc.upenn.edu/nll/?p=1701
 
-[^cf8]: https://archive.org/about/
-
-[^cf9]: Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment & the book : Scottish authors & their publishers in eighteenth-century Britain, Ireland & America, by Richard B. Sher, to capture different parts of the publishing landscape.
+[^cf9]: https://archive.org/about/
