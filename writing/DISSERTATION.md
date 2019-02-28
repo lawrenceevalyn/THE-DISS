@@ -163,6 +163,14 @@ Because politics occurs between individual people, not political parties, I argu
 
 
 
+### touchstone authors ###
+
+
+
+Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson
+
+
+
 ### conclusion ###
 
 
@@ -423,23 +431,57 @@ Thus far, the importance of queer theory to DH is evident. But what about the ot
 
 
 
-[Having delineated a large and complex scholarly context for this work, it is time, now, to describe [WHAT I ACTUALLY DID]] - save this for after all the rest, may not be necessary
+Having delineated a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to delineate the research born of this context. This dissertation proceeds in two major parts. The first examines the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.
 
 
 
-### my 1790s ###
+### titles ###
 
 
 
-material printed in England between January 1, 1789 and December 31, 1799 (inclusive).
+The first phase of this project takes up titles and databases. Throughout this work, a ‘title’ is the broadest possible umbrella term for a text: it is synonymous with ‘a database entry which I believe to represent a printed work.’ Each individual database will shape the precise correspondences between a ‘title’ and the printed texts about which I use ‘titles’ to reason. For example, it will vary based on my source whether multiple editions of the same work are several ‘titles’ or one ‘title,’ and whether the titles exclusively represent ‘books’ or also include chapbooks, broadsheets, or even ephemera. Due to the inscrutability of digital infrastructure discussed above, it is often not possible for me to know prior to experimentation what kinds of titles I am working with. Chapter two, therefore, two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized.
 
 
 
-### experiment 1 ###
+
+
+#### ch 2 ####
 
 
 
-### experiment 2 ###
+In chapter two, I make the case that digital archives can implicitly shape scholarly research, and begin the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s). I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I research the history of how each corpus was formed. As part of this demystification process, I also discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I discuss the nature of their exclusions, and consider paths to greater inclusivity.  The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.
+
+
+
+#### ch 3 ####
+
+
+
+In chapter three, I synthesize these disparate sources of texts and metadata, to examine popularity as it manifests in print culture. I begin by creating my own ‘superset’ database of all records. I then query this database through random sampling and topic modelling. Both random sampling and topic modelling, as methodologies, allow me to examine information outside of its pre-designed data structures. Random sampling, which Steven Zwicker \cite{Zwicker:2006ck} and Leo Lahti, Niko Ilomäki, and Mikko Tolonen \cite{Lahti:2015dd} have applied successfully to the English Short Title Catalogue’s holdings, makes it feasible to apply a greater level of human scrutiny to a large body of texts. Topic modelling makes it feasible regularize otherwise-disparate materials without imposing a pre-defined ontology. My use of topic modelling differs somewhat from its typical use in literary distant reading, which generally applies topic models to the full text of literary works, and examines topics themselves as proxies for subtle elements of textual content. I model only the titles of works, taking advantage of the eighteenth century’s distinctively rich title conventions.[^cf10] Both of these methods allow me to use my ‘superset’ database to ask questions about 1790s literature itself. Influenced by Lesser and Farmer’s articulation of “structures of popularity,” I consider popularity in terms of total number of editions, frequency of reprinting, and market share. After presenting my proposals for how to calculate each of these metrics, I ask: what was most popular during the decade, according to my corpora? How do the corpora differ in their answers, and why? Many of the most reprinted works substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might affect what we define as “popular literature.”
+
+
+
+### persons ###
+
+
+
+The second phase of the project takes up persons and networks.
+
+
+
+#### ch 4 ####
+
+
+
+Chapter four introduces a mapping of the social world of print production 1789-99. As in chapter two, it is be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work already exists on printing circles, coterie publishing, and individual publishing houses. My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may show one large interconnected network, or several separate networks of varying sizes; these networks may show highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.
+
+
+
+#### ch 5 ####
+
+
+
+Having recaptured these complex networks in some depth, I can then examine them, in chapter five, for their relation to our current understanding of mainstream and radical--or as I am terming them “mainstream” and “non-mainstream”--printing circles. My network graphs will model individual political affiliation as a complex, socially defined practice rather than a set of concrete and unchanging ideological stances. This chapter will look for traces of affiliation in the print practices of publishers and authors. I will consider individual printers with political allegiances, as in Dissenting societies, radical publishers, correspondence societies. This will then enable me to consider authors’ strategic choices as they publish with different printers. Having identified radical elements in the publishing world, I will interrogate the radicals’ claims to marginalization. I suspect that I might find that they were not as socially estranged from the mainstream as they describe themselves, and that their printed works may accordingly have been less marginal. I will discuss alternative print markets and alternative circulation, in context with the print production which they are alternatives to. The circulation of works in manuscript presents me with two challenges which will be discussed here. The first challenge is methodological: the circulation of manuscripts clearly occurred, and may have constituted “publication” within social circles, but manuscripts fall outside my purview. This chapter will therefore discuss the nature and rough shape of the gap which the exclusion of manuscript works leaves in my study. The second task of this chapter is more theoretical: as queer and decolonial DH scholars note, there is an ethical choice implicated in the decision to systematically discover, collect, and expose communities which intentionally operated below the notice of state observation. Historical distance prevents me from worrying about causing direct harm through my work, but nonetheless I will critically interrogate my own research practices and contextualize my choices with the horizon of expectations within the radical circles I expose. Finally, having discussed the networks of radical and mainstream publishing in the 1790s, I will also compare the position of radical publishers in the 1790s with their status in the corpora discussed in chapters two and three (where they may in fact be marginalized; I expect to find conservative works overrepresented in the corpora). Together, these approaches will further complicate the story of popularity which the dissertation challenges elsewhere, by suggesting ways to reassess of the popularity of radical works.
 
 
 
@@ -472,3 +514,5 @@ material printed in England between January 1, 1789 and December 31, 1799 (inclu
 [^cf8]: https://archive.org/about/
 
 [^cf9]: As a recurrent Freudian slip, I have more than once typo’d the word “data” as “danger”
+
+[^cf10]: For example, a typical title in the English Short Title Catalogue for the decade is “The injustice and impolicy of the slave-trade, and of the slavery of the Africans: illustrated in a sermon preached before the Connecticut Society for the Promotion of Freedom, and for the Relief of Persons Unlawfully Holden in Bondage, at their annual meeting in New-Haven, September 15, 1791. / By Jonathan Edwards, D.D. Pastor of a church in New-Haven. ; To which is added, A short sketch of the evidence for the abolition of the slave-trade, delivered before a committee of the British House of Commons.” The usefulness of this title, as an advertisement for (if not necessarily an accurate representative of!) the work’s content, I argue, presents an opportunity unique to the eighteenth century. The eighteenth century is often dismissed as unsuitable for computational distant reading because eighteenth century printed type produces very low-quality OCR transcripts — but a focus on OCR-based distant reading itself seems to me like a response to the poverty of paratextual material in later literature.
