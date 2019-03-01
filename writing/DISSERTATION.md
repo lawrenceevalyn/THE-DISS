@@ -167,7 +167,11 @@ Bainbridge is not alone is taking Walter Scott as a kind of pinnacle, and lookin
 
 
 
-Poetry thus stands in a stark contrast to the volumes of writing which John Mee discusses in Print, Publicity, and Popular Radicalism in the 1790s. Although his title leaves open the possibility that he could consider any kind of writing in print, Mee is concerned solely with the activities of the London Corresponding Society, placed in the context of Romanticism.
+Poetry thus stands in a stark contrast to the volumes of writing which John Mee discusses in Print, Publicity, and Popular Radicalism in the 1790s. Although his title leaves open the possibility that he could consider any kind of writing in print, Mee is concerned solely with the activities of the London Corresponding Society, placed in the context of Romanticism. These writers held a fundamentally different relationship to the print marketplace than the Romantic poets, or even than theatre critics: rather than concerning themselves with distinctions between ‘good’ and ‘bad’ forms of writing or publication, Mee argues, “At certain points the societies seem to operate under the spell of ‘print magic’, that is, a faith that print could liberate mankind simply by bringing ideas into printed circulation” \cite{Mee:2016wk p.24}. This partly shifts to Mee himself the task of assessing whether the texts he studies are ‘literature.’ A partial claim to the status of ‘literature’ is suggested by the participation of his book within the series ‘Cambridge Studies in Romanticism,’ which, he acknowledges “implies an understanding of popular radicalism as a kind of ‘literary’ culture. At least, it argues for the centrality of the writing, production, and circulation of printed texts that took up so much of the time of the radical societies” \cite{Mee:2016wk p.18}. Nonetheless, the book stands independent from “Romanticism and its major poets, novelists, and playwrights” \cite{Mee:2016wk p.18}.
+
+
+
+“this formation and the associated identification of the literary with what John Thelwall called ‘sallies of the imagination’ were the product of a crisis brought on by the emergence of the popular radical culture opened up in this book, but the story is not a straightforward one. Thelwall himself could identify ‘literature’ both with a domain of imagination separable from politics and with print as the principal engine of emancipatory change.” (18)
 
 
 
@@ -179,10 +183,6 @@ Poetry thus stands in a stark contrast to the volumes of writing which John Mee 
 
 
 
-“At certain points the societies seem to operate under the spell of ‘print magic’, that is, a faith that print could liberate mankind simply by bringing ideas into printed circulation.” (24)
-
-
-
 “tracing the way in which print formats and practices were elaborated and tested across different popular radical groups” (26) “How were they to identify and give form to the ‘general will’ of the people?” (26)
 
 “‘the scattered million’ and ‘the people’” (27)
@@ -190,10 +190,6 @@ Poetry thus stands in a stark contrast to the volumes of writing which John Mee 
 
 
 “the role of print personality as a form of mediation, that is, both attacks on personalities by the radical press but also the development of personae by writers and booksellers” (29)
-
-
-
-The ‘but is it literature’ question: “Placing this study within the series ‘Cambridge Studies in Romanticism’ implies an understanding of popular radicalism as a kind of ‘literary’ culture. At least, it argues for the centrality of the writing, production, and circulation of printed texts that took up so much of the time of the radical societies.”(18) Nonetheless, the book stands independent from “Romanticism and its major poets, novelists, and playwrights” (18). “this formation and the associated identification of the literary with what John Thelwall called ‘sallies of the imagination’ were the product of a crisis brought on by the emergence of the popular radical culture opened up in this book, but the story is not a straightforward one. Thelwall himself could identify ‘literature’ both with a domain of imagination separable from politics and with print as the principal engine of emancipatory change.” (18)
 
 
 
