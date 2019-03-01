@@ -1,4 +1,4 @@
-# Next-do: write competent draft of intro ASAP
+# Next-do: write competent draft of intro ASAP!!!
 
 ## Archives in order of priority
 
@@ -22,7 +22,7 @@
 # Thesis Map
 Map of the thesis at this stage:
 1.  Theoretical groundings
-2.  Comparison of digital corpora (write this first)
+2.  Comparison of digital corpora
 3.  Use these corpora to discuss popularity
 4.  Publishing networks
 5.  Use these networks to discuss mainstream / non-mainstream printing (another take on popularity)
@@ -48,6 +48,12 @@ Make sure to select fields / subfields!!!
 load csv in OpenRefine
 
 # Research Log
+
+## February 28, 2019
+
+Generating this chapter at incredible speed is, I think, *working*, but hoo boy is it also a bit bizarre. There's so much to do...!!
+
+I think it would be useful to make an annotated bibliography of all the 18thC monographs I've read -- that might help me pull them together conceptually... I still feel like I hardly know what the field IS or what it's trying to do. I'll try it, anyway-- after I've finished drafting based on what I've got!
 
 ## February 7, 2019
 
