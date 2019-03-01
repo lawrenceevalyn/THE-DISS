@@ -5,51 +5,11 @@ Author: Lawrence Evalyn
 
 
 
-## Intro ##
+## intro ##
 
 
 
-### intro to overall argument ###
-
-
-
-This dissertation seeks to determine, in as minute detail as possible, what the print landscape in England 1789-99 was actually like. It also seeks to explain, in equally minute detail, why this task of historical recovery is, in fact, impossible. [FLESH OUT MY ACTUAL ARGUMENT AND TOPIC]
-
-
-
-### my three fields in one para ###
-
-
-
-#### many definitions of DH ####
-
-
-
-The field of “digital humanities,” now several scholarly generations into its development, has entered the phase in which so many scholars are carrying out “DH” research that no universally-acceptable definition of “DH” can exist. Many definitions are fundamentally methodological. [ADD A COUPLE DEFINITIONS OF DH HERE]. These definitions describe what might be called a “computational humanities.” Other definitions take up the new importance of digitality in daily life. [ADD SOME DIGITAL CULTURAL STUDIES STYLE DEFINITIONS HERE]. This kind of work is increasingly described as “digital cultural studies.” In positioning this work as a “DH” dissertation, I might at first glance seem to belong squarely within the “computational humanities.” To be sure, much of this work is intended to apply existing computational methodologies to conduct otherwise old-fashioned literary research. Several of my contributions, too, are purely methodological in nature, in the development of new code and new guidelines for computational research using particular digital resources. However, as a fuller discussion of Johanna Drucker’s distinction between “data” and “capta” will elucidate later in this chapter, no computational research exists separately from a specific, local, culturally-defined context. Accordingly, my computational research into eighteenth century literature and my development of new computational methodologies are both inevitably tied to “digital culture.” My results often have more to say about contemporary digital archives, and the history of literary record-keeping, than they do about the eighteenth century itself. I therefore rely on an extensive body of work in cultural digital studies to examine not only the eighteenth century, but eighteenth century studies.
-
-
-
-#### many histories of 1790s ####
-
-
-
-So, too, are there many “histories” — or perhaps, narratives — available to describe the 1790s. [FOCUS ON POLITICS]. [FOCUS ON ROMANTICISM]. [FOCUS ON GOTHIC]. [RISE OF THE NOVEL] Of necessity, each of these histories must exclude something. [WHAT EACH EXCLUDES].
-
-
-
-#### reparative reading ####
-
-
-
-It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism \cite{Sedgwick:2015up}. Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” \cite{Felski:z11z1lQx p.151}. Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy. [CONCLUSION HERE - DH somehow?]. 
-
-
-
-### BLUF ###
-
-
-
-These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the theoretical frameworks within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two experiments which drive the dissertation as a whole, situating them within the three fields, and providing a sketch of their development across the dissertation.
+This dissertation in concerned with the mechanism by which texts do or don’t ‘enter’ into ‘canons’ of writings, particularly in the heightened political environment of England in the 1790s. In service of this goal, this dissertation seeks to determine, in as minute detail as possible, what the print landscape in England 1789-99 was actually like. It also seeks to explain, in equally minute detail, why this task of historical recovery is, in fact, impossible. In the process, I show how our persistently perplexing questions about canons can be asked, and answered, in new ways with digital tools. Computational methods, in their close association with ‘big data’, are often advertised as the solution to the problems of scale which are presumed to motivate the formation of selective canons. As my own computational experimentation will reveal, however, computational study more commonly undertakes the same judgment and valuation of texts in ‘canon formation’ and displaces this process onto ‘corpus building.’ It is difficult, when faced with flawed and complex competing narratives, to resist the impulse to simply critique and reject all options. If we may learn any lessons from the 1790s, however, surely one must be the danger of universal paranoia.These, then, are the three scholarly conversations to which this dissertation contributes: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the frameworks of reparative reading within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter will conclude with a description of the two computational experiments which drive the dissertation as a whole, situating them within the three fields, and providing a sketch of their development across the dissertation.
 
 
 
@@ -57,15 +17,11 @@ These, then, are the three scholarly conversations to which this dissertation co
 
 
 
-### many histories of DH ###
+### many definitions of DH ###
 
 
 
-When telling a history of “DH,” one has many histories to choose from, all freighted with different implications for contemporary practice. [TRADITIONAL HISTORY OF DH]. [FEMINIST HISTORY OF DH.] As these competing historiographies show, much more is at stake than mere description, when certain methodologies are named as “digital humanities.” [CONCLUSION TO THIS PARAGRAPH.]
-
-
-
-Ted Underwood’s “Genealogy of Distant Reading” presents a history of “distant reading” which is not for the most part centrally concerned with computers, and therefore fundamentally distinct from concepts of “digital humanities” \cite{Underwood:2017uc}.
+The field of “digital humanities,” now several scholarly generations into its development, has entered the phase in which so many scholars are carrying out “DH” research that no universally-acceptable definition of “DH” can exist. Many definitions are fundamentally methodological. These definitions describe what might be called a “computational humanities.” Other definitions take up the new importance of digitality in daily life. This kind of work is increasingly described as “digital cultural studies.” In positioning this work as a “DH” dissertation, I might at first glance seem to belong squarely within the “computational humanities.” To be sure, much of this work is intended to apply existing computational methodologies to conduct otherwise old-fashioned literary research. Several of my contributions, too, are purely methodological in nature, in the development of new code and new guidelines for computational research using particular digital resources. However, as a fuller discussion of Johanna Drucker’s distinction between “data” and “capta” will elucidate later in this chapter, no computational research exists separately from a specific, local, culturally-defined context. Accordingly, my computational research into eighteenth century literature and my development of new computational methodologies are both inevitably tied to “digital culture.” My results often have more to say about contemporary digital archives, and the history of literary record-keeping, than they do about the eighteenth century itself. I therefore rely on an extensive body of work in cultural digital studies to examine not only the eighteenth century, but eighteenth century studies.
 
 
 
@@ -101,14 +57,6 @@ Additionally, all of the figures presented in this dissertation are of my own de
 
 
 
-### fruitful models/samples ###
-
-
-
-In light of the challenges of “empiricism,” my goal in this dissertation is to produce a series of fruitful models. [Willard McCarty’s descriptive work on the concept of modelling VERBS modelling’s processes of abstraction. ][QUOTES FROM McCARTY] Another way of expressing this might be to borrow from the vocabulary of social science research: I would like to make discoveries about a “population” which is inaccessible to me, namely, “everything printed in England 1789-99.” Since I cannot access this population in full, I have taken a series of “samples,” which I hope to be representative; each sample can be examined as evidence of the makeup of the source population, but must also be examined in and of itself as a sample. [therefore, not attempting ‘accuracy’] [Rather than making claims about the 1790s each claim is filtered through / constrained by the specific model of the 1790s used to make it] Rather than producing a clear and pristine truth, my models are, in fact, quite likely to contradict each other. In these moments of contradiction, [we have the best opportunity to learn, because we can see why they contradict, and therefore why something may or may not be true.] [These opportunity are “fruitful”] [Expand on “fruitfulness”]
-
-
-
 ## 1790s ##
 
 
@@ -120,18 +68,6 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf4] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. [CONCLUSION: an environment which felt like it was on the edge of history]
 
 The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between empiricist or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes. Each literary ‘mode’ was imbued with the potential for national importance. [WRITE ABOUT IMPORTANCE OF READING/WRITING TO NATIONAL IDENTITY —> CONCLUSION.]
-
-
-
-### canons ###
-
-
-
-Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form. John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993ve p.viii}; the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993ve p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms. Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \cite{Clery:HFvEup7z}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled Romanticism’s own rise \cite{Gamer:jX8nTxB-}. In Romanticism and the Gothic: Genre, Reception, and Canon Formation, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily uses Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is not literature, in order to better understand why it is not.
-
-
-
-#### rise of the novel? ####
 
 
 
@@ -193,15 +129,27 @@ Poetry thus stands in a stark contrast to the volumes of writing which John Mee 
 
 
 
-### conclusion ###
+### conclusion: canons ###
 
 
 
-My synthesizing approach [SAYS SOMETHING THAT WRITING PREVIOUS PARAS WILL CLARIFY]
+John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993ve p.viii}; as both he and I argue, the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993ve p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms. Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \cite{Clery:HFvEup7z}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled Romanticism’s own rise \cite{Gamer:jX8nTxB-}. In Romanticism and the Gothic: Genre, Reception, and Canon Formation, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily uses Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is not literature, in order to better understand why it is not.
+
+
+
+#### rise of the novel? ####
 
 
 
 ## theory ##
+
+
+
+### reparative reading ###
+
+
+
+ Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism \cite{Sedgwick:2015up}. Rita Felski, in her article “After Suspicion” and then further in her recent monograph The Limits of Critique, continues in Sedgwick’s line. Felski asks: “Can we be postcritical — as distinct from uncritical?” \cite{Felski:z11z1lQx p.151}. Reparative readers are often critiqued for painting a much clearer picture of the paranoid mode than the reparative mode, leaving it unclear how one is meant to escape paranoia’s double-bind. But this is not to say that the attempt itself is unworthy.
 
 
 
@@ -237,7 +185,7 @@ My search for other ways of relating to literature has also led me to emerging w
 
 
 
-### conclusion ###
+### surface /= reparative ###
 
 
 
