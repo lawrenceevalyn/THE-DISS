@@ -369,18 +369,6 @@ Moreover, as in eighteenth century texts themselves, the boundary between “can
 
 
 
-#### print archives ####
-
-
-
-[But of course not everything is digital]. [It is a core contention of my work that DH can’t ignore non-digital resources]. [LIST AND CATEGORIZE MAJOR PRINT BIBLIOGRAPHIC RESOURCES].
-
-Garside
-
-William St Clair
-
-
-
 #### conclusion: ####
 
 

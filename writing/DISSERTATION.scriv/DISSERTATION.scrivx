@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-28 22:55:15 -0500" ModID="8F78AB7C-3199-4685-B20F-D8AC36A60EE2">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-28 23:16:31 -0500" ModID="AA473990-3905-4FA7-85C6-75872B16D7B0">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -448,16 +448,6 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>263,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="CF9429BA-51F4-44AC-BAB2-D42BED1AAE0A" Type="Text" Created="2019-02-10 21:53:13 -0500" Modified="2019-02-10 21:57:00 -0500">
-                                            <Title>print archives</Title>
-                                            <MetaData>
-                                                <LabelID>9</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>207,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="0F3DA63B-630E-4731-AB96-93EEAD2B5E62" Type="Text" Created="2019-02-10 20:58:22 -0500" Modified="2019-02-28 19:13:17 -0500">
@@ -6553,6 +6543,16 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CF9429BA-51F4-44AC-BAB2-D42BED1AAE0A" Type="Text" Created="2019-02-10 21:53:13 -0500" Modified="2019-02-10 21:57:00 -0500">
+                    <Title>print archives</Title>
+                    <MetaData>
+                        <LabelID>9</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>207,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
