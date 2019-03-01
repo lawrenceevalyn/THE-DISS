@@ -109,17 +109,11 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 
 
 
-### English history ###
+### 1790s ###
 
 
 
 All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf4] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND]. [CONCLUSION: an environment which felt like it was on the edge of history]
-
-
-
-### superlatives ###
-
-
 
 The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between empiricist or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes. Each literary ‘mode’ was imbued with the potential for national importance. [WRITE ABOUT IMPORTANCE OF READING/WRITING TO NATIONAL IDENTITY —> CONCLUSION.]
 
@@ -137,29 +131,7 @@ Not coincidentally, the 1790s are also a decade in which some literary “canons
 
 
 
-### more similar than different ###
-
-
-
-All of these schools of writing are, I argue, more similar than they are distinct, in the print marketplace of the 1790s. Which is to say, all of these individual writers are choosing strategies from the same pool of constrained choices. [Gothic strategies - Gamer] [Corresponding society strategies] [Poetic strategies - Mary Robinson] [Hannah More] [CONCLUSION: have to deal with everything at once; individuals, variety]
-
-
-
-#### John Mee's book ####
-
-
-
-John Mee silently defines “print, publicity, and popular radicalism” as being synonymous with the activities of the London Corresponding Society, and societies like it. These societies and their use of print are obviously crucial parts of the print landscape, reflecting one [take on] publicity, but I seek to go broader.
-
-
-
-#### "schools of thought" ####
-
-
-
-my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
-
-Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.
+### monographs ###
 
 
 
@@ -168,6 +140,22 @@ Because politics occurs between individual people, not political parties, I argu
 
 
 Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson
+
+
+
+#### Ann Radcliffe ####
+
+
+
+#### Charlotte Turner Smith ####
+
+
+
+#### Hannah More ####
+
+
+
+#### Mary Robinson ####
 
 
 
@@ -187,7 +175,15 @@ My synthesizing approach [SAYS SOMETHING THAT WRITING PREVIOUS PARAS WILL CLARIF
 
 
 
-On the broadest level, my primary theoretical framework is that of reparative reading. I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [Felski’s neophenomenology in Everyday Aesthetics]   [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH & 1790s)].
+My primary theoretical framework is that of reparative reading. My touchstones are two descriptions from Sedgwick’s original chapter, “Paranoid Reading and Reparative Reading”:  
+
+The desire of a reparative impulse... is additive and accretive. Its fear, a realistic one, is that the culture surrounding it is inadequate or inimical to its nurture; it wants to assemble and confer plenitude to an object that will then have resources to offer to an inchoate self. \cite{Sedgwick:2015up p.149}
+
+What we can best learn from such practices are, perhaps, the many ways selves and communities succeed in extracting sustenance from the objects of a culture - even of a culture whose avowed desire has often been not to sustain them. \cite{Sedgwick:2015up pp.150-151}
+
+These two comments are somewhat lacking as “definitions.” 
+
+I understand reparative reading to mean [DEFINITION OF REPARATIVE READING]. Others have worked to carry out scholarship in this mode, including [OTHER REPARATIVE READERS]. [Felski’s neophenomenology in Everyday Aesthetics]   [SUMMARIZE THE MAIN THREADS / CATEGORIES OF THEIR WORK.] [WHY I VALUE REPARATIVE READING (INDEPENDENT OF DH & 1790s)].
 
 
 
@@ -195,7 +191,7 @@ On the broadest level, my primary theoretical framework is that of reparative re
 
 
 
-Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. I follow Judith Butler in understanding these historically-framed identities as being “performative,” actively re-created in conversation between self and others. [(In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes an invaluable articulation that [WORDS DO THINGS].)] [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
+Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. I follow Judith Butler in understanding these historically-framed identities as being “performative,” actively re-created in conversation between self and others. (In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes valuable vocabulary for how words do things.) [This queer-theory foundation shapes my approach to literature as an encounter with an ‘other’, which, as Rita Felski says, [FELSKI HAS SOMETHING ON THIS]] [CONCLUSION.]
 
 
 
@@ -251,7 +247,7 @@ Drawing together three scholarly conversations with three distinct histories, it
 
 
 
-In the intersection of the digital humanities and eighteenth century studies, I turn to bibliography. If there is any research more magnificent in its scope than [SOME BIG DH THING], it is work like Garside & Raven’s The English Novel. This kind of work seeks to be both comprehensive and accurate. [DESCRIBE THE SIMILARITIES I SEE. — Resources for future research] [Now I’m going to survey the kinds of digital corpora and non-digital bibliographic resources that I focus on.]
+In the intersection of the digital humanities and eighteenth century studies, I turn to bibliography. If there is any research as magnificent in its ambition than The Dictionary of Old English, it is work like Garside & Raven’s The English Novel. This kind of work seeks to be both comprehensive and accurate. [DESCRIBE THE SIMILARITIES I SEE. — Resources for future research] [Now I’m going to survey the kinds of digital corpora and non-digital bibliographic resources that I focus on.]
 
 
 
@@ -267,9 +263,9 @@ Eighteenth century materials of various kinds have been collected in many digita
 
 
 
-Smaller collections seem more scholarly, but have some limitations.] Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. Some will focus on particular kinds of texts, such as the Early Novels Database (2,041 novels 1700-1799) or Broadside Ballads Online (more than 30,000 broadside ballads). Others exhaustively index particular publications, such as The Hampshire Chronicle, the Index to the Lady’s Magazine (1770 to 1818), or the Novels Reviewed Database (1,836 reviews from The Critical Review and The Monthly Review, 1790-1820). Feminist scholarship in particular has seen the creation of resources like the Orlando Project, the Chawton House library Novels Online, Northeastern University’s Women Writers Online and UC Davis’s British Women Romantic Poets. The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonably aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts.
+Smaller collections allow for more scholarly curation, but have corresponding limitations. Whereas the ‘main players’ can be easily enumerated for the mega-archives, these specialized collections are numerous. Some will focus on particular kinds of texts, such as the Early Novels Database (2,041 novels 1700-1799) or Broadside Ballads Online (more than 30,000 broadside ballads). Others exhaustively index particular publications, such as The Hampshire Chronicle, the Index to the Lady’s Magazine (1770 to 1818), or the Novels Reviewed Database (1,836 reviews from The Critical Review and The Monthly Review, 1790-1820). Feminist scholarship in particular has seen the creation of resources like the Orlando Project, the Chawton House library Novels Online, Northeastern University’s Women Writers Online and UC Davis’s British Women Romantic Poets. The virtue of these collections is that they achieve even greater accuracy and comprehensiveness within their defined scope. The Shelley-Godwin Archive, for example, can reasonably aspire to digitize every known manuscript of Percy Bysshe Shelley, Mary Wollstonecraft Shelley, William Godwin, and Mary Wollstonecraft, and to provide these manuscripts in hand-encoded plaintext transcripts. However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from designing its archive around the unique images of each page of each copy of each of Blake’s works. But because this approach is so well-suited to Blake, it cannot be applied beyond Blake. Even if the archive’s resources were available for download, they could not be directly compared to materials from another source which does not record its information at such a minute level of detail. 
 
-However, as is inevitable, these specialized archives have the vices of their virtues: their specialized focus allows them to adapt precisely to their materials, and their idiosyncratic data structures can rarely be combined with other resources. The William Blake Archive, for example, benefits enormously from  [attention to images — but this isn’t a standard]. Similarly, Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work.[^cf5] Unlike Google Books, Project Gutenberg actually does have selection criteria: it is only interested in public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections [DO SOMETHING GOOD]. But they also [MAKE IT MORE DIFFICULT TO COMBINE THEM].
+Also in the category of ‘smaller and specialized’ archives is Project Gutenberg. Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work[^cf5] — its cultural capital as a resource lags far behind its use and utility. Project Gutenberg is easily conceived of as a haphazard, ‘unscholarly’ source for materials, but unlike Google Books, Project Gutenberg actually does have selection criteria. Project Gutenberg is only interested in public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections are able to thoughtfully achieve their aims — but they also make it correspondingly difficult for users to achieve their own, different aims.
 
 
 
@@ -287,7 +283,7 @@ The best known mega-archive is, of course, Google Books. In a scholarly context,
 
 
 
-Moreover, as in eighteenth century texts themselves, the boundary between “canonical” and “noncanonical” digital archives is a permeable one: Google Books and the Internet Archive are also integrated into HathiTrust, [EXPLANATION OF HATHITRUST]. The scholarly benefit of HathiTrust is most evident in the study of contemporary literature. On a technical level, whereas OCR typically produces gibberish when faced with eighteenth century typefaces captured in photographs of microfiche, OCR is extremely effective at reading contemporary typefaces and direct high-resolution digital scans of books. The materials 
+Moreover, as in eighteenth century texts themselves, the boundary between “canonical” and “noncanonical” digital archives is a permeable one: Google Books and the Internet Archive are also integrated into HathiTrust, an increasingly popular resource for scholars. [EXPLANATION OF HATHITRUST]. The scholarly benefit of HathiTrust is most evident in the study of contemporary literature. On a technical level, whereas OCR typically produces gibberish when faced with eighteenth century typefaces captured in photographs of microfiche, OCR is extremely effective at reading contemporary typefaces and direct high-resolution digital scans of books. The materials 
 
 
 
@@ -303,25 +299,13 @@ William St Clair
 
 
 
-#### scrutiny is not criticism ####
+#### conclusion: ####
 
 
 
 As I scrutinize the underlying assumptions that are structurally reinforced by this work, I do so not in order to dismiss their value. These resources are created to enable future scholarship: for that future scholarship to thrive, 
 
-
-
-#### lit already models/samples ####
-
-
-
 Literary study already involves modelling / sampling
-
-
-
-#### conclusion: filling gaps ####
-
-
 
 Thus, I see DH and bibliography as able to enhance each other reciprocally. 
 
@@ -390,6 +374,10 @@ An additional and perhaps-unexpected resource, for scrutinizing algorithms criti
 
 
 #### reparative DH ####
+
+
+
+As I encounter the limitations of the various information and tools with through which I attempt to understand the 1790s, my goal is to do something other than facilely observe that they are limited. Critique, in many venues, still has valuable new information to contribute regarding the contemporary digital landscape. Drucker, Noble, and Chun’s warnings about the subjective nature of data and algorithms, for example, all [HAVE REAL AUDIENCES]. In part because their critiques have been presented so effectively, however, I do not give critique a central role here. Most of the digital artefacts that I examine have been created, not by ever-hungering capitalist corporations, but by my fellow scholars. In the spirit of laying down the next few stones in the building of a cathedral begun long before me, [I WANT TO BUILD]. In a digital humanities context, a focus on building connections can be mundanely practical: typing indexes from print works into spreadsheets, [DATA CLEANING], writing programs to process metadata: all of these maintain the functional usability of existing resources in new contexts. [But not just maintaining them, repairing them.] 
 
 
 
