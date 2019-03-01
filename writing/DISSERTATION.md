@@ -135,6 +135,88 @@ Not coincidentally, the 1790s are also a decade in which some literary “canons
 
 
 
+#### Bainbridge ####
+
+
+
+Simon Bainbridge, in British Poetry and the Revolutionary and Napoleonic Wars, sees the decade and its poetry through the lens of war. His own interest is in what he terms “the attempts made by several writers to fill the role of national bard prior to Scott” \cite{Bainbridge:2003uk p.3}. This framework leads Bainbridge to examine Charlotte Smith alongside Samuel Taylor Coleridge, William Wordsworth, Robert Southey, and eventually Walter Scott. [WRITE UP THE CULTURAL CAPITAL STUFF]
+
+
+
+“the fact that the Gentleman’s Magazine was forced to reproduce at length a poem written two decades previously again emphasizes what was seen to be the failure of anyone convincingly to fill the role of the Bard until the emergence of Walter Scott.” (p. 53)
+
+
+
+He cites “Michael Scrivener’s argument that ambiguity was a necessary feature of much of the radical verse published in newspapers and magazines, enabling a text to satisfy different factions or ‘sides’,” as in the case of a poem which existed both as an elevated ode in a magazine and in a singable broadsheet. “As this suggests, texts could shift in status and meaning as they were adapted for different forms of production and different audiences, in this case existing in both the relatively elevated form of the ode, to be read by an individual magazine reader, and as a new set of lyrics to a traditional tune, achieving its fullest realization in a communal performance at a political meeting in an alehouse or at a demonstration.” (10)
+
+
+
+#### Cronin ####
+
+
+
+Richard Cronin, in The Politics of Romantic Poetry, concerns himself with “poetry that speaks to a divided society in an attempt to constitute its readers as citizens of […] ‘the pure commonwealth’” \cite{Cronin:2000vz p.13}. This definition of “political poetry” leads him to Erasmus Darwin as the poet of the the Revolution and the Revolutionary war, William Blake as the poet of the Napoleonic wars, and Richard Southey and Walter Savage Landor as the poets of the post-war period — ending, irresistibly, as so many do, with Walter Scott. Despite the fact that Cronin’s chief interest is in each poet’s use of language to construct an ideal audience, print culture looms. Of Erasmus Darwin, Cronin emphasizes Darwin’s use of “[t]he most powerful of the languages available in the 1790s that could plausibly claim universal status,” namely, “the language of science” \cite{Cronin:2000vz p.16}, but it is the “beautifully and expensively produced edition of The Botanic Garden” \cite{Cronin:2000vz p.29} which asserts his importance. Blake’s eccentric, idiosyncratic language is mirrored in his eccentric, idiosyncratic printing practices \cite{Cronin:2000vz p.60}. Southey and Landor’s universal, international language seeks to “escape from history” \cite{Cronin:2000vz p.81} [BUT SOMETHING ABOUT NEWSPAPERS[ “1798 was the year of The Anti-Jacobin. In its first incarnation, as a weekly review, it survived for only 37 issues, but by 9 July 1798, when the last of these appeared, its work was done.” (61)
+
+“The Anti-Jacobin succeeded by being more Jacobinical than its enemies, by being itself so uncompromising that it successfully forced compromise on its opponents. The Jacobin was established as a compound beast, made up of impiety, lack of patriotism, profligacy, sentimentality, inhuman rationality, murderous violence, a character so Protean, adepts at assuming so many disguises, that it seemed monstrous even to the ‘Jacbobins’ themselves.” (69)] OR THE GOTHIC[ “Landor found the story of his poem in a translation from the French by Clara Reeves, ‘The History of Charoba, Queen of Egypt’, appended to her The Progress of Romance, a lengthy dialogue in which a pair of learned ladies defend, to the astonished admiration of their male adversary, the claim that prose fiction, the romance, should be granted a status equal to that of epic poetry. Landor, he tells us, came across the book ‘on the shelf of a circulating library’, and he affects a loftily dismissive response to it… But there is reason for suspecting that he was more receptive to Reeves’s argument than he finds it politic to admit.” (74)]]. 
+
+
+
+“Scott’s Minstrelsy transforms ballads freely passed from speaker to speaker around cottage fires on the Scottish Borders into luxury items, items only available to book-buyers of some means” (94)
+
+
+
+#### Cohen ####
+
+
+
+Cohen, in The Sentimental Education of the Novel,
+
+
+
+#### Taylor ####
+
+
+
+George Taylor, in The French Revolution and the London Stage,
+
+
+
+p.3: Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict (3)
+
+Although audiences were divided according to class between pit, box and gallery, all came to see the same shows, for within one programme there was a variety that not only satisfied the different groups but satisfied them all […] all received plaudits from all corners of the house. Critics might make sharp comparisons, but little of the programme was dismissed as ‘trash’, or ‘immoral’, or irrelevant ‘fancy’. (3)
+
+the determining feature of the period for the theatre was the sense of loss, a feeling that things had changed in ways that people did not expect or want, and that theatrical formulations reflected this in images of incarceration, dislocation and supernatural intervention. (221)
+
+
+
+#### Mee ####
+
+
+
+John Mee, in Print, Publicity, and Popular Radicalism in the 1790s, is concerned with the activities of the London Corresponding Society, placed in the context of Romanticism.
+
+“I examine public lectures, toasting, tavern debates, and song, but also more mundane and less colourful associational practices, such as day-to-day editorial discussion about what to publish under the LCS’s name.” (28)
+
+
+
+“At certain points the societies seem to operate under the spell of ‘print magic’, that is, a faith that print could liberate mankind simply by bringing ideas into printed circulation.” (24)
+
+
+
+“tracing the way in which print formats and practices were elaborated and tested across different popular radical groups” (26) “How were they to identify and give form to the ‘general will’ of the people?” (26)
+
+“‘the scattered million’ and ‘the people’” (27)
+
+
+
+“the role of print personality as a form of mediation, that is, both attacks on personalities by the radical press but also the development of personae by writers and booksellers” (29)
+
+
+
+The ‘but is it literature’ question: “Placing this study within the series ‘Cambridge Studies in Romanticism’ implies an understanding of popular radicalism as a kind of ‘literary’ culture. At least, it argues for the centrality of the writing, production, and circulation of printed texts that took up so much of the time of the radical societies.”(18) Nonetheless, the book stands independent from “Romanticism and its major poets, novelists, and playwrights” (18). “this formation and the associated identification of the literary with what John Thelwall called ‘sallies of the imagination’ were the product of a crisis brought on by the emergence of the popular radical culture opened up in this book, but the story is not a straightforward one. Thelwall himself could identify ‘literature’ both with a domain of imagination separable from politics and with print as the principal engine of emancipatory change.” (18)
+
+
+
 ### touchstone authors ###
 
 
