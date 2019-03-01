@@ -17,7 +17,11 @@ This dissertation seeks to determine, in as minute detail as possible, what the 
 
 
 
-### many definitions of DH ###
+### my three fields in one para ###
+
+
+
+#### many definitions of DH ####
 
 
 
@@ -25,7 +29,7 @@ The field of “digital humanities,” now several scholarly generations into it
 
 
 
-### many histories of 1790s ###
+#### many histories of 1790s ####
 
 
 
@@ -33,7 +37,7 @@ So, too, are there many “histories” — or perhaps, narratives — available
 
 
 
-### reparative reading ###
+#### reparative reading ####
 
 
 
@@ -113,7 +117,7 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 
 
 
-All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf4] In England, [HISTORY OF THE KEY EVENTS OF THIS DECADE IN ENGLAND]. [CONCLUSION: an environment which felt like it was on the edge of history]
+All of these [capta, samples, algorithms, models, and self-reflective methodologies — match preceding section] do have an aim beyond themselves: to recapture, in as minute detail as possible, the print landscape in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf4] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. [CONCLUSION: an environment which felt like it was on the edge of history]
 
 The [world of letters? Public sphere? What do I call it?] in England responded to these events by [writing WAY TOO MUCH]. This is the decade of Common Sense, it is the decade of Lyrical Ballads; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between empiricist or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes. Each literary ‘mode’ was imbued with the potential for national importance. [WRITE ABOUT IMPORTANCE OF READING/WRITING TO NATIONAL IDENTITY —> CONCLUSION.]
 
@@ -123,7 +127,7 @@ The [world of letters? Public sphere? What do I call it?] in England responded t
 
 
 
-Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form. John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993ve p.viii}; the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993ve p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms. Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \cite{Clery:HFvEup7z}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled romanticism’s own rise \cite{Gamer:jX8nTxB-}. In Romanticism and the Gothic: Genre, Reception, and Canon Formation, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily uses Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is not literature, in order to better understand why it is not.
+Not coincidentally, the 1790s are also a decade in which some literary “canons” begin to take form. John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993ve p.viii}; the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993ve p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms. Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s The Rise of Supernatural Fiction, 1762-1800 provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \cite{Clery:HFvEup7z}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled Romanticism’s own rise \cite{Gamer:jX8nTxB-}. In Romanticism and the Gothic: Genre, Reception, and Canon Formation, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily uses Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is not literature, in order to better understand why it is not.
 
 
 
@@ -131,69 +135,45 @@ Not coincidentally, the 1790s are also a decade in which some literary “canons
 
 
 
-### monographs ###
+### Taylor ###
 
 
 
-#### Bainbridge ####
+I am by no means the first to examine the writing of the 1790s in light of authors’ political strategies in the print marketplace, though preceding work is often organized along genre lines. For example, George Taylor, in The French Revolution and the London Stage, sets forth some key contentions about literature’s cultural capital. He argues that although eighteenth-century critics sought to make distinctions in the social value of different plays, or different parts of the theatrical program at a single show, audiences did not make these distinctions. “Although audiences were divided according to class between pit, box and gallery,” he argues, the division was purely physical: “all came to see the same shows, for within one programme there was a variety that not only satisfied the different groups but satisfied them all […] all received plaudits from all corners of the house” \cite{Taylor:2001gp p.3}. Taylor proceeds to define the central concerns and strategies of the plays staged during this period, arguing that “the determining feature of the period for the theatre was the sense of loss, a feeling that things had changed in ways that people did not expect or want,” a feeling that was reflected in “images of incarceration, dislocation and supernatural intervention” \cite{Taylor:2001gp p.221}. This analysis of the theatre is structured by his originating observation that “Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict” \cite{Taylor:2001gp p.3}. The communal space of the theatre, which some attempt to render non-communal and to dissect class lines, is for Taylor fertile ground. For my inquiry, it is the “[d]isagreement as to what is trash and what it treasure” itself which animates me: the terms “trash” and “treasure” are hardly exaggerations of the extremity of the conflicting assessments which could be passed regarding the same works[ add a paragraph about the rise of the novel after this one, later on
 
 
 
-Simon Bainbridge, in British Poetry and the Revolutionary and Napoleonic Wars, sees the decade and its poetry through the lens of war. His own interest is in what he terms “the attempts made by several writers to fill the role of national bard prior to Scott” \cite{Bainbridge:2003uk p.3}. This framework leads Bainbridge to examine Charlotte Smith alongside Samuel Taylor Coleridge, William Wordsworth, Robert Southey, and eventually Walter Scott. [WRITE UP THE CULTURAL CAPITAL STUFF]
+The unexpected difficulty of distinguishing “trash” and “treasure” is also a throughline in the many competing histories of the rise of the novel, and in particular their need to address the Gothic novel’s astonishing popularity.].
 
 
 
-“the fact that the Gentleman’s Magazine was forced to reproduce at length a poem written two decades previously again emphasizes what was seen to be the failure of anyone convincingly to fill the role of the Bard until the emergence of Walter Scott.” (p. 53)
+### Bainbridge ###
 
 
 
-He cites “Michael Scrivener’s argument that ambiguity was a necessary feature of much of the radical verse published in newspapers and magazines, enabling a text to satisfy different factions or ‘sides’,” as in the case of a poem which existed both as an elevated ode in a magazine and in a singable broadsheet. “As this suggests, texts could shift in status and meaning as they were adapted for different forms of production and different audiences, in this case existing in both the relatively elevated form of the ode, to be read by an individual magazine reader, and as a new set of lyrics to a traditional tune, achieving its fullest realization in a communal performance at a political meeting in an alehouse or at a demonstration.” (10)
+The desire to distinguish between “trash” and “treasure” also appears in studies of poetry, which in this period are nearly synonymous with studies of Romantic poetry. Particularly where poetry is examined in light of conflicts with France, analysis of poets’ work often doubles as an analysis of their success or failure in the pursuit of cultural capital. For example, Simon Bainbridge, in British Poetry and the Revolutionary and Napoleonic Wars, sees the decade and its poetry through the lens of war. His own interest is in what he terms “the attempts made by several writers to fill the role of national bard prior to Scott” \cite{Bainbridge:2003uk p.3}. This framework leads Bainbridge to examine Charlotte Smith alongside Samuel Taylor Coleridge, William Wordsworth, Robert Southey, and eventually Walter Scott. In his conception of ‘a national bard’ he imagines a particular marriage of poetry’s special status as imaginative literature to a specific poet’s cultivation of a nationally important public persona. Both poetry and the poet are thus pursuing a particular kind of cultural capital that allows them to rise above their own popularity. Bainbridge frequently discusses strategies of print publication as part of his analysis: a particularly insightful footnote discusses, for example, a poem which circulated both as an ode in a magazine and as lyrics in a broadsheet. Bainbridge observes that “texts could shift in status and meaning as they were adapted for different forms of production and different audiences, in this case existing in both the relatively elevated form of the ode, to be read by an individual magazine reader, and as a new set of lyrics to a traditional tune, achieving its fullest realization in a communal performance at a political meeting in an alehouse or at a demonstration” \cite{Bainbridge:2003uk p.10}. However, his explanations of individual print strategies are often hindered by his approach to literature’s cultural capital. At one point, for example, he argues that “the fact that the Gentleman’s Magazine was forced to reproduce at length a poem written two decades previously again emphasizes what was seen to be the failure of anyone convincingly to fill the role of the Bard until the emergence of Walter Scott” \cite{Bainbridge:2003uk p.53}. I contend that the republication of substantially older works of literature is not a sign that England was destitute of true poetry before Walter Scott, but rather an attempt to solve the challenges to national identity posed by the 1790s’ disruption of history.
 
 
 
-#### Cronin ####
+### Cronin ###
 
 
 
-Richard Cronin, in The Politics of Romantic Poetry, concerns himself with “poetry that speaks to a divided society in an attempt to constitute its readers as citizens of […] ‘the pure commonwealth’” \cite{Cronin:2000vz p.13}. This definition of “political poetry” leads him to Erasmus Darwin as the poet of the the Revolution and the Revolutionary war, William Blake as the poet of the Napoleonic wars, and Richard Southey and Walter Savage Landor as the poets of the post-war period — ending, irresistibly, as so many do, with Walter Scott. Despite the fact that Cronin’s chief interest is in each poet’s use of language to construct an ideal audience, print culture looms. Of Erasmus Darwin, Cronin emphasizes Darwin’s use of “[t]he most powerful of the languages available in the 1790s that could plausibly claim universal status,” namely, “the language of science” \cite{Cronin:2000vz p.16}, but it is the “beautifully and expensively produced edition of The Botanic Garden” \cite{Cronin:2000vz p.29} which asserts his importance. Blake’s eccentric, idiosyncratic language is mirrored in his eccentric, idiosyncratic printing practices \cite{Cronin:2000vz p.60}. Southey and Landor’s universal, international language seeks to “escape from history” \cite{Cronin:2000vz p.81} [BUT SOMETHING ABOUT NEWSPAPERS[ “1798 was the year of The Anti-Jacobin. In its first incarnation, as a weekly review, it survived for only 37 issues, but by 9 July 1798, when the last of these appeared, its work was done.” (61)
-
-“The Anti-Jacobin succeeded by being more Jacobinical than its enemies, by being itself so uncompromising that it successfully forced compromise on its opponents. The Jacobin was established as a compound beast, made up of impiety, lack of patriotism, profligacy, sentimentality, inhuman rationality, murderous violence, a character so Protean, adepts at assuming so many disguises, that it seemed monstrous even to the ‘Jacbobins’ themselves.” (69)] OR THE GOTHIC[ “Landor found the story of his poem in a translation from the French by Clara Reeves, ‘The History of Charoba, Queen of Egypt’, appended to her The Progress of Romance, a lengthy dialogue in which a pair of learned ladies defend, to the astonished admiration of their male adversary, the claim that prose fiction, the romance, should be granted a status equal to that of epic poetry. Landor, he tells us, came across the book ‘on the shelf of a circulating library’, and he affects a loftily dismissive response to it… But there is reason for suspecting that he was more receptive to Reeves’s argument than he finds it politic to admit.” (74)]]. 
+Bainbridge is not alone is taking Walter Scott as a kind of pinnacle, and looking backwards in search of his antecedents. Richard Cronin, in The Politics of Romantic Poetry, concerns himself with “poetry that speaks to a divided society in an attempt to constitute its readers as citizens of […] ‘the pure commonwealth’” \cite{Cronin:2000vz p.13}. This definition of “political poetry” leads him to Erasmus Darwin as the poet of the the Revolution and the Revolutionary war, William Blake as the poet of the Napoleonic wars, and Richard Southey and Walter Savage Landor as the poets of the post-war period — ending, irresistibly, as so many do, with Walter Scott. Despite the fact that Cronin’s chief interest is in each poet’s use of language to construct an ideal audience, print culture looms. Of Erasmus Darwin, Cronin emphasizes Darwin’s use of “[t]he most powerful of the languages available in the 1790s that could plausibly claim universal status,” namely, “the language of science” \cite{Cronin:2000vz p.16}, but it is the “beautifully and expensively produced edition of The Botanic Garden” \cite{Cronin:2000vz p.29} which asserts his importance. Blake’s eccentric, idiosyncratic language is mirrored in his eccentric, idiosyncratic printing practices \cite{Cronin:2000vz p.60}. Southey and Landor’s universal, international language seeks to “escape from history” \cite{Cronin:2000vz p.81}, which entails disavowing not only the popular prose fictions which sought to represent history but also the very circulating libraries in which they were distributed \cite{Cronin:2000vz p.74}. In other words, Cronin, even more so than Bainbridge, seems to use ‘poetic language’ to explain phenomena which have important print culture dimensions. Nonetheless, his discussion of Scott accurately describes the particular nature of Scott’s success: “Scott’s Minstrelsy transforms ballads freely passed from speaker to speaker around cottage fires on the Scottish Borders into luxury items, items only available to book-buyers of some means” \cite{Cronin:2000vz p.94}. The Romantic poets, in both Bainbridge and Cronin’s accounts, support their claims to insight and importance through the inaccessibility of their work in print.
 
 
 
-“Scott’s Minstrelsy transforms ballads freely passed from speaker to speaker around cottage fires on the Scottish Borders into luxury items, items only available to book-buyers of some means” (94)
+### Mee ###
 
 
 
-#### Cohen ####
-
-
-
-Cohen, in The Sentimental Education of the Novel,
-
-
-
-#### Taylor ####
-
-
-
-George Taylor, in The French Revolution and the London Stage,
-
-
-
-p.3: Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict (3)
-
-Although audiences were divided according to class between pit, box and gallery, all came to see the same shows, for within one programme there was a variety that not only satisfied the different groups but satisfied them all […] all received plaudits from all corners of the house. Critics might make sharp comparisons, but little of the programme was dismissed as ‘trash’, or ‘immoral’, or irrelevant ‘fancy’. (3)
-
-the determining feature of the period for the theatre was the sense of loss, a feeling that things had changed in ways that people did not expect or want, and that theatrical formulations reflected this in images of incarceration, dislocation and supernatural intervention. (221)
+Poetry thus stands in a stark contrast to the volumes of writing which John Mee discusses in Print, Publicity, and Popular Radicalism in the 1790s. Although his title leaves open the possibility that he could consider any kind of writing in print, Mee is concerned solely with the activities of the London Corresponding Society, placed in the context of Romanticism.
 
 
 
 #### Mee ####
 
 
-
-John Mee, in Print, Publicity, and Popular Radicalism in the 1790s, is concerned with the activities of the London Corresponding Society, placed in the context of Romanticism.
 
 “I examine public lectures, toasting, tavern debates, and song, but also more mundane and less colourful associational practices, such as day-to-day editorial discussion about what to publish under the LCS’s name.” (28)
 
@@ -214,30 +194,6 @@ John Mee, in Print, Publicity, and Popular Radicalism in the 1790s, is concerned
 
 
 The ‘but is it literature’ question: “Placing this study within the series ‘Cambridge Studies in Romanticism’ implies an understanding of popular radicalism as a kind of ‘literary’ culture. At least, it argues for the centrality of the writing, production, and circulation of printed texts that took up so much of the time of the radical societies.”(18) Nonetheless, the book stands independent from “Romanticism and its major poets, novelists, and playwrights” (18). “this formation and the associated identification of the literary with what John Thelwall called ‘sallies of the imagination’ were the product of a crisis brought on by the emergence of the popular radical culture opened up in this book, but the story is not a straightforward one. Thelwall himself could identify ‘literature’ both with a domain of imagination separable from politics and with print as the principal engine of emancipatory change.” (18)
-
-
-
-### touchstone authors ###
-
-
-
-Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson
-
-
-
-#### Ann Radcliffe ####
-
-
-
-#### Charlotte Turner Smith ####
-
-
-
-#### Hannah More ####
-
-
-
-#### Mary Robinson ####
 
 
 

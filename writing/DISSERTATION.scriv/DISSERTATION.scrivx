@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-02-28 23:16:31 -0500" ModID="AA473990-3905-4FA7-85C6-75872B16D7B0">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-03-01 13:10:20 -0500" ModID="D0FC6B62-ABE8-4957-8EC0-7703EB69422D">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -36,35 +36,47 @@
                                         <TextSelection>119,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F85B70B2-73E4-485F-BCC8-9E4CFF0573F5" Type="Text" Created="2019-02-07 19:51:05 -0500" Modified="2019-02-07 20:19:54 -0500">
-                                    <Title>many definitions of DH</Title>
-                                    <MetaData>
-                                        <LabelID>10</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1785,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="A6CE1E54-497E-4217-A3E4-CF5B5057A57A" Type="Text" Created="2019-02-07 20:20:05 -0500" Modified="2019-02-27 23:15:56 -0500">
-                                    <Title>many histories of 1790s</Title>
+                                <BinderItem UUID="CE777918-0A80-4F3A-A8B9-BF32FE835791" Type="Text" Created="2019-03-01 03:16:34 -0500" Modified="2019-03-01 11:08:03 -0500">
+                                    <Title>my three fields in one para</Title>
                                     <MetaData>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>159,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="5E813941-0BA8-4EE8-8934-51174778172A" Type="Text" Created="2019-02-07 20:23:40 -0500" Modified="2019-02-27 22:26:01 -0500">
-                                    <Title>reparative reading</Title>
-                                    <MetaData>
-                                        <LabelID>10</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>398,0</TextSelection>
-                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="F85B70B2-73E4-485F-BCC8-9E4CFF0573F5" Type="Text" Created="2019-02-07 19:51:05 -0500" Modified="2019-02-07 20:19:54 -0500">
+                                            <Title>many definitions of DH</Title>
+                                            <MetaData>
+                                                <LabelID>10</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1785,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="A6CE1E54-497E-4217-A3E4-CF5B5057A57A" Type="Text" Created="2019-02-07 20:20:05 -0500" Modified="2019-02-27 23:15:56 -0500">
+                                            <Title>many histories of 1790s</Title>
+                                            <MetaData>
+                                                <LabelID>9</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>159,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="5E813941-0BA8-4EE8-8934-51174778172A" Type="Text" Created="2019-02-07 20:23:40 -0500" Modified="2019-02-27 22:26:01 -0500">
+                                            <Title>reparative reading</Title>
+                                            <MetaData>
+                                                <LabelID>10</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>398,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="E1BFA95D-F40B-472F-97A8-1EA226BA32AE" Type="Text" Created="2019-02-07 20:32:21 -0500" Modified="2019-02-10 02:04:14 -0500">
                                     <Title>BLUF</Title>
@@ -160,17 +172,17 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9A0227DC-8652-4900-A357-7931908D4D5D" Type="Text" Created="2019-02-10 01:38:45 -0500" Modified="2019-02-28 15:52:19 -0500">
+                                <BinderItem UUID="9A0227DC-8652-4900-A357-7931908D4D5D" Type="Text" Created="2019-02-10 01:38:45 -0500" Modified="2019-03-01 12:14:26 -0500">
                                     <Title>1790s</Title>
                                     <MetaData>
-                                        <LabelID>9</LabelID>
+                                        <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1346,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8FFC5023-73DF-4437-A586-DBC039637CF8" Type="Text" Created="2019-02-10 20:19:28 -0500" Modified="2019-02-28 00:27:41 -0500">
+                                <BinderItem UUID="8FFC5023-73DF-4437-A586-DBC039637CF8" Type="Text" Created="2019-02-10 20:19:28 -0500" Modified="2019-03-01 12:31:10 -0500">
                                     <Title>canons</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
@@ -192,116 +204,54 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="D524A479-718B-4BB6-8D91-04A609BE45E1" Type="Text" Created="2019-02-28 21:13:08 -0500" Modified="2019-02-28 21:13:19 -0500">
-                                    <Title>monographs</Title>
+                                <BinderItem UUID="93AE2F2E-85E8-49F9-9A73-26148BF94CDF" Type="Text" Created="2019-02-28 22:32:31 -0500" Modified="2019-03-01 12:23:48 -0500">
+                                    <Title>Taylor</Title>
                                     <MetaData>
-                                        <LabelID>14</LabelID>
+                                        <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1303,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="509E9D12-1122-4462-B2C5-6CC27D51C847" Type="Text" Created="2019-03-01 12:24:10 -0500" Modified="2019-03-01 12:52:19 -0500">
+                                    <Title>Bainbridge</Title>
+                                    <MetaData>
+                                        <LabelID>11</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2562,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DCB70009-CE40-40D7-85D9-2323156554EC" Type="Text" Created="2019-02-28 22:00:14 -0500" Modified="2019-03-01 13:05:38 -0500">
+                                    <Title>Cronin</Title>
+                                    <MetaData>
+                                        <LabelID>11</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2227,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1C55F4D8-E791-455C-A306-74B54C69D962" Type="Text" Created="2019-03-01 13:05:42 -0500" Modified="2019-03-01 13:07:19 -0500">
+                                    <Title>Mee</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>71,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="4D1560E7-70C4-48DD-BBA2-DB8365F4963B" Type="Text" Created="2019-02-28 21:13:21 -0500" Modified="2019-02-28 22:32:00 -0500">
-                                            <Title>Bainbridge</Title>
-                                            <MetaData>
-                                                <LabelID>10</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>754,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="DCB70009-CE40-40D7-85D9-2323156554EC" Type="Text" Created="2019-02-28 22:00:14 -0500" Modified="2019-02-28 22:31:30 -0500">
-                                            <Title>Cronin</Title>
-                                            <MetaData>
-                                                <LabelID>10</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>893,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="53A2A743-3643-44F6-9881-DBBB7DDFB353" Type="Text" Created="2019-02-28 22:32:12 -0500" Modified="2019-02-28 22:39:23 -0500">
-                                            <Title>Cohen</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>49,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="93AE2F2E-85E8-49F9-9A73-26148BF94CDF" Type="Text" Created="2019-02-28 22:32:31 -0500" Modified="2019-02-28 22:39:20 -0500">
-                                            <Title>Taylor</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>641,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="14C1135E-6C2D-41ED-94EA-7CDAF56A878F" Type="Text" Created="2019-02-28 22:39:25 -0500" Modified="2019-02-28 22:46:43 -0500">
+                                        <BinderItem UUID="14C1135E-6C2D-41ED-94EA-7CDAF56A878F" Type="Text" Created="2019-02-28 22:39:25 -0500" Modified="2019-03-01 13:07:19 -0500">
                                             <Title>Mee</Title>
                                             <MetaData>
                                                 <LabelID>14</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1033,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="44DF6F3C-2582-48FF-96DC-D96F91E48AB5" Type="Text" Created="2019-02-28 15:08:31 -0500" Modified="2019-02-28 15:37:04 -0500">
-                                    <Title>touchstone authors</Title>
-                                    <MetaData>
-                                        <LabelID>14</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>69,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="49A0BF79-7C3F-442A-B254-C2F84A6F7D9E" Type="Text" Created="2019-02-28 15:52:41 -0500" Modified="2019-02-28 15:52:56 -0500">
-                                            <Title>Ann Radcliffe</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="5BE55AE3-FA08-4239-B6E9-174D4AD46448" Type="Text" Created="2019-02-28 15:52:45 -0500" Modified="2019-02-28 15:52:56 -0500">
-                                            <Title>Charlotte Turner Smith</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="85A7B870-F8F7-495C-A80F-4DE876688CE2" Type="Text" Created="2019-02-28 15:52:48 -0500" Modified="2019-02-28 15:52:56 -0500">
-                                            <Title>Hannah More</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="133CEFFC-22A7-447D-AF84-CEA665280791" Type="Text" Created="2019-02-28 15:52:51 -0500" Modified="2019-02-28 15:52:56 -0500">
-                                            <Title>Mary Robinson</Title>
-                                            <MetaData>
-                                                <LabelID>14</LabelID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>1,65</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -6555,6 +6505,88 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                         <TextSelection>207,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="44DF6F3C-2582-48FF-96DC-D96F91E48AB5" Type="Text" Created="2019-02-28 15:08:31 -0500" Modified="2019-02-28 15:37:04 -0500">
+                    <Title>touchstone authors</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>69,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="49A0BF79-7C3F-442A-B254-C2F84A6F7D9E" Type="Text" Created="2019-02-28 15:52:41 -0500" Modified="2019-02-28 15:52:56 -0500">
+                            <Title>Ann Radcliffe</Title>
+                            <MetaData>
+                                <LabelID>14</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5BE55AE3-FA08-4239-B6E9-174D4AD46448" Type="Text" Created="2019-02-28 15:52:45 -0500" Modified="2019-02-28 15:52:56 -0500">
+                            <Title>Charlotte Turner Smith</Title>
+                            <MetaData>
+                                <LabelID>14</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="85A7B870-F8F7-495C-A80F-4DE876688CE2" Type="Text" Created="2019-02-28 15:52:48 -0500" Modified="2019-02-28 15:52:56 -0500">
+                            <Title>Hannah More</Title>
+                            <MetaData>
+                                <LabelID>14</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="133CEFFC-22A7-447D-AF84-CEA665280791" Type="Text" Created="2019-02-28 15:52:51 -0500" Modified="2019-02-28 15:52:56 -0500">
+                            <Title>Mary Robinson</Title>
+                            <MetaData>
+                                <LabelID>14</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="53A2A743-3643-44F6-9881-DBBB7DDFB353" Type="Text" Created="2019-02-28 22:32:12 -0500" Modified="2019-03-01 12:23:48 -0500">
+                    <Title>rise of the novel</Title>
+                    <MetaData>
+                        <LabelID>14</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4D1560E7-70C4-48DD-BBA2-DB8365F4963B" Type="Text" Created="2019-02-28 21:13:21 -0500" Modified="2019-03-01 12:43:58 -0500">
+                    <Title>Bainbridge</Title>
+                    <MetaData>
+                        <LabelID>10</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D524A479-718B-4BB6-8D91-04A609BE45E1" Type="Text" Created="2019-02-28 21:13:08 -0500" Modified="2019-03-01 12:14:14 -0500">
+                    <Title>monographs</Title>
+                    <MetaData>
+                        <LabelID>9</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -6611,15 +6643,15 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-03-02 02:21:51 -0500" IgnoreDeadline="No">9000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" ResetTime="01:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">908</SessionTarget>
-        <PreviousSession Words="1331" Characters="8349" Date="2019-02-26 21:09:48 -0500"></PreviousSession>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-03-01 02:21:51 -0500" IgnoreDeadline="No">9000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="01:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">39</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-02-26 21:09:48 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-02-28 00:00:00 -0500">
-        <DraftWordCount>3437</DraftWordCount>
-        <DraftCharCount>22259</DraftCharCount>
-        <OtherWordCount>-13</OtherWordCount>
-        <OtherCharCount>-50</OtherCharCount>
+    <RecentWritingHistory Date="2019-03-01 00:00:00 -0500">
+        <DraftWordCount>489</DraftWordCount>
+        <DraftCharCount>3102</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
