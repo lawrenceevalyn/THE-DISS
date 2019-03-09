@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-03-01 17:46:49 -0500" ModID="9186C05E-2951-4D30-88DE-40603862E71F">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-03-09 14:52:40 -0500" ModID="4CEFEA54-E911-4A85-AB94-856C974B383C">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -34,7 +34,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="1C2F9379-59DB-4483-A577-60EE88992426" Type="Text" Created="2019-02-10 02:00:42 -0500" Modified="2019-03-01 14:13:24 -0500">
+                                <BinderItem UUID="1C2F9379-59DB-4483-A577-60EE88992426" Type="Text" Created="2019-02-10 02:00:42 -0500" Modified="2019-03-09 14:35:06 -0500">
                                     <Title>intro</Title>
                                     <MetaData>
                                         <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
@@ -56,7 +56,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="F85B70B2-73E4-485F-BCC8-9E4CFF0573F5" Type="Text" Created="2019-02-07 19:51:05 -0500" Modified="2019-03-01 14:13:42 -0500">
+                                                <BinderItem UUID="F85B70B2-73E4-485F-BCC8-9E4CFF0573F5" Type="Text" Created="2019-02-07 19:51:05 -0500" Modified="2019-03-09 14:38:18 -0500">
                                                     <Title>many definitions of DH</Title>
                                                     <MetaData>
                                                         <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
@@ -140,7 +140,7 @@
                                                         <TextSelection>1398,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="93AE2F2E-85E8-49F9-9A73-26148BF94CDF" Type="Text" Created="2019-02-28 22:32:31 -0500" Modified="2019-03-01 12:23:48 -0500">
+                                                <BinderItem UUID="93AE2F2E-85E8-49F9-9A73-26148BF94CDF" Type="Text" Created="2019-02-28 22:32:31 -0500" Modified="2019-03-09 14:42:31 -0500">
                                                     <Title>Taylor</Title>
                                                     <MetaData>
                                                         <LabelID>11</LabelID>
@@ -148,6 +148,16 @@
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>1303,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="2F7090A3-9246-448F-B70A-227C6BA05349" Type="Text" Created="2019-02-27 23:16:56 -0500" Modified="2019-02-27 23:17:08 -0500">
+                                                    <Title>rise of the novel?</Title>
+                                                    <MetaData>
+                                                        <LabelID>14</LabelID>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="509E9D12-1122-4462-B2C5-6CC27D51C847" Type="Text" Created="2019-03-01 12:24:10 -0500" Modified="2019-03-01 12:52:19 -0500">
@@ -189,18 +199,6 @@
                                                     <TextSettings>
                                                         <TextSelection>1115,0</TextSelection>
                                                     </TextSettings>
-                                                    <Children>
-                                                        <BinderItem UUID="2F7090A3-9246-448F-B70A-227C6BA05349" Type="Text" Created="2019-02-27 23:16:56 -0500" Modified="2019-02-27 23:17:08 -0500">
-                                                            <Title>rise of the novel?</Title>
-                                                            <MetaData>
-                                                                <LabelID>14</LabelID>
-                                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                            </MetaData>
-                                                            <TextSettings>
-                                                                <TextSelection>0,0</TextSelection>
-                                                            </TextSettings>
-                                                        </BinderItem>
-                                                    </Children>
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
@@ -215,7 +213,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="254B30F3-34C5-4936-BB8E-989754F5EA78" Type="Text" Created="2019-02-07 23:07:24 -0500" Modified="2019-03-01 16:48:39 -0500">
+                                                <BinderItem UUID="254B30F3-34C5-4936-BB8E-989754F5EA78" Type="Text" Created="2019-02-07 23:07:24 -0500" Modified="2019-03-09 14:46:28 -0500">
                                                     <Title>reparative reading</Title>
                                                     <MetaData>
                                                         <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
@@ -6535,7 +6533,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>339,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -6657,14 +6655,14 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-03-01 02:21:51 -0500" IgnoreDeadline="No">9000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="01:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">39</SessionTarget>
-        <PreviousSession Words="-107" Characters="-718" Date="2019-02-26 21:09:48 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="01:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
+        <PreviousSession Words="69" Characters="452" Date="2019-03-09 01:53:37 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-03-01 00:00:00 -0500">
-        <DraftWordCount>382</DraftWordCount>
-        <DraftCharCount>2384</DraftCharCount>
+    <RecentWritingHistory Date="2019-03-09 00:00:00 -0500">
+        <DraftWordCount>69</DraftWordCount>
+        <DraftCharCount>452</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
