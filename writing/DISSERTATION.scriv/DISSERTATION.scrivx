@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-03-12 03:06:27 -0400" ModID="0B5C00E2-CC29-446D-82DE-FCFEA33ECE60">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-03-12 03:48:22 -0400" ModID="A566936E-30AB-4A2A-B450-FEF4DD729734">
     <Binder>
         <BinderItem UUID="937AFD75-8D1F-42BE-8755-C2C3AB431FE7" Type="Text" Created="2019-02-09 22:08:35 -0500" Modified="2019-03-01 13:23:44 -0500">
             <Title>fruitful models/samples</Title>
@@ -343,7 +343,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="6BFE9543-9C66-4B5B-A69F-A13B220A03B6" Type="Text" Created="2019-02-10 21:49:30 -0500" Modified="2019-02-11 16:54:58 -0500">
+                                                <BinderItem UUID="6BFE9543-9C66-4B5B-A69F-A13B220A03B6" Type="Text" Created="2019-02-10 21:49:30 -0500" Modified="2019-03-12 03:45:38 -0400">
                                                     <Title>scholarly archives</Title>
                                                     <MetaData>
                                                         <LabelID>11</LabelID>
@@ -489,7 +489,7 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>291,0</TextSelection>
+                                                        <TextSelection>1521,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -571,7 +571,7 @@
                                                         <TextSelection>107,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="6491118E-C534-4FBE-AAB1-57ACA65A7EE7" Type="Text" Created="2019-02-28 15:41:33 -0500" Modified="2019-03-01 14:26:18 -0500">
+                                                <BinderItem UUID="6491118E-C534-4FBE-AAB1-57ACA65A7EE7" Type="Text" Created="2019-02-28 15:41:33 -0500" Modified="2019-03-12 03:46:46 -0400">
                                                     <Title>ch 5</Title>
                                                     <MetaData>
                                                         <LabelID>11</LabelID>
@@ -584,6 +584,15 @@
                                             </Children>
                                         </BinderItem>
                                     </Children>
+                                </BinderItem>
+                                <BinderItem UUID="A12B990C-2E0B-40C2-B067-A1318F396F40" Type="Text" Created="2019-03-12 03:43:01 -0400" Modified="2019-03-12 03:46:01 -0400">
+                                    <Title>questions for Alex</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>216,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -6777,11 +6786,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-12-31 02:21:51 -0500" IgnoreDeadline="No">70000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="01:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">191</SessionTarget>
-        <PreviousSession Words="1691" Characters="10806" Date="2019-03-09 01:53:37 -0500"></PreviousSession>
+        <PreviousSession Words="1725" Characters="11022" Date="2019-03-09 01:53:37 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-03-12 00:00:00 -0400">
-        <DraftWordCount>120</DraftWordCount>
-        <DraftCharCount>674</DraftCharCount>
+        <DraftWordCount>154</DraftWordCount>
+        <DraftCharCount>890</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
