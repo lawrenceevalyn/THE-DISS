@@ -1,23 +1,4 @@
-# Next-do: write competent draft of intro ASAP!!!
-
-## Archives in order of priority
-
-* ESTC
-* ECCO
-* ECCO-TCP
-
-* HathiTrust
-* ProQuest
-* BL 19thC
-
-* END?
-* WWO+Chawton combo?
-
-* Gutenberg
-* Book Tracker
-
-* Google Books??
-* Internet Archive?
+# Next-do: write gothic section of ch1
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -48,6 +29,15 @@ Make sure to select fields / subfields!!!
 load csv in OpenRefine
 
 # Research Log
+
+## March 12, 2019
+
+Meeting with Alex was really invigorating and reassuring! And we have a plan:
+* Alex comments on rest of doc by end of March (nudge her)
+* I write gothic section by end of March
+* When her comments are done, we will meet to triage -- what comments need to be addressed before sending to Terry & Tom?
+* Send to Terry and Tom end of April
+* We'll all meet and decide what to do next, early May
 
 ## February 28, 2019
 
