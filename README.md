@@ -39,6 +39,13 @@ Meeting with Alex was really invigorating and reassuring! And we have a plan:
 * Send to Terry and Tom end of April
 * We'll all meet and decide what to do next, early May
 
+Also, I ran some quick numbers on the demographics of my citations so far, and I was surprised by two things:
+1. Only 42% of the authors I cite are women, despite me thinking of it as ‘female dominated’.
+2. 20% of the authors I cite are nonwhite, despite me thinking of it as ‘completely white’.
+Both of these facts, I think, very shaped by the fact that my 1790s section is currently a very long list of a bunch of white dudes (and *one* woman who publishes under her initials), who outnumber the smaller list of more-important thinkers in my DH and theory sections. Accordingly, I’m going to spend some time diversifying my reading in the 1790s; I think I’m probably missing an important scholarly conversation somewhere in there. Maybe it’s even *not about Wordsworth*.
+
+Places to start: whatever A.C. Facundo cites; post-colonial DH? (I basically don't know poco at all... start with the 'big names'. Said??)
+
 ## February 28, 2019
 
 Generating this chapter at incredible speed is, I think, *working*, but hoo boy is it also a bit bizarre. There's so much to do...!!
