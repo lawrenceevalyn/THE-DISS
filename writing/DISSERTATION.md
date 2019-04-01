@@ -127,18 +127,6 @@ Drawing together three scholarly conversations with three distinct histories ---
 
 
 
-Raw materials:
-
-\- Queer Gothic --- often paranoid
-
-\- Female Gothic
-
-\- Rise of Supernatural Fiction / exclusion of Gothic from histories of the novel
-
-
-
-
-
 The intersection of eighteenth century studies and queer theory, in the Venn diagram of scholarly motivations behind this work, is filled with the Gothic. The implicit, foundational importance of the Gothic to this work is difficult to narrativize into a cause and effect. Do I apply the frameworks of queer theory because it is well-suited to Gothic subject matter? Or does the Gothic offer itself for study because I have brought to bear the lenses of queer theory? Do I turn my attention to the 1790s because of an interest in the Gothic? Or does the Gothic capture my attention because it is necessary to making sense of the 1790s? 
 
 These difficulties play out in differing histories of the field of Gothic studies. Those who work on the queer gothic have no trouble identifying, as the catalyst for a reconsideration of the Gothic itself, Eve Sedgwick’s 1985 monograph, *Between Men: English Literature and Male Homosocial Desire*. But those who examine the Female Gothic, employing feminist critique intimately tied to Sedgwick’s, see earlier origins in Sandra Gilbert and Susan Gubar’s *Madwoman in the Attic* (1979) and Juliann Fleenor’s *The Female Gothic* (1983). And many discussions of the Gothic-*qua*-Gothic skip directly from Montague Summers’ 1938 *The Gothic Quest* to David Punter’s 1996 *The Literature of Terror*, more than a decade after Sedgwick. How can Gothic studies disagree with such a large variance in dates? The seventeen-year gulf between 1979 and 1996 encompasses nearly all of \[the theory wars\]. The Summers-to-Punter historiography is generally invested in a rhetorical move by which Summers’ work is dismissed as sloppy, unscholarly, motivated by mere enthusiasm (though usefully obsessive), such that Punter emerges in contrast as the first examination of the Gothic to be serious. Of course, implicit in this rhetorical move is the idea that feminist and queer scholarship on the Gothic is also unserious, perhaps contaminated by personal enthusiasm.
@@ -149,9 +137,11 @@ Punter himself \[does something useful\] in ‘legitimizing’ the Gothic. \[One
 
 One difficulty presented by the specifically Gothic facets of queer theory is the role of paranoia. Sedgwick proposes that it is the paranoia of the Gothic which makes it so evocatively queer. But of course, one of my desires is to resist paranoia.
 
+\[Something about Susan Sontag & camp being how I reparatively read the Gothic?\]
 
+ 
 
-This dissertation does not seem to explicitly define, taxonomize, or study the Gothic, largely because I join in recent work like Robert Miles’[^cf12] which sees the Gothic as a trans-generic mode which may appear across the literary mediascape. Because I wish to better understand the Gothic, I do not take the Gothic as my direct subject, but turn my attention to an area where I believe it will emerge. I wish to know, for different macroanlytical views of the decade, whether, and how, the Gothic does in fact appear.
+This dissertation does not seek to explicitly define, taxonomize, or study the Gothic, largely because I join in recent work like Robert Miles’[^cf12] which sees the Gothic as a trans-generic mode which may appear across the literary mediascape. Because I wish to better understand the Gothic, I do not take the Gothic as my direct subject, but turn my attention to an area where I believe it will emerge. I wish to know, for different macroanlytical views of the decade, whether, and how, the Gothic does in fact appear.
 
 
 
@@ -187,50 +177,7 @@ Work that complicates our image the Female Gothic --- like work that challenges 
 
 
 
-The ‘history of the novel’ often finds it necessary to simply skip over the Gothic. \[ADD CONSERVATIVE HISTORIES OF THE NOVEL HERE --- Kiely, Tompkins, etc\]
-
-
-
-###### 1.1.2.2.2.4.  Gothic studies ######
-
-
-
-In parallel, there has been a line of work embracing the Gothic and its oddness.
-
-
-
-
-
-Sandra Gilbert and Susan Gubar’s *Madwoman in the Attic* (1979)
-
-Juliann Fleenor’s *The Female Gothic* (1983)
-
-Sedgwick, Eve Kosofsky. *Between Men: English Literature and Male Homosocial Desire*. 1985.
-
-Haggerty, George E. “Literature and Homosexuality in the Late Eighteenth Century: Walpole, Beckford, and Lewis.” *Studies in the Novel* 18.4 (1986) 
-
-Kate Ferguson Ellis’s *The Contested Castle* (1989)
-
-Eugenia DeLamotte’s *Perils of the Night* (1990)
-
-Sue Ellen Case, “Tracking the Vampire” (1991)
-
-David Punter, The Literature of Terror: A History of Gothic Fictions from 1765 to the Present Day (1996)
-
-Diane Long Hoeveler’s *Gothic Feminism* (1998)
-
-Palmer, Paulina. *Lesbian Gothic: Transgressive Fictions*. London: Cassell, 1999. 
-
-Emma Clery’s *Women’s Gothic* (2000)
-
-Helene Meyers’s *Femicidal Fears* (2001)
-
-Donna Heiland’s *Gothic and Gender* (2004)
-
-David Punter. *Queer Gothic*. Urbana: U of Illinois P, 2006.  
-
-
-  
+The ‘history of the novel’ often finds it necessary to simply skip over the Gothic. \[ADD CONSERVATIVE HISTORIES OF THE NOVEL HERE --- Kiely, Tompkins, etc\]  
 
 \[A lot of queer Gothic work has been paranoid\] \[Something about Susan Sontag & camp being how I reparatively read the Gothic?\]
 
@@ -240,7 +187,7 @@ Eve Kosofsky Sedgwick’s often-quoted assertion that “\[t\]he Gothic novel cr
 
 
 
-###### 1.1.2.2.2.5.  dichotomy ######
+###### 1.1.2.2.2.4.  dichotomy ######
 
 
 
@@ -248,7 +195,7 @@ Current scholarship is increasingly attentive to the strategies employed by the 
 
 
 
-###### 1.1.2.2.2.6.  supernatural & canons ######
+###### 1.1.2.2.2.5.  supernatural & canons ######
 
 
 

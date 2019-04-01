@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-04-01 00:21:27 -0400" ModID="9FE156A6-B98C-40E6-A8A6-145B810D331B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-04-01 02:59:32 -0400" ModID="E040B760-C0EA-47A2-8113-FB4AA1ED1A9F">
     <Binder>
         <BinderItem UUID="34344FA1-41B7-4A76-BAC4-C5FA723ABCF7" Type="Text" Created="2019-03-09 15:19:35 -0500" Modified="2019-03-10 21:23:13 -0400">
             <Title>Plotto: just because you can, doesn't mean you should</Title>
@@ -386,14 +386,14 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="14BC02D7-9DEE-4706-B6F1-9B389463915E" Type="Text" Created="2019-03-31 19:45:13 -0400" Modified="2019-03-31 21:26:47 -0400">
+                                                <BinderItem UUID="14BC02D7-9DEE-4706-B6F1-9B389463915E" Type="Text" Created="2019-03-31 19:45:13 -0400" Modified="2019-04-01 02:57:36 -0400">
                                                     <Title>freewrite</Title>
                                                     <MetaData>
                                                         <LabelID>14</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>1460,0</TextSelection>
+                                                        <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="8AB52794-386E-41DF-82F2-172BDAF1BC71" Type="Text" Created="2019-03-31 19:44:36 -0400" Modified="2019-03-31 19:44:42 -0400">
@@ -436,28 +436,16 @@
                                                                 <TextSelection>153,0</TextSelection>
                                                             </TextSettings>
                                                         </BinderItem>
-                                                        <BinderItem UUID="4788EBAC-1EA9-4306-8421-64F8F9D5C89F" Type="Text" Created="2019-03-30 18:19:35 -0400" Modified="2019-03-31 21:03:24 -0400">
-                                                            <Title>Gothic studies</Title>
+                                                        <BinderItem UUID="7FCFA2DB-22F2-43D9-8A7B-FBE99F5F639D" Type="Text" Created="2019-02-16 07:16:59 -0500" Modified="2019-03-30 18:49:27 -0400">
+                                                            <Title>reparative gothic</Title>
                                                             <MetaData>
-                                                                <LabelID>9</LabelID>
+                                                                <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
+                                                                <LabelID>14</LabelID>
                                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                             </MetaData>
                                                             <TextSettings>
-                                                                <TextSelection>186,0</TextSelection>
+                                                                <TextSelection>126,0</TextSelection>
                                                             </TextSettings>
-                                                            <Children>
-                                                                <BinderItem UUID="7FCFA2DB-22F2-43D9-8A7B-FBE99F5F639D" Type="Text" Created="2019-02-16 07:16:59 -0500" Modified="2019-03-30 18:49:27 -0400">
-                                                                    <Title>reparative gothic</Title>
-                                                                    <MetaData>
-                                                                        <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
-                                                                        <LabelID>14</LabelID>
-                                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                                    </MetaData>
-                                                                    <TextSettings>
-                                                                        <TextSelection>126,0</TextSelection>
-                                                                    </TextSettings>
-                                                                </BinderItem>
-                                                            </Children>
                                                         </BinderItem>
                                                         <BinderItem UUID="636CBC3B-7625-4870-B2BD-9220ED3C7479" Type="Text" Created="2019-03-30 18:25:15 -0400" Modified="2019-03-30 18:43:50 -0400">
                                                             <Title>dichotomy</Title>
@@ -2097,6 +2085,16 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem UUID="4788EBAC-1EA9-4306-8421-64F8F9D5C89F" Type="Text" Created="2019-03-30 18:19:35 -0400" Modified="2019-04-01 02:58:41 -0400">
+                            <Title>queer gothic lit review</Title>
+                            <MetaData>
+                                <LabelID>9</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>891,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -6946,11 +6944,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-12-31 02:21:51 -0500" IgnoreDeadline="No">70000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" ResetTime="01:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">199</SessionTarget>
-        <PreviousSession Words="1496" Characters="9629" Date="2019-03-31 17:57:48 -0400"></PreviousSession>
+        <PreviousSession Words="1473" Characters="9481" Date="2019-03-31 17:57:48 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-04-01 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>-23</DraftWordCount>
+        <DraftCharCount>-148</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
