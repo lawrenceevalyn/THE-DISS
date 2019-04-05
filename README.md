@@ -30,6 +30,12 @@ load csv in OpenRefine
 
 # Research Log
 
+## April 5, 2019
+
+March has ended, and I have neither written the gothic section, nor has Alex provided comments on the rest of the doc... I don't love feeling like everything is going so slowly.
+
+After last year's CSECS, I was excited to have some real, meaningful results for this year -- but I only feel farther away from completing some solid experimentatin. I don't know what I'll present this year! Maybe Tom Jones, because it's all I have?? Or a seminar paper that I don't think will ever become a journal article, just to have a unique line on my CV... like that Ruin/Ozymandias paper??? Something on Belvidera....??
+
 ## March 12, 2019
 
 Meeting with Alex was really invigorating and reassuring! And we have a plan:
