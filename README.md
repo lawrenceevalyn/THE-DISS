@@ -1,4 +1,4 @@
-# Next-do: write gothic section of ch1
+# Next-do: plan revisions for rest of committee
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -29,6 +29,10 @@ Make sure to select fields / subfields!!!
 load csv in OpenRefine
 
 # Research Log
+
+## April 8, 2019
+
+The more I look over my chapter, the more I really want to dig in and start taking & examining my random samples from each corpus. I want to know what I am dealing with!! Which means deciding, definitively, how *large* my samples should be...
 
 ## April 5, 2019
 
