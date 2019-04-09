@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## April 9, 2019
+
+Do I have to write about Nan Da? I don't really like the way Nan Da is carrying out her critique. I really prefer, e.g., Bode. I'll ask Alex.
+
 ## April 8, 2019
 
 The more I look over my chapter, the more I really want to dig in and start taking & examining my random samples from each corpus. I want to know what I am dealing with!! Which means deciding, definitively, how *large* my samples should be...
