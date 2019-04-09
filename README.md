@@ -1,4 +1,4 @@
-# Next-do: plan revisions for rest of committee
+# Next-do: do revisions for rest of committee
 
 # Thesis Map
 Map of the thesis at this stage:
@@ -32,11 +32,33 @@ load csv in OpenRefine
 
 ## April 9, 2019
 
-Do I have to write about Nan Da? I don't really like the way Nan Da is carrying out her critique. I really prefer, e.g., Bode. I'll ask Alex.
+Worth doing another whole pass of revisions before going on to T & T:
+1. section on 1790s: rearrange around the idea of "print magic" and "cultural capital" and trash & treasure
+-- how 1790s has been defined in terms of canons
+-- works without cultural capital have been "rescued" via print culture / print magic frameworks
+-- rearrange around canons: I'm going to talk in a very well-established way that draws on a lot of things from the 80s
+--- have to actually read Bourdieu's field of etc
+-- also just flag some interest in the gothic and female authors -- use them as my examples, gothic for canons and hannah more for print magic
+
+2. gothic and queerness section need to be actually finished
+-- first make the argument that the gothic is actually important to the 1790s
+
+3. very end: just remove the networks bit?
+
+actually do have to address Nan Da - just use this as an excuse to write my response to her
+
+how to address the problem that I'm not actually interested in politics? current project is interesting to DH and book history people, can it still be interesting to 18thC people?
+-- just eliminate that section on printers because maybe I don't need that section of the diss
+-- politics was in there in the first place because it's a way people try to recapture these texts
+-- gender??
+-- maybe after 2 chapters of corpus analysis I will see a better way to approch women and gothic writing
 
 ## April 8, 2019
 
 The more I look over my chapter, the more I really want to dig in and start taking & examining my random samples from each corpus. I want to know what I am dealing with!! Which means deciding, definitively, how *large* my samples should be...
+
+Do I have to write about Nan Da? I don't really like the way Nan Da is carrying out her critique. I really prefer, e.g., Bode. I'll ask Alex.
+
 
 ## April 5, 2019
 
