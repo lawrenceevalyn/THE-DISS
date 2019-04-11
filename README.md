@@ -49,9 +49,11 @@ actually do have to address Nan Da - just use this as an excuse to write my resp
 
 how to address the problem that I'm not actually interested in politics? current project is interesting to DH and book history people, can it still be interesting to 18thC people?
 -- just eliminate that section on printers because maybe I don't need that section of the diss
--- politics was in there in the first place because it's a way people try to recapture these texts
 -- gender??
+-- politics was in there in the first place because it's a way people try to recapture these texts
 -- maybe after 2 chapters of corpus analysis I will see a better way to approch women and gothic writing
+
+(I was surprised by how tender and scared I felt, facing down these revisions, even though I do think the chapter and diss are pretty good and gonna get better. I think it's because it became actually real, and this is something that's actually important... so I think these feelings are a natural part of the process, and a symptom of how much this matters to me, and therefore something to accept as part of the process.)
 
 ## April 8, 2019
 
