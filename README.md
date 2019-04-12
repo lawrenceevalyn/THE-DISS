@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## April 12, 2019
+
+aaaagh when will I have time to work on this
+
 ## April 9, 2019
 
 Worth doing another whole pass of revisions before going on to T & T:
