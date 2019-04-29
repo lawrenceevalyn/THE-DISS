@@ -30,6 +30,12 @@ load csv in OpenRefine
 
 # Research Log
 
+## April 28, 2019
+
+Not planning to show a chapter to the full committee until September, now, but I want to do more than finish Ch 1 by then.... I'm feeling really poorly grounded in 18thC lit (again).
+
+In the onsen it seemed like a good next step to dive really deep into research on Charlotte Smith's print publication history, and to make a spreadsheet of all print-historical claims I found about her. I'd definitely like to do this for Hannah More, but I think I like Charlotte Smith more so I'd rather start there..
+
 ## April 12, 2019
 
 aaaagh when will I have time to work on this
