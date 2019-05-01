@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## April 30, 2019
+
+I requested a bunch of books on Charlotte Smith from OhioLink! It will be kind of hilarious to me if I finally start actually *using books* for my research only after I've left my library behind, haha
+
 ## April 28, 2019
 
 Not planning to show a chapter to the full committee until September, now, but I want to do more than finish Ch 1 by then.... I'm feeling really poorly grounded in 18thC lit (again).
