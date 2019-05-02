@@ -1,4 +1,4 @@
-# Next-do: do revisions for rest of committee
+# Next-do: make plan for the summer: revisions for rest of committee, substantial ch 2 experimentation
 
 # Thesis Map
 Map of the thesis at this stage:
