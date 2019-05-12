@@ -112,7 +112,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {227, 779}}</string>
-		<string>{{228, 0}, {775, 779}}</string>
+		<string>{{228, 0}, {723, 779}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -183,8 +183,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {547, 749}}</string>
-		<string>{{548, 0}, {227, 749}}</string>
+		<string>{{0, 0}, {495, 749}}</string>
+		<string>{{496, 0}, {227, 749}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -1109,7 +1109,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {437.60000000000002, 320.80000000000001}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -1120,7 +1120,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>1 76 1003 801 0 0 1440 877 </string>
+	<string>71 76 951 801 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1170,14 +1170,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>3D84D0B9-DFC2-47DF-9331-2363C37D1CE1</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -2054,14 +2046,22 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6C3F15A7-E599-4B89-9695-F5A9071D1CE3</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {437.60000000000002, 554.39999999999998}}</string>
+	<string>{{0, 0}, {396, 554.39999999999998}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>237,0</string>
+	<string>547,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
