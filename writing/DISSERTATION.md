@@ -15,9 +15,15 @@ My dissertation seeks to determine, in as minute detail as possible, what the pr
 
 ### 1.1.1.  intro ###  
 
+According to the English Short Title Catalogue (ESTC), the most popular English authors of the 1790s were Thomas Paine, Hannah More, John Wesley, and William Shakespeare. Of course this inflammatory claim immediately falls apart on further scrutiny. In fact, by the metric of ‘unique entries in the ESTC database,’ the most popular author by far is Great Britain, followed by Great Britain, Great Britain, Great Britain, and King George III.  
+
 The core object of study in this dissertation is the writing published in England between 1789 and 1799. I say “writing” and not “literature,” despite the fact that my central interest *is* literature, because I address works whose status as “literary” is contested. I also say “published” rather than “written,” because I address the “1790s-ness” of works written well before this decade, but which took on new and timely meanings when reprinted.
 
 
+
+Ann Radcliffe, Charlotte Smith, Hannah More, and Mary Robinson.
+
+Wordsworth and Coleridge. Paine and Burke.
 
 
 
