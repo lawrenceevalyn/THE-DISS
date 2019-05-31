@@ -67,9 +67,11 @@ In light of the challenges of “empiricism,” my goal in this dissertation is 
 
 \[Probable intended structure for this section: one of my concerns is the way that 18thC studies ends ups segregated by genre (even though writers don’t confine themselves to one genre); so here’s the conversation in poetry, in the novel, in drama; and here’s how they’re all engaged in the same question about ‘trash’ vs ‘treasure’; and here’s how that dichotomy employs the same techniques of obnoxiously defining ‘literature’ through a rejection of the ‘popular’, sticking us with Wordsworth, Walter Scott, and a sainted Shakespeare; and here’s John Mee and ‘print magic’ tying them together.\]  
 
+We misapprehend Smith, More, and Robinson because we expect something more like Radcliffe.  
+
 John Guillory[ yeah so this just has to come at the start, probably with Mee, and Bourdieu] contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \\cite\{Guillory:1993ve p.viii\}; as both he and I argue, the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\\cite\{Guillory:1993ve p.xi\} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms.[ you might want to consider the new formalist work to reclaim the literary qua the literary - and e.g. Steve Conner's - "nah" to that. Probably meamns a few weeks of extra reading tho.]  
 
-All of the computational work in this dissertation does have an aim beyond itself: to recapture, in as minute detail as possible, the print landscape[ why landscape metaphor - what other ones: can you be plainer or more conscious about choice of metaphor?] in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf11] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Common Sense*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between empiricist or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes[ so I know extremely little about any of this but I do know you can't use empiricist in this way - which makes me think maybe you need to rework with that new structure above in mind - and keep it more to facts - here is how the literature of this period is characterized normally. Quote some other scholars etc.]. Each literary ‘mode’ was imbued with the potential for national importance.  
+All of the computational work in this dissertation does have an aim beyond itself: to recapture, in as minute detail as possible, the print landscape[ why landscape metaphor - what other ones: can you be plainer or more conscious about choice of metaphor?] in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf11] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Common Sense*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between Enlightenment or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes[ so I know extremely little about any of this but I do know you can't use empiricist in this way - which makes me think maybe you need to rework with that new structure above in mind - and keep it more to facts - here is how the literature of this period is characterized normally. Quote some other scholars etc.]. Each literary ‘mode’ was imbued with the potential for national importance.  
 
 I am by no means the first to examine the writing of the 1790s in light of authors’ political strategies[ is that actually what you are doing? their POLITICAL strategies in print? I don't think so?] in the print marketplace, though preceding work is often organized along genre lines. For example, George Taylor, in *The French Revolution and the London Stage*, sets forth some key contentions about literature’s cultural capital[ if this is what you mean by political it will need unpacking]. He argues that although eighteenth-century critics sought to make distinctions in the social value of different plays, or different parts of the theatrical program at a single show, audiences did not make these distinctions. “Although audiences were divided according to class between pit, box and gallery,” he argues, the division was purely physical: “all came to see the same shows, for within one programme there was a variety that not only satisfied the different groups but satisfied them all \[...\] all received plaudits from all corners of the house” \\cite\{Taylor:2001gp p.3\}. Taylor proceeds to define the central concerns and strategies of the plays staged during this period, arguing that “the determining feature of the period for the theatre was the sense of loss, a feeling that things had changed in ways that people did not expect or want,” a feeling that was reflected in “images of incarceration, dislocation and supernatural intervention” \\cite\{Taylor:2001gp p.221\}. This analysis of the theatre is structured by his originating observation that “Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict” [ so maybe you could start with this, but also - to what extent is the trash/treasure thing produced in the 1790s, vs produced by scholars looking back at 1790s? Just keep that question in mind]\\cite\{Taylor:2001gp p.3\}. The communal space of the theatre, which some cultural critics in the eighteenth century attempt to render non-communal and to dissect along class lines, is for Taylor fertile ground. For my inquiry, it is the “\[d\]isagreement as to what is trash and what it treasure” itself which animates me: the terms “trash” and “treasure” are hardly exaggerations of the extremity of the conflicting assessments which could be passed regarding the same works[ add a paragraph about the rise of the novel after this one, later on
 
@@ -327,6 +329,36 @@ I make an exception for archives which specifically seek to address gaps in arch
 
 For the most part archives are either comprehensive and have significantly more than 100 texts, or they are single-author / single-researcher focused, and thus have significantly less than 100. These kinds of reparative projects occupy the middle space.  
 
+ESTC
+
+ECCO
+
+ECCO-TCP
+
+
+
+HathiTrust
+
+ProQuest
+
+BL 19thC
+
+
+
+END
+
+WWO+Chawton combo
+
+Corvey
+
+
+
+Gutenberg
+
+Google Books
+
+Internet Archive  
+
 The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
 
 
@@ -393,21 +425,17 @@ BL 19thC
 
 
 
-END?
+END
 
-WWO+Chawton combo?
+WWO+Chawton combo
 
 
 
 Gutenberg
 
-Book Tracker
+Google Books
 
-
-
-Google Books??
-
-Internet Archive?  
+Internet Archive  
 
 Take a random sample for which I attempt to locate size of print run
 

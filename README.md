@@ -1,13 +1,15 @@
-# Next-do: make plan for the summer: revisions for rest of committee, substantial ch 2 experimentation
+# Next-do: revise ch 1; write corpora descriptions for ch 2
+
+See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
+
+## 0/64 summer todos complete
 
 # Thesis Map
 Map of the thesis at this stage:
 1.  Theoretical groundings
 2.  Comparison of digital corpora
 3.  Use these corpora to discuss popularity
-4.  Publishing networks
-5.  Use these networks to discuss mainstream / non-mainstream printing (another take on popularity)
-6.  Coda or afterword on the Gothic?
+4.  ???
 
 # Writing Principles
 * Don't be precious about preserving previous drafts. Cannibalize them and move on. It's okay for things to be left behind. (Git has my historical record.)
