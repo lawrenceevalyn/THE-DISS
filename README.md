@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## May 30, 2019
+
+A month later, and I've... read a book on Charlotte Smith, but not really worked on any of the things that will get words onto the page. I do think it's important and going to pay off down the line, to be consuming historical information on my "key authors" (if I want them to actually be key!), but that should be the background for the other work. Maybe now that I'm done with summer travel I can finally prioritize this?!
+
 ## April 30, 2019
 
 I requested a bunch of books on Charlotte Smith from OhioLink! It will be kind of hilarious to me if I finally start actually *using books* for my research only after I've left my library behind, haha
