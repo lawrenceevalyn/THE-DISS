@@ -30,6 +30,10 @@ load csv in OpenRefine
 
 # Research Log
 
+## May 31, 2019
+
+Does Ann Radcliffe NOT belong as one of my 'case study' authors?? More, Smith, and Robinson all write prolifically in a range of genres and develop a persona and celebrity...... Radcliffe emphatically does NOT. Is that a disjunction I keep and explain, or one that removes her from consideration? We misapprehend Smith, More, and Robinson because we expect something more like Radcliffe.
+
 ## May 30, 2019
 
 A month later, and I've... read a book on Charlotte Smith, but not really worked on any of the things that will get words onto the page. I do think it's important and going to pay off down the line, to be consuming historical information on my "key authors" (if I want them to actually be key!), but that should be the background for the other work. Maybe now that I'm done with summer travel I can finally prioritize this?!
