@@ -18,9 +18,16 @@ Map of the thesis at this stage:
 
 # Reference:
 
-*Useful regex*: \$c1789|\$c179[0123456789]  --  matches all my years in MARC
+### How to cite Papers > Scrivener
 
-non-MARC version: 1789|179[0123456789]
+* Use command-shift-C to call up Papers 3 and search for the item I want to cite
+* Use this to insert text like \cite{Sedgwick:2015up}
+    * If this doesn't work for some reason, you can also find the article in Pages itself, click "Cite", and select "BiBTeX Cite Command"
+* Add a page number by typing p.# in the citekey like so: \cite{Sedgwick:2015up p.25}
+* When the entire document is done, compile to RTF format
+* Open the RTF in Word
+U* se command-shift-C to call up the citation window, and this time “format citations” will be an option.
+* Use it!
 
 ### My horrible MARC > OpenRefine workflow
 
@@ -29,6 +36,10 @@ choose commas as delimiter
 Make sure to select fields / subfields!!!
 (can "load" settings to grab the same fields as previously; "basics" settings are just 100 and 260, to get author and publisher.)
 load csv in OpenRefine
+
+*Useful regex*: \$c1789|\$c179[0123456789]  --  matches all my years in MARC
+
+non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
