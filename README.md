@@ -43,6 +43,14 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## June 2, 2019
+
+I'm really excited by some of the some Labbe has to say about CSmith and genre -- it's the thing that got me interested in reading writers transgenerically in the first place!!
+
+> Smith, significantly, composes herself anew according to genre; readers both recognize and complicate this process
+
+> Is it all to do with inherent qualities of genre, or is it more to do with the expectations we as readers bring to different genres? Genre, it seems, carries a greater force in constructing our preconceptions of identity than has been recognized, and Smith is a case in point, a case we can crack by studying closely Smith’s style and techniques across genres
+
 ## May 31, 2019
 
 Does Ann Radcliffe NOT belong as one of my 'case study' authors?? More, Smith, and Robinson all write prolifically in a range of genres and develop a persona and celebrity...... Radcliffe emphatically does NOT. Is that a disjunction I keep and explain, or one that removes her from consideration? We misapprehend Smith, More, and Robinson because we expect something more like Radcliffe.
