@@ -525,12 +525,33 @@ The most frequently borrowed books include periodicals, theological textbooks, a
 
 A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production (assuming that turns out to be true, of course.) Some of my earlier work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. (Importantly, stylometric methods are not able to distinguish a parody of the Gothic from a “real” Gothic; as I theorize and interpret my findings, then, I would take up Horner and Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy.) This final section could use a stylometric approach to identify and then search for “Gothic vocabularies” in full texts, computationally, in order to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? What kinds of literary production are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? This afterword would sketch out a preliminary map of the Gothic in the print world of the 1790s. This closing section would thus cite and build upon my prior work with the Gothic, in the context of the 1790s as a period when the penetration of Gothic modes into mainstream print had particularly complex political stakes.  
 
-1. Blank, Antje. “Charlotte Smith.” Edited by Janet Todd. *The Literary Encyclopedia*. Volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*. Volume edited by Daniel Cook and Daniel Robinson. 23 June 2003, [www.litencyc.com](http://www.litencyc.com). Accessed 05 June 2019.
-2. Clery, E.J. *The Rise of Supernatural Fiction 1762-1800*. Cambridge UP, 1995
-3. Fry, Carrol L. *Charlotte Smith*. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
-4. Gamer, Michael. *Romanticism and the Gothic: Genre, Reception, and Canon Formation*. Cambridge UP, 2000.
-5. Garnai, Amy. *Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald*. Palgrave Macmillan, 2009.
-6. Roberts, Bethan. “Charlotte Smith: *Elegiac Sonnets, and Other Essays*.” Edited by Daniel Robinson. *The Literary Encyclopedia*. Volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*. Volume edited by Daniel Cook and Daniel Robinson. 02 January 2014, [www.litencyc.com](http://www.litencyc.com). Accessed 05 June 2019.
+Author. Title. Title of container (N/A if book), other contributors (translators or editors), version (edition), number (vol. and/or no.), publisher, publisher date, location (pp., URL/doi). Access date ## Mo #### only if site may change. 2nd container’s title if applicable, etc as above.
+
+
+
+“Et al.” is for 4+ authors. If there are 3, list all 3; at 4+, list first person then “et al.”
+
+
+
+1. Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing as Recursive Agency in the Long Eighteenth Century.” *Romanticism and Victorianism on the Net*, vol. 57-8, 2010, doi:10.7202/1006517ar.
+2. Baldick, Chris, and Robert Mighall. “Gothic Criticism.” *A New Companion to The Gothic*, edited by David Punter, Wiley-Blackwell, 2012, pp. 265-287, doi.org/10.1002/9781444354959.ch19.
+3. Blank, Antje. “Charlotte Smith.” Edited by Janet Todd. *The Literary Encyclopedia*, volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*, edited by Daniel Cook and Daniel Robinson, 23 June 2003, www.litencyc.com. Accessed 05 June 2019.
+4. Clery, E.J. *The Rise of Supernatural Fiction 1762-1800*. Cambridge UP, 1995
+5. Frow, John. *Genre*. Routledge, 2015.
+6. Fry, Carrol L. *Charlotte Smith*. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
+7. Gamer, Michael. *Romanticism and the Gothic: Genre, Reception, and Canon Formation*. Cambridge UP, 2000.
+8. Garnai, Amy. *Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald*. Palgrave Macmillan, 2009.
+9. Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” *LIBER Quarterly*, vol. 25, no. 2, 2015, pp. 87--31, doi:10.18352/lq.10112.
+10. McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
+11. Moretti, Franco. *Distant Reading*. Verso, 2013.
+12. O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” *Georgian Theatre in an Information Age: Media, Performance, Sociability*, special issue of *Eighteenth-Century Fiction*, vol. 27, no. 3-4, 2015, pp. 479-507. *Project Muse*, muse.jhu.edu/article/584623. 
+13. Potter, Franz J. *The History of Gothic Publishing, 1800-1835: Exhuming the Trade*. Palgrave Macmillan, 2005.
+14. Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
+15. Garside, Peter, James Raven, and Rainer Schöwerling, editors. *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, Oxford UP, 2000. 2 vols.
+16. ---. General Introduction. *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
+17. Raven, James. “Historical Introduction: The Novel Comes of Age.”  *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
+18. Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. *The Literary Encyclopedia*, volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
+19. Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly*, vol. 69, no. 3, 2006, pp. 425--450, doi:10.1525/hlq.2006.69.3.425.
 
 [^cf1]: More specifically, these “authors” are “Great Britain, Parliament,” “Great Britain,” “Great Britain, Parliament, House of Commons,” “Great Britain, Lords Commissioners of Appeals in Prize Causes,” and King George III. After King George comes Thomas Paine and Hannah More, and then it’s “Great Britain, Parliament, House of Lords” and “Church of England.”
 
