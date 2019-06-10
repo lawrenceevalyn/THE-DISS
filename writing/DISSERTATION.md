@@ -556,19 +556,20 @@ A potential coda or afterword could build on the work of Robert Miles and others
 11. Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
 12. Garside, Peter, James Raven, and Rainer Schöwerling, editors. *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, Oxford UP, 2000. 2 vols.
 13. ---. General Introduction. *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
-14. Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” *LIBER Quarterly*, vol. 25, no. 2, 2015, pp. 87--31, doi:10.18352/lq.10112.
-15. “MARC 21 Format for Authority Data.” *Cataloger's Reference Shelf*, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
-16. Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” *A Celebration of Women Writers*, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
-17. McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
-18. Moretti, Franco. *Distant Reading*. Verso, 2013.
-19. O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” *Georgian Theatre in an Information Age: Media, Performance, Sociability*, special issue of *Eighteenth-Century Fiction*, vol. 27, no. 3-4, 2015, pp. 479-507. *Project Muse*, muse.jhu.edu/article/584623. 
-20. Potter, Franz J. *The History of Gothic Publishing, 1800-1835: Exhuming the Trade*. Palgrave Macmillan, 2005.
-21. Raven, James. “Historical Introduction: The Novel Comes of Age.”  *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
-22. Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. *The Literary Encyclopedia*, volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
-23. Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/\~runge/MRobinson.htm. Accessed 07 June 2019.
-24. Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” *Touching Feeling*, Duke UP, 2003, pp. 123-151.
-25. Watt, Ian. *The Rise of the Novel: Studies in Defoe, Richardson and Fielding*. 1957. U of California P, 2001.
-26. Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly*, vol. 69, no. 3, 2006, pp. 425--450, doi:10.1525/hlq.2006.69.3.425.  
+14. Guillory, John. *Cultural Capital: The Problem of Literary Canon Formation*. U of Chicago P, 1993.
+15. Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” *LIBER Quarterly*, vol. 25, no. 2, 2015, pp. 87--31, doi:10.18352/lq.10112.
+16. “MARC 21 Format for Authority Data.” *Cataloger's Reference Shelf*, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
+17. Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” *A Celebration of Women Writers*, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
+18. McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
+19. Moretti, Franco. *Distant Reading*. Verso, 2013.
+20. O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” *Georgian Theatre in an Information Age: Media, Performance, Sociability*, special issue of *Eighteenth-Century Fiction*, vol. 27, no. 3-4, 2015, pp. 479-507. *Project Muse*, muse.jhu.edu/article/584623. 
+21. Potter, Franz J. *The History of Gothic Publishing, 1800-1835: Exhuming the Trade*. Palgrave Macmillan, 2005.
+22. Raven, James. “Historical Introduction: The Novel Comes of Age.”  *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
+23. Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. *The Literary Encyclopedia*, volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
+24. Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/\~runge/MRobinson.htm. Accessed 07 June 2019.
+25. Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” *Touching Feeling*, Duke UP, 2003, pp. 123-151.
+26. Watt, Ian. *The Rise of the Novel: Studies in Defoe, Richardson and Fielding*. 1957. U of California P, 2001.
+27. Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly*, vol. 69, no. 3, 2006, pp. 425--450, doi:10.1525/hlq.2006.69.3.425.  
 
 Author. Title. Title of container (N/A if book), other contributors (translators or editors), version (edition), number (vol. and/or no.), publisher, publisher date, location (pp., URL/doi). Access date ## Mo #### only if site may change. 2nd container’s title if applicable, etc as above.
 
