@@ -421,15 +421,75 @@ Google Books prioritizes low-quality information over *no* information. The algo
 
 Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.  
 
+
+
+
+
+  
+
 The history of the English Short-Title Catalog is long
 
+Began in the 70s as a digital database
 
+“Those responsible for laying the foundations of the ESTC in the 1970s exhibited considerable foresight in their decision not to compile a printed catalogue along the lines of the original Pollard and Redgrave Short-Title Catalogue for 1476--1640 or Donald Wing’s catalogue for 1641--1700. Instead, they chose to exploit the resources of computing power, which meant that ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283)
 
 “Its editors stand in a succession that stretches through Alfred Pollard and the most discerning short-title cataloguer of them all, Katharine Pantzer.”  \\cite\{Tabor:2007wy p.385\}
 
+“Evenearlier,theESTCwasconsultedonaCD-ROM” (Karian 284)
+
 “the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” \\cite\{Tabor:2007wy p.367\}
 
-2006 - free public web access - “The freeing of ESTC, which combines those two components with a continuation up to and including 1800, now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” \\cite\{Tabor:2007wy p.367\}  
+2006 - free public web access - “The freeing of ESTC, which combines those two components with a continuation up to and including 1800, now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” \\cite\{Tabor:2007wy p.367\}
+
+2007 “at the time of this writing a process is under way to provide full title and imprint transcriptions for the eighteenth-century records. (The newly added title portions can be identified by a shift in capitalization conventions.)” (Tabor 370).  
+
+“ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (Tabor 369).
+
+
+
+An Edition:
+
+“Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369). The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). Tabor and I both deem the term “edition” a sufficient umbrella term “\[f\]or the purpose of this discussion” (Tabor 369).
+
+
+
+An Ideal Copy:
+
+“As additional reports of copies arrive, it may be that the ideal description must change in response. For instance, the existence of a half-title may only emerge on the evidence of the seventh copy reported. A half-title would then be added to the description of the ideal copy, and the six previously matched physical copies will receive notes recording that they are imperfect in this respect” (Tabor 370).
+
+“In ESTC the matching process hinges on five points of identity: the title, as far as it is given by ESTC; the edition statement; the imprint, again as far as it is given by ESTC; the pagination; and the format” (Tabor 370).  
+
+Using the database:
+
+“the needs of the specialist audience that has formed ESTC’s main constituency in the past and may reasonably be expected to continue as such: the explorers in the field who need detailed maps. In my task of mediating between the file and its users, I find that these people approach early books with questions regarding one or both of two broad topics: intellectual content and physical characteristics, the latter including the location of copies,” with most interested in “the physicality of books.” (Tabor 369)
+
+“When everything is working right, as it does in ESTC more often than not, the bibliographical description is completely accurate as far as it attempts to go, and variations in the matched copies can be reliably determined by the presence or absence of copy-specific notes. If anything happens to disturb the links between the description and its attached holdings, including errors committed in the course of creating the description, the record gets broken and starts telling lies about physical copies or, worse, about the ideal copy” (Tabor 370)
+
+
+
+“the ESTC is one of the best resources to identify relevant printed materials, determine their publishing histories, and find out where they can be examined” (Karian 283)  
+
+The ESTC is not actually only one database: “The STAR file[ is this still true?], maintained at the ESTC editorial office in Riverside, California, has been functioning for years as a repository for revisions that are transmitted in periodic updates to the publicly accessible file. ... In consequence, though invisible and inaccessible to most of ESTC’s users, STAR contains the most up-to-date version of the file.” (Tabor 373) There are two kinds of information, in particular, which the STAR file contains and which is concealed from ESTC users: the true ‘verified’ status of individual edition matches, and edition-specific notes on known errors.
+
+A “match” in the ESTC is a known copy of a book held in a library which serves as a representative of a particular edition. A match can be encoded as “verified” when an ESTC staff member consults the book to confirm that it corresponds to the edition in question, or “unverified” when this has not happened. But the STAR copy contains two additional verification statuses: when a contributor such as a librarian or a scholar submits a match, it is coded as a “web match.” “Because most outside contributors have received no training in the matching process from ESTC, it would be fair to say that these matches occupy a level of certainty somewhere between the ‘verified’ and ‘unverified’ levels” (Tabor 374). Automated uploads of various outside databases can also generate new matches, encoded as “catalogue matches;” these “have a comparatively low level of reliability” (Tabor 374). However, in the transition from STAR to ESTC, “The standard holdings display smoothes over these nuances; here both catalogue and web matches are translated to ‘verified’. This forces the file to make categorical statements of certainty even in obvious cases of considerable doubt” (374).
+
+\[STAR annotations and DFONOTEs\]  
+
+Transcription errors
+
+Broken records
+
+“A broken record occurs when information added to a record has not been checked against the copies already listed under that record” (Karian 285)  
+
+I have “a limited amount of ESTC core bibliographic data (i.e. ESTC ID, author, title, ed. statement and imprint)” (personal correspondence, rephrase), for items matching the query published in England 1789-99.  
+
+“To use a metaphor, some people prefer to explore the world through books of photographs with occasional schematic maps. ESTC, on the other hand, provides the equivalent of a detailed topographic map, but no pictures. Such technical tools have limited appeal, even to some specialists; but if you want to thoroughly learn the lie of the land, you will need one, and the more complete and accurate the better.” (Tabor)
+
+
+
+  
+
+“An increasingly common trend, I am sorry to report, is that more and more people do not want ESTC at all --- they want ECCO or EEBO. The younger generation of scholars in particular, lured by full-text images and ransacking the Web for illustrations for their books and articles, are using these utilities as de facto bibliographic databases. They find that the stripped-down records and simplified indexes are good enough for their purposes. To a minority of them, the fact that other works, editions, and copies exist outside the Web is irrelevant, and perhaps even irritating.” (Tabor 368)  
 
 Also in the category of smaller and specialized archives is Project Gutenberg. Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work[^cf26] --- its cultural capital as a resource lags far behind its use and utility. Project Gutenberg is easily conceived of as a haphazard, ‘unscholarly’ source for materials, but unlike Google Books, Project Gutenberg actually does have selection criteria. Project Gutenberg will only collect public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections are able to thoughtfully achieve their aims --- but they also make it correspondingly difficult for users[ does this not depend on the user? unpack] to achieve their own, different aims.  
 
