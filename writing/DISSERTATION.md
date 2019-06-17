@@ -203,7 +203,9 @@ Moreover, as in eighteenth-century texts themselves, the boundary between “can
 
 bc here you do not mean, 'canonical texts of the 1790s containing' but - more authoritative - right?]. HathiTrust’s collection contains digitized content from “a variety of sources, including Google, the Internet Archive, Microsoft, and in-house member institution initiatives” \\cite\{HathiTrust:2019vs\}. The “in-house member institutions” are six consortia (such as the University of California state university system), and one hundred and forty-nine individual universities and colleges \\cite\{HathiTrust:2019ti\}. The aggregate scholarly authority of these institutions carries the weight of elevating HathiTrust above the Google Books scans which form the backbone of much of its contents: “The members ensure the reliability and efficiency of the digital library,” the website assures us, “by relying on community standards and best practices” \\cite\{HathiTrust:2019vs\}. The collection itself is always expanding: the website contains a dedicated set of instructions for “Getting Content Into HathiTrust,” providing an “Ingest Checklist” for those who might contribute either existing or new digitized content \\cite\{HathiTrust:2019tf\}. The texts themselves are all stored as facsimile page images and full-text OCR transcripts. In order to comply with copyright law, however, HathiTrust only provides large-scale downloads and OCR transcripts for texts which are in the public domain. What does, in fact, distinguish HathiTrust from similar repositories is its commitment to enabling fair use and research-based access to texts as much as possible. Rather than favouring maximum restriction of access in order to ensure maximum protection from legal complaints, HathiTrust has innovated several ways to allow scholars to carry out text-mining analysis on copyrighted texts. The scholarly benefit of HathiTrust is most evident, therefore, in the study of contemporary literature, where copyright has been a major barrier to study. However, eighteenth-century texts are so firmly in the public domain that copyright issues rarely arise; instead, the major challenge in building large-scale corpora of transcripts (rather than facsimiles) is the resistance of eighteenth century typefaces to OCR. Especially since many eighteenth-century digital facsimiles are themselves fascimiles of microfiche (with resulting loss of image fidelity), running an eighteenth century page image through OCR software generally produces useless gibberish[ you perhaps need more on the shitload of work being done on OCR - maybe in the next chapter]. As a result, HathiTrust’s key intervention --- using OCR to circumvent copyright restrictions --- has limited applicability to eighteenth-century studies.  
 
-As this survey of eighteenth-century digital archives shows, there is no ‘perfect’ corpus for large-scale study of eighteenth-century texts. Moreover, I argue, the imperfect samples which each archive provides are shaped not only by historical factors of eighteenth-century print culture, but also by contemporary digital culture. Each archive represents a unique set of choices in response to the same sets of questions: what to include, why, how; what to make accessible, why, how, to whom; what, in the end, makes a text matter, and what we are meant to *do* with texts. As this dissertation will argue more fully in Chapter 2, these questions of digital history have important resonance with literary questions about literary canon formation[ so . this section is meant to be one of interesections - I think it's good, almost as is, but needs more that brings you towards the intersections with 1790s, canon, print points: perhaps this in lieu of some of the detail on e.g. Hathi which then really can go in ch. 2].
+As this survey of eighteenth-century digital archives shows, there is no ‘perfect’ corpus for large-scale study of eighteenth-century texts. Moreover, I argue, the imperfect samples which each archive provides are shaped not only by historical factors of eighteenth-century print culture, but also by contemporary digital culture. Each archive represents a unique set of choices in response to the same sets of questions: what to include, why, how; what to make accessible, why, how, to whom; what, in the end, makes a text matter, and what we are meant to *do* with texts. As this dissertation will argue more fully in Chapter 2, these questions of digital history have important resonance with literary questions about literary canon formation[ so . this section is meant to be one of interesections - I think it's good, almost as is, but needs more that brings you towards the intersections with 1790s, canon, print points: perhaps this in lieu of some of the detail on e.g. Hathi which then really can go in ch. 2].  
+
+As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettably, although this volume of The Cambridge history of the book in Britain ends in 1830, it is not possible to perform a similarly comprehensive analysis for the first decades of the nineteenth century because we have no equivalent bibliographical control for this period” (Suarez 40).
 
 
 
@@ -451,6 +453,10 @@ An Edition:
 
 “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369). The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). Tabor and I both deem the term “edition” a sufficient umbrella term “\[f\]or the purpose of this discussion” (Tabor 369).
 
+“The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
+
+“For the most part, the ESTC contains a record for each issue” (Karian 289) “Sometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type).” (Karian 289)
+
 
 
 An Ideal Copy:
@@ -477,9 +483,21 @@ A “match” in the ESTC is a known copy of a book held in a library which serv
 
 Transcription errors
 
+
+
 Broken records
 
-“A broken record occurs when information added to a record has not been checked against the copies already listed under that record” (Karian 285)  
+“A broken record occurs when information added to a record has not been checked against the copies already listed under that record” (Karian 285)
+
+
+
+Inaccurate dates
+
+‘The ESTC sometimes records the date as questionable, and sometimes records the date within a range. But when one does a large-scale search for records---for example, everything from 1720---there is no easy way to screen out items not definitively dated to 1720” (Karian 291)
+
+
+
+“only records bibliographic information about surviving books ... After a careful study of book advertisements, inventories and bibliographies, it seems to this investigator that, excluding jobbing and newspaper printing, as much as 10 per cent of the printed record from 1701--1800 has not been incorporated into the ESTC.11 In other words, for up to 10 per cent of the editions printed in the eighteenth century, not a single copy is known to survive.” (Suarez 40)  
 
 I have “a limited amount of ESTC core bibliographic data (i.e. ESTC ID, author, title, ed. statement and imprint)” (personal correspondence, rephrase), for items matching the query published in England 1789-99.  
 
