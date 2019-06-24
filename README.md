@@ -43,6 +43,14 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## June 24
+
+I think one thing Guillory is helping me think about is the practicalities of reforming systemic literary inequities. In chapter one he distinguishes the canon from the curriculum in a way that I actually find extremely freeing and invigorating -- the practical realities of the curriculum are real, and curricula always have to change, so I can embrace the work of revising my own curricula and syllabi as a sepearate project from Whatever It Is that I am going to try to do with canons. Like: I don't have to address the fact that "not everything can be canonical but there are no good reasons to invalidate a work" in order to solve the practical problems of the curriculum.
+
+## June 6, 2019
+
+The last couple days have seen a LOT of writing, but today I'm just kinda not feeling it..? I noodled on my bibliography a little bit instead -- up to 18 fully-formatted bib entries. I will definitely be glad not to be facing all of these at once at the end.
+
 ## June 2, 2019
 
 I'm really excited by some of the some Labbe has to say about CSmith and genre -- it's the thing that got me interested in reading writers transgenerically in the first place!!
