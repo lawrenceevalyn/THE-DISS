@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-06-24 03:01:59 -0400" ModID="6CFB7FAD-2059-4B2A-9899-AEDF23F85F7A">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-06-25 17:21:00 -0400" ModID="89248812-612B-4E9F-8D4A-BA1C14AE4779">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -847,14 +847,14 @@
                                                         <TextSelection>1521,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="B4200408-2E7E-4A61-BA21-01C8C3DA34AF" Type="Text" Created="2019-03-20 03:29:06 -0400" Modified="2019-06-04 17:22:29 -0400">
+                                                <BinderItem UUID="B4200408-2E7E-4A61-BA21-01C8C3DA34AF" Type="Text" Created="2019-03-20 03:29:06 -0400" Modified="2019-06-25 17:05:33 -0400">
                                                     <Title>encode assumptions</Title>
                                                     <MetaData>
                                                         <LabelID>9</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>354,0</TextSelection>
+                                                        <TextSelection>292,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -981,15 +981,6 @@
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>430,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="144D5CFC-32FD-45B7-B77D-1FD7B0F6DBB2" Type="Text" Created="2018-11-07 19:19:12 -0500" Modified="2018-12-08 16:11:22 -0500">
-                                                    <Title>Numbers to compare to</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>269,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -1361,7 +1352,7 @@
                                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                             </MetaData>
                                                             <TextSettings>
-                                                                <TextSelection>0,0</TextSelection>
+                                                                <TextSelection>212,0</TextSelection>
                                                             </TextSettings>
                                                         </BinderItem>
                                                         <BinderItem UUID="AF07A4FE-FF5C-41E8-93D5-7A5D5A0C540E" Type="Text" Created="2019-05-31 16:16:53 -0400" Modified="2019-05-31 16:17:28 -0400">
@@ -1640,155 +1631,173 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="EF9AF9F1-4CB1-43A9-AD82-1FDB7D6DE6A9" Type="Text" Created="2019-06-15 21:47:55 -0400" Modified="2019-06-15 21:47:57 -0400">
-                                            <Title>data cleaning</Title>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="B6941745-123F-45E3-9B00-F49B928E0AEB" Type="Text" Created="2018-11-30 00:06:45 -0500" Modified="2018-11-30 00:07:37 -0500">
+                                    <Title>demographics</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="144D5CFC-32FD-45B7-B77D-1FD7B0F6DBB2" Type="Text" Created="2018-11-07 19:19:12 -0500" Modified="2019-06-25 17:18:20 -0400">
+                                            <Title>Numbers to compare to</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>284,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="4EF37A1B-A246-4021-ABA3-DDD8656DC8DE" Type="Text" Created="2019-06-15 21:48:01 -0400" Modified="2019-06-15 21:48:05 -0400">
-                                                    <Title>ESTC</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="75A66E87-375B-41B1-B694-43A76F1B19EB" Type="Text" Created="2019-06-15 21:48:06 -0400" Modified="2019-06-15 21:48:07 -0400">
-                                                    <Title>ECCO</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="2CFE2DAC-195F-4289-8A04-403D014CC0A3" Type="Text" Created="2019-06-15 21:48:10 -0400" Modified="2019-06-15 21:48:13 -0400">
-                                                    <Title>ECCO-TCP</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="49D6AD4C-99DA-4069-9666-18FC39FCA775" Type="Text" Created="2019-06-15 21:48:13 -0400" Modified="2019-06-15 21:48:16 -0400">
-                                                    <Title>HathiTrust</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="B7E36EBC-2641-4246-B54C-3C5F9F316776" Type="Text" Created="2019-06-15 21:48:17 -0400" Modified="2019-06-15 21:48:19 -0400">
-                                                    <Title>ProQuest</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="08728CCD-6E5B-4269-BF43-1C808B57F3EA" Type="Text" Created="2019-06-15 21:48:20 -0400" Modified="2019-06-15 21:48:23 -0400">
-                                                    <Title>BL 19thC</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="9CD6A2C6-BEC2-4743-A7CE-239D979F8718" Type="Text" Created="2019-06-15 21:48:23 -0400" Modified="2019-06-15 21:48:24 -0400">
-                                                    <Title>END</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="0D7B0096-79AC-4A53-9B39-A2BD86671643" Type="Text" Created="2019-06-15 21:48:25 -0400" Modified="2019-06-15 21:48:30 -0400">
-                                                    <Title>WWO + Chawton</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="D07CE263-270B-476C-A315-76FCD7F27C98" Type="Text" Created="2019-06-15 21:48:31 -0400" Modified="2019-06-15 21:48:33 -0400">
-                                                    <Title>Corvey</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="76FFF600-7A4A-467D-A0A6-1DE4B948F827" Type="Text" Created="2019-06-15 21:48:33 -0400" Modified="2019-06-15 21:48:35 -0400">
-                                                    <Title>Gutenberg</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="54B0E214-D9DB-4912-9F93-DAD196DB08CC" Type="Text" Created="2019-06-15 21:48:36 -0400" Modified="2019-06-15 21:48:38 -0400">
-                                                    <Title>Google Books</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="99FC1917-9232-490E-8080-92159A62C6F9" Type="Text" Created="2019-06-15 21:48:38 -0400" Modified="2019-06-15 21:48:41 -0400">
-                                                    <Title>Internet Archive</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="B6941745-123F-45E3-9B00-F49B928E0AEB" Type="Text" Created="2018-11-30 00:06:45 -0500" Modified="2018-11-30 00:07:37 -0500">
-                                            <Title>demographics</Title>
+                                        <BinderItem UUID="1A68DC73-0834-47F2-BAB8-B42992A934BF" Type="Text" Created="2018-11-30 00:07:41 -0500" Modified="2018-11-30 00:07:46 -0500">
+                                            <Title>titles per year</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="1A68DC73-0834-47F2-BAB8-B42992A934BF" Type="Text" Created="2018-11-30 00:07:41 -0500" Modified="2018-11-30 00:07:46 -0500">
-                                                    <Title>titles per year</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="BAB1B0D5-DCCC-4204-92D0-EE7BF883A466" Type="Text" Created="2018-11-30 00:07:46 -0500" Modified="2018-11-30 00:19:04 -0500">
-                                                    <Title>men vs women vs unsigned</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>34,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="BAB1B0D5-DCCC-4204-92D0-EE7BF883A466" Type="Text" Created="2018-11-30 00:07:46 -0500" Modified="2018-11-30 00:19:04 -0500">
+                                            <Title>men vs women vs unsigned</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>34,0</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
+                                </BinderItem>
+                                <BinderItem UUID="EF9AF9F1-4CB1-43A9-AD82-1FDB7D6DE6A9" Type="Text" Created="2019-06-15 21:47:55 -0400" Modified="2019-06-15 21:47:57 -0400">
+                                    <Title>data cleaning</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="4EF37A1B-A246-4021-ABA3-DDD8656DC8DE" Type="Text" Created="2019-06-15 21:48:01 -0400" Modified="2019-06-15 21:48:05 -0400">
+                                            <Title>ESTC</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="75A66E87-375B-41B1-B694-43A76F1B19EB" Type="Text" Created="2019-06-15 21:48:06 -0400" Modified="2019-06-15 21:48:07 -0400">
+                                            <Title>ECCO</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="2CFE2DAC-195F-4289-8A04-403D014CC0A3" Type="Text" Created="2019-06-15 21:48:10 -0400" Modified="2019-06-15 21:48:13 -0400">
+                                            <Title>ECCO-TCP</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="49D6AD4C-99DA-4069-9666-18FC39FCA775" Type="Text" Created="2019-06-15 21:48:13 -0400" Modified="2019-06-15 21:48:16 -0400">
+                                            <Title>HathiTrust</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="B7E36EBC-2641-4246-B54C-3C5F9F316776" Type="Text" Created="2019-06-15 21:48:17 -0400" Modified="2019-06-15 21:48:19 -0400">
+                                            <Title>ProQuest</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="08728CCD-6E5B-4269-BF43-1C808B57F3EA" Type="Text" Created="2019-06-15 21:48:20 -0400" Modified="2019-06-15 21:48:23 -0400">
+                                            <Title>BL 19thC</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9CD6A2C6-BEC2-4743-A7CE-239D979F8718" Type="Text" Created="2019-06-15 21:48:23 -0400" Modified="2019-06-15 21:48:24 -0400">
+                                            <Title>END</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="0D7B0096-79AC-4A53-9B39-A2BD86671643" Type="Text" Created="2019-06-15 21:48:25 -0400" Modified="2019-06-15 21:48:30 -0400">
+                                            <Title>WWO + Chawton</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="D07CE263-270B-476C-A315-76FCD7F27C98" Type="Text" Created="2019-06-15 21:48:31 -0400" Modified="2019-06-15 21:48:33 -0400">
+                                            <Title>Corvey</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="76FFF600-7A4A-467D-A0A6-1DE4B948F827" Type="Text" Created="2019-06-15 21:48:33 -0400" Modified="2019-06-15 21:48:35 -0400">
+                                            <Title>Gutenberg</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="54B0E214-D9DB-4912-9F93-DAD196DB08CC" Type="Text" Created="2019-06-15 21:48:36 -0400" Modified="2019-06-15 21:48:38 -0400">
+                                            <Title>Google Books</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="99FC1917-9232-490E-8080-92159A62C6F9" Type="Text" Created="2019-06-15 21:48:38 -0400" Modified="2019-06-15 21:48:41 -0400">
+                                            <Title>Internet Archive</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="C2976CC9-5AD0-40D5-B986-E0E4D2B9A01F" Type="Text" Created="2019-06-25 16:54:42 -0400" Modified="2019-06-25 16:56:29 -0400">
+                                    <Title>sampling</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>487,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="6882FEA7-7C10-491A-B760-528945FD80D0" Type="Text" Created="2018-11-30 00:05:56 -0500" Modified="2018-11-30 00:13:36 -0500">
                                     <Title>reprints</Title>
@@ -2809,6 +2818,15 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                 <TextSelection>1090,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="400760AF-E4A7-411F-8617-D8544E4D43F1" Type="Text" Created="2019-06-15 20:02:18 -0400" Modified="2019-06-25 17:21:00 -0400">
+                            <Title>Suarez</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6872,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="0AFABD8D-827E-4021-B768-FA20C4133E5B" Type="Text" Created="2019-06-03 14:54:00 -0400" Modified="2019-06-15 18:31:56 -0400">
                             <Title>Tabor, Stephen. ESTC</Title>
                             <MetaData>
@@ -3009,15 +3027,6 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                     </MetaData>
                     <TextSettings>
                         <TextSelection>14249,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="400760AF-E4A7-411F-8617-D8544E4D43F1" Type="Text" Created="2019-06-15 20:02:18 -0400" Modified="2019-06-15 20:06:18 -0400">
-                    <Title>Suarez</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1496,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="25CBE6FF-1D8B-4CCF-999F-18FC33FB115F" Type="Text" Created="2019-06-20 02:53:42 -0400" Modified="2019-06-20 02:54:35 -0400">
@@ -8065,13 +8074,13 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">154</SessionTarget>
-        <PreviousSession Words="32" Characters="212" Date="2019-06-24 00:48:15 -0400"></PreviousSession>
+        <PreviousSession Words="153" Characters="968" Date="2019-06-25 16:47:16 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-06-24 00:00:00 -0400">
-        <DraftWordCount>32</DraftWordCount>
-        <DraftCharCount>212</DraftCharCount>
-        <OtherWordCount>188</OtherWordCount>
-        <OtherCharCount>1156</OtherCharCount>
+    <RecentWritingHistory Date="2019-06-25 00:00:00 -0400">
+        <DraftWordCount>153</DraftWordCount>
+        <DraftCharCount>968</DraftCharCount>
+        <OtherWordCount>1751</OtherWordCount>
+        <OtherCharCount>10811</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
