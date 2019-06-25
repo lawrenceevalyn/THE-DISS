@@ -313,6 +313,14 @@ if you are forced to manually encode assumptions into real code you have to conf
 
 
 
+“Inspecting and hand-counting individual records has the advantage of allowing the bibliographer to make careful discriminations, even as it introduces a degree of subjectivity (to say nothing of human error) and, hence, guarantees the irreproducibility of exact results.” (Suarex 42)
+
+“**sets of protocols for each of these categories were / developed and strictly adhered to” (Suarez 44-5)**
+
+**“the results of this study are repeatable, but not exactly so**.” (Suarez 45)
+
+
+
 ### 1.1.3.  upcoming 2 experiments ###  
 
 Having described a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to describe my own project in more detail. This dissertation has two major parts. The first examines the literature of the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource[ which resource. something missing here]. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson[ all this is too new to the reader to be handled so fast -which resources, why these touchstone authors, how is all of this related to what we just read about your scholarly background]. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building[ you have buried the lead - this is the lead]. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.
@@ -364,8 +372,6 @@ Without \[certain kinds of evidence\], as F&L note, “we will never be able to 
 Would need size of print runs and cost to produce, as well as sale price, and quantity sold.
 
 \[So it’s a little nonsense when people just say that something is popular\]  
-
-**Comedies vs tragedies performed**: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)  
 
 The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in England, between the years 1789-99. 
 
@@ -515,7 +521,17 @@ The collection seems to be less well-maintained now that the main creation activ
 
 Also in the category of smaller and specialized archives is Project Gutenberg. Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work[^cf27] --- its cultural capital as a resource lags far behind its use and utility. Project Gutenberg is easily conceived of as a haphazard, ‘unscholarly’ source for materials, but unlike Google Books, Project Gutenberg actually does have selection criteria. Project Gutenberg will only collect public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which was never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections are able to thoughtfully achieve their aims --- but they also make it correspondingly difficult for users[ does this not depend on the user? unpack] to achieve their own, different aims.  
 
+**Comedies vs tragedies performed**: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)
+
+**Suarez numbers**  
+
 1. I identify male/female ratios?  
+
+Other work which has used the methodology of sampling includes 
+
+
+
+Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
 
 Before I develop custom code, I establish some baselines by taking a random sample of 100 titles from each of my key corpora. I manually identify the original publication date of each title, and whether that title appears reprinted elsewhere in the corpus.
 
@@ -635,59 +651,7 @@ To find out more about the reading habits of individual borrowers, click on [**
 
 The most frequently borrowed books include periodicals, theological textbooks, and historical works. Click on the links to see lists of the most popular titles at [**Manchester College**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=MAN&groupby=book&order=loancountdesc), [**Homerton Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=HOM&groupby=book&order=loancountdesc), or [**Bristol Baptist Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=BRI&groupby=book&order=loancountdesc).  
 
-A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production (assuming that turns out to be true, of course.) Some of my earlier work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. (Importantly, stylometric methods are not able to distinguish a parody of the Gothic from a “real” Gothic; as I theorize and interpret my findings, then, I would take up Horner and Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy.) This final section could use a stylometric approach to identify and then search for “Gothic vocabularies” in full texts, computationally, in order to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? What kinds of literary production are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? This afterword would sketch out a preliminary map of the Gothic in the print world of the 1790s. This closing section would thus cite and build upon my prior work with the Gothic, in the context of the 1790s as a period when the penetration of Gothic modes into mainstream print had particularly complex political stakes.  
-
-1. Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing as Recursive Agency in the Long Eighteenth Century.” *Romanticism and Victorianism on the Net*, vol. 57-8, 2010, doi:10.7202/1006517ar.
-2. Bainbridge, Simon. *British Poetry and the Revolutionary and Napoleonic Wars: Visions of Conflict*. Oxford UP, 2003.
-3. Baldick, Chris, and Robert Mighall. “Gothic Criticism.” *A New Companion to The Gothic*, edited by David Punter, Wiley-Blackwell, 2012, pp. 265-287, doi:10.1002/9781444354959.ch19.
-4. Barthes, Roland. “The Reality Effect.” 1968. *The Rustle of Language*, translated by Richard Howard, Hill and Wang, 1986, pp. 141-148.
-5. Blanch, Anna Maree. *A Reassessment of the Authorship of the* Cheap Repository Tracts. 2009. Baylor University, Master’s Thesis.
-6. Blank, Antje. “Charlotte Smith.” Edited by Janet Todd. *The Literary Encyclopedia*, volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*, edited by Daniel Cook and Daniel Robinson, 23 June 2003, www.litencyc.com. Accessed 05 June 2019.
-7. Bruhm, Steven. “The Gothic Novel and the Negotiation of Homophobia.” *The Cambridge History of Gay and Lesbian Literature*, edited by E.L. McCallum and Mikko Tuhkanen, Cambridge UP, 2014, pp. 272-87.
-8. Champion, Erik. “Digital humanities is text heavy, visualization light, and simulation poor.” *Digital Scholarship in the Humanities*, volume 32, supplement to issue 1, April 2017, pp. 25--32, doi:10.1093/llc/fqw053.
-9. Clery, E.J. *The Rise of Supernatural Fiction 1762-1800*. Cambridge UP, 1995.
-10. Cronin, Richard. *The Politics of Romantic Poetry: In Search of the Pure Commonwealth*. Palgrave Macmillan, 2000.
-11. Cross, Ashley. “From *Lyrical Ballads* to *Lyrical Tales*: Mary Robinson's Reputation and the Problem of Literary Debt.” *Studies in Romanticism*, volume 40, number 4, 2001, pp. 571--605, doi:10.2307/25601532.
-12. ---. *Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784--1821*. Routledge, 2016.
-13. Cohen, Margaret. *The Sentimental Education of the Novel*. Princeton UP, 1999.
-14. Dawkins, Richard. “Memes: the new replicators.” 1976. *The Selfish Gene*, Oxford UP, 1989, pp. 189-201.
-15. Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*. Harvard UP, 2014.
-16. ---. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, volume 5, number 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
-17. “ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, www.textcreationpartnership.org/tcp-ecco. Accessed 20 June 2019.
-18. Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
-19. Frow, John. *Genre*. Routledge, 2015.
-20. Fry, Carrol L. *Charlotte Smith*. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
-21. Gamer, Michael. *Romanticism and the Gothic: Genre, Reception, and Canon Formation*. Cambridge UP, 2000.
-22. Garnai, Amy. *Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald*. Palgrave Macmillan, 2009.
-23. Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
-24. Garside, Peter, James Raven, and Rainer Schöwerling, editors. *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, Oxford UP, 2000. 2 vols.
-25. ---. General Introduction. *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
-26. Gregg, Stephen H. “Finding ECCO-TCP texts.” *Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities*, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
-27. Guillory, John. *Cultural Capital: The Problem of Literary Canon Formation*. U of Chicago P, 1993.
-28. Karian, Stephen. "The Limitations and Possibilities of the ESTC." *The Age of Johnson*, vol. 21, 2011, pp. 283-297. *ProQuest,* ProQuest document ID 1689625001.
-29. Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” *LIBER Quarterly*, vol. 25, no. 2, 2015, pp. 87--31, doi:10.18352/lq.10112.
-30. “MARC 21 Format for Authority Data.” *Cataloger's Reference Shelf*, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
-31. Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” *A Celebration of Women Writers*, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
-32. McCarty, Willard. “Knowing: Modeling in Literary Studies.” *A Companion to Digital Literary Studies*, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
-33. Moretti, Franco. *Distant Reading*. Verso, 2013.
-34. OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
-35. O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” *Georgian Theatre in an Information Age: Media, Performance, Sociability*, special issue of *Eighteenth-Century Fiction*, vol. 27, no. 3-4, 2015, pp. 479-507. *Project Muse*, muse.jhu.edu/article/584623. 
-36. Potter, Franz J. *The History of Gothic Publishing, 1800-1835: Exhuming the Trade*. Palgrave Macmillan, 2005.
-37. Raven, James. “Historical Introduction: The Novel Comes of Age.”  *The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles*, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
-38. Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. *The Literary Encyclopedia*, volume 1.2.1.06: *English Writing and Culture of the Romantic Period, 1789-1837*, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
-39. Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/\~runge/MRobinson.htm. Accessed 07 June 2019.
-40. Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” *Touching Feeling*, Duke UP, 2003, pp. 123-151.
-41. Stott, Anne. “Hannah More Chronology.” *The Victorian Web*, 2002, www.victorianweb.org/authors/more/chron.html.
-42. Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701--1800.” *The Cambridge History of the Book in Britain, Volume 5: 1695--1830*, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
-43. Tabor, Stephen. "ESTC and the Bibliographical Community." *The Library: The Transactions of the Bibliographical Society*, vol. 8 no. 4, 2007, pp. 367-386. *Project MUSE*, muse.jhu.edu/article/230381.
-44. Watt, Ian. *The Rise of the Novel: Studies in Defoe, Richardson and Fielding*. 1957. U of California P, 2001.
-45. Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Huntington Library Quarterly*, vol. 69, no. 3, 2006, pp. 425--450, doi:10.1525/hlq.2006.69.3.425.  
-
-Author. Title. Title of container (N/A if book), other contributors (translators or editors), version (edition), number (vol. and/or no.), publisher, publisher date, location (pp., URL/doi). Access date ## Mo #### only if site may change. 2nd container’s title if applicable, etc as above.
-
-
-
-“Et al.” is for 4+ authors. If there are 3, list all 3; at 4+, list first person then “et al.”
+A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production (assuming that turns out to be true, of course.) Some of my earlier work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. (Importantly, stylometric methods are not able to distinguish a parody of the Gothic from a “real” Gothic; as I theorize and interpret my findings, then, I would take up Horner and Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy.) This final section could use a stylometric approach to identify and then search for “Gothic vocabularies” in full texts, computationally, in order to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? What kinds of literary production are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? This afterword would sketch out a preliminary map of the Gothic in the print world of the 1790s. This closing section would thus cite and build upon my prior work with the Gothic, in the context of the 1790s as a period when the penetration of Gothic modes into mainstream print had particularly complex political stakes.
 
 [^cf1]: More specifically, these “authors” are “Great Britain, Parliament,” “Great Britain,” “Great Britain, Parliament, House of Commons,” “Great Britain, Lords Commissioners of Appeals in Prize Causes,” and King George III. After King George comes Thomas Paine and Hannah More, and then it’s “Great Britain, Parliament, House of Lords” and “Church of England.”
 
