@@ -147,7 +147,12 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
             <Text>One of the things I like about computational methods is that, ultimately, there are no glossy simplifications — one must touch and somehow *account for* the things that don’t fit the pattern</Text>
         </Document>
         <Document ID="DA6DD1BC-1654-46ED-8312-234AE106E24B">
+            <Title>database structure</Title>
             <Text>“ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (Tabor 369).
+
+“The Project staff found that many eighteenth-century books in hundreds of libraries around the world have never been / catalogued at all, or are described in a group heading,” especially for single-sheet items (Korshin 210-211). “Panizzis ‘Rules' lead to confusing entries and filing for anonymous entries or for items with corporate authorship. For these, and many other related reasons, Alston and Jannetta decided to write their own cataloguing rules, allowing their entries eventually to be converted into machine-readable form, but differing slightly from the standards for machine-readable cataloguing devised in this country (Library of Congress MARC) and in the United Kingdom (UK MARC). Modern machine-readable cataloguing has been devised to deal with cataloguing new books and serials; the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book inhis or her library is the same or different from the one listed in ESTC.” (Korshin 211)
+
+“Because the ESTC was formed from three different projects over many decades, the existence of subject headings varies. For books that are from the periods 1475-1640 (from the original Short-Title Catalogue created by Pollard and Redgrave) and 1641-1700 (from Donald Wing’s short-title catalogue), subject headings exist. But subject headings were not initially created for the eighteenth-century records in the ESTC, and so subject headings rarely occur for the items in ECCO.” (Karian, “Guide” 3)
 
 An Edition:
 “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369). The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). Tabor and I both deem the term “edition” a sufficient umbrella term “[f]or the purpose of this discussion” (Tabor 369).
@@ -279,9 +284,6 @@ compare discussion of use of "Romance" in title to the Handbook?
 
 difficulty of identifying sentimental and sensation novels ... "I have tried to address this difficulty in the gothic category by separating gothic and gothic elements into two mutually-exclusive categories... The difference between the categories is of degree rather than kind.” (58)</Text>
         </Document>
-        <Document ID="10833A75-9DF6-41BE-91F2-D55DC6AA2129">
-            <Title>why 1790s</Title>
-        </Document>
         <Document ID="254B30F3-34C5-4936-BB8E-989754F5EA78">
             <Title>reparative reading</Title>
             <Text>The digital humanities and the eighteenth century are my primary subject matter, but I am also deliberately employing certain theoretical frameworks in my thinking. In the ‘venn diagram’ of three fields, the ‘queer theory’ circle is smaller, but no less important. My primary theoretical framework is that of reparative reading. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism \cite{Sedgwick:2003up}, and attempts to sketch an alternative in what she terms  reparative reading. My touchstones are two descriptions from Sedgwick’s original chapter, “Paranoid Reading and Reparative Reading”:  
@@ -291,6 +293,9 @@ What Sedgwick describes, here, is a “desire,” not a methodology.  I do not (
             <Comments>this doesn't make sense to a reader (I know what you mean, others won't)
 I feel like I really shouldn’t shorthand all this stuff as “queer theory,” since I’m not persuaded that eg Felski is at ALL a ‘queer theorist’ — but it all comes from Sedgwick for me, and I do need some kind of name for this collection of ideas — and my own attachment to Felski is tied to queerness
 in your last section, you really need to make it clear this is what you are doing: because right now it is not clear.</Comments>
+        </Document>
+        <Document ID="10833A75-9DF6-41BE-91F2-D55DC6AA2129">
+            <Title>why 1790s</Title>
         </Document>
         <Document ID="81AABBFE-1171-4ABC-8640-B34A5757E0B7">
             <Title>she also has 3 boyfriends</Title>
@@ -355,14 +360,14 @@ Alex: “sounds chapter-able. very good.”</Text>
             <Title>ESTC: prominence of the "back catalogue"</Title>
             <Text>Older works will have had more years for people to potentially read them, so that an increase in an author’s popularity also increases the relevance of their older works. A new bestseller like Udolpho supplements The Romance of the Forest, it doesn’t supercede it. Ditto Charlotte Smith’s Elegiac Sonnets.</Text>
         </Document>
+        <Document ID="2C0FA2BF-DBEA-4DD4-B832-35E461C96AF1">
+            <Title>Gamer precis</Title>
+            <Text>Gamer’s work provides a foundation for the non-digital elements of my inquiry, detailing the interconnectednesss of what is now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. Gamer explores the paradox that “gothic readers, gothic writers, and gothic reviewers are specific categories that do not reflect the demographic makeup of late-eighteenth-century British readership yet dominate gothic’s reception” (37), to argue that “gothic’s cultural stigma could serve as a basis for the construction of more legitimate cultural forms” (200). By using Gothic materials in self-avowedly non-Gothic ways, Romantic writers could appeal to popular taste while maintaining social cachet.</Text>
+        </Document>
         <Document ID="5E8A773D-49F0-47F5-81AF-95AFDCB21F21">
             <Title>Gillian Russell’s Theatres of War (1995), which considers</Title>
             <Text>Gillian Russell’s Theatres of War (1995), which considers the spectacle of the Revolutionary and Napoleonic Wars on the stages of public and private theatres as well as the presence of the military in audiences and its consequences. Russell also reveals much about the performance of plays by military personnel, in barracks or on-board ships. There is a substantial investigation of the theatricality of Nelson’s funeral too. 
 </Text>
-        </Document>
-        <Document ID="2C0FA2BF-DBEA-4DD4-B832-35E461C96AF1">
-            <Title>Gamer precis</Title>
-            <Text>Gamer’s work provides a foundation for the non-digital elements of my inquiry, detailing the interconnectednesss of what is now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. Gamer explores the paradox that “gothic readers, gothic writers, and gothic reviewers are specific categories that do not reflect the demographic makeup of late-eighteenth-century British readership yet dominate gothic’s reception” (37), to argue that “gothic’s cultural stigma could serve as a basis for the construction of more legitimate cultural forms” (200). By using Gothic materials in self-avowedly non-Gothic ways, Romantic writers could appeal to popular taste while maintaining social cachet.</Text>
         </Document>
         <Document ID="52F67E28-A4B6-412C-8665-EE68393648A5">
             <Title>be true to the variety of the period, but also true to its chief emphasis</Title>
@@ -409,14 +414,14 @@ See: Zipf's law; that Vsauce video Olli sent me
             <Title>republication with political goals</Title>
             <Text>Contemporaneous with the standing army controversy of the late 1690s was a remarkable campaign of republication of earlier texts, and of textual manipulation, which bequeathed ‘commonwealth’ handbooks to the com- ing century, and established what became a hackneyed canon of political high virtue. This was chiefly the work of the prolific Toland. The Whig martyr Algernon Sidney’s Discourses concerning Government, for which he had been executed in 1683, appeared in 1698; the Works of John Milton came out in 1699; those of the republican James Harrington in 1700. In a shrewd piece of editorial revision, Toland transformed the tone of Colonel Edmund Ludlow’s Civil War Memoirs, written in the 1660s, and published in 1698, softening Ludlow’s militant godly zeal into a secular moralism more suited to Enlightenment sensibilities. To take just one instance of Toland’s tech- nique, a hero of the Civil Wars who in the original manuscript went to his execution like ‘a lamb of Christ’, in the printed edition ‘died like a Roman’ (Worden 1978, 2001). </Text>
         </Document>
-        <Document ID="1A9F2D04-BA51-4338-9770-5F52961EC778">
-            <Title>my 1790s</Title>
+        <Document ID="3F1E1FDD-D1D5-4C5C-8FEB-D54F3F5992FB">
+            <Title>contents</Title>
         </Document>
         <Document ID="1F1FC9AB-0718-49A2-9B1B-0EBC8E71F702">
             <Title>mark algee-hewitt</Title>
         </Document>
-        <Document ID="3F1E1FDD-D1D5-4C5C-8FEB-D54F3F5992FB">
-            <Title>contents</Title>
+        <Document ID="EF9AF9F1-4CB1-43A9-AD82-1FDB7D6DE6A9">
+            <Title>data cleaning</Title>
         </Document>
         <Document ID="5B630A27-D895-40FD-8640-23CB0F6755E3">
             <Title>McCarty: interdisciplinary</Title>
@@ -426,6 +431,9 @@ See: Zipf's law; that Vsauce video Olli sent me
         <Document ID="15110D87-360F-4007-AE8D-B8C83C1132D5">
             <Title>Sarah Scudgell Wilkinson</Title>
             <Text>http://orlando.cambridge.org/public/svPeople?person_id=wilksa</Text>
+        </Document>
+        <Document ID="1A9F2D04-BA51-4338-9770-5F52961EC778">
+            <Title>my 1790s</Title>
         </Document>
         <Document ID="EF0BFA19-762A-4FCD-9EE2-B4C88D2E208C">
             <Title>position attempt 1</Title>
@@ -440,15 +448,15 @@ My interest in the gothic is thus subsumed within my interest in 18thC strategie
         <Document ID="96C65774-7EAB-4C3F-8221-676B7305B59A">
             <Title>my corpus</Title>
         </Document>
-        <Document ID="20769115-5173-450F-A735-2F45CF1C32BA">
-            <Title>Romanticism</Title>
-        </Document>
         <Document ID="42D9F0E4-1B22-49F7-90B1-B771983D5673">
             <Title>Nicky Case explorables</Title>
             <Text>I want to use Nicky Case's explorables to model the underlying systems of 18thC lit! Just gotta... formulate some hypotheses... that are in the form of systems.
 http://explorabl.es/
 http://ncase.me/loopy/
 </Text>
+        </Document>
+        <Document ID="20769115-5173-450F-A735-2F45CF1C32BA">
+            <Title>Romanticism</Title>
         </Document>
         <Document ID="5B785A19-E688-47DB-85E1-AB50D7330B78">
             <Title>all together now!</Title>
@@ -535,12 +543,6 @@ A potential coda or afterword could build on the work of Robert Miles and others
 the Radcliffe-Austen connection ought to be pretty well-trod, though; Northanger Abbey is famously a rewriting of Udolpho
 Alex: “yes very - but you are not talking about Austen's reading of Radcliffe so much as her reading v. their reading?”</Text>
         </Document>
-        <Document ID="1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C">
-            <Title>conclusion ??</Title>
-        </Document>
-        <Document ID="66C685C3-677E-4BC9-900F-2EAFE82E93B8">
-            <Title>?</Title>
-        </Document>
         <Document ID="6C6ED5D9-8246-4646-AE96-339979CA9CDD">
             <Title>taking samples</Title>
             <Text>First, I make sure the data is “clean” and comparable to all the others:
@@ -551,6 +553,12 @@ Alex: “yes very - but you are not talking about Austen's reading of Radcliffe 
 I get a count of how many titles are in the corpus.
 
 I use random.org to get 100 randomly-generated numbers. I use the “sequence” generator, not the “integer” generator.</Text>
+        </Document>
+        <Document ID="66C685C3-677E-4BC9-900F-2EAFE82E93B8">
+            <Title>?</Title>
+        </Document>
+        <Document ID="1EE0CDD6-F04E-4E07-ADF9-4486F37BE53C">
+            <Title>conclusion ??</Title>
         </Document>
         <Document ID="F7FDC8E8-0CDF-426A-BA6E-423DB1A138DB">
             <Title>Shakey popularity paper to read</Title>
@@ -773,12 +781,11 @@ Or…. IS there really no evangelical revival in the 90s??</Text>
         <Document ID="F567B1B9-205A-4769-860A-D5A007683941">
             <Title>Annotated Bibliography</Title>
         </Document>
+        <Document ID="F25F1E26-4215-44DD-85E7-B60E0A60EC59">
+            <Title>Hannah More</Title>
+        </Document>
         <Document ID="4B274490-B409-48DB-8105-E96549BEF3CF">
             <Title>Charlotte Smith</Title>
-        </Document>
-        <Document ID="A6CE1E54-497E-4217-A3E4-CF5B5057A57A">
-            <Title>many histories of 1790s</Title>
-            <Text>So, too, are there many “histories” — or perhaps, narratives — available to describe the 1790s. Of necessity, each of these histories must exclude something.</Text>
         </Document>
         <Document ID="D2792590-BB6C-4961-85B0-49A973149012">
             <Title>republished in 1776</Title>
@@ -794,6 +801,10 @@ Or…. IS there really no evangelical revival in the 90s??</Text>
         </Document>
         <Document ID="D45E63CB-57AB-483E-B3D7-F92E5ABB9AEC">
             <Title>Wordsworth wrote collaboratively</Title>
+        </Document>
+        <Document ID="A6CE1E54-497E-4217-A3E4-CF5B5057A57A">
+            <Title>many histories of 1790s</Title>
+            <Text>So, too, are there many “histories” — or perhaps, narratives — available to describe the 1790s. Of necessity, each of these histories must exclude something.</Text>
         </Document>
         <Document ID="64E00965-511C-41BC-8DB3-05E308BF56EC">
             <Title>David Brewer abstract</Title>
@@ -811,14 +822,45 @@ Or…. IS there really no evangelical revival in the 90s??</Text>
             <Text>The incestuous Romantic poets writing to each other all the time is a translation of the Della Cruscans; Mary Robinson participates in both conversations</Text>
         </Document>
         <Document ID="400760AF-E4A7-411F-8617-D8544E4D43F1">
-            <Title>Suarez</Title>
-            <Text>, I tender a preliminary analysis of the surviving record of eighteenth-century imprints in Britain and Ireland based on an ordered sampling of the English short-title catalogue (39)
+            <Title>Suarez ESTC</Title>
+            <Text>WHO SAID THIS ABOUT THIS WORK? “This article should be required reading for those trying to use the ESTC for bibliometric purposes.” — Probably Karian??
+Suarez provides an analysis of genre, place of publication, format, length (in sheets), and reprints.
+I tender a preliminary analysis of the surviving record of eighteenth-century imprints in Britain and Ireland based on an ordered sampling of the English short-title catalogue (39)
 Among the problems one encounters in using the ESTC for data collection and analysis is that it is not a stable database, but rather is constantly growing and changing as it is updated and subject to improvements, additions and corrections.5 The data in this study were collected between 2002 and 2004; while every effort has been made to control for the shifting nature of the database, such accommodations have not always been possible, especially since neither corrections nor / additions to the ESTC are marked as new.6 (At times, one may feel rather like Walter Shandy compiling the Tristapaedia.) (39-40)
 Regrettably, although this volume of The Cambridge history of the book in Britain ends in 1830, it is not possible to perform a similarly comprehensive analysis for the first decades of the nineteenth century because we have no equivalent bibliographical control for this period. The nineteenth century short-title catalogue is based on the holdings of a far more limited number of libraries than is the ESTC, and is especially weak in provincial publishing at a time when such publications were increasingly important to local and regional markets.8 Even adding records from Copac ® and the Online Computer Library Centre’s WorldCat would not produce a bibliography with coverage comparable to the ESTC. Other attempts at providing a more thorough conspectus of imprints for the nineteenth century, although valuable, similarly do not have the comprehensive qualities of the ESTC. (40)
-One crucial caveat should be considered at the outset: the Eighteenth-century short-title catalogue, as it was, and the English short-title catalogue, as it is now – coverage having been extended retrospectively to the mid-fifteenth century – only records bibliographic information about surviving books.10 After a careful study of book advertisements, inventories and bibliographies, it seems to this investigator that, excluding jobbing and newspaper printing, as much as 10 per cent of the printed record from 1701–1800 has not been incorporated into the ESTC.11 In other words, for up to 10 per cent of the editions printed in the eighteenth century, not a single copy is known to survive. (40)</Text>
-        </Document>
-        <Document ID="B72D63B9-9BAE-49B8-A47A-6CC3CB403563">
-            <Title>April 27 Thesis Proposal</Title>
+One crucial caveat should be considered at the outset: the Eighteenth-century short-title catalogue, as it was, and the English short-title catalogue, as it is now – coverage having been extended retrospectively to the mid-fifteenth century – only records bibliographic information about surviving books.10 After a careful study of book advertisements, inventories and bibliographies, it seems to this investigator that, excluding jobbing and newspaper printing, as much as 10 per cent of the printed record from 1701–1800 has not been incorporated into the ESTC.11 In other words, for up to 10 per cent of the editions printed in the eighteenth century, not a single copy is known to survive. (40)
+“These cover all imprints and significant bibliographical variants of books published in the British Isles and Great Britain’s colonial territories (with the addition of the United States of America, 1776–1800) in any language; books published in English, Irish, Gaelic or Welsh elsewhere in the world (for example, the Low Countries, France, Germany); and any imprint falsely claiming to be from London.” (41)
+“Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three – 1703, 1713, 1723 and so on – I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.14 A weakness of many statistical studies of union catalogues is that they do not take this problem into account; one investigation found that nearly one-fifth of all imprints grouped in a given year, 1701, were assigned either by ‘estimation’ / or by ‘internal evidence’ – that is, without the year appearing in an imprint.15 ESTC lumps undated items into the nearest year ending in ‘0’ or ‘5’, so that ‘the peaks in production in such years are therefore to some extent the result of cataloguing practice, rather than increased real output’. “ (41-2)
+“In order to determine the number of relevant imprints for analysis, the protocol for this study has been to examine every record in a given year, first sifting out all records that are geographically irrelevant – those coming from the Continent and the American colonies, for example. I have counted in my sample all those records originating in England, Scotland, Wales and, perhaps controversially, Ireland. “ (42)
+“p.6: Inspecting and hand-counting individual records has the advantage of allowing the bibliographer to make careful discriminations, even as it introduces a degree of subjectivity (to say nothing of human error) and, hence, guarantees the irreproducibility of exact results. -- Highlighted Jun 25, 2019” (42)
+#(43)
+p.7: In all, I examined 34,335 records, partitioned the non-Britain and non-Ireland imprints, leaving 29,510 records, and recorded 134,732 data points. -- Highlighted Jun 25, 2019 (43)
+p.7: the number of titles per annum exhibits a remarkable rise from a low of 1,744 per annum in 1723 to 6,801 in 1793, an increase of 390 per cent.21 Perhaps surprisingly, the year with the fewest number of imprints is not 1703 but 1723, a fact most probably accounted for by the volatility and instability of financial markets in London, and indeed elsewhere, following the South Sea Bubble financial crisis of 1720. -- Highlighted Jun 25, 2019 (43)
+“It is important to bear in mind that these statistics merely represent numbers of imprints; they do not measure productive output per se because they take into consideration neither sheet counts nor edition quantities. Counting imprints is a deeply flawed way to measure output (to say nothing of produc- tive capacity). The only way, really, to establish an accurate picture is to undertake a sheet count.25 Yet, such a grand analysis simply was not tractable for an investigation using aggregate data from more than 34,000 records – le mieux est l’ennemi du bien.26 “ (44)
+“This information was acquired by examining every record for information pertinent to five principal categories: (1) genre, (2) place of publication, (3) bibliographical format, (4) length (in sheets) and (5) reprints and/or repeat publications. “ (44)
+“Although sets of protocols for each of these categories were / developed and strictly adhered to, there still is an inescapable element of subjective judgement in this study. In formulating and carrying out this investigation’s design, I have tried to eliminate arbitrariness wherever possible. In the case of genre, for example, where a definitive category could not be determined, the record simply was not counted, rather than make an arbitrary judgement.30 So too, with respect to bibliographical format: if the information available would not allow for a definitive determination, then no entry for that record was tabulated in the format category.31 Nevertheless, such protocols do not free an investigation such as this from the fact that many decisions are perforce made subjectively – and that thousands of such judgements are required. Thus, the results of this study are repeatable, but not exactly so.” (44-45)
+￼(46)
+“p.9:  I have endeavoured to fashion them in ways that would have been both intelligible to the eighteenth-century ‘common reader’ -- Highlighted Jun 25, 2019” (45)
+“Examining the category ‘politics, government and law’ … the number of titles more than triples from 1703 / to 1793, but stays essentially the same in terms of its ratio to the whole for each year. … among the categories I have examined, politics, government and law is the most consistent.” (46-7)
+“The ‘medicine, mathematics and science’ group is represented by fewer than 50 titles in 1713 (70 titles in 1703); these numbers comprise approximately 2 per cent of the total productive output of the book trade. By 1783, however, that number has increased to 210, or 7 per cent of all records for that year. The 223 titles in 1793 represent a decrease to about 4.4 per cent of the total, but this is probably because of a sharp increase in provincial publishing, which is less likely to produce scientific and mathematical books that often require detailed illustrations and/or complex typesetting. An upward trend in medicine, math- ematics and science publications is clear, and felicitously in accord with our notions about the Enlightenment and its consequent dissemination of scien- tific ideas.33” (47)
+“Just as the eighteenth century is a period of intellectual revolution, so too – and indeed no less – is it a time when the financial infrastructure of England and Scotland radically changes.34 It is somewhat surprising, therefore, to note a slight downward trend in the ratio of ‘business and finance’ books to the total output of the trade 1703–53, during which time such titles comprise just 5 per cent of the total. Yet, this trend is markedly reversed from 1763 to 1793, years that exhibit steady rises in both the number and proportion of titles – culmi- nating in 16 per cent of the total recorded for 1793 – and concomitant growth in provincial and London banking, the London stock and money markets, turnpike and other local trusts, joint-stock companies, and industrial investment.35 “ (47)
+“By far the most important publishing category at the start of the century is ‘religion, philosophy and ethics’. In 1703, 34 per cent of all titles published belonged to this group. Perhaps surprisingly – considering England’s Erastian state and the importance of books and publishing to religious culture in England, Scotland and Wales more generally – this class of titles exhibits a significant downward trend throughout the century, ending with just 16 per cent of the whole, despite a significant increase in the number of publications in the last decade of our sample. Of course, the number of published titles does / not decrease, but it declines as a proportion of the total. That business and finance publications should in the last decade of the century represent the same proportion of publications as religion, philosophy and ethics is highly surpris- ing and may give credence to then-contemporary worries about growing secularization and the need to effect a religious revival. Nevertheless, as John Barnard has established, such numbers cannot be taken wholly at face value because survival rates for certain kinds of religious publications are remarkably low. “ (47-8)
+“The eighteenth century is, famously, the era of ‘the rise of the novel’. We know, for example, that Robinson Crusoe went through six editions of 1,000 copies each in just four months, that Pamela sold approximately 20,000 copies in fourteen months, and that 6,500 copies of Roderick Random came on the market in less than two years.37 Nevertheless, when we examine the numbers of titles published – taking no account of edition sizes – we realize what a small portion of the market fiction actually occupied.38 During the period 1703–53, fiction of all kinds never constitutes as much as 2 per cent of the market (by editions published, not numbers of copies). Even at its height in the eighteenth century, fiction publishing represents slightly less than 3.5 per cent of all surviving titles. This fact may lead some bibliographers and book historians to question the emphasis on fiction publishing that characterizes so much of the work in our field. When viewing fiction as a percentage of the broader category ‘literature, classics and belles-lettres’, throughout the century, novel publishing never makes up more than a quarter of this category and, in 1743, is only around 10 per cent of the total. “ (48) — the lesson about fiction, I think, is that it is notable in the number of copies per title, rather than the number of titles
+“p.12: Because their survival rates are so notoriously poor, ‘education and children’s books’ are especially problematic categories for bibliometric analysis. -- Highlighted Jun 25, 2019” (48) “It seems highly implausible, espe- cially in the last two decades of the eighteenth century, that education and children’s books should never exceed more than 120 per annum, or a high of approximately 3.75 per cent of the total annual output. Although it is true that sometimes the most interesting and important results in an investigation are counter-intuitive, in this instance our knowledge about survival rates strongly suggests that the data for this publishing category are so far off the mark as to be almost completely unreliable.41” (49)
+“In much the same vein, when we examine the group of titles belonging to ‘agriculture, almanacs and practical matters’, it seems almost impossible to believe that such books, even if we are only counting titles and not edition quantities, never reached as much as 3.5 per cent of the total annual output, and were so constrained as never to exceed more than 108 editions per annum. Again, the answer lies in the fact that, like school-books and children’s books, the editions in this category are more than usually subject to stochastic pro- cesses.” (49) “Ackers records print runs of between 5,000 and 6,500 for editions dated 1737–47 (after which we have no records), making a total of / 64,000 copies of which only two – one each in 1741 and 1747 – are represented in ESTC, a survival rate of 1:32,000.” (49-50)
+￼
+￼(53)
+p.18: Finally, to some extent the underrepresentation of provincial publishing is an artefact of ESTC cataloguing practices: when a book was published both in London and provincially, the provincial imprint was not always included -- Highlighted Jun 25, 2019 (54)
+Book Formats
+￼(56)
+￼(57)
+“The answer lies, in part, in the disproportionately high survival rates of large-format books. As Roger Stoddard’s Law reminds us, ‘Bigger books linger longer; little books last least.’70 Folios and, to a lesser extent, quartos tend to persist; octavos and duodecimos – not only because of their size, but also because of the ways they are read and used – commonly perish.” (57) “Folios for Greek and Latin classics, patristic authors, important works of divinity and display bibles were far more likely to be preserved than octavo or duodecimo books whose very size is a bibliographical code suggesting that they are of lesser importance.” (58) “Thus, although randomness certainly plays its part, not all books have an equal chance of survival; format and genre are highly determinative factors.” (58)
+— This is a place where “exclusion” does come into play; these lesser works are excluded from contemporary archives/databases because of their format, which itself was not random but tied to social identity
+￼(60)
+￼(61)
+￼(63)
+￼(64)
+</Text>
         </Document>
         <Document ID="B10220B7-8A9B-4339-9410-578182F128BA">
             <Title>Coleridge wrote "We Are Seven"</Title>
@@ -827,6 +869,9 @@ One crucial caveat should be considered at the outset: the Eighteenth-century sh
 And it’s even an IN JOKE, and he uses the stanza just as Coleridge wrote it, deleting the joke without replacing it with anything!! This is not transcendent inspiration and individual genius. (He had long left behind the mountain and the girl when he wrote; he was thinking about tea time!)
 
 — It is perfectly fine to be thinking about tea time; the poem is still wonderful. But the myth simply doesn’t work.</Text>
+        </Document>
+        <Document ID="B72D63B9-9BAE-49B8-A47A-6CC3CB403563">
+            <Title>April 27 Thesis Proposal</Title>
         </Document>
         <Document ID="541964B5-5159-4138-BB0E-B18CC654CCE7">
             <Title>ESTC</Title>
@@ -1017,6 +1062,7 @@ Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” *Hunti
 https://www.18thcenturycommon.org/collections/digital-humanities-18th-century-studies/</Text>
         </Document>
         <Document ID="EEFABF23-48A8-4690-BA47-C75F25EC9BB6">
+            <Title>Candide's success</Title>
             <Text>
 Page 199: Candide was immediately and hugely successful, running to seventeen editions published in four different countries and probably amounting to 20,000 copies, before the year of publication was out.
 </Text>
@@ -1061,8 +1107,9 @@ After this dissertation’s decade of interest, Smith continues to write at a sl
             <Comments>add info about the “phases” of her novelistic career</Comments>
         </Document>
         <Document ID="7B3BE250-B547-49AF-B44C-76422AA7F7C9">
+            <Title>Mary Robinson bibliography</Title>
             <Text>Mary Darby Robinson (1758?-1800) - Bibliography 
-￼ 
+# 
 
 Primary Texts ** Biographical references ** Critical Discussions ** Other
 
@@ -1425,16 +1472,12 @@ They reveal that our canonical authors aren’t inherently exceptional</Text>
         </Document>
         <Document ID="7F5081A9-8597-4981-9892-337049FF1C18">
             <Title>conclusion: DH gets left out</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="AE0067F0-8634-4DB0-B97F-630A194274FC">
             <Title>Shakespeare obnoxiously exceptional</Title>
             <Text>Shelley in preface has to parenthetically except Shakespeare from discussion of England not having produced great works — an obligatory stock rhetorical position, to namedrop shakespeare, rather than a personal engagement with his works (Norton 796)</Text>
-        </Document>
-        <Document ID="3A63F53A-6BBE-4696-A6FA-1181C6330804">
-            <Title>Eve Tavor Bannet’s The Domestic Revolution: Enlightenment</Title>
-            <Text>Eve Tavor Bannet’s The Domestic Revolution: Enlightenment Feminisms and the Novel (2000) 
-In Bannet’s book the importance of the French Revolution itself is actually minimised, when compared, that is, with the behavioural and attitudinal changes slowly fomented by British women writers across the eighteenth century. But, Bannet argues, the British reactions to the French Revolution nevertheless remain crucial in shaping and re-shaping ideas of domesticity. 
-</Text>
         </Document>
         <Document ID="A6FB209C-081F-4B52-8878-89214991C085">
             <Title>Bainbridge, Simon</Title>
@@ -1449,6 +1492,12 @@ The second part of "thinking a lot about songs" involves a leap of several hundr
 
 So there's something interesting to me, here, about the idea of layering your words over top of pattern someone else already knows, as a way to get your version to stick more easily in people's heads. I don't think Jo Walton was intentionally trying to write something extremely memorable, but Hannah More certainly was.</Text>
         </Document>
+        <Document ID="3A63F53A-6BBE-4696-A6FA-1181C6330804">
+            <Title>Eve Tavor Bannet’s The Domestic Revolution: Enlightenment</Title>
+            <Text>Eve Tavor Bannet’s The Domestic Revolution: Enlightenment Feminisms and the Novel (2000) 
+In Bannet’s book the importance of the French Revolution itself is actually minimised, when compared, that is, with the behavioural and attitudinal changes slowly fomented by British women writers across the eighteenth century. But, Bannet argues, the British reactions to the French Revolution nevertheless remain crucial in shaping and re-shaping ideas of domesticity. 
+</Text>
+        </Document>
         <Document ID="7852950D-2339-4F69-912D-24F98DBB8612">
             <Title>try again</Title>
             <Text>[Probable intended structure for this section: one of my concerns is the way that 18thC studies ends ups segregated by genre (even though writers don’t confine themselves to one genre); so here’s the conversation in poetry, in the novel, in drama; and here’s how they’re all engaged in the same question about ‘trash’ vs ‘treasure’; and here’s how that dichotomy employs the same techniques of obnoxiously defining ‘literature’ through a rejection of the ‘popular’, sticking us with Wordsworth, Walter Scott, and a sainted Shakespeare; and here’s John Mee and ‘print magic’ tying them together.]</Text>
@@ -1459,6 +1508,10 @@ So there's something interesting to me, here, about the idea of layering your wo
         </Document>
         <Document ID="BA22B813-C456-4E6F-A11B-1906C9757BF9">
             <Title>Corvey</Title>
+        </Document>
+        <Document ID="B3036E12-CEBD-468A-8E97-DB95E2110D9B">
+            <Title>Blank, Antje - Charlotte Smith</Title>
+            <Text>“After their separation Benjamin went into hiding to escape further court proceedings, lived on the interest of his wife's fortune and left her to find means of supporting herself and their nine surviving children. Aware that once a final settlement of the will was brought about, the legacies due would have secured her children's futures, Smith exerted herself to earn sufficient money to pay for legal advice and maintain a genteel standard of living suitable to the expected inheritance. Circumstanced as she was, it is no surprise she described herself a “slave of the Booksellers” (Smith to J. C. Walker, 9 October 1793). And so Smith churned out eleven novels, added to successive editions of the Elegiac Sonnets, produced two further volumes of poetry, and ended her career with the publication of four educational books for young people, a natural history of birds, and a history of England.” (Blank n.pag.)</Text>
         </Document>
         <Document ID="D911B133-740C-4644-9CDF-72767CF537B0">
             <Title>18thC feeling</Title>
@@ -1476,13 +1529,13 @@ Specific material: I read Wordsworth’s lyrical ballad “The Thorn” against 
 [I contextualize these two poems within a broader publishing context of ballads and the supernatural, to show important stakes for a bigger conversation.]
 Concluding sentence: </Text>
         </Document>
+        <Document ID="696FF7BF-8561-40BA-A4A6-03327048B7AA">
+            <Title>Appendix B: detailed methods</Title>
+        </Document>
         <Document ID="6F518876-88B1-4011-9F7C-0DE38615FA0A">
             <Title>Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative</Title>
             <Text>Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly 25.2 (2015): 87–31. Web.
 This article analyses publication trends of history in early modern Britain and North America in 1470–1800, based on English Short- Title Catalogue (ESTC) data.2 Its major contribution is to demonstrate the potential of digitized library catalogues as an essential scholastic tool and part of reproducible research. We also introduce a novel way of quantitatively analysing a particular trend in book production, namely the publishing of works in the field of history. The study is also our first experimental analysis of paper consumption in early modern book production, and demonstrates in practice the importance of open-science principles for library and information science. Three main research questions are addressed: 1) who wrote history; 2) where history was published; and 3) how publishing changed over time in early modern Britain and North America. In terms of our main findings we demonstrate that the average book size of history publications decreased over time, and that the octavo-sized book was the rising star in the eighteenth century, which is a true indication of expanding audiences. The article also compares different aspects of the most popular writers on history, such as Edmund Burke and David Hume. Although focusing on history, these findings may reflect more widespread publishing trends in the early modern era. We show how some of the key questions in this eld can be addressed through the quantitative analysis of large-scale bibliographic data collections.3 </Text>
-        </Document>
-        <Document ID="696FF7BF-8561-40BA-A4A6-03327048B7AA">
-            <Title>Appendix B: detailed methods</Title>
         </Document>
         <Document ID="F0B2983B-54AC-43D3-8990-63749A77A46E">
             <Title>Bibliographical metadata?</Title>
@@ -1515,6 +1568,14 @@ This article analyses publication trends of history in early modern Britain and 
         <Document ID="819683FF-37AE-46A4-9321-0B54E60356A4">
             <Title>what do people work with?</Title>
         </Document>
+        <Document ID="B54A410A-0B42-40A1-9041-ADA2B559C836">
+            <Title>scholarship</Title>
+            <Text>“With a lifetime that spanned the Augustan age to the Victorian age, and a writing career nearly as long, Hannah More can be considered at once both the intellectual child of the Age of Johnson and, in spirit if not quite in chronology, the ‘first Victorian’.” (Prior)
+
+“To some recent critics, More is a reactionary, patriarchal foil to her radical feminist counterpart, Mary Wollstonecraft, an advocate for a conservative, counter-revolutionary sort of progress for women. Other critics, in recognition of her call for reform across all social strata, place More somewhere in between these extreme views. This variety of critical views points to the complexity of both More and the age of paradigmatic change in which More occupied an unusual position” (Prior)
+
+“More’s writing now [i.e., in the 1790s] aimed more directly at a conservative agenda of reform that excluded no social class. While all of these works are conservative in assuming the preservation of class boundaries, they are progressive in their belief that individual reform is possible within one’s class, whether high, middle, or low. Such a position is now variously interpreted along a spectrum of critical views. Some critics accuse More’s efforts of serving merely to reinforce class boundaries by alleviating the worst distresses of poverty without eradicating it; others see her attempts as ultimately more effective because modest reform rather than radical revolution was more widely acceptable and achievable.” (Prior)</Text>
+        </Document>
         <Document ID="74179035-0EB7-4DC1-8EB4-E17DFCD27153">
             <Title>Ch 1: Introduction</Title>
             <Synopsis>An Introductory Chapter – Tell the reader the problem you are tackling in this project. – State clearly how you aim to deal with this problem. – Limit the scope of your study. – Sketch out how the thesis is structured to achieve your aim.</Synopsis>
@@ -1539,6 +1600,7 @@ U Sydney SETIS texts (paywalled) - http://setis.library.usyd.edu.au/setweb/uslse
             <Text>Both the macro and the micro views will merge in the question: are my key writers ‘representative’ of the popular written discourse in which they participate? What does it mean for a text to be ‘representative,’ and how should we find and understand outliers?</Text>
         </Document>
         <Document ID="8AC1CB21-FE55-41B8-BD32-405E484A8AE6">
+            <Title>Ann Radcliffe</Title>
             <Text>We misapprehend Smith, More, and Robinson because we expect something more like Radcliffe.</Text>
         </Document>
         <Document ID="C909C39D-3FC8-4EFF-9EE6-6F663EAFEC08">
@@ -1630,10 +1692,6 @@ Timeliness and feeling, as investigated through bibliographical research and rep
             <Title>Record Methology</Title>
             <Text>It is almost impossible to remember exactly how things were done, after the fact— ‘liveblog’ my research methods in the research log, so I have records. That’s what the log is there for!</Text>
         </Document>
-        <Document ID="A74D80A2-C08F-4060-B01B-8C1427505DFB">
-            <Title>modelling, sensitivity, fruitfulness</Title>
-            <Text>my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty</Text>
-        </Document>
         <Document ID="24DE9713-EF0E-4A72-B41E-14D1EAECB57C">
             <Title>what kinds of libraries were there?</Title>
             <Text>Circulating libraries, yes; do we have info on private libraries at all?
@@ -1644,6 +1702,10 @@ More importantly — what social libraries existed?? mechanics libraries, or mut
             <Text>Lennep, William Van, ed. The London Stage, 1660-1800: A Calendar of Plays, Entertainments &amp; Afterpieces Together with Casts, Box-Receipts and Contemporary Comment. 11 vols. Carbondale: Southern Illinois UP, 1960-65. Print. 
 Like the Garside bibliography of the novel, the last volume of this enormous comprehensive bibliography will provide me with the first list of the works I intend to examine in my much narrower chronological period. 
 </Text>
+        </Document>
+        <Document ID="A74D80A2-C08F-4060-B01B-8C1427505DFB">
+            <Title>modelling, sensitivity, fruitfulness</Title>
+            <Text>my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty</Text>
         </Document>
         <Document ID="7230D835-F1C4-48A2-8FEF-F8A75D8A71DB">
             <Title>what's in WWO / Chawton?</Title>
@@ -1699,12 +1761,15 @@ This constant re-translation allows us to continue conferring and experiencing v
 My dissertation seeks to determine, in as minute detail as possible, what the print landscape in England 1789-99 was actually like--in contrast to the version that is presented in filtered and interpreted literary histories, built up by scholars or later generations of writers
 I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding my research as a kind of reparative work on archives, joining the works of scholars who are developing anti-oppressive and less “extractive” digital humanities methodologies.</Text>
         </Document>
-        <Document ID="A23C503F-EB3E-4910-945E-4F1B6DFF4E6C">
-            <Title>do these have marginalized lit?</Title>
+        <Document ID="4846EA4E-D51E-4880-AB26-8DF26A9B13FF">
+            <Title>scholarship</Title>
         </Document>
         <Document ID="F000C787-248F-474F-81C8-9E8FDD634963">
             <Title>can I reconstruct a month in detail?</Title>
             <Text>Track down, e.g., weather, exactly what was published each day, letters and diaries from as many people as possible — how much information can I get on the happenings of a single day?</Text>
+        </Document>
+        <Document ID="A23C503F-EB3E-4910-945E-4F1B6DFF4E6C">
+            <Title>do these have marginalized lit?</Title>
         </Document>
         <Document ID="A12B990C-2E0B-40C2-B067-A1318F396F40">
             <Title>questions for Alex</Title>
@@ -1714,6 +1779,16 @@ I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding
         </Document>
         <Document ID="4A55F65A-A0FC-49E1-A26D-A30DA5B98407">
             <Title>Appendix C: design rationale</Title>
+        </Document>
+        <Document ID="95E58F4A-6481-47F3-90E2-5BC61F5AAE07">
+            <Title>Prior, Hannah More</Title>
+            <Text>“Not surprisingly then, judgments of More’s work cover an equally broad span of critical interpretation. Received with near-universal praise and adulation during her lifetime and immediately following, More quickly became, like many elements of the eighteenth century, outdated by the revolutionized England of the nineteenth century. Eventually, More slipped into obscurity, where she remained for much of the twentieth century. However, with the latter part of that century’s proliferation of new modes of interpretation and with it the re-discovery of lesser-known, under-appreciated authors and works, renewed attention has been given to More, repeating in simultaneous fashion the varied views that occurred over the course of the previous two centuries.” (Prior)
+
+“To some recent critics, More is a reactionary, patriarchal foil to her radical feminist counterpart, Mary Wollstonecraft, an advocate for a conservative, counter-revolutionary sort of progress for women. Other critics, in recognition of her call for reform across all social strata, place More somewhere in between these extreme views. This variety of critical views points to the complexity of both More and the age of paradigmatic change in which More occupied an unusual position: born in the middle-class, she was embraced by the London elite and ministered to the poor; a devout Anglican she offered shelter to French Catholic priests exiled during the French Revolution; an educated and literary woman in a highly-gendered society, she overcame traditional gender boundaries while rejecting the revolutionary call for the rights of women; she shared, nevertheless, with Wollstonecraft the freelover a call to the reformation of women’s education along with the reformation of the manners and morality; a product of the Age of Reason, she appealed to sensibility in her attempts to address slavery, poverty, and irreligion.” (Prior)
+
+“More’s writing now aimed more directly at a conservative agenda of reform that excluded no social class. While all of these works are conservative in assuming the preservation of class boundaries, they are progressive in their belief that individual reform is possible within one’s class, whether high, middle, or low. Such a position is now variously interpreted along a spectrum of critical views. Some critics accuse More’s efforts of serving merely to reinforce class boundaries by alleviating the worst distresses of poverty without eradicating it; others see her attempts as ultimately more effective because modest reform rather than radical revolution was more widely acceptable and achievable.” (Prior)
+
+“The success of the Cheap Repository Tracts led More to expand these didactic short sketches and tales into a full-length novel. This was a rather bold undertaking since novels at this time were still viewed, particularly among conservatives like More, as a tawdry form of entertainment with base appeal. More had even offered her own disdain for novel-writers in her Strictures on the Modern System of Female Education. Nevertheless, encouraged by her fellow Claphamites, she published in late 1808 what would be her only novel, Cœlebs in Search of a Wife: Comprehending Observations on Domestic Habits and Manners, Religion and Morals. Part essay, part conduct book, and part novel, the book tells a fairly straightforward if longwinded account of – as the title makes clear – a young bachelor’s search for a wife. Interspersed among the various characters and incidents are observations and lessons on a range of topics such as education, child rearing, religion, and charity. By numerous accounts, the novel was one of the most widely-read and bestselling books of its kind. Indeed, it can be argued that More’s single attempt at novel-writing played a key role in helping the novel form to achieve the respectable status necessary for it to reach the artistic and literary height of the Victorian age. The fact that its unabashed didacticism renders it nearly unreadable today offers great insight into the vast literary and cultural changes that have taken place between More’s day and our own.” (Prior)</Text>
         </Document>
         <Document ID="0282B03E-36C0-4B83-A5C5-99ECA347A9B4">
             <Title>British Book Trade Index</Title>
@@ -1799,17 +1874,6 @@ Alyssa Fowers:
 	Yeha
 	I’m rounding up slightly because I don’t think you could have 12.5 women</Text>
         </Document>
-        <Document ID="8538D277-5042-4D03-98DE-EBBE7BC23578">
-            <Title>intro - archive formation</Title>
-            <Text>My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade.
-My methodology situates me within queer DH and critical algorithm studies. I follow the work of scholars like T.L. Cowan in undertaking reparative work on archives. My aspiration is to join a growing body of queer DH scholarship in developing a non-extractive, anti-oppressive, less neoliberal digital humanities methodology. Accordingly, I will present a humanistic critique of essentialist tendencies in simplistic digital projects, and discuss the pitfalls I have attempted to avoid in my own methodology. In discussing my methods, I will take up Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.” I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code. I will also discuss my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty.
-My subject matter situates me in a densely-discussed intersection of scholarly fields.
-
-The years 1789-99 make an eleven-year “decade” delimited by the major events of the French Revolution, but also home to a crucial literary moment in which thematized literary canons begin to take form. 
-18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernacular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. 
-The introduction will also address who my scholarly interlocutors are in treating the 1790s as its own small literary period.
-(How do I define my geographical area? England, or “Britain”? I could just focus on London; even if I try not to, I suspect actually nearly everything will end up being from London.) </Text>
-        </Document>
         <Document ID="10B97E54-E9B3-40B5-AC4A-22F418511E6A">
             <Title>possible chapters</Title>
             <Text>My reading has allowed me to develop more specific hypotheses regarding potential chapters. 
@@ -1821,6 +1885,17 @@ and/or do I think I’ll come up with other ideas in that format?
 or are my chapters more different from each other? like, maybe I write about More &amp; Wordsworth, and all the ballad stuff goes into a different chapter that’s just about “okay but most of what people were reading was fun stuff like songs and ghost stories”
 and that’s the one where I talk about my emerging theory of timeliness
 or is timeliness not a chapter, but in fact the overarching theme of the whole diss?</Text>
+        </Document>
+        <Document ID="8538D277-5042-4D03-98DE-EBBE7BC23578">
+            <Title>intro - archive formation</Title>
+            <Text>My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade.
+My methodology situates me within queer DH and critical algorithm studies. I follow the work of scholars like T.L. Cowan in undertaking reparative work on archives. My aspiration is to join a growing body of queer DH scholarship in developing a non-extractive, anti-oppressive, less neoliberal digital humanities methodology. Accordingly, I will present a humanistic critique of essentialist tendencies in simplistic digital projects, and discuss the pitfalls I have attempted to avoid in my own methodology. In discussing my methods, I will take up Johanna Drucker’s vocabulary of “capta,” rather than “data,” to emphasize that records are created, shaped by choices and by constraints, rather than neutrally “given.” I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code. I will also discuss my own preferred vocabulary around experiment design (modelling, sensitivity, fruitfulness), and its debts to Willard McCarty.
+My subject matter situates me in a densely-discussed intersection of scholarly fields.
+
+The years 1789-99 make an eleven-year “decade” delimited by the major events of the French Revolution, but also home to a crucial literary moment in which thematized literary canons begin to take form. 
+18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernacular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. 
+The introduction will also address who my scholarly interlocutors are in treating the 1790s as its own small literary period.
+(How do I define my geographical area? England, or “Britain”? I could just focus on London; even if I try not to, I suspect actually nearly everything will end up being from London.) </Text>
         </Document>
         <Document ID="09FD869A-0D86-4A23-8CCA-224042D1E53A">
             <Title>Documentation</Title>
@@ -1845,6 +1920,9 @@ In ESTC the matching process hinges on five points of identity: the title, as fa
 “This trend is somewhat exaggerated in my survey: because of patterns of production and survival, a random selection from a given period will tend to be chronologically weighted towards its later end.” (371)
 
 “The same human qualities that give rise to transcription errors by cataloguers allow their persistence through numerous proofreadings by matchers.” (372)
+
+“Some records carry notes pointing out known problems with the tran- scriptions. Record S112807, created in December 1991, transcribes the word ‘plants’ in the title. In 2002 a grant-funded team, which worked at the Folger Shakespeare Library between 1996 and 2003, inserted a note in the record reading ‘DFONOTE” (372)
+“‘DFo’ is the Library of Congress-assigned siglum for the Folger; ‘jre’ is the matcher’s initials. Once again, this record may be corrected shortly after the appearance of this article, and at the time of writing it was not possible to search for other examples by means of the public interface. The DFONOTEs appear in the ‘Uncontrolled note’ field, which is currently not searchable. ” (372)
 “this is another example where a bibliographical record has accumulated a convincing weight of testimony supporting an erroneous description.” (373)
 
 “The STAR file, maintained at the ESTC editorial office in Riverside, California, has been functioning for years as a repository for revisions that are transmitted in periodic updates to the publicly accessible file. It also serves as a gateway for authorized libraries to make direct online matches of their holdings to ESTC. In consequence, though invisible and inaccessible to most of ESTC’s users, STAR contains the most up-to-date version of the file.” (373) 
@@ -1852,8 +1930,9 @@ In ESTC the matching process hinges on five points of identity: the title, as fa
 “One useful innovation in STAR is an extension of the old verified/unverified/primary match types. These can be viewed in the public file, though only in the forbidding-looking ‘MARC tags’ display option. Contributor matches in STAR — those made outside the ESTC offices — are tagged as ‘web matches’, indicating that they were not vetted by ESTC staff. Because most outside contributors have received no training in the matching process from ESTC, it would be fair to say that these matches occupy a level of certainty somewhere between the ‘verified’ and ‘unverified’ levels.17 Matches derived from automated uploads from various outside databases are rather confusingly designated ‘catalogue matches’, and have a comparatively low level of reliability. These two new categories can be identified in the ‘MARC tags’ display, in field 852, subfield x, as letter codes W and C (supplementing the original V, U, and P tags).”
 “The standard holdings display smoothes over these nuances; here both catalogue and web matches are translated to ‘verified’. This forces the file to make categorical statements of certainty even in obvious cases of considerable doubt.” (374) 
 
-“Like the DFONOTEs, the STAR annotation immediately ruptures the bond between the bibliographical record and its attached holdings. Contributor notes in STAR are invisible in the public display, so regular ESTC users will be unaware of this reported preliminary leaf; but if they could read the note, there are few who would bet money on which of the matched copies have the order-to-print leaf and which do not. The situation will get more tangled as more matches arrive.” (374) “There are now more than 9,100 of these new ‘annotations’ in STAR, affecting records from 1483 up to and including 1800.” (374)
+“Outside matchers using STAR who suspect a problem in a record are asked to attach a ‘cataloguer’s note’ or ‘annotation’ that becomes part of the STAR record. … Like the DFONOTEs, the STAR annotation immediately ruptures the bond between the bibliographical record and its attached holdings. Contributor notes in STAR are invisible in the public display, so regular ESTC users will be unaware of this reported preliminary leaf; but if they could read the note, there are few who would bet money on which of the matched copies have the order-to-print leaf and which do not. The situation will get more tangled as more matches arrive.” (374) “There are now more than 9,100 of these new ‘annotations’ in STAR, affecting records from 1483 up to and including 1800.” (374)
 “These open construction sites are part of a trade-off for ESTC’s being able to claim virtual completeness within its declared scope, and there is no doubt that this completeness gives it a competitive boost vis-à-vis ECCO and EEBO, at least for some audiences.” (374)
+“When the ESTC editors first authorized embedded error reports like the DFONOTES more than fifteen years ago, the assumption was that most of the reported problems would be resolved fairly quickly. This has not proved to be possible.” (375)
 “With the probability (as my survey implies) that ESTC has a minimum of 80,000 records containing at least one error in description, a rigorous programme of rematches is clearly not feasible.” (375)
 Do any of Tabor’s three proposals end up being adopted?
 “the lack of compulsion to declare a work ‘finished’ is a great advantage of the online environment. One expects ESTC to be a work in progress more or less in perpetuity, and that is a strength not a liability as long as net order in the file increases.” (375)
@@ -1896,6 +1975,8 @@ Ontology of marriage plots — esp incest plot</Text>
         </Document>
         <Document ID="D4E044E2-F959-4CEA-804E-D1C804329B6E">
             <Title>timeliness</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="7FCFA2DB-22F2-43D9-8A7B-FBE99F5F639D">
             <Title>reparative gothic</Title>
@@ -2022,8 +2103,11 @@ hey continually recycled resources from the past, often quite literally by repub
 Page 40:
 The cutting and pasting techniques that were essential to the rapid-fire achievement of periodicals like Thomas Spence’s Pig’s Meat (1793–5) or Eaton’s Politics for the People (1793–5) did not simply endorse the texts they reproduced, but implicitly transformed them in the interests of raising the political consciousness of their readers.</Text>
         </Document>
-        <Document ID="7A9E2AD6-216A-434F-95D8-627492937165">
-            <Title>cite someone re: canons?</Title>
+        <Document ID="600779EE-7315-4ABD-A09F-3D7E8A862EB1">
+            <Title>Paula Backscheider’s book Spectacular Politics (1993</Title>
+            <Text>Paula Backscheider’s book Spectacular Politics (1993) goes furthest in investigating the cultural and political significance of the also very neglected gothic plays – a ‘popular literary mode’ in the 1780s and a ‘mania’ in the 1790s (149). In Backscheider’s analysis these plays were easily applicable to the politics of the 1790s, over and over again depicting villainous aristocrats violating the sanctity of life, liberty, property and female chastity, and powerful crowds able to overthrow them. But, she quickly adds, ‘Year by year, the plays show stronger and stronger strategies of containment’ (226). They characterise mob-rule as being just as inimical as despotism, and they represent the virtuous and legitimate protagonists as able to conquer abuses and restore order though non-confrontational means. Ultimately then, the plays ‘propagated a comforting vision of community, of human nature, and of a providential, benignly ordered world’ (232). More powerfully still, they provided a safety valve for a nervous and agitated public: 
+By acting out repressed anxieties and hopes in overt and symbolic representations, the plays released tensions and made social contradictions momentarily innocuous. Social antagonism became opportunities to demonstrate the idealized British self-image and to confirm that no revolution was needed in their country . . . The aristocrats could be restrained and the poor would be taken care of . . . Conflict became spectacle, a containable and consumable product. (233) 
+</Text>
         </Document>
         <Document ID="F1D6D1AB-3DB8-4556-8DAB-29CFD5B269C3">
             <Title>chooses to be bad</Title>
@@ -2034,11 +2118,8 @@ Per http://languagelog.ldc.upenn.edu/nll/?p=1701 , they actually OVERWRITE metad
         <Document ID="5E4A17A0-8197-4348-A2B6-753D913A95D0">
             <Title>topics</Title>
         </Document>
-        <Document ID="600779EE-7315-4ABD-A09F-3D7E8A862EB1">
-            <Title>Paula Backscheider’s book Spectacular Politics (1993</Title>
-            <Text>Paula Backscheider’s book Spectacular Politics (1993) goes furthest in investigating the cultural and political significance of the also very neglected gothic plays – a ‘popular literary mode’ in the 1780s and a ‘mania’ in the 1790s (149). In Backscheider’s analysis these plays were easily applicable to the politics of the 1790s, over and over again depicting villainous aristocrats violating the sanctity of life, liberty, property and female chastity, and powerful crowds able to overthrow them. But, she quickly adds, ‘Year by year, the plays show stronger and stronger strategies of containment’ (226). They characterise mob-rule as being just as inimical as despotism, and they represent the virtuous and legitimate protagonists as able to conquer abuses and restore order though non-confrontational means. Ultimately then, the plays ‘propagated a comforting vision of community, of human nature, and of a providential, benignly ordered world’ (232). More powerfully still, they provided a safety valve for a nervous and agitated public: 
-By acting out repressed anxieties and hopes in overt and symbolic representations, the plays released tensions and made social contradictions momentarily innocuous. Social antagonism became opportunities to demonstrate the idealized British self-image and to confirm that no revolution was needed in their country . . . The aristocrats could be restrained and the poor would be taken care of . . . Conflict became spectacle, a containable and consumable product. (233) 
-</Text>
+        <Document ID="7A9E2AD6-216A-434F-95D8-627492937165">
+            <Title>cite someone re: canons?</Title>
         </Document>
         <Document ID="C2DD7DA2-919B-455F-A789-8C059F47C1C4">
             <Title>O’Quinn, Daniel. “Half-History, or The Function of</Title>
@@ -2175,11 +2256,17 @@ Ok, those are my thoughts on credit vs debt as part of the shift from parochial 
         <Document ID="E999AF2D-8D23-4E9E-A434-A0F8D19FD3D3">
             <Title>bibliography</Title>
         </Document>
+        <Document ID="2CFE2DAC-195F-4289-8A04-403D014CC0A3">
+            <Title>ECCO-TCP</Title>
+        </Document>
         <Document ID="EABA8E29-6047-494E-934D-A8F8D2B482F1">
             <Title>Marjorie Levinson’s Wordsworth’s Great Period Poems</Title>
             <Text>Marjorie Levinson’s Wordsworth’s Great Period Poems (1986). Writing broadly in the tradition of Marxist criticism Levinson theorised interestingly about the relationship between history and literature in her Rethinking Historicism (1989), but it was her new readings of ostensibly unpolitical poems such as the ‘Intimations of Immortality’ ode and ‘Tintern Abbey’ in the earlier book which have had the most lasting effect. For her, political events were vital in shaping Wordsworth’s verse, even when they were apparently absent. His choice of images could reveal the link Levinson argued. An apparently innocuous reference to a solitary ‘tree’, for example, might allude to the French tree of liberty, or his ‘single field’ to the Champ de Mars. But it was the omissions that were more important, representing a deliberate suppression of political optimism and its replacement with a new system of belief, the ‘myth of the soul’ at the core of the Intimations ode. For the disenchanted Wordsworth, latching on to new ideals in the poem,‘there are victories’, wrote Levinson, 
 far greater than those once anticipated from the French Revolution. Rather than grieve over those mundane losses, the reader is exhorted to set his sights on those other and spiritual palms . . . the ‘soothing thoughts that spring / Out of human suffering.’ (Wordsworth’s Great Period Poems 93–4, 98–9) 
 Such an approach has perhaps proved so influential because it helps to explain, and perhaps even authorise, Wordsworth’s rather forlorn retreat from his youthful idealism. </Text>
+        </Document>
+        <Document ID="B7E36EBC-2641-4246-B54C-3C5F9F316776">
+            <Title>ProQuest</Title>
         </Document>
         <Document ID="AF1C32D9-7373-4034-9649-00C00A3BA1FD">
             <Title>Thesis Proposal (before fields)</Title>
@@ -2227,6 +2314,9 @@ Samuels, Lisa and Jerome McGann. “Deformance and Interpretation.” New Litera
 Sedgwick, Eve. “Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You.” Touching Feeling. Durham, NC: Duke UP, 2003. Print.
 St. Clair, William. The Reading Nation in the Romantic Period. Cambridge: Cambridge UP, 2004. Print.</Text>
         </Document>
+        <Document ID="54B0E214-D9DB-4912-9F93-DAD196DB08CC">
+            <Title>Google Books</Title>
+        </Document>
         <Document ID="BD86744D-07D9-4BED-A95F-24AEEE3C247A">
             <Title>chapbook titles iteratively seek audiences</Title>
             <Text>What I'm finding extra-fascinating about Hannah More's pamphlets is how different titles seem to be packaging the same work to different audiences. Most obvious is "Dame Andrews: a ballad" and "Dame Andrews: a tale", but there's also "The two wealthy farmers, or, the history of Mr. Bragwell," which is sometimes "The history of Mr. Bragwell; or, the two wealthy farmers." (That one might just be normal. But even then, it's interesting that some fluidity of title is normal...) And of course there's the labeling of some things as "Cheap Repository" or "A Sunday Reading". "On carrying religion into the common business of life" looks like it is part of "The Two Shoemakers" but it's so often presented entirely independently.
@@ -2249,11 +2339,6 @@ For the most part archives are either comprehensive and have significantly more 
             <Title>reprint &amp; translation</Title>
             <Text>Philosophical scepticism, the questioning of the adequacy of evidence to justify any view or belief, and the questioning of the criteria for decid- ing intellectual issues in any domain whatsoever, reached its high point in modern philosophy during the eighteenth century. At the beginning of the century the complete edition of Pierre Bayle’s Dictionnaire historique et critique (1702) appeared, raising sceptical problems about matters in philosophy, the- ology, science, and history, and providing what Voltaire called ‘the arsenal of the Enlightenment’. Bishop Pierre Daniel Huet’s Traite ́ philosophique de la faiblesse de l’esprit humain (Treatise on the Weakness of the Human Mind), a forceful presentation of Pyrrhonism, written at the end of the seventeenth century but published posthumously in 1723, became a sensation (Popkin 1993, p. 139). The Traite ́ appeared twice in English, and in Italian, Latin, and German in short order. In 1718 the most scholarly edition of the writ- ing of Sextus Empiricus was published by J. A. Fabricius, with the Greek text and Latin translations. This was soon followed by two printings of a French translation of Sextus’s Hypotyposes (Outlines of Pyrrhonism), and David Hume carried the sceptical analysis of human reasoning to its highest point in his Treatise of Human Nature (1739–40). A mitigated form of scepti- cism was developed by many French Enlightenment thinkers, culminating in the radical scepticism of Jean-Pierre Brissot and Condorcet in the last quarter of the century. (79)</Text>
         </Document>
-        <Document ID="348F172D-B63C-428C-97C3-CEA4BE1B4354">
-            <Title>ch 4</Title>
-            <Text>Chapter four introduces my mapping of the social world of print production 1789-99. My understanding and use of network analysis is contextualized in light of Wendy Chun’s work on networks in “Queerying Homophily” \cite{Chun:2018tq}. I describe my methodology and its assumptions, and provide a rich description of my resulting network graph. The graph I create may show one large interconnected network, or several separate networks of varying sizes; these networks may show highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.</Text>
-            <Comments>connection to Chun needs to be unpacked</Comments>
-        </Document>
         <Document ID="85A7B870-F8F7-495C-A80F-4DE876688CE2">
             <Title>Hannah More</Title>
         </Document>
@@ -2263,56 +2348,68 @@ For the most part archives are either comprehensive and have significantly more 
 and the previous items in the controversy (Blayney article, Farmer and Lesser article, Blayney rebuttal)
 </Text>
         </Document>
+        <Document ID="348F172D-B63C-428C-97C3-CEA4BE1B4354">
+            <Title>ch 4</Title>
+            <Text>Chapter four introduces my mapping of the social world of print production 1789-99. My understanding and use of network analysis is contextualized in light of Wendy Chun’s work on networks in “Queerying Homophily” \cite{Chun:2018tq}. I describe my methodology and its assumptions, and provide a rich description of my resulting network graph. The graph I create may show one large interconnected network, or several separate networks of varying sizes; these networks may show highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.</Text>
+            <Comments>connection to Chun needs to be unpacked</Comments>
+        </Document>
         <Document ID="6882FEA7-7C10-491A-B760-528945FD80D0">
             <Title>reprints</Title>
         </Document>
         <Document ID="1D4F41D3-4AF5-4429-8654-A28324930D4E">
             <Title>Works Consulted</Title>
             <Text>	1.	Algee-Hewitt, Mark. “Acts of Aesthetics: Publishing as Recursive Agency in the Long Eighteenth Century.” Romanticism and Victorianism on the Net, vol. 57-8, 2010, doi:10.7202/1006517ar.
-	2.	Bainbridge, Simon. British Poetry and the Revolutionary and Napoleonic Wars: Visions of Conflict. Oxford UP, 2003.
-	3.	Baldick, Chris, and Robert Mighall. “Gothic Criticism.” A New Companion to The Gothic, edited by David Punter, Wiley-Blackwell, 2012, pp. 265-287, doi:10.1002/9781444354959.ch19.
-	4.	Barthes, Roland. “The Reality Effect.” 1968. The Rustle of Language, translated by Richard Howard, Hill and Wang, 1986, pp. 141-148.
-	5.	Blanch, Anna Maree. A Reassessment of the Authorship of the Cheap Repository Tracts. 2009. Baylor University, Master’s Thesis.
-	6.	Blank, Antje. “Charlotte Smith.” Edited by Janet Todd. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 23 June 2003, www.litencyc.com. Accessed 05 June 2019.
-	7.	Bruhm, Steven. “The Gothic Novel and the Negotiation of Homophobia.” The Cambridge History of Gay and Lesbian Literature, edited by E.L. McCallum and Mikko Tuhkanen, Cambridge UP, 2014, pp. 272-87.
-	8.	Champion, Erik. “Digital humanities is text heavy, visualization light, and simulation poor.” Digital Scholarship in the Humanities, volume 32, supplement to issue 1, April 2017, pp. 25–32, doi:10.1093/llc/fqw053.
-	9.	Clery, E.J. The Rise of Supernatural Fiction 1762-1800. Cambridge UP, 1995.
-	10.	Cronin, Richard. The Politics of Romantic Poetry: In Search of the Pure Commonwealth. Palgrave Macmillan, 2000.
-	11.	Cross, Ashley. “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt.” Studies in Romanticism, volume 40, number 4, 2001, pp. 571–605, doi:10.2307/25601532.
-	12.	—. Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784–1821. Routledge, 2016.
-	13.	Cohen, Margaret. The Sentimental Education of the Novel. Princeton UP, 1999.
-	14.	Dawkins, Richard. “Memes: the new replicators.” 1976. The Selfish Gene, Oxford UP, 1989, pp. 189-201.
-	15.	Drucker, Johanna. Graphesis: Visual Forms of Knowledge Production. Harvard UP, 2014.
-	16.	—. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, volume 5, number 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
-	17.	“ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, www.textcreationpartnership.org/tcp-ecco. Accessed 20 June 2019.
-	18.	Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
-	19.	Frow, John. Genre. Routledge, 2015.
-	20.	Fry, Carrol L. Charlotte Smith. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
-	21.	Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge UP, 2000.
-	22.	Garnai, Amy. Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald. Palgrave Macmillan, 2009.
-	23.	Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
-	24.	Garside, Peter, James Raven, and Rainer Schöwerling, editors. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, Oxford UP, 2000. 2 vols.
-	25.	—. General Introduction. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
-	26.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
-	27.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U of Chicago P, 1993.
-	28.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
-	29.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, vol. 25, no. 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
-	30.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
-	31.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
-	32.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
-	33.	Moretti, Franco. Distant Reading. Verso, 2013.
-	34.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
-	35.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
-	36.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
-	37.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
-	38.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
-	39.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
-	40.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
-	41.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
-	42.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
-	43.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381.
-	44.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
-	45.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
+	2.	Alston, Robin. “The Eighteenth Century Short Title Catalogue: A Personal History to 1989.” web.archive.org/web/20080908103158/http://www.r-alston.co.uk/estc.htm.
+	3.	Bainbridge, Simon. British Poetry and the Revolutionary and Napoleonic Wars: Visions of Conflict. Oxford UP, 2003.
+	4.	Baldick, Chris, and Robert Mighall. “Gothic Criticism.” A New Companion to The Gothic, edited by David Punter, Wiley-Blackwell, 2012, pp. 265-287, doi:10.1002/9781444354959.ch19.
+	5.	Barthes, Roland. “The Reality Effect.” 1968. The Rustle of Language, translated by Richard Howard, Hill and Wang, 1986, pp. 141-148.
+	6.	Blanch, Anna Maree. A Reassessment of the Authorship of the Cheap Repository Tracts. 2009. Baylor University, Master’s Thesis.
+	7.	Blank, Antje. “Charlotte Smith.” Edited by Janet Todd. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 23 June 2003, www.litencyc.com. Accessed 05 June 2019.
+	8.	Bruhm, Steven. “The Gothic Novel and the Negotiation of Homophobia.” The Cambridge History of Gay and Lesbian Literature, edited by E.L. McCallum and Mikko Tuhkanen, Cambridge UP, 2014, pp. 272-87.
+	9.	Champion, Erik. “Digital humanities is text heavy, visualization light, and simulation poor.” Digital Scholarship in the Humanities, volume 32, supplement to issue 1, April 2017, pp. 25–32, doi:10.1093/llc/fqw053.
+	10.	Clery, E.J. The Rise of Supernatural Fiction 1762-1800. Cambridge UP, 1995.
+	11.	Cronin, Richard. The Politics of Romantic Poetry: In Search of the Pure Commonwealth. Palgrave Macmillan, 2000.
+	12.	Cross, Ashley. “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt.” Studies in Romanticism, volume 40, number 4, 2001, pp. 571–605, doi:10.2307/25601532.
+	13.	—. Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784–1821. Routledge, 2016.
+	14.	Cohen, Margaret. The Sentimental Education of the Novel. Princeton UP, 1999.
+	15.	Crump, M. J. “Short Title Catalogue On-Line.” Information Development, volume 2, number 2, April 1986, pp. 105-107, doi:10.1177/026666698600200208. 
+	16.	Dawkins, Richard. “Memes: the new replicators.” 1976. The Selfish Gene, Oxford UP, 1989, pp. 189-201.
+	17.	Drucker, Johanna. Graphesis: Visual Forms of Knowledge Production. Harvard UP, 2014.
+	18.	—. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, volume 5, number 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+	19.	“ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, www.textcreationpartnership.org/tcp-ecco. Accessed 20 June 2019.
+	20.	Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
+	21.	Frow, John. Genre. Routledge, 2015.
+	22.	Fry, Carrol L. Charlotte Smith. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
+	23.	Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge UP, 2000.
+	24.	Garnai, Amy. Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald. Palgrave Macmillan, 2009.
+	25.	Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
+	26.	Garside, Peter, James Raven, and Rainer Schöwerling, editors. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, Oxford UP, 2000. 2 vols.
+	27.	—. General Introduction. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
+	28.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
+	29.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U of Chicago P, 1993.
+	30.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
+	31.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, volume 12, number 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
+	32.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, vol. 25, no. 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
+	33.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
+	34.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
+	35.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
+	36.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, volume 7, number 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
+	37.	Moretti, Franco. Distant Reading. Verso, 2013.
+	38.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
+	39.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
+	40.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
+	41.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
+	42.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
+	43.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
+	44.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
+	45.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
+	46.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
+	47.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
+	48.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
+	49.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381.
+	50.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, volume 21, 2001, pp. 263-282.
+	51.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
+	52.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
         </Document>
         <Document ID="37AAF393-6E30-4679-A4F1-117F9DF197D4">
             <Title>Worrall, David. Celebrity, Performance, Reception: British</Title>
@@ -2338,8 +2435,17 @@ I would perhaps instead say something like - the challenges inherent, and prob i
 needs clarification
 I do not know what you mean here so flesh out a bit or drop it</Comments>
         </Document>
+        <Document ID="C2976CC9-5AD0-40D5-B986-E0E4D2B9A01F">
+            <Title>sampling</Title>
+            <Text>Other work which has used the methodology of sampling includes 
+
+Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three – 1703, 1713, 1723 and so on – I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)</Text>
+        </Document>
         <Document ID="B4F44A57-8A65-45A2-B4D4-2265DB5D7B85">
             <Title>what percent London?</Title>
+        </Document>
+        <Document ID="0D7B0096-79AC-4A53-9B39-A2BD86671643">
+            <Title>WWO + Chawton</Title>
         </Document>
         <Document ID="267936CF-39D2-43BE-AA8C-691064246894">
             <Title>timeliness sources</Title>
@@ -2397,9 +2503,20 @@ Mostly I don’t like… men? But Keats and Gray and Cowper and Sterne and Walpo
         </Document>
         <Document ID="B12131E5-731A-4C42-BEA7-972CA771B9AA">
             <Title>how-to</Title>
-            <Text>Author. Title. Title of container (N/A if book), other contributors (translators or editors), version (edition), number (vol. and/or no.), publisher, publisher date, location (pp., URL/doi). Access date ## Mo #### only if site may change. 2nd container’s title if applicable, etc as above.
+            <Text>Author. Title. Original pub year (if relevant). Title of container (N/A if book), other contributors (translators or editors), version (edition), number (vol. and/or no.), publisher, publisher date, pages, URL/doi. Access date Day Month Year only if site may change. 2nd container’s title if applicable, etc as above.
 
 “Et al.” is for 4+ authors. If there are 3, list all 3; at 4+, list first person then “et al.”</Text>
+        </Document>
+        <Document ID="EF9E4848-E43B-4E21-89BB-E5E97D201479">
+            <Title>Crump</Title>
+            <Text>‘In 1978, an operational test was conducted in the New York Public Library, under the guidance of Professor Terry Belanger, to assess the methodology of an American counterpart to the British editorial effort. In 1979, this resulted in the formation of the team in Louisiana State University, under the direction of Professor Henry Snyder.” (Crump 105)
+”soon after the ESTC cataloguing rules had been established in 1979, a project, based at Munster under the direction of professor Bernhard Fabian, was begun to catalogue the holdings of the University of Gottingen Library to the same standards. This project, the fruits of which will be published in 1986, has enjoyed a close relationship with the British Library editorial office. Where ESTC records already existed, these were adopted as the Gottingen record and only those works not held in the ESTC base file were catalogued again. Similar arrangements were adopted with regard to two parts of the Early Imprints Project (New South Wales and South Australia), which is seeking to record all early imprints in New Zealand and Australia. A catalogue of the Catholic Libraries in Sydney w a s produced earlier this year.” (Crump 105)
+
+“RLIN was chosen because it is an interactive on-line system as opposed to BLAISE/LOCAS (the local
+catalogue production service of BLAISE), which updates in batch mode. The terminal in the British Library, soon to be joined by six others, is the first tangible sign of this visionary endeavour. It was anticipated that, with effect from October 1985, both ESTC teams would work on this single, interactive system and therefore be able to have almost instant access to the fruits of each other’s labours. Once ESTC has gained experience of using the system, the British Library will experiment with other uses to which RLIN might be put. The link via Washington will also give the Library direct access to the National Library of Medicine.
+It is hoped that this development will result in a more complete and coherent ’first edition’ of ESTC, which will be published in 1989. In the meantime, the ESTC file is available to scholars on both BLAISE- LINE and on RLIN.” (Crump 106)
+
+“No longer is the scholar limited in access to the data by the fixity of the printed page. Subject areas can be isolated by keyword and the search can be further refined by place or country of publication. The output of a particular printer can be readily retrieved and then charted in terms of numbers per decade or per year. However, the most exciting quality of having the file mounted on the national database is the way in which it becomes of use, not only for searches such as these, but also for people working in disciplines that might not previously have resorted to the printed short title catalogues for the earlier periods. Furthermore, the searches outlined above presuppose large bodies of material, but the file can be used just as easily to verify a hunch in which a zero result would be a significant finding. A simplified manual for searching the file on-line has been prepared and is available free of charge from the editorial office.” (Crump 106)</Text>
         </Document>
         <Document ID="5449C696-4FF0-4545-BFD2-96F20EC8592E">
             <Title>persons</Title>
@@ -2689,7 +2806,9 @@ me ohhh, yeah! yeah, that's a perfect example, I think</Text>
         </Document>
         <Document ID="81386947-AFC1-4B1A-8907-1A3B8EE5C387">
             <Title>life</Title>
-            <Text>Much of More’s personal life centred around educational ventures. In 1758, her eldest sister Mary More opened a girls’ boarding school, which Hannah More would ultimate assist in running. In 1762, this school moved to larger premises. In 1767, More accepted a proposal of marriage from William Turner, but ultimately their engagement is broken off in 1773, and More never married. More is the “permanent house guest” of David and Eva Garrick from 1776 until David Garrick’s death in 1779, after which she remains in the household as Eva Garrick’s companion. In 1785 she buys  Cowslip Green in Somerset. In 1789, Hannah and Patty More found the first of the Mendip Schools at Cheddar, Somerset; other schools follow at Shipham, Rowberrow, Nailsea, Blagdon and Wedmore (also smaller schools). In 1790, the More sisters hand over the Park Street school to Selina Mills. In 1792, she founds women’s benefit clubs at Cheddar and Shipham. 1799 marks the beginning of the “Blagdon controversy”: “one of More's teachers is accused of Methodism; the accusation widens into a series of attacks on More for alleged religious and political subversion; as a result she suffers depression and nervous collapse and for a while is unable to write”  until 1802 (Stott). In 1801, she builds Barley Wood, her new Somerset home. In 1813 she founds an auxiliary Bible Society at Wrington.</Text>
+            <Text>Much of More’s personal life centred around educational ventures. In 1758, when More was thirteen, her eldest sister Mary More opened a girls’ boarding school, which Hannah More would soon assist in running. In 1762, this school moved to larger premises. In 1767, More accepted a proposal of marriage from William Turner, though this did not end in marriage: “After a rather humiliating six-year courtship (during which the pending marriage was postponed three times by the gentleman), a settlement was reached on behalf of More by her family, resulting in an annuity that granted her enough financial independence to embark on a literary career” (Prior). When the engagement was finally broken in 1773, More made her first visit to London, and her life’s focus shifted from education to literature. She moved in literary circles, joined the Bluestockings, and particularly befriended the famous actor David Garrick. More was the “permanent house guest” (Stott) of David and Eva Garrick from 1776 until David Garrick’s death in 1779, after which she remained in the household as Eva Garrick’s companion.
+However, after Garrick’s death (and the failure of her third play, also in 1779), More’s focus shifts again, from London literary life to religious life. Her interest in the growing movement of Evangelicals ultimately brought her to the Clapham Sect, whose foremost cause was the abolition of the slave trade (Prior). She returned to Somerset, buying her own house, Cowslip Green, in 1785, and in religion brought her back to education. She and her sister Patty More founded the first of the Mendip Schools at Cheddar, Somerset in 1789; other schools follow at Shipham, Rowberrow, Nailsea, Blagdon, Wedmore, and elsewhere (Stott). “With the encouragement and support of the Clapham Evangelicals … More undertook opening and operating Sunday Schools … in order to teach the children of the laboring classes to read and write, to learn the catechism, and to lead moral lives informed by Christian teaching. Though the effort was clouded by political and theological controversy from various sides, More eventually opened sixteen schools that taught hundreds of students.” (Prior). In 1790, the More sisters hand over the Park Street school to Selina Mills. In 1792, she founds women’s benefit clubs at Cheddar and Shipham. 1799 marks the beginning of the “Blagdon controversy”: “one of More's teachers is accused of Methodism; the accusation widens into a series of attacks on More for alleged religious and political subversion; as a result she suffers depression and nervous collapse and for a while is unable to write,” until 1802 (Stott).
+In 1801, More retired— somewhat. She moved to a new home, Barley Wood, outside the village of Wrington, but “[t]hough her years of publishing had come to an end, her pen was not stilled as she responded to the volumes of letters she received,” and she continued to receive and advise many visitors (Prior). In 1813 she founded an auxiliary Bible Society at Wrington. “She continued to support generously efforts at poverty-relief until her death. More died September 7, 1833, having survived all of her sisters and most of the members of her London circle of friends” (Prior).</Text>
         </Document>
         <Document ID="3E88B151-217E-48D9-907B-3A82E2EE7FDA">
             <Title>female gothic</Title>
@@ -2717,12 +2836,12 @@ CITE Ledoux 2</Comments>
 [Messy, subjective judgments]
 Though, you are in the end attempting to impose some kind of order</Text>
         </Document>
-        <Document ID="02498A97-F711-45A8-AA5D-A2668A3399E4">
-            <Title>ch ? - celebrity</Title>
-        </Document>
         <Document ID="51766436-1BC3-421A-B348-4316C87479F5">
             <Title>individual word studies seem cool</Title>
             <Text>HathiTrust shows a collection of all uses of the term “Hottentot” in 18thC periodicals — is there anything similar I am curious about? (Glow-worms, of course…)</Text>
+        </Document>
+        <Document ID="02498A97-F711-45A8-AA5D-A2668A3399E4">
+            <Title>ch ? - celebrity</Title>
         </Document>
         <Document ID="F6B961F3-140C-4F52-A2A3-223603C6F7A6">
             <Title>critiques of distant reading</Title>
@@ -2825,15 +2944,15 @@ I would perhaps instead say something like - the challenges inherent, and prob i
 needs clarification
 I do not know what you mean here so flesh out a bit or drop it</Comments>
         </Document>
-        <Document ID="7E6CB2C3-E917-4D55-B78B-42516ACB8C89">
-            <Title>critical algo studies</Title>
-            <Text>I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code.</Text>
+        <Document ID="F65F5D78-FEFB-487B-8AA7-22F0C861F2B7">
+            <Title>Shakespeare in the 18thC</Title>
         </Document>
         <Document ID="E55CEBCD-8433-47A9-BD87-745C0A614EDB">
             <Title>gillespie comment</Title>
         </Document>
-        <Document ID="F65F5D78-FEFB-487B-8AA7-22F0C861F2B7">
-            <Title>Shakespeare in the 18thC</Title>
+        <Document ID="7E6CB2C3-E917-4D55-B78B-42516ACB8C89">
+            <Title>critical algo studies</Title>
+            <Text>I will apply insights from the emerging field of critical algorithm studies to reflect on the code I have written for the project, and the importance of engaging with digital projects at the level of code.</Text>
         </Document>
         <Document ID="EA005D64-A7C2-496F-A6E6-EC091CB11D88">
             <Title>synthesis of 3 fields</Title>
@@ -2862,6 +2981,9 @@ I do not know what you mean here so flesh out a bit or drop it</Comments>
         <Document ID="F6CD7FE1-E497-4886-8A6C-DD8E5B478452">
             <Title>how can Powis Castle satirize in 1788 something which</Title>
             <Text>how can Powis Castle satirize in 1788 something which barely even exists yet?</Text>
+        </Document>
+        <Document ID="99FC1917-9232-490E-8080-92159A62C6F9">
+            <Title>Internet Archive</Title>
         </Document>
         <Document ID="A626FA86-F827-444D-8512-85824FEBDD7C">
             <Title>Murphy, Peter</Title>
@@ -2897,6 +3019,10 @@ P. 200 - begins long discussion of “The Thorn”</Text>
         </Document>
         <Document ID="14C1135E-6C2D-41ED-94EA-7CDAF56A878F">
             <Title>Mee</Title>
+            <Text>
+
+
+</Text>
         </Document>
         <Document ID="61A7C257-200C-4CF0-82B0-B5322E90F0DF">
             <Title>Genre is like Aristotelian species?</Title>
@@ -3281,13 +3407,13 @@ Erik Malcolm Champion
         <Document ID="98A142C7-E513-4BFB-BF20-B1B8169F4E94">
             <Title>Garside &amp; Raven</Title>
         </Document>
-        <Document ID="EC34073E-1015-47DC-9927-E37E746F4995">
-            <Title>what's in labouring-class poets?</Title>
-        </Document>
         <Document ID="C0864CE0-1075-43FC-A9F5-931D7F73480E">
             <Title>Alfoxden &amp; Grasmere mingled with much</Title>
             <Text>“She… now had at handa book of 3 years before, still with many empty pages; thus, on 14 Feb, when she needed another book for the Grasmere Journal, she filled this, leaving 1 blank page, and writing on until 2 May 1801 when she met the fragment of W’s essay on moralists coming from the other end.”
 Why do we treat “the Grasmere Journal” as a distinct text with a title and clear bounds??? I’m not convinced that it is actually A Thing.</Text>
+        </Document>
+        <Document ID="EC34073E-1015-47DC-9927-E37E746F4995">
+            <Title>what's in labouring-class poets?</Title>
         </Document>
         <Document ID="998DAE63-8151-48D7-ADE3-0314C3B7DF26">
             <Title>conclusion</Title>
@@ -3812,9 +3938,12 @@ Internet Archive</Text>
         </Document>
         <Document ID="144D5CFC-32FD-45B7-B77D-1FD7B0F6DBB2">
             <Title>Numbers to compare to</Title>
-            <Text>Comedies vs tragedies performed: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)</Text>
+            <Text>Comedies vs tragedies performed: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)
+Suarez numbers
+Some Statistics on the Number of Surviving Printed Titles for Great Britain and Dependencies from the Beginnings of Print in England to the year 1800, by Alain Veylit. </Text>
         </Document>
         <Document ID="F03AEF48-2440-4C99-9457-65CB78E44B97">
+            <Title>Karian, ESTC limitations &amp; possibilities</Title>
             <Text>THE LIMITATIONS AND POSSIBILITIES OF THE ESTC STEPHEN KARIAN 
 The English Short-Title Catalogue (ESTC) has been described as “one of the greatest scholarly ventures ever conducted” and “the largest humanistic research project of the twentieth century.” Even one of the most trenchant critics of the ESTC’s recent developments is confident that “biblio- graphical and library historians will . . . judge [the ESTC] as one of the heroic scholarly enterprises of the twentieth century.”2 For once, such superlatives are well deserved. As a union catalogue of nearly all printed matter before 1801 published in the British Isles and colonies or written in the English language, the ESTC has transformed eighteenth-century scholarship. It has enabled scholars of this period to imagine and pursue research questions that would otherwise have been extremely difficult if not impossible to answer. For many research projects concerning the English-speaking world before 1801, the ESTC is one of the best resources to identify relevant printed materials, determine their publishing histories, and find out where they can be examined.  (283)
 Those responsible for laying the foundations of the ESTC in the 1970s exhibited considerable foresight in their decision not to compile a printed catalogue along the lines of the original Pollard and Redgrave Short-Title Catalogue for 1476–1640 or Donald Wing’s catalogue for 1641–1700. Instead, they chose to exploit the resources of computing power, which meant that ESTC records existed in digital form long before many humanists saw computer technology as central to their work. The ESTC was also a remarkable collaborative effort that spanned the Atlantic and encompassed scholars as well as librarians. Visionary thinking was essential to the ESTC’s emergence, and I believe a similar kind of visionary thinking is needed now, especially in anticipation of the needs and goals of twenty-first-century scholarship. (283)
@@ -3946,6 +4075,9 @@ To define a decade study of English literature by the milestones of the French R
             <Title>how many titles promise a mystery?</Title>
             <Text>What percentage of books promise in their titles some kind of secret or mystery to be discovered? This is the kind of question that would be more interesting if two different time periods were being compared...</Text>
         </Document>
+        <Document ID="D07CE263-270B-476C-A315-76FCD7F27C98">
+            <Title>Corvey</Title>
+        </Document>
         <Document ID="6941A2E5-36F7-44C7-9CF3-17332A9F5A65">
             <Title>selection criteria</Title>
             <Text>The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in England, between the years 1789-99. 
@@ -4002,6 +4134,9 @@ I'm basically treating each corpus as a non-random sample of the platonic ideal 
             <Title>"schools of thought"</Title>
             <Text>my own understanding of eighteenth century politics as “schools of thought” governed by memetic natural selection.
 Because politics occurs between individual people, not political parties, I argue that political affiliation, like literary genre, is not amenable to simple taxonomic classification.</Text>
+        </Document>
+        <Document ID="08728CCD-6E5B-4269-BF43-1C808B57F3EA">
+            <Title>BL 19thC</Title>
         </Document>
         <Document ID="B03B8839-0949-4AEB-BD23-E705C1C35682">
             <Title>theoretical frameworks</Title>
@@ -4134,6 +4269,9 @@ I dunno how to put all of that together, but it feels important somehow! How can
         <Document ID="A9210FD8-C618-464F-B2F6-21E007CD97E2">
             <Title>queerying homophily</Title>
         </Document>
+        <Document ID="9CD6A2C6-BEC2-4743-A7CE-239D979F8718">
+            <Title>END</Title>
+        </Document>
         <Document ID="21392BD2-EDCB-4143-86E0-71B166E57A6F">
             <Title>prodecural argument - Bogost</Title>
         </Document>
@@ -4226,6 +4364,17 @@ When my inquiry starts in 1789, there is already an enormous catalogue of works 
         <Document ID="CA18A8BD-A48E-43B8-A6D7-3BA9B97678C1">
             <Title>coda? - gothic</Title>
             <Text>A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production (assuming that turns out to be true, of course.) Some of my earlier work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. (Importantly, stylometric methods are not able to distinguish a parody of the Gothic from a “real” Gothic; as I theorize and interpret my findings, then, I would take up Horner and Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy.) This final section could use a stylometric approach to identify and then search for “Gothic vocabularies” in full texts, computationally, in order to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? What kinds of literary production are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? This afterword would sketch out a preliminary map of the Gothic in the print world of the 1790s. This closing section would thus cite and build upon my prior work with the Gothic, in the context of the 1790s as a period when the penetration of Gothic modes into mainstream print had particularly complex political stakes.</Text>
+        </Document>
+        <Document ID="5BFB23B2-DC22-4A94-95C4-245B403A3244">
+            <Title>Korshin, Paul. Review of ESTC history</Title>
+            <Text>“Exploratory studies, poorly funded and inadequate though they were, began in the next decade, but not until 1975 did the American Society for Eighteenth-Century Studies take the initiative in North America, which was swiftly followed and far surpassed by the interest of the British Library, that has led to the present Eighteenth-Century Short-Title Catalogue Project.” (Korshin 209)
+
+"The British Library Project maintains a number of manual files based on the works they have catalogued (by mid October 1978, the team had cataogued mor ethan 110,00 items, with a total of 75,000 entries; the difference represents multiple copies), and one can see from this account how usedul the completed work will be to the scholarly and library world. Indeed, as scholars who visit the Project at the British Library or who have been in touch with Alston and Jannetta by letter have already found, even the incomplete British Library file is tremendously helpful to the researcher.” (210)
+
+“The Project staff found that many eighteenth-century books in hundreds of libraries around the world have never been / catalogued at all, or are described in a group heading,” especially for single-sheet items (Korshin 210-211). “Panizzis ‘Rules' lead to confusing entries and filing for anonymous entries or for items with corporate authorship. For these, and many other related reasons, Alston and Jannetta decided to write their own cataloguing rules, allowing their entries eventually to be converted into machine-readable form, but differing slightly from the standards for machine-readable cataloguing devised in this country (Library of Congress MARC) and in the United Kingdom (UK MARC). Modern machine-readable cataloguing has been devised to deal with cataloguing new books and serials; the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book inhis or her library is the same or different from the one listed in ESTC.” (Korshin 211)
+
+“By 1984, it is expected that a joint Anglo-American interim publication of the ESTC file to that point will be published in computer-output microform (COM).” (Korshin 212)
+</Text>
         </Document>
         <Document ID="DCBDEEA8-A85D-4394-AF1E-86108D7DA4F7">
             <Title>her shadow isn't interesting</Title>
@@ -4458,6 +4607,9 @@ And Scott’s influential transformation of the imagining of war was not limited
             <Text>A chronological anthology is structured by the assuption that the most important context for a work is not who it is by, but when it was produced. Author comes second. This reverses the traditional anthology (Norton etc), which is structured by the assumption that the most important context for a work is the author who produced it, with chronology as a second concern.
 Author is of course an important component! But it can also promote the false idea that changes within an author’s body of work are mostly due to personal matters or artistic evolution, rather than being responses to other works being produced or to changes in the world at large. </Text>
         </Document>
+        <Document ID="1AB3A4A8-45AB-431E-BBE6-1C42F5B5BFAF">
+            <Title>Charlotte Smith</Title>
+        </Document>
         <Document ID="8926F822-0F09-43FB-83E6-9DEBFA432A3C">
             <Title>Genre identification?</Title>
         </Document>
@@ -4473,11 +4625,11 @@ Author is of course an important component! But it can also promote the false id
         <Document ID="275DC523-EDDA-486D-AD30-0BFC42405E90">
             <Title>Secondary Texts</Title>
         </Document>
-        <Document ID="4675D5C7-616E-4A28-A102-7C3D6EDAC1B5">
-            <Title>Wendy Chun-1</Title>
-        </Document>
         <Document ID="8DC9676F-215C-4AB5-BD24-5F20BA287312">
             <Title>potential experiment ideas</Title>
+        </Document>
+        <Document ID="4675D5C7-616E-4A28-A102-7C3D6EDAC1B5">
+            <Title>Wendy Chun-1</Title>
         </Document>
         <Document ID="E1003337-FC99-470F-9292-B8D6A8780287">
             <Title>Gamer, Michael. Romanticism and the Gothic: Genre, Reception</Title>
@@ -4567,7 +4719,7 @@ Somewhat inexplicably, 27,140 MARC records don't include bibliographical publish
         <Document ID="9045928D-D638-4D11-9DED-2E7BC9CCF17E">
             <Title>writing</Title>
             <Text>Mary Robinson’s first literary foray was the volume Poems by Mrs. Robinson, published by C. Parker in 1775, shortly followed by the [chapbook???] Elegiac verses to a young lady on the death of her brother; who was slain in the late engagement at Boston. “Though Poems received little critical support, and made little money, Mary Robinson continued to write” (Mark Ockerbloom), but she would begin her career as an actress before this writing saw publication. Robinson’s theatrical debut as Juliet in December 1776 led to an increasingly acclaimed and prolific career. “She took on a range of roles, sometimes playing multiple parts in the same week, or even night” (Mark Ockerbloom). In 1777 she published a volume of works written earlier, Captivity, A Poem: and Celadon and Lydia, A Tale, and in 1778 wrote and starred in her own musical farce, The Lucky Escape, from which she published The Songs, Chorusses, etc. in The Lucky escape, a Comic Opera. In 1780, Robinson retired from the stage. Her next published volume did not appear until 1791, but the intervening decade was not empty of literary activity. From 1784 to its publication in 1787, Robinson collaborated with Banastre Tarleton on the composition and revision of his History of the Campaigns of 1780 and 1781. In 1788, Robinson began the writing which would make her name as an author. She contributed poems to The World and The Oracle under the pseudonyms “Laura” and “Laura Maria” which [responded to the Della Cruscans and made her one of them].
-This dissertation’s decade of interest, 1789-99, captures Robinson’s most prolific period. Her 1790 [chapbook????] Ainsi va le Monde, a poem inscribed to Robert Merry, published under the name Laura Maria, “Sold better than Merry's poem, requiring a second edition before the end of the year. A watershed event in Robinson's career, proving that she could successfully reinvent herself as a poet and as a political writer” (SOURCE UNCLEAR). The success of her Della Cruscan poetry led to the publication in 1791 of another Poems by Mrs. Robinson, this time by J. Bell. “The book was handsomely produced in a leather binding, with gold details. The subscription list of 600 people was headed by His Royal Highness, George, Prince of Wales, and included many other members of the nobility. Some people subscribed because of her writing, some because of her notoriety, and some perhaps out of pity for the former actress, now crippled and ill. Reviews were generally kind, and noted traces in her poems of a sensibility that would later be termed Romanticism.” (Mark Ockerbloom). 1791 also saw the publication of The Beauties of Mrs. Robinson. Selected and Arranged from her Poetical Works printed by H. D. Symonds. She also produced a pamphlet that year, Impartial Reflections on the[Present] [Situation of the] Queen of France [by a Friend to Humanity]. The next year saw the arrival of a successful novel, Vancenza, or the Dangers of Credulity, which would reach five editions by 1794, and two elegiac [chapbooks???????]: Monody to the Memory of Sir Joshua Reynolds, and An ode to the harp of the late accomplished and amiable Lousia Hanway. 1793 saw three more [chapbooks??????], two of poetry under her own name (Monody to the Memory of the late Queen of France and Sight, The Cavern of Woe and Solitude) and one under the pseudonym “Horace Juvenal,” Modern Manners: a poem in two cantos. In 1794 she published her second novel, The Widow, or a Picture of Modern Times. In 1795 she published another novel, Audley Fortescue, under the name “Mr. Robinson.” In 1796 she published XXX major works:, the novel Angelina, under her own name, as “Mrs. Mary Robinson, Author of Poems, Vancenza, the Widow, &amp;C. &amp;C. &amp;C.”; another novel also under her own name, Hubert de Sevrac; a sonnet series Sappho and Phaon; and the gothic verse tragedy The Sicilian Lover. 1797 saw two more novels: Julie St. Lawrence and Walsingham. 1798 was Robinson’s first year since 1790 with no publications. In 1799, she published two novels, The False Friend and The Natural Daughter, as well as a political treatise, A Letter to the Women of England on the Cruelties of Mental Subordination. She also began contributing weekly essays to the Morning Post and Gazetteer.
+This dissertation’s decade of interest, 1789-99, captures Robinson’s most prolific period. Her 1790 [chapbook????] Ainsi va le Monde, a poem inscribed to Robert Merry, published under the name Laura Maria, “Sold better than Merry's poem, requiring a second edition before the end of the year. A watershed event in Robinson's career, proving that she could successfully reinvent herself as a poet and as a political writer” (SOURCE UNCLEAR). The success of her Della Cruscan poetry led to the publication in 1791 of another Poems by Mrs. Robinson, this time by J. Bell. “The book was handsomely produced in a leather binding, with gold details. The subscription list of 600 people was headed by His Royal Highness, George, Prince of Wales, and included many other members of the nobility. Some people subscribed because of her writing, some because of her notoriety, and some perhaps out of pity for the former actress, now crippled and ill. Reviews were generally kind, and noted traces in her poems of a sensibility that would later be termed Romanticism.” (Mark Ockerbloom). 1791 also saw the publication of The Beauties of Mrs. Robinson. Selected and Arranged from her Poetical Works printed by H. D. Symonds. She also produced a pamphlet that year, Impartial Reflections on the[Present] [Situation of the] Queen of France [by a Friend to Humanity]. The next year saw the arrival of a successful novel, Vancenza, or the Dangers of Credulity, which would reach five editions by 1794, and two elegiac [chapbooks???????]: Monody to the Memory of Sir Joshua Reynolds, and An ode to the harp of the late accomplished and amiable Lousia Hanway. 1793 saw three more [chapbooks??????], two of poetry under her own name (Monody to the Memory of the late Queen of France and Sight, The Cavern of Woe and Solitude) and one under the pseudonym “Horace Juvenal,” Modern Manners: a poem in two cantos. In 1794 she published her second novel, The Widow, or a Picture of Modern Times. In 1795 she published another novel, Audley Fortescue, under the name “Mr. Robinson.” In 1796 she published four major works:, the novel Angelina, under her own name, as “Mrs. Mary Robinson, Author of Poems, Vancenza, the Widow, &amp;C. &amp;C. &amp;C.”; another novel also under her own name, Hubert de Sevrac; a sonnet series Sappho and Phaon; and the gothic verse tragedy The Sicilian Lover. 1797 saw two more novels: Julie St. Lawrence and Walsingham. 1798 was Robinson’s first year since 1790 with no publications. In 1799, she published two novels, The False Friend and The Natural Daughter, as well as a political treatise, A Letter to the Women of England on the Cruelties of Mental Subordination. She also began contributing weekly essays to the Morning Post and Gazetteer.
 After 1799 (and thus after this dissertation’s decade of interest), Robinson’s career and life is short. In 1800, she publishes a novel, Ellinda: or the abbey of St. Aubert, her verse collection Lyrical Tales, a [chapbook???] of her freestanding The Mistletoe, a Christmas Tale (as Laura Maria), and a translation from the German of Joseph Hager’s Picture of Palermo. Robinson dies in December 1800. After her death, her daughter Mary Elizabeth Robinson, oversaw the posthumous publication of three more works: Memoirs of the Late Mrs. Robinson, Written by Herself, with some posthumous pieces in verse (1801), a collection of poetry titled The Wild Wreath (1804), and a final collection of The Poetical Works of the Late Mrs. Robinson, including many pieces never before published (1806).</Text>
         </Document>
         <Document ID="7996FDBB-7D9F-4414-92F8-0E5B7D520DC4">
@@ -4612,14 +4764,14 @@ A truly lengthy survey of queer work enabled by the Gothic!
             <Title>close read: something old?</Title>
             <Text>Any cool “1790s lit” not written in the 1790s? Shakespeare? Goldsmith?</Text>
         </Document>
+        <Document ID="EE0EE577-6874-498D-BFCB-E95ACC8F5BB7">
+            <Title>Mee, John. Print, Publicity, and Popular Radicalism</Title>
+        </Document>
         <Document ID="B5FB4462-F4CA-4042-A315-B074C3720DE2">
             <Title>proposal</Title>
             <Text>Chapter four introduces my second major experiment, a mapping of the social world of print production 1789-99. As in chapter two, it will be a substantial technical and research project simply to recover contemporary printing practices; this time, rather than asking what was printed, I will ask who it was printed by. A great deal of scholarly work already exists on printing circles, coterie publishing, and individual publishing houses. My project will consult this scholarship to extract and encode connections between authors, printers, and publishers (but not patrons, readers, or other persons not immediately involved in the production of texts) in order to synthesize the implicit social networks underlying 1790s print production. I will begin my research for this chapter by encoding only a few existing studies, in order to evaluate the feasibility of my method at scale. It is possible that, rather than directly consulting the more richly historically-informed work of other scholars, I will instead fall back on inferring networks from the author and publisher metadata included with the corpora examined in chapters two and three. The resulting chapter will explain my methodology and its assumptions, and will provide a rich description of my resulting network graph. The graph I create may reveal one large interconnected network, or several separate networks of varying sizes; these networks may consist of highly distinct clusters, or evenly interconnected webs. Drawing on mathematical graph theory, the chapter will explain the implications of whichever shape the network ultimately displays. It will also present an overview of the people I identify as the “major players” in the publishing world of the 1790s, both mathematically (looking for nodes with various kinds of centrality) and in the scholarship.</Text>
             <Comments>TK: Jon Mee, Kevin Gilmartin and Paul Keen are others who would be important here. Plus scholars who focus more on conservatism, perhaps M. O. Grenby for example? Or even much earlier work by Marilyn Butler?
 Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Making of English Reading Audiences, 1790-1832; Marcus Wood, Radical Satire and Print Culture, 1790-1822; and David Worrall, Radical Culture: Discourse, Resistance, and Surveillance, 1790-1820. Other promising titles include Social networks in the long eighteenth century : clubs, literary salons, textual coteries, ed. Ileana Baird; and The enlightenment &amp; the book : Scottish authors &amp; their publishers in eighteenth-century Britain, Ireland &amp; America, by Richard B. Sher, to capture different parts of the publishing landscape.</Comments>
-        </Document>
-        <Document ID="EE0EE577-6874-498D-BFCB-E95ACC8F5BB7">
-            <Title>Mee, John. Print, Publicity, and Popular Radicalism</Title>
         </Document>
         <Document ID="324EFD80-356E-4A63-8443-F4B18859BA2A">
             <Title>experiment 2</Title>
@@ -4628,8 +4780,8 @@ Per Terry’s suggestions, I would likely begin here with Jon Klancher, The Maki
             <Title>conclusion</Title>
             <Text>I hope to integrate my computational and quantitative research into a fully humanities project by largely refusing to centre the technological elements of my methodology, either in terms of its practice or in terms of its theory. I completely reject the aura of empiricist objectivity which quantitative and computational methods attempt to surround themselves with. I embrace the messiness and intimacy of modelling. Trying to integrate attentiveness to textual detail and emotional openness will be good for “DH.”</Text>
         </Document>
-        <Document ID="84CF1C9C-0809-4DBF-8449-7336D6EB3427">
-            <Title>how many texts per year?</Title>
+        <Document ID="49D6AD4C-99DA-4069-9666-18FC39FCA775">
+            <Title>HathiTrust</Title>
         </Document>
         <Document ID="374DEFA9-6AD4-4DC2-A8B2-A95140A857F6">
             <Title>intro - vocab</Title>
@@ -4653,6 +4805,9 @@ We want things to be a few, simple, balanced categories — we especially want t
             <Title>Romantic poets relied upon women</Title>
             <Text>In their own acknowledgement (?), from the beginning, the poet’s occupation and their romantic connection with nature rely upon the support of the women in their lives; certainly Coleridge knew the importance of Dorothy to Wordsworth, and surely knowing of her would have been key to being “in the know” in their whole social circle; effacing these women’s importance wasn’t key to the myth-making yet (?) but was something grabbed ahold of and exaggerated later?</Text>
         </Document>
+        <Document ID="84CF1C9C-0809-4DBF-8449-7336D6EB3427">
+            <Title>how many texts per year?</Title>
+        </Document>
         <Document ID="59533D9F-DFC5-445F-A7F6-05188F971BB5">
             <Title>Farmer &amp; Lesser 1</Title>
         </Document>
@@ -4669,6 +4824,13 @@ By this, Mee means “both attacks on personalities by the radical press but als
             <Title>titles</Title>
             <Text>The first phase of this project takes up titles and databases. Throughout this work, a ‘title’ is the broadest possible umbrella term for a text: it is synonymous with ‘a database entry which I believe to represent a printed work.’ Each individual database will shape the precise correspondences between a ‘title’ and the printed texts about which I use ‘titles’ to reason. For example, it will vary based on my source whether multiple editions of the same work are several ‘titles’ or one ‘title,’ and whether the titles exclusively represent ‘books’ or also include chapbooks, broadsheets, or even ephemera. Due to the inscrutability of much digital infrastructure, a problem discussed above, it is often not possible for me to know prior to experimentation what kinds of titles I am working with. Chapter two, therefore, two takes up the topic in the form of contemporary digital archives directly; I examine corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized.</Text>
         </Document>
+        <Document ID="7BBCBA55-F3F9-45FC-9210-3BF346766C9D">
+            <Title>key points</Title>
+            <Text>The crux of much of my distress: “Since noncanonical works are in every case either historical works (the objects of research or revaluation) or modern works (the objects for legitimation for the first time as cultural capital), they are in fact what all canonical works once were. To content otherwise is to commit oneself to the notion that some works are intrinsically canonical" (51)
+"In the context of curricular revision, the category of the noncanonical loses its empty significance as merely the sum total of what is not included in the canon, and takes on a content specified by the contemporary critique: the noncanonical must be conceived as the /actively/ excluded, the object of a historical repression.” (9)
+“the construction of a syllabus begins with selection; it does not begin with a 'process of elimination.’ What is excluded from the syllabus is not excluded in the /same way/ that an individual is excluded or marginalized as the member of a social minority, socially disenfranchised.” (33)
+Because the canon and the curriculum are not in fact identical, I can begin curricular reform without having to finish solving canonical reform.</Text>
+        </Document>
         <Document ID="25656C2F-E55A-437F-9BE7-56436B053898">
             <Title>HathiTrust</Title>
             <Text>Moreover, as in eighteenth-century texts themselves, the boundary between “canonical” and “noncanonical” digital archives is a permeable one: Google Books and the Internet Archive, distinctly ‘noncanonical’ archives, are also integrated into HathiTrust, an increasingly popular ‘canonical’ resource for scholars. HathiTrust’s collection contains digitized content from “a variety of sources, including Google, the Internet Archive, Microsoft, and in-house member institution initiatives” \cite{HathiTrust:2019vs}. The “in-house member institutions” are six consortia (such as the University of California state university system), and one hundred and forty-nine individual universities and colleges \cite{HathiTrust:2019ti}. The aggregate scholarly authority of these institutions carries the weight of elevating HathiTrust above the Google Books scans which form the backbone of much of its contents: “The members ensure the reliability and efficiency of the digital library,” the website assures us, “by relying on community standards and best practices” \cite{HathiTrust:2019vs}. The collection itself is always expanding: the website contains a dedicated set of instructions for “Getting Content Into HathiTrust,” providing an “Ingest Checklist” for those who might contribute either existing or new digitized content \cite{HathiTrust:2019tf}. The texts themselves are all stored as facsimile page images and full-text OCR transcripts. In order to comply with copyright law, however, HathiTrust only provides large-scale downloads and OCR transcripts for texts which are in the public domain. What does, in fact, distinguish HathiTrust from similar repositories is its commitment to enabling fair use and research-based access to texts as much as possible. Rather than favouring maximum restriction of access in order to ensure maximum protection from legal complaints, HathiTrust has innovated several ways to allow scholars to carry out text-mining analysis on copyrighted texts. The scholarly benefit of HathiTrust is most evident, therefore, in the study of contemporary literature, where copyright has been a major barrier to study. However, eighteenth-century texts are so firmly in the public domain that copyright issues rarely arise; instead, the major challenge in building large-scale corpora of transcripts (rather than facsimiles) is the resistance of eighteenth century typefaces to OCR. Especially since many eighteenth-century digital facsimiles are themselves fascimiles of microfiche (with resulting loss of image fidelity), running an eighteenth century page image through OCR software generally produces useless gibberish. As a result, HathiTrust’s key intervention — using OCR to circumvent copyright restrictions — has limited applicability to eighteenth-century studies.</Text>
@@ -4676,13 +4838,6 @@ By this, Mee means “both attacks on personalities by the radical press but als
 
 bc here you do not mean, 'canonical texts of the 1790s containing' but - more authoritative - right?
 you perhaps need more on the shitload of work being done on OCR - maybe in the next chapter</Comments>
-        </Document>
-        <Document ID="7BBCBA55-F3F9-45FC-9210-3BF346766C9D">
-            <Title>key points</Title>
-            <Text>The crux of much of my distress: “Since noncanonical works are in every case either historical works (the objects of research or revaluation) or modern works (the objects for legitimation for the first time as cultural capital), they are in fact what all canonical works once were. To content otherwise is to commit oneself to the notion that some works are intrinsically canonical" (51)
-"In the context of curricular revision, the category of the noncanonical loses its empty significance as merely the sum total of what is not included in the canon, and takes on a content specified by the contemporary critique: the noncanonical must be conceived as the /actively/ excluded, the object of a historical repression.” (9)
-“the construction of a syllabus begins with selection; it does not begin with a 'process of elimination.’ What is excluded from the syllabus is not excluded in the /same way/ that an individual is excluded or marginalized as the member of a social minority, socially disenfranchised.” (33)
-Because the canon and the curriculum are not in fact identical, I can begin curricular reform without having to finish solving canonical reform.</Text>
         </Document>
         <Document ID="1C932D11-EFB1-4DAE-8311-26C4044D4A5C">
             <Title>How prevalent is Arab orientalism?</Title>
@@ -4695,6 +4850,9 @@ find how much and what kinds of Arabic literature people were reading; read 1001
 	•	What’s in all these, anyway?
 	⁃	What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
 	⁃	How do digital vs physical holdings compare?</Text>
+        </Document>
+        <Document ID="75A66E87-375B-41B1-B694-43A76F1B19EB">
+            <Title>ECCO</Title>
         </Document>
         <Document ID="A95DD8BF-5DBB-475B-A1F6-2F84056FFDA8">
             <Title>M.H. Abrams, _The Mirror and the Lamp_: a classic, and</Title>
@@ -4721,12 +4879,12 @@ this is so important - you need more of it, perhaps right from the start</Commen
         <Document ID="618A929A-8DC3-41D6-B3AC-44775AA6372C">
             <Title>works with useful lessons??</Title>
         </Document>
-        <Document ID="5C45860E-29CB-4760-B249-808D2E8E8D50">
-            <Title>Alberto Cairo</Title>
-        </Document>
         <Document ID="2D29629B-1313-431A-B813-262AE2AEB734">
             <Title>Friedrich Kittler, _Discourse Networks, 1800/1900</Title>
             <Text>Friedrich Kittler, _Discourse Networks, 1800/1900_: also a difficult book (and one that focuses solely in its first part on German Romanticism), but one that emphasizes the importance of thinking about information technologies (including writing) for understanding Romanticism</Text>
+        </Document>
+        <Document ID="5C45860E-29CB-4760-B249-808D2E8E8D50">
+            <Title>Alberto Cairo</Title>
         </Document>
         <Document ID="6FF63DB0-0621-4B0F-ACC6-32C1ACF7B844">
             <Title>if a result is true, it SHOULD match expectations</Title>
@@ -4816,19 +4974,27 @@ The pirate press prints what sells regardless of whether it’s HOW the authors 
             <Title>what genres for what politics?</Title>
             <Text>What mediums are most-used for different political positions?</Text>
         </Document>
-        <Document ID="04F72527-CA54-476B-9F79-2A1C62F4E06F">
-            <Title>scholarship</Title>
-            <Text>Earlier scholarship on Smith often takes the stance of The Literary Encyclopedia in defining her as a woman who wrote because of, and chiefly about, her personal distress. “Smith turned to writing when a failing marriage and a costly lawsuit left her without resources to raise her large family.” \cite{Blank:2019tb} “Among her contemporaries, however, Elegiac Sonnets won her the reputation as an author of serious verse and lent greater respectability to her ensuing productions in a less prestigious but more lucrative genre – the novel.”\cite{Blank:2019tb} “After their separation Benjamin went into hiding to escape further court proceedings, lived on the interest of his wife's fortune and left her to find means of supporting herself and their nine surviving children. Aware that once a final settlement of the will was brought about, the legacies due would have secured her children's futures, Smith exerted herself to earn sufficient money to pay for legal advice and maintain a genteel standard of living suitable to the expected inheritance. Circumstanced as she was, it is no surprise she described herself a “slave of the Booksellers” (Smith to J. C. Walker, 9 October 1793). And so Smith churned out eleven novels, added to successive editions of the Elegiac Sonnets, produced two further volumes of poetry, and ended her career with the publication of four educational books for young people, a natural history of birds, and a history of England.”\cite{Blank:2019tb}
-The direct, personal impact of Smith’s writing is, in these accounts, presented as a valuable strength. Jacqueline Labbe, however, has recently worked to draw attention to the differences between Smith’s writing personae in different genres, contradicting attempts to interpret Smith’s works as unmediated.
-Labbe’s edited volume Charlotte Smith in British Romanticism “pulls together many Smiths” \cite{Labbe:2008tu p.2}, integrating scholarship on her poetry, novels, plays, letters, and her reception. Each of these Smiths, the volume contends, has something innovative and unexpected to reveal, important to the formation of British Romanticism. Smith’s novels and poetry have particularly attracted substantial, and substantially separate, scholarship. Labbe observes that Smith’s novels are discussed for their innovative narrative techniques and writerly skill, whereas Smith’s novels are praised for their immediate and personal expressions of Smith’s own interiority. Smith’s letters, less studied, reveal a third kind of writer, one who conceives of herself as a professional businesswoman of her craft. From these distinctions, Labbe concludes that “Smith, significantly, composes herself anew according to genre” \cite{Labbe:2008tu p.2} — and then asks, “Is it all to do with inherent qualities of genre, or is it more to do with the expectations we as readers bring to different genres?” \cite{Labbe:2008tu p.5}. [I also want to know the answer to this question.]
-Labbe is not quite the first to attempt to unify Smith: Carol L. Fry’s 1996 Charlotte Smith also addresses her poetry before moving on to several phases of her novel-writing, including the children’s writing which made up much of Smith’s later career but does not appear in Labbe.
-
-Garnai’s Revolutionary Imaginings in the 1790s contributes another Smith, a highly political Smith who actively participates in the “political public sphere” conceived by Habermas (despite Habermas’ insistence that women were excluded from this sphere) \cite{Garnai:2009tq p.1}. [Something about each Smith having her own peers…? Political Smith now becomes peers with Mary Robinson and Elizabeth Inchbald, whereas Poetic Smith is peers with Wordsworth &amp; Coleridge, and Novelistic Smith with Radcliffe etc]</Text>
+        <Document ID="10F328C3-9695-46F5-9869-9492CC9AABA2">
+            <Title>Ch 2</Title>
         </Document>
         <Document ID="2B6457B7-BA7A-4317-8D26-F7E5872B8BCB">
             <Title>why is everyone so into novels?</Title>
             <Text>Is the sentimental novel part of what I am trying to do here? Am I interested in the novel as a form at all? Why is everyone else so interested in the novel to the exclusion of other literary forms???
 Am I interested in the poetry, actually? How can I see which generic form dominates the decade?</Text>
+        </Document>
+        <Document ID="04F72527-CA54-476B-9F79-2A1C62F4E06F">
+            <Title>scholarship</Title>
+            <Text>Earlier scholarship on Smith often takes the stance of The Literary Encyclopedia in defining her as a woman who wrote because of, and chiefly about, her personal distress. Antje Blank’s article there highlights Smith’s financial motive to write: “Smith turned to writing when a failing marriage and a costly lawsuit left her without resources to raise her large family” (Blank). “And so,” Blank says, Smith “churned out” her novels (and the many editions of Elegiac Sonnets, and her other poetry, and her educational writing) to support herself and her nine children (Blank), while cultivating a  Even when Smith’s Elegiac Sonnets “won her the reputation as an author of serious verse,” this is important primarily because it “lent greater respectability to her ensuing productions in a less prestigious but more lucrative genre – the novel” (Blank). At the same time, Smith cultivated a public persona, as a paragon of victimhood and 
+The direct, personal nature of Smith’s writing is, in these accounts, presented as a valuable strength. “Few writers have presented themselves in their works so fully as did Charlotte Smith” (Fry 3).
+
+Jacqueline Labbe, however, has recently worked to draw attention to the differences between Smith’s writing personae in different genres, contradicting attempts to interpret Smith’s works as unmediated.
+Labbe’s edited volume Charlotte Smith in British Romanticism “pulls together many Smiths” \cite{Labbe:2008tu p.2}, integrating scholarship on her poetry, novels, plays, letters, and her reception. Each of these Smiths, the volume contends, has something innovative and unexpected to reveal, important to the formation of British Romanticism. Smith’s novels and poetry have particularly attracted substantial, and substantially separate, scholarship. Labbe observes that Smith’s novels are discussed for their innovative narrative techniques and writerly skill, whereas Smith’s novels are praised for their immediate and personal expressions of Smith’s own interiority. Smith’s letters, less studied, reveal a third kind of writer, one who conceives of herself as a professional businesswoman of her craft. From these distinctions, Labbe concludes that “Smith, significantly, composes herself anew according to genre” \cite{Labbe:2008tu p.2} — and then asks, “Is it all to do with inherent qualities of genre, or is it more to do with the expectations we as readers bring to different genres?” \cite{Labbe:2008tu p.5}. [I also want to know the answer to this question.]
+Labbe is not quite the first to attempt to unify Smith: Carol L. Fry’s 1996 Charlotte Smith also addresses her poetry before moving on to several phases of her novel-writing, including the children’s writing which made up much of Smith’s later career but does not appear in Labbe.
+
+Garnai’s Revolutionary Imaginings in the 1790s contributes another Smith, a highly political Smith who actively participates in the “political public sphere” conceived by Habermas (despite Habermas’ insistence that women were excluded from this sphere) \cite{Garnai:2009tq p.1}. [Something about each Smith having her own peers…? Political Smith now becomes peers with Mary Robinson and Elizabeth Inchbald, whereas Poetic Smith is peers with Wordsworth &amp; Coleridge, and Novelistic Smith with Radcliffe etc]</Text>
+        </Document>
+        <Document ID="4EF37A1B-A246-4021-ABA3-DDD8656DC8DE">
+            <Title>ESTC</Title>
         </Document>
         <Document ID="55CF3F02-1D62-42E9-8F31-B849B949C60C">
             <Title>ESTC wordcloud: titles want to tell provenance</Title>
@@ -4860,16 +5026,16 @@ There's a lot of information packed into these titles! Later on I think all of t
 [And yet, Paine IS regarded as important — not to mention Shakespeare. So why not More or Wesley?]</Text>
             <Comments>More specifically, these “authors” are “Great Britain, Parliament,” “Great Britain,” “Great Britain, Parliament, House of Commons,” “Great Britain, Lords Commissioners of Appeals in Prize Causes,” and King George III. After King George comes Thomas Paine and Hannah More, and then it’s “Great Britain, Parliament, House of Lords” and “Church of England.”</Comments>
         </Document>
+        <Document ID="93055C65-8ECB-4CA2-BB70-E65701A5DC30">
+            <Title>I'm reading a lot of disreputable stuff</Title>
+            <Text>My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro &amp; Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.</Text>
+        </Document>
         <Document ID="2E63A9A9-DDBB-4B8E-88E6-D0D019985A2A">
             <Title>ch 2 - mainstream press</Title>
             <Text>Chapter three uses these corpora of 1790s literature to present a study of mainstream print production during the decade.
 One thread of inquiry is simply to recover contemporary printing practices: who was printing what, and when? What role do chapbooks and religious tracts play? Do our archives simply replicate the output of the major publishing houses?
  Taking up David Brewer’s challenge in “Counting, Resonance, and Form” to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in this decade? Its next question is one of close-reading and historical context: what makes them seem newly relevant? If possible, I would also like to examine theatrical production through this framework. Given the heightened ephemerality of theatre, it seems likely that the re-staging of an older play will be even more interestingly shaped by its potential to provide a timely response to the context in which it is re-staged.
 A second thread of inquiry shaped by this attention to mainstream print production is to examine celebrity via print culture. Restricting my inquiry only to the 1790s rather that nineteenth-century legacies, I will use my corpora to compare how famous various literary celebrities were over the course of the decade. The technical challenge for this part of the project is to define a feasible and fruitful metric of celebrity. In addition to looking at various raw publication counts, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. I will also discuss popularity more generally: after developing a few different metrics for popularity, I will ask: what was most popular during the decade, according to my corpora? Why does one corpus show one popular thing, and another show another?</Text>
-        </Document>
-        <Document ID="93055C65-8ECB-4CA2-BB70-E65701A5DC30">
-            <Title>I'm reading a lot of disreputable stuff</Title>
-            <Text>My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro &amp; Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.</Text>
         </Document>
         <Document ID="A943C79B-B443-4EC8-BBFB-9C726CEB8EF6">
             <Title>methods</Title>
@@ -5022,7 +5188,11 @@ Algee-Hewitt undertakes a computational analysis of a large volume of eighteenth
         </Document>
         <Document ID="B4200408-2E7E-4A61-BA21-01C8C3DA34AF">
             <Title>encode assumptions</Title>
-            <Text>if you are forced to manually encode assumptions into real code you have to confront them - if you do computation reflectively, you neither conquer your material nor claim an algorithmic grasp of objective truth: if you do not account for the variety - your code does not work - if you talk about it -where is it that my system encountered resistance....</Text>
+            <Text>if you are forced to manually encode assumptions into real code you have to confront them - if you do computation reflectively, you neither conquer your material nor claim an algorithmic grasp of objective truth: if you do not account for the variety - your code does not work - if you talk about it -where is it that my system encountered resistance....
+
+“Inspecting and hand-counting individual records has the advantage of allowing the bibliographer to make careful discriminations, even as it introduces a degree of subjectivity (to say nothing of human error) and, hence, guarantees the irreproducibility of exact results.” (Suarex 42)
+“sets of protocols for each of these categories were / developed and strictly adhered to” (Suarez 44-5)
+“the results of this study are repeatable, but not exactly so.” (Suarez 45)</Text>
         </Document>
         <Document ID="0C5FE00D-2D79-4053-AF43-DFA4ABF929A2">
             <Title>exhaustive particularity</Title>
@@ -5041,10 +5211,6 @@ Algee-Hewitt undertakes a computational analysis of a large volume of eighteenth
             <Comments>TK: Another tricky one. Might be best to avoid “popularity” unless you’re also going to factor in (as would be very hard) questions like print-runs (a nightmare imponderable), circulation (something aimed at libraries might have many more readers per copy than a book for home), unauthorized newspaper serializations, anthologization (is that a word?), false title pages (where a self-proclaimed 2nd or 10th edition might actually be just a new tp on remaindered sheets of a first edn that hasn’t sold. You could imagine (and this may have happened in practice) a novel published just once in 2,000 copies being more popular than one claiming five editions, none of which may have been more than 500 copies, and some of which may not have been true new editions at all. But which would come up as more popular give your metrics? This is all really tricky stuff and I think you’ll need a thorough discussion of the issues and assumptions.
 Lesser and Farmer also include profitability as one of the four measurements relevant to popularity in the book trade, but profitability is beyond the current scope of this project.</Comments>
         </Document>
-        <Document ID="220946DC-933F-48F8-B08E-61A52A8013BA">
-            <Title>outline</Title>
-            <Text>My first chapter establishes the vocabulary and theoretical frameworks of the dissertation. Chapter two turns a critical eye on the existing digital archives of the 1790s. Chapter three uses these corpora of 1790s literature to present a study of mainstream print production during the decade, with some discussion of celebrity as it manifests in print culture. Chapter four turns its attention to the radical press, and the social ties underlying radical writing and publishing. A potential fifth chapter could explore the penetration of the Gothic as a trans-generic mode; I would be interested to see what percentage of works during the decade can be said to contain Gothic materials.</Text>
-        </Document>
         <Document ID="0AB19E56-8091-4D53-81F3-9184252AEF9A">
             <Title>overall goal</Title>
             <Text>Having described a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to describe my own project in more detail. This dissertation has two major parts. The first examines the literature of the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.</Text>
@@ -5060,6 +5226,13 @@ you have buried the lead - this is the lead</Comments>
 4) the specific material that you examine in the paper.
 5) your original argument.
 6) a strong concluding sentence.</Text>
+        </Document>
+        <Document ID="220946DC-933F-48F8-B08E-61A52A8013BA">
+            <Title>outline</Title>
+            <Text>My first chapter establishes the vocabulary and theoretical frameworks of the dissertation. Chapter two turns a critical eye on the existing digital archives of the 1790s. Chapter three uses these corpora of 1790s literature to present a study of mainstream print production during the decade, with some discussion of celebrity as it manifests in print culture. Chapter four turns its attention to the radical press, and the social ties underlying radical writing and publishing. A potential fifth chapter could explore the penetration of the Gothic as a trans-generic mode; I would be interested to see what percentage of works during the decade can be said to contain Gothic materials.</Text>
+        </Document>
+        <Document ID="668B6109-D78A-44BB-BDEF-D00235C314CF">
+            <Title>scholarship</Title>
         </Document>
         <Document ID="CA3848B1-81CE-4815-8B5A-4C5E2DD65D0F">
             <Title>Fielding</Title>
@@ -5113,6 +5286,9 @@ Wendy Chun suggests that the problem with much algorithmic inquiry lies in its m
         </Document>
         <Document ID="0B2DE450-5646-4776-A070-B2967DFA05D2">
             <Title>what it is</Title>
+            <Text>
+
+</Text>
         </Document>
         <Document ID="02C4CFBB-50E2-4391-A410-8F3C0D9448E3">
             <Title>historian John Barrell’s Imagining the King’s Death</Title>
@@ -5137,13 +5313,13 @@ Wendy Chun suggests that the problem with much algorithmic inquiry lies in its m
 - total indifference to mode of production is critical. (oh god, I'm going to lay out my whole diss in indesign, aren't I)
 </Text>
         </Document>
+        <Document ID="F5FE304F-D24C-4B8E-BDEE-905933A839CC">
+            <Title>was the bleeding nun a common story?</Title>
+        </Document>
         <Document ID="8B0AFB0C-99D7-48D0-86C5-866DD70CE517">
             <Title>Richard Cronin, for instance, provides a good account</Title>
             <Text>Richard Cronin, for instance, provides a good account of the British poetic response to the Revolution as a whole in his The Politics of Romantic Poetry (2000). His ‘Introduction’ provides a useful summary of recent work in the field, and his later chapters show convincingly how the political issues of the 1790s remained current for many writers into the 1810s and 20s. 
 </Text>
-        </Document>
-        <Document ID="F5FE304F-D24C-4B8E-BDEE-905933A839CC">
-            <Title>was the bleeding nun a common story?</Title>
         </Document>
         <Document ID="8C5C4230-108E-4A68-A8CC-81251DC51D83">
             <Title>topic modelling</Title>
@@ -5397,6 +5573,9 @@ Narrative fragmentation and suspense typical of the sentimental novel is also hu
             <Title>selection criteria</Title>
             <Text> the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s) — digital only, or physical also….? (How would I even DO physical? Libraries? Or bibliographies?)</Text>
         </Document>
+        <Document ID="76FFF600-7A4A-467D-A0A6-1DE4B948F827">
+            <Title>Gutenberg</Title>
+        </Document>
         <Document ID="A80E43A6-5933-4717-950C-481FFE6086F8">
             <Title>which writers write from full plays, which from extracts?</Title>
         </Document>
@@ -5438,12 +5617,12 @@ since I am on about it, what you need is Guillory and Bourdieu, Field of Cultura
             <Title>Rshiny?</Title>
             <Text>Use to make data interactable inside my doc?</Text>
         </Document>
-        <Document ID="E8A8A130-476D-4986-9620-E536A143A42A">
-            <Title>to add</Title>
-        </Document>
         <Document ID="A47BB713-BED2-4719-8AB1-FDC7A6131893">
             <Title>an existing tool for reuse of shakespeare??</Title>
             <Text>github.com/yaledhlab/intertext</Text>
+        </Document>
+        <Document ID="E8A8A130-476D-4986-9620-E536A143A42A">
+            <Title>to add</Title>
         </Document>
         <Document ID="53BFC1F2-F6A3-47CA-BB27-DB0BAF2898E9">
             <Title>morally good ways of reading?</Title>
@@ -5522,14 +5701,16 @@ Concluding sentence: </Text>
         </Document>
         <Document ID="C13F5C75-3627-4A8E-8ACC-0F5D77207EFB">
             <Title>timeline history</Title>
-            <Text>The history of the English Short-Title Catalog is long
-Began in the 70s as a digital database
-“Those responsible for laying the foundations of the ESTC in the 1970s exhibited considerable foresight in their decision not to compile a printed catalogue along the lines of the original Pollard and Redgrave Short-Title Catalogue for 1476–1640 or Donald Wing’s catalogue for 1641–1700. Instead, they chose to exploit the resources of computing power, which meant that ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283)
-“Its editors stand in a succession that stretches through Alfred Pollard and the most discerning short-title cataloguer of them all, Katharine Pantzer.”  \cite{Tabor:2007wy p.385}
-“Evenearlier,theESTCwasconsultedonaCD-ROM” (Karian 284)
-“the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” \cite{Tabor:2007wy p.367}
-2006 - free public web access - “The freeing of ESTC, which combines those two components with a continuation up to and including 1800, now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” \cite{Tabor:2007wy p.367}
-2007 “at the time of this writing a process is under way to provide full title and imprint transcriptions for the eighteenth-century records. (The newly added title portions can be identified by a shift in capitalization conventions.)” (Tabor 370).</Text>
+            <Text>The history of the English Short-Title Catalog is long, as befits its enormous scope. “The English Short-Title Catalog (ESTC) is a vast database designed to include a bibliographic record, with holdings, of every surviving copy of letterpress produced in Great Britain or any of its dependencies, in any language, worldwide, from 1473-1800” (CBSR). Today, “The English Short-Title Catalogue is the most comprehensive record of what has appeared in print in Britain and the English-speaking world for all branches of human experience from the last quarter of the fifteenth century to the start of the nineteenth. More specialized studies exist for fields and eras within that span, but no other resource matches ESTC’s dependability over such a broad range” (Vander Meulen 265).
+It began as the Eighteenth Century Short Title Catalogue in the 1970s, operating in a similar line as the original Pollard and Redgrave Short-Title Catalogue for 1476–1640, which first appeared in 1926, and Donald Wing’s catalogue for 1641–1700, which appeared in 1951. These catalogues established the ambitious simplicity of the ESTC: to accurately describe every edition of every printed work in English or from the United Kingdom. After the completion of Wing’s STC, “[e]xploratory studies, poorly funded and inadequate though they were” (Korshin 209) throughout the 1950s and 60s pursued the feasibility of systematically accounting for the much larger body of printed work produced in the eighteenth century. The Eighteenth Century Short Title Catalogue began properly in 1976, at a conference jointly sponsored by the British Library and the American Society for Eighteenth Century Studies (Crump 106). Here, “bibliographers and librarians attempted both to arrive at a consensus of the size of the task and the methodology that would have to be adopted to achieve a union catalogue. However, until the works were catalogued, it would not be possible to answer basic questions (such as the potential number of extant items) which would predetermine working methods. The very fact that they found it difficult to agree for want of sound and accepted figures indicated the need for ESTC.” (Crump 105). A pilot project began at the British Library in 1977, under the direction of Robin Alston (Crump 105).
+Unlike earlier Short-Title Catalogues, which appeared as lengthly print publication, the Eighteenth-Century Short Title Catalogue was conceived as digital from the beginning — a decision which, as Karian notes, “exhibited considerable foresight” (283) in the 1970s. As a result, “ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283).  Robin Alston and Mervyn Jannetta developed their own cataloguing rules, distinct from the Library of Congress MARC and UK MARC standards (Korshin 211). Once these standards were established, the British Library began to re-catalogue its own holdings, and in 1979 libraries in the United States, Germany, and Australia undertook to supplement them. In these international collaborations, “Where ESTC records already existed, these were adopted as the [new] record and only those works not held in the ESTC base file were catalogued again” (Crump 105). “One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development “in full public view” and to make the incomplete file available “warts and all” (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270). Accordingly, the in-progress database “was soon available online, from 1980 via the British Library BLAISE [British LibraryAutomated Information SErvice] system and from 1981 in the US Research Libraries Group RLIN [Research Libraries Information Network] system” (Norman). Each of these databases was worked on locally by researchers, and then updated and reconciled with each other weekly.
+To supplement these databases, accessible almost exclusively to librarians with specialized training in operating them and primarily used by the scholars compiling the file, the ESTC intended to publish editions at particular milestones of completeness, intended for the use of non-librarian scholars. Their “first step, a fiche catalogue of [the British Library’s] holdings, together with indexes, generated by the computer” (Crump 105) was published in a microform “snapshot” in 1983, but other milestones did not occur according to schedule. The “joint Anglo-American interim publication of the ESTC file ” (Korshin 212) which was expected to follow on microform in 1984 (Korshin 212) did not appear. Alston attributed the delays partly to the immensity of the task, and partly to the impact of short-term cost-cutting decisions, like the reduction of proofreading in early stages or of in-person examination of books, which dramatically increased the labour of verifying the resulting database record. Although he consistently warned “how easily strategic decisions based exclusively on cost usually lead to greater, not less, eventual costs” (Alston), the ESTC each year seemed to be facing a new budget struggle, and important maintenance labour was several times deferred. This created something like a paradox for the ESTC: funding bodies wanted to commit less money to a project which was behind schedule, but the project would remain behind schedule unless it was funded to complete the work required. 
+Nonetheless, work continued, and in 1985, the online databases in RLIN and BLAISE were upgraded to allow dynamic updates to a single shared file (Crump 106), which for the first time allowed continuous access to a shared record, rather than the constant exchange and messy merging of individual partially-overlapping records. “Until the file was dynamically available online on RLIN in 1985 batch processing was a weekly nightmare” (Alston). At this time, it was hoped that the new RLIN file would “result in a more complete and coherent ’first edition’ of ESTC” to be published in 1989 (Crump 106), though this deadline, too, was not met. In the mean time “the ESTC file [was] available to scholars on both BLAISE-LINE and on RLIN.” (Crump 106). To facilitate its use, the ESTC distributed “[a] simplified manual for searching the file on-line” (Crump 106). Crump took the opportunity of the update to rhapsodize on the database’s potential usefulness for other scholars: “No longer is the scholar limited in access to the data by the fixity of the printed page” (106). This valuable resource was not without cost. Although the manual on how to formulate search queries was free, use of the ESTC itself was notably not. Institutions or individuals paid to subscribe to the ESTC itself, paid per query for searches to be run, paid per minute for being connected to the database, and often paid for access to the computers they must use in their own libraries. Tabor says “the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” (367).
+“In 1987, with the agreement of the Bibliographical Society and the Modern Language Association of America, the International Committee approved the extension of the database to cover the period from the beginning of printing in the British Isles (ca. 1472) to 1700. The file changed its name to the 'English Short Title Catalogue', thereby keeping its well-known acronym. The USA team began cataloguing pre-1701 material in 1989, joined in the mid-1990s by the British Library team, and the resulting records were made available in the RLIN file from 1994.” (Norman). “In 1992, IESTC approved a further extension of the file to include serial publications. The USA team began work in 1994 on the cataloguing of serials within the scope of ESTC” (Norman). 
+Concurrently with the development of the ESTC, Wing’s seventeenth-century STC was undergoing redevelopment into a second edition, overseen by Katharine Pantzer. The second edition of Wing’s STC was published in two volumes in 1976 and 1986, followed by a set of exhaustive indexes in 1991. This second edition “represented a vast development of the original” (Vander Meulen 268), incorporating thousands of new entries, expanding the titles, and adding explanatory notes and headnotes. Its completion in 1991 also marked the end of the ability of its publisher and sponsor, the Bibliographical Society, to support it (Vander Meulen 269). “Accordingly, in 1999 the Society made an agreement with ESTC whereby the latter… would assume official responsibility for receiving new STC data” (Vander Meulen 270). The ESTC continued to research new entries and improve existing ones, releasing a second edition of the file on CD-ROM in 1998 and a third edition in 2003 (Norman).
+In 2006, almost thirty years after the commencement of the project, the ESTC underwent another major shift: the database was made publicly available to be searched for free online. This inspired more rhapsodizing, this time from Tabor: “The freeing of ESTC … now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” (367). At the same time, the ESTC began a project “to provide full title and imprint transcriptions for the eighteenth-century records” (Tabor 370). Vander Meulen says that “The history of ESTC is in fact the record of steady developments. Some have been conspicuous—for instance, the physical progression from a printed prototype to microfiche, CD, online access via the vendors Blaise Line and RLIN, and universal online availability through the British Library.” (Vander Meulen 270) Many more have been less visible, in constant improvements to the accuracy and detail of the records. In 2011, the Center for Bibliographical Studies and Research at the University of California Riverside was awarded a planning grant from the Andrew W. Mellon Foundation to “redesign the ESTC as a 21st century research tool” (“Planning Grant”), which was followed in 2013 by a larger two-year grant to execute software improvements to the ESTC.</Text>
+            <Comments>not sure how best to cite this - http://estc.ucr.edu/index.html#
+add to bibliography</Comments>
         </Document>
         <Document ID="FB34B409-14E5-4C6C-91ED-1229511DAF8C">
             <Title>queer DH</Title>
@@ -5620,12 +5801,12 @@ For Barker- Benfield, the Revolution inspired Mary Wollstonecraft, Hannah More a
         <Document ID="5B8280D4-0E9C-4A71-B967-BE4FBA4DC622">
             <Title>Intro</Title>
         </Document>
+        <Document ID="F74030DE-9681-4674-B304-739908CE1F53">
+            <Title>THE DISS</Title>
+        </Document>
         <Document ID="6E1B18FE-81B2-4822-8BBB-8E8FF98EACE1">
             <Title>D. F. McKenzie</Title>
             <Text>You might also like to look at D. F. McKenzie's two chapters on the London book trade in single years, 1644 and 1668, in his posthumous Making Meaning collection. This is analogue-era scholarship, and concerning a period other than yours, but I think very relevant for some of your groundwork issues. On publishing statistics, DFM is very incisive about the difference between production rates and survival rates, and the tendency of scholars to talk about the first when really the only thing they see is the second. This isn't going to be such a big issue for the 1790s, but it's going to be an issue all the same. He's good on sheet counts and print runs too: the way a fugitive one-sheet broadside in two tiny editions can show up bibliometrically (in an ESTC count, say) as a bigger deal than, or more "popular" than, a fat heavyweight folio in a single edition with a big print run. </Text>
-        </Document>
-        <Document ID="F74030DE-9681-4674-B304-739908CE1F53">
-            <Title>THE DISS</Title>
         </Document>
         <Document ID="08CB776D-FBF7-4DB2-AF8B-9353C29DF993">
             <Title>Alan Liu, _Wordsworth: The Sense of History_: this</Title>
@@ -5691,12 +5872,12 @@ choose your pronoun and stick to it. I only like "we" when I am referring to 'ac
         <Document ID="FF24D657-69D8-425C-9D1F-9FE388511964">
             <Title>"popularity" in the print market</Title>
         </Document>
+        <Document ID="6402C3D3-3CAF-487D-8F87-DB93FCE48129">
+            <Title>Stray Thoughts</Title>
+        </Document>
         <Document ID="F881F14F-336C-479B-84CE-1CD344CA3DA4">
             <Title>ch 5 - Gothic</Title>
             <Text>My fifth chapter engages most directly with the vexed uses of the Gothic: drawing on the work of Michael Gamer and others, I will discuss the Gothic roots of Romanticism. This chapter could be well-served by a stylometric approach, examining “Gothic vocabularies” in full texts, to explore the reach of the Gothic. I am particularly interested in comparing the strategies used by writers who wish to use Gothic materials without “being” Gothic (like Hannah More and William Wordsworth), those who accept being Gothic but without being “unserious” (like Ann Radcliffe and Charlotte Smith), and those who embrace both the Gothic and its charge of unseriousness. Matthew Lewis may provide a useful case study for debates about “redeeming literary value” in the Gothic.</Text>
-        </Document>
-        <Document ID="6402C3D3-3CAF-487D-8F87-DB93FCE48129">
-            <Title>Stray Thoughts</Title>
         </Document>
     </Documents>
 </SearchIndexes>
