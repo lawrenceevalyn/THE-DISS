@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-07-14 17:37:13 -0400" ModID="A35AC611-D165-4D69-822E-CF3E99E98296">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-07-15 14:49:47 -0400" ModID="9929EFFA-EED8-435B-BFDA-38FE5D56A83F">
     <Binder>
         <BinderItem UUID="043D9B6B-FB35-4879-B62B-870533D0FC75" Type="DraftFolder" Created="2016-09-02 12:26:45 -0400" Modified="2018-02-07 23:56:35 -0500">
             <Title>Draft</Title>
@@ -265,10 +265,10 @@
                                                         </BinderItem>
                                                     </Children>
                                                 </BinderItem>
-                                                <BinderItem UUID="EE349FA8-C3E4-46D9-B571-35659523E5B9" Type="Text" Created="2019-05-31 15:58:30 -0400" Modified="2019-06-04 17:22:00 -0400">
+                                                <BinderItem UUID="EE349FA8-C3E4-46D9-B571-35659523E5B9" Type="Text" Created="2019-05-31 15:58:30 -0400" Modified="2019-07-14 17:41:24 -0400">
                                                     <Title>Mary Robinson</Title>
                                                     <MetaData>
-                                                        <LabelID>9</LabelID>
+                                                        <LabelID>10</LabelID>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
@@ -302,7 +302,7 @@
                                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                             </MetaData>
                                                             <TextSettings>
-                                                                <TextSelection>3335,0</TextSelection>
+                                                                <TextSelection>3319,0</TextSelection>
                                                             </TextSettings>
                                                         </BinderItem>
                                                     </Children>
@@ -2899,6 +2899,15 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>701,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FCCEC653-52A0-4CF0-A0C4-8D3B089158B9" Type="Text" Created="2019-07-15 14:34:42 -0400" Modified="2019-07-15 14:49:47 -0400">
+                            <Title>Garnai, Revolutionary Imaginings in the 1790s</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4F1E673E-80AE-4411-A838-3F5ECE04B959" Type="Text" Created="2019-06-01 17:31:41 -0400" Modified="2019-06-01 17:32:56 -0400">
@@ -8303,13 +8312,13 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">155</SessionTarget>
-        <PreviousSession Words="496" Characters="3473" Date="2019-07-14 16:00:13 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2019-07-15 14:34:36 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-07-14 00:00:00 -0400">
-        <DraftWordCount>496</DraftWordCount>
-        <DraftCharCount>3473</DraftCharCount>
-        <OtherWordCount>2704</OtherWordCount>
-        <OtherCharCount>17887</OtherCharCount>
+    <RecentWritingHistory Date="2019-07-15 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>433</OtherWordCount>
+        <OtherCharCount>2855</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
