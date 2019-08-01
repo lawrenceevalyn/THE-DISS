@@ -5,7 +5,7 @@ Author: Lawrence Evalyn
 
 
 
-## 1.1.  intro ##  
+# 1.  intro #  
 
 This dissertation is concerned with the process by which texts do or don’t ‘enter’ into ‘canons’ of writings, particularly in \[the context of digital resources which present themselves as alternatives to canons\]. My ‘case study’ is the writing published in England between 1789 and 1799, \[A PERIOD THAT IS RELEVANT TO MY QUESTION\]. I say “writing” and not “literature,” despite the fact that my central interest *is* literature, because I address works whose status as “literary” is contested. I also say “published” rather than “written,” because I address the “1790s-ness” of works written well before this decade, but which took on new and timely meanings when reprinted.
 
@@ -33,7 +33,7 @@ Each archive represents a unique set of choices in response to the same sets of 
 
 
 
-### 1.1.1.  DH ###  
+## 1.1.  DH ##  
 
 The field of “digital humanities,” now several scholarly generations into its development, has entered the phase in which so many scholars are carrying out “DH” research that no universally-acceptable definition of “DH” can exist[ rephrase]. Many definitions are fundamentally methodological.[^cf2] These definitions describe what might be called a “computational humanities.”[ you need to say more about what this is - one more sentence] Other definitions take up the new importance of digitality in daily life.[^cf3] This kind of work is increasingly described as “digital cultural studies.” In positioning this work as a “DH” dissertation, I might at first glance seem to belong squarely within the first framework, that of the “computational humanities.” To be sure, much of this work is intended to apply existing computational methodologies to conduct otherwise old-fashioned literary research[ what does old-fashioned mean here]. My objects of study are by no means contemporary. Several of my contributions, too, are purely methodological in nature[ not sure about 'purely methodological' here -what do you mean by it?], in the development of new code and new guidelines for computational research using particular digital resources. However, as a fuller discussion of Johanna Drucker’s distinction between “data” and “capta” will elucidate later in this chapter, no computational research exists separately from a specific, local, culturally-defined context. Accordingly, my computational research into eighteenth-century literature and my development of new computational methodologies are both inevitably tied to “digital culture.” My results often have more to say about contemporary digital archives, and the history of literary record-keeping, than they do about the eighteenth century itself. I therefore rely on an extensive body of work in cultural digital studies to examine not only the eighteenth century, but eighteenth century studies.  
 
@@ -59,7 +59,7 @@ This dissertation understands archives, bibliographies, anthologies, and corpora
 
 
 
-### 1.1.2.  1790s ###  
+## 1.2.  1790s ##  
 
 All of the computational work in this dissertation does have an aim beyond itself: to recapture, in as minute detail as possible, the print landscape[ why landscape metaphor - what other ones: can you be plainer or more conscious about choice of metaphor?] in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf11] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Common Sense*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between Enlightenment or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes[ so I know extremely little about any of this but I do know you can't use empiricist in this way - which makes me think maybe you need to rework with that new structure above in mind - and keep it more to facts - here is how the literature of this period is characterized normally. Quote some other scholars etc.]. Each literary ‘mode’ was imbued with the potential for national importance.  
 
@@ -67,7 +67,7 @@ To navigate the 1790s, I return to four ‘key’ authors whose careers and work
 
 
 
-#### 1.1.2.1.  Charlotte Smith ####  
+### 1.2.1.  Charlotte Smith ###  
 
 Charlotte Smith’s literary career began with the publication of her volume of poetry *Elegiac Sonnets*, in 1784. Six sonnets by Smith had appeared in periodicals in 1782 and 1784 prior to the publication of *Elegiac Sonnets* (Roberts). The first edition (1784) contains sixteen sonnets: ten original sonnets, then “other essays” in the middle of the volume (a translated “Song. From the French of Cardinal Bernis” and a poem in couplets, “The Origin of Flattery”), and six more sonnets, three of which are translations “from Petrarch”, and three which are “Supposed to be written by Werter.” A second edition of *Elegiac Sonnets* rapidly followed the first in the same year, with only slight amendments. In the next year, 1785: “Translation of Prévost’s Manon Lescaut withdrawn from publication by Smith after criticism of the work’s morality. Book sold by publisher without author’s name.” (Fry xi). The 3rd & 4th eds of *Elegiac Sonnets* (1786) introduce 20 new sonnets, and the non-sonnet poems are removed. A new preface is added, now dated from Woolbeding, a small West Sussex village where Smith moved in 1785. In the 1st ed., 12 take the Shakespearean form, and the remaining 4 vary in their irregularity. As she expands the volume, Smith’s use of the sonnet becomes increasingly experimental \\cite\{Roberts:2019ur\}; as she writes in the preface to the 3rd ed., despite attempting the Italian model, “I am persuaded that, to the generality of readers, those which are less regular will be more pleasing.” 1786 also saw the publication of Smith’s *The Romance of Real Life*, a translation of *Les Causes Célèbres*. In 1788 she publishes her first original novel, *Emmeline, or the Orphan of the Castle*.
 
@@ -87,7 +87,7 @@ A complicating factor to these evaluations of Smith is that, as Labbe’s edited
 
 
 
-#### 1.1.2.2.  Mary Robinson ####  
+### 1.2.2.  Mary Robinson ###  
 
 Mary Robinson’s first literary foray was the volume *Poems by Mrs. Robinson*, published by C. Parker in 1775, shortly followed by the poem *Elegiac verses to a young lady on the death of her brother; who was slain in the late engagement at Boston*. “Though *Poems* received little critical support, and made little money, Mary Robinson continued to write” (Mark Ockerbloom), but she would begin her career as an actress before this writing saw publication. Robinson’s theatrical debut as Juliet in December 1776 led to an increasingly acclaimed and prolific career. “She took on a range of roles, sometimes playing multiple parts in the same week, or even night” (Mark Ockerbloom). In 1777 she published a volume of works written earlier, *Captivity, A Poem: and Celadon and Lydia, A Tale*, and in 1778 wrote and starred in her own musical farce, *The Lucky Escape,* from which she published *The Songs, Chorusses, etc. in The Lucky escape, a Comic Opera.* In 1780, Robinson retired from the stage. Her next published volume did not appear until 1791, but the intervening decade was not empty of literary activity. From 1784 to its publication in 1787, Robinson collaborated with Banastre Tarleton on the composition and revision of his *History of the Campaigns of 1780 and 1781*. In 1788, Robinson began the writing which would make her career as an author. She contributed poems to *The World* and *The Oracle* under the pseudonyms “Laura” and “Laura Maria” which responded to popular poems by a coterie of writers now called the Della Cruscans, who addressed each other in periodicals with Miltonic, Italianate, and political poetry. Robinson’s poems successfully inserted herself into their conversation.
 
@@ -105,7 +105,7 @@ When literary scholars began to be interested again in Robinson in the 1990s, th
 
 
 
-#### 1.1.2.3.  Hannah More ####  
+### 1.2.3.  Hannah More ###  
 
 Hannah More’s first book published was the pastoral drama *A Search after Happiness*, published in 1773. In 1774 she publishes her play *The Inflexible Captive,* which is produced in 1775 at the Theatre Royal in Bath. In 1776, she publishes *Sir Eldred of the Bower and the Bleeding Rock*. In 1777, she publishes her first conduct-book, *Essays on Various Subjects*, dedicated to the bluestocking Elizabeth Montagu. Her play *Percy, A Tragedy* is also produced at Covent Garden in 1777, running through 1778. In 1779, her third play, *The Fatal Falsehood*, is performed but is considered a failure, after which More stops writing for the stage. In 1782, she publishes *Sacred Dramas* and *Sensibility: A Poem*. In 1783, she writes *The Bas Bleu: or, Conversation*, a celebration of bluestocking culture, which circulates in manuscript but does not see print until 1786. In 1784 she was made a member of the Rouen Academy of Arts, Sciences, and Letters. In 1786 she publishes *Florio*, a poem in praise or rural life, and *The Bas Bleu*. In 1788 she published, anonymously, *Thoughts on the Importance of the Manners of the Great to General Society*, as well as *Slavery: A Poem*.
 
@@ -133,7 +133,7 @@ Throughout this history of struggling with More’s conservatism, More has been 
 
 
 
-#### 1.1.2.4.  Ann Radcliffe ####
+### 1.2.4.  Ann Radcliffe ###
 
 
 
@@ -163,7 +163,7 @@ In 2014, *Ann Radcliffe, Romanticism and the Gothic* edited by Dale Townshend, A
 
 
 
-#### 1.1.2.5.  synthesis ####
+### 1.2.5.  synthesis ###
 
 
 
@@ -171,7 +171,7 @@ As these four author introductions indicate, \[MY CONCLUSIONS ON THEM.\] As futu
 
 
 
-### 1.1.3.  theory ###  
+## 1.3.  theory ##  
 
 The digital humanities and the eighteenth century are my primary subject matter, but I am also deliberately employing certain theoretical frameworks in my thinking. In the ‘venn diagram’ of three fields[ this doesn't make sense to a reader (I know what you mean, others won't)], the ‘queer theory’[ I feel like I really shouldn’t shorthand all this stuff as “queer theory,” since I’m not persuaded that eg Felski is at ALL a ‘queer theorist’ --- but it all comes from Sedgwick for me, and I do need some kind of name for this collection of ideas --- and my own attachment to Felski is tied to queerness] circle is smaller, but no less important. My primary theoretical framework is that of reparative reading. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism \\cite\{Sedgwick:2003up\}, and attempts to sketch an alternative in what she terms  reparative reading. My touchstones are two descriptions from Sedgwick’s original chapter, “Paranoid Reading and Reparative Reading”:  
 
@@ -201,13 +201,13 @@ By marrying “surface reading” and “distant reading” I may seem to leave 
 
 
 
-## 1.2.  synthesis of 3 fields ##  
+# 2.  synthesis of 3 fields #  
 
 Drawing together three scholarly conversations with three distinct histories --- the digital humanities, the literary canons of 1790s[ I think perhaps the key for this section is not to do "1790s" but . - printing and canons in 1790s (and recognize they need to be separate as well as intersecting)], and reparative reading --- it is difficult to attentively delineate the links and the tensions between each thread. Especially since many of these fields have, in fact, overlapped substantially, there is a danger of simplistically conflating distinct lines of thoughts. At the same time, over-emphasis on distinctions can overstate the separations between fields which do in fact (as the existence of this dissertation contents) share important affinities. To navigate these conceptual overlaps carefully, let us[ choose your pronoun and stick to it. I only like "we" when I am referring to 'academics as a profession - the let us we always seems pompous to me: better to use I, as you have previously] make our way through each area of an imagined Venn diagram of the three. We can discuss each pair in turn --- DH and eighteenth century studies; eighteenth century studies and queer theory; queer theory and DH --- to make our way toward the centre where all three overlap.
 
 
 
-### 1.2.1.  DH & 1790s ###  
+## 2.1.  DH & 1790s ##  
 
 lit review of other DH work done on the 18thC? Maybe, common methods used?  
 
@@ -231,7 +231,7 @@ As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettab
 
 
 
-### 1.2.2.  1790s & queer ###  
+## 2.2.  1790s & queer ##  
 
 \[Probable intended structure for this section: one of my concerns is the way that 18thC studies ends ups segregated by genre (even though writers don’t confine themselves to one genre); so here’s the conversation in poetry, in the novel, in drama; and here’s how they’re all engaged in the same question about ‘trash’ vs ‘treasure’; and here’s how that dichotomy employs the same techniques of obnoxiously defining ‘literature’ through a rejection of the ‘popular’, sticking us with Wordsworth, Walter Scott, and a sainted Shakespeare; and here’s John Mee and ‘print magic’ tying them together.\]  
 
@@ -297,7 +297,7 @@ Although the queerest work in this period has centred on the Gothic, I intention
 
 
 
-### 1.2.3.  queer & DH ###  
+## 2.3.  queer & DH ##  
 
 My emphasis on transparent, critical, and reflective praxis in the capture and visual presentation of data[^cf24] owes much to the emerging field of critical algorithm studies. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms differ from “algorithms” implemented by humans. Computational algorithms have two key vulnerabilities: first, their operations are less easily scrutinized; second, their results are more easily trusted. The second vulnerability --- the cultural aura of empirical trustworthiness which accrues to anything ‘computational’ --- is another flavour of the same vulnerability that Drucker describes with ‘data’ generally. Because the human agents who designed and trained any given algorithm appear to be absent from its operation, the algorithm appears able to discover truth directly. This is how Daily Wire reporter Ryan Saavedra was able to tweet with disdain that “Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist” \\cite\{Saavedra:2019wr\}: anything “driven by math,” he assumes, must be incapable of human fallibilities like racism. But as Safiya Noble shows extensively in *Algorithms of Oppression*, algorithms by default reproduce, and can easily exaggerate, the assumptions and biases of the culture in which they are made \\cite\{Noble:2018wo\}. In other words, in a racist world, algorithms *are* racist --- and sexist, and duplicative of all other systemic inequities.
 
@@ -325,13 +325,13 @@ if you are forced to manually encode assumptions into real code you have to conf
 
 
 
-## 1.3.  upcoming 2 experiments ##  
+# 3.  upcoming 2 experiments #  
 
 Having described a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to describe my own project in more detail. This dissertation has two major parts. The first examines the literature of the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource[ which resource. something missing here]. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson[ all this is too new to the reader to be handled so fast -which resources, why these touchstone authors, how is all of this related to what we just read about your scholarly background]. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building[ you have buried the lead - this is the lead]. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.
 
 
 
-### 1.3.1.  titles ###
+## 3.1.  titles ##
 
 
 
