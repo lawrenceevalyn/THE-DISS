@@ -1,11 +1,11 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-Chapter One
+# ch 1 - intro #
 
 
 
-### 1.1.1.  intro ###  
+## 1.1.  intro ##  
 
 This dissertation is concerned with the process by which texts do or don’t ‘enter’ into ‘canons’ of writings, particularly in \[the context of digital resources which present themselves as alternatives to canons\]. My ‘case study’ is the writing published in England between 1789 and 1799, \[A PERIOD THAT IS RELEVANT TO MY QUESTION\]. I say “writing” and not “literature,” despite the fact that my central interest *is* literature, because I address works whose status as “literary” is contested. I also say “published” rather than “written,” because I address the “1790s-ness” of works written well before this decade, but which took on new and timely meanings when reprinted.
 
@@ -33,7 +33,7 @@ Each archive represents a unique set of choices in response to the same sets of 
 
 
 
-#### 1.1.1.1.  DH ####  
+### 1.1.1.  DH ###  
 
 The field of “digital humanities,” now several scholarly generations into its development, has entered the phase in which so many scholars are carrying out “DH” research that no universally-acceptable definition of “DH” can exist[ rephrase]. Many definitions are fundamentally methodological.[^cf2] These definitions describe what might be called a “computational humanities.”[ you need to say more about what this is - one more sentence] Other definitions take up the new importance of digitality in daily life.[^cf3] This kind of work is increasingly described as “digital cultural studies.” In positioning this work as a “DH” dissertation, I might at first glance seem to belong squarely within the first framework, that of the “computational humanities.” To be sure, much of this work is intended to apply existing computational methodologies to conduct otherwise old-fashioned literary research[ what does old-fashioned mean here]. My objects of study are by no means contemporary. Several of my contributions, too, are purely methodological in nature[ not sure about 'purely methodological' here -what do you mean by it?], in the development of new code and new guidelines for computational research using particular digital resources. However, as a fuller discussion of Johanna Drucker’s distinction between “data” and “capta” will elucidate later in this chapter, no computational research exists separately from a specific, local, culturally-defined context. Accordingly, my computational research into eighteenth-century literature and my development of new computational methodologies are both inevitably tied to “digital culture.” My results often have more to say about contemporary digital archives, and the history of literary record-keeping, than they do about the eighteenth century itself. I therefore rely on an extensive body of work in cultural digital studies to examine not only the eighteenth century, but eighteenth century studies.  
 
@@ -59,7 +59,7 @@ This dissertation understands archives, bibliographies, anthologies, and corpora
 
 
 
-#### 1.1.1.2.  1790s ####  
+### 1.1.2.  1790s ###  
 
 All of the computational work in this dissertation does have an aim beyond itself: to recapture, in as minute detail as possible, the print landscape[ why landscape metaphor - what other ones: can you be plainer or more conscious about choice of metaphor?] in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf11] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Common Sense*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension between Enlightenment or otherwise political thinkers and Romantic or Gothic artists as contemporary literary scholars grapple with these modes[ so I know extremely little about any of this but I do know you can't use empiricist in this way - which makes me think maybe you need to rework with that new structure above in mind - and keep it more to facts - here is how the literature of this period is characterized normally. Quote some other scholars etc.]. Each literary ‘mode’ was imbued with the potential for national importance.  
 
@@ -67,7 +67,7 @@ To navigate the 1790s, I return to four ‘key’ authors whose careers and work
 
 
 
-##### 1.1.1.2.1.  Charlotte Smith #####  
+#### 1.1.2.1.  Charlotte Smith ####  
 
 Charlotte Smith’s literary career began with the publication of her volume of poetry *Elegiac Sonnets*, in 1784. Six sonnets by Smith had appeared in periodicals in 1782 and 1784 prior to the publication of *Elegiac Sonnets* (Roberts). The first edition (1784) contains sixteen sonnets: ten original sonnets, then “other essays” in the middle of the volume (a translated “Song. From the French of Cardinal Bernis” and a poem in couplets, “The Origin of Flattery”), and six more sonnets, three of which are translations “from Petrarch”, and three which are “Supposed to be written by Werter.” A second edition of *Elegiac Sonnets* rapidly followed the first in the same year, with only slight amendments. In the next year, 1785: “Translation of Prévost’s Manon Lescaut withdrawn from publication by Smith after criticism of the work’s morality. Book sold by publisher without author’s name.” (Fry xi). The 3rd & 4th eds of *Elegiac Sonnets* (1786) introduce 20 new sonnets, and the non-sonnet poems are removed. A new preface is added, now dated from Woolbeding, a small West Sussex village where Smith moved in 1785. In the 1st ed., 12 take the Shakespearean form, and the remaining 4 vary in their irregularity. As she expands the volume, Smith’s use of the sonnet becomes increasingly experimental \\cite\{Roberts:2019ur\}; as she writes in the preface to the 3rd ed., despite attempting the Italian model, “I am persuaded that, to the generality of readers, those which are less regular will be more pleasing.” 1786 also saw the publication of Smith’s *The Romance of Real Life*, a translation of *Les Causes Célèbres*. In 1788 she publishes her first original novel, *Emmeline, or the Orphan of the Castle*.
 
@@ -87,7 +87,7 @@ A complicating factor to these evaluations of Smith is that, as Labbe’s edited
 
 
 
-##### 1.1.1.2.2.  Mary Robinson #####  
+#### 1.1.2.2.  Mary Robinson ####  
 
 Mary Robinson’s first literary foray was the volume *Poems by Mrs. Robinson*, published by C. Parker in 1775, shortly followed by the poem *Elegiac verses to a young lady on the death of her brother; who was slain in the late engagement at Boston*. “Though *Poems* received little critical support, and made little money, Mary Robinson continued to write” (Mark Ockerbloom), but she would begin her career as an actress before this writing saw publication. Robinson’s theatrical debut as Juliet in December 1776 led to an increasingly acclaimed and prolific career. “She took on a range of roles, sometimes playing multiple parts in the same week, or even night” (Mark Ockerbloom). In 1777 she published a volume of works written earlier, *Captivity, A Poem: and Celadon and Lydia, A Tale*, and in 1778 wrote and starred in her own musical farce, *The Lucky Escape,* from which she published *The Songs, Chorusses, etc. in The Lucky escape, a Comic Opera.* In 1780, Robinson retired from the stage. Her next published volume did not appear until 1791, but the intervening decade was not empty of literary activity. From 1784 to its publication in 1787, Robinson collaborated with Banastre Tarleton on the composition and revision of his *History of the Campaigns of 1780 and 1781*. In 1788, Robinson began the writing which would make her career as an author. She contributed poems to *The World* and *The Oracle* under the pseudonyms “Laura” and “Laura Maria” which responded to popular poems by a coterie of writers now called the Della Cruscans, who addressed each other in periodicals with Miltonic, Italianate, and political poetry. Robinson’s poems successfully inserted herself into their conversation.
 
@@ -105,7 +105,7 @@ When literary scholars began to be interested again in Robinson in the 1990s, th
 
 
 
-##### 1.1.1.2.3.  Hannah More #####  
+#### 1.1.2.3.  Hannah More ####  
 
 Hannah More’s first book published was the pastoral drama *A Search after Happiness*, published in 1773. In 1774 she publishes her play *The Inflexible Captive,* which is produced in 1775 at the Theatre Royal in Bath. In 1776, she publishes *Sir Eldred of the Bower and the Bleeding Rock*. In 1777, she publishes her first conduct-book, *Essays on Various Subjects*, dedicated to the bluestocking Elizabeth Montagu. Her play *Percy, A Tragedy* is also produced at Covent Garden in 1777, running through 1778. In 1779, her third play, *The Fatal Falsehood*, is performed but is considered a failure, after which More stops writing for the stage. In 1782, she publishes *Sacred Dramas* and *Sensibility: A Poem*. In 1783, she writes *The Bas Bleu: or, Conversation*, a celebration of bluestocking culture, which circulates in manuscript but does not see print until 1786. In 1784 she was made a member of the Rouen Academy of Arts, Sciences, and Letters. In 1786 she publishes *Florio*, a poem in praise or rural life, and *The Bas Bleu*. In 1788 she published, anonymously, *Thoughts on the Importance of the Manners of the Great to General Society*, as well as *Slavery: A Poem*.
 
@@ -133,7 +133,7 @@ Throughout this history of struggling with More’s conservatism, More has been 
 
 
 
-##### 1.1.1.2.4.  Ann Radcliffe #####
+#### 1.1.2.4.  Ann Radcliffe ####
 
 
 
@@ -163,7 +163,7 @@ In 2014, *Ann Radcliffe, Romanticism and the Gothic* edited by Dale Townshend, A
 
 
 
-##### 1.1.1.2.5.  synthesis #####
+#### 1.1.2.5.  synthesis ####
 
 
 
@@ -171,7 +171,7 @@ As these four author introductions indicate, \[MY CONCLUSIONS ON THEM.\] As futu
 
 
 
-#### 1.1.1.3.  theory ####  
+### 1.1.3.  theory ###  
 
 The digital humanities and the eighteenth century are my primary subject matter, but I am also deliberately employing certain theoretical frameworks in my thinking. In the ‘venn diagram’ of three fields[ this doesn't make sense to a reader (I know what you mean, others won't)], the ‘queer theory’[ I feel like I really shouldn’t shorthand all this stuff as “queer theory,” since I’m not persuaded that eg Felski is at ALL a ‘queer theorist’ --- but it all comes from Sedgwick for me, and I do need some kind of name for this collection of ideas --- and my own attachment to Felski is tied to queerness] circle is smaller, but no less important. My primary theoretical framework is that of reparative reading. Eve Sedgwick persuasively describes, in “Paranoid Reading and Reparative Reading,” the dominance of paranoia in literary criticism \\cite\{Sedgwick:2003up\}, and attempts to sketch an alternative in what she terms  reparative reading. My touchstones are two descriptions from Sedgwick’s original chapter, “Paranoid Reading and Reparative Reading”:  
 
@@ -185,13 +185,7 @@ What Sedgwick describes, here, is a “desire,” not a methodology.  I do not (
 
 Paranoid reading: "Let us consider the possibility that nothing is more desirable than that the conclusion of the reading be known in advance" (Guillory 231)  
 
-Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. I follow Judith Butler in understanding these historically-framed identities as being “performative,” actively re-created in conversation between self and others. (In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes valuable vocabulary for how words do things.)
-
-
-
-##### 1.1.1.3.1.  not close reading #####
-
-
+Implicit in my prioritization of reparative reading is an affinity for queer theory more broadly. I take it as read, for example, that history consists of major discontinuities in cultural ontology and identity, as Foucault describes. I follow Judith Butler in understanding these historically-framed identities as being “performative,” actively re-created in conversation between self and others. (In my understanding of performative identity creation I also borrow from J.L. Austin, who is not typically understood as a ‘queer theorist,’ but who contributes valuable vocabulary for how words do things.)  
 
 Generosity is often assumed to be[ passivity!] an affect which it is only possible to assume in conjunction with textual intimacy; that is to say, reparative reading is often assumed to entail *close* reading[ assumed by whom?]. However, I contend that generosity can occur at any scale. Rita Felski provides valuable theoretical insight for reparative readers who do not wish to be (only) close readers. Felski, in her article “After Suspicion” and then further in her monograph *The Limits of Critique*, frames the core question animated by Sedgwick’s conundrum as “Can we be postcritical --- as distinct from uncritical?” \\cite\{Felski:2015lc p.151\}. For Felski, the answer lies in attending seriously to literary attachments, including our own attachments as critics. Felski’s approach to these attachments is essentially sociological, drawing heavily on Bruno Latour’s actor-network-theory \\cite\{Latour:2005vh\}, and thus involves almost no close reading. Felski does accord serious attention to textual effects in her work under the umbrella of what she terms“neophenomenology,” as first described in her “Everyday Aesthetics” \\cite\{Felski:2009um\}, does accord more attention to textual effects. (This is where the “neo” arrives in “neophenomenology,” as Felski distinguishes herself from earlier phenomenologists who treat textual content as almost irrelevant to the meaning-making carried out by readers.) Nonetheless, rather than explicating individual texts, Felski’s neophenomenological[ if you are going to draw on this you prob need to work out what is meant by phenomenological - more weeks of reading. Maybe elide it.] work seeks to address the phenomenon of reading itself. My own work is neither sociological nor neophenomenological, but like Felski I undertake reparative, postcritical reading without close reading.  
 
@@ -201,25 +195,19 @@ In contrast, “surface reading,” as Heather Love describes, pursues “a turn
 
 Good descriptions are in a sense rich, but not because they truck with imponderables like human experience or human nature. They are close, but they are not deep; rather than adding anything “extra” to the description, they account for the real variety that is already there. \\cite\{Love:2010cv p.377\}
 
-Love’s articulation of this mode of is, partly, struggling with the task of describing something which does not yet fully exist. Her later article, “Close Reading and Thin Description,” provides a more precise articulation of the kind of close reading that she calls for, in which an “exhaustive, fine-grained attention to phenomena” \\cite\{Love:2013cu p.404\} enables “taking up the position of the device; by turning oneself into a camera, one could---at least ideally---pay equal attention to every aspect of a scene that is available to the senses and record it faithfully” \\cite\{Love:2013cu p.407\}. Although Love is somewhat uninterested in “distant reading” as synonymous with Moretti \\cite\{Love:2013cu p.411\}, this invocation of the mechanical[ you need to be clearer than the word "mechanical" about how you get from "camera" to "computation" - is a computer like a camera, is it mechanical?] implies, I argue, an obvious potential for computation. It is in order to create room for computation that I pay particular attention to Love’s earlier, more tentative discussion of description as a literary practice. Computational distant reading cannot answer Love’s call for “a model for close reading after the decline of the linguistic turn” \\cite\{Love:2013cu p.404\}, since it is not close reading, but computation does enable *closeness* without depth. As I will discuss more fully in \[FUTURE SECTION\], a good computational model is unlikely to “truck with imponderables,” but it *absolutely* *must* “account for the real variety that is already there” or else one’s code will simply fail to run.[ this is so important - you need more of it, perhaps right from the start]
-
-
-
-##### 1.1.1.3.2.  conclusion #####
-
-
+Love’s articulation of this mode of is, partly, struggling with the task of describing something which does not yet fully exist. Her later article, “Close Reading and Thin Description,” provides a more precise articulation of the kind of close reading that she calls for, in which an “exhaustive, fine-grained attention to phenomena” \\cite\{Love:2013cu p.404\} enables “taking up the position of the device; by turning oneself into a camera, one could---at least ideally---pay equal attention to every aspect of a scene that is available to the senses and record it faithfully” \\cite\{Love:2013cu p.407\}. Although Love is somewhat uninterested in “distant reading” as synonymous with Moretti \\cite\{Love:2013cu p.411\}, this invocation of the mechanical[ you need to be clearer than the word "mechanical" about how you get from "camera" to "computation" - is a computer like a camera, is it mechanical?] implies, I argue, an obvious potential for computation. It is in order to create room for computation that I pay particular attention to Love’s earlier, more tentative discussion of description as a literary practice. Computational distant reading cannot answer Love’s call for “a model for close reading after the decline of the linguistic turn” \\cite\{Love:2013cu p.404\}, since it is not close reading, but computation does enable *closeness* without depth. As I will discuss more fully in \[FUTURE SECTION\], a good computational model is unlikely to “truck with imponderables,” but it *absolutely* *must* “account for the real variety that is already there” or else one’s code will simply fail to run.[ this is so important - you need more of it, perhaps right from the start]  
 
 By marrying “surface reading” and “distant reading” I may seem to leave “reparative reading” behind: after all, Felski’s call for postcritical analysis explicitly suggests, “Sometimes serious thinking calls for a judicious decrease rather than an increase of distance” (CITE). However, Felski then defines a decrease of distance as “a willingness to acknowledge and more fully engage our attachments”: this, I insist, can be done at any scale.
 
 
 
-### 1.1.2.  synthesis of 3 fields ###  
+## 1.2.  synthesis of 3 fields ##  
 
 Drawing together three scholarly conversations with three distinct histories --- the digital humanities, the literary canons of 1790s[ I think perhaps the key for this section is not to do "1790s" but . - printing and canons in 1790s (and recognize they need to be separate as well as intersecting)], and reparative reading --- it is difficult to attentively delineate the links and the tensions between each thread. Especially since many of these fields have, in fact, overlapped substantially, there is a danger of simplistically conflating distinct lines of thoughts. At the same time, over-emphasis on distinctions can overstate the separations between fields which do in fact (as the existence of this dissertation contents) share important affinities. To navigate these conceptual overlaps carefully, let us[ choose your pronoun and stick to it. I only like "we" when I am referring to 'academics as a profession - the let us we always seems pompous to me: better to use I, as you have previously] make our way through each area of an imagined Venn diagram of the three. We can discuss each pair in turn --- DH and eighteenth century studies; eighteenth century studies and queer theory; queer theory and DH --- to make our way toward the centre where all three overlap.
 
 
 
-#### 1.1.2.1.  DH & 1790s ####  
+### 1.2.1.  DH & 1790s ###  
 
 lit review of other DH work done on the 18thC? Maybe, common methods used?  
 
@@ -243,81 +231,23 @@ As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettab
 
 
 
-#### 1.1.2.2.  1790s & queer ####
+### 1.2.2.  1790s & queer ###  
 
-
-
-##### 1.1.2.2.1.  intro #####
-
-
-
-\[Probable intended structure for this section: one of my concerns is the way that 18thC studies ends ups segregated by genre (even though writers don’t confine themselves to one genre); so here’s the conversation in poetry, in the novel, in drama; and here’s how they’re all engaged in the same question about ‘trash’ vs ‘treasure’; and here’s how that dichotomy employs the same techniques of obnoxiously defining ‘literature’ through a rejection of the ‘popular’, sticking us with Wordsworth, Walter Scott, and a sainted Shakespeare; and here’s John Mee and ‘print magic’ tying them together.\]
-
-
-
-##### 1.1.2.2.2.  print magic #####
-
-
-
-###### 1.1.2.2.2.1.  Mee ######
-
-
+\[Probable intended structure for this section: one of my concerns is the way that 18thC studies ends ups segregated by genre (even though writers don’t confine themselves to one genre); so here’s the conversation in poetry, in the novel, in drama; and here’s how they’re all engaged in the same question about ‘trash’ vs ‘treasure’; and here’s how that dichotomy employs the same techniques of obnoxiously defining ‘literature’ through a rejection of the ‘popular’, sticking us with Wordsworth, Walter Scott, and a sainted Shakespeare; and here’s John Mee and ‘print magic’ tying them together.\]  
 
 Poetry thus stands in a stark contrast to the volumes of writing which John Mee discusses in *Print, Publicity, and Popular Radicalism in the 1790s.* Although his title leaves open the possibility that he could consider any kind of writing in print, Mee is concerned solely with the activities of the London Corresponding Society, placed in the context of Romanticism. He examines “public lectures, toasting, tavern debates, and song, but also more mundane and less colourful associational practices, such as day-to-day editorial discussion about what to publish under the LCS’s name” \\cite\{Mee:2016wk p.28\}. These writers held a fundamentally different relationship to the print marketplace than the Romantic poets, or even than theatre critics: rather than concerning themselves with distinctions between ‘good’ and ‘bad’ forms of writing or publication, Mee argues, “At certain points the societies seem to operate under the spell of ‘print magic’, that is, a faith that print could liberate mankind simply by bringing ideas into printed circulation”[ this is connected to paranoid reading - faith in exposure qua exposure - extractive logic
 
 
 
-I wrote that in the cafe and have no idea what I mean by it. I wonder though if you might do some rearranging of this whole section around the idea of "print magic" and "cultural capital" - cool.] \\cite\{Mee:2016wk p.24\}. This partly shifts to Mee himself the task of assessing whether the texts he studies are ‘literature.’ A partial claim to the status of ‘literature’ is suggested by the participation of his book within the series ‘Cambridge Studies in Romanticism,’ which, he acknowledges “implies an understanding of popular radicalism as a kind of ‘literary’ culture. At least, it argues for the centrality of the writing, production, and circulation of printed texts that took up so much of the time of the radical societies” \\cite\{Mee:2016wk p.18[ “this formation and the associated identification of the literary with what John Thelwall called ‘sallies of the imagination’ were the product of a crisis brought on by the emergence of the popular radical culture opened up in this book, but the story is not a straightforward one. Thelwall himself could identify ‘literature’ both with a domain of imagination separable from politics and with print as the principal engine of emancipatory change.” (Mee 18)]\}. Nonetheless, the book distances itself from “Romanticism and its major poets, novelists, and playwrights” \\cite\{Mee:2016wk p.18\}. Mee thus replicates the distance that the period’s “poets, novelists, and playwrights” sought to put between themselves as the “the role of print personality[^cf15] as a form of mediation” \\cite\{Mee:2016wk p.29\} that interests Mee in the LCS.
+I wrote that in the cafe and have no idea what I mean by it. I wonder though if you might do some rearranging of this whole section around the idea of "print magic" and "cultural capital" - cool.] \\cite\{Mee:2016wk p.24\}. This partly shifts to Mee himself the task of assessing whether the texts he studies are ‘literature.’ A partial claim to the status of ‘literature’ is suggested by the participation of his book within the series ‘Cambridge Studies in Romanticism,’ which, he acknowledges “implies an understanding of popular radicalism as a kind of ‘literary’ culture. At least, it argues for the centrality of the writing, production, and circulation of printed texts that took up so much of the time of the radical societies” \\cite\{Mee:2016wk p.18[ “this formation and the associated identification of the literary with what John Thelwall called ‘sallies of the imagination’ were the product of a crisis brought on by the emergence of the popular radical culture opened up in this book, but the story is not a straightforward one. Thelwall himself could identify ‘literature’ both with a domain of imagination separable from politics and with print as the principal engine of emancipatory change.” (Mee 18)]\}. Nonetheless, the book distances itself from “Romanticism and its major poets, novelists, and playwrights” \\cite\{Mee:2016wk p.18\}. Mee thus replicates the distance that the period’s “poets, novelists, and playwrights” sought to put between themselves as the “the role of print personality[^cf15] as a form of mediation” \\cite\{Mee:2016wk p.29\} that interests Mee in the LCS.  
 
+The desire to distinguish between “trash” and “treasure” also appears in studies of poetry, which in this period are nearly synonymous with studies of Romantic poetry. Particularly where poetry is examined in light of conflicts with France, analysis of poets’ work often doubles as an analysis of their success or failure in the pursuit of cultural capital[ yeah, so you need a whole bit on this]. For example, Simon Bainbridge, in *British Poetry and the Revolutionary and Napoleonic Wars*, sees the decade and its poetry through the lens of war. His own interest is in what he terms “the attempts made by several writers to fill the role of national bard prior to Scott” \\cite\{Bainbridge:2003uk p.3\}. This framework leads Bainbridge to examine Charlotte Smith alongside Samuel Taylor Coleridge, William Wordsworth, Robert Southey, and eventually Walter Scott. In his conception of ‘a national bard’ he imagines a particular marriage of poetry’s special status as imaginative literature to a specific poet’s cultivation of a nationally important public persona. Both poetry and the poet are thus pursuing a particular kind of cultural capital that allows them to rise above their own popularity. Bainbridge frequently discusses strategies of print publication as part of his analysis: a particularly insightful footnote discusses, for example, a poem which circulated both as an ode in a magazine and as lyrics in a broadsheet. Bainbridge observes that “texts could shift in status and meaning as they were adapted for different forms of production and different audiences, in this case existing in both the relatively elevated form of the ode, to be read by an individual magazine reader, and as a new set of lyrics to a traditional tune, achieving its fullest realization in a communal performance at a political meeting in an alehouse or at a demonstration” \\cite\{Bainbridge:2003uk p.10\}. However, his explanations of individual print strategies are often hindered by his approach to literature’s cultural capital[ since I am on about it, what you need is Guillory and Bourdieu, Field of Cultural Production. And what you need to acknowledge is that these are now pretty old (80s) basic ideas about literature, but still very useful to you as they are to others, even as your approach - corpora, history of the book - takes them in new directions,]. At one point, for example, he argues that “the fact that the Gentleman’s Magazine was forced to reproduce at length a poem written two decades previously again emphasizes what was seen to be the failure of anyone convincingly to fill the role of the Bard until the emergence of Walter Scott” \\cite\{Bainbridge:2003uk p.53\}. I contend that the republication of substantially older works of literature is not a sign that England was destitute of true poetry before Walter Scott, but rather an attempt to solve the challenges to national identity posed by the 1790s’ disruption of history.  
 
+Bainbridge is not alone is taking Walter Scott[ talk about Scott's flaws more explicitly -- the Clansmen, also the book Felski mentions about the afterlives of Walter Scott] as a kind of pinnacle, and looking backwards in search of his antecedents. Richard Cronin, in *The Politics of Romantic Poetry*, concerns himself with “poetry that speaks to a divided society in an attempt to constitute its readers as citizens of \[...\] ‘the pure commonwealth’” \\cite\{Cronin:2000vz p.13\}. This definition of “political poetry” leads him to Erasmus Darwin as the poet of the the Revolution and the Revolutionary war, William Blake as the poet of the Napoleonic wars, and Richard Southey and Walter Savage Landor as the poets of the post-war period --- ending, irresistibly, as so many do, with Walter Scott. Despite the fact that Cronin’s chief interest is in each poet’s use of language to construct an ideal audience, print culture looms. Of Erasmus Darwin, Cronin emphasizes Darwin’s use of “\[t\]he most powerful of the languages available in the 1790s that could plausibly claim universal status,” namely, “the language of science” \\cite\{Cronin:2000vz p.16\}, but it is the “beautifully and expensively produced edition of The Botanic Garden” \\cite\{Cronin:2000vz p.29\} which asserts his importance. Blake’s eccentric, idiosyncratic language is mirrored in his eccentric, idiosyncratic printing practices \\cite\{Cronin:2000vz p.60\}. Southey and Landor’s universal, international language seeks to “escape from history” \\cite\{Cronin:2000vz p.81\}, which entails disavowing not only the popular prose fictions which sought to represent history but also the very circulating libraries in which they were distributed \\cite\{Cronin:2000vz p.74\}. In other words, Cronin, even more so than Bainbridge, seems to use ‘poetic language’ to explain phenomena which have important print culture dimensions. Nonetheless, his discussion of Scott accurately describes the particular nature of Scott’s success: “Scott’s *Minstrelsy* transforms ballads freely passed from speaker to speaker around cottage fires on the Scottish Borders into luxury items, items only available to book-buyers of some means” \\cite\{Cronin:2000vz p.94\}. The Romantic poets, in both Bainbridge and Cronin’s accounts, support their claims to insight and importance through the inaccessibility of their work in print.  
 
-##### 1.1.2.2.3.  poetry #####
+Both during the eighteenth century and in subsequent critical reception, the literature of the 1790s seemed to present a queer problem: what are we to make of the Gothic? After discussing some histories of the eighteenth century novel both excluding and including the Gothic as a general category, I will turn to the specific cases of Ann Radcliffe and Matthew Lewis to discuss the queerness of these debates about literature and genre.  
 
-
-
-###### 1.1.2.2.3.1.  Bainbridge ######
-
-
-
-The desire to distinguish between “trash” and “treasure” also appears in studies of poetry, which in this period are nearly synonymous with studies of Romantic poetry. Particularly where poetry is examined in light of conflicts with France, analysis of poets’ work often doubles as an analysis of their success or failure in the pursuit of cultural capital[ yeah, so you need a whole bit on this]. For example, Simon Bainbridge, in *British Poetry and the Revolutionary and Napoleonic Wars*, sees the decade and its poetry through the lens of war. His own interest is in what he terms “the attempts made by several writers to fill the role of national bard prior to Scott” \\cite\{Bainbridge:2003uk p.3\}. This framework leads Bainbridge to examine Charlotte Smith alongside Samuel Taylor Coleridge, William Wordsworth, Robert Southey, and eventually Walter Scott. In his conception of ‘a national bard’ he imagines a particular marriage of poetry’s special status as imaginative literature to a specific poet’s cultivation of a nationally important public persona. Both poetry and the poet are thus pursuing a particular kind of cultural capital that allows them to rise above their own popularity. Bainbridge frequently discusses strategies of print publication as part of his analysis: a particularly insightful footnote discusses, for example, a poem which circulated both as an ode in a magazine and as lyrics in a broadsheet. Bainbridge observes that “texts could shift in status and meaning as they were adapted for different forms of production and different audiences, in this case existing in both the relatively elevated form of the ode, to be read by an individual magazine reader, and as a new set of lyrics to a traditional tune, achieving its fullest realization in a communal performance at a political meeting in an alehouse or at a demonstration” \\cite\{Bainbridge:2003uk p.10\}. However, his explanations of individual print strategies are often hindered by his approach to literature’s cultural capital[ since I am on about it, what you need is Guillory and Bourdieu, Field of Cultural Production. And what you need to acknowledge is that these are now pretty old (80s) basic ideas about literature, but still very useful to you as they are to others, even as your approach - corpora, history of the book - takes them in new directions,]. At one point, for example, he argues that “the fact that the Gentleman’s Magazine was forced to reproduce at length a poem written two decades previously again emphasizes what was seen to be the failure of anyone convincingly to fill the role of the Bard until the emergence of Walter Scott” \\cite\{Bainbridge:2003uk p.53\}. I contend that the republication of substantially older works of literature is not a sign that England was destitute of true poetry before Walter Scott, but rather an attempt to solve the challenges to national identity posed by the 1790s’ disruption of history.
-
-
-
-###### 1.1.2.2.3.2.  Cronin ######
-
-
-
-Bainbridge is not alone is taking Walter Scott[ talk about Scott's flaws more explicitly -- the Clansmen, also the book Felski mentions about the afterlives of Walter Scott] as a kind of pinnacle, and looking backwards in search of his antecedents. Richard Cronin, in *The Politics of Romantic Poetry*, concerns himself with “poetry that speaks to a divided society in an attempt to constitute its readers as citizens of \[...\] ‘the pure commonwealth’” \\cite\{Cronin:2000vz p.13\}. This definition of “political poetry” leads him to Erasmus Darwin as the poet of the the Revolution and the Revolutionary war, William Blake as the poet of the Napoleonic wars, and Richard Southey and Walter Savage Landor as the poets of the post-war period --- ending, irresistibly, as so many do, with Walter Scott. Despite the fact that Cronin’s chief interest is in each poet’s use of language to construct an ideal audience, print culture looms. Of Erasmus Darwin, Cronin emphasizes Darwin’s use of “\[t\]he most powerful of the languages available in the 1790s that could plausibly claim universal status,” namely, “the language of science” \\cite\{Cronin:2000vz p.16\}, but it is the “beautifully and expensively produced edition of The Botanic Garden” \\cite\{Cronin:2000vz p.29\} which asserts his importance. Blake’s eccentric, idiosyncratic language is mirrored in his eccentric, idiosyncratic printing practices \\cite\{Cronin:2000vz p.60\}. Southey and Landor’s universal, international language seeks to “escape from history” \\cite\{Cronin:2000vz p.81\}, which entails disavowing not only the popular prose fictions which sought to represent history but also the very circulating libraries in which they were distributed \\cite\{Cronin:2000vz p.74\}. In other words, Cronin, even more so than Bainbridge, seems to use ‘poetic language’ to explain phenomena which have important print culture dimensions. Nonetheless, his discussion of Scott accurately describes the particular nature of Scott’s success: “Scott’s *Minstrelsy* transforms ballads freely passed from speaker to speaker around cottage fires on the Scottish Borders into luxury items, items only available to book-buyers of some means” \\cite\{Cronin:2000vz p.94\}. The Romantic poets, in both Bainbridge and Cronin’s accounts, support their claims to insight and importance through the inaccessibility of their work in print.
-
-
-
-##### 1.1.2.2.4.  novel #####
-
-
-
-###### 1.1.2.2.4.1.  rise of the novel ######
-
-
-
-###### 1.1.2.2.4.2.  history of the novel ######
-
-
-
-Both during the eighteenth century and in subsequent critical reception, the literature of the 1790s seemed to present a queer problem: what are we to make of the Gothic? After discussing some histories of the eighteenth century novel both excluding and including the Gothic as a general category, I will turn to the specific cases of Ann Radcliffe and Matthew Lewis to discuss the queerness of these debates about literature and genre.
-
-
-
-####### 1.1.2.2.4.2.1.  history of the novel #######
-
-
-
-The ‘history of the novel’ often finds it necessary to simply skip over the Gothic. \[ADD CONSERVATIVE HISTORIES OF THE NOVEL HERE --- Kiely, Tompkins, etc\]
-
-
-
-###### 1.1.2.2.4.3.  female gothic ######
-
-
+The ‘history of the novel’ often finds it necessary to simply skip over the Gothic. \[ADD CONSERVATIVE HISTORIES OF THE NOVEL HERE --- Kiely, Tompkins, etc\]  
 
 There is a tension underlying the study of a female Gothic, which Yael Shapira articulates in her review of Diana Wallace’s ambitious *Female Gothic Histories*: “The very continuity that allows us to call this body of writing a ‘tradition’ raises issues of interpretive method: how do we analyze women’s writing that, over such a long period of time, repeatedly turns to the same set of conventions --- conventions that, moreover, involve female suffering and fear --- without collapsing different authors and their varied aesthetic achievements into an essentialist view of gender and into a single narrative of female victimhood?” (Shapira 191). Shapira dubs this “the tension between historicist and universalist approaches to women’s Gothic” (191), both of which have much of value to contribute. This tension overlaps that between definitions focused on the representation of gender within texts, and definitions focused on the biographical gender of their authors: that is, between female writing and women’s writing. Study of the early Gothic can easily conflate the two. The “obviously” female-associated phenomenon of Gothic excess led to the critical category of the “Female Gothic” to discuss narratives of women in patriarchal distress. Ellen Ledoux lists off the standard requirements: “a distressed heroine, domestic incarceration, threats of sexual violence, anxiety about monstrous or absent mothers,” and “economic disenfranchisement” (2). A definition based on the theme of female persecution enabled work like Sandra Gilbert and Susan Gubar’s *Madwoman in the Attic* (1979), Kate Ferguson Ellis’s *The Contested Castle* (1989), Eugenia DeLamotte’s *Perils of the Night* (1990), and Helene Meyers’s *Femicidal Fears* (2001) to examine specifically female experiences of the threats of patriarchy, and to take their literary depictions seriously. As their titles show, these works \[pursue \[individual kinds of fears/themes/motifs\] / use the particularity of \[motifs?\] thematic “continuities that seem to transcend historical difference” (Shapira 191) to tie texts together.\] Concurrently, a definition based on female authorship enables Juliann Fleenor’s *The Female Gothic* (1983), Diane Long Hoeveler’s *Gothic Feminism* (1998), Emma Clery’s *Women’s Gothic* (2000), and Donna Heiland’s *Gothic and Gender* (2004) \[to turn their attention to gender itself / make claims on the scale of gender.\] \[These can get expansive in scope, as in Pickering and Chatto’s 5-volume series Varieties of Female Gothic (2002) or Avril Horner’s and Sue Zlosnik’s Edinburgh Companion on Women and the Gothic (2016), which \[indeed grapple with variety\]\] \[I am not the first, therefore, to distinguish between female gothic and women’s gothic\] \[I follow this latter set of footsteps more closely, beginning with women and then asking if what they wrote matches what we expect from female writing (make clear that I still approve of female gothic work)\] \[My own work is women’s gothic and historicist? My work seeks to see whether women’s gothic and female gothic do diverge?\]
 
@@ -327,29 +257,13 @@ The long history and continuing use of the Female Gothic framework stands in a s
 
 
 
-Work that complicates our image the Female Gothic --- like work that challenges the conventional image of Radcliffean imitators ---  is not new. Almost as soon as the term came into use, scholars have been pushing against its boundaries, grappling with the true diversity of women’s Gothic writing[^cf19]. Nonetheless, however, even as Gothic studies grew more complex in other ways, this definition offered something useful in identifying and providing vocabulary for a particular set of texts, so it has been impressively stable. The terms “Female Gothic” and “women’s gothic” are both in currency[^cf20]. Ledoux argues persuasively that “the category ‘Female Gothic’ more accurately reflects the ideological goals of second-wave feminist literary criticism than it represents the narratives of early women Gothic writers.”[^cf21] Despite many scholars’ work showing that “women’s early Gothic writing--- a great deal of which is only accessible to us because of the recovery work of feminist scholars---is much more aesthetically, politically, thematically, and generically diverse than the Female Gothic categorization suggests,” and despite ongoing critical work to refine the term Female Gothic, she finds that “its usage has limited the ways in which scholars approach women’s Gothic writing.”[^cf22] Ledoux set out to “to explain why the discrepancy between available primary textual material and textual analysis exists and how it came to be,”[^cf23] a task which she accomplishes successfully through a carefully close-read history of nineteenth and twentieth century literary politics.
-
-
-
-##### 1.1.2.2.5.  drama #####
-
-
-
-###### 1.1.2.2.5.1.  Taylor ######
-
-
+Work that complicates our image the Female Gothic --- like work that challenges the conventional image of Radcliffean imitators ---  is not new. Almost as soon as the term came into use, scholars have been pushing against its boundaries, grappling with the true diversity of women’s Gothic writing[^cf19]. Nonetheless, however, even as Gothic studies grew more complex in other ways, this definition offered something useful in identifying and providing vocabulary for a particular set of texts, so it has been impressively stable. The terms “Female Gothic” and “women’s gothic” are both in currency[^cf20]. Ledoux argues persuasively that “the category ‘Female Gothic’ more accurately reflects the ideological goals of second-wave feminist literary criticism than it represents the narratives of early women Gothic writers.”[^cf21] Despite many scholars’ work showing that “women’s early Gothic writing--- a great deal of which is only accessible to us because of the recovery work of feminist scholars---is much more aesthetically, politically, thematically, and generically diverse than the Female Gothic categorization suggests,” and despite ongoing critical work to refine the term Female Gothic, she finds that “its usage has limited the ways in which scholars approach women’s Gothic writing.”[^cf22] Ledoux set out to “to explain why the discrepancy between available primary textual material and textual analysis exists and how it came to be,”[^cf23] a task which she accomplishes successfully through a carefully close-read history of nineteenth and twentieth century literary politics.  
 
 I am by no means the first to examine the writing of the 1790s in light of authors’ political strategies[ is that actually what you are doing? their POLITICAL strategies in print? I don't think so?] in the print marketplace, though preceding work is often organized along genre lines. For example, George Taylor, in *The French Revolution and the London Stage*, sets forth some key contentions about literature’s cultural capital[ if this is what you mean by political it will need unpacking]. He argues that although eighteenth-century critics sought to make distinctions in the social value of different plays, or different parts of the theatrical program at a single show, audiences did not make these distinctions. “Although audiences were divided according to class between pit, box and gallery,” he argues, the division was purely physical: “all came to see the same shows, for within one programme there was a variety that not only satisfied the different groups but satisfied them all \[...\] all received plaudits from all corners of the house” \\cite\{Taylor:2001gp p.3\}. Taylor proceeds to define the central concerns and strategies of the plays staged during this period, arguing that “the determining feature of the period for the theatre was the sense of loss, a feeling that things had changed in ways that people did not expect or want,” a feeling that was reflected in “images of incarceration, dislocation and supernatural intervention” \\cite\{Taylor:2001gp p.221\}. This analysis of the theatre is structured by his originating observation that “Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict” [ so maybe you could start with this, but also - to what extent is the trash/treasure thing produced in the 1790s, vs produced by scholars looking back at 1790s? Just keep that question in mind]\\cite\{Taylor:2001gp p.3\}. The communal space of the theatre, which some cultural critics in the eighteenth century attempt to render non-communal and to dissect along class lines, is for Taylor fertile ground. For my inquiry, it is the “\[d\]isagreement as to what is trash and what it treasure” itself which animates me: the terms “trash” and “treasure” are hardly exaggerations of the extremity of the conflicting assessments which could be passed regarding the same works[ add a paragraph about the rise of the novel after this one, later on
 
 
 
-The unexpected difficulty of distinguishing “trash” and “treasure” is also a throughline in the many competing histories of the rise of the novel, and in particular their need to address the Gothic novel’s astonishing popularity.].
-
-
-
-##### 1.1.2.2.6.  freewrite #####
-
-
+The unexpected difficulty of distinguishing “trash” and “treasure” is also a throughline in the many competing histories of the rise of the novel, and in particular their need to address the Gothic novel’s astonishing popularity.].  
 
 The intersection of eighteenth century studies and queer theory, in the Venn diagram of scholarly motivations behind this work[ i do think, drop the Venn], is filled with the Gothic. The implicit, foundational importance of the Gothic to this work is difficult to narrativize into a cause and effect. Do I apply the frameworks of queer theory because it is well-suited to Gothic subject matter? Or does the Gothic offer itself for study because I have brought to bear the lenses of queer theory? Do I turn my attention to the 1790s because of an interest in the Gothic? Or does the Gothic capture my attention because it is necessary to making sense of the 1790s?[ you don't need this paragraph methinks] 
 
@@ -365,31 +279,15 @@ One difficulty presented by the specifically Gothic facets of queer theory is th
 
  
 
-This dissertation does not seek to explicitly define, taxonomize, or study the Gothic, largely because I join in recent work like Robert Miles’ which sees the Gothic as a trans-generic mode which may appear across the literary mediascape[ you will need to unpack this]. Because I wish to better understand the Gothic, I do not take the Gothic as my direct subject, but turn my attention to an area where I believe it will emerge. I wish to know, for different macroanlytical views of the decade, whether, and how, the Gothic does in fact appear.
-
-
-
-##### 1.1.2.2.7.  first draft #####  
+This dissertation does not seek to explicitly define, taxonomize, or study the Gothic, largely because I join in recent work like Robert Miles’ which sees the Gothic as a trans-generic mode which may appear across the literary mediascape[ you will need to unpack this]. Because I wish to better understand the Gothic, I do not take the Gothic as my direct subject, but turn my attention to an area where I believe it will emerge. I wish to know, for different macroanlytical views of the decade, whether, and how, the Gothic does in fact appear.  
 
 \[A lot of queer Gothic work has been paranoid\] \[Something about Susan Sontag & camp being how I reparatively read the Gothic?\]
 
 Eve Kosofsky Sedgwick’s often-quoted assertion that “\[t\]he Gothic novel crystallized for English audiences the terms of a dialectic between homosexuality and homophobia, in which homophobia appeared thematically in paranoid plots” (92)” (p 272)
 
-“ Locating the rise of that paranoid plot within the narratives of three Gothic novelists who were each “in some significant sense homosexual -- Beckford notoriously, Lewis probably, Walpole iffily” (92), Sedgwick’s Between Men itself crystallizes a critical tradition that stretches back at least as far as Montague Summers’s reading of Matthew Lewis in The Gothic Quest (1938) and that inflects every sustained discussion of homosexuality and the Gothic (at least the male Gothic) of the past three decades.” (272)
+“ Locating the rise of that paranoid plot within the narratives of three Gothic novelists who were each “in some significant sense homosexual -- Beckford notoriously, Lewis probably, Walpole iffily” (92), Sedgwick’s Between Men itself crystallizes a critical tradition that stretches back at least as far as Montague Summers’s reading of Matthew Lewis in The Gothic Quest (1938) and that inflects every sustained discussion of homosexuality and the Gothic (at least the male Gothic) of the past three decades.” (272)  
 
-
-
-###### 1.1.2.2.7.1.  dichotomy ######
-
-
-
-Current scholarship is increasingly attentive to the strategies employed by the *winners* of this dichotomy between valuable ‘literature’ and worthless, even dangerous, ‘popular fictions.’ Rather than discussing the failings of those works which \[don’t do ‘high literature’\], work like Michael Gamer’s draws our attention to \[the rhetorical techniques by which ‘high literature’ define themselves in opposition to the ‘low’\]
-
-
-
-###### 1.1.2.2.7.2.  supernatural & canons ######
-
-
+Current scholarship is increasingly attentive to the strategies employed by the *winners* of this dichotomy between valuable ‘literature’ and worthless, even dangerous, ‘popular fictions.’ Rather than discussing the failings of those works which \[don’t do ‘high literature’\], work like Michael Gamer’s draws our attention to \[the rhetorical techniques by which ‘high literature’ define themselves in opposition to the ‘low’\]  
 
 Wordsworth, Coleridge, and the other ‘big six’ Romantics are surely the winners of the eighteenth century historical battle for cultural capital; just as surely, the loser has been the Gothic. E.J. Clery’s *The Rise of Supernatural Fiction, 1762-1800* provides an account of what was at stake for the representations of supernatural events in supernatural stories in fiction, drama, and popular news \\cite\{Clery:HFvEup7z\}. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled Romanticism’s own rise \\cite\{Gamer:jX8nTxB-\}. In *Romanticism and the Gothic: Genre, Reception, and Canon Formation*, he details  the interconnectednesss of what are now seen as the separate categories of ‘high’ Romantic literature and ‘low,’ popular Gothic writing. By using Gothic materials in self-avowedly non-Gothic ways, Gamer argues, Romantic writers could appeal to popular taste without risking the loss of cultural capital which attended the Gothic’s “popularity”. Gamer, like Guillory, primarily examines Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is *not* literature, in order to better understand why it is not[ you might want to consider the new formalist work to reclaim the literary qua the literary - and e.g. Steve Conner's - "nah" to that. Probably meamns a few weeks of extra reading tho.].  
 
@@ -399,7 +297,7 @@ Although the queerest work in this period has centred on the Gothic, I intention
 
 
 
-#### 1.1.2.3.  queer & DH ####  
+### 1.2.3.  queer & DH ###  
 
 My emphasis on transparent, critical, and reflective praxis in the capture and visual presentation of data[^cf24] owes much to the emerging field of critical algorithm studies. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms differ from “algorithms” implemented by humans. Computational algorithms have two key vulnerabilities: first, their operations are less easily scrutinized; second, their results are more easily trusted. The second vulnerability --- the cultural aura of empirical trustworthiness which accrues to anything ‘computational’ --- is another flavour of the same vulnerability that Drucker describes with ‘data’ generally. Because the human agents who designed and trained any given algorithm appear to be absent from its operation, the algorithm appears able to discover truth directly. This is how Daily Wire reporter Ryan Saavedra was able to tweet with disdain that “Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist” \\cite\{Saavedra:2019wr\}: anything “driven by math,” he assumes, must be incapable of human fallibilities like racism. But as Safiya Noble shows extensively in *Algorithms of Oppression*, algorithms by default reproduce, and can easily exaggerate, the assumptions and biases of the culture in which they are made \\cite\{Noble:2018wo\}. In other words, in a racist world, algorithms *are* racist --- and sexist, and duplicative of all other systemic inequities.
 
@@ -427,13 +325,13 @@ if you are forced to manually encode assumptions into real code you have to conf
 
 
 
-### 1.1.3.  upcoming 2 experiments ###  
+## 1.3.  upcoming 2 experiments ##  
 
 Having described a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to describe my own project in more detail. This dissertation has two major parts. The first examines the literature of the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource[ which resource. something missing here]. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson[ all this is too new to the reader to be handled so fast -which resources, why these touchstone authors, how is all of this related to what we just read about your scholarly background]. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building[ you have buried the lead - this is the lead]. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.
 
 
 
-#### 1.1.3.1.  titles ####
+### 1.3.1.  titles ###
 
 
 
@@ -445,11 +343,7 @@ In chapter three, I synthesize these disparate sources of texts and metadata, to
 
 
 
-## 1.2.  ch 2 - archives ##
-
-
-
-Chapter Two  
+# ch 2 - archives #  
 
 Chapter two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives can implicitly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s): simply putting all of this information in one place will be a useful way to review it. Adding a discussion of each archive’s selection criteria will bring it into the realm of a meta-analysis. I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to greater inclusivity. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious whether even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.  
 
@@ -755,7 +649,7 @@ What is a "normal" footprint in the print culture of this decade? (i.e., what ar
 
 
 
-## 1.3.  ch 3 - archive popularity ##  
+# ch 3 - archive popularity #  
 
 Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. Influenced by Lesser and Farmer’s articulation of “structures of popularity,” I will consider popularity[ TK: Another tricky one. Might be best to avoid “popularity” unless you’re also going to factor in (as would be very hard) questions like print-runs (a nightmare imponderable), circulation (something aimed at libraries might have many more readers per copy than a book for home), unauthorized newspaper serializations, anthologization (is that a word?), false title pages (where a self-proclaimed 2^nd^ or 10^th^ edition might actually be just a new tp on remaindered sheets of a first edn that hasn’t sold. You could imagine (and this may have happened in practice) a novel published just once in 2,000 copies being more popular than one claiming five editions, none of which may have been more than 500 copies, and some of which may not have been true new editions at all. But which would come up as more popular give your metrics? This is all really tricky stuff and I think you’ll need a thorough discussion of the issues and assumptions.] in terms of total number of editions, frequency of reprinting, and market share.[ Lesser and Farmer also include profitability as one of the four measurements relevant to popularity in the book trade, but profitability is beyond the current scope of this project.] After determining how to calculate each of these metrics, I will ask: what was most popular during the decade, according to my corpora? How do the corpora differ in their answers, and why? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare the publication output of various literary celebrities over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might affect what we define as “popular literature”.  
 
@@ -771,9 +665,11 @@ Also <https://vls.english.qmul.ac.uk/> Dissenting Libraries Online
 
 To find out more about the reading habits of individual borrowers, click on [**Browse borrowers**](http://vls.english.qmul.ac.uk/cgi-bin/koha/member.pl). Explore the borrowing records of tutors, such as the Baptist [**Frederick W. Gotch**](http://vls.english.qmul.ac.uk/cgi-bin/koha/readingrec.pl?borrowernumber=86), ministerial students, including [**Robert Cotton Mather**](http://vls.english.qmul.ac.uk/cgi-bin/koha/readingrec.pl?borrowernumber=502) (later a Congregational missionary), and their lay counterparts, such as [**William Rayner Wood**](http://vls.english.qmul.ac.uk/cgi-bin/koha/readingrec.pl?borrowernumber=198) (who became a prominent Unitarian businessman). 
 
-The most frequently borrowed books include periodicals, theological textbooks, and historical works. Click on the links to see lists of the most popular titles at [**Manchester College**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=MAN&groupby=book&order=loancountdesc), [**Homerton Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=HOM&groupby=book&order=loancountdesc), or [**Bristol Baptist Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=BRI&groupby=book&order=loancountdesc).  
+The most frequently borrowed books include periodicals, theological textbooks, and historical works. Click on the links to see lists of the most popular titles at [**Manchester College**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=MAN&groupby=book&order=loancountdesc), [**Homerton Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=HOM&groupby=book&order=loancountdesc), or [**Bristol Baptist Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=BRI&groupby=book&order=loancountdesc).
 
-A potential coda or afterword could build on the work of Robert Miles and others to describe the role of the Gothic as a trans-generic mode which can appear across all print production (assuming that turns out to be true, of course.) Some of my earlier work suggests that Gothic modes of writing, unlike most literary content, can be “spotted” computationally. Since the Gothic operates by means of distinctive tropes and sensory appeals, the Gothic parts of a history and the Gothic parts of a picaresque can be distinguished from the non-Gothic parts of each by computational methods that could not distinguish a history from a picaresque. (Importantly, stylometric methods are not able to distinguish a parody of the Gothic from a “real” Gothic; as I theorize and interpret my findings, then, I would take up Horner and Zlosnik’s work on Gothic humour to discuss the problem of parody in taxonomy.) This final section could use a stylometric approach to identify and then search for “Gothic vocabularies” in full texts, computationally, in order to quantify the reach of the Gothic across my corpora. How many works can be identified as having Gothic influences? What kinds of literary production are most resistant to the Gothic? Does the Gothic appear differently in mainstream vs radical presses? This afterword would sketch out a preliminary map of the Gothic in the print world of the 1790s. This closing section would thus cite and build upon my prior work with the Gothic, in the context of the 1790s as a period when the penetration of Gothic modes into mainstream print had particularly complex political stakes.
+
+
+# coda? - gothic #
 
 [^cf1]: More specifically, these “authors” are “Great Britain, Parliament,” “Great Britain,” “Great Britain, Parliament, House of Commons,” “Great Britain, Lords Commissioners of Appeals in Prize Causes,” and King George III. After King George comes Thomas Paine and Hannah More, and then it’s “Great Britain, Parliament, House of Lords” and “Church of England.”
 
