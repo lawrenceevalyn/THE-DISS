@@ -231,7 +231,11 @@ As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettab
 
 
 
-## 2.2.  1790s & queer ##  
+## 2.2.  1790s & queer ##
+
+
+
+Queer 18thC work seems to fall in three broad categories: research about historical lesbians; research about historical sodomy; and queer readings of Gothic literature.  
 
 \[Probable intended structure for this section: one of my concerns is the way that 18thC studies ends ups segregated by genre (even though writers don’t confine themselves to one genre); so here’s the conversation in poetry, in the novel, in drama; and here’s how they’re all engaged in the same question about ‘trash’ vs ‘treasure’; and here’s how that dichotomy employs the same techniques of obnoxiously defining ‘literature’ through a rejection of the ‘popular’, sticking us with Wordsworth, Walter Scott, and a sainted Shakespeare; and here’s John Mee and ‘print magic’ tying them together.\]  
 
