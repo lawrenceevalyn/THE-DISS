@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-08-07 23:35:54 -0400" ModID="C54B99F7-0CE8-4028-8307-FD331ADA2EF8">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-09-09 22:03:16 -0400" ModID="28640FBC-DE32-446F-85D4-5300876AA776">
     <Binder>
         <BinderItem UUID="2E45450E-A3DE-4E68-B6AF-5AEE13E85C82" Type="Text" Created="2018-04-02 14:18:52 -0400" Modified="2018-12-02 00:36:33 -0500">
             <Title>proposal intro</Title>
@@ -466,6 +466,14 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem UUID="89C84775-B712-4A15-AA83-01B5632A3F0D" Type="Text" Created="2019-09-09 19:34:22 -0400" Modified="2019-09-09 19:34:39 -0400">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>98,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -976,7 +984,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1595,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="2148E057-5D19-4298-8502-D3F68D8131D6" Type="Text" Created="2019-03-09 14:54:03 -0500" Modified="2019-03-09 14:55:14 -0500">
@@ -2009,6 +2017,17 @@
                                     <TextSettings>
                                         <TextSelection>304,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="AC1D7E6A-163B-435C-9D01-4E5D6BC64616" Type="Text" Created="2019-08-08 00:17:32 -0400" Modified="2019-08-08 00:17:57 -0400">
+                                            <Title>try NVIVO?</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>63,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="A854FDDA-EC05-4DC8-AD70-47CB5E25A63C" Type="Text" Created="2018-11-30 00:06:04 -0500" Modified="2018-11-30 00:16:45 -0500">
                                     <Title>what's "normal"?</Title>
@@ -2065,14 +2084,14 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2019-08-07 23:35:54 -0400">
+        <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2019-09-09 22:03:16 -0400">
             <Title>Works Consulted</Title>
             <MetaData>
                 <LabelID>10</LabelID>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>9252,0</TextSelection>
+                <TextSelection>11016,0</TextSelection>
             </TextSettings>
             <Children>
                 <BinderItem UUID="B12131E5-731A-4C42-BEA7-972CA771B9AA" Type="Text" Created="2019-06-07 21:04:16 -0400" Modified="2019-08-05 01:52:55 -0400">
@@ -3079,7 +3098,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="96CB661A-0A55-4B14-A640-4F06E3BC7DC9" Type="Text" Created="2019-06-11 18:41:51 -0400" Modified="2019-08-01 18:58:20 -0400">
+                                <BinderItem UUID="96CB661A-0A55-4B14-A640-4F06E3BC7DC9" Type="Text" Created="2019-06-11 18:41:51 -0400" Modified="2019-08-23 07:12:59 -0400">
                                     <Title>Ch 1</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
@@ -3163,7 +3182,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="D0F84A7F-4954-4927-A62E-A39ED34B32EB" Type="Text" Created="2019-08-01 18:07:28 -0400" Modified="2019-08-07 01:59:24 -0400">
+                                <BinderItem UUID="D0F84A7F-4954-4927-A62E-A39ED34B32EB" Type="Text" Created="2019-08-01 18:07:28 -0400" Modified="2019-08-23 07:21:58 -0400">
                                     <Title>Ch 5</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
@@ -3172,6 +3191,17 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                     <TextSettings>
                                         <TextSelection>20349,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="D4175AF0-2DEF-4322-A397-24D6295687F7" Type="Text" Created="2019-08-23 07:11:39 -0400" Modified="2019-08-23 07:21:58 -0400">
+                                            <Title>summary</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="3D84D0B9-DFC2-47DF-9331-2363C37D1CE1" Type="Text" Created="2019-03-30 16:13:47 -0400" Modified="2019-08-01 18:07:49 -0400">
                                     <Title>Guillory para</Title>
@@ -3181,6 +3211,15 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>648,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="173A7462-B78B-42F3-828C-3E040A115402" Type="Text" Created="2019-08-23 07:13:22 -0400" Modified="2019-08-23 07:13:34 -0400">
+                                    <Title>overall summary</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>126,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3328,7 +3367,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                                 <IconFileName>Book (Blue Book).tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11,0</TextSelection>
+                                <TextSelection>244,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="620CCAA6-C4CA-4E61-8348-EC5E62E13B4A" Type="Text" Created="2018-11-07 19:03:51 -0500" Modified="2018-12-25 05:13:53 -0500">
@@ -3452,7 +3491,7 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1001,0</TextSelection>
+                        <TextSelection>347,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="EF9E4848-E43B-4E21-89BB-E5E97D201479" Type="Text" Created="2019-06-25 18:43:14 -0400" Modified="2019-06-25 20:29:04 -0400">
@@ -8573,14 +8612,14 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">158</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-08-07 23:24:17 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">174</SessionTarget>
+        <PreviousSession Words="16" Characters="98" Date="2019-09-09 19:33:54 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-08-07 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>3908</OtherWordCount>
-        <OtherCharCount>25207</OtherCharCount>
+    <RecentWritingHistory Date="2019-09-09 00:00:00 -0400">
+        <DraftWordCount>16</DraftWordCount>
+        <DraftCharCount>98</DraftCharCount>
+        <OtherWordCount>20</OtherWordCount>
+        <OtherCharCount>135</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
