@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-09-13 14:29:10 -0400" ModID="CF830A9C-B5AE-42FE-8384-15D5AD0AB1E5">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-09-13 16:34:31 -0400" ModID="E4F59C09-24B6-47DD-88C2-5BED36FB042B">
     <Binder>
         <BinderItem UUID="2E45450E-A3DE-4E68-B6AF-5AEE13E85C82" Type="Text" Created="2018-04-02 14:18:52 -0400" Modified="2018-12-02 00:36:33 -0500">
             <Title>proposal intro</Title>
@@ -225,7 +225,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="3E99D813-E822-4BC7-80E7-425E20663056" Type="Text" Created="2019-06-04 17:21:38 -0400" Modified="2019-09-12 16:01:37 -0400">
+                                        <BinderItem UUID="3E99D813-E822-4BC7-80E7-425E20663056" Type="Text" Created="2019-06-04 17:21:38 -0400" Modified="2019-09-13 16:28:51 -0400">
                                             <Title>writing</Title>
                                             <MetaData>
                                                 <LabelID>11</LabelID>
@@ -268,7 +268,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="9045928D-D638-4D11-9DED-2E7BC9CCF17E" Type="Text" Created="2019-06-07 19:49:08 -0400" Modified="2019-09-12 16:11:41 -0400">
+                                        <BinderItem UUID="9045928D-D638-4D11-9DED-2E7BC9CCF17E" Type="Text" Created="2019-06-07 19:49:08 -0400" Modified="2019-09-13 16:31:25 -0400">
                                             <Title>writing</Title>
                                             <MetaData>
                                                 <LabelID>11</LabelID>
@@ -311,7 +311,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="B7855D60-F2EF-4165-8BF4-CD291E5151E9" Type="Text" Created="2019-06-07 19:49:22 -0400" Modified="2019-09-12 16:20:20 -0400">
+                                        <BinderItem UUID="B7855D60-F2EF-4165-8BF4-CD291E5151E9" Type="Text" Created="2019-06-07 19:49:22 -0400" Modified="2019-09-13 16:34:04 -0400">
                                             <Title>writing</Title>
                                             <MetaData>
                                                 <LabelID>11</LabelID>
@@ -354,14 +354,14 @@
                                         <TextSelection>90,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="A66EE927-6726-4C4B-9500-9BDD701EC52D" Type="Text" Created="2019-06-12 19:12:28 -0400" Modified="2019-09-12 16:27:36 -0400">
+                                        <BinderItem UUID="A66EE927-6726-4C4B-9500-9BDD701EC52D" Type="Text" Created="2019-06-12 19:12:28 -0400" Modified="2019-09-13 16:23:03 -0400">
                                             <Title>writing</Title>
                                             <MetaData>
                                                 <LabelID>11</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4004,0</TextSelection>
+                                                <TextSelection>577,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="1A550F60-DE15-4676-A9A2-C6BF770FF3B0" Type="Text" Created="2019-06-12 19:12:29 -0400" Modified="2019-09-12 16:31:06 -0400">
@@ -2361,6 +2361,16 @@
                             </Children>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem UUID="6A9EAC6D-2895-46D8-81AA-EDC5A1610280" Type="Text" Created="2019-06-12 19:12:28 -0400" Modified="2019-09-13 16:16:09 -0400">
+                    <Title>all Radcliffe editions</Title>
+                    <MetaData>
+                        <LabelID>11</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,6186</TextSelection>
+                    </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="275DC523-EDDA-486D-AD30-0BFC42405E90" Type="Text" Created="2017-08-11 15:20:14 -0400" Modified="2017-08-11 15:20:18 -0400">
                     <Title>Secondary Texts</Title>
@@ -8679,11 +8689,11 @@ Kennedy, Emmet et al - Analysis and Repertory by Emmet Kennedy, Marie-Laurence N
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">176</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-09-13 14:28:54 -0400"></PreviousSession>
+        <PreviousSession Words="-435" Characters="-2683" Date="2019-09-13 14:28:54 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-09-13 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>-435</DraftWordCount>
+        <DraftCharCount>-2683</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
