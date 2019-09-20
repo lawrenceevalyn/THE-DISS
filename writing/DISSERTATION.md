@@ -1,7 +1,11 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# ch 1 - intro #  
+# ch 1 - intro #
+
+
+
+# 1.  intro #  
 
 According to the English Short Title Catalogue (ESTC), the most popular English authors of the 1790s were Thomas Paine, Hannah More, John Wesley, and William Shakespeare. Of course this inflammatory claim immediately falls apart on further scrutiny. In fact, by the metric of ‘unique entries in the ESTC database,’ the most popular author of the decade is by far Great Britain, followed by Great Britain, Great Britain, Great Britain, and King George III.[^cf1] Paine, More, Wesley and Shakespeare are only able to rise to our notice if we intervene in the dataset to filter out all authors whose names contain the phrase “Great Britain”; otherwise, Shakespeare is outnumbered by the House of Lords and by the Church of England. These claims demonstrate that a poorly-formed question will produce a useless and stupid answer even (or perhaps especially) if computation is used to answer it. This dissertation is dedicated to the formulation of better questions. At its core, the question is: given that it is not possible to read everything (or even most things), how do we, and how *should* we, determine what to read, preserve, study, and teach? This “question” is, of course, many questions: what we do is by no means what we *should* do; what we read is not necessarily what we study or teach. Different areas of literary history, too, will provide different answers. I focus specifically on writing printed in England between 1789 and 1799, to explore how works have been selected as important, literary, or popular. I also narrow my focus to how these works have been preserved and studied, particularly in digital research. I take Charlotte Smith, Mary Robinson, Hannah More, and Ann Radcliffe as case study authors because all four had their greatest literary productivity in the 1790s, and all four have presented different challenges to the literary memory of their works. Contextualizing these authors within the print mediascape of the 1790s will produce multiple conflicting models of ’1790s literature’ and multiple possible conclusions regarding the superlative works of the decade: rather than resolve these conflicts, I will delineate the reasons they exist.   
 
@@ -19,7 +23,11 @@ The many criticisms which Klein compiles, Bode argues, “describe the symptoms 
 
 Klein also suggests a change in how models are formed: “Instead of first asking what *can* be modeled---what phenomena we can track at scale---we might instead ask: what might be *hidden* in this corpus? And are there methods we might use to bring out significant texts, or clusters of words, that the eye cannot see?” \\cite\{Klein:2018to\}.]  
 
-The relocation of the debate from the canon to the corpus is not without grounds. As this dissertation will explore in depth, challenges to the technological accessibility of texts have created new hierarchies, and a new “great unread.” Each archive represents a unique set of choices in response to the same sets of questions: what to include, why, how; what to make accessible, why, how, to whom; what, in the end, makes a text matter, and what we are meant to *do* with texts. For example, the English Short Title Catalogue records \[XXX\] titles printed in England between 1789 and 1799. The corpus most commonly used for DH work on eighteenth century literature, ECCO-TCP, includes only XXX titles for that same time period. What are the other XXX titles, why are they accessible in the ways they are, and what does it mean for digital eighteenth century studies that they are not included? In a series of computational and non-computational research processes, I examine X corpora of eighteenth century texts to learn about four eighteenth century authors, and I examine four eighteenth century authors to learn about eighteenth century corpora. This dissertation, therefore, takes place within three scholarly conversations: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the frameworks of reparative reading within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter concludes with a description of the major research experiments which drive the dissertation as a whole, and providing a sketch of their development across the dissertation.  
+The relocation of the debate from the canon to the corpus is not without grounds. As this dissertation will explore in depth, challenges to the technological accessibility of texts have created new hierarchies, and a new “great unread.” Each archive represents a unique set of choices in response to the same sets of questions: what to include, why, how; what to make accessible, why, how, to whom; what, in the end, makes a text matter, and what we are meant to *do* with texts. For example, the English Short Title Catalogue records \[XXX\] titles printed in England between 1789 and 1799. The corpus most commonly used for DH work on eighteenth century literature, ECCO-TCP, includes only XXX titles for that same time period. What are the other XXX titles, why are they accessible in the ways they are, and what does it mean for digital eighteenth century studies that they are not included? In a series of computational and non-computational research processes, I examine X corpora of eighteenth century texts to learn about four eighteenth century authors, and I examine four eighteenth century authors to learn about eighteenth century corpora. This dissertation, therefore, takes place within three scholarly conversations: the digital humanities, as an increasingly self-reflective set of practices; eighteenth century studies, and the challenges presented by the 1790s; and the frameworks of reparative reading within queer theory which seem to offer valuable resources for both. The remainder of this chapter will describe in more detail the relevant scholarship in all three fields, then discuss the overlaps between them which enable my work. Finally, this chapter concludes with a description of the major research experiments which drive the dissertation as a whole, and providing a sketch of their development across the dissertation.
+
+
+
+# 2.  archives #  
 
 Eighteenth century materials of various kinds have been collected in many digital archives, of very different scopes. I will draw materials from the English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), HathiTrust, ProQuest, the British Library’s Nineteenth Century Book Corpus (BL), the Early Novels Database (END), Gale’s digitized microfiche of the Corvey collection, Google Books, the Internet Archive, and Project Gutenberg. For several of these databases, especially HathiTrust, Google Books, and Project Gutenberg, their status as ‘scholarly’ or ‘serious’ is contested. Chapter two will explore in greater detail the structural logic and the scholarly reception of these databases in light of their 1790s holdings. Since they are the direct object of study of much of the dissertation, however, a general introduction to their contents is useful here. The corpora vary from each other in terms of two main qualities: their size, and their reputation. The reputation of any given digital resource is shaped largely, I argue in chapter two, by its ability to signal ‘rigour’ in its collection practices. Several corpora of different sizes have established reputations of seriousness, and, correspondingly, cultural capital within scholarly communities.  
 
@@ -39,13 +47,13 @@ As this survey of eighteenth-century digital archives shows, there is no ‘perf
 
 
 
-## 1.1.  my authors ##  
+# 3.  my authors #  
 
 All of the computational work in this dissertation aims to identify, in as minute detail as possible, all works printed in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf7] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Common Sense*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlative degree of comparison captures the tension often seen by scholars between ‘Enlightenment’ modes of writing and ‘Romantic’ or ‘Gothic’ modes. To navigate the 1790s, I turn to four authors whose careers and works usefully focalize my core questions of genre, publics, and the status of literature and writers. These authors are Hannah More, Charlotte Smith, Mary Robinson, and Ann Radcliffe. All four authors were highly productive in the 1790s, and all four had complex and contested literary legacies after the 1790s. In the following chapters of this dissertation, I will ask whether and how contemporary digital archives make these authors visible. First, however, I provide here a brief overview of each author’s major works, general biography, and critical reception.
 
 
 
-### 1.1.1.  Charlotte Smith ###  
+## 3.1.  Charlotte Smith ##  
 
 Charlotte Smith’s literary career began with the publication of her volume of poetry *Elegiac Sonnets*, in 1784. Six sonnets by Smith had appeared in periodicals in 1782 and 1784 prior to the publication of *Elegiac Sonnets* (Roberts). The first edition (1784) contains sixteen sonnets: ten original sonnets, then “other essays” in the middle of the volume (a translated “Song. From the French of Cardinal Bernis” and a poem in couplets, “The Origin of Flattery”), and six more sonnets, three of which are translations “from Petrarch”, and three which are “Supposed to be written by Werter.” A second edition of *Elegiac Sonnets* rapidly followed the first in the same year, with only slight amendments. In the next year, 1785, Smith’s  translation of Prévost’s *Manon Lescaut* was published, but not under Smith’s name “after criticism of the work’s morality” (Fry xi). The third and fourth editions of *Elegiac Sonnets* appeared in 1786. These introduce 20 new sonnets, and the non-sonnet poems are removed. A new preface is added, now dated from Woolbeding, a small West Sussex village where Smith moved in 1785. In the first edition, twelve of Smith’s sonnets are Shakespearean in form, and the remaining four vary in their irregularity. As she expands the volume, Smith’s use of the sonnet becomes increasingly experimental \\cite\{Roberts:2019ur\}; as she writes in the preface to the third edition, despite attempting the Italian model, “I am persuaded that, to the generality of readers, those which are less regular will be more pleasing.” 1786 also saw the publication of Smith’s *The Romance of Real Life*, a translation of *Les Causes Célèbres*. In 1788 she published her first original novel, *Emmeline, or the Orphan of the Castle*.
 
@@ -65,7 +73,7 @@ A complicating factor to these evaluations of Smith is that, as Labbe’s edited
 
 
 
-### 1.1.2.  Mary Robinson ###  
+## 3.2.  Mary Robinson ##  
 
 Mary Robinson’s first literary foray was the volume *Poems by Mrs. Robinson*, published by C. Parker in 1775, shortly followed by the poem *Elegiac verses to a young lady on the death of her brother; who was slain in the late engagement at Boston*. “Though *Poems* received little critical support, and made little money, Mary Robinson continued to write” (Mark Ockerbloom), but she would begin her career as an actress before this writing saw publication. Robinson’s theatrical debut as Juliet in December 1776 led to an increasingly acclaimed and prolific career. “She took on a range of roles, sometimes playing multiple parts in the same week, or even night” (Mark Ockerbloom). In 1777 she published a volume of works written earlier, *Captivity, A Poem: and Celadon and Lydia, A Tale*, and in 1778 she wrote and starred in her own musical farce, *The Lucky Escape,* from which she published *The Songs, Chorusses, etc. in The Lucky escape, a Comic Opera.* In 1780, Robinson retired from the stage. Her next published volume did not appear until 1791, but the intervening decade was not empty of literary activity. From 1784 to its publication in 1787, Robinson collaborated with Banastre Tarleton on the composition and revision of his *History of the Campaigns of 1780 and 1781*. In 1788, Robinson began the writing which would make her career as an author. She contributed poems to *The World* and *The Oracle* under the pseudonyms “Laura” and “Laura Maria” which responded to popular poems by a coterie of writers now called the Della Cruscans, who addressed each other in periodicals with Miltonic, Italianate, and political poetry. Robinson’s poems successfully inserted herself into their conversation, prompting replies from the other poets.
 
@@ -83,7 +91,7 @@ When literary scholars began to be interested again in Robinson in the 1990s, th
 
 
 
-### 1.1.3.  Hannah More ###  
+## 3.3.  Hannah More ##  
 
 Hannah More’s first book published was the pastoral drama *A Search after Happiness*, published in 1773. In 1774 she published her play *The Inflexible Captive,* which was produced in 1775 at the Theatre Royal in Bath. In 1776, she published *Sir Eldred of the Bower and the Bleeding Rock*. In 1777, she published her first conduct-book, *Essays on Various Subjects*, dedicated to the bluestocking Elizabeth Montagu. Her play *Percy, A Tragedy* was also produced at Covent Garden in 1777, running through 1778. In 1779, her third play, *The Fatal Falsehood*, was performed but was considered a failure, after which More stopped writing for the stage. In 1782, she published *Sacred Dramas* and *Sensibility: A Poem*. In 1783, she wrote *The Bas Bleu: or, Conversation*, a celebration of bluestocking culture, which circulated in manuscript but did not see print until 1786. In 1784 she was made a member of the Rouen Academy of Arts, Sciences, and Letters. In 1786 she published *Florio*, a poem in praise or rural life, and *The Bas Bleu*. In 1788 she published, anonymously, *Thoughts on the Importance of the Manners of the Great to General Society*, as well as *Slavery: A Poem*.
 
@@ -109,7 +117,7 @@ Throughout this history of struggling with More’s conservatism, More has been 
 
 
 
-### 1.1.4.  Ann Radcliffe ###  
+## 3.4.  Ann Radcliffe ##  
 
 Ann Radcliffe stands in contrast to More, Smith, and Robinson in many ways. One of these is the relative brevity of her bibliography. She published six works during this dissertation’s decade of interest--- five novels and a volume of travel writing--- and this is all that is published during her lifetime. Where her bibliography grows extensive is the number of reprintings. The following overview bibliography includes only publications in England, but these works also appeared frequently in Ireland, America, and France, and less frequently in Italy, Germany, and even Russia.
 
@@ -137,7 +145,7 @@ In 2014, *Ann Radcliffe, Romanticism and the Gothic* edited by Dale Townshend, A
 
 
 
-## 1.2.  DH ##  
+# 4.  DH #  
 
 This dissertation undertakes computational distant reading. My questions are macroanalytical, and my research proceeds from hypothesis through experiment and results. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. The bibliographic histories of my multiple corpora are explicit objects of inquiry. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A (“Codebase”), accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools --- sufficient for another to replicate my work --- is provided in Appendix B (“Methodology”). These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means *confined* to the appendices. Computation is not a “black box” to be consulted for simple answers, but is inextricable from my reasoning and argument.  
 
@@ -149,7 +157,7 @@ This dissertation understands archives, bibliographies, anthologies, and corpora
 
 
 
-## 1.3.  theory ##  
+# 5.  theory #  
 
 My primary theoretical framework, as I conceptualize my work, is that of reparative reading. Eve Sedgwick’s “Paranoid Reading and Reparative Reading” persuasively describes in the dominance of paranoia in literary criticism, and attempts to sketch an alternative in what she terms  reparative reading. My touchstones are two descriptions from Sedgwick’s original chapter:  
 
@@ -181,7 +189,7 @@ if you are forced to manually encode assumptions into real code you have to conf
 
 
 
-### 1.3.1.  distant reading without Moretti ###
+## 5.1.  distant reading without Moretti ##
 
 
 
@@ -199,7 +207,7 @@ Buurma brings Miles’ history to our attention not simply because Miles predate
 
 
 
-### 1.3.2.  critical algorithm studies ###
+## 5.2.  critical algorithm studies ##
 
 
 
@@ -209,7 +217,7 @@ Buurma brings Miles’ history to our attention not simply because Miles predate
 
 
 
-### 1.3.3.  reparative DH ###
+## 5.3.  reparative DH ##
 
 
 
@@ -217,15 +225,9 @@ Buurma brings Miles’ history to our attention not simply because Miles predate
 
 
 
-## 1.4.  upcoming 2 experiments ##  
+# 6.  upcoming 2 experiments #  
 
-Having described a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to describe the work undertaken here in more detail. This dissertation has two major parts. The first examines the literature of the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. I will draw materials from the English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), HathiTrust, ProQuest, the British Library’s Nineteenth Century Book Corpus (BL), the Early Novels Database (END), Gale’s digitized microfiche of the Corvey collection, Google Books, the Internet Archive, and Project Gutenberg. Substantial time is taken to establish the history and constraints of each of these resources to contextualize the role they play in contemporary digital research. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.
-
-
-
-### 1.4.1.  titles ###
-
-
+Having described a large and complex scholarly context for this work, and made some preliminary efforts toward synthesis of these disparate backgrounds, it is time, now, to describe the work undertaken here in more detail. This dissertation has two major parts. The first examines the literature of the 1790s through the lens of ‘titles,’ and the second through ‘persons.’ In both cases my central interest is the vexed category of ‘popularity.’ With both ‘titles’ and ‘persons’, I establish the materials with which I will be working and their implicit models. I will draw materials from the English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), HathiTrust, ProQuest, the British Library’s Nineteenth Century Book Corpus (BL), the Early Novels Database (END), Gale’s digitized microfiche of the Corvey collection, Google Books, the Internet Archive, and Project Gutenberg. Substantial time is taken to establish the history and constraints of each of these resources to contextualize the role they play in contemporary digital research. Using the information they make most readily accessible, I explore which works and individuals emerge as ‘popular’ or ‘important’ in each resource. I also probe each resource for its representation of (or failure to represent) my touchstone authors, Ann Radcliffe, Charlotte Turner Smith, Hannah More, and Mary Robinson. The resulting findings are primarily used to evaluate how the underlying digital resources participate in or resist the projects of canon-building. Then, for both titles and persons, there is a ‘turn.’ For each area of inquiry I introduce a novel experiment which synthesizes my materials and repurposes them. These experiments are then used to draw conclusions about 1790s print culture.  
 
 The first phase of this project takes up titles and databases. Throughout this work, a ‘title’ is the broadest possible umbrella term for a text: it is synonymous with ‘a database entry which I believe to represent a printed work.’ Each individual database will shape the precise correspondences between a ‘title’ and the printed texts about which I use ‘titles’ to reason. For example, it will vary based on my source whether multiple editions of the same work are several ‘titles’ or one ‘title,’ and whether the titles exclusively represent ‘books’ or also include chapbooks, broadsheets, or even ephemera. Due to the inscrutability of much digital infrastructure, a problem discussed above, it is often not possible for me to know prior to experimentation what kinds of titles I am working with. These variations form part of my object of inquiry.  
 
@@ -235,7 +237,11 @@ In chapter three, I intervene in these corpora with code which I have written my
 
 In chapter four, having spent the previous two chapters examining my digital corpora as corpora, I finally use them to draw conclusions about the eighteenth century itself. Chapter four examines random samples from each corpus. Random sampling, which Steven Zwicker (Zwicker) and Leo Lahti, Niko Ilomäki, and Mikko Tolonen (Lahti et al.) have applied successfully to the English Short Title Catalogue’s holdings, makes it feasible to apply a greater level of human scrutiny to a large body of texts. For each corpus, I select a small enough number of titles that it is feasible to examine each title individually, and manually research its bibliographic details and contents. Comparing my manual assessments to the databases’s defaults allows me to calculate a probable error rate for each kind of information the database provides, which can then be used to correct the results of experiment run on the full database. I use this information to reflect again on the findings I calculated in chapters two and three. Working manually also allows me to supplement database entries with my own research. In particular, it will allow me to use better metrics of quantity or popularity. Influenced by Lesser and Farmer’s articulation of “structures of popularity” (CITE), I will consider the popularity of the works in my random sample in terms of total number of editions, frequency of reprinting, and market share. Taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I pay particular attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. Identifying this information for the few hundred titles in my sample is not easy, but it is at least *possible*, unlike carrying out the same process on tens of thousands of titles. Again, I use the results of my manual investigation of my sample to calculate a guess about the corpus as a whole. At the end of the chapter, synthesizing all of my experiments across the dissertation, I postulate my own assessment of the number of titles published each year 1789-99, the relative quantity of various categories of writing, and the gender ratios of each category.  
 
-Chapter five returns to the small scale of close-reading and my four authors. Looking again at their publications, and contextualized by my findings about the decade as a whole, I analyze each author’s place within the eighteenth century print marketplace. I explore their posthumous reception. And, finally, I present my own reading of how to remember, study, and teach their 1790s works.  
+Chapter five returns to the small scale of close-reading and my four authors. Looking again at their publications, and contextualized by my findings about the decade as a whole, I analyze each author’s place within the eighteenth century print marketplace. I explore their posthumous reception. And, finally, I present my own reading of how to remember, study, and teach their 1790s works.
+
+
+
+# 7.  18thC lit review #  
 
 **\[Somehow, I still haven’t sorted out this 18thC lit review section. I’ve distilled key works and tried to arrange them into a structure here. But what do I actually need from this? Where would it even go in the chapter? DO I need this???\]**
 
