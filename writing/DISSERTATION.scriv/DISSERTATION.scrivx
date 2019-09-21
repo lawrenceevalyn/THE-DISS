@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-09-21 16:12:53 -0400" ModID="9BAA68BA-D600-4AAD-AD5D-BA9DD6C8E50B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-09-21 16:51:46 -0400" ModID="0066C0D0-EF0E-455E-9176-7C5C713DD6EF">
     <Binder>
         <BinderItem UUID="EDAB35FA-5F1D-44DF-963D-171D341E5E8C" Type="Text" Created="2019-09-21 13:32:52 -0400" Modified="2019-09-21 13:35:03 -0400">
             <Title>Front Matter</Title>
@@ -383,14 +383,14 @@
                                         <TextSelection>4793,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="4846EA4E-D51E-4880-AB26-8DF26A9B13FF" Type="Text" Created="2019-06-12 19:12:31 -0400" Modified="2019-09-19 17:32:15 -0400">
+                                <BinderItem UUID="4846EA4E-D51E-4880-AB26-8DF26A9B13FF" Type="Text" Created="2019-06-12 19:12:31 -0400" Modified="2019-09-21 16:14:46 -0400">
                                     <Title>scholarship</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1373,0</TextSelection>
+                                        <TextSelection>1683,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -450,11 +450,11 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="211DDEFA-33C5-4253-B62E-271D0B4E6441" Type="Text" Created="2019-02-07 20:39:47 -0500" Modified="2019-09-20 01:58:12 -0400">
+                <BinderItem UUID="211DDEFA-33C5-4253-B62E-271D0B4E6441" Type="Text" Created="2019-02-07 20:39:47 -0500" Modified="2019-09-21 16:40:15 -0400">
                     <Title>theory</Title>
                     <MetaData>
                         <SectionType ChildDefault="51E458CC-E541-4B50-ACE8-A8E55F4B15FC">51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                        <LabelID>9</LabelID>
+                        <LabelID>11</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
@@ -483,25 +483,25 @@
                                 <TextSelection>1719,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="09113555-F344-4041-97EF-B85FDCECDB80" Type="Text" Created="2019-02-07 23:23:52 -0500" Modified="2019-09-21 16:02:58 -0400">
+                        <BinderItem UUID="09113555-F344-4041-97EF-B85FDCECDB80" Type="Text" Created="2019-02-07 23:23:52 -0500" Modified="2019-09-21 16:39:31 -0400">
                             <Title>computation reveals assumptions</Title>
                             <MetaData>
                                 <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
-                                <LabelID>9</LabelID>
+                                <LabelID>11</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1386,0</TextSelection>
+                                <TextSelection>547,10</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8EA8CA4A-96D9-442C-9132-843484F5034B" Type="Text" Created="2019-03-09 15:59:07 -0500" Modified="2019-09-21 16:04:22 -0400">
+                        <BinderItem UUID="8EA8CA4A-96D9-442C-9132-843484F5034B" Type="Text" Created="2019-03-09 15:59:07 -0500" Modified="2019-09-21 16:40:11 -0400">
                             <Title>distant reading without Moretti</Title>
                             <MetaData>
-                                <LabelID>10</LabelID>
+                                <LabelID>11</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,0</TextSelection>
+                                <TextSelection>1354,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="A3F2902B-6E53-4284-8B8C-A4A33CD56D07" Type="Text" Created="2019-02-09 21:57:24 -0500" Modified="2019-09-21 16:04:22 -0400">
@@ -9079,11 +9079,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">189</SessionTarget>
-        <PreviousSession Words="610" Characters="3701" Date="2019-09-21 14:05:53 -0400"></PreviousSession>
+        <PreviousSession Words="652" Characters="3895" Date="2019-09-21 14:05:53 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-09-21 00:00:00 -0400">
-        <DraftWordCount>610</DraftWordCount>
-        <DraftCharCount>3701</DraftCharCount>
+        <DraftWordCount>652</DraftWordCount>
+        <DraftCharCount>3895</DraftCharCount>
         <OtherWordCount>52</OtherWordCount>
         <OtherCharCount>409</OtherCharCount>
     </RecentWritingHistory>
