@@ -465,9 +465,13 @@ See: Zipf's law; that Vsauce video Olli sent me
         <Document ID="EF9AF9F1-4CB1-43A9-AD82-1FDB7D6DE6A9">
             <Title>data cleaning</Title>
         </Document>
-        <Document ID="15110D87-360F-4007-AE8D-B8C83C1132D5">
-            <Title>Sarah Scudgell Wilkinson</Title>
-            <Text>http://orlando.cambridge.org/public/svPeople?person_id=wilksa</Text>
+        <Document ID="781862B8-68C5-4A35-9420-826AAF909DC2">
+            <Title>The many criticisms which Klein compiles, Bode argues, “describe the symptoms – not the essence – of a problem, which in fact inheres in Moretti’s and Jockers’s common neglect of […] the bibliographical and editorial approaches that explore and explicate the literary-historical record,” a neglect which is itself “not an effect of importing data into literary history but is inherited from the New Criticism” \cite{Bode:2017gb}.
+
+Klein also suggests a change in how models are formed: “Instead of first asking what can be modeled—what phenomena we can track at scale—we might instead ask: what might be hidden in this corpus? And are there methods we might use to bring out significant texts, or clusters of words, that the eye cannot see?” \cite{Klein:2018to}.</Title>
+            <Text>The many criticisms which Klein compiles, Bode argues, “describe the symptoms – not the essence – of a problem, which in fact inheres in Moretti’s and Jockers’s common neglect of […] the bibliographical and editorial approaches that explore and explicate the literary-historical record,” a neglect which is itself “not an effect of importing data into literary history but is inherited from the New Criticism” \cite{Bode:2017gb}.
+
+Klein also suggests a change in how models are formed: “Instead of first asking what can be modeled—what phenomena we can track at scale—we might instead ask: what might be hidden in this corpus? And are there methods we might use to bring out significant texts, or clusters of words, that the eye cannot see?” \cite{Klein:2018to}.</Text>
         </Document>
         <Document ID="EF0BFA19-762A-4FCD-9EE2-B4C88D2E208C">
             <Title>position attempt 1</Title>
@@ -492,13 +496,9 @@ http://explorabl.es/
 http://ncase.me/loopy/
 </Text>
         </Document>
-        <Document ID="781862B8-68C5-4A35-9420-826AAF909DC2">
-            <Title>The many criticisms which Klein compiles, Bode argues, “describe the symptoms – not the essence – of a problem, which in fact inheres in Moretti’s and Jockers’s common neglect of […] the bibliographical and editorial approaches that explore and explicate the literary-historical record,” a neglect which is itself “not an effect of importing data into literary history but is inherited from the New Criticism” \cite{Bode:2017gb}.
-
-Klein also suggests a change in how models are formed: “Instead of first asking what can be modeled—what phenomena we can track at scale—we might instead ask: what might be hidden in this corpus? And are there methods we might use to bring out significant texts, or clusters of words, that the eye cannot see?” \cite{Klein:2018to}.</Title>
-            <Text>The many criticisms which Klein compiles, Bode argues, “describe the symptoms – not the essence – of a problem, which in fact inheres in Moretti’s and Jockers’s common neglect of […] the bibliographical and editorial approaches that explore and explicate the literary-historical record,” a neglect which is itself “not an effect of importing data into literary history but is inherited from the New Criticism” \cite{Bode:2017gb}.
-
-Klein also suggests a change in how models are formed: “Instead of first asking what can be modeled—what phenomena we can track at scale—we might instead ask: what might be hidden in this corpus? And are there methods we might use to bring out significant texts, or clusters of words, that the eye cannot see?” \cite{Klein:2018to}.</Text>
+        <Document ID="15110D87-360F-4007-AE8D-B8C83C1132D5">
+            <Title>Sarah Scudgell Wilkinson</Title>
+            <Text>http://orlando.cambridge.org/public/svPeople?person_id=wilksa</Text>
         </Document>
         <Document ID="5B785A19-E688-47DB-85E1-AB50D7330B78">
             <Title>all together now!</Title>
@@ -574,13 +574,13 @@ A potential coda or afterword could build on the work of Robert Miles and others
         <Document ID="34D629F9-5ABB-4D0E-BA0B-CAC3C815A2B1">
             <Title>Appendices</Title>
         </Document>
-        <Document ID="9649A675-DB01-4216-9A7D-CDE2971C8F2D">
-            <Title>conclusion</Title>
-            <Text>The dissertation as a whole, then, looks at the same large body of texts (works printed in England 1789-99) through several different, but interconnected, lenses. Only some of these lenses have specific computational projects in mind already, but all of them ask questions at a scale where I know I will want at least a spreadsheet, and quite probably much more, in order to bring together the many pieces of information that I examine. I expect some works and lines of thought to re-emerge in multiple chapters as I clarify the connections between my central concepts.</Text>
-        </Document>
         <Document ID="CF06ED00-E717-425F-A20B-91F2A7AEBF32">
             <Title>winners need Gothic</Title>
             <Text>As Michael Gamer has illustrated, the “winners” of the game require, and are defined by, the “losers”. Romanticism gains it cultural capital by performatively rejecting the Gothic, and gains its monetary capital by slyly capitalizing on the Gothic.</Text>
+        </Document>
+        <Document ID="9649A675-DB01-4216-9A7D-CDE2971C8F2D">
+            <Title>conclusion</Title>
+            <Text>The dissertation as a whole, then, looks at the same large body of texts (works printed in England 1789-99) through several different, but interconnected, lenses. Only some of these lenses have specific computational projects in mind already, but all of them ask questions at a scale where I know I will want at least a spreadsheet, and quite probably much more, in order to bring together the many pieces of information that I examine. I expect some works and lines of thought to re-emerge in multiple chapters as I clarify the connections between my central concepts.</Text>
         </Document>
         <Document ID="1DA298B6-DE66-45F4-BC80-AC2DE3C0575A">
             <Title>speed-read in bulk?</Title>
@@ -1109,13 +1109,24 @@ One part is bursting open all their self-indulgent mythmaking</Text>
         <Document ID="82C52752-C654-493D-8A47-AC5786AC809F">
             <Title>to add</Title>
             <Text>I cite these but haven’t read them:
-Cairo, Alberto. How Charts Lie. 2019. Print.
-Cairo, Alberto. “Infographics to Explain, Data Visualizations to Explore.” The Functional Art Alberto Cairo’s Weblog on Visualization, Infographics, and Data Journalism. N.p., 16 Mar. 2014. Print.
-Cairo, Alberto. The Truthful Art: Data, Charts, and Maps for Communication. San Francisco: New Riders, 2016. Print.
-Facundo, A C. Oscillations of Literary Theory: the Paranoid Imperative and Queer Reparative. 2016. Print.
-Jockers, Matthew. Macroanalysis.
-Latour, Bruno. Reassembling the Social: an Introduction to Actor-Network-Theory. Oxford UP, 2005. Print.
-Noble, Safiya. Algorithms of Oppression. NYU Press, 2018. Print.</Text>
+Cairo, Alberto. How Charts Lie. Forthoming 2019.
+Cairo, Alberto. The Truthful Art: Data, Charts, and Maps for Communication. New Riders, 2016.
+Facundo, A C. Oscillations of Literary Theory: the Paranoid Imperative and Queer Reparative. 2016.
+Latour, Bruno. Reassembling the Social: an Introduction to Actor-Network-Theory. Oxford UP, 2005.
+
+
+From fields:
+Siemens, Ray, et al.	online! New Companion to Digital Humanities (at Kelly too)
+Garside, Peter and Karen O’Brien	Oxford History of Novel in English: English and British Fiction 1750-1820 (print only, at Kelly too)
+Underwood, Ted	Why Literary Periods Mattered: Historical Contrast and Prestige of Literary Studies (print only, at UTM too)
+Brewer, David	 Counting, Resonance, and Form, Speculative Manifesto 
+Fischer-Starcke, Bettina	Corpus Linguistics in Literary Analysis: Jane Austen and Her Contemporaries (print only, at UTM too)
+Miles, Robert	Romantic Misfits (print only, Robarts only)
+St. Clair, William	Reading Nation in Romantic Period (print only, at Kelly, Pratt, and Trinity/Graham libraries too) — also read 'Following up Reading Nation' in Cambridge History of Book in Britain, Volume VI, 1830–1914 
+Sedgwick, Eve	 Paranoid Reading and Reparative Reading 
+Gamer, Michael	Romanticism and Gothic: Genre, Reception, and Canon Formation
+Cohen, Margaret	Sentimental Education of Novel (print only, at Pratt)
+Clery, E.J.	Rise of Supernatural Fiction</Text>
         </Document>
         <Document ID="D27E714B-1B7C-4D64-BC4D-9D45F7AE7BA4">
             <Title>guidelines</Title>
@@ -1770,22 +1781,19 @@ Methods
 There are so many of them and they look at first glance so similar
 They reveal that our canonical authors aren’t inherently exceptional</Text>
         </Document>
-        <Document ID="C2A7144F-1BDC-41F3-8161-BF11DD69B62D">
-            <Title>DH flaws</Title>
-            <Text>
-
-</Text>
+        <Document ID="DCCE3828-10BB-4B66-89A6-CB7B5B3E2ED6">
+            <Title>ch 5 - close reading</Title>
+            <Text>Chapter five returns to the small scale of close-reading and my four authors. Looking again at their publications, and contextualized by my findings about the decade as a whole, I analyze each author’s place within the eighteenth century print marketplace. I explore their posthumous reception. And, finally, I present my own reading of how to remember, study, and teach their 1790s works.</Text>
         </Document>
         <Document ID="9C774422-B4F6-42BD-919B-43D06D69BB87">
             <Title>want comfort from lit</Title>
             <Text>I want literature that provides context and comfort and a way out, and I think 18thC readers often wanted these things too.</Text>
         </Document>
+        <Document ID="C2A7144F-1BDC-41F3-8161-BF11DD69B62D">
+            <Title>DH flaws</Title>
+        </Document>
         <Document ID="AB331E24-B3EA-4F44-985D-3FBF4886330C">
             <Title>DH vocabulary</Title>
-        </Document>
-        <Document ID="DCCE3828-10BB-4B66-89A6-CB7B5B3E2ED6">
-            <Title>ch 5 - close reading</Title>
-            <Text>Chapter five returns to the small scale of close-reading and my four authors. Looking again at their publications, and contextualized by my findings about the decade as a whole, I analyze each author’s place within the eighteenth century print marketplace. I explore their posthumous reception. And, finally, I present my own reading of how to remember, study, and teach their 1790s works.</Text>
         </Document>
         <Document ID="50879682-85D1-4621-890C-97F863252EDE">
             <Title>pursue: Austen looms over all of this...</Title>
@@ -1916,6 +1924,16 @@ Throughout this history of struggling with More’s conservatism, More has been 
             <Title>Ch 1: Introduction</Title>
             <Synopsis>An Introductory Chapter – Tell the reader the problem you are tackling in this project. – State clearly how you aim to deal with this problem. – Limit the scope of your study. – Sketch out how the thesis is structured to achieve your aim.</Synopsis>
         </Document>
+        <Document ID="B2221EFD-30F8-4545-8D8F-C3E985E04D29">
+            <Title>18thC reviewers</Title>
+            <Text>“A novel, if at all useful, ought to be a representation of human life and manners, with a view to directing the conduct in the important duties of life, and to correct its follies. But what instruction is to be reaped from the distorted ideas of lunatics, I am at a loss to conceive . . . Are the duties of life so changed, that all the instruction necessary for a young person is to learn to walk at night upon the battlements of an old castle, to creep hands and feet along a narrow passage, and meet the devil at the end of it?” (footnote 23 in Gamer, qtd 55)
+
+“Romances are a dangerous recreation. A few, no doubt, of the best may be friendly to good taste and good morals; but far the greater part are unskilfully written, and tend to corrupt the heart, and stimulate the passions. A habit of reading them breeds a dislike to history, and all the substantial parts of knowledge; withdraws the attention from nature, and truth; and fills the mind with extravagant thoughts, and too often with criminal propensities.” (James Beattie, Dissertations Moral and Critical, 574) (qtd in Gamer 56)
+
+“History and fable have distinct merits, the one to inform us of past events, and the other to inforce wholesome principles by fictitious machinery, and to illustrate them: the latter is indeed often wantonly employed by men of strong imaginations, for no better purpose than to furnish amusement for the leisure of the indolent who read to fill up time. While these species of composition are kept distinct, they answer their respective purposes: but to blend them together, is to poison the sources of information to young readers; who, after feasting on history embellished with these meretricious ornaments, will not easily relish the dry details of truth: such writers, therefore, as they do not address themselves to mature understandings, are not to be considered as candidates for mature praise.” (qtd in Gamer 61)
+
+“[T]he tale is indeed a tale of horror, yet the most painful impression which the work left on our minds was that of great acquirements and splendid genius employed to furnish a mormo for children, a poison for youth, and a provoca- tive for the debauchee. Tales of enchantments and witchcraft can never be useful: our author has contrived to make them pernicious, by blending, with an irreverent negligence, all that is most awfully true in religion with all that is most ridiculously absurd in superstition.94” (qtd Gamer 77)</Text>
+        </Document>
         <Document ID="3D84D0B9-DFC2-47DF-9331-2363C37D1CE1">
             <Title>Guillory para</Title>
             <Text>John Guillory contends that the “canon debate” taking place during his moment of writing in 1993 “signifies nothing less than a crisis in the form of cultural capital we call ‘literature’” \cite{Guillory:1993ve p.viii}; as both he and I argue, the roots of this crisis lie two hundred years earlier, in the eighteenth century formation of a vernacular (rather than classical) literary canon, and in the 1790s “first crisis” (\cite{Guillory:1993ve p.xi} of that canon. Guillory turns particularly to Wordsworth and Coleridge, and the strategies by which they confer a high status on their own work by undermining the cultural capital of other forms.
@@ -1985,15 +2003,15 @@ While  Robinson’s  biography  has  produced  interpretations  of  her  as  cel
         <Document ID="D983AC00-809B-4877-B8F4-6CB0A4ECAAFE">
             <Title>Experimental methods</Title>
         </Document>
-        <Document ID="0B716EE4-D2F8-445B-BE0E-D6D9590A8B6E">
-            <Title>what's in Corvey?</Title>
+        <Document ID="2BA5B34F-74AA-4015-8349-92AC55274DFB">
+            <Title>Appendices</Title>
         </Document>
         <Document ID="C7BD0DB3-5C7A-4C71-840D-FDBA3F8363D3">
             <Title>surface /= reparative</Title>
             <Comments>talk to Dana Seitler about this</Comments>
         </Document>
-        <Document ID="2BA5B34F-74AA-4015-8349-92AC55274DFB">
-            <Title>Appendices</Title>
+        <Document ID="0B716EE4-D2F8-445B-BE0E-D6D9590A8B6E">
+            <Title>what's in Corvey?</Title>
         </Document>
         <Document ID="9F148578-4C06-4A31-9742-52B2CAB56556">
             <Title>Wordsworth Heart-Leap Well</Title>
@@ -2124,7 +2142,8 @@ I follow the work of scholars like T.L. Cowan and Jasmine Rault in understanding
             <Text>In contrast to the brevity of Radcliffe’s bibliography and biography stands the mountain of secondary writing on her works. At her death in 1823, despite the twenty-six years since her last publication, an outpouring of obituaries marked her as an esteemed literary genius. Much of this praise followed the template so famously set out in Walter Scott’s ‘Prefatory Memoir to Mrs Ann Radcliffe’ in the tenth volume of James Ballantyne’s Novelist’s Library series. [EXPLAIN SCOTT’S WHOLE DEAL — “he nonetheless takes care to defend the unquestionable genius of Ann Radcliffe on at least three accounts: her presiding over ‘a separate and distinct species of writing’ (Scott 1824: xx); her ability to sustain her readers’ interest and attention across three major novels … / … and her exploration of extreme human passions in appropriately southern European settings” (Townshend and Wright 5-6)]
 
 In 2014, Ann Radcliffe, Romanticism and the Gothic edited by Dale Townshend, Angela Wright commemorated 250 years since Radcliffe’s birth. “Once-dominant psychoanalytic and feminist interpretations have given way to critical work drawing on political and religious history, print culture studies, theories of media and remediation, and new formalism” (Carson 127).
-[BASICALLY, JUST ASSUME I HAVE PUT A WHOLE LIT REVIEW ON ANN RADCLIFFE HERE: she’s been consistently praised, often in ways that establish the worthlessness of works similar to her; a ‘token’ who justifies the exclusion of women or feminine writing. A valuable and informative contrast to Smith, Robinson, and More.]</Text>
+[BASICALLY, JUST ASSUME I HAVE PUT A WHOLE LIT REVIEW ON ANN RADCLIFFE HERE: she’s been consistently praised, often in ways that establish the worthlessness of works similar to her; a ‘token’ who justifies the exclusion of women or feminine writing. A valuable and informative contrast to Smith, Robinson, and More.]
+[People often talk about Radcliffe being very directly responsive to reviews of her works in periodicals, changing the aspects that they critiqued most strongly, so she ultimately produces Gothics that reviewers are willing to accept on their own moral terms — and therefore Gothics which subsequent generation are willing to accept/praise?]</Text>
             <Comments>We misapprehend Smith, More, and Robinson because we expect something more like Radcliffe?</Comments>
         </Document>
         <Document ID="A23C503F-EB3E-4910-945E-4F1B6DFF4E6C">
@@ -2268,6 +2287,9 @@ Alyssa Fowers:
 	Yeha
 	I’m rounding up slightly because I don’t think you could have 12.5 women</Text>
         </Document>
+        <Document ID="C615040B-0292-4475-B54C-1F7B8122A311">
+            <Title>distant reading</Title>
+        </Document>
         <Document ID="8538D277-5042-4D03-98DE-EBBE7BC23578">
             <Title>intro - archive formation</Title>
             <Text>My first chapter establishes the vocabulary and theoretical frameworks of the dissertation, with an explanation of why I have chosen to focus on my decade.
@@ -2278,18 +2300,6 @@ The years 1789-99 make an eleven-year “decade” delimited by the major events
 18thC and Romanticism introduce the idea of canons becoming thematized; collecting shakespeare, milton, english vernacular tradition posited against a classical past. ALSO: POLITICS. Also the Gothic. Also women, including political women. 
 The introduction will also address who my scholarly interlocutors are in treating the 1790s as its own small literary period.
 (How do I define my geographical area? England, or “Britain”? I could just focus on London; even if I try not to, I suspect actually nearly everything will end up being from London.) </Text>
-        </Document>
-        <Document ID="10B97E54-E9B3-40B5-AC4A-22F418511E6A">
-            <Title>possible chapters</Title>
-            <Text>My reading has allowed me to develop more specific hypotheses regarding potential chapters. 
-
-are all my chapters going to be “compare two authors and how they use one genre”?
-are my other chapters “Ann Radcliffe, Charlotte Smith, and the gothic novel” and “Mary Robinson, Samuel Taylor Coleridge, and the periodical poem”?
-if so, is three chapters enough?? cuz I only have three chapters worth of ideas in that format (though I could add people who wrote plays!!)
-and/or do I think I’ll come up with other ideas in that format?
-or are my chapters more different from each other? like, maybe I write about More &amp; Wordsworth, and all the ballad stuff goes into a different chapter that’s just about “okay but most of what people were reading was fun stuff like songs and ghost stories”
-and that’s the one where I talk about my emerging theory of timeliness
-or is timeliness not a chapter, but in fact the overarching theme of the whole diss?</Text>
         </Document>
         <Document ID="09FD869A-0D86-4A23-8CCA-224042D1E53A">
             <Title>Documentation</Title>
@@ -2344,14 +2354,23 @@ p.385: there is a widespread feeling among these potential contributors to the f
 p.385: I have a proposal that can help bridge this gap without placing further commitments on ESTC staff. I believe the editors should consider allowing editorial access to the file to a few outside volunteers already trained in ESTC conventions. These volunteers would receive and assess new findings from the bibliographical community, and where appropriate incorporate them into ESTC.
 p.386: To maintain its authority, its editors need to accept fully ESTC’s responsibilities as a definitive bibliographical resource. They can do so by reaffirming a basic commitment to accuracy, by allowing users to view all the information they need to use the file wisely, and by opening a wider door to those who have drawn benefits from ESTC, and who now bear benefits in return.</Text>
         </Document>
+        <Document ID="10B97E54-E9B3-40B5-AC4A-22F418511E6A">
+            <Title>possible chapters</Title>
+            <Text>My reading has allowed me to develop more specific hypotheses regarding potential chapters. 
+
+are all my chapters going to be “compare two authors and how they use one genre”?
+are my other chapters “Ann Radcliffe, Charlotte Smith, and the gothic novel” and “Mary Robinson, Samuel Taylor Coleridge, and the periodical poem”?
+if so, is three chapters enough?? cuz I only have three chapters worth of ideas in that format (though I could add people who wrote plays!!)
+and/or do I think I’ll come up with other ideas in that format?
+or are my chapters more different from each other? like, maybe I write about More &amp; Wordsworth, and all the ballad stuff goes into a different chapter that’s just about “okay but most of what people were reading was fun stuff like songs and ghost stories”
+and that’s the one where I talk about my emerging theory of timeliness
+or is timeliness not a chapter, but in fact the overarching theme of the whole diss?</Text>
+        </Document>
         <Document ID="D992A4AB-F758-410C-8BFF-7AF1495501D8">
             <Title>archives</Title>
             <Text>The 1790s in Digital Archives: A Meta-Analysis of Holdings
 A major concern regarding digital humanities research is the ability of findings to be “representative.” There is broad understanding that digital archives contain gaps, but little specific knowledge of the nature of those gaps. My project is analogous to a scientific meta-analysis, comparing several major digital collections. I consider all works published in Britain between 1789 and 1799 across six digital archives. The collections examined are heterogeneous, ranging from 51,965 bibliographic entries in the English Short Title Catalogue to 466 XML files created by the Eighteenth Century Collections Online Text Creation Partnership. I use a range of approaches, including topic modelling, to identify what kinds of literature each corpus emphasizes, and what omissions and errors scholars must be aware of. By comparing the holdings and metadata of these collections, this paper lays groundwork for future scholars to work with digital corpora in a nuanced, selective way.
 Lawrence Evalyn, Ph.D. Candidate at the University of Toronto. (lawrence.evalyn@mail.utoronto.ca)</Text>
-        </Document>
-        <Document ID="C615040B-0292-4475-B54C-1F7B8122A311">
-            <Title>distant reading</Title>
         </Document>
         <Document ID="C7957BDA-5857-4E26-BC3E-9CEB3A1D96B7">
             <Title>OpenRefine</Title>
@@ -2453,8 +2472,9 @@ Eve Kosofsky Sedgwick’s often-quoted assertion that “[t]he Gothic novel crys
         </Document>
         <Document ID="5992D20E-0033-407B-97DD-4AE32F27DAA0">
             <Title>1790s canon debate</Title>
-            <Text>The problem of evaluating literature is not a new or a simple one. In the eighteenth century, the debate took the form of urgently needing to distinguish ‘trash’ from ‘treasure’. Michael Gamer, in Romanticism and the Gothic: Genre, Reception, and Canon Formation, highlights the role of the eighteenth-century reviewer as a crucial mediator between the writers and readers of books. Reviewers sought to dictate the social assessment of individual literary works in order to enforce morality for society at large. [They say so themselves in their reviews all the time—I’ll quote a juicy representative one.] Importantly, Gamer also argues that the critics’ objections [don’t change audience behaviour (they continue to buy lots of Gothic stuff), and are a rote performance. The actual goal of the ‘conversation’ is to delineate/affirm high cultural capital of serious literature, not to reduce or change the ‘low’]. Gamer is only concerned with the gothic and romanticism, but the overall regulatory function of literary reviewers as moral arbiters— and the irrelevance of their judgments to some audiences— applies to all forms of writing in the period. For example, George Taylor sees the same dynamic in the theatre. In The French Revolution and the London Stage, he argues that, “Critics might make sharp comparisons” between the many kinds of entertainments that were staged, “but little of the programme was dismissed [by audiences] as ‘trash', or ‘immoral', or irrelevant ‘fancy’” (3). Taylor sees the repetitive discourse of eighteenth century literary critics as proof of a larger social divide: “Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict” (3). [Gamer and Taylor both suggest that moral judgment of literature by its critics was driven by social friction, rather than by the aesthetic judgment provided as the terms of the debate.] The emerging idea of the public sphere in the eighteenth century brought with it an urgent task of literary assessment.</Text>
-            <Comments>Do I have to cite Habermas? What do I have to say about Habermas?</Comments>
+            <Text>The problem of evaluating literature is not a new or a simple one. In the eighteenth century, the debate took the form of urgently needing to distinguish ‘trash’ from ‘treasure’. Michael Gamer, in Romanticism and the Gothic: Genre, Reception, and Canon Formation, highlights the role of the eighteenth-century reviewer as a crucial mediator between the writers and readers of books. Reviewers sought to dictate the social assessment of individual literary works in order to enforce morality for society at large. [They basically say so themselves in their reviews—I’ll quote a juicy representative one.] Importantly, although the assessments take the form of reviews of individual works, Gamer also argues that the critics’ objections are in fact “a regulatory discourse – carried out under the fiction of paternalistic advice to a given gothic writer, but functioning as an implicit threat to other readers and writers” that affiliation with the gothic comes with “cultural costs” (42). The gothic stands in as a proxy for any kind of “popular” reading that takes place “in the absence of formal education and training” (57), so a denunciation of a gothic work becomes a reaffirmation of class-based literary hierarchies. In other words, these reviews create and affirm the cultural capital of a category of ‘serious’ literature. Gamer is only concerned with the gothic and romanticism, but the overall regulatory function of literary reviewers as moral arbiters— and the stock conventionality of their objections, which do not affect the actual production or consumption of the works attacked— applies to most forms of writing in the period. For example, George Taylor sees the same dynamic in the theatre. In The French Revolution and the London Stage, he argues that, “[c]ritics might make sharp comparisons” between the many kinds of entertainments that were staged, “but little of the programme was dismissed [by audiences] as ‘trash', or ‘immoral', or irrelevant ‘fancy’” (3). Taylor sees the repetitive discourse of eighteenth century literary critics as proof of a larger social divide: “Disagreement as to what is trash and what is treasure suggests cultural crisis, when values are put under question by social stress or political conflict” (3). Gamer and Taylor both suggest that moral judgment of literature by its critics was driven by social friction, rather than by the aesthetic distinctions which they claimed as their motivation.</Text>
+            <Comments>The emerging idea of the public sphere (cf Habermas) in the eighteenth century brought with it an urgent task of literary assessment. — this is true but maybe I don’t have to say it! and then I don’t have to waste time talking about Habermas
+The really clever bit of Gamer’s argument is that he then unpacks how Romantics, especially Wordsworth, use just enough Gothic material to sell their books while also repeating these conventional attacks on the Gothic — they get to have their cake and eat it too, pursuing both financial and cultural capital. But I don’t think that’s relevant here.</Comments>
         </Document>
         <Document ID="CF8A0F24-A3FA-48CE-8B23-A3FBFDF68355">
             <Title>Ch 1</Title>
@@ -2869,96 +2889,110 @@ and the previous items in the controversy (Blayney article, Farmer and Lesser ar
 	11.	Bode, Katherine. “The Equivalence of ‘Close’ and ‘Distant’ Reading; Or, Toward a New Object for Data-Rich Literary History.” Modern Language Quarterly, volume 78, number 1, 2017, pp. 77–106. [DOI or other permanent link??]
 	12.	Bruhm, Steven. “The Gothic Novel and the Negotiation of Homophobia.” The Cambridge History of Gay and Lesbian Literature, edited by E.L. McCallum and Mikko Tuhkanen, Cambridge UP, 2014, pp. 272-87.
 	13.	Buurma, Rachel Sagner, and Laura Heffernan. “Search and Replace: Josephine Miles and the Origins of Distant Reading.” Modernism / Modernity Print+, 2 March 2016, modernismmodernity.org/forums/posts/search-and-replace. Accessed 18 April 2018.
-	14.	Carson, James. Review of Ann Radcliffe, Romanticism and the Gothic, edited by Dale Townshend and Angela Wright. Eighteenth-Century Studies, vol. 48, no. 1, 2014, pp. 127-129.
-	15.	Champion, Erik. “Digital humanities is text heavy, visualization light, and simulation poor.” Digital Scholarship in the Humanities, vol. 32, supplement to issue 1, April 2017, pp. 25–32, doi:10.1093/llc/fqw053.
-	16.	Chun, Wendy Hui Kyong. “Queerying Homophily.” Pattern Discrimination, by Clemens Apprich, Wendy Hui Kyong Chun, Florian Cramer, and Hito Steyerl, meon press and U Minnesota P, 2018, pp. 59-97, doi:10.14619/1457. In Search Of Media series, edited by Götz Bachman, Timon Beyes, Mercedes Bunz, and Wendy Hui Kyong Chun.
-	17.	Civale, Susan. “Women’s life writing and reputation: A case study of Mary Darby Robinson.” Romanticism, vol. 24, no. 2, 2018, pp. 181-202.
-	18.	Clery, E.J. The Rise of Supernatural Fiction 1762-1800. Cambridge UP, 1995.
-	19.	Cronin, Richard. The Politics of Romantic Poetry: In Search of the Pure Commonwealth. Palgrave Macmillan, 2000.
-	20.	Cross, Ashley. “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt.” Studies in Romanticism, vol. 40, no. 4, 2001, pp. 571–605, doi:10.2307/25601532.
-	21.	—. Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784–1821. Routledge, 2016.
-	22.	Cohen, Margaret. The Sentimental Education of the Novel. Princeton UP, 1999.
-	23.	Crump, M. J. “Short Title Catalogue On-Line.” Information Development, vol. 2, no. 2, April 1986, pp. 105-107, doi:10.1177/026666698600200208. 
-	24.	Curran, Stuart. “Charlotte Smith: Intertextualities.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 175-188.
-	25.	Dawkins, Richard. “Memes: the new replicators.” 1976. The Selfish Gene, Oxford UP, 1989, pp. 189-201.
-	26.	Dayal, Samir. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. MELUS, volume 21, number 2, June 1996, pp. 165–168, doi:10.2307/467957.
-	27.	Drucker, Johanna. Graphesis: Visual Forms of Knowledge Production. Harvard UP, 2014.
-	28.	—. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, vol. 5, no. 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
-	29.	Duckling, Louise. “‘Tell My Name to Distant Ages’: The Literary Fate of Charlotte Smith.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 203-217.
-	30.	“ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, www.textcreationpartnership.org/tcp-ecco. Accessed 20 June 2019.
-	31.	Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
-	32.	Farmer, Alan B., and Zachary Lesser. “Structures of Popularity in the Early Modern Book Trade.” Shakespeare Quarterly, vol. 56, no. 2, 2005, pp. 206–213. JSTOR, www.jstor.org/stable/3844307.
-	33.	—. “The Popularity of Playbooks Revisited.” Shakespeare Quarterly, vol. 56, no. 1, 2005, pp. 1–32. JSTOR, www.jstor.org/stable/3844024.
-	34.	Felski, Rita. “Everyday Aesthetics.” the minnesota review, volume 71-72, 2009, pp. 171-179.
-	35.	—. The Limits of Critique. U Chicago P, 2015.
-	36.	Fischer-Starcke, Bettina. Corpus Linguistics in Literary Analysis: Jane Austen and Her Contemporaries. Continuum, 2010
-	37.	Forster, Chris. “A Walk Through the Metadata: Gender in the HathiTrust Dataset.” 8 Sept. 2015, cforster.com/2015/09/gender-in-hathitrust-dataset. Accessed 3 Sept. 2019.
-	38.	Fowers, Alyssa. “Profiling protest data (or, what I did on my summer vacation).” Data and Dragons, 10 Sept 2019, dataanddragons.wordpress.com/2019/09/10/profiling-protests-or-what-i-did-on-my-summer-vacation. Accessed 10 Sept 2019.
-	39.	Frow, John. Genre. Routledge, 2015.
-	40.	Fry, Carrol L. Charlotte Smith. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
-	41.	Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge UP, 2000.
-	42.	Gamer, Michael, and Terry F. Robinson. “Mary Robinson and the Dramatic Art of the Comeback.” Studies in Romanticism, vol. 48, no. 2, 2009, pp. 219–56. JSTOR, www.jstor.org/stable/25602191.
-	43.	Garnai, Amy. Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald. Palgrave Macmillan, 2009.
-	44.	Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
-	45.	Garside, Peter, James Raven, and Rainer Schöwerling, editors. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, Oxford UP, 2000. 2 vols.
-	46.	—. General Introduction. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
-	47.	Goldie, Mark and Robert Wokler, editors. The Cambridge history of eighteenth-century political thought. Cambridge UP, 2006.
-	48.	Gorak, Jan. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Philology, volume 94, number 2, Nov 1996, pp. 286-290. JSTOR, www.jstor.org/stable/437977.
-	49.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
-	50.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U of Chicago P, 1993.
-	51.	HathiTrust. “Getting Content Into HathiTrust.” HathiTrust, web.archive.org/web/20190915204356/https://www.hathitrust.org/ingest. Accessed 15 Sept 2019.
-	52.	—. “Member Community.” HathiTrust, web.archive.org/web/20190915204844/https://www.hathitrust.org/community. Accessed 15 Sept 2019.
-	53.	—. “Our Digital Library.” HathiTrust, web.archive.org/web/20190915204611/https://www.hathitrust.org/digital_library. Accessed 15 Sept 2019.
-	54.	—. “Our Membership.” HathiTrust, web.archive.org/web/20190915204720/https://www.hathitrust.org/partnership. Accessed 15 Sept 2019.
-	55.	Hunt, Bishop C. “Wordsworth and Charlotte Smith.” The Wordsworth Circle, vol. 1, no. 3, 1970, pp. 85. ProQuest, ProQuest Document ID 1300171026.
-	56.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
-	57.	Klein, Lauren. “Distant Reading After Moretti.” Arcade: Literature, the Humanities, &amp; the World, 2018, web.archive.org/save/https://arcade.stanford.edu/blogs/distant-reading-after-moretti. Accessed 19 September 2019.
-	58.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, vol. 12, no. 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
-	59.	Labbe, Jacqueline. “Introduction.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 1-11.
-	60.	—. “Selling One's Sorrows: Charlotte Smith, Mary Robinson, and the Marketing of Poetry.” The Wordsworth Circle, vol. 25, no. 2, 1994, pp. 68-71. ProQuest, ProQuest Document ID 1300173031.
-	61.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, vol. 25, no. 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
-	62.	Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History, volume 41, issue 2, 2010, pp. 371–391.
-	63.	—. “Close Reading and Thin Description.” Public Culture, volume 25, number 3 (71), pp. 401-434, doi:10.1215/08992363-2144688.
-	64.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
-	65.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
-	66.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
-	67.	McLaverty, James. “Poems in Print.” The Oxford Handbook of British Poetry, 1660-1800, edited by Jack Lynch. Oxford UP, 2016, pp. 40-54, doi:10.1093/oxfordhb/9780199600809.013.3. Oxford Handbooks Online.
-	68.	McLeod, Deborah Anne. The Minerva Press. PhD dissertation, U of Alberta, 1997, doi:10.7939/R33J39C22.
-	69.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, vol. 7, no. 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
-	70.	Mee, John. Print, Publicity, and Popular Radicalism in the 1790s: The Laurel of Liberty. Cambridge UP, 2016.
-	71.	Moretti, Franco. “Conjectures on World Literature.” New Left Review, volume 1, issue 1, 2000, pp. 54 - 67.
-	72.	—. Distant Reading. Verso, 2013.
-	73.	Murphy, Peter. Poetry as an occupation and an art in Britain, 1760-1830. Cambridge UP, 1993.
-	74.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
-	75.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
-	76.	O’Dair, Sharon. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. South Atlantic Review, volume 59, number 2, May 1994, pp. 130-132. JSTOR, www.jstor.org/stable/3200802.
-	77.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
-	78.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
-	79.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
-	80.	Punter, David. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Non-Standard Englishes and the New Media, special issue of The Yearbook of English Studies, volume 25, 1995, pp. 229-230. JSTOR, www.jstor.org/stable/3508832.
-	81.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
-	82.	Readings, Bill. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Language Quarterly, volume 55, number 3, Sept 1994, pp. 321-326, doi:10.1215/00267929-55-3-321.
-	83.	@RealSaavedra (Ryan Saavedra). “Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist.” Twitter, 22 Jan. 2019, 3:27 AM, web.archive.org/save/https://twitter.com/realsaavedra/status/1087627739861897216?lang=en.
-	84.	Reinert, Thomas. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Fiction Studies, volume 42, number 1, 1996, pp. 221-224. ProQuest, ProQuest Document ID 2152910014.
-	85.	Rigby, Mair. “Uncanny recognition: Queer theory's debt to the Gothic.” Gothic Studies, vol. 11, no. 1, 2009, pp. 46-57.
-	86.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
-	87.	Rogers, Deborah D. Ann Radcliffe: A Bio-Bibliography. Bio-Bibliographies in World Literature, number 4. Greenwood Press, 1996.
-	88.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
-	89.	Seaver, Nick. “Bastard Algebra.” Data, Now Bigger and Better!, edited by Tom Boellstorff and Bill Maurer. Prickly Paradigm, 2015.
-	90.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
-	91.	Shirky, Clay. “Why Abundance is Good: A Reply to Nick Carr.” Encyclopædia Britannica Blog, 17 July 2008, blogs.britannica.com/2008/07/why-abundance-is-good-a-reply-to-nick-carr. Accessed 10 Sept 2019.
-	92.	Stanton, Judith Phillips. “Recovering Charlotte Smith’s Letters: A History, With Lessons.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 159-173.
-	93.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
-	94.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
-	95.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381.
-	96.	Taylor, George. The French Revolution and the London Stage, 1789–1805. Cambridge UP, 2001.
-	97.	Townshend, Dale and Angela Wright. “Gothic and Romantic engagements: The critical reception of Ann Radcliffe, 1789–1850.” Ann Radcliffe, Romanticism and the Gothic, Cambridge University Press, 2014.
-	98.	Tufte, Edward. The Visual Display of Quantitative Information. 2nd ed. Graphics Press, 2001.
-	99.	Underwood, Ted. “A Genealogy of Distant Reading.” Digital Humanities Quarterly, volume 11, issue 2, 2017, www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html.
-	100.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, vol. 21, 2001, pp. 263-282.
-	101.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
-	102.	Zimmerman, Sarah M. "Smith [née Turner], Charlotte (1749–1806), poet and novelist." Oxford Dictionary of National Biography, Oxford University Press, 4 Oct. 2007, doi: 10.1093/ref:odnb/25790. Accessed 13 July 2019.
-	103.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
+	14.	Cairo, Alberto. “Infographics to Explain, Data Visualizations to Explore.” The Functional Art, 16 March 2014, web.archive.org/web/20190923005330/http://www.thefunctionalart.com/2014/03/infographics-to-reveal-visualizations.html. Accessed 22 September 2019.
+	15.	Carson, James. Review of Ann Radcliffe, Romanticism and the Gothic, edited by Dale Townshend and Angela Wright. Eighteenth-Century Studies, vol. 48, no. 1, 2014, pp. 127-129.
+	16.	Champion, Erik. “Digital humanities is text heavy, visualization light, and simulation poor.” Digital Scholarship in the Humanities, vol. 32, supplement to issue 1, April 2017, pp. 25–32, doi:10.1093/llc/fqw053.
+	17.	Chun, Wendy Hui Kyong. “Queerying Homophily.” Pattern Discrimination, by Clemens Apprich, Wendy Hui Kyong Chun, Florian Cramer, and Hito Steyerl, meon press and U Minnesota P, 2018, pp. 59-97, doi:10.14619/1457. In Search Of Media series, edited by Götz Bachman, Timon Beyes, Mercedes Bunz, and Wendy Hui Kyong Chun.
+	18.	Civale, Susan. “Women’s life writing and reputation: A case study of Mary Darby Robinson.” Romanticism, vol. 24, no. 2, 2018, pp. 181-202.
+	19.	Clery, E.J. The Rise of Supernatural Fiction 1762-1800. Cambridge UP, 1995.
+	20.	Cronin, Richard. The Politics of Romantic Poetry: In Search of the Pure Commonwealth. Palgrave Macmillan, 2000.
+	21.	Cross, Ashley. “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt.” Studies in Romanticism, vol. 40, no. 4, 2001, pp. 571–605, doi:10.2307/25601532.
+	22.	—. Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784–1821. Routledge, 2016.
+	23.	Cohen, Margaret. The Sentimental Education of the Novel. Princeton UP, 1999.
+	24.	Crump, M. J. “Short Title Catalogue On-Line.” Information Development, vol. 2, no. 2, April 1986, pp. 105-107, doi:10.1177/026666698600200208. 
+	25.	Curran, Stuart. “Charlotte Smith: Intertextualities.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 175-188.
+	26.	Dawkins, Richard. “Memes: the new replicators.” 1976. The Selfish Gene, Oxford UP, 1989, pp. 189-201.
+	27.	Dayal, Samir. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. MELUS, volume 21, number 2, June 1996, pp. 165–168, doi:10.2307/467957.
+	28.	Drucker, Johanna. Graphesis: Visual Forms of Knowledge Production. Harvard UP, 2014.
+	29.	—. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, vol. 5, no. 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+	30.	Duckling, Louise. “‘Tell My Name to Distant Ages’: The Literary Fate of Charlotte Smith.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 203-217.
+	31.	“ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, www.textcreationpartnership.org/tcp-ecco. Accessed 20 June 2019.
+	32.	Emre, Merve. “Public Thinker: Leah Price on Books, Book Tech, and Book Tattoos.” Interview with Leah Price. Public Books, 26 Sept 2019, web.archive.org/web/20190928023628/https://www.publicbooks.org/public-thinker-leah-price-on-books-book-tech-and-book-tattoos. Accessed 27 Sept 2019.
+	33.	Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
+	34.	Farmer, Alan B., and Zachary Lesser. “Structures of Popularity in the Early Modern Book Trade.” Shakespeare Quarterly, vol. 56, no. 2, 2005, pp. 206–213. JSTOR, www.jstor.org/stable/3844307.
+	35.	—. “The Popularity of Playbooks Revisited.” Shakespeare Quarterly, vol. 56, no. 1, 2005, pp. 1–32. JSTOR, www.jstor.org/stable/3844024.
+	36.	Felski, Rita. “Everyday Aesthetics.” the minnesota review, volume 71-72, 2009, pp. 171-179.
+	37.	—. The Limits of Critique. U Chicago P, 2015.
+	38.	Fischer-Starcke, Bettina. Corpus Linguistics in Literary Analysis: Jane Austen and Her Contemporaries. Continuum, 2010
+	39.	Forster, Chris. “A Walk Through the Metadata: Gender in the HathiTrust Dataset.” 8 Sept. 2015, cforster.com/2015/09/gender-in-hathitrust-dataset. Accessed 3 Sept. 2019.
+	40.	Fowers, Alyssa. “Profiling protest data (or, what I did on my summer vacation).” Data and Dragons, 10 Sept 2019, dataanddragons.wordpress.com/2019/09/10/profiling-protests-or-what-i-did-on-my-summer-vacation. Accessed 10 Sept 2019.
+	41.	Frank, Marcie. “Melodrama and the Politics of Literary Form in Elizabeth Inchbald’s Works.” Eighteenth-Century Fiction, volume 27, number 3-4, Spring-Summer 2015, pp. 707-730.
+	42.	Freedgood, Elaine. “Reading Things.” The Ideas in Things: Fugitive Meaning in the Victorian Novel, U Chicago P, 2006.
+	43.	Frow, John. Genre. Routledge, 2015.
+	44.	Fry, Carrol L. Charlotte Smith. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
+	45.	Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge UP, 2000.
+	46.	Gamer, Michael, and Terry F. Robinson. “Mary Robinson and the Dramatic Art of the Comeback.” Studies in Romanticism, vol. 48, no. 2, 2009, pp. 219–56. JSTOR, www.jstor.org/stable/25602191.
+	47.	Garnai, Amy. Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald. Palgrave Macmillan, 2009.
+	48.	Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
+	49.	Garside, Peter, James Raven, and Rainer Schöwerling, editors. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, Oxford UP, 2000. 2 vols.
+	50.	—. General Introduction. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
+	51.	Gavin, Michael. “Historical Text Networks: The Sociology of Early English Criticism.” Eighteenth-Century Studies, volume 50, number 1, 2016, pp. 53-80.
+	52.	Goldie, Mark and Robert Wokler, editors. The Cambridge history of eighteenth-century political thought. Cambridge UP, 2006.
+	53.	Gorak, Jan. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Philology, volume 94, number 2, Nov 1996, pp. 286-290. JSTOR, www.jstor.org/stable/437977.
+	54.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
+	55.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U of Chicago P, 1993.
+	56.	Hammond, Adam. Literature in the Digital Age: An Introduction. Cambridge UP, 2016.
+	57.	HathiTrust. “Getting Content Into HathiTrust.” HathiTrust, web.archive.org/web/20190915204356/https://www.hathitrust.org/ingest. Accessed 15 Sept 2019.
+	58.	—. “Member Community.” HathiTrust, web.archive.org/web/20190915204844/https://www.hathitrust.org/community. Accessed 15 Sept 2019.
+	59.	—. “Our Digital Library.” HathiTrust, web.archive.org/web/20190915204611/https://www.hathitrust.org/digital_library. Accessed 15 Sept 2019.
+	60.	—. “Our Membership.” HathiTrust, web.archive.org/web/20190915204720/https://www.hathitrust.org/partnership. Accessed 15 Sept 2019.
+	61.	Heisel, Andrew. “Hannah More’s Art of Reduction.” Eighteenth-Century Fiction, volume 25, number 3, Spring 2013, pp. 557-588.
+	62.	Hunt, Bishop C. “Wordsworth and Charlotte Smith.” The Wordsworth Circle, vol. 1, no. 3, 1970, pp. 85. ProQuest, ProQuest Document ID 1300171026.
+	63.	Jockers, Matthew. Macroanalysis: Digital Methods and Literary History. U Illinois P, 2013.
+	64.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
+	65.	Klein, Lauren. “Distant Reading After Moretti.” Arcade: Literature, the Humanities, &amp; the World, 2018, web.archive.org/save/https://arcade.stanford.edu/blogs/distant-reading-after-moretti. Accessed 19 September 2019.
+	66.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, vol. 12, no. 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
+	67.	Labbe, Jacqueline. “Introduction.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 1-11.
+	68.	—. “Selling One's Sorrows: Charlotte Smith, Mary Robinson, and the Marketing of Poetry.” The Wordsworth Circle, vol. 25, no. 2, 1994, pp. 68-71. ProQuest, ProQuest Document ID 1300173031.
+	69.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, vol. 25, no. 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
+	70.	Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History, volume 41, issue 2, 2010, pp. 371–391.
+	71.	—. “Close Reading and Thin Description.” Public Culture, volume 25, number 3 (71), pp. 401-434, doi:10.1215/08992363-2144688.
+	72.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
+	73.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
+	74.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
+	75.	McLaverty, James. “Poems in Print.” The Oxford Handbook of British Poetry, 1660-1800, edited by Jack Lynch. Oxford UP, 2016, pp. 40-54, doi:10.1093/oxfordhb/9780199600809.013.3. Oxford Handbooks Online.
+	76.	McLeod, Deborah Anne. The Minerva Press. PhD dissertation, U of Alberta, 1997, doi:10.7939/R33J39C22.
+	77.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, vol. 7, no. 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
+	78.	Mee, John. Print, Publicity, and Popular Radicalism in the 1790s: The Laurel of Liberty. Cambridge UP, 2016.
+	79.	Moretti, Franco. The Bourgeois: Between History and Literature. Verso, 2013.
+	80.	—. “Conjectures on World Literature.” New Left Review, volume 1, issue 1, 2000, pp. 54 - 67.
+	81.	—. Distant Reading. Verso, 2013.
+	82.	Murphy, Peter. Poetry as an occupation and an art in Britain, 1760-1830. Cambridge UP, 1993.
+	83.	Noble, Safiya. Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press, 2018.
+	84.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
+	85.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
+	86.	O’Dair, Sharon. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. South Atlantic Review, volume 59, number 2, May 1994, pp. 130-132. JSTOR, www.jstor.org/stable/3200802.
+	87.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
+	88.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
+	89.	Price, Leah. The Anthology and the Rise of the Novel: From Richardson to George Eliot. Cambridge UP, 2000, doi:10.1017/CBO9780511484445.
+	90.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
+	91.	Punter, David. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Non-Standard Englishes and the New Media, special issue of The Yearbook of English Studies, volume 25, 1995, pp. 229-230. JSTOR, www.jstor.org/stable/3508832.
+	92.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
+	93.	Readings, Bill. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Language Quarterly, volume 55, number 3, Sept 1994, pp. 321-326, doi:10.1215/00267929-55-3-321.
+	94.	@RealSaavedra (Ryan Saavedra). “Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist.” Twitter, 22 Jan. 2019, 3:27 AM, web.archive.org/save/https://twitter.com/realsaavedra/status/1087627739861897216?lang=en.
+	95.	Reinert, Thomas. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Fiction Studies, volume 42, number 1, 1996, pp. 221-224. ProQuest, ProQuest Document ID 2152910014.
+	96.	Rigby, Mair. “Uncanny recognition: Queer theory's debt to the Gothic.” Gothic Studies, vol. 11, no. 1, 2009, pp. 46-57.
+	97.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
+	98.	Rogers, Deborah D. Ann Radcliffe: A Bio-Bibliography. Bio-Bibliographies in World Literature, number 4. Greenwood Press, 1996.
+	99.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
+	100.	Sandvoss, Cornel. “The Death of the Reader: Literary Theory and the Study of Texts in Popular Culture.” Fandom: Identities and Communities in a Mediated World, edited by Jonathan Gray, C. Sandvoss, and C. Lee Harrington. NYU Press.
+	101.	Seaver, Nick. “Bastard Algebra.” Data, Now Bigger and Better!, edited by Tom Boellstorff and Bill Maurer. Prickly Paradigm, 2015.
+	102.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
+	103.	Shirky, Clay. “Why Abundance is Good: A Reply to Nick Carr.” Encyclopædia Britannica Blog, 17 July 2008, blogs.britannica.com/2008/07/why-abundance-is-good-a-reply-to-nick-carr. Accessed 10 Sept 2019.
+	104.	Stanton, Judith Phillips. “Recovering Charlotte Smith’s Letters: A History, With Lessons.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 159-173.
+	105.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
+	106.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
+	107.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381.
+	108.	Taylor, George. The French Revolution and the London Stage, 1789–1805. Cambridge UP, 2001.
+	109.	Townshend, Dale and Angela Wright. “Gothic and Romantic engagements: The critical reception of Ann Radcliffe, 1789–1850.” Ann Radcliffe, Romanticism and the Gothic, Cambridge University Press, 2014.
+	110.	Tufte, Edward. The Visual Display of Quantitative Information. 2nd ed. Graphics Press, 2001.
+	111.	Underwood, Ted. “A Genealogy of Distant Reading.” Digital Humanities Quarterly, volume 11, issue 2, 2017, www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html.
+	112.	—. Why Literary Periods Mattered: Historical Contrast and the Prestige of Literary Studies. Stanford UP, 2013.
+	113.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, vol. 21, 2001, pp. 263-282.
+	114.	Walker, William. “Aroused Yet Thoughtful: Readers in Eighteenth-Century Britain.” Review of Excitable Imaginations: Eroticism and Reading in Britain, 1660-1760, by Kathleen Lubey. Eighteenth Century Life, volume 39, number 2, April 2015, pp. 87-91.
+	115.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
+	116.	Zimmerman, Sarah M. "Smith [née Turner], Charlotte (1749–1806), poet and novelist." Oxford Dictionary of National Biography, Oxford University Press, 4 Oct. 2007, doi: 10.1093/ref:odnb/25790. Accessed 13 July 2019.
+	117.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
             <Comments>they style it all lowercase
 they style it all lowercase
 “the text of a talk delivered at the 2018 MLA Annual Convention for a panel, “Varieties of Digital Humanities,” organized by Alison Booth and Miriam Posner. Marisa Parham, Alan Liu, and Ted Underwood were the other speakers. (Howard Ramsby was also scheduled to present, but he was unable to attend because of the blizzard.)”</Comments>
@@ -3015,18 +3049,18 @@ A bit Ted Underwood?
         <Document ID="7BEB9A64-7F05-4D49-8E20-4C32E7C7B475">
             <Title>nitpicks</Title>
         </Document>
+        <Document ID="C459A359-0823-4FAE-93AB-55587CD20A5A">
+            <Title>title page</Title>
+            <Text>Print Politics in the Digital Archive, 1789-99
+Canonical Corpora of English Literature, 1789-99
+</Text>
+        </Document>
         <Document ID="3D7472FE-7132-4461-87D1-5149CA70817C">
             <Title>intro</Title>
             <Text>I wish to produce a comprehensive account of the strategies of feeling employed by writers and readers in England in the face of the French apocalypse. I care about disreputable texts. I think I can do this by paying attention to works’ timeliness with exhaustive detail of particularity. As one way to apply the lessons learned from 18thC readings, I want to enact a reparative digital humanities.
 I’m interested in strategies of feeling as an ethical concern which lives on today with discussions of reparative reading, and I’m interested in textual timeliness as subject matter that can shed light on the individuality of text’s strategies of feelings through bibliographical and computational research.
 My thinking has led me to a methodology, a subject matter, and a philosophical/emotional stance.
 The literature itself offers strategies for emotional self-management, which readers must practice/enact by responding appropriately to the text. I want to identify these strategies, while resisting broad myths of chronological change.</Text>
-        </Document>
-        <Document ID="C459A359-0823-4FAE-93AB-55587CD20A5A">
-            <Title>title page</Title>
-            <Text>Print Politics in the Digital Archive, 1789-99
-Canonical Corpora of English Literature, 1789-99
-</Text>
         </Document>
         <Document ID="E33C175D-697E-428B-8FDB-1F2D4C61ADBE">
             <Title>Felski: I want to avoid critique</Title>
@@ -3525,6 +3559,10 @@ Though, you are in the end attempting to impose some kind of order</Text>
             <Title>Plotto: just because you can, doesn't mean you should</Title>
             <Text>“I wrote a lot of code to generate stories from the 1928 writer’s manual ‘Plotto,’ and then I looked at the data and decided that just because I could, it wasn’t a good idea. I’m not releasing that dataset and code.” \cite{Cherny:2018vy}</Text>
         </Document>
+        <Document ID="16239910-87B6-4039-9D31-003158C0B8DF">
+            <Title>homophily</Title>
+            <Text>Wendy Chun suggests that the problem with much algorithmic inquiry lies in its most core assumption: the insistence that the future must look like the past \cite{Chun:2018tq}. This assumption is essential to any system which exclusively bases its predictions on past data. It is particularly intertwined with what Chun calls “homophily,” “the axiom that similarity breeds connection—which grounds contemporary network science” \cite{Chun:2018tq p.60}. Homophily, as it is currently applied to network science, Chun argues, both “assumes and creates segregation” \cite{Chun:2018tq p.76} in a fashion that allows it to operate “like money laundering for bias” \cite{Chun:2018tq pp.62-63}. Importantly, however, the analogy to money laundering is imperfect: it cannot be resolved with “better, cleaner data” \cite{Chun:2018tq p.64}. Instead, Chun insists, “new theories of connection—which do not presume a dangerously banal and reciprocal notion of friendship—are needed” \cite{Chun:2018tq p.89}, a call to action which places its emphasis not on the information provided to an algorithm but on the algorithm’s procedures.</Text>
+        </Document>
         <Document ID="568EAB46-1E78-476C-8B47-7DB50726DA4D">
             <Title>editions as proof of importance</Title>
             <Text>This provoked William Molyneux’s influential Case of Ireland (1698), which reached a tenth edition by 1782.
@@ -3542,10 +3580,6 @@ Motivated to trouble “post-Romantic ideals of individual authorship””
 “the field of attribution studies desperately needs critical metacognitive appraisals of its methods, its successes, and its failures. Kirwan’s assessment of and engagement with attribution studies ought to be cited for years to come”
 “Having proven the constructedness of “Canon” and “Apocrypha,” having demonstrated the viability of collaboratively created drama, and having questioned the use and availability of “certain” attributions, Kirwan performs his crowning disruption—to “redefine the meanings of both ‘Shakespeare’ and ‘complete’ in a bid to offer multiple configurations of canon” (205). Here and throughout, Kirwan affirms canons, not a Canon.”
 “Kirwan’s final chapter models alternative canon-writing practices as evidence of the potentiality of multivalent canons “to provide options instead of answers” dependent upon audiences’ critical participation”</Text>
-        </Document>
-        <Document ID="16239910-87B6-4039-9D31-003158C0B8DF">
-            <Title>homophily</Title>
-            <Text>Wendy Chun suggests that the problem with much algorithmic inquiry lies in its most core assumption: the insistence that the future must look like the past \cite{Chun:2018tq}. This assumption is essential to any system which exclusively bases its predictions on past data. It is particularly intertwined with what Chun calls “homophily,” “the axiom that similarity breeds connection—which grounds contemporary network science” \cite{Chun:2018tq p.60}. Homophily, as it is currently applied to network science, Chun argues, both “assumes and creates segregation” \cite{Chun:2018tq p.76} in a fashion that allows it to operate “like money laundering for bias” \cite{Chun:2018tq pp.62-63}. Importantly, however, the analogy to money laundering is imperfect: it cannot be resolved with “better, cleaner data” \cite{Chun:2018tq p.64}. Instead, Chun insists, “new theories of connection—which do not presume a dangerously banal and reciprocal notion of friendship—are needed” \cite{Chun:2018tq p.89}, a call to action which places its emphasis not on the information provided to an algorithm but on the algorithm’s procedures.</Text>
         </Document>
         <Document ID="D2CB4A01-2EF3-48E7-AB82-F97CFC4BBB13">
             <Title>STAR</Title>
@@ -3983,8 +4017,7 @@ Hammond weirdly unhelpful</Text>
             <Title>queer theory</Title>
         </Document>
         <Document ID="F83AC4CC-27C2-443B-9C4E-988AE1CF6FAB">
-            <Title>DH in the canon debate</Title>
-            <Text>Twenty years later, we are still debating the need for “literary criticism … to conceptualize a new disciplinary domain,” now in the context of computation. The reconceptualization of literary study itself is at the core of Franco Moretti’s coinage of ‘distant reading’: the problem for which “[r]eading ‘more’ seems hardly to be the solution” (55) is the problem of conceiving of world literature, rather than the “canonical fraction, which is not even one per cent of published literature” (55). His new methods are meant to enable literary studies to examine a new object. The field of distant reading has been moving away from Moretti himself. However, it is still shaped by the attempt to redefine the disciplinary domain of literary studies. In many cases, the new domain is no longer the “canon” but the “corpus,” a collection of texts which are studied en masse for macroanalytical insights. Katherine Bode, for example, in “The Equivalence of ‘Close’ and ‘Distant’ Reading,” argues that Moretti and Matthew Jockers replicate the approaches of New Criticism with their corpora, and calls for “a new scholarly object of analysis” (79) that directly examines historical and textual context of corpora as representations of “literary systems” (97). Lauren Klein, too, treats the textual corpus as the new object of literary analysis requiring curation, contextualization, and interpretation. Her critique argues that “it’s not a coincidence that distant reading does not deal well with gender, or with sexuality, or with race,” but also that these failings are not inevitable: “it’s not that distant reading can’t do this work,” she insists, “it’s that it’s yet to sufficiently do so” (n. pag.). Bode, too, despite her strong critique of distant reading as it has been practiced by Moretti and Jockers, does not blame distant reading itself. Distant-readers like Moretti and Jockers, she argues, “while claiming direct and objective access to ‘everything,’ … represent and explore only a very limited proportion of the literary system, and do so in an abstract and ahistorical way” (78). Klein, like Bode, calls for “more corpora—more accessible corpora—that perform the work of recovery or resistance” to allow research “beyond quote ‘representative’ samples, which tend to reproduce the same inequities of representation that affect our cultural record as a whole” (n. pag.). This framing re-creates, at the cite of the corpus, the identical narratives of exclusion and representation which were previously located in critiques of the canon.</Text>
+            <Text>Perhaps indicating that Guillory was correct, twenty years later, we are still debating the need for “literary criticism … to conceptualize a new disciplinary domain” (265), now in the context of computation. The reconceptualization of literary study itself is at the core of Franco Moretti’s coinage of ‘distant reading’: the problem for which “[r]eading ‘more’ seems hardly to be the solution” (55) is the problem of conceiving of world literature, rather than the “canonical fraction, which is not even one per cent of published literature” (55). His new methods are meant to enable literary studies to examine a new object. The field of distant reading has been moving away from Moretti himself. However, it is still shaped by the attempt to redefine the disciplinary domain of literary studies. In many cases, the new domain is no longer the “canon” but the “corpus,” a collection of texts which are studied en masse for macroanalytical insights. Katherine Bode, for example, in “The Equivalence of ‘Close’ and ‘Distant’ Reading,” argues that Moretti and Matthew Jockers replicate the approaches of New Criticism with their corpora, and calls for “a new scholarly object of analysis” (79) that directly examines historical and textual context of corpora as representations of “literary systems” (97). Lauren Klein, too, treats the textual corpus as the new object of literary analysis requiring curation, contextualization, and interpretation. Her critique argues that “it’s not a coincidence that distant reading does not deal well with gender, or with sexuality, or with race,” but also that these failings are not inevitable: “it’s not that distant reading can’t do this work,” she insists, “it’s that it’s yet to sufficiently do so” (n. pag.). Bode, too, despite her strong critique of distant reading as it has been practiced by Moretti and Jockers, does not blame distant reading itself. Distant-readers like Moretti and Jockers, she argues, “while claiming direct and objective access to ‘everything,’ … represent and explore only a very limited proportion of the literary system, and do so in an abstract and ahistorical way” (78). Klein, like Bode, calls for “more corpora—more accessible corpora—that perform the work of recovery or resistance” to allow research “beyond quote ‘representative’ samples, which tend to reproduce the same inequities of representation that affect our cultural record as a whole” (n. pag.). This framing re-creates, at the cite of the corpus, the identical narratives of exclusion and representation which were previously located in critiques of the canon.</Text>
         </Document>
         <Document ID="009098E7-6BA6-4BDF-BB6D-036CE8ED1B23">
             <Title>Tristram Shandy written over time</Title>
@@ -4182,15 +4215,15 @@ Why do we treat “the Grasmere Journal” as a distinct text with a title and c
             <Title>conclusion</Title>
             <Text>Although I have described these three ways of modeling the decade 1789-99 in sequence, I will research them in parallel, with an eye to the connections between them. I will look at how each of the three models represents the position of my case study authors among their peers. To interpret those findings, I will consider the construction of each model, to determine what each occludes and what it renders visible. My many disparate approaches will converge on my central question: what texts can be said to be “representative” of this decade? And what do they “represent”?</Text>
         </Document>
-        <Document ID="27F96EBE-76AE-49F0-9178-D9D7C5CB795C">
-            <Title>McCarty, Willard. “Knowing: Modeling in Literary Studies</Title>
-            <Text>McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web. 
-McCarty’s detailed consideration of models, which explores the implications of the maxim that “all models are wrong; some models are useful,” informs my understanding of the relationship between computational literary research and the mental modelling inherent to ‘analog’ literary research. </Text>
-        </Document>
         <Document ID="56C61C6E-AC8F-4B24-8515-27C2834149B0">
             <Title>Mee: print magic</Title>
             <Text>Rather than concerning themselves with distinctions between ‘good’ and ‘bad’ forms of writing or publication, Mee argues, “At certain points the societies seem to operate under the spell of ‘print magic’, that is, a faith that print could liberate mankind simply by bringing ideas into printed circulation” (24).</Text>
             <Comments>this is connected to paranoid reading - faith in exposure qua exposure - extractive logic</Comments>
+        </Document>
+        <Document ID="27F96EBE-76AE-49F0-9178-D9D7C5CB795C">
+            <Title>McCarty, Willard. “Knowing: Modeling in Literary Studies</Title>
+            <Text>McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web. 
+McCarty’s detailed consideration of models, which explores the implications of the maxim that “all models are wrong; some models are useful,” informs my understanding of the relationship between computational literary research and the mental modelling inherent to ‘analog’ literary research. </Text>
         </Document>
         <Document ID="D524A479-718B-4BB6-8D91-04A609BE45E1">
             <Title>monographs</Title>
@@ -4569,7 +4602,7 @@ I… think I reject the concept of ‘the literary’?
 “in fact 'aesthetic value' is nothing more or other than cultural capital." (332)
 
 I bring Guillory’s mode of analysis into the digital age by exploring how ‘access’ has continued to be, in altered form, the ‘logic’ of literary debates. DH’s utopian drive comes from the idea of universalizing access, providing the real change in material circumstances that Guillory says is needed. Our limitations come from the way that we limit access in different places, now.
-Bourdieu: “‘[T]o deny evaluative dichotomies is to pass a morality off for a politics. The dominated in the artistic and the intellectual fields have always practiced that form of radical chic which consists in rehabilitating socially inferior cultures of the minor genres of legitimate culture. ... To denounce hierarchy does not get us / anywhere. What must be changed are the conditions that make this hierarchy exist, both in reality and in minds. We must—I have never stopped repeating it—work to universalize in reality the conditions of access to what the present offers us that is most universal.’" (339-340)
+Bourdieu: “‘[T]o deny evaluative dichotomies is to pass a morality off for a politics. The dominated in the artistic and the intellectual fields have always practiced that form of radical chic which consists in rehabilitating socially inferior cultures of the minor genres of legitimate culture. ... To denounce hierarchy does not get us / anywhere. What must be changed are the conditions that make this hierarchy exist, both in reality and in minds. We must—I have never stopped repeating it—work to universalize in reality the conditions of access to what the present offers us that is most universal.’" (Qtd in Guillory 339-340)
 	⁃	"In a culture of such universal access, canonical works could not be experienced as they so often are, as lifeless monuments, or as proofs of class distinction. Insofar as the debate on the canon has tended to discredit aesthetic judgment, or to express a certain embarrassment with its metaphysical pretensions and its political biases, it has quite missed the point. The point is not to make judgment disappear but to reform the conditions of its practice. If there is no way out of the game of culture, then, even when cultural capital is the only kind of capital, there may be another kind of game, with less dire consequences for the losers, an aesthetic game. Socializing the means of production and consumption would be the condition of an aestheticism unbound, not its overcoming. But of course, this is only a thought experiment." (340)
 
 I agree with Guillory about the “crisis of the humanities”. DH promises to save the humanities by rescuing its market value, by aligning it with marketable technical skills. This might work but also I HATE it.
@@ -4889,6 +4922,15 @@ I will also look in more detail at some subsets of my 51,965 items. Taking cues 
             <Title>author case studies</Title>
             <Text>In a somewhat separate line of inquiry, I will explore in-depth the works of the individuals authors under consideration: how do they use each of the generic mediums available to them? How do they adapt their ideas to each form, and how do they conceive of each audience? </Text>
         </Document>
+        <Document ID="7CF4F700-464C-4B15-82C8-E3655C480F71">
+            <Text>In other words, Gamer and Taylor both affirm the key conclusion of John Guillory’s Cultural Capital: The Problem of Literary Canon Formation, that “in fact ‘aesthetic value’ is nothing more or other than cultural capital" (332). Guillory’s sociological history of literary canons is a well-established part of literary studies, which will take on new dimensions as I apply to to the current moment of digital corpora. In the eighteenth century, he argues, the cultural capital of vernacular English literature is defined by its use within the school system to enable and restrict social mobility. English vernacular literature first begins to accumulate cultural capital in middle-class schools where it is “a substitute for the study of Greek and Latin, but with the same object of producing a linguistic sign of social distinction” (97) that would allow readers to improve and signify their social standing. The public re-assessment of literature described by Gamer and Taylor is, for Guillory, “the first crisis in the status of the vernacular canon, the problem of assimilating new vernacular genres such as the novel” (xi), which seem in danger of affording too much social mobility by offering too little literary distinction for social elites. The ‘solution’ is institutionalization, in which “the school becomes the exclusive agent for the dissemination of High Canonical works,” and therefore, he argues, “the prestige of literary works as cultural capital is assessed according to the limit of their dissemination, their relative exclusivity” (133). Under this system, ‘serious’ literature may not be identifiable linguistically, but it can still be identifiable by the difficulty of accessing it. This history of canonization has important implications for the field of literary study. As Guillory himself insists, if the aesthetic value of a text is determined by the social operations of class, it undermines the notion of literature itself as a category of writing distinguishable in aesthetic terms from non-literary writing. Guillory’s book is motivated by the canon debates of the 1990s, which were driven by an urgent re-valuation of literature by women and people of colour. His response insists that it is untenable to conceive of the problem in terms of increasing the ‘representation’ of individual works or authors within existing systems. Instead, for Guillory problem lies in the institutionalization of literature itself. “If literary criticism is ever to conceptualize a new disciplinary domain,” he says, embedding his prescription in that “if,” “it will have to undertake first a much more thorough reflection on the historical category of literature; otherwise I suggest that new critical movements will continue to register their agendas symptomatically, by ritually overthrowing a continually resurgent literariness and literary canon” (265). In other words, assigning the cultural capital of “literature” to different works cannot change the underlying system.</Text>
+            <Comments>‘Too much’ and ‘too little’ are here, of course, defined from the point of those with cultural capital which they wish to maintain.
+Q for Gillespie: should I still research “the new formalist work to reclaim the literary qua the literary - and e.g. Steve Conner's - ‘nah’” ? What is useful/important to address in this work, given what I say here?
+Part of Guillory’s argument is that, although the rhetoric of the canon debates generally sought to re-value authors of any number of oppressed categories, often using the phrase “gender, race, and class” as a single unit, the work undertaken was in fact unable to address class, since class operates differently from gender and race.
+Do I need to say more about this? I feel like I’ve already spent a long time on Guillory.
+
+Bourdieu: “‘[T]o deny evaluative dichotomies is to pass a morality off for a politics. The dominated in the artistic and the intellectual fields have always practiced that form of radical chic which consists in rehabilitating socially inferior cultures of the minor genres of legitimate culture. ... To denounce hierarchy does not get us / anywhere. What must be changed are the conditions that make this hierarchy exist, both in reality and in minds. We must—I have never stopped repeating it—work to universalize in reality the conditions of access to what the present offers us that is most universal.’" (Qtd in Guillory 339-340)</Comments>
+        </Document>
         <Document ID="8B6486AF-3548-4CCA-8098-678C21D98610">
             <Title>Hannah More HATES DEBT</Title>
             <Text>Debt can even be a sin</Text>
@@ -4896,13 +4938,6 @@ I will also look in more detail at some subsets of my 51,965 items. Taking cues 
         <Document ID="6887ABEA-553A-4F22-A921-964C396BCB14">
             <Title>what do we teach? in what context?</Title>
             <Text>What texts should we teach to students? And how should we contextualize them?</Text>
-        </Document>
-        <Document ID="7CF4F700-464C-4B15-82C8-E3655C480F71">
-            <Title>current canon debate</Title>
-            <Text>John Guillory, in Cultural Capital, calls this eighteenth century public re-assessment of literature “the first crisis in the status of the vernacular canon, the problem of assimilating new vernacular genres such as the novel” (xi), linking the idea of emerging genres and cultural crisis to the contemporary framework of canon formation. The notion of ‘cultural capital,’ as formulated by Pierre Bourdieu and applied to the history of literature by Guillory, [unites my take on 18thC lit and contemporary DH archives]. Guillory argues that “in fact ‘aesthetic value’ is nothing more or other than cultural capital” (332), [which means that the renegotiation of definitions of ‘literature’ over time have not been driven by real differences between different kinds of writing, but have instead been fundamentally social and class-based.] In the eighteenth century, for example, the cultural capital of vernacular English literature is defined by its use within the school system to enable and restrict social mobility. English vernacular literature first begins to accumulate cultural capital, he argues, in middle-class schools where it is “a substitute for the study of Greek and Latin, but with the same object of producing a linguistic sign of social distinction” (97). [SUMMARIZE/REPHRASE QUOTE.] Once they have been institutionalized, and “the school becomes the exclusive agent for the dissemination of High Canonical works,” he argues, “the prestige of literary works as cultural capital is assessed according to the limit of their dissemination, their relative exclusivity” (133): [‘serious’ literature may not be identifiable linguistically, but it can still be identifiable by the difficulty of accessing it. That which is ‘popular’ is not ‘serious.’] As Guillory himself insists, this undermines the notion of literature itself as a category of writing distinguishable in aesthetic terms from non-literary writing. Guillory’s book is motivated by the canon debates of the 1990s, which [DID A THING]. His response insists that it is untenable to conceive of [the problem in terms of ‘representation’]. Instead, [the problem is with literature itself.] “If literary criticism is ever to conceptualize a new disciplinary domain,” he says, embedding his prescription in that “if,” “it will have to undertake first a much more thorough reflection on the historical category of literature; otherwise I suggest that new critical movements will continue to register their agendas symptomatically, by ritually overthrowing a continually resurgent literariness and literary canon” (265). [TRANSITION TO NEXT PARA]</Text>
-            <Comments>need to acknowledge that these are now pretty old basic ideas about literature, but still very useful to you as they are to others, even as your approach - corpora, history of the book - takes them in new directions
-“since the children of gentle- / men continue to be educated in the traditional classical languages, their 'useless’ knowledge comes to stand… as a pure sign of their noble status. Second, there is instilled in the 'middling' and commercial classes, as the upwardly mobile classes, a linguistic ambivalence which takes the form of suspicion toward the classical languages as useless knowledge, and envy of the social distinction they represent." (96-97)
-Q for Gillespie: should I still research “the new formalist work to reclaim the literary qua the literary - and e.g. Steve Conner's - ‘nah’” ? What is useful/important to address in this work, given what I say here?</Comments>
         </Document>
         <Document ID="DF0C6BD2-5122-4BDE-A592-6CAC7F4ACF36">
             <Title>bibliographers</Title>
@@ -5052,7 +5087,7 @@ Because politics occurs between individual people, not political parties, I argu
         </Document>
         <Document ID="4064FF80-93B6-4606-AF0B-459C9B7B4CF3">
             <Title>Sandvoss, C. "The death of the reader: literary theory and the study of texts in popular culture."</Title>
-            <Text>Sandvoss, C. (2007). The death of the reader: literary theory and the study of texts in popular culture. In Gray, J. A., Sandvoss, C., &amp; Harrington, C. L. (Eds.). Fandom: Identities and communities in a mediated world. NYU Press.
+            <Text>Sandvoss, Cornel. “The death of the reader: literary theory and the study of texts in popular culture.” Fandom: Identities and Communities in a Mediated World, edited by Jonathan Gray, C. Sandvoss, and C. Lee Harrington. NYU Press.
 
 "If we cannot locate aesthetic value of texts in themselves (…) yet do not want to abolish questions of value altogether, it needs to be located elsewhere. The author, pronounced dead in post-structuralism, and in any case conspicuously absent in most mass-mediated forms of textuality, has proven an unsuitable basis for textual interpretation and evaluation. However, if we can distinguish texts and meaning creation as radically as Jenkins’s (1992) distinction between exceptional texts and exceptional readings suggests, the reader appears to be a no-better indicator of the aesthetic value of texts, since exceptional readings would thus appear to be based upon form of audience activity quite independent of texts themselves. If we cannot locate aesthetic value in the author, text, or reader alone, it is in the process of interaction between these that aesthetic value is manifested."
 
@@ -5785,22 +5820,24 @@ Brydges and Barbauld anthologize/praise Smith as an artist in a mixed-gender fie
 More recent critical history: “In the early twentieth century, critical accounts focused on Smith’s contributions to the novel. In 1913, Saintsbury believed Smith was ‘something of a person in herself, but less of a figure in history, because she neither innovates nor does old things consummately.’ Even the first extensive study of Smith by Florence Hilbish, whilst highlighting many areas of innovation, arrived at the conclusion that she produced ‘little strikingly original’ material … the twentieth century was not yet ready to truly appreciate Charlotte Smith. This is evident in Ernest Bernbaum’s / indifferent review of Hilbish’s work, which concluded that ‘much time and care have been devoted to it; whether deservedly, is perhaps questionable.’
 The feminist movement of the 1960s and 1970s generated a surge of interest in women’s writing, predominantly focused on the novel. Simultaneously, a revived interest in the historical context of literature enabled Bishop Hunt to demonstrate the influence of Smith on Wordsworth in 1970, although Smith remained a minor poet. By the 1980s the situation was changing rapidly. Perhaps this is because, in many respects, the critical climate began to reflect the same cultural preoccupations of Smith’s own age: a fascination with recovering the poetry of the past, a market predisposed to female anthologies and biographies, and a feminist interest in the plight of the woman in history. Smith had maintained a place in the popular female histories and collections in the nineteenth century, and had begun to be taken seriously by the academy in the twentieth century. In the 1990s, however, Smith enjoyed a popularity matched only during her own lifetime, with three separate reprints of the Elegiac Sonnets appearing during that decade. With the scholarship of Stephen Curran, and the academic anthologies of Roger Lonsdale, Jennifer Breen, and Andrew Ashfield (amongst numerous others), Smith became established not only as a prominent figure in the revised female canon, but also as a central figure in Romanticism. This is most clearly exemplified in the recent appearance of Jacqueline Labbe’s monograph on Smith, which explores Smith’s work beyond the constraints of gender and establishes her as a major influence on Wordsworth. As our definitions of Romanticism have been radically redefined, Smith may have finally achieved the winning combination of popularity and posterity.” (Duckling 216-217)</Text>
         </Document>
-        <Document ID="FBD4A79E-69AD-4031-A58F-FAEF2B301766">
-            <Title>Hazlitt on Coleridge on fame</Title>
-        </Document>
         <Document ID="787F47FF-1F5B-4F92-8C64-03365CED44F5">
             <Title>Gamer, Michael</Title>
             <Text>“Privileging one kind of writing, however ‘‘invisibly,’’ means demoting others linked closely enough to it to be perceived as viable substitutes.” (Gamer 7)
 
 “Rather, then, than echoing Anne Williams’s argument that ‘‘ ‘Gothic’ and ‘Romantic’ are not two but one’’30 because of their shared poetics, I wish to focus upon the economic and ideological processes that have insured their lasting separation.” (Gamer 10)
 
-“As Jon Klancher has argued persuasively, reviewers and readers hardly constituted homogeneous, let alone mutually exclus- ive, groups.17 Yet the relevance of Jauss’s strata does not lie in the accuracy with which they represent actual British readers or reading habits, but rather in the uncanny resemblance those conceptual catego- ries bear to the similarly imprecise ideas that late-eighteenth-century British writers and reviewers held about the makeup of their own readership.18          This imprecise knowledge of fellow readers has been confirmed in recent scholarly research on literacy and reading habits at the end of the eighteenth century – research that has characterized British culture as experiencing exploding literacy rates accompanied by an increasingly bewildering and diverse collection of reading audiences.19 Few conser- vative prose writers in the s, for example, display an informed awareness of this new diversity of readership beyond making increasing- ly anxious calls to police the reading of women and adolescents and to contain the circulation of radical texts like The Rights of Man (). (32)
+“As Jon Klancher has argued persuasively, reviewers and readers hardly constituted homogeneous, let alone mutually exclusive, groups.17 Yet the relevance of Jauss’s strata does not lie in the accuracy with which they represent actual British readers or reading habits, but rather in the uncanny resemblance those conceptual catego- ries bear to the similarly imprecise ideas that late-eighteenth-century British writers and reviewers held about the makeup of their own readership.18          This imprecise knowledge of fellow readers has been confirmed in recent scholarly research on literacy and reading habits at the end of the eighteenth century – research that has characterized British culture as experiencing exploding literacy rates accompanied by an increasingly bewildering and diverse collection of reading audiences.19 Few conservative prose writers in the s, for example, display an informed awareness of this new diversity of readership beyond making increasingly anxious calls to police the reading of women and adolescents and to contain the circulation of radical texts like The Rights of Man (). (32)
 
-“Both Fergus’s and Kaufman’s findings concerning the readership of fiction suggest statistically about gothic readers what Austen’s Henry Tilney here embodies: that men ‘‘read nearly as many as women,’’ and that gothic fiction attracted educated and elite readers capable not only of understanding irony but also of treating their own reading experience with it. For Austen, as for Kaufman and Fergus, the actual gothic reader has little in common with the ‘‘young ladies and . . . luckless reviewers’’ assumed by the Monthly and other Reviews to be the only readers of gothic fiction. That Austen raises and explodes this assumption about the gender and level of education of gothic readers twice in the same passage provides us with some sense of the prevalence of the stereotype and degree of irritation it caused her. Looking to Northanger’s famous passage defending novels, furthermore, the perpetuators of such a stereotype are equally clear: ‘‘Let us leave it to the Reviewers to abuse such effusions of fancy at their leisure, and over every new novel to talk in threadbare strains of the trash with which the press now groans.’’38 		These ‘‘threadbare strains’’ of ‘‘abuse,’’ and the effects that they had on other writers in the period, require further investigation and theoreti- cal work. In writing prose fiction, Austen has little choice but to defend the novel against reviewers and to supplement their portrait of the naive female gothic reader (Catherine) with an older and more sophisticated counterpart (Henry). For a poet, dramatist, or learned editor, however, such a direct defense of – and association with – popular fiction is both unnecessary and, in the face of the repetitive vitriol and cliche ́s of eighteenth-century reviewing, undesirable. By the end of the eighteenth century, in fact, gothic reviewer–writer discourses have become so hyperbolic and so mechanistically conventional as to force us to re- examine their cultural function. Gothic writers and reviewers may ostentatiously speak to one another, but the utter sameness of their mutual addresses spurs us to ask for whom these authorial prefaces and critical reviews are intended, and where, if anywhere, communication exists in these discourses. Put another way, in discourses so predictable in their rhetoric and modes of address, why do gothic writers and reviewers write with so much energy?” (40)
+“Both Fergus’s and Kaufman’s findings concerning the readership of fiction suggest statistically about gothic readers what Austen’s Henry Tilney here embodies: that men ‘‘read nearly as many as women,’’ and that gothic fiction attracted educated and elite readers capable not only of understanding irony but also of treating their own reading experience with it. For Austen, as for Kaufman and Fergus, the actual gothic reader has little in common with the ‘‘young ladies and . . . luckless reviewers’’ assumed by the Monthly and other Reviews to be the only readers of gothic fiction. That Austen raises and explodes this assumption about the gender and level of education of gothic readers twice in the same passage provides us with some sense of the prevalence of the stereotype and degree of irritation it caused her. Looking to Northanger’s famous passage defending novels, furthermore, the perpetuators of such a stereotype are equally clear: ‘‘Let us leave it to the Reviewers to abuse such effusions of fancy at their leisure, and over every new novel to talk in threadbare strains of the trash with which the press now groans.’’38 		These ‘‘threadbare strains’’ of ‘‘abuse,’’ and the effects that they had on other writers in the period, require further investigation and theoretical work. In writing prose fiction, Austen has little choice but to defend the novel against reviewers and to supplement their portrait of the naive female gothic reader (Catherine) with an older and more sophisticated counterpart (Henry). For a poet, dramatist, or learned editor, however, such a direct defense of – and association with – popular fiction is both unnecessary and, in the face of the repetitive vitriol and cliche ́s of eighteenth-century reviewing, undesirable. By the end of the eighteenth century, in fact, gothic reviewer–writer discourses have become so hyperbolic and so mechanistically conventional as to force us to re-examine their cultural function. Gothic writers and reviewers may ostentatiously speak to one another, but the utter sameness of their mutual addresses spurs us to ask for whom these authorial prefaces and critical reviews are intended, and where, if anywhere, communication exists in these discourses. Put another way, in discourses so predictable in their rhetoric and modes of address, why do gothic writers and reviewers write with so much energy?” (40)
 
-“I wish to argue, however, that the ritualistic abuse of gothic writers by gothic reviewers involves more explicit acts of intimidation as well. Gothic reviewers most often attack individual gothic works, and gothic as a genre, not to remonstrate with gothic writers to write in other genres, but rather to make clear to other readers – and especially to other writers – the cultural costs of reading and writing gothic texts. However indirectly stated, this communication constitutes a palpable threat, and if gothic reviewers perform a specific kind of cultural work, it is to define and reiterate the risks of reading and writing gothic to those members of the British readership contemplating it. Looking back to the above-quoted review of The Castles of Athlin and Dunbayne, for example, gothic readers risk associating themselves with the ‘‘unformed mind[s]’’ of adolescents, with the ‘‘stupidity’’ of female ‘‘nonsense,’’ and with the vitiated tastes of readers for whom ‘‘wonders, and wonders only, can charm.’’ More seriously, gothic writers risk losing their cultural legit- imacy, social respectability, and standing as serious authors. I read gothic’s critical reception, therefore, as a regulatory discourse – carried out under the fiction of paternalistic advice to a given gothic writer, but functioning as an implicit threat to other readers and writers potentially attracted to the gothic.” (42)
+“I wish to argue, however, that the ritualistic abuse of gothic writers by gothic reviewers involves more explicit acts of intimidation as well. Gothic reviewers most often attack individual gothic works, and gothic as a genre, not to remonstrate with gothic writers to write in other genres, but rather to make clear to other readers – and especially to other writers – the cultural costs of reading and writing gothic texts. However indirectly stated, this communication constitutes a palpable threat, and if gothic reviewers perform a specific kind of cultural work, it is to define and reiterate the risks of reading and writing gothic to those members of the British readership contemplating it. Looking back to the above-quoted review of The Castles of Athlin and Dunbayne, for example, gothic readers risk associating themselves with the ‘‘unformed mind[s]’’ of adolescents, with the ‘‘stupidity’’ of female ‘‘nonsense,’’ and with the vitiated tastes of readers for whom ‘‘wonders, and wonders only, can charm.’’ More seriously, gothic writers risk losing their cultural legitimacy, social respectability, and standing as serious authors. I read gothic’s critical reception, therefore, as a regulatory discourse – carried out under the fiction of paternalistic advice to a given gothic writer, but functioning as an implicit threat to other readers and writers potentially attracted to the gothic.” (42)
 
-“At the end of the eighteenth century, gothic emerges next to, and comes to play a special role within, these larger debates about the utility and risks of reading in the absence of formal education and training. With Ian Duncan, Robert Miles, and Edward Jacobs, then, I read the emergence of gothic fiction between 1760 and 1790 as a response to the novel and as an attempt to align romance with the dignity of history and with the poetics of the medieval metrical romance and Shakespearean tragedy. ”(57)</Text>
+“At the end of the eighteenth century, gothic emerges next to, and comes to play a special role within, these larger debates about the utility and risks of reading in the absence of formal education and training. With Ian Duncan, Robert Miles, and Edward Jacobs, then, I read the emergence of gothic fiction between 1760 and 1790 as a response to the novel and as an attempt to align romance with the dignity of history and with the poetics of the medieval metrical romance and Shakespearean tragedy. ”(57)
+
+“romance’s reception provided a language for reviewers to criticize gothic’s other perceived transgressions against existing literary and social codes: among them the need to keep genres ‘‘pure,’’ disciplinary boundaries distinct, and ‘‘better books’’ in appropriate hands” (51)</Text>
+        </Document>
+        <Document ID="FBD4A79E-69AD-4031-A58F-FAEF2B301766">
+            <Title>Hazlitt on Coleridge on fame</Title>
         </Document>
         <Document ID="EC89BF35-7BC4-4C78-AE47-7D9C80477970">
             <Title>ch 2 - fame and legacy</Title>
@@ -5990,17 +6027,9 @@ find how much and what kinds of Arabic literature people were reading; read 1001
         </Document>
         <Document ID="09113555-F344-4041-97EF-B85FDCECDB80">
             <Title>computation reveals assumptions</Title>
-            <Text>Love’s articulation of this mode of is, partly, struggling with the task of describing something which does not yet fully exist. Her later article, “Close Reading and Thin Description,” provides a more precise articulation of the kind of close reading that she calls for, in which an “exhaustive, fine-grained attention to phenomena” (404) enables “taking up the position of the device; by turning oneself into a camera, one could—at least ideally—pay equal attention to every aspect of a scene that is available to the senses and record it faithfully” (407). Although Love is uninterested in “distant reading” as synonymous with Moretti (Love 411), this invocation of the mechanical implies, I argue, an obvious potential for computation. [MORE ABOUT THE MECHANICAL — the actual practice of computational research is a lot of laborious, intimate encoding.] Love says:
-Good descriptions are in a sense rich, but not because they truck with imponderables like human experience or human nature. They are close, but they are not deep; rather than adding anything “extra” to the description, they account for the real variety that is already there. (377)
-Computation does enable closeness without depth. As I discuss more fully in [FUTURE SECTION], a good computational model is unlikely to “truck with imponderables,” but it absolutely must “account for the real variety that is already there” or else one’s code will simply fail to run.
-
-if you are forced to manually encode assumptions into real code you have to confront them - if you do computation reflectively, you neither conquer your material nor claim an algorithmic grasp of objective truth. Can ask, “where is it that my system encountered resistance?”
-
-“Inspecting and hand-counting individual records has the advantage of allowing the bibliographer to make careful discriminations, even as it introduces a degree of subjectivity (to say nothing of human error) and, hence, guarantees the irreproducibility of exact results.” (Suarez 42)
-“sets of protocols for each of these categories were / developed and strictly adhered to” (Suarez 44-5)
-“the results of this study are repeatable, but not exactly so.” (Suarez 45)</Text>
-            <Comments>you need to be clearer than the word "mechanical" about how you get from "camera" to "computation" - is a computer like a camera, is it mechanical?
-this is so important - you need more of it, perhaps right from the start</Comments>
+            <Text>Love’s later article, “Close Reading and Thin Description,” provides a more precise articulation of the kind of close reading that she calls for, in which an “exhaustive, fine-grained attention to phenomena” (404) enables “taking up the position of the device; by turning oneself into a camera, one could—at least ideally—pay equal attention to every aspect of a scene that is available to the senses and record it faithfully” (407). Although Love is uninterested in “distant reading” as synonymous with Moretti (Love 411), this invocation of the mechanical implies, I argue, an obvious potential for computation. [SAY MORE ABOUT THE MECHANICAL — the actual practice of computational research is a lot of laborious, intimate encoding.] Love says:
+Good descriptions are in a sense rich, but not because they truck with imponderables like human experience or human nature. They are close, but they are not deep; rather than adding anything ‘extra’ to the description, they account for the real variety that is already there. (377)
+A computational model is unlikely to “truck with imponderables,” but it absolutely must “account for the real variety that is already there” or else the code will simply fail to run. If you are forced to manually encode your assumptions into a system, you are forced to confront what they are. Even deleting or ignoring information is still a way of “accounting for” it in the coding process: some part of the program will have to say, in effect, ‘if I get an input that doesn’t match what I expect, discard it.’ Choosing to ignore contradictory or difficult information carries the assumption that this information does not ‘count,’ or does not matter to the question at hand. The choice faced by scholars is how to address our encoded assumptions. It is possible to do computation reflectively, asking not “how can I make this work the way I want?” but “where do my assumptions encounter resistance?” Integrating this reflection into the research process can allow a scholar to neither conquer their material nor claim an algorithmic grasp of objective truth. </Text>
         </Document>
         <Document ID="E20DF5D0-6C71-4DD6-9889-C4436A74D5C9">
             <Title>Timothy Morton, _Shelley and the Revolution in Taste</Title>
@@ -6659,7 +6688,7 @@ She was paid £800 for The Italian.</Comments>
         </Document>
         <Document ID="A3F2902B-6E53-4284-8B8C-A4A33CD56D07">
             <Title>critical algorithm studies</Title>
-            <Text>What’s crucial, to use computational reading reparatively, is to use it reflectively. The desirable kinds of computation which I describe above will not happen inevitably. Here I draw upon the rich body of work emerging in critical algorithm studies, which examines (and attempts to reform) the human elements of computational algorithms. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms differ from “algorithms” implemented by humans. Computational algorithms have two key vulnerabilities: first, their operations are less easily scrutinized; second, their results are more easily trusted. The second vulnerability — the cultural aura of empirical trustworthiness which accrues to anything ‘computational’ — is another flavour of the same vulnerability that Drucker describes with ‘data’ generally. Because the human agents who designed and trained any given algorithm appear to be absent from its operation, the algorithm appears able to discover truth directly. This is how Daily Wire reporter Ryan Saavedra was able to tweet with disdain that “Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist” \cite{Saavedra:2019wr}: anything “driven by math,” he assumes, must be incapable of human fallibilities like racism. But as Safiya Noble shows extensively in Algorithms of Oppression, algorithms by default reproduce, and can easily exaggerate, the assumptions and biases of the culture in which they are made \cite{Noble:2018wo}. In other words, in a racist world, algorithms are racist — and sexist, and duplicative of all other systemic inequities.
+            <Text>What’s crucial, to use computational reading reparatively, is to use it reflectively. The desirable kinds of computation which I describe above will not happen inevitably. Here I draw upon the rich body of work emerging in critical algorithm studies, which examines (and attempts to reform) the human elements of computational algorithms. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms differ from “algorithms” implemented by humans. Computational algorithms have two key vulnerabilities: first, their operations are less easily scrutinized; second, their results are more easily trusted. The second vulnerability — the cultural aura of empirical trustworthiness which accrues to anything ‘computational’ — is another flavour of the same vulnerability that Drucker describes with ‘data’ generally. Because the human agents who designed and trained any given algorithm appear to be absent from its operation, the algorithm appears able to discover truth directly. This is how Daily Wire reporter Ryan Saavedra was able to tweet with disdain that “Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist” (@RealSaavedra): anything “driven by math,” he assumes, must be incapable of human fallibilities like racism. But as Safiya Noble shows extensively in Algorithms of Oppression, algorithms by default reproduce, and can easily exaggerate, the assumptions and biases of the culture in which they are made (CITE). In other words, in a racist world, algorithms are racist — and sexist, and duplicative of all other systemic inequities.
 </Text>
         </Document>
         <Document ID="3DDC75DB-1943-4883-9963-144D3BA42EEA">
@@ -7084,16 +7113,13 @@ Narrative fragmentation and suspense typical of the sentimental novel is also hu
         </Document>
         <Document ID="8EA8CA4A-96D9-442C-9132-843484F5034B">
             <Title>distant reading without Moretti</Title>
-            <Text>This is actually kind of how distant reading started? / There are histories of distant reading that lead to here]
-
- Distant reading is undergoing a shift away from its figurehead in Franco Moretti, who famously coined the original term \cite{Moretti:2000ul}. If we wish to think about distant reading without Moretti, Ted Underwood and Rachel Buurma both provide valuable histories. Ted Underwood’s “Genealogy of Distant Reading” presents a history of distant reading which is not for the most part centrally concerned with computers, and is therefore fundamentally distinct from concepts of “digital humanities” \cite{Underwood:2017uc}. In Underwood’s history, distant reading is “a tradition continuous with earlier forms of macroscopic literary history, distinguished only by an increasingly experimental method, organized by samples and hypotheses that get defined before conclusions are drawn” \cite{Underwood:2017uca p.29}. Underwood “tease[s] out the elided social-scientific genealogy behind distant reading” \cite{Underwood:2017uca p.39} to argue that the term “[d]istant reading was not coined to describe a radically new method. The first occurrence of the phrase, in [Franco Moretti’s] ‘Conjectures on World Literature,’ seems in fact to describe the familiar scholarly activity of aggregating and summarizing previous research” \cite{Underwood:2017uca p.9}.
+            <Text>[Trying to do good research like this is partly why] distant reading is undergoing a shift away from its figurehead in Franco Moretti, who famously coined the original term \cite{Moretti:2000ul}. If we wish to think about distant reading without Moretti, Ted Underwood and Rachel Buurma both provide valuable histories. Ted Underwood’s “Genealogy of Distant Reading” presents a history of distant reading which is not for the most part centrally concerned with computers, and is therefore fundamentally distinct from concepts of “digital humanities” \cite{Underwood:2017uc}. In Underwood’s history, distant reading is “a tradition continuous with earlier forms of macroscopic literary history, distinguished only by an increasingly experimental method, organized by samples and hypotheses that get defined before conclusions are drawn” \cite{Underwood:2017uca p.29}. Underwood “tease[s] out the elided social-scientific genealogy behind distant reading” \cite{Underwood:2017uca p.39} to argue that the term “[d]istant reading was not coined to describe a radically new method. The first occurrence of the phrase, in [Franco Moretti’s] ‘Conjectures on World Literature,’ seems in fact to describe the familiar scholarly activity of aggregating and summarizing previous research” \cite{Underwood:2017uca p.9}.
 Rachel Buurma’s history of Josephine Miles adds a specifically computational alternate geneaology for distant reading \cite{Buurma:2018wt}. Miles is proposed as an alternative not to Moretti, but to Roberto Busa, who is often credited with the first large-scale computational literary study. Miles’ history, briefly, is as follows:
 In the 1930s, as a graduate student at Berkeley, she completed her first distant reading project: an analysis of the adjectives favored by Romantic poets. In the 1940s, with the aid of a Guggenheim, she expanded this work into a large-scale study of the phrasal forms of the poetry of the 1640s, 1740s, and 1840s. In all of this distant reading work, Miles created her tabulations by hand, with pen and graph paper. She also directed possibly the first literary concordance to use machine methods. In the early 1950s, Miles became project director of an abandoned index-card-based Concordance to the Poetical Works of John Dryden. Partnering with the Electrical Engineering department at Berkeley, and contracting with their computer lab and its IBM tabulation machine, Miles used machine methods to complete the concordance. It was published in 1957, six years after she and several woman graduate students and woman punch-card operators began the work. It was thus begun around the time that Busa circulated early proof-of-concept drafts of his concordance to the complete works of St. Thomas Aquinas, and published 17 years before the first volumes of the 56-volume Index Thomasticus began to appear. \cite{Buurma:2018wt}
-Buurma brings Miles’ history to our attention not simply because Miles predates Busa, as a correction of a minor matter of fact. Rather, Buurma emphasizes, Miles’ origin story for computational literary study “can stand as an example of how we might write a history of literary scholarship that does not center originality and individual accomplishment” \cite{Buurma:2018wt}. Unlike Busa, Miles not only gave authorship to the (female) graduate students who carried out much of the labour of creating the concordances, she also thanked and credited the (female) punch card operators who encoded the resulting data. Moreover, when talking of Penny Gee, one of the female staff members of the computer lab, Miles praises her as “‘very smart and good’ and—most importantly—a true collaborator, as opposed to those ‘IBM people from San Jose’ … ‘I’ve never been able to connect with them,’ Miles explains, ‘though I did with Penny Gee. She really taught me’” \cite{Buurma:2018wt}. Of the positive qualities highlighted here, only one, “smart,” is traditionally valorized among literary critics: to be “good,” a “collaborator,” who can “connect” and “teach” — as I will discuss more fully in section 1.3 when I turn to Eve Sedgwick’s critique of paranoid reading, these qualities are often seen as incompatible with the singular authority of the figure of ‘the critic.’ Miles’ work, too, struggled to find appreciation “among literary critics who viewed her datasets as merely preparatory to the true work of evaluation” \cite{Buurma:2018wt}.</Text>
+Buurma brings Miles’ history to our attention not simply because Miles predates Busa, as a correction of a minor matter of fact. Rather, Buurma emphasizes, Miles’ origin story for computational literary study “can stand as an example of how we might write a history of literary scholarship that does not center originality and individual accomplishment” (n. pag.). Unlike Busa, Miles not only gave authorship to the (female) graduate students who carried out much of the labour of creating the concordances, she also thanked and credited the (female) punch card operators who encoded the resulting data. Moreover, when talking of Penny Gee, one of the female staff members of the computer lab, Miles praises her as “‘very smart and good’ and—most importantly—a true collaborator, as opposed to those ‘IBM people from San Jose’ … ‘I’ve never been able to connect with them,’ Miles explains, ‘though I did with Penny Gee. She really taught me’” (n. pag.). Of the positive qualities highlighted here, only one, “smart,” is traditionally valorized among literary critics: to be “good,” a “collaborator,” who can “connect” and “teach” — as I will discuss more fully in section 1.3 when I turn to Eve Sedgwick’s critique of paranoid reading, these qualities are often seen as incompatible with the singular authority of the figure of ‘the critic.’ Miles’ work, too, struggled to find appreciation “among literary critics who viewed her datasets as merely preparatory to the true work of evaluation” (n. pag.).</Text>
             <Comments>what is your position on this? You go on to Buurma who does connect distant reading to computation - and you suggest how you will draw on similar ideas about collaboeation etc - but this underwood bit dangles
 Indeed, Buurma notes, “There are good reasons, of course, that scholars and journalists like to begin with Busa: he was the first concordance-maker to automate all five stages of the process, in 1951,” and he intentionally foregrounded and publicized the innovative nature of his work. \cite{Buurma:2018wt}
-In the interest of preserving this history of citation, the students were Mary Jackman and Helen S. Agoa, credited on the cover of the published Dryden index. (Miles herself attached her name only to the preface.) From the computer lab staff, Miles particularly thanked Shirley Rice, Odette Carothers, and Penny Gee. 
-Moretti’s mode of distant reading, Klein argues, pursues both the [SOMETHING] of the critic and the [SOMETHING] of critique, but, as Miles and many scholars like her have demonstrated, these are not inherent to distant reading.</Comments>
+In the interest of preserving this history of citation, the students were Mary Jackman and Helen S. Agoa, credited on the cover of the published Dryden index. (Miles herself attached her name only to the preface.) From the computer lab staff, Miles particularly thanked Shirley Rice, Odette Carothers, and Penny Gee. </Comments>
         </Document>
         <Document ID="F25DE58D-A67F-42B9-8AB0-F14B8C3A31AC">
             <Title>Simon Bainbridge, who has tracked down the war poetry</Title>
