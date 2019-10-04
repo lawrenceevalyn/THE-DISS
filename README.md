@@ -43,6 +43,43 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## Oct 3, 2019
+
+### Notes from supervisory meeting
+
+edit end of chapter:
+* cut down the biography sections
+* can't know chapter structure until I have results
+* just state what my experiments will be
+    * how many, what percent men/women/unsigned, what "genres"
+    * but: unique titles isn't the right thing; print runs? reprnts? what?
+* the problem is that they don't sound like intellectual questions about the 18thC, or that they connect to reparative reading
+    * what are the limits of the generalizations that we make? in distant reading, and generally in scholarship. "X was popular because it had Y editions". I'm sketching the limits of these corpora -- they are no less unlimited than previous methods. It's shaping the field.
+    * write out methods in much more detail
+    * why this question? why do I think this question is going to be illuminated by or enable me to engage with 18thC, reparative, DH
+    * I've picked these women because they've had long histories of struggling to know what to do with them, based on difficulties with seriousness, popularity, women's writing. How do they look different if we look at them a different way? -- say this at the beginning
+    * but how am I going to do this? first, I will do some coding. This will lay the groundwork. author, genre, quantity.
+    * "where another scholar would spend a year going to an archive, what I'm going to do is clean my data and the ask a bunch of questions about my data. When I've finished, I will shape my results into chapters."
+    * pretend each chapter will be about an author: asking each question about each author. How accessing Smith through each corpus change what we think of Smith?
+    
+The write-up is going to be different from the writeup of a normal PhD: a normal PhD is working out an argument through rhetoric. This will be more like a science PhD which only takes 3 months to write. Here's method, here's results, here's interpretation.
+Not trying to make it with the rhetorical framework already put together: I want to SEE.
+
+(what new tech is for: confirm what we think we know, find the things we couldn't find before, and then the curiosity piece -- the completely unexpected)
+
+Outline: framework, 1 2 3; before bios, talk about the basic goal (I've picked these women because they've had long histories of struggling to know what to do with them, based on difficulties with seriousness, popularity, women's writing. How do they look different if we look at them a different way?) -- the landscape has completely fundamentally changed. Even those who don't think they're doing DH research are, because all our resources are shaped by algorithms and databses now. Now I'll introduce my chapters by introducing my lady authors. Who are they, and what are the contentious pieces? Why have I chosen them? Tighten it (less bio) and make it more directed at the basic question. Final section, how am I actually going to go about this work? An analog scholar would proceed X ways, but I'm going to ask these questions about quantity and classification. Distant reading.
+
+
+English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), HathiTrust, Google Books, and Project Gutenberg. -- two groups of three corpora
+
+To write:
+* seque section about ladies
+* final methods section
+    * brief account of the two groups of three corpora
+    
+go 1, 5, 3, 2+4, 6 from current chapters
+add elevator pitch of 50000 > 500 to first paragraph
+
 ## June 24
 
 I think one thing Guillory is helping me think about is the practicalities of reforming systemic literary inequities. In chapter one he distinguishes the canon from the curriculum in a way that I actually find extremely freeing and invigorating -- the practical realities of the curriculum are real, and curricula always have to change, so I can embrace the work of revising my own curricula and syllabi as a sepearate project from Whatever It Is that I am going to try to do with canons. Like: I don't have to address the fact that "not everything can be canonical but there are no good reasons to invalidate a work" in order to solve the practical problems of the curriculum.
