@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-10-23 00:37:34 -0400" ModID="D989913E-FD79-4E11-A51F-448D13D2229B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-10-24 15:05:26 -0400" ModID="10975B75-D837-4F78-8C8E-DF1A95F80702">
     <Binder>
         <BinderItem UUID="EDAB35FA-5F1D-44DF-963D-171D341E5E8C" Type="Text" Created="2019-09-21 13:32:52 -0400" Modified="2019-09-21 13:35:03 -0400">
             <Title>Front Matter</Title>
@@ -36,35 +36,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>191,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem UUID="F0520FE2-AC73-42A0-8362-38D3B5C29D26" Type="Text" Created="2019-10-01 15:16:21 -0400" Modified="2019-10-01 15:16:22 -0400">
-            <Title>DH2020</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Children>
-                <BinderItem UUID="5E041274-4611-40CF-9E9F-5EE285933E91" Type="Text" Created="2019-10-01 15:16:29 -0400" Modified="2019-10-22 23:49:58 -0400">
-                    <Title>150wd summary</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>858,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="C51E9872-74CE-4E03-913B-CDEA8C0C8709" Type="Text" Created="2019-10-01 15:24:07 -0400" Modified="2019-10-23 00:37:34 -0400">
-                    <Title>abstract</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2976,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -245,14 +216,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="9A0227DC-8652-4900-A357-7931908D4D5D" Type="Text" Created="2019-02-10 01:38:45 -0500" Modified="2019-10-05 02:21:32 -0400">
+                        <BinderItem UUID="9A0227DC-8652-4900-A357-7931908D4D5D" Type="Text" Created="2019-02-10 01:38:45 -0500" Modified="2019-10-24 15:03:47 -0400">
                             <Title>1790s intro</Title>
                             <MetaData>
-                                <LabelID>13</LabelID>
+                                <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1367,236</TextSelection>
+                                <TextSelection>2248,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4B274490-B409-48DB-8105-E96549BEF3CF" Type="Text" Created="2019-05-31 15:58:27 -0400" Modified="2019-10-05 02:21:32 -0400">
@@ -266,34 +237,34 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="3E99D813-E822-4BC7-80E7-425E20663056" Type="Text" Created="2019-06-04 17:21:38 -0400" Modified="2019-09-20 17:58:21 -0400">
+                                <BinderItem UUID="3E99D813-E822-4BC7-80E7-425E20663056" Type="Text" Created="2019-06-04 17:21:38 -0400" Modified="2019-10-24 14:51:10 -0400">
                                     <Title>writing</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2911,1</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="9250E980-D4D3-4CCE-BF4E-027F7C0788A1" Type="Text" Created="2019-06-07 19:49:00 -0400" Modified="2019-09-12 16:03:25 -0400">
+                                <BinderItem UUID="9250E980-D4D3-4CCE-BF4E-027F7C0788A1" Type="Text" Created="2019-06-07 19:49:00 -0400" Modified="2019-10-24 13:26:42 -0400">
                                     <Title>life</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1149,0</TextSelection>
+                                        <TextSelection>1563,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="04F72527-CA54-476B-9F79-2A1C62F4E06F" Type="Text" Created="2019-06-04 17:21:31 -0400" Modified="2019-09-12 16:08:16 -0400">
+                                <BinderItem UUID="04F72527-CA54-476B-9F79-2A1C62F4E06F" Type="Text" Created="2019-06-04 17:21:31 -0400" Modified="2019-10-24 14:53:23 -0400">
                                     <Title>scholarship</Title>
                                     <MetaData>
-                                        <LabelID>11</LabelID>
+                                        <LabelID>13</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7565,0</TextSelection>
+                                        <TextSelection>8321,94</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -309,77 +280,34 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9045928D-D638-4D11-9DED-2E7BC9CCF17E" Type="Text" Created="2019-06-07 19:49:08 -0400" Modified="2019-09-13 16:31:25 -0400">
+                                <BinderItem UUID="9045928D-D638-4D11-9DED-2E7BC9CCF17E" Type="Text" Created="2019-06-07 19:49:08 -0400" Modified="2019-10-24 14:52:29 -0400">
                                     <Title>writing</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1611,0</TextSelection>
+                                        <TextSelection>1981,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="52A16FF2-6A6E-4E1A-9095-634A6CDDCD22" Type="Text" Created="2019-06-04 17:23:30 -0400" Modified="2019-09-12 16:14:01 -0400">
+                                <BinderItem UUID="52A16FF2-6A6E-4E1A-9095-634A6CDDCD22" Type="Text" Created="2019-06-04 17:23:30 -0400" Modified="2019-10-24 13:25:10 -0400">
                                     <Title>life</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>107,0</TextSelection>
+                                        <TextSelection>1902,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="668B6109-D78A-44BB-BDEF-D00235C314CF" Type="Text" Created="2019-06-04 17:23:31 -0400" Modified="2019-09-12 15:24:09 -0400">
+                                <BinderItem UUID="668B6109-D78A-44BB-BDEF-D00235C314CF" Type="Text" Created="2019-06-04 17:23:31 -0400" Modified="2019-10-24 15:02:57 -0400">
                                     <Title>scholarship</Title>
                                     <MetaData>
-                                        <LabelID>11</LabelID>
+                                        <LabelID>13</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1011,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem UUID="913802B0-FB21-4D22-A34E-19115268DA35" Type="Text" Created="2019-05-31 15:58:22 -0400" Modified="2019-10-05 02:21:32 -0400">
-                            <Title>Hannah More</Title>
-                            <MetaData>
-                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                                <LabelID>13</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem UUID="B7855D60-F2EF-4165-8BF4-CD291E5151E9" Type="Text" Created="2019-06-07 19:49:22 -0400" Modified="2019-09-13 16:34:04 -0400">
-                                    <Title>writing</Title>
-                                    <MetaData>
-                                        <LabelID>11</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3444,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="81386947-AFC1-4B1A-8907-1A3B8EE5C387" Type="Text" Created="2019-06-04 17:23:19 -0400" Modified="2019-09-12 16:19:11 -0400">
-                                    <Title>life</Title>
-                                    <MetaData>
-                                        <LabelID>11</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1366,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="B54A410A-0B42-40A1-9041-ADA2B559C836" Type="Text" Created="2019-06-04 17:23:20 -0400" Modified="2019-09-12 16:26:14 -0400">
-                                    <Title>scholarship</Title>
-                                    <MetaData>
-                                        <LabelID>11</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>6360,0</TextSelection>
+                                        <TextSelection>2530,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -395,34 +323,77 @@
                                 <TextSelection>90,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A66EE927-6726-4C4B-9500-9BDD701EC52D" Type="Text" Created="2019-06-12 19:12:28 -0400" Modified="2019-09-13 16:23:03 -0400">
+                                <BinderItem UUID="A66EE927-6726-4C4B-9500-9BDD701EC52D" Type="Text" Created="2019-06-12 19:12:28 -0400" Modified="2019-10-24 14:56:58 -0400">
                                     <Title>writing</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>577,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1A550F60-DE15-4676-A9A2-C6BF770FF3B0" Type="Text" Created="2019-06-12 19:12:29 -0400" Modified="2019-09-12 16:31:06 -0400">
+                                <BinderItem UUID="1A550F60-DE15-4676-A9A2-C6BF770FF3B0" Type="Text" Created="2019-06-12 19:12:29 -0400" Modified="2019-10-24 14:47:04 -0400">
                                     <Title>life</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4793,0</TextSelection>
+                                        <TextSelection>2057,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="4846EA4E-D51E-4880-AB26-8DF26A9B13FF" Type="Text" Created="2019-06-12 19:12:31 -0400" Modified="2019-09-21 16:14:46 -0400">
+                                <BinderItem UUID="4846EA4E-D51E-4880-AB26-8DF26A9B13FF" Type="Text" Created="2019-06-12 19:12:31 -0400" Modified="2019-10-24 15:02:57 -0400">
                                     <Title>scholarship</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1683,0</TextSelection>
+                                        <TextSelection>1919,104</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="913802B0-FB21-4D22-A34E-19115268DA35" Type="Text" Created="2019-05-31 15:58:22 -0400" Modified="2019-10-05 02:21:32 -0400">
+                            <Title>Hannah More</Title>
+                            <MetaData>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
+                                <LabelID>13</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B7855D60-F2EF-4165-8BF4-CD291E5151E9" Type="Text" Created="2019-06-07 19:49:22 -0400" Modified="2019-10-24 15:00:26 -0400">
+                                    <Title>writing</Title>
+                                    <MetaData>
+                                        <LabelID>11</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3218,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="81386947-AFC1-4B1A-8907-1A3B8EE5C387" Type="Text" Created="2019-06-04 17:23:19 -0400" Modified="2019-10-24 14:18:21 -0400">
+                                    <Title>life</Title>
+                                    <MetaData>
+                                        <LabelID>11</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2614,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B54A410A-0B42-40A1-9041-ADA2B559C836" Type="Text" Created="2019-06-04 17:23:20 -0400" Modified="2019-10-24 15:02:17 -0400">
+                                    <Title>scholarship</Title>
+                                    <MetaData>
+                                        <LabelID>13</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7010,100</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -978,7 +949,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="C13F5C75-3627-4A8E-8ACC-0F5D77207EFB" Type="Text" Created="2019-05-31 16:16:48 -0400" Modified="2019-09-13 16:56:22 -0400">
+                                                <BinderItem UUID="C13F5C75-3627-4A8E-8ACC-0F5D77207EFB" Type="Text" Created="2019-05-31 16:16:48 -0400" Modified="2019-10-24 15:05:10 -0400">
                                                     <Title>timeline history</Title>
                                                     <MetaData>
                                                         <LabelID>11</LabelID>
@@ -1948,7 +1919,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2019-10-22 02:06:00 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2019-10-24 02:13:01 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -1976,7 +1947,7 @@
                                 <TextSelection>372,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="82C52752-C654-493D-8A47-AC5786AC809F" Type="Text" Created="2019-09-13 17:11:36 -0400" Modified="2019-10-02 22:24:46 -0400">
+                        <BinderItem UUID="82C52752-C654-493D-8A47-AC5786AC809F" Type="Text" Created="2019-09-13 17:11:36 -0400" Modified="2019-10-24 02:11:33 -0400">
                             <Title>to add</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -5911,6 +5882,35 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem UUID="F0520FE2-AC73-42A0-8362-38D3B5C29D26" Type="Text" Created="2019-10-01 15:16:21 -0400" Modified="2019-10-01 15:16:22 -0400">
+            <Title>DH2020</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="5E041274-4611-40CF-9E9F-5EE285933E91" Type="Text" Created="2019-10-01 15:16:29 -0400" Modified="2019-10-22 23:49:58 -0400">
+                    <Title>150wd summary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>858,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C51E9872-74CE-4E03-913B-CDEA8C0C8709" Type="Text" Created="2019-10-01 15:24:07 -0400" Modified="2019-10-23 00:37:34 -0400">
+                    <Title>abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,3355</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem UUID="09FD869A-0D86-4A23-8CCA-224042D1E53A" Type="Text" Created="2017-09-10 18:36:29 -0400" Modified="2018-03-25 00:48:32 -0400">
             <Title>Documentation</Title>
             <MetaData>
@@ -9153,14 +9153,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">208</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-10-22 23:20:52 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">210</SessionTarget>
+        <PreviousSession Words="-909" Characters="-5715" Date="2019-10-24 12:37:28 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-10-23 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>11</OtherWordCount>
-        <OtherCharCount>75</OtherCharCount>
+    <RecentWritingHistory Date="2019-10-24 00:00:00 -0400">
+        <DraftWordCount>-909</DraftWordCount>
+        <DraftCharCount>-5715</DraftCharCount>
+        <OtherWordCount>15</OtherWordCount>
+        <OtherCharCount>105</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
