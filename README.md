@@ -1,15 +1,8 @@
-# Next-do: revise ch 1; write corpora descriptions for ch 2
+# Next-do: revise ch 1
 
 See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
 
-## 0/64 summer todos complete
-
 # Thesis Map
-Map of the thesis at this stage:
-1.  Theoretical groundings
-2.  Comparison of digital corpora
-3.  Use these corpora to discuss popularity
-4.  ???
 
 # Writing Principles
 * Don't be precious about preserving previous drafts. Cannibalize them and move on. It's okay for things to be left behind. (Git has my historical record.)
@@ -17,17 +10,6 @@ Map of the thesis at this stage:
 * Finish the figures right away.
 
 # Reference:
-
-### How to cite Papers > Scrivener
-
-* Use command-shift-C to call up Papers 3 and search for the item I want to cite
-* Use this to insert text like \cite{Sedgwick:2015up}
-    * If this doesn't work for some reason, you can also find the article in Pages itself, click "Cite", and select "BiBTeX Cite Command"
-* Add a page number by typing p.# in the citekey like so: \cite{Sedgwick:2015up p.25}
-* When the entire document is done, compile to RTF format
-* Open the RTF in Word
-U* se command-shift-C to call up the citation window, and this time “format citations” will be an option.
-* Use it!
 
 ### My horrible MARC > OpenRefine workflow
 
@@ -73,7 +55,7 @@ Outline: framework, 1 2 3; before bios, talk about the basic goal (I've picked t
 English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), HathiTrust, Google Books, and Project Gutenberg. -- two groups of three corpora
 
 To write:
-* seque section about ladies
+* segue section about ladies
 * final methods section
     * brief account of the two groups of three corpora
     
