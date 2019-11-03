@@ -147,8 +147,8 @@
 	<true/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {198, 781}}</string>
-		<string>{{199, 0}, {892, 781}}</string>
+		<string>{{0, 0}, {282, 781}}</string>
+		<string>{{283, 0}, {808, 781}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -184,8 +184,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {664, 555.5}}</string>
-		<string>{{0, 556.5}, {664, 194.5}}</string>
+		<string>{{0, 0}, {580, 556}}</string>
+		<string>{{0, 557}, {580, 194}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -222,8 +222,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {664, 751}}</string>
-		<string>{{665, 0}, {227, 751}}</string>
+		<string>{{0, 0}, {580, 751}}</string>
+		<string>{{581, 0}, {227, 751}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -1129,11 +1129,11 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 134}, {531.20000000000005, 110.40000000000001}}</string>
+	<string>{{0, 134}, {464, 110.40000000000001}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>826,0</string>
+	<string>376,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -1142,7 +1142,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>0 74 1091 803 0 0 1440 877 </string>
+	<string>43 74 1091 803 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1192,50 +1192,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>5992D20E-0033-407B-97DD-4AE32F27DAA0</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B2221EFD-30F8-4545-8D8F-C3E985E04D29</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{602, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>5992D20E-0033-407B-97DD-4AE32F27DAA0</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B2221EFD-30F8-4545-8D8F-C3E985E04D29</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{4800, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>211DDEFA-33C5-4253-B62E-271D0B4E6441</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -2120,14 +2076,56 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>9A979ACD-EEA6-4434-9CF3-8D2624F4BEEB</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1420F3D4-7D26-4368-8FDC-952F82E3A8E1</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{11151, 420}</string>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1D4F41D3-4AF5-4429-8654-A28324930D4E</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1420F3D4-7D26-4368-8FDC-952F82E3A8E1</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>541964B5-5159-4138-BB0E-B18CC654CCE7</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {442.66666666666669, 332.66666666666669}}</string>
+	<string>{{0, 240.33333333333334}, {386.66666666666669, 333.33333333333326}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>399,0</string>
+	<string>0,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
