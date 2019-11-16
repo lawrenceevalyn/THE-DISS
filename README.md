@@ -1,4 +1,4 @@
-# Next-do: revise ch 1
+# Next-do: revise ch 1 by Nov 22
 
 See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
 
@@ -24,6 +24,16 @@ load csv in OpenRefine
 non-MARC version: 1789|179[0123456789]
 
 # Research Log
+
+## Nov 15, 2019
+
+###The Plan###
+1. Finish ch 1 edits by Nov 22; circulate to the committee for a meeting in January
+1. Revise a rejected journal article and submit it to a new journal
+1. Make a Master Plan of experiments to run, and build a Trello to-do list of them
+1. Revise the other rejected journal article and submit it to another new journal
+1. Work my way through the experimentation trello to-do list, taking obsessive and voluminous notes
+1. Organize notes into chapters based on findings
 
 ## Oct 3, 2019
 
