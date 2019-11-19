@@ -25,6 +25,10 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## Nov 18, 2019
+
+On Saturday I finished two of the to-dos, down to just 3 left (and 2 bonus tasks). On Sunday I tried to work but didn't. Today I did some back-of-the-envelope math, and it looks like it only takes ~15 good hours of work for me to write a new draft of a journal article. It also looks like I produce dissertation text at about 100 wds/hour (counting research time etc). Since I need about another 57,500 words, that's another 575 hours of work. If I want a rough draft done by August 2020 to go on the job market (36 weeks from now), I should maintain an average pace of 16 hours of diss work a week. On paper that's a perfectly doable rate, but it's a lot more than I was doing even during this summer (my peak rate is 10hrs/wk). I had a helpful conversation with one of the postdocs about his dissertation, and trying to lower the stakes of what the diss is actually trying to accomplish, which makes me feel like I might be able to make the work go "faster" by doing less. But all of this planning and math feels preposterous when it's based on the idea that I can generate "good hours" of work, when that state feels so elusive. I miss working on my diss and feeling energized by it, but I don't know how to get that back.
+
 ## Nov 15, 2019
 
 ###The Plan###
