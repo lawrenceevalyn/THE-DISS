@@ -5,7 +5,7 @@ Author: Lawrence Evalyn
 
 
 
-# 1.  intro #  
+## 1.1.  intro ##  
 
 According to the English Short Title Catalogue (ESTC), the most popular English authors of the 1790s were Thomas Paine, Hannah More, John Wesley, and William Shakespeare. Of course this inflammatory claim immediately falls apart on further scrutiny. In fact, by the metric of ‘unique entries in the ESTC database,’ the most popular author of the decade is by far Great Britain, followed by Great Britain, Great Britain, Great Britain, and King George III.[^cf1] Paine, More, Wesley and Shakespeare are only able to rise to our notice if we intervene in the dataset to filter out all authors whose names contain the phrase “Great Britain”; otherwise, Shakespeare is outnumbered by the House of Lords and by the Church of England. These claims demonstrate that a poorly-formed question will produce a useless and stupid answer even (or perhaps especially) if computation is used to answer it. This dissertation is dedicated to the formulation of better questions. I am interested in the limits of the generalizations that we make, both in “distant reading” research and in non-digital scholarship[ , which still frequently relies on claims that a given work was “popular” because it went through a certain number of editions, or the author was paid a certain amount, and so on. These generalizations break down in part because “popular,” as a concept, is overdetermined: does it mean financially successful, or widely beloved, or important? Examinations of “popularity” also break down, at close scrutiny, because of the contentious relationship between concepts of “popular” and “literary”: important literature should have some claim to cultural relevance, but it shouldn’t be *too* popular or it becomes suspect. Nonetheless, \[TRANSITION\]]. I take as my starting point the contention that, in order to identify what is “popular” or “important,” we must also understand what is normal. At its core, my question is: given that it is not possible to read everything (or even most things), how do we, and how *should* we, determine what to read, preserve, study, and teach? This “question” is, of course, many questions: what we do is by no means what we *should* do; what we read is not necessarily what we study or teach. It is also an old, nearly an old-fashioned question. The current moment of self-reflection in the field of Digital Humanities, however, provides a timely reason to revisit it. Even literary scholars who do not carry out “Digital Humanities” research are impacted by the corpus-building choices of major digital resources, since all literary research is now mediated at some level by search algorithms and databases, even if this mediation is as small as looking up the holding libraries for physical copies of texts. It is therefore relevant to the field as a whole if, as I contend, corpus-building has become the new canon-building: an invisible and naturalized process of selecting texts for idiosyncratic and historically-specific reasons, and then treating those individual texts as ideal representatives of an imagined “whole” of literature.   
 
@@ -25,7 +25,7 @@ The relocation of the debate from the canon to the corpus is not without grounds
 
 
 
-# 2.  frameworks #  
+## 1.2.  frameworks ##  
 
 The theoretical frameworks of this dissertation are drawn from the fields of feminist DH and queer DH, and from non-DH schools of thought which seem to offer valuable tools. My core motivating framework, as I conceptualize my work, is that of reparative reading. Eve Sedgwick’s “Paranoid Reading and Reparative Reading” persuasively describes in the dominance of paranoia in literary criticism, and attempts to sketch an alternative in what she terms reparative reading. A paranoid rhetoric of exposure and critique strikes me as the most obvious narrative to structure this dissertation’s investigation of the uneven institutional valuation of different writing. However, these obvious critiques also require rejecting many generations of sincere work by my fellow academics, without necessarily offering new discoveries of value to replace them. One experiment of this project, not yet complete, is to articulate an assessment of the limitations of contemporary digital resources which nonetheless allows those resources to be recuperated. My touchstones are two descriptions from Sedgwick’s original chapter:  
 
@@ -41,13 +41,7 @@ Love’s later article, “Close Reading and Thin Description,” provides a mor
 
 Good descriptions are in a sense rich, but not because they truck with imponderables like human experience or human nature. They are close, but they are not deep; rather than adding anything ‘extra’ to the description, they account for the real variety that is already there. (377)
 
-A computational model is unlikely to “truck with imponderables,” but it *absolutely* *must* “account for the real variety that is already there” or else the code will simply fail to run. If you are forced to manually encode your assumptions into a system, you are forced to confront what they are. Even deleting or ignoring information is still a way of “accounting for” it in the coding process: some part of the program will have to say, in effect, ‘if I get an input that doesn’t match what I expect, discard it.’ Choosing to ignore contradictory or difficult information carries the assumption that this information does not ‘count,’ or does not matter to the question at hand. The choice faced by scholars is how to address our encoded assumptions. The encounter with variety does not in itself produce nuanced results: it is possible to selectively ignore any uncomfortable details. But it is also possible to do computation reflectively, asking not “how can I make this work the way I want?” but “where do my assumptions encounter resistance?” and turning one’s attention to the nature of the resistance. Integrating this reflection into the research process can allow a scholar to avoid both the pitfalls of “conquering” their material and of claiming an algorithmic grasp of “objective” truth. 
-
-
-
-## 2.1.  distant reading without Moretti ##
-
-
+A computational model is unlikely to “truck with imponderables,” but it *absolutely* *must* “account for the real variety that is already there” or else the code will simply fail to run. If you are forced to manually encode your assumptions into a system, you are forced to confront what they are. Even deleting or ignoring information is still a way of “accounting for” it in the coding process: some part of the program will have to say, in effect, ‘if I get an input that doesn’t match what I expect, discard it.’ Choosing to ignore contradictory or difficult information carries the assumption that this information does not ‘count,’ or does not matter to the question at hand. The choice faced by scholars is how to address our encoded assumptions. The encounter with variety does not in itself produce nuanced results: it is possible to selectively ignore any uncomfortable details. But it is also possible to do computation reflectively, asking not “how can I make this work the way I want?” but “where do my assumptions encounter resistance?” and turning one’s attention to the nature of the resistance. Integrating this reflection into the research process can allow a scholar to avoid both the pitfalls of “conquering” their material and of claiming an algorithmic grasp of “objective” truth.   
 
 To bring these principles into the field of Digital Humanities by way of an example, I want to offer an alternative geneaology for the practice of distant reading itself. Rachel Buurma and Laura Heffernen provide a valuable history[ Ted Underwood’s “Genealogy of Distant Reading” presents a history of distant reading which is not for the most part centrally concerned with computers, and is therefore fundamentally distinct from concepts of “digital humanities” \\cite\{Underwood:2017uc\}. In Underwood’s history, distant reading is “a tradition continuous with earlier forms of macroscopic literary history, distinguished only by an increasingly experimental method, organized by samples and hypotheses that get defined before conclusions are drawn” (Underwood:2017uca p.29\}. Underwood “tease\[s\] out the elided social-scientific genealogy behind distant reading” \\cite\{Underwood:2017uca p.39\} to argue that the term “\[d\]istant reading was not coined to describe a radically new method. The first occurrence of the phrase, in \[Franco Moretti’s\] ‘Conjectures on World Literature,’ seems in fact to describe the familiar scholarly activity of aggregating and summarizing previous research” \\cite\{Underwood:2017uca p.9\}\[ what is your position on this? You go on to Buurma who does connect distant reading to computation - and you suggest how you will draw on similar ideas about collaboeation etc - but this underwood bit dangles\].
 
@@ -55,25 +49,17 @@ To bring these principles into the field of Digital Humanities by way of an exam
 
 In the 1930s, as a graduate student at Berkeley, she completed her first distant reading project: an analysis of the adjectives favored by Romantic poets. In the 1940s, with the aid of a Guggenheim, she expanded this work into a large-scale study of the phrasal forms of the poetry of the 1640s, 1740s, and 1840s. In all of this distant reading work, Miles created her tabulations by hand, with pen and graph paper. She also directed possibly the first literary concordance to use machine methods. In the early 1950s, Miles became project director of an abandoned index-card-based Concordance to the Poetical Works of John Dryden. Partnering with the Electrical Engineering department at Berkeley, and contracting with their computer lab and its IBM tabulation machine, Miles used machine methods to complete the concordance. It was published in 1957, six years after she and several woman graduate students and woman punch-card operators began the work. It was thus begun around the time that Busa circulated early proof-of-concept drafts of his concordance to the complete works of St. Thomas Aquinas, and published 17 years before the first volumes of the 56-volume Index Thomasticus began to appear. (Buurma and Heffernan)
 
-Buurma and Heffernan bring Miles’ history to our attention not simply because Miles predates  Roberto Busa, whose *Index Thomisticus* is often credited as the first large-scale computational literary study.[^cf10] Rather, they emphasize, Miles’ origin story for computational literary study “can stand as an example of how we might write a history of literary scholarship that does not center originality and individual accomplishment” (n. pag.). Unlike Busa, Miles not only gave authorship to the (female) graduate students who carried out much of the labour of creating the concordances, she also thanked and credited the (female) punch card operators who encoded the resulting data.[^cf11] Moreover, when talking of Penny Gee, one of the female staff members of the computer lab, Miles praises her as “‘very smart and good’ and---most importantly---a true collaborator, as opposed to those ‘IBM people from San Jose’ ... ‘I’ve never been able to connect with them,’ Miles explains, ‘though I did with Penny Gee. She really taught me’” (n. pag.). Of the positive qualities highlighted here, only one, “smart,” is traditionally valorized among literary critics: to be “good,” a “collaborator,” who can “connect” and “teach” --- these qualities are often seen as irrelevant to the singular authority of the figure of the critic, but they are core to a reparative practice. Miles’ work, too, struggled to find appreciation “among literary critics who viewed her datasets as merely preparatory to the true work of evaluation” (n. pag.).
-
-
-
-## 2.2.  critical algorithm studies ##
-
-
+Buurma and Heffernan bring Miles’ history to our attention not simply because Miles predates  Roberto Busa, whose *Index Thomisticus* is often credited as the first large-scale computational literary study.[^cf10] Rather, they emphasize, Miles’ origin story for computational literary study “can stand as an example of how we might write a history of literary scholarship that does not center originality and individual accomplishment” (n. pag.). Unlike Busa, Miles not only gave authorship to the (female) graduate students who carried out much of the labour of creating the concordances, she also thanked and credited the (female) punch card operators who encoded the resulting data.[^cf11] Moreover, when talking of Penny Gee, one of the female staff members of the computer lab, Miles praises her as “‘very smart and good’ and---most importantly---a true collaborator, as opposed to those ‘IBM people from San Jose’ ... ‘I’ve never been able to connect with them,’ Miles explains, ‘though I did with Penny Gee. She really taught me’” (n. pag.). Of the positive qualities highlighted here, only one, “smart,” is traditionally valorized among literary critics: to be “good,” a “collaborator,” who can “connect” and “teach” --- these qualities are often seen as irrelevant to the singular authority of the figure of the critic, but they are core to a reparative practice. Miles’ work, too, struggled to find appreciation “among literary critics who viewed her datasets as merely preparatory to the true work of evaluation” (n. pag.).  
 
 What’s crucial, to use computational reading reparatively, is to use it *reflectively*. The desirable kinds of computation which I describe above will not happen inevitably. Here I draw upon the rich body of work emerging in critical algorithm studies, which examines (and attempts to reform) the human elements of computational algorithms. Any methodology is, to a certain extent, an “algorithm,” in the loose definition of ‘a series of pre-defined steps to be carried out’. But computational algorithms differ from “algorithms” implemented by humans. Computational algorithms have two key vulnerabilities: first, their operations are less easily scrutinized; second, their results are more easily trusted. The second vulnerability --- the cultural aura of empirical trustworthiness which accrues to anything ‘computational’ --- is another flavour of the same vulnerability that Drucker describes with ‘data’ generally. Because the human agents who designed and trained any given algorithm appear to be absent from its operation, the algorithm appears able to discover truth directly. This is how Daily Wire reporter Ryan Saavedra was able to tweet with disdain that “Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist” (@RealSaavedra): anything “driven by math,” he assumes, must be incapable of human fallibilities like racism. But as Safiya Noble shows extensively in *Algorithms of Oppression*, algorithms by default reproduce, and can easily exaggerate, the assumptions and biases of the culture in which they are made (CITE). In other words, in a racist world, algorithms *are* racist --- and sexist, and duplicative of all other systemic inequities.
 
+  
+
+Critical algorithm studies is therefore a crucial background for my work --- but “critical” is literally in the name of of the field, and I still seek to be post-critical and reparative. As I encounter the limitations of the various information and tools through which I attempt to understand the 1790s, my goal is to do something other than facilely observe that they are limited. Instead, I want to identify the best ways to continue building on their foundations. In a digital humanities context, a focus on building connections can be mundanely practical: typing indexes from print works into spreadsheets, correcting errors within datasets, writing programs to process metadata: all of these maintain the functional usability of existing resources in new contexts. When this kind of extended, detail-oriented labour is combined with serious reflection on the histories and possible futures of these resources, I contend, they bring us to new knowledge. In this, maintaining and using digital resources is also a way to repair them --- and to produce reparative readings of their contents.
 
 
 
-
-## 2.3.  reparative DH ##
-
-
-
-Critical algorithm studies is therefore a crucial background for my work --- but “critical” is literally in the name of of the field, and I still seek to be post-critical and reparative. As I encounter the limitations of the various information and tools through which I attempt to understand the 1790s, my goal is to do something other than facilely observe that they are limited. Instead, I want to identify the best ways to continue building on their foundations. In a digital humanities context, a focus on building connections can be mundanely practical: typing indexes from print works into spreadsheets, correcting errors within datasets, writing programs to process metadata: all of these maintain the functional usability of existing resources in new contexts. When this kind of extended, detail-oriented labour is combined with serious reflection on the histories and possible futures of these resources, I contend, they bring us to new knowledge. In this, maintaining and using digital resources is also a way to repair them --- and to produce reparative readings of their contents.  
+## 1.3.  methods ##  
 
 This dissertation undertakes computational distant reading. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. The bibliographic histories of my multiple corpora are explicit objects of inquiry. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A (“Codebase”), accompanied by a plain-language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools --- sufficient for another to replicate my work --- is provided in Appendix B (“Methodology”). These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means *confined* to the appendices. Computation is not a “black box” to be consulted for simple answers, but is inextricable from my reasoning and argument.  
 
@@ -85,7 +71,7 @@ This dissertation understands archives, bibliographies, anthologies, and corpora
 
 
 
-## 3.1.  databases ##  
+### 1.3.1.  databases ###  
 
 A core object of study for this dissertation, then, is the makeup and history of contemporary digital databases. Eighteenth century materials of various kinds have been collected in many digital archives, of very different scopes. I will draw materials from the English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), Google Books, Project Gutenberg and HathiTrust. My examination of these six databases will, of necessity, examine a ‘time capsule’ of their holdings at a particular moment; the sources of my data, and my procedures for working with them, are described in more detail in Appendix B (“Methodology”). The databases vary from each other in terms of two main qualities: their size, and their reputation. The reputation of any given digital resource is shaped largely, I argue, by its ability to signal ‘rigour’ in its collection practices. Several databases of different sizes have established reputations of seriousness, and, correspondingly, cultural capital within scholarly communities. The databases that I will examine at length form two groupings of three each, to explore two sets of related concepts. The first set consists of ESTC, ECCO, and ECCO-TCP, all of which follow the same rigorous collection practices at different scales. The second set consists of Google Books, HathiTrust, and Project Gutenberg, which follow very different collection practices while sharing a dubious scholarly reputation.  
 
@@ -103,7 +89,7 @@ As this brief survey of eighteenth-century digital archives shows, there is no �
 
 
 
-# 4.  my authors #  
+## 1.4.  my authors ##  
 
 All of the computational work in this dissertation aims to identify, in as minute detail as possible, all works printed in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf20] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Common Sense*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now-famous superlatives capture the tension often seen by scholars between ‘Enlightenment’ modes of writing and ‘Romantic’ or ‘Gothic’ modes.
 
@@ -113,7 +99,7 @@ To navigate the 1790s, I turn to four authors whose careers and works usefully f
 
 
 
-## 4.1.  Charlotte Smith ##  
+### 1.4.1.  Charlotte Smith ###  
 
 Chapter 2 of this dissertation examines the works of Charlotte Smith across several digital corpora. Charlotte Smith is selected as a writer who was productive in multiple genres, only some of which may end up represented in corpora. Charlotte Smith’s literary career began with the publication of her volume of poetry *Elegiac Sonnets*, in 1784.[ maybe these whole bibliography sections should just be tables?] This work is the one upon which much of Smith’s fame and prestige rested in the eighteenth century. A second edition of *Elegiac Sonnets* rapidly followed the first in the same year, with only slight amendments. The third and fourth editions of *Elegiac Sonnets* appeared in 1786, adding new poems. 1786 also saw the publication of Smith’s *The Romance of Real Life*, a translation of *Les Causes Célèbres,* her first foray into prose, which would occupy the major part of the next phase of her career. In 1788 she published her first original novel, *Emmeline, or the Orphan of the Castle*. 1789 begins this dissertation’s decade of interest, a period of intense productivity for Smith: she had at least one new publication almost every year from 1789-1799. In 1789, she published her second original novel, *Ethelinde, or the Recluse of the Lake*, and a fifth edition of *Elegiac Sonnets*. In 1791 she published *Celestina,* her third novel; in 1792, her fourth novel, *Desmond*[ add info about the “phases” of her novelistic career], and a sixth edition of *Elegiac Sonnets*. Although *Elegiac Sonnets* continued to be reprinted, reaching its tenth edition in 1812, after this edition no further poems were added. Instead, her new poetry appeared in their own independent publications, and no longer took the form of sonnets. In 1793 she published *The Emigrants*, a poem in two volumes, as well as *The Old Manor House*, her fifth novel. In 1794, her sixth and seventh novels, *The Wanderings of Warwick* and *The Banished Man*. In 1795 she published her eighth novel, *Montalbert*, and began writing in a new genre with *Rural Walks*. With *Rural Walks*, Smith’s dominant genre again changed: having gone from a poet to a novelist, she now primarily published in a form which does not have a contemporary name: morally instructive natural history for “young persons.” 1796 saw the sequel to *Rural Walks*, *Rambles Farther*, as well as the novel *Marchmont*, and the poem *A Narrative of the loss...* of several ships. 1797 saw the eighth edition[ when was the seventh???] of *Elegiac Sonnets*, unchanged since the sixth. 1798 saw the novel *The Young Philosopher*, and more natural history for children in *Minor Morals*. In 1799, Smith tried her hand at theatre with *What Is She?*, a comedy --- not a form she will revisit --- and published the first two volumes of *Letters of a Solitary Wanderer*, an epistolary anthology of narratives. After this dissertation’s decade of interest, Smith continued to write at a slightly less frenetic pace. In 1800 she published three additional volumes of *Letters of a Solitary Wanderer.* In 1804, she published *Conversations, Introducing Poetry*, for children. In 1806, Smith published *History of England*, another work for young persons, and Smith herself died, age 55. The next year saw the posthumous publication of the poem *Beachy Head* and the work for young persons, *The Natural History of Birds.*  
 
@@ -131,7 +117,7 @@ The specific experimentation undertaken in chapter two tests the basic assumptio
 
 
 
-## 4.2.  Mary Robinson ##  
+### 1.4.2.  Mary Robinson ###  
 
 Chapter 3 of this dissertation examines the works of Mary Robinson across several digital corpora. Mary Robinson is selected as a contemporary of Charlotte Smith’s with remarkably similar patterns of publication, but remarkably different reception. Mary Robinson’s first literary foray was the volume *Poems by Mrs. Robinson*, published by C. Parker in 1775, shortly followed by the poem *Elegiac verses to a young lady on the death of her brother*. “Though *Poems* received little critical support, and made little money, Mary Robinson continued to write” (Mark Ockerbloom), but she would begin her career as an actress before this writing saw publication. Robinson’s theatrical debut as Juliet in December 1776 led to an increasingly acclaimed and prolific acting career. In 1777 she published a volume of works written earlier, *Captivity, A Poem: and Celadon and Lydia, A Tale*, and in 1778 she wrote and starred in her own musical farce, *The Lucky Escape,* from which she published *The Songs, Chorusses, etc.* In 1780, Robinson retired from the stage. The next volume under her name did not appear until 1791, but the intervening decade was not empty of literary activity. From 1784 to its publication in 1787, Robinson collaborated with Banastre Tarleton on the composition and revision of his *History of the Campaigns of 1780 and 1781*. In 1788, Robinson began the writing which would make her career as an author. She contributed poems to *The World* and *The Oracle* under the pseudonyms “Laura” and “Laura Maria” which responded to popular poems by a coterie of writers now called the Della Cruscans, who addressed each other in periodicals with Miltonic, Italianate, and political poetry. Robinson’s poems successfully inserted herself into their conversation, prompting replies from the other poets. This dissertation’s decade of interest, 1789-99, captures Robinson’s most prolific period. Her 1790 poem *Ainsi va le Monde*, published under the pseudonym Laura Maria, was her breakout Della Cruscan poem. The success of her Della Cruscan poetry led to the publication in 1791 of another *Poems by Mrs. Robinson*, this time by J. Bell, as well as *The Beauties of Mrs. Robinson*, another collection of poetry. She also produced a pamphlet that year, *Impartial Reflections on the Queen of France,* under the name “a friend to humanity”*.* The next year, 1792, saw the arrival of a successful novel, *Vancenza, or the Dangers of Credulity*, which went through three editions in that year, and two elegiac poems. 1793 saw three more poems, two under her own name and one under the pseudonym “Horace Juvenal*.”* In 1794 she published her second novel, *The Widow, or a Picture of Modern Times*. In 1795 she published another novel, *Audley Fortescue*, under the name “Mr. Robinson.”[^cf21] In 1796 she published four major works: the novel *Angelina*; the novel *Hubert de Sevrac*; a sonnet series *Sappho and Phaon*; and the play *The Sicilian Lover*. The next year, 1797, saw two more novels: *Julie St. Lawrence* and *Walsingham*. 1798 was Robinson’s first year since 1790 with no publications, but in 1799, she perhaps made up for it by publishing two novels, *The False Friend* and *The Natural Daughter*, as well as a political treatise, *A Letter to the Women of England on the Cruelties of Mental Subordination.* She also began contributing weekly essays to the *Morning Post and Gazetteer* in 1799. After 1799 (and thus after this dissertation’s decade of interest), Robinson’s career and life is short. In 1800, she published her tenth novel, *Ellinda;* her verse collection *Lyrical Tales* in volume form as well as *The Mistletoe, a Christmas Tale* (as Laura Maria) in its own small book; and a translation from the German of Joseph Hager’s travel narrative *A Picture of Palermo.* Robinson died in December 1800. After her death, her daughter Mary Elizabeth Robinson oversaw the posthumous publication of three more works: *Memoirs of the Late Mrs. Robinson, Written by Herself* (1801), a collection of poetry titled *The Wild Wreath* (1804), and a final collection of *The Poetical Works of the Late Mrs. Robinson* (1806).  
 
@@ -145,7 +131,7 @@ Chapter three does for Robinson the same initial process that chapter two did fo
 
 
 
-## 4.3.  Ann Radcliffe ##  
+### 1.4.3.  Ann Radcliffe ###  
 
 Chapter 4 of this dissertation examines the works of Ann Radcliffe across several digital corpora. Ann Radcliffe is selected as a contrasting model of popularity, as a famous and popular author with a relatively short list of publications in only one genre. Radcliffe is a particularly useful case study author to contest the relevance of “editions” as a marker of popularity: many of the later editions of her works had very large print runs, since the works were sure to sell, such that a decline in reissues is in fact a sign of success rather than failure. The precise details of these editions and their implications occupy much of chapter 4, and provide important complications for the models of popularity and legacy developed with Charlotte Smith and Mary Robinson in chapters 2 and 3. Radcliffe’s first publication is at the beginning of this dissertation’s decade of interest: in 1789, Radcliffe published her first novel, *The Castles of Athlin* *and* *Dunbayne*, which reached five London editions by the time of her death. In 1790, she published *A Sicilian Romance*, which reached six London editions. In 1792, *The Romance of the Forest*, which reached eight London editions. This novel earned her more positive notice and began the momentum for her career: it is after the success of The Romance of the Forest that her first two novels reached their second editions. In 1794, Radcliffe published her fourth novel, *The Mysteries of Udolpho*[ Radcliffe was paid £500 for this work, which was a highly-anticipated sensation (Facer)], which had two London editions that year, and reached twelve London editions by her death. In 1795, Radcliffe published her only non-novel work, the travelogue *A Journey Made in the Summer of 1794*, which saw two editions in London that year and a third before her death. In 1797, she published the last new novel to be released during her lifetime, *The Italian*[ She was paid £800 for *The Italian*.], which reached a second edition before her death. After this dissertation’s decade of interest, Radcliffe’s works continued to be reprinted domestically and internationally nearly every year, but she ceased publishing new works. In 1802, Radcliffe wrote, but did not publish, *Gaston de Blondville*, which would finally appear in print posthumously in 1826. In 1816, a “new” publication appeared: an unauthorized volume *Poems by Mrs Ann Radcliffe*, anthologizing poems previously appearing in her novels. Radcliffe died in February of 1823. This prompted reprints of all of her works by S. Fisher in 1823, and by Ballantyne in 1824. In 1826, her husband published several pieces posthumously: *Gaston de Blondeville*; a poetic piece *St. Alban’s Abbey ...To which is prefixed a memoir of the author*; and, in *New Monthly Magazine*, her unfinished essay “On the Supernatural in Poetry.”  
 
@@ -161,7 +147,7 @@ Chapter four uses Ann Radcliffe as an important contrast to Charlotte Smith and 
 
 
 
-## 4.4.  Hannah More ##  
+### 1.4.4.  Hannah More ###  
 
 Finally, chapter 5 of this dissertation examines the works of Hannah More across several digital corpora. Hannah More is selected as a particularly difficult writer to grapple with, both bibliographically and in terms of critical reception. 
 
@@ -185,99 +171,7 @@ In the following chapters, this dissertation weaves together an exploration of 1
 
 
 
-# ch 2 - archives #  
-
-As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettably, although this volume of The Cambridge history of the book in Britain ends in 1830, it is not possible to perform a similarly comprehensive analysis for the first decades of the nineteenth century because we have no equivalent bibliographical control for this period” (Suarez 40).  
-
-Chapter two takes up contemporary digital archives directly, examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. It makes the case that digital archives can implicitly shape scholarly research, and begins the process of revealing and interrogating their invisible assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of eighteenth-century texts (all those containing at least 100 works from the 1790s): simply putting all of this information in one place will be a useful way to review it. Adding a discussion of each archive’s selection criteria will bring it into the realm of a meta-analysis. I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I will research the history of how each corpus was formed. I will discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I will critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I will discuss the nature of their exclusions, and consider paths to greater inclusivity. Then I will synthesize these disparate sources of texts and metadata, a substantial technical challenge, to see how the task may be accomplished, and to see what correlations between archives might illuminate the decade. I am particularly curious whether even one text will appear in all corpora, and, if so, which one it will be. Whichever texts appear most persistently will form the basis of my “case study” in this chapter. The second chapter thus establishes the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.  
-
-A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer & Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.”
-
-
-
-Blayney believes that Lesser & Farmer attempt to disprove his “one inescapable fact about printed plays---namely, that they were not the best-selling moneyspinners that so many commentators have evidently believed they should have been” (7). But what really matters to him about identifying the “best-selling moneyspinners” of the day is not the ‘moneyspinning’ --- the question of whether, when a publisher bought a play, he was making a sound financial decision --- but about the cultural centrality of ‘bestsellers’. The total market share of religious texts matters, not because it meant that publishers turned their highest profits off of religious texts, but because “\[c\]ustomers in early modern bookshops chose to spend far more of their money on religious books than they did on playbooks and other ‘literary’ publications,” evidence of “just how massively important godly books were to early modern readers” (7). Lesser and Farmer do not contradict the importance of religious texts to readers. But, in setting out “not merely to measure comparative popularity but also to explain why and how different kinds of books were published.” (F&L 213), they make the case that books with low market share, books that are not “best-selling,” could nonetheless be “moneyspinners.” Their rebuttal states that “...books could be in high demand even though their reprint rate was low. Likewise, books (such as ballads) could be in high demand even though their profitability per copy was low. And, as seems to have been the case with plays, books could be in high demand even though their market share was low” (F&L 213), but what they leave somewhat unstated is: “in high demand” *with whom*?
-
-
-
-My own work seeks to examine reprints, but in a more limited fashion than Farmer & Lesser were able to do. Rather than determine the reprint rate of various kinds of fiction, I carry out a Blayney-style examination of pure market share. I seek to identify reprints in order to determine the market share of new versus reprinted material in any given year.   
-
-1. **(Reprinting)** Simon Bainbridge: best-selling, most-reprinted, most-adapted
-2. **(Assertion)** George Taylor: simply asserts that some things are popular
-3. **(Assertion)** Peter Murphy: despite promising that his study “examines the tension between the material, economic pressures motivating poetry as an occupation, and traditional notions of the forces of literary history,” Murphy says NOTHING AT ALL about how well, to whom, for how much, etc etc things were sold.
-4. **(Performances)** Emmet Kennedy, Marie-Laurence Netter, et al.: number of performances per play (*Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory*)
-5. **(Book history)** Cronin: mostly asserts that people are “popular” or “celebrated”; with Erasmus Darwin, supports this by saying that the book The Botanic Garden is beautiful & expensive
-6. **(Editions, reprints, market share, profitability)** Lesser & Farmer, Structures of Popularity in the Early Modern Book Trade **-** “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
-7. **(Market share)** Blayney
-8. **(Title counts)** MacLeod on the Minerva press --- evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
-9. **(Reprints, anthologizing, “influence”)** p 193: assessing Smith’s importance based on page counts anthologized in 1833 Specimens of English Sonnets and Specimens of British Poetesses. “it is clear from sonnets like Bowles’s, Coleridge’s, Wordsworth’s, Opie’s, Hanson’s, Dark’s, Keats’s, and even Anna Seward’s that her influence was wide, formative, and powerful, just as it was in prose fiction for novelists like Austen, Radcliffe, Opie, Scott and others. Judith Stanton undoubtedly exaggerates matters, therefore, when she observes sadly of Smith that ‘already waning in her later years, the popularity of her works ended with her death,’ for, as noted earlier, her poetry continued to be reprinted through mid-century (including in Frederic Rowton’s notorious 1848 Female Poets of Great Britain)” (Behrendt 201).
-10. **(Reprints, “emulation”)** “During her lifetime Charlotte Smith was a literary celebrity: her Elegiac Sonnets and Other Poems (1784) were continuously reprinted and wifely emulated.” (Duckling 203)
-  
-
-It is not, in fact, possible to calculate 
-
-
-
-Without \[certain kinds of evidence\], as F&L note, “we will never be able to ascertain precisely the “popularity” of various kinds of books... if by popularity we mean something like the modern best-seller lists” (F&L 16)
-
-Would need size of print runs and cost to produce, as well as sale price, and quantity sold.
-
-\[So it’s a little nonsense when people just say that something is popular\]  
-
-The full scope of my project is to grapple with every online database which contains at least 100 texts meeting my criteria: printed, in England, between the years 1789-99. 
-
-I exclude databases of diaries or correspondence, since they are not *printed*. This has the effect of excluding single-author databases.  
-
-I make an exception for archives which specifically seek to address gaps in archival holdings due to systemic bias, that is, three archives focused on women’s writing: Orlando, Chawton, and \[I thought there was a third one\].
-
-For the most part archives are either comprehensive and have significantly more than 100 texts, or they are single-author / single-researcher focused, and thus have significantly less than 100. These kinds of reparative projects occupy the middle space.  
-
-ESTC
-
-ECCO
-
-ECCO-TCP
-
-
-
-HathiTrust
-
-ProQuest
-
-BL 19thC
-
-
-
-END
-
-WWO+Chawton combo
-
-Corvey
-
-
-
-Gutenberg
-
-Google Books
-
-Internet Archive  
-
-The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
-
-
-
-What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
-
-A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
-
-Another approach is to ignore the categories and use things like topic modelling; relies on a more intimate knowledge of the information being studies (i.e., humanities expertise)  
-
-These basic factual questions, about what is in the various eighteenth century digital corpora that represent “mass” 18thC holdings for scholars, matter because \[\]. Even though the specific numbers are likely to change as these digital holdings are continuously updated, my investigation of an archive “snapshot” matters because \[they show how questions of fact can (and cannot) be answered?\]  
-
-Google Books prioritizes low-quality information over *no* information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
-
-
-
-Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.  
+# Raw Writing #  
 
 Research the EEBO thread of ESTC/ECCO
 
@@ -369,6 +263,8 @@ Inaccurate dates
 
 My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-\>1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery. My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file[^cf25] with fifteen columns of information. The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.  
 
+As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettably, although this volume of The Cambridge history of the book in Britain ends in 1830, it is not possible to perform a similarly comprehensive analysis for the first decades of the nineteenth century because we have no equivalent bibliographical control for this period” (Suarez 40).  
+
 “To use a metaphor, some people prefer to explore the world through books of photographs with occasional schematic maps. ESTC, on the other hand, provides the equivalent of a detailed topographic map, but no pictures. Such technical tools have limited appeal, even to some specialists; but if you want to thoroughly learn the lie of the land, you will need one, and the more complete and accurate the better.” (Tabor)
 
 
@@ -376,10 +272,6 @@ My own sliver of the ESTC was generously provided to me by the British Library i
   
 
 “An increasingly common trend, I am sorry to report, is that more and more people do not want ESTC at all --- they want ECCO or EEBO. The younger generation of scholars in particular, lured by full-text images and ransacking the Web for illustrations for their books and articles, are using these utilities as de facto bibliographic databases. They find that the stripped-down records and simplified indexes are good enough for their purposes. To a minority of them, the fact that other works, editions, and copies exist outside the Web is irrelevant, and perhaps even irritating.” (Tabor 368)  
-
-The collection seems to be less well-maintained now that the main creation activity has subsided. (RESEARCH: since Gale acquired ECCO?) The official TCP website provides links to many places where ECCO-TCP materials are said to be available, but most of these links are dead; Stephen H. Gregg’s unofficial blog post “Finding ECCO-TCP texts” is a much better guide to using these materials.  
-
-“In partnership with Microsoft, the British Library has digitised, and made freely available under Public Domain Mark, over 60,000 volumes (around 25 million pages) of out of copyright 18th & 19th century texts.”  
 
 Also in the category of smaller and specialized archives is Project Gutenberg. Project Gutenberg makes no claims to scholarly reliability but nonetheless underlies a not-significant amount of scholarly work[^cf26] --- its cultural capital as a resource lags far behind its use and utility. Project Gutenberg is easily conceived of as a haphazard, ‘unscholarly’ source for materials, but unlike Google Books, Project Gutenberg actually does have selection criteria. Project Gutenberg will only collect public domain works which contemporary audiences might be interested in reading for pleasure. It narrows the field substantially to exclude works which have either ceased to be broadly interesting (as in the case of most forgotten fiction), or which were never particularly interesting (as in the case of almanacs and tax codes). Project Gutenberg includes 57,796 texts: far more than specialized scholarly archives like the Early Novels Database or the Shelley-Godwin Archive, but nonetheless an order of magnitude fewer than its more-voracious potential competitors. And, like smaller specialized scholarly archives, Project Gutenberg has tailored its holdings to make it easy for readers to read, and quite difficult for its collection to be applied to any other use. By tailoring the structure of the archive itself to its specific materials, these collections are able to thoughtfully achieve their aims --- but they also make it correspondingly difficult for users[ does this not depend on the user? unpack] to achieve their own, different aims.  
 
@@ -389,13 +281,49 @@ The article ”Quantitative patterns of stylistic influence in the evolution of 
 
 Cite Hammond’s book re: comparing modernists to bestsellers --- he can’t always find bestsellers, it depends on whether bestsellers were enjoyed enough for someone to bother to type them up  
 
+Google Books prioritizes low-quality information over *no* information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
+
+
+
+Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.  
+
+A model for my work can be found in a methodological debate within the study of Early Modern drama, when Farmer & Lesser introduced revisions to Blayney’s field-changing 1997 essay “The Publication of Playbooks.”
+
+
+
+Blayney believes that Lesser & Farmer attempt to disprove his “one inescapable fact about printed plays---namely, that they were not the best-selling moneyspinners that so many commentators have evidently believed they should have been” (7). But what really matters to him about identifying the “best-selling moneyspinners” of the day is not the ‘moneyspinning’ --- the question of whether, when a publisher bought a play, he was making a sound financial decision --- but about the cultural centrality of ‘bestsellers’. The total market share of religious texts matters, not because it meant that publishers turned their highest profits off of religious texts, but because “\[c\]ustomers in early modern bookshops chose to spend far more of their money on religious books than they did on playbooks and other ‘literary’ publications,” evidence of “just how massively important godly books were to early modern readers” (7). Lesser and Farmer do not contradict the importance of religious texts to readers. But, in setting out “not merely to measure comparative popularity but also to explain why and how different kinds of books were published.” (F&L 213), they make the case that books with low market share, books that are not “best-selling,” could nonetheless be “moneyspinners.” Their rebuttal states that “...books could be in high demand even though their reprint rate was low. Likewise, books (such as ballads) could be in high demand even though their profitability per copy was low. And, as seems to have been the case with plays, books could be in high demand even though their market share was low” (F&L 213), but what they leave somewhat unstated is: “in high demand” *with whom*?
+
+
+
+My own work seeks to examine reprints, but in a more limited fashion than Farmer & Lesser were able to do. Rather than determine the reprint rate of various kinds of fiction, I carry out a Blayney-style examination of pure market share. I seek to identify reprints in order to determine the market share of new versus reprinted material in any given year.   
+
+1. **(Reprinting)** Simon Bainbridge: best-selling, most-reprinted, most-adapted
+2. **(Assertion)** George Taylor: simply asserts that some things are popular
+3. **(Assertion)** Peter Murphy: despite promising that his study “examines the tension between the material, economic pressures motivating poetry as an occupation, and traditional notions of the forces of literary history,” Murphy says NOTHING AT ALL about how well, to whom, for how much, etc etc things were sold.
+4. **(Performances)** Emmet Kennedy, Marie-Laurence Netter, et al.: number of performances per play (*Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory*)
+5. **(Book history)** Cronin: mostly asserts that people are “popular” or “celebrated”; with Erasmus Darwin, supports this by saying that the book The Botanic Garden is beautiful & expensive
+6. **(Editions, reprints, market share, profitability)** Lesser & Farmer, Structures of Popularity in the Early Modern Book Trade **-** “we need to consider both total number of editions and frequency of reprinting, as well as market share and profitability. No single one of these four measurements by itself equates directly to popularity in the book trade; each addresses different questions about the market performance of books, and each points to a different aspect of both supply and demand.” (208)
+7. **(Market share)** Blayney
+8. **(Title counts)** MacLeod on the Minerva press --- evaluates most popular authors & subgenres based on the number of “works published” or “titles” (unclear if this includes reprints)
+9. **(Reprints, anthologizing, “influence”)** p 193: assessing Smith’s importance based on page counts anthologized in 1833 Specimens of English Sonnets and Specimens of British Poetesses. “it is clear from sonnets like Bowles’s, Coleridge’s, Wordsworth’s, Opie’s, Hanson’s, Dark’s, Keats’s, and even Anna Seward’s that her influence was wide, formative, and powerful, just as it was in prose fiction for novelists like Austen, Radcliffe, Opie, Scott and others. Judith Stanton undoubtedly exaggerates matters, therefore, when she observes sadly of Smith that ‘already waning in her later years, the popularity of her works ended with her death,’ for, as noted earlier, her poetry continued to be reprinted through mid-century (including in Frederic Rowton’s notorious 1848 Female Poets of Great Britain)” (Behrendt 201).
+10. **(Reprints, “emulation”)** “During her lifetime Charlotte Smith was a literary celebrity: her Elegiac Sonnets and Other Poems (1784) were continuously reprinted and wifely emulated.” (Duckling 203)
+  
+
+It is not, in fact, possible to calculate 
+
+
+
+Without \[certain kinds of evidence\], as F&L note, “we will never be able to ascertain precisely the “popularity” of various kinds of books... if by popularity we mean something like the modern best-seller lists” (F&L 16)
+
+Would need size of print runs and cost to produce, as well as sale price, and quantity sold.
+
+\[So it’s a little nonsense when people just say that something is popular\]  
+
 **Comedies vs tragedies performed**: the ratio of comedies to tragedies performed was an astonishing 14 to 1 in Paris (Theatre, Opera, and Audience in Revolutionary Paris: Analysis and Repertory by Emmet Kennedy, Marie-Laurence Netter, James P. McGregor, and Mark V. Olsen)
 
 **Suarez numbers**
 
 Some Statistics on the Number of Surviving Printed Titles for Great Britain and Dependencies from the Beginnings of Print in England to the year 1800, by Alain Veylit.   
-
-1. I identify male/female ratios?  
 
 Other work which has used the methodology of sampling includes 
 
@@ -503,31 +431,7 @@ Which of these archives are the most "reliable", and which the most "distorted"?
 
 Chris Young uses it  
 
-What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
-
-
-
-# ch 3 - archive popularity #  
-
-Chapter three expands upon the findings of the experiment carried out in chapter two, to examine popularity as it manifests in print culture. Influenced by Lesser and Farmer’s articulation of “structures of popularity,” I will consider popularity[ TK: Another tricky one. Might be best to avoid “popularity” unless you’re also going to factor in (as would be very hard) questions like print-runs (a nightmare imponderable), circulation (something aimed at libraries might have many more readers per copy than a book for home), unauthorized newspaper serializations, anthologization (is that a word?), false title pages (where a self-proclaimed 2^nd^ or 10^th^ edition might actually be just a new tp on remaindered sheets of a first edn that hasn’t sold. You could imagine (and this may have happened in practice) a novel published just once in 2,000 copies being more popular than one claiming five editions, none of which may have been more than 500 copies, and some of which may not have been true new editions at all. But which would come up as more popular give your metrics? This is all really tricky stuff and I think you’ll need a thorough discussion of the issues and assumptions.] in terms of total number of editions, frequency of reprinting, and market share.[ Lesser and Farmer also include profitability as one of the four measurements relevant to popularity in the book trade, but profitability is beyond the current scope of this project.] After determining how to calculate each of these metrics, I will ask: what was most popular during the decade, according to my corpora? How do the corpora differ in their answers, and why? I am particularly curious to see the place that chapbooks and religious tracts have in each corpus. My preliminary research suggests that many of the most reprinted works will substantially pre-date the 1790s in their composition. Accordingly, taking up David Brewer’s challenge to account for the increased “footprint” of some texts beyond the moment of their original publication, I will also pay attention to works originally written before the 1790s which nonetheless can be considered important “1790s literature” due to prominent reprinting. This inquiry’s first question is one of discovery: what works resurface in the 1790s? Its next question is one of close-reading and historical context: what makes them seem newly relevant? Restricting my inquiry only to the 1790s rather than nineteenth-century legacies, I will use my corpora to compare the publication output of various literary celebrities over the course of the decade. In addition to looking at the raw publication counts in the corpora defined in chapter two, I am currently exploring ways to use mentions in reviews and news articles to track prominence and reputation. The chapter as a whole, then, presents a sustained study of the relative popularity of the most prominent works printed during the 1790s, and seeks to answer how these prominent works might affect what we define as “popular literature”.  
-
-The Reading Experience Database contains over 30,000 searchable records documenting the history of reading in Britain from 1450 to 1945. Evidence comes from published and unpublished sources such as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records.
-
-
-
-Combine with **Novels Reviewed Database**
-
-
-
-Also <https://vls.english.qmul.ac.uk/> Dissenting Libraries Online
-
-To find out more about the reading habits of individual borrowers, click on [**Browse borrowers**](http://vls.english.qmul.ac.uk/cgi-bin/koha/member.pl). Explore the borrowing records of tutors, such as the Baptist [**Frederick W. Gotch**](http://vls.english.qmul.ac.uk/cgi-bin/koha/readingrec.pl?borrowernumber=86), ministerial students, including [**Robert Cotton Mather**](http://vls.english.qmul.ac.uk/cgi-bin/koha/readingrec.pl?borrowernumber=502) (later a Congregational missionary), and their lay counterparts, such as [**William Rayner Wood**](http://vls.english.qmul.ac.uk/cgi-bin/koha/readingrec.pl?borrowernumber=198) (who became a prominent Unitarian businessman). 
-
-The most frequently borrowed books include periodicals, theological textbooks, and historical works. Click on the links to see lists of the most popular titles at [**Manchester College**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=MAN&groupby=book&order=loancountdesc), [**Homerton Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=HOM&groupby=book&order=loancountdesc), or [**Bristol Baptist Academy**](http://vls.english.qmul.ac.uk/cgi-bin/koha/loansearch.pl?branchcode=BRI&groupby=book&order=loancountdesc).
-
-
-
-# coda? - gothic #  
+What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)  
 
 My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, on OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and \[will\] delete empty columns.
 
