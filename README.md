@@ -1,4 +1,4 @@
-# Next-do: revise ch 1 by Nov 22
+# Next-do: map out dissertation plan
 
 See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
 
@@ -26,6 +26,10 @@ non-MARC version: 1789|179[0123456789]
 # Research Log
 
 ## Nov 30, 2019
+
+I think I am at a bit of a fork -- there's the version of this project that lets me graduate in ~5.5 years, and there's the version of this project that accomplishes all of my original goals. The first one is a lot more traditional, and matches the chapter I've already written... the second one is a lot more exciting.
+
+## Nov 29, 2019
 
 Everything is off to the committee and I am free to dig into some experiment design, but it's been difficult to feel enthusiasm or interest for the work. Likely in itself a sign that I need to rethink some aspect of the experiment design. (Also a sign that the reality of writing is sinking in -- I have to make my peace with the partial and incomplete dissertation that will actually exist, as opposed to the perfect dissertations I could imagine..)
 
