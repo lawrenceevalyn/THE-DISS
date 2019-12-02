@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-11-30 14:36:55 -0500" ModID="6246E72E-E0FE-4B3B-BF44-97DFFB88DEA8">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-12-02 01:03:47 -0500" ModID="A649D712-19D9-4700-8E62-8F6346051A73">
     <Binder>
         <BinderItem UUID="EDAB35FA-5F1D-44DF-963D-171D341E5E8C" Type="Text" Created="2019-09-21 13:32:52 -0400" Modified="2019-09-21 13:35:03 -0400">
             <Title>Front Matter</Title>
@@ -11,7 +11,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="C459A359-0823-4FAE-93AB-55587CD20A5A" Type="Text" Created="2019-09-21 13:35:15 -0400" Modified="2019-09-21 13:47:45 -0400">
+                <BinderItem UUID="C459A359-0823-4FAE-93AB-55587CD20A5A" Type="Text" Created="2019-09-21 13:35:15 -0400" Modified="2019-12-02 01:03:13 -0500">
                     <Title>title page</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -20,7 +20,7 @@
                         <TextSelection>46,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F90D8DD9-7804-4B37-BA9E-B86FF687FCED" Type="Text" Created="2017-05-23 01:56:24 -0400" Modified="2019-09-21 14:05:27 -0400">
+                <BinderItem UUID="F90D8DD9-7804-4B37-BA9E-B86FF687FCED" Type="Text" Created="2017-05-23 01:56:24 -0400" Modified="2019-12-02 01:03:45 -0500">
                     <Title>acknowledgements</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -9258,14 +9258,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">258</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-11-30 14:36:53 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">260</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-12-02 01:02:07 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-11-28 00:00:00 -0500">
+    <RecentWritingHistory Date="2019-12-02 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>30</OtherWordCount>
-        <OtherCharCount>299</OtherCharCount>
+        <OtherWordCount>8</OtherWordCount>
+        <OtherCharCount>51</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
