@@ -31,7 +31,8 @@ non-MARC version: 1789|179[0123456789]
 
 A home-grown platform, rather than something done by an external company now. They are open to ideas! The DH specialists are themselves scholars.
 
-<!-- DH specialst: sarah.ketchley@cengage.com -->
+<!-- Gale's DH specialst: sarah.ketchley@cengage.com 
+Canada's Gale guy: Salvy Trojman salvy.trojman@cengage.com -->
 
 #### Overview of the Digital Scholar Lab
 
@@ -48,19 +49,104 @@ U of T's subscribed Gale primary sources are very extensive -- her first time go
 Their research environment
 * Cloud-based content set creaton
 * 6 GUI-based open-source tools for text analysis
+   * They are actively seeking input re: additional tools/functionality that people would like
 * Text cleaning integrated in platform
 
-Limited to 1000 docs per session? rising to 5000
+Can download 1000 docs per session. rising to 5000
 
 #### Sample project
 
+Secondary login via either Google or Microsoft on top of institutional login... except you have to use Google bc Microsoft comes up with "needs admin approval"
+* Gale doesn't persist any personal information
 
+(It's really interesting to see how important
+
+1789-99 ECCO: 44,121. 32,106 from ECCO I, 12,015 from ECCO II
+
+Content sets can be 10,000 at a time, so have to filter down
+
+Includes OCR confidence as a per-document metric. Will have lower confidence for image-heavy documents, microfilm scans. And then you can see OCR alongside the text!!
+
+Can download PDF **OR** the OCR!!!!!!!!!!!!! On a document-by-document basis, but ALSO as a bulk download!!!!!!!!!!!!!!!!!!!!!!
+
+You can add 10,000 documents to a content set with a single click!
+
+After making a content set, can clean to remove garbage characters or stop words. I REALLY like their decision to leave this up to individual scholars rather than trying to produce an official clean version.
+* Their default stopwords are the Glasgow stopword list but you can also choose other language-based ones or edit the list
+* Offers replacements of individual words with others
+* Before applying, use "Test Configuration" to see what it does to 10 documents from the content set. It downloads as a zip file, with a folder of original docs, a folder of clean docs, and a readme
+   * Can take up to 10-15 minutes
+   * Refresh the screen and a button will show up that says "download ready"
+* Cleaning is not glamorous... cleaning is very slow and interative. Go back and forth and do several rounds of cleaning. Clean to a specific research question; cleaning can be "good enough"
+   * Currently working on an update with documentation to guide cleaning at different levels, or for specific tools
+
+Six analysis tools, with a definition and a bit of info on how it works and its expected output. "Learn more" links to source code!
+* **Clustering:** Clustering analyzes the documents from a content set using statistical measures and methods to group them around particular features or attributes. This implementation of clustering leverages the k-means algorithm to create clusters of documents according to similar words contained within each document of your content set
+   * Built on open source algorithm from SciKit Learn, and you can see the algorithm itself
+* **Named Entity Recognition:** Named Entity Recognition (NER) recognizes and extracts proper and common nouns from documents using a Parts of Speech tagging method, and outputs them as lists of grouped by entity "type". Some "entity types" available for extraction are: people (including fictional), groups (nationalities, religious, or political), organizations (companies, agencies, institutions, etc.), locations (countries, states, cities), products (objects, vehicles, foods, etc.), works of art (titles of books, songs, etc.), dates (absolute or relative dates or periods), among others. This implementation uses spaCy's Named Entity Recognition model.
+   * Open source from spaCy
+* **Ngram:** An Ngram is a term, or collocation of terms, found in your content set. You set the range or number of terms ('N') you wish to consider in your analysis. Then, the frequency of those Ngrams is counted and displayed for analysis.
+   * In-house from Gale, based on Apache StandardTokenizer
+* **Parts of Speech Tagger:** Parts of Speech uses natural language processing of syntax to recognize, and tag parts of speech. It provides users with the building blocks for looking at how phrases are constructed within each document in a content set. This tool effectively creates a lexicographical index or dictionary of a content set. In this implementation of Parts of Speech Tagger you may review how authors use of speech varies over time. These outputs are generated using spaCy's Parts of Speech Tagger model
+   * Open source from spaCy
+* **Sentiment Analysis:** Sentiment analysis determines a tally of the positive or negative words within each document of a content set. It uses the AFINN lexicon (dictionary of words and their sentiment value) to compile sentiment scores for each phrase, which are then compiled to produce a document-level sentiment value. By establishing polarity within the texts (i.e. positive/negative word association), this tool can classify the documents in your content set between positive to negative sentiment. The tool assigns sentiment values to tokens (individual words), allowing viewing of positive or negative portions of text for the documents contained in your content set
+   * In-house from Gale, baed on AFINN which is published; can download their list of sentiment words with their relative weightings
+   * One request they've had is the ability to upload other sentiment lexicons or tweak lexicons within the platform -- looking into it
+* **Topic modelling:** Topic modelling allows users to analyze a large corpus of unstructured (OCR) text. A "topic," often referred to as a "bag of words," is a collection of terms that frequently co-occur in your collection of documents. Mallet uses Latent Dirichlet allocation (LDA) models to extract contextual clues in order to connect words with similar meanings, as well as differentiate between words that are spelled similarly but have differing meanings. This implementation of Mallet will provide you with the top topics in your content set, the relationship each topic has to those documents (and vice versa), the count of each word contained within a topic, and the connection of the words to any given topic in your content set
+   * Based on Mallet
+
+**Click "view:" on a tool to start an analysis**
+
+When using the tool, it keeps a Run History with NAMES for each run!!!!!
+
+It can considerable time to run on large corpora, it's fine to close the browser and come back to it later.
+
+Process of analysis might call attention to outlier documents which perhaps don't belong into the content set; once you're looking at the doc, you can click "remove from content set"
+
+Not a linear process -- iterative and cyclical
+   * Each tool has its Run History, and each content set has a Search History which does track document removals
+   * When you finally have solid results you want to publish, can you get a list of all the settings tied to the results?
+   * They're working on a way to cite visualizations, to download image and details together
+
+*Can't* customize graphs right now (but can download SVG and do it elsewhere
+   
+Users may download a .csv file containing the metadata captured for each document within their content set up to 10,000 documents. The following metadata fields are represented in this file:
+* Document Title
+* Content Type
+* Document Type
+* Publication Title
+* Publication Date
+* Publisher
+* Place of Publication
+* Author
+* Source Library
+* Gale Primary Source
+* Gale Document Number
+
+This metadata download is based on a request from a McGill researcher, recently added. They've written a python script (freely available in their github) which links this metadata to downloaded OCR texs.
+* No restriction on the use of these OCR texts right now???? Non-consumptive educational purposes
+
+Help documentation is quite buried at the bottom of the screen, a bit buried, and a bit sparse -- but in development. The help page that pops up is based on the page you're currently on, and then you can view all topics.
 
 #### Uses in Pedagogy & Research
 
+Useful for a class that builds in time for corpus building, cleaning, analysis, as the major phases of the syllabus.
+
 #### Development preview
 
+* Number 1 feature request is the ability to upload your own documents -- coming in the next iteration
+* Can be very responsive to particular questions and needs
+
 #### Q&A
+
+**My desires**
+* Download full replicable settings for tool use alongside results
+* A way to explore/pivot-table metadata in-house? though really, downloading it is probably fine
+* Filter content sets by metadata -- esp publication location
+    * Or upload a list of Gale doc IDs and make a content set based on those as a workaround
+
+**Questions**
+* Are there *any* differences between the materials included in, e.g., ECCO accessed through its portal, and ECCO accessed here?
 
 ## Nov 30, 2019
 
