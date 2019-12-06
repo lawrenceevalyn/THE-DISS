@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-12-02 01:03:47 -0500" ModID="A649D712-19D9-4700-8E62-8F6346051A73">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2019-12-05 18:09:18 -0500" ModID="302D6120-0017-4330-B583-3CCE953ADE49">
     <Binder>
         <BinderItem UUID="EDAB35FA-5F1D-44DF-963D-171D341E5E8C" Type="Text" Created="2019-09-21 13:32:52 -0400" Modified="2019-09-21 13:35:03 -0400">
             <Title>Front Matter</Title>
@@ -20,7 +20,7 @@
                         <TextSelection>46,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F90D8DD9-7804-4B37-BA9E-B86FF687FCED" Type="Text" Created="2017-05-23 01:56:24 -0400" Modified="2019-12-02 01:03:45 -0500">
+                <BinderItem UUID="F90D8DD9-7804-4B37-BA9E-B86FF687FCED" Type="Text" Created="2017-05-23 01:56:24 -0400" Modified="2019-12-02 01:05:02 -0500">
                     <Title>acknowledgements</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -29,7 +29,7 @@
                         <TextSelection>86,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="73531A70-C047-4158-ABF4-3F2783C9416A" Type="Text" Created="2019-09-19 17:52:07 -0400" Modified="2019-09-19 17:53:02 -0400">
+                <BinderItem UUID="73531A70-C047-4158-ABF4-3F2783C9416A" Type="Text" Created="2019-09-19 17:52:07 -0400" Modified="2019-12-02 01:04:50 -0500">
                     <Title>abbreviations</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -363,7 +363,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>969,0</TextSelection>
+                                        <TextSelection>3004,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="9A0227DC-8652-4900-A357-7931908D4D5D" Type="Text" Created="2019-02-10 01:38:45 -0500" Modified="2019-11-21 18:15:48 -0500">
@@ -9258,14 +9258,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">260</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-12-02 01:02:07 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">263</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-12-05 18:09:08 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-12-02 00:00:00 -0500">
+    <RecentWritingHistory Date="2019-12-05 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>8</OtherWordCount>
-        <OtherCharCount>51</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

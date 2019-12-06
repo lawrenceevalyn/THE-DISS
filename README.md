@@ -1,4 +1,4 @@
-# Next-do: map out dissertation plan
+# Next-do: write gender-finder
 
 See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
 
@@ -24,6 +24,43 @@ load csv in OpenRefine
 non-MARC version: 1789|179[0123456789]
 
 # Research Log
+
+## December 6, 2019
+
+### Gale Digital Scholar Lab
+
+A home-grown platform, rather than something done by an external company now. They are open to ideas! The DH specialists are themselves scholars.
+
+<!-- DH specialst: sarah.ketchley@cengage.com -->
+
+#### Overview of the Digital Scholar Lab
+
+U of T's subscribed Gale primary sources are very extensive -- her first time going onto two slides.
+* A lot of newspapers, indexed by section (opinion, headlines, etc)-- useful for data mining, eg letters to the editor when an event took place
+* monographs eg ECCO, for stylometry
+
+"Removing Key Barriers to Entry"
+* Current workflow: download primary source images one page at a time > raw OCR text > statistical output > visualization output (voyant)
+   * Building larger corpora takes a long time
+   * Many tools are complex, a barrier to new students
+* Lab combines content sets with tools for analysis
+
+Their research environment
+* Cloud-based content set creaton
+* 6 GUI-based open-source tools for text analysis
+* Text cleaning integrated in platform
+
+Limited to 1000 docs per session? rising to 5000
+
+#### Sample project
+
+
+
+#### Uses in Pedagogy & Research
+
+#### Development preview
+
+#### Q&A
 
 ## Nov 30, 2019
 
