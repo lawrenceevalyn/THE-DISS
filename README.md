@@ -25,6 +25,12 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## January 14, 2020
+
+I've started trying out the zettelkasten note-taking method, which has me eeeeasing back into this gradually. Those notes may end up essentially replacng this research log, but that's not a bad thing necessarily. 
+
+Spent some time trying to understand the gender package in R today, which will hopefully be useful!
+
 ## December 6, 2019
 
 ### Gale Digital Scholar Lab
