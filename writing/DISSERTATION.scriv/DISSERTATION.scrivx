@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-01-15 20:39:01 -0500" ModID="1F7CB1A5-039C-4D8F-BF14-5774DDE320F7">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-01-16 18:41:03 -0500" ModID="4D51084A-DA4D-431A-9118-7E1D55FFA8B8">
     <Binder>
+        <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
+            <Title>Conferences</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Lectern.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="4414FBFE-F508-424C-922D-8F299576D487" Type="Text" Created="2020-01-16 17:49:12 -0500" Modified="2020-01-16 18:39:20 -0500">
+                    <Title>Conference Plan</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1035,194</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="65C83BF3-4075-491E-8414-EF049CDE3EB6" Type="Text" Created="2020-01-16 16:39:51 -0500" Modified="2020-01-16 18:39:53 -0500">
+                    <Title>U of T 2020</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>240,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0D4B46D0-CB66-4764-A4E6-333B3840F8BC" Type="Text" Created="2020-01-16 18:39:40 -0500" Modified="2020-01-16 18:39:53 -0500">
+                    <Title>Keystone DH 2020</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>231,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="474B73AF-CB26-4624-A268-AA3AE8CB7137" Type="Text" Created="2020-01-16 16:02:39 -0500" Modified="2020-01-16 16:03:03 -0500">
+                    <Title>DH2020</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>79,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="32718B61-6DD1-4A61-87C6-9FEB2FF38888" Type="Text" Created="2020-01-16 16:39:40 -0500" Modified="2020-01-16 18:40:22 -0500">
+                    <Title>NASSR 2020</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>79,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="45FA28DA-7474-4471-ADD7-DE6BB95038FC" Type="Text" Created="2020-01-16 16:39:47 -0500" Modified="2020-01-16 18:40:22 -0500">
+                    <Title>CSECS 2020</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>204,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0F784CFF-D957-44DD-84CB-92525961B2F6" Type="Text" Created="2020-01-16 16:39:53 -0500" Modified="2020-01-16 18:40:22 -0500">
+                    <Title>MLA 2021</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>142,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem UUID="EDAB35FA-5F1D-44DF-963D-171D341E5E8C" Type="Text" Created="2019-09-21 13:32:52 -0400" Modified="2019-09-21 13:35:03 -0400">
             <Title>Front Matter</Title>
             <MetaData>
@@ -9258,14 +9333,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">318</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-01-15 20:38:33 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">319</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-01-16 15:53:52 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-01-15 00:00:00 -0500">
+    <RecentWritingHistory Date="2020-01-16 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>834</OtherWordCount>
+        <OtherCharCount>5827</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
