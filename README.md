@@ -25,6 +25,28 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## January 15, 2020
+
+Ok, actual advisory meeting coming up -- what do I want to talk about?
+* Let her know that it's not possible to just "write the dissertation", I need to break it down into concrete steps/chunks.
+* I want to go on the job market next year: let's look at my CV and work backwards from what I need to do between now and then.
+* I think my next steps are to calculate % of women in a bunch of corpora, and to to describe the current consensus of the % of women 
+  * Show my "Experiments in Literature!" spreadsheet?
+* How can I get a journal article out of my diss research?
+* I want to define intermediate deadlines: either times when I will meet with her with specific work completed, or conferences/articles
+  * Can/should I be meeting with Terry instead? Can she help me be less scared?
+* How can/should I find mentors in my field? I think I'm actually just **shy** -- what has she seen be successful for other students? What is my "target"? I do well when I have clear social constraints and tasks.
+
+Bring to the meeting:
+* Paper copy of my CV
+* Paper copy of a blank "timeline" to plan milestones on
+* Sticky notes of core Qs
+   * Mentors for job search
+   * CV gaps -- what catches her eye on a committee?
+   * Diss deliverable milestones
+      * Journal article?
+      * Terry?
+
 ## January 14, 2020
 
 I've started trying out the zettelkasten note-taking method, which has me eeeeasing back into this gradually. Those notes may end up essentially replacng this research log, but that's not a bad thing necessarily. 
