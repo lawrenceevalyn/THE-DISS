@@ -25,6 +25,12 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## January 16, 2020
+
+Did a bunch of reading today -- the zettelkasten note system seems promising.
+
+It feels good to have a strategy for the diss -- a bunch of conferences this year wll get me through the research, I think!
+
 ## January 15, 2020
 
 Ok, actual advisory meeting coming up -- what do I want to talk about?
