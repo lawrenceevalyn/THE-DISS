@@ -25,6 +25,20 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## January 31, 2020
+
+How can I make this project gayer? It seems like people can barely detect the feminist impulses underlying it, all the queerness is totally absent.
+
+There's something interest and important to be around the idea of queerying homophily (per Wendy Chun) -- and the fact that I've often wanted to make an anti-recommendation engine, something that explores ideas of difference.
+
+Oh-- and of course reparative reading is crucial to my whole deal. Though I still don't know what that really means or looks like. What kind of DH project would centre reparative reading at its core?
+
+Do I just want to do a traditional close reading paper on, like, The Old English Baron? Do I want to do some kind of text-mining to find, and establish the normality of, these kinds of relationships? (There's something so important about sisters allowing women access to marriageable brothers -- but hasn't Between Women already done that?) Can I return to Between Men and Between Women and revisit them productively with computation?
+
+I feel like this hooks into my overarching vindication of normality: part of what's enriching about these queer readings is that they are *not* subversive, transgressive, or surprising -- they present an image of normality and trans-historical belonging.
+
+Honestly, just finding something short and gay that would do well in survey courses would also be nice and useful to others, pedagogically. Actually, it would be great to have some pedagogical tools for WTWLA, which students love.
+
 ## January 16, 2020
 
 Did a bunch of reading today -- the zettelkasten note system seems promising.
