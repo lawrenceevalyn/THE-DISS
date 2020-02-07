@@ -433,17 +433,23 @@ Chris Young uses it
 
 What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)  
 
-My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, on OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and \[will\] delete empty columns.
+My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)
+
+My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, in OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and \[will\] delete empty columns.
 
 ECCO encodes much of its data in “unassigned” columns, rather than the standardized LOC categories.
 
-
-
-
-
 <https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm>
 
-Library of Congress MARC info  
+Library of Congress MARC info
+
+
+
+
+
+
+
+I also have ECCO metadata records, now, from the Gale Digital Scholars Lab. Due to their restrictions on how much data may be downloaded at once, I have created 11 files, each one holding the metadata for all of ECCO’s works in each year. ECCO-1789.csv, for example, is based on the following search: “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1789).” These files initially contain works from a wide range of publication locations, not just England, since the Digital Scholars Lab does not provide any way to filter items by publication location.  
 
 For each author, I went to http://estc.bl.uk/, determined the authoritative format of that author’s name within the database (e.g., “Smith, Charlotte Turner, 1749-1806”) and got the list of all titles attributed to that author. Paging through each entry, I recorded the date, edition, city, and publisher for every title which met my conditions of being printed in England 1789-99, and recorded the “permalink” URL to the work’s full ESTC record.
 
