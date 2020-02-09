@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-07 18:21:53 -0500" ModID="558D5683-F42A-46DA-B13F-F3B82173449F">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-08 19:50:24 -0500" ModID="295FABC2-C427-4704-B4D5-B30F0D05AC09">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1103,7 +1103,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="FC2FB4E3-B0C7-4473-B988-E4B9DAF1423F" Type="Text" Created="2020-02-07 16:28:52 -0500" Modified="2020-02-07 16:28:58 -0500">
+                                <BinderItem UUID="FC2FB4E3-B0C7-4473-B988-E4B9DAF1423F" Type="Text" Created="2020-02-07 16:28:52 -0500" Modified="2020-02-08 19:40:39 -0500">
                                     <Title>gender-guesser.r</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1138,7 +1138,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>625,0</TextSelection>
+                                                <TextSelection>268,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -9353,14 +9353,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">359</SessionTarget>
-        <PreviousSession Words="137" Characters="860" Date="2020-02-07 16:28:45 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">360</SessionTarget>
+        <PreviousSession Words="137" Characters="807" Date="2020-02-08 19:37:23 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-02-07 00:00:00 -0500">
+    <RecentWritingHistory Date="2020-02-08 00:00:00 -0500">
         <DraftWordCount>137</DraftWordCount>
-        <DraftCharCount>860</DraftCharCount>
-        <OtherWordCount>11</OtherWordCount>
-        <OtherCharCount>79</OtherCharCount>
+        <DraftCharCount>807</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -433,6 +433,14 @@ Chris Young uses it
 
 What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)  
 
+The “gender” package in R is able to draw on a range of historical sources for gender information, but only one is applicable for this project. Most are US-based or only contain information beginning in the nineteenth century (or both). \[Or, SHOULD I use ipums...? Will US names differ a lot?\]
+
+
+
+"The "napp" method uses census microdata from Canada, Great Britain, Denmark, Iceland, Norway, and Sweden from 1801 to 1910 created by the North Atlantic Population Project.” “For the "napp" method the default range is the period 1758 to 1910, which is also the range of acceptable years.”
+
+“The "ipums" method looks up names from the U.S. Census data in the Integrated Public Use Microdata Series.” “For the "ipums" method the default range is the period 1789 to 1930, which is also the range of acceptable years.”  
+
 My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)
 
 My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, in OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and \[will\] delete empty columns.
