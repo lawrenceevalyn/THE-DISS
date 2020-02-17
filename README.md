@@ -27,7 +27,9 @@ non-MARC version: 1789|179[0123456789]
 
 ## February 17, 2020
 
-Important research methodology note -- the Hathi numbers in the CSmith-ESTC-ECCO-TCP-Hathi-alluvial.svg viz are probably not accurate (probably missing some Hathi docs, they haven't been fully checked)
+~Important research methodology note -- the Hathi numbers in the CSmith-ESTC-ECCO-TCP-Hathi-alluvial.svg viz are probably not accurate (probably missing some Hathi docs, they haven't been fully checked)~
+
+Strike that-- I just checked them
 
 ## January 31, 2020
 
