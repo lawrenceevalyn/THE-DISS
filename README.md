@@ -25,6 +25,10 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## February 17, 2020
+
+Important research methodology note -- the Hathi numbers in the CSmith-ESTC-ECCO-TCP-Hathi-alluvial.svg viz are probably not accurate (probably missing some Hathi docs, they haven't been fully checked)
+
 ## January 31, 2020
 
 How can I make this project gayer? It seems like people can barely detect the feminist impulses underlying it, all the queerness is totally absent.
