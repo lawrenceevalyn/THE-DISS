@@ -437,9 +437,15 @@ The “gender” package in R is able to draw on a range of historical sources f
 
 
 
-"The "napp" method uses census microdata from Canada, Great Britain, Denmark, Iceland, Norway, and Sweden from 1801 to 1910 created by the North Atlantic Population Project.” “For the "napp" method the default range is the period 1758 to 1910, which is also the range of acceptable years.”
+"The "napp" method uses census microdata from Canada, Great Britain, Denmark, Iceland, Norway, and Sweden from 1801 to 1910 created by the North Atlantic Population Project.” (Mullen, Blevins, and Schmidt)  “For the "napp" method the default range is the period 1758 to 1910, which is also the range of acceptable years.”(Mullen, Blevins, and Schmidt)
 
-“The "ipums" method looks up names from the U.S. Census data in the Integrated Public Use Microdata Series.” “For the "ipums" method the default range is the period 1789 to 1930, which is also the range of acceptable years.”  
+“The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), **Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911)**, Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and Iceland (1703, 1729, 1801, 1901, 1910).” (NAPP)
+
+So actually, NAPP data has nothing relevant to *both* my time and place. But this may be the same US data that’s in the IPUMS method, so it’s still worth comparing the two.
+
+
+
+“The "ipums" method looks up names from the U.S. Census data in the Integrated Public Use Microdata Series.”(Mullen, Blevins, and Schmidt) “For the "ipums" method the default range is the period 1789 to 1930, which is also the range of acceptable years.”(Mullen, Blevins, and Schmidt)  
 
 My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)
 

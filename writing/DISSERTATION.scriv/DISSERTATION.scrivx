@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-08 19:53:24 -0500" ModID="48990864-EB18-4F11-83B3-C2B975D10521">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-16 23:20:27 -0500" ModID="17256D93-9A27-4BC6-9B4A-DB4A113A9F99">
     <Binder>
+        <BinderItem UUID="D52B9CA7-1E3B-4C55-A618-13D0465152D4" Type="Text" Created="2020-02-15 22:41:05 -0500" Modified="2020-02-15 23:04:15 -0500">
+            <Title>JHI Abstract</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="DC103DFA-6191-409E-B1A5-5BDF1CC1A036" Type="Text" Created="2020-02-15 22:47:52 -0500" Modified="2020-02-15 22:48:02 -0500">
+                    <Title>Theme</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>391,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5BD9832E-669F-4CAC-B0A4-C1034CC7A8C4" Type="Text" Created="2020-02-15 22:43:12 -0500" Modified="2020-02-15 23:05:14 -0500">
+                    <Title>OGS draft</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7072,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
             <MetaData>
@@ -687,6 +716,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="5A95CC12-A015-4D88-883C-25B74B6CC4A5" Type="Text" Created="2020-02-12 20:21:25 -0500" Modified="2020-02-12 20:24:54 -0500">
+                            <Title>corpora are the new canons</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>573,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="541964B5-5159-4138-BB0E-B18CC654CCE7" Type="Text" Created="2019-05-31 16:16:45 -0400" Modified="2019-11-21 19:03:25 -0500">
                             <Title>ESTC overview</Title>
                             <MetaData>
@@ -1103,13 +1141,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="FC2FB4E3-B0C7-4473-B988-E4B9DAF1423F" Type="Text" Created="2020-02-07 16:28:52 -0500" Modified="2020-02-08 19:40:39 -0500">
+                                <BinderItem UUID="FC2FB4E3-B0C7-4473-B988-E4B9DAF1423F" Type="Text" Created="2020-02-07 16:28:52 -0500" Modified="2020-02-08 20:47:17 -0500">
                                     <Title>gender-guesser.r</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>290,0</TextSelection>
+                                        <TextSelection>1173,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1177,7 +1215,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-02-08 19:53:24 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-02-12 20:30:53 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -1202,7 +1240,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>372,0</TextSelection>
+                                <TextSelection>4248,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="82C52752-C654-493D-8A47-AC5786AC809F" Type="Text" Created="2019-09-13 17:11:36 -0400" Modified="2019-11-21 19:00:04 -0500">
@@ -2894,6 +2932,15 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                     </MetaData>
                     <TextSettings>
                         <TextSelection>762,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2DC60702-7DA1-44EF-9BA6-4C648A0AE68E" Type="Text" Created="2020-02-12 20:28:01 -0500" Modified="2020-02-12 20:28:31 -0500">
+                    <Title>Coker and Ozment</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>574,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -6132,6 +6179,9 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                     <TextSettings>
                         <TextSelection>428,0</TextSelection>
                     </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="D52B9CA7-1E3B-4C55-A618-13D0465152D4"></Bookmark>
+                    </Bookmarks>
                 </BinderItem>
                 <BinderItem UUID="4732648E-C406-4076-A0C9-6F91B629A8F6" Type="Text" Created="2018-11-07 19:45:57 -0500" Modified="2018-12-08 17:46:14 -0500">
                     <Title>OGS Plan of Study 2018</Title>
@@ -9353,14 +9403,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">360</SessionTarget>
-        <PreviousSession Words="137" Characters="807" Date="2020-02-08 19:37:23 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">376</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-02-16 23:15:56 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-02-08 00:00:00 -0500">
-        <DraftWordCount>137</DraftWordCount>
-        <DraftCharCount>807</DraftCharCount>
-        <OtherWordCount>12</OtherWordCount>
-        <OtherCharCount>89</OtherCharCount>
+    <RecentWritingHistory Date="2020-02-16 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
