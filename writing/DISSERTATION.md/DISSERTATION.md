@@ -181,9 +181,17 @@ In the following chapters, this dissertation weaves together an exploration of 1
 
 ## Smith in databases ##  
 
-For the purposes of this chapter, I will occasionally examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I will consider all 48 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  
+For the purposes of this chapter, I will occasionally examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  
 
-Table 1: All editions of Charlotte Smith’s works published in her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.
+![][CSmith-in-ESTC-ECCO-TCP-Hathi-table]
+
+Table 1: All editions of Charlotte Smith’s works published in her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
+
+Figure 1 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, are not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800). \[WHY THESE FIVE?\] \[WRITE UP HATHI\] \[WRITE UP TCP\]  
+
+![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]
+
+Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).
 
 
 
@@ -196,6 +204,10 @@ Table 1: All editions of Charlotte Smith’s works published in her lifetime or 
 
 
 ### 2.1.2.  ECCO model ###
+
+
+
+An edition being “included” in ECCO looks different from its inclusion in the ESTC --- whereas the ESTC lists just one record for each multivolume work, ECCO lists each volume separately, with links to the other volumes available in the “full citation” for the volume.
 
 
 
@@ -529,7 +541,27 @@ Library of Congress MARC info
 
 I also have ECCO metadata records, now, from the Gale Digital Scholars Lab. Due to their restrictions on how much data may be downloaded at once, I have created 11 files, each one holding the metadata for all of ECCO’s works in each year. ECCO-1789.csv, for example, is based on the following search: “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1789).” These files initially contain works from a wide range of publication locations, not just England, since the Digital Scholars Lab does not provide any way to filter items by publication location.  
 
-For each author, I went to http://estc.bl.uk/, determined the authoritative format of that author’s name within the database (e.g., “Smith, Charlotte Turner, 1749-1806”) and got the list of all titles attributed to that author. Paging through each entry, I recorded the date, edition, city, and publisher for every title which met my conditions of being printed in England 1789-99, and recorded the “permalink” URL to the work’s full ESTC record.
+For each author, I went to http://estc.bl.uk/, determined the authoritative format of that author’s name within the database (e.g., “Smith, Charlotte Turner, 1749-1806”) and got the list of all titles attributed to that author. Paging through each entry, I recorded the date, edition, city, and publisher for every title which met my conditions of being printed in England 1789-99, and recorded the “permalink” URL to the work’s full ESTC record.  
+
+![][CSmith-in-ESTC-ECCO-TCP-Hathi-table-1]
+
+Table 1: All editions of Charlotte Smith’s works published in her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
+
+Table 1 shows data that I compiled by hand in Numbers. The first three columns are based on my synthesis of scholarship on Charlotte Smith. As I consulted a range of work on Smith, I updated this information to reflect the most complete and accurate information possible. My editorial decisions included, for example, the exclusion of *D’Arcy* from consideration, since it was never published in England. I introduced standardized titles for the two volumes of *Elegiac Sonnets*, retroactively naming the initial publication “volume 1” to distinguish it from the second volume which would appear 13 years later, so that each title has its own edition count. The next four columns represent the results of my queries in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases. I searched each database with several queries to locate Smith’s works, beginning (where possible) by finding all works categorized under her authorship, and then searching individual titles of works. This figure shows the simplified results from a more detailed spreadsheet, which also includes links to the records themselves where they exist, and notes on how the records are encoded (e.g., multiple volumes or all as one volume.) Simplifying inclusion down to a boolean yes/no involved some editorial decisions. If only *part* of a work was included (as in HathiTrust’s record for the first edition of *Celestina*, which only includes volumes 3 and 4), I recorded that as a “yes.” If a work was only included in its Dublin edition (as in HathiTrust’s record for *Desmond*), I recorded that as a “no.” These searches were conducted in February 2020.  
+
+![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3-1]
+
+Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).  
+
+Figure 1 is based on the data recorded in Table 1, which was pasted into the RAW Graphs visualization tool (Mauri et al.) and processed using their default settings for an alluvial diagram. Using an alluvial diagram required imagining the databases as sequential “stages” through which all books flow. Accordingly, I added a “source” for this flow of books by adding a column labeling every edition as falling into the category “Works printed in England, 1784-1807.” I could have chosen to place the following “stages” in any order; to assist in visualizing Smith’s representation in these databases as a process of ‘winnowing down,’ I chose to place them in order from largest selection to smallest. The scale of each “strand” of the diagram is scaled in width based on the number of editions it represents, as per RAW Graphs’ default settings. The colours, fonts, and width of the graph are also simple defaults.
+
+[CSmith-in-ESTC-ECCO-TCP-Hathi-table]: CSmith-in-ESTC-ECCO-TCP-Hathi-table.tif width=184px height=312px
+
+[CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]: CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3.png width=244px height=198px
+
+[CSmith-in-ESTC-ECCO-TCP-Hathi-table-1]: CSmith-in-ESTC-ECCO-TCP-Hathi-table.png width=184px height=312px
+
+[CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3-1]: CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3.png width=244px height=198px
 
 [^cf1]: More specifically, these “authors” are “Great Britain, Parliament,” “Great Britain,” “Great Britain, Parliament, House of Commons,” “Great Britain, Lords Commissioners of Appeals in Prize Causes,” and King George III. After King George comes Thomas Paine and Hannah More, and then it’s “Great Britain, Parliament, House of Lords” and “Church of England.”
 

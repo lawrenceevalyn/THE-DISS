@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-18 16:03:55 -0500" ModID="F90C0481-46A8-4BF2-AE6D-3A3E16D6F4FA">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-18 16:56:38 -0500" ModID="4D07EBD9-E56A-410F-9DA2-E19F25265C48">
     <Binder>
         <BinderItem UUID="D52B9CA7-1E3B-4C55-A618-13D0465152D4" Type="Text" Created="2020-02-15 22:41:05 -0500" Modified="2020-02-15 23:04:15 -0500">
             <Title>JHI Abstract</Title>
@@ -765,18 +765,18 @@
                                         <TextSelection>122,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="0459F728-D3BB-4957-B20E-3E4C9E3E6623" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-18 15:16:16 -0500">
+                                        <BinderItem UUID="0459F728-D3BB-4957-B20E-3E4C9E3E6623" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-18 16:56:11 -0500">
                                             <Title>table:Smith-4dbs</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,28</TextSelection>
+                                                <TextSelection>1,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="3B0AC8BA-04CA-4F1E-8BFD-6C9F25320D7A" Type="Text" Created="2020-02-18 15:56:16 -0500" Modified="2020-02-18 15:57:50 -0500">
+                                <BinderItem UUID="3B0AC8BA-04CA-4F1E-8BFD-6C9F25320D7A" Type="Text" Created="2020-02-18 15:56:16 -0500" Modified="2020-02-18 16:50:45 -0500">
                                     <Title>winnowing down</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -785,13 +785,13 @@
                                         <TextSelection>148,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="C45619A7-FBC0-478C-9966-51569D588F7B" Type="Text" Created="2020-02-18 15:33:56 -0500" Modified="2020-02-18 15:50:33 -0500">
+                                        <BinderItem UUID="C45619A7-FBC0-478C-9966-51569D588F7B" Type="Text" Created="2020-02-18 15:33:56 -0500" Modified="2020-02-18 16:09:34 -0500">
                                             <Title>fig:Smith-4dbs-alluvial</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>9,28</TextSelection>
+                                                <TextSelection>1,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -818,14 +818,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="71515433-11B0-47A1-AD77-1BADF03D436C" Type="Text" Created="2020-02-18 15:04:33 -0500" Modified="2020-02-18 15:17:32 -0500">
+                                <BinderItem UUID="71515433-11B0-47A1-AD77-1BADF03D436C" Type="Text" Created="2020-02-18 15:04:33 -0500" Modified="2020-02-18 16:49:53 -0500">
                                     <Title>ECCO model</Title>
                                     <MetaData>
                                         <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>266,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="7F85680D-55A7-4992-B78C-52C8E1705193" Type="Text" Created="2020-02-18 15:04:36 -0500" Modified="2020-02-18 15:17:32 -0500">
@@ -1407,6 +1407,44 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="5375B92E-28B6-47B0-A066-4341829DE868" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-18 16:56:26 -0500">
+                                    <Title>table:Smith-4dbs</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3D110120-5268-45C4-8F61-D51C44992795" Type="Text" Created="2020-02-18 16:09:09 -0500" Modified="2020-02-18 16:29:16 -0500">
+                                    <Title>Table &lt;$n#table:Smith-4dbs&gt;</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1583,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7E787F3D-EBCA-4037-967E-7D12B6AD2583" Type="Text" Created="2020-02-18 15:33:56 -0500" Modified="2020-02-18 16:39:37 -0500">
+                                    <Title>fig:Smith-4dbs-alluvial</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>474,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B0821094-841E-46A6-B473-875A17DCAFA2" Type="Text" Created="2020-02-18 16:09:25 -0500" Modified="2020-02-18 16:38:23 -0500">
+                                    <Title>Figure &lt;$n#fig:Smith-4dbs-alluvial&gt;</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>722,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -9967,6 +10005,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="328D38C4-2981-471F-8CC2-62CBD9554C0F" Type="Text" Created="2020-02-18 16:08:40 -0500" Modified="2020-02-18 16:08:40 -0500">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -10025,11 +10071,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">380</SessionTarget>
-        <PreviousSession Words="310" Characters="1852" Date="2020-02-18 14:54:13 -0500"></PreviousSession>
+        <PreviousSession Words="909" Characters="5518" Date="2020-02-18 14:54:13 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-02-18 00:00:00 -0500">
-        <DraftWordCount>310</DraftWordCount>
-        <DraftCharCount>1852</DraftCharCount>
+        <DraftWordCount>909</DraftWordCount>
+        <DraftCharCount>5518</DraftCharCount>
         <OtherWordCount>41</OtherWordCount>
         <OtherCharCount>258</OtherCharCount>
     </RecentWritingHistory>
