@@ -509,6 +509,68 @@ Chris Young uses it
 
 What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)  
 
+The problem of textual selection--- the paired difficulty and importance of deciding which few books one will actually read--- is an urgently meaningful problem in the “real world,” outside the realms of academia. A common solution is one which will likely alarm and distress most scholars who have dedicated themselves to thinking through canonical selection, or even the construction of a syllabus: a solution which could perhaps be called ‘radical impatience.’ Consider, for example, the following advice in a blog post, “100 Ways to Live Better,” item number 6, the first entry in the category “Mind”:
+
+There are more great podcasts than you’ll ever have the time to listen to. If it sucks after 10 minutes, skip half an hour ahead. Still boring? Delete and move on. Obviously, do the same for books.
+
+There is much to find distressing here. The operant metric that another’s ideas “suck” if they are “boring” in the first ten or thirty minutes. The fact that “obviously” the same metrics apply for books as for podcasts. Indeed, even the fact that podcasts so strongly come *before* books. Each word in the first sentence is itself a link to a specific podcast recommended by the writer, but “books” are a monolith and a footnote.
+
+
+
+Later we see another metric for textual selection:
+
+Should you watch that movie / play that game / read that book? Use the ratio:
+
+(\[# who rated it 5/5\] + \[# who rated it 1/5\]) / \[# who rated it 3/5\].
+
+This doesn’t apply to everything, but it applies to many things, including media. There are too many options out there to waste time on mediocrity, and everything great will be divisive.
+
+Paired with the first piece of advice, this would suggest a process of seeking out divisive and controversial works, determining within ten minutes whether one is strongly in sympathy or strongly opposed, and continuing only with works which evoke strong sympathy.
+
+Of the seven mentions of the word “book,” two are in fact the word “Facebook.” Two are the pieces of advice quoted above. Two are suggestions to find “good audiobooks, and/or a dog” to form a habit of going on walks, or “a good app or guidebook” to practice meditation. And the last is the advice that “If you’ve been waiting for months for someone to create an event and invite you, whether it’s a book discussion or a BDSM orgy, just throw one yourself,” in which “a book discussion” functions rhetorically as an extreme example of an unusual and improbable kind of social event, paired against its assumed opposite extreme.  
+
+I created a “content set” called ECCO-1798 in Gale Digital Scholar Labs, by searching for all works in ECCO published “between” 1798 and 1798. This located 4,158 records. I downloaded the metadata for these 4,158 records as a CSV. I then used random.org’s “Random Integer Generator” to generate ten integers from 1 to 4,158 (inclusive), resulting in the following numbers: 1792, 2365, 159, 3511, 919, 170, 2136, 2259, 190, and 2242. I looked up the ten works appearing in those rows of the spreadsheet, without altering the order of the records from Gale’s default. (It is unclear to me what sorting method was used to organize them in the document.) I used the Gale Content Numbers of these ten works to create a new “content set” of just these ten titles.  
+
+159 - Poetry; original and selected	Monograph	Monograph	Literature and Language I.	\[1796-98\]	Gale	London, United Kingdom		British Library	null	GALE\|CW0115892706	
+
+170 - Sir, You are desired to meet the committee for improving the navigation of the River Thames, and for preventing encroachments on the said river, on board the navigation barge, at Staines, on Saturday, the 7th day of July 1798, at eight o'clock in the morning, and proceed from thence down the river at nine precisely, ...	Monograph	Monograph	Social Sciences II.	\[1798\]	Gale, a Cengage Company	Oxford, United Kingdom	Great Britain. Commissioners Appointed for Improving and Completing the Navigation of the Rivers Thames and Isis	Bodleian Library, University of Oxford	null	GALE\|CB0130118850	
+
+190 - Thoughts concerning the proper principles of finance, that ought to be adopted at present, and in future, in support of the British government. Addressed To The Freeholders And Mercantile Interest Of Leeds, Wakefield, Halifax, Huddersfield, Bradford, Doncaster, Hull, And The Other Towns In The County Of York. By a freeholder of Yorkshire	Monograph	Monograph	Social Sciences I.	1798	Gale	Lawrence, KS, United States	James Cochrane	Spencer Research Library, University of Kansas	null	GALE\|CW0107793549	
+
+919 - National blessings considered and improved, in a sermon, preached on Thursday, November 29, 1798. By Alex. Black, Minister, Musselburgh	Monograph	Monograph	Religion and Philosophy I.	1798	Gale	London, United Kingdom	Alexander Black	British Library	null	GALE\|CW0123387895	
+
+1792 - False impressions: A comedy in five acts. Performed at the Theatre Royal, Covent Garden. By Richard Cumberland, Esq.	Monograph	Monograph	Fine Arts II.	1798	Gale, a Cengage Company	London, United Kingdom	Richard Cumberland	British Library	Eighteenth Century Collections Online	GALE\|CB0129794221	
+
+2136 - The surprizing adventures, of Jack Oakum, & Tom Splicewell, two sailors, who went a pirating on the Kings' highway. How that the first \[prize\] they took gave information of their course, and being pursued by a whole squadron, Tom Spicewell was taken and condemned to be hanged \[:\] but by means of his beloved friend Jack Oakum, who interested with his Majesty, he was pardoned.. Also a copy of Jack's polite letter to the King, on the above occasion. To which is added, The merry revenge; \[our,\] Joe's stomach in June	Monograph	Monograph	Literature and Language I.	1798	Gale	Oxford, United Kingdom		Bodleian Library, University of Oxford	null	GALE\|CW0116560788
+
+2242 - The American preceptor; being a new selection of lessons for reading and speaking. Designed for the use of schools. By Caleb Bingham, A.M. author of The Columbian orator, Child's companion, &c. \[One line of quotation\] Published according to act of Congress	Monograph	Monograph	Literature and Language II.	1798	Gale, a Cengage Company	Boston, MA, United States	Caleb Bingham	Boston Public Library	null	GALE\|CB0130828924	
+
+2259 - The letters of Junius	Monograph	Monograph	Literature and Language I.	1798	Gale	Cambridge, MA, United States	Junius	Houghton Library, Harvard University	null	GALE\|CW0110410930	
+
+2365 - Gil Blas corrigé; ou histoire de Gil Blas de Santillane. Par M. Le Sage. Dont on a retranché les expressions & passages contraires à la décence, ... & à laquelle on a ajouté un recueil de traits brillans, des plus célèbres poëtes françois. Par J. N. Osmond. ...	Monograph	Monograph	Literature and Language I.	1798	Gale	Oxford, United Kingdom	Alain René Le Sage	Bodleian Library, University of Oxford	Eighteenth Century Collections Online	GALE\|CW0116687637
+
+3511 - A Plain narrative of facts respecting the trial of James Coigley; Including his letter to an Irish gentleman, in London, and A. Young's letter to G. Lloyd	Monograph	Monograph	Law II.	1798	Gale, a Cengage Company	Cambridge, United Kingdom		University of Cambridge Library	null	GALE\|CB0132172434	  
+
+1053 - Le juge à paix, et officier de paroisse, pour la province de Quebec. Extrait de Richard Burn, chancellier du diocèse de Charlisle, & un des juges à paix de Sa Majesté, pour les comtés de Westmorland & Cumberland. Traduit par Jos. F. Perrault	M.DCC.LXXXIX.\[1789\]	London, United Kingdom	Richard Burn	
+
+2464 - An apology for professing the religion of nature, in the eighteenth century of the Christian aera; addressed to the Right Reverend Dr. Watson, Lord Bishop of Landaff	MDCCLXXXIX. \[1789\]	Oxford, United Kingdom	David Williams
+
+1211 - Some account of the discovery, made by the late Mr. John Dollond, F. R. S. which led to the grand improvement of refracting telescopes, in Order to Correct some Misrepresentations, in Foreign Publications, of that Discovery: with an attempt to account for the mistake in an experiment made by Sir Isaac Newton; on which Experiment, the Improvement of the Refracting Telescope Entirely Depended. By Peter Dollond, Member of the American Philosophical Society at Philadelphia	 M.DCC.LXXXIX. \[1789\]	London, United Kingdom Peter Dollond	
+
+1086 - Reflections on the contentions and disorder of the corporation of Cambridge	M.DCC.LXXXIX. \[1789\]	Oxford, United Kingdom
+
+51 - Nécessité de supprimer et d'éteindre les ordres religieux en France, prouvée par l'histoire philosophique du monachisme, ...	1789 London, United Kingdom
+
+938 - Emma Dorvill. By a lady	MDCCLXXXIX. \[1789\]	London, United Kingdom
+
+629 - Virtue and peace forever inseparable. A discourse at the interment of Capt. John Howard, of Hampton, June 17th, 1789. By Joseph Huntington, D.D. \[Three lines from Young\] A few thoughts appear in the copy which, for the sake of brevity, were omitted in preaching M.DCC.LXXXIX. \[1789\]	Washington, DC, United States	Joseph Huntington
+
+1524 - A practical treatise on the gonorrhoea, and on the superior efficacy of the cure by injection. By Peter Clare, surgeon \[1789\] Boston, MA, United States	Peter Clare	
+
+702 - Analyse raisonnée de la sagesse de Charron. premiere partie	M.DCC.LXXXIX. \[1789\]	Manchester, United Kingdom	Jean-Pierre-Louis de Luchet
+
+1732 - Two discourses. I. On wisdom attainable by meditation of the vanity of human life ... II. Men more influenced by example than precept; ... Preached ... March 8, 1789, by the Reverend Samuel Hopkinson, ...	\[1789\]	London, United Kingdom	Samuel Hopkinson  
+
 The “gender” package in R is able to draw on a range of historical sources for gender information, but only one is applicable for this project. Most are US-based or only contain information beginning in the nineteenth century (or both). \[Or, SHOULD I use ipums...? Will US names differ a lot?\]
 
 

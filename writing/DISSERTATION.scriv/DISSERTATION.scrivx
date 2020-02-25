@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-24 17:38:54 -0500" ModID="FB6920A7-68FC-44DE-9280-4089174FF323">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-24 20:25:00 -0500" ModID="9BB971D2-BB62-49F3-85AC-571AB4301FCD">
     <Binder>
         <BinderItem UUID="D52B9CA7-1E3B-4C55-A618-13D0465152D4" Type="Text" Created="2020-02-15 22:41:05 -0500" Modified="2020-02-15 23:04:15 -0500">
             <Title>JHI Abstract</Title>
@@ -1337,13 +1337,42 @@
                                 <TextSelection>1879,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="6C9299A7-A055-4A35-BD93-851D304F41BE" Type="Text" Created="2020-02-24 17:51:34 -0500" Modified="2020-02-24 17:51:41 -0500">
+                            <Title>1798 random sample</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="FF8BBEBB-8E64-4BEB-A089-7A4371FB1216" Type="Text" Created="2020-02-24 17:51:42 -0500" Modified="2020-02-24 18:01:03 -0500">
+                                    <Title>method</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>757,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2FE0044D-D7E4-4BA8-88AB-A31A11A6E15E" Type="Text" Created="2020-02-24 17:55:17 -0500" Modified="2020-02-24 17:58:51 -0500">
+                                    <Title>10 random 1798 titles</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>148,12</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem UUID="2C748743-AE51-4790-ADA5-BBCFAD7357F7" Type="Text" Created="2020-02-24 17:30:01 -0500" Modified="2020-02-24 17:38:54 -0500">
                             <Title>10 random 1789 titles</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1770,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -10089,11 +10118,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">388</SessionTarget>
-        <PreviousSession Words="781" Characters="4849" Date="2020-02-24 16:48:13 -0500"></PreviousSession>
+        <PreviousSession Words="1498" Characters="9497" Date="2020-02-24 16:48:13 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-02-24 00:00:00 -0500">
-        <DraftWordCount>781</DraftWordCount>
-        <DraftCharCount>4849</DraftCharCount>
+        <DraftWordCount>1498</DraftWordCount>
+        <DraftCharCount>9497</DraftCharCount>
         <OtherWordCount>16</OtherWordCount>
         <OtherCharCount>91</OtherCharCount>
     </RecentWritingHistory>
