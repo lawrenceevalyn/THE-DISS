@@ -187,17 +187,67 @@ For the purposes of this chapter, I will occasionally examine Smith’s works wh
 
 Table 1: All editions of Charlotte Smith’s works published in England during her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
 
-Figure 1 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, are not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800). \[WHY THESE FIVE?\] 
+Figure 1 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, is not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800[ Why these five?]).
 
 HathiTrust contains 18 of Smith’s 47 editions, though these are not a simple subset of the ESTC and ECCO. Unlike the ESTC and ECCO, HathiTrust contains volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802)[^cf25]. This is the only post-1800 work which appears in HathiTrust, however--- the others are also missing, including the important volume *Beachy Head* (1807). There is one work included in HathiTrust but not in ECCO, the second edition of *The Banished Man* (1795). Whereas ECCO does not include works unless there is a complete copy available, HathiTrust provides scans of volumes 2, 3, and 4, and simply implies through their numbering that there is a missing first volume --- perhaps in the optimism that a volume 1 will appear from another library’s holdings, to complete the set later.[^cf26] The remaining HathiTrust included titles appear in both the ESTC and ECCO, and a further 21 titles appear as facsimiles in ECCO but not in HathiTrust. At first blush it is somewhat surprising that HathiTrust has failed to include works which are, demonstrably, in known locations at institutional libraries, and in physically sound condition to be scanned--- but the scans making up HathiTrust bear no relation to the scans in ECCO. *The Young Philosopher* (1798), for example, appears in ECCO sourced from a British Library copy, but the HathiTrust images are “Google-digitized” from the New York Public Library. Google’s rapacious book-scanning, evidently, was not as thorough as ECCO’s sustained scholarly project.
 
-The smallest subset of all of these texts is the ECCO-TCP holding of just two titles: the second edition of *Celestina* (1791), and the first edition of *The Emigrants* (1793). Both titles appear in all larger databases, including HathiTrust (though, as I will discuss, they arrive in HathiTrust from a different source). *The Emigrants* is included in ECCO-TCP as one file, based on the ECCO facsimile of an original from the Huntington Library. *Celestina* is included as four files, one for each of four volumes, based on the ECCO facsimile of an original from the British Library. Both works were first reproduced in the microfilm version produced 1982-2002 in by Research Publications,[^cf27] then digitized in 2003 (released on ECCO in June 2004), and finally published as TEI XML files in January 2007. The current files have been kept up to date with changes in TEI standards, and were created by converting TCP files to TEI P5 using tcp2tei.xsl. The bibliographic metadata for these works is the same between ESTC, ECCO, and ECCO-TCP records. In HathiTrust, however, the source text for The Emigrants is a University of California Library copy, rather than the British Library, scanned by Google Books, and presented with substantially less detailed bibliographic information. The ESTC, ECCO, and ECCO-TCP records for The Emigrants all provide the same physical description “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” with the same note“\[n\]umbers 9-16 omitted in pagination; text is continuous.”   
+The smallest subset of all of these texts is the ECCO-TCP holding of just two titles: the second edition of *Celestina* (1791), and the first edition of *The Emigrants* (1793). Both titles appear in all larger databases, including HathiTrust (though, as I will discuss, they arrive in HathiTrust from a different source). *The Emigrants* is included in ECCO-TCP as one file, based on the ECCO facsimile of an original from the Huntington Library. *Celestina* is included as four files, one for each of four volumes, based on the ECCO facsimile of an original from the British Library. Both works were first reproduced in the microfilm version produced 1982-2002 in by Research Publications,[^cf27] then digitized in 2003 (released on ECCO in June 2004), and finally published as TEI XML files in January 2007. The current files have been kept up to date with changes in TEI standards, and were created by converting TCP files to TEI P5 using tcp2tei.xsl. The bibliographic metadata for these works is the same between ESTC, ECCO, and ECCO-TCP records. In HathiTrust, however, the source text for *The Emigrants* is a University of California Library copy, rather than the British Library, scanned by Google Books, and presented with substantially less detailed bibliographic information. The ESTC, ECCO, and ECCO-TCP records for The Emigrants all provide the same physical description “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” with the same note“\[n\]umbers 9-16 omitted in pagination; text is continuous.” HathiTrust, in contrast, gives the physical description “ix, 68 p. ; 26 cm,” which is both more and less information: a quarto volume could be a range of sizes, so HathiTrust provides new detail by giving a measurement in centimetres, but the data on page numbers is now misleading. Consulting the HathiTrust facsimile shows that it, too, omits the page numbers 9-16, going directly from page 8 to page 17 without a break in the poem. HathiTrust also omits information on the three unnumbered pages between the preface and the poem. Evidently, a human did consult the book, to identify a nine-page preface in roman numerals, and the page number on the last page, but they did not carry out a full collocation.  
 
 ![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]
 
 Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).  
 
-A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in maning than the following markup:
+The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error. Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher. Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds (described more fully in Appendix B), and the first glance was not very promising. Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%.  
+
+To make these comparisons concrete, consider the first page of the ECCO OCR:
+
+TO WILLIAM COWPER, Es DEAR SIR, THERE is,- I hope, some propriety in my addrefing a Com- potion to you, which would,never perhaps have existed, had I not, amid the heavy prefure of many sorrows, derived infinite consolation from your Poetry, and some degree of animation and of confidencefrom your efieen. . 'he.following performance isfarfrom aspiring to be con- fidered as an imitation of your inimitable Poem, " THE " TASK;" I am perfeetly sensible, that it belongs not to a feeble andfemninine hand to draw the Bow of Ulyfes.,Theforce, clearness, and sublimity ofyour admirable Poem; the felicity, almost peculiar to your genius, of givingto the moJ familiar objegls dignity and eset, I could never hope to,a reach
+
+
+
+The HathiTrust OCR of the same page is as follows:
+
+T O WILLIAM com/PER, Ess. DEAR SIR, THERE is, I hope, ſome propriety in my addreſſing a Com- poſition to you, which would never perhaps have exiſted, had I not, amid the beavy preſſure of many ſorrows, derived infinite conſolation from your Poetry, and ſome degree of animation and of confidence from your ºfteem. The following performance is far from aſpiring to be con- ſidered as an imitation of your inimitable Poem, “ The “TAsk;” I am perfºy fººl, that it belongs not to a feeble and feminine band to draw the Bow of Ulyſſes. The force, clearneſ, andſublimity of your admirable Poem; the felicity, almoſt peculiar to your genius, of giving to the moſt familiar obječís dignity and effečf, I could never hope to 3. - Reach
+
+
+
+Compare both to the ECCO-TCP:
+
+TO WILLIAM COWPER, ESQ.
+
+DEAR SIR,
+
+
+
+THERE is, I hope, some propriety in my addressing a Com\|position
+
+to you, which would never perhaps have existed, had
+
+I not, amid the heavy pressure of many sorrows, derived
+
+infinite consolation from your Poetry, and some degree of
+
+animation and of confidence from your esteem.
+
+
+
+The following performance is far from aspiring to be con\|sidered
+
+as an imitation of your inimitable Poem, "THE
+
+TASK;" I am perfectly sensible, that it belongs not to a
+
+feeble and feminine hand to draw the Bow of Ulysses.
+
+
+
+The force, clearness, and sublimity of your admirable Poem;
+
+the felicity, almost peculiar to your genius, of giving to the
+
+most familiar objects dignity and effect, I could never hope to  
+
+A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:
 
 \<listPrefixDef\>
 
@@ -225,9 +275,21 @@ Indeed, the collocation formula is less transparent than simple markup like the 
 
 \</titleStmt\>
 
-It may even compare unfavorably to relatively well-written and well-commented code, like the following:
+It may even compare unfavorably to relatively well-commented code, like the following:
 
-What these comparisons intend to illuminate is not that collocation formulae are 
+| \# iterate through the directory |
+|  | for filename in listdir\_nohidden("./" + directory): |  |
+|  | \# define the path to this file |
+| -----: | ----- |
+|  | path = "./" + directory + "/" + filename |  |
+|  | \# strip the file's namespace |
+|  | try: |
+|  | xmlstring = stripNamespace(path) |
+|  | except: |
+|  | print "error stripping namespace of file %s" % (filename) |
+
+
+What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.
 
 
 
@@ -640,6 +702,14 @@ Library of Congress MARC info
 I also have ECCO metadata records, now, from the Gale Digital Scholars Lab. Due to their restrictions on how much data may be downloaded at once, I have created 11 files, each one holding the metadata for all of ECCO’s works in each year. ECCO-1789.csv, for example, is based on the following search: “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1789).” These files initially contain works from a wide range of publication locations, not just England, since the Digital Scholars Lab does not provide any way to filter items by publication location.  
 
 For each author, I went to http://estc.bl.uk/, determined the authoritative format of that author’s name within the database (e.g., “Smith, Charlotte Turner, 1749-1806”) and got the list of all titles attributed to that author. Paging through each entry, I recorded the date, edition, city, and publisher for every title which met my conditions of being printed in England 1789-99, and recorded the “permalink” URL to the work’s full ESTC record.  
+
+I started by testing just *The Emigrants*. To get the text without the XML markup, I viewed it at <https://quod.lib.umich.edu/e/ecco/004801766.0001.000?rgn=main;view=fulltext> and simply copy-pasted the page into a plaintext file, manually deleting the header and footer website text so that the file only contained the poem. I saved it as emigrants-TCO-OCR.txt.
+
+I attempted to download the HathiTrust edition by going to the “text-only view of this item” at <https://babel.hathitrust.org/cgi/ssd?id=uc1.31175035214942;page=ssd;view=plaintext;seq=15;num=ix>, where I discovered that I only had “one page at a time access to this item,” even though it was correctly identified under “Rights” as a public domain work. Authenticating through the University of Toronto gave me access to the full work. This page came with the warning “Use of this online version is subject to all U.S. copyright laws. Please do not save or redistribute this file,” which I disregarded under Fair Use to save a personal research copy of the text. Again the easiest method was to copy-paste the page into a plaintext file and delete unnecessary headers. I deleted “Book Text - Front Cover” and everything above, and “End of Section 9” and below, and saved the file as emigrants-Hathi-OCR.txt.
+
+To download the ECCO OCR file, I went to the new Gale Digital Scholar Labs portal (since ECCO itself does not make the OCR available). The “basic search” very annoyingly attempted to autocomplete my search for “the emigrants” to unrelated terms, like “henry the eighth” and “female emigrants”. The “advanced search” did the same, changing “the emigrants” to “therefore” and “mall of the emirates.” Eventually, I was able to find the desired text by searching “the emigrants” as document title and “charlotte smith” as author. Gale Digital Scholar Labs prominently assigns an “OCR Confidence” of 95% to the record. The viewer did not give me 95% confidence. This method of accessing the text was the first to offer a download of the OCR. I downloaded it with their tool, examine the file, and deleted the disclaimer about OCR which appeared at the top, then renamed the file emigrants-ECCO-OCR.txt to match the other files.
+
+At this point I was ready to load the files into Juxta.  
 
 Table 1 shows data that I compiled by hand in Numbers. The first three columns are based on my synthesis of scholarship on Charlotte Smith. As I consulted a range of work on Smith, I updated this information to reflect the most complete and accurate information possible. My editorial decisions included, for example, the exclusion of *D’Arcy* from consideration, since it was never published in England. I introduced standardized titles for the two volumes of *Elegiac Sonnets*, retroactively naming the initial publication “volume 1” to distinguish it from the second volume which would appear 13 years later, so that each title has its own edition count. The next four columns represent the results of my queries in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases. I searched each database with several queries to locate Smith’s works, beginning (where possible) by finding all works categorized under her authorship, and then searching individual titles of works. This figure shows the simplified results from a more detailed spreadsheet, which also includes links to the records themselves where they exist, and notes on how the records are encoded (e.g., multiple volumes or all as one volume.) Simplifying inclusion down to a boolean yes/no involved some editorial decisions. If only *part* of a work was included (as in HathiTrust’s record for the first edition of *Celestina*, which only includes volumes 3 and 4), I recorded that as a “yes.” If a work was only included in its Dublin edition (as in HathiTrust’s record for *Desmond*), I recorded that as a “no.” These searches were conducted in February 2020.  
 
