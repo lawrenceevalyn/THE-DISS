@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-24 20:25:00 -0500" ModID="9BB971D2-BB62-49F3-85AC-571AB4301FCD">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-02-24 22:52:40 -0500" ModID="D24F1E97-6866-41E7-B76E-5155040A029D">
     <Binder>
         <BinderItem UUID="D52B9CA7-1E3B-4C55-A618-13D0465152D4" Type="Text" Created="2020-02-15 22:41:05 -0500" Modified="2020-02-15 23:04:15 -0500">
             <Title>JHI Abstract</Title>
@@ -765,7 +765,7 @@
                                         <TextSelection>122,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="0459F728-D3BB-4957-B20E-3E4C9E3E6623" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-18 17:01:15 -0500">
+                                        <BinderItem UUID="0459F728-D3BB-4957-B20E-3E4C9E3E6623" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-24 22:18:47 -0500">
                                             <Title>table:Smith-4dbs</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -776,7 +776,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="3B0AC8BA-04CA-4F1E-8BFD-6C9F25320D7A" Type="Text" Created="2020-02-18 15:56:16 -0500" Modified="2020-02-18 16:50:45 -0500">
+                                <BinderItem UUID="3B0AC8BA-04CA-4F1E-8BFD-6C9F25320D7A" Type="Text" Created="2020-02-18 15:56:16 -0500" Modified="2020-02-24 22:52:27 -0500">
                                     <Title>winnowing down</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -912,6 +912,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="04CA39D4-3CAC-4344-8EAA-0229A1CBA732" Type="Text" Created="2020-02-17 17:20:58 -0500" Modified="2020-02-24 22:18:00 -0500">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="3CB6E25B-B47C-4101-ABCF-88B24EB3CD55" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2019-11-21 19:06:01 -0500">
@@ -924,15 +932,6 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="04CA39D4-3CAC-4344-8EAA-0229A1CBA732" Type="Text" Created="2020-02-17 17:20:58 -0500" Modified="2020-02-17 17:21:01 -0500">
-                            <Title>CSmith in archives</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="5A95CC12-A015-4D88-883C-25B74B6CC4A5" Type="Text" Created="2020-02-12 20:21:25 -0500" Modified="2020-02-12 20:24:54 -0500">
                             <Title>corpora are the new canons</Title>
                             <MetaData>
@@ -1361,7 +1360,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>148,12</TextSelection>
+                                        <TextSelection>3878,12</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1455,15 +1454,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="5375B92E-28B6-47B0-A066-4341829DE868" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-18 17:01:14 -0500">
-                                    <Title>table:Smith-4dbs</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem UUID="3D110120-5268-45C4-8F61-D51C44992795" Type="Text" Created="2020-02-18 16:09:09 -0500" Modified="2020-02-18 16:29:16 -0500">
                                     <Title>Table &lt;$n#table:Smith-4dbs&gt;</Title>
                                     <MetaData>
@@ -1471,15 +1461,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1583,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="7E787F3D-EBCA-4037-967E-7D12B6AD2583" Type="Text" Created="2020-02-18 15:33:56 -0500" Modified="2020-02-18 17:01:14 -0500">
-                                    <Title>fig:Smith-4dbs-alluvial</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>474,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B0821094-841E-46A6-B473-875A17DCAFA2" Type="Text" Created="2020-02-18 16:09:25 -0500" Modified="2020-02-18 16:38:23 -0500">
@@ -1507,7 +1488,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-02-24 17:08:19 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-02-24 20:57:56 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -10060,6 +10041,24 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="7E787F3D-EBCA-4037-967E-7D12B6AD2583" Type="Text" Created="2020-02-18 15:33:56 -0500" Modified="2020-02-18 17:01:14 -0500">
+                    <Title>fig:Smith-4dbs-alluvial</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>474,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5375B92E-28B6-47B0-A066-4341829DE868" Type="Text" Created="2020-02-18 15:09:33 -0500" Modified="2020-02-24 22:18:59 -0500">
+                    <Title>table:Smith-4dbs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>234,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -10118,13 +10117,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">388</SessionTarget>
-        <PreviousSession Words="1498" Characters="9497" Date="2020-02-24 16:48:13 -0500"></PreviousSession>
+        <PreviousSession Words="1786" Characters="11270" Date="2020-02-24 16:48:13 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-02-24 00:00:00 -0500">
-        <DraftWordCount>1498</DraftWordCount>
-        <DraftCharCount>9497</DraftCharCount>
-        <OtherWordCount>16</OtherWordCount>
-        <OtherCharCount>91</OtherCharCount>
+        <DraftWordCount>1786</DraftWordCount>
+        <DraftCharCount>11270</DraftCharCount>
+        <OtherWordCount>24</OtherWordCount>
+        <OtherCharCount>172</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
