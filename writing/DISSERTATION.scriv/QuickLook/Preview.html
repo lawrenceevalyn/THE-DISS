@@ -375,7 +375,7 @@
 
 <li>
 <p class="itemTitle">winnowing down</p>
-<p class="itemText">Figure <$n#fig:Smith-4dbs-alluvial> shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, are not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of Letters of a Solitary Wanderer (1802), three works for children (Conversations, Introducing Poetry, 1804; History of England, 1806; and Natural History of Birds, 1807...</p>
+<p class="itemText">Figure <$n#fig:Smith-4dbs-alluvial> shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, is not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of Letters of a Solitary Wanderer (1802), three works for children (Conversations, Introducing Poetry, 1804; History of England, 1806; and Natural History of Birds, 1807)...</p>
 </li>
 <hr class="afterText"/>
 <ul>
@@ -388,6 +388,22 @@
 </ul>
 <hr class="afterText"/>
 
+<li>
+<p class="itemTitle">checking OCR</p>
+<p class="itemText">The existence of a carefully hand-corrected transcription of The Emigrants and Celestina in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error. Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but w...</p>
+</li>
+<li>
+<p class="itemTitle">Smith in anthologies</p>
+</li>
+<li>
+<p class="itemTitle">note on encoding</p>
+<p class="itemText">A collocation formula like “ix,[3],68[i.e. 60]p. ; 4⁰” (the physical description of Smith’s The Emigrants provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:</p>
+<p class="itemText"><listPrefixDef></p>
+<p class="itemText">            <prefixDef ident="tcp"</p>
+<p class="itemText">                       matchPattern="([0-9\-]+):([0-9IVX]+)"</p>
+<p class="itemText">                       replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/></p>
+<p class="itemText">            <prefixDef ident="ch...</p>
+</li>
 <li>
 <p class="itemTitle">database models</p>
 </li>

@@ -1,0 +1,133 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\fmodern\fcharset0 Courier;\f2\fswiss\fcharset0 Helvetica;
+\f3\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red102\green102\blue255;\red46\green46\blue46;\red252\green252\blue252;
+\red87\green96\blue106;\red27\green31\blue34;\red255\green255\blue255;\red109\green109\blue109;\red21\green23\blue26;
+\red203\green35\blue57;\red7\green68\blue184;\red91\green40\blue180;\red6\green33\blue79;}
+{\*\expandedcolortbl;;\cssrgb\c47684\c50481\c100000;\cssrgb\c23922\c23922\c23922;\cssrgb\c99216\c99216\c99216;
+\cssrgb\c41569\c45098\c49020;\cssrgb\c14118\c16078\c18039;\cssrgb\c100000\c100000\c100000;\cssrgb\c50196\c50196\c50196;\cssrgb\c10588\c12157\c13725\c29804;
+\cssrgb\c84314\c22745\c28627;\cssrgb\c0\c36078\c77255;\cssrgb\c43529\c25882\c75686;\cssrgb\c1176\c18431\c38431;}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 A collocation formula like \'93ix,[3],68[i.e. 60]p. ; 4\uc0\u8304 \'94 (the physical description of Smith\'92s T
+\i he Emigrants 
+\i0 provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:\
+\pard\pardeftab720\sl260\partightenfactor0
+
+\f1\fs22\fsmilli11200 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 <listPrefixDef>\
+            <prefixDef ident="tcp"\
+                       matchPattern="([0-9\\-]+):([0-9IVX]+)"\
+                       replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/>\
+            <prefixDef ident="char"\
+                       matchPattern="(.+)"\
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>\
+         </ListPrefixDef>\cf2 \
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf2 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 <$ScrKeepWithNext><$Scr_Ps::0>
+\f0\fs22 Indeed, the collocation formula is less transparent than simple markup like the following:\
+\pard\pardeftab720\sl260\partightenfactor0
+
+\f2\fs24 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 <!$Scr_Ps::0>
+\f1\fs22\fsmilli11200 <titleStmt>\
+                  <title>The emigrants, a poem, in two books. By Charlotte Smith</title>\
+                  <author>Smith, Charlotte Turner, 1749-1806.</author>\
+               </titleStmt>
+\f0\fs22 \cf2 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+\cf2 It may even compare unfavorably to relatively well-commented code, like the following:\
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clmrg \clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+
+\f3\fs24 \cf5 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 # iterate through the directory\cf6 \strokec6 \cell 
+\pard\intbl\itap1\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf10 \strokec10 for\cf6 \strokec6  filename \cf11 \strokec11 in\cf6 \strokec6  \cf12 \strokec12 listdir_nohidden\cf6 \strokec6 (\cf13 \strokec13 "./"\cf6 \strokec6  \cf11 \strokec11 +\cf6 \strokec6  directory):\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 	\cf5 \strokec5 # define the path to this file\cf6 \strokec6 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 	path \cf11 \strokec11 =\cf6 \strokec6  \cf13 \strokec13 "./"\cf6 \strokec6  \cf11 \strokec11 +\cf6 \strokec6  directory \cf11 \strokec11 +\cf6 \strokec6  \cf13 \strokec13 "/"\cf6 \strokec6  \cf11 \strokec11 +\cf6 \strokec6  filename\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\cell
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 	\cf5 \strokec5 # strip the file's namespace\cf6 \strokec6 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 	\cf10 \strokec10 try\cf6 \strokec6 :\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 		xmlstring \cf11 \strokec11 =\cf6 \strokec6  \cf12 \strokec12 stripNamespace\cf6 \strokec6 (path)\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 	\cf10 \strokec10 except\cf6 \strokec6 :\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat7 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4879\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth10948\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl400\qr\partightenfactor0
+\cf9 \strokec9 \cell 
+\pard\intbl\itap1\pardeftab720\sl400\partightenfactor0
+\cf6 \strokec6 		\cf10 \strokec10 print\cf6 \strokec6  \cf13 \strokec13 "error stripping namespace of file %s"\cf6 \strokec6  \cf11 \strokec11 %\cf6 \strokec6  (filename)\cell \lastrow\row
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+What these comparisons intend to illuminate is 
+\i not
+\i0  that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.}
