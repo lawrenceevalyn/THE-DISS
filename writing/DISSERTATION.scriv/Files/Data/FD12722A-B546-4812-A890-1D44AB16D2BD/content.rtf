@@ -5,4 +5,60 @@
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
 
 \f0\fs22 \cf2 To get a handle on how the gender package in R actually worked, and to assess how well it would meet my needs for this project, I began my making a sample csv of 41 arbitrary titles from ECCO\'92s 1789 holdings. The choice was driven by simplicity for a proof of concept: my ESTC and full-ECCO files were too large to open on my computer in spreadsheet software, and writing a program to extract a random sample was more work than it was worth, so I chose a file that I knew I could open in Numbers, the sample of all 1789 ECCO titles which I had recently downloaded through Gale\'92s Digital Scholar Lab. I selected some rows from the top of the list, skimming the names as I went to make sure I had selected enough titles that they would include two by women, and then copied those rows to a new spreadsheet (ECCO-1789-sample.csv). After some false starts with RStudio, I was still struggling to read the file into the program. Since all I wanted to know was whether, once I got it running, the gender package would tell me results worth working with, I decided to do this first test in whatever way would get a result, even if it required a great deal of non-scalable manual labor.\
-I copied the authors column into a plaintext file, and manually created a comma-separated list of just the first name of each other, to match the data format which the gender package required. (I took the first word before a space in each name, to reflect how a future first-name-grabber algorithm would work, even when this meant choosing things which were clearly not first names \'97 one of my core questions is how the gender package will handle those kinds of exceptions.) The resulting list of names was as follows:}
+I copied the authors column into a plaintext file, and manually created a comma-separated list of just the first name of each other, to match the data format which the gender package required. (I took the first word before a space in each name, to reflect how a future first-name-grabber algorithm would work, even when this meant choosing things which were clearly not first names \'97 one of my core questions is how the gender package will handle those kinds of exceptions.) The resulting list of names was saved as ECCO-1789-sample-firstnames.csv. Trying to paste in this list for the names finally helped me understand what is meant by a \'93character vector\'94 in R. It\'92s basically an array of strings. You have to make the character vector before you can run gender() on it. Sample code:\
+names = c("john", "madison") # creates a character vector called \'93names\'94 by \'91combining (c-ing) two strings\
+gender(names, method = "demo", years = 1985) # guesses gender for both of those names\
+Once I had gotten something to produce guesses for more than one name, I wanted to try using a method other than \'93demo.\'94 This sent me down a spiral of trying to install genderdata, and trying to install devtools to install genderdata. Finally I got everything installed and able to run!\
+If a command is run requesting a name-year-method combination for which the package has no data, it simply returns an empty \'93tibble.\'94 The following three sets of results illustrate the limits and possibilities of napp and ipums data:\
+\
+> 
+\b gender(ECCOnames, method = "ipums", years = 1789) - earliest year possible with ipums
+\b0 \
+# A tibble: 25 x 6\
+   name      proportion_male proportion_female gender year_min year_max\
+   <chr>               <dbl>             <dbl> <chr>     <dbl>    <dbl>\
+ 1 Andrew              1                 0     male       1789     1789\
+ 2 Ann                 0                 1     female     1789     1789\
+ 3 Benjamin            1                 0     male       1789     1789\
+ 4 Charles             1                 0     male       1789     1789\
+ 5 Charles             1                 0     male       1789     1789\
+ 6 Charles             1                 0     male       1789     1789\
+ 7 Charlotte           0                 1     female     1789     1789\
+ 8 Edward              1                 0     male       1789     1789\
+ 9 Francis             0.464             0.536 female     1789     1789\
+10 James               1                 0     male       1789     1789\
+# \'85 with 15 more rows\
+\
+> 
+\b gender(ECCOnames, method = "napp", years = 1769) - earliest year that knows about \'93John\'94
+\b0 \
+# A tibble: 7 x 6\
+  name  proportion_male proportion_female gender year_min year_max\
+  <chr>           <dbl>             <dbl> <chr>     <dbl>    <dbl>\
+1 John                1                 0 male       1769     1769\
+2 John                1                 0 male       1769     1769\
+3 John                1                 0 male       1769     1769\
+4 John                1                 0 male       1769     1769\
+5 John                1                 0 male       1769     1769\
+6 John                1                 0 male       1769     1769\
+7 John                1                 0 male       1769     1769\
+\
+
+\b > gender(ECCOnames, method = "napp", years = 1789) - more direct comparison to ipums
+\b0 \
+# A tibble: 9 x 6\
+  name      proportion_male proportion_female gender year_min year_max\
+  <chr>               <dbl>             <dbl> <chr>     <dbl>    <dbl>\
+1 Charlotte               0                 1 female     1789     1789\
+2 John                    1                 0 male       1789     1789\
+3 John                    1                 0 male       1789     1789\
+4 John                    1                 0 male       1789     1789\
+5 John                    1                 0 male       1789     1789\
+6 John                    1                 0 male       1789     1789\
+7 John                    1                 0 male       1789     1789\
+8 John                    1                 0 male       1789     1789\
+9 Samuel                  1                 0 male       1789     1789\
+\
+Neither is very stunningly thorough, especially since the year is supposed to reflect the 
+\i birth
+\i0  year of the person, and I can only barely get information about the year they published something. Somewhat to my surprise, the ipums method \'97 which I originally planned to reject in favor of napp, because ipums is US only \'97 has much more data available, and doesn\'92t seem to reflect any US-specific oddities. So, I might try to use both ipums and napp, but if that is difficult, just using ipums seems appropriate. I\'92m not entirely sure, yet, whether using ipums will be faster than just manually assigning genders: my next question, I think, is determining how many unique first names there are, and then trying to guess how many of them ipums would be able to sort out for me. It managed 25/41 = 61% of the random ECCO sample, which is a substantial number, especially since it will by definition include the most common names. Expanding the acceptable years slightly also seems to help it know a lot more about the names, while still according with my own estimates. (ipums can learn \'93Augustus\'94 in 1799, for example.)}

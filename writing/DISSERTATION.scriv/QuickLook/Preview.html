@@ -850,17 +850,6 @@
 <li>
 <p class="itemTitle">Appendix A: codebase</p>
 </li>
-<hr class="afterTitle"/>
-<ul>
-<li>
-<p class="itemTitle">gender-guesser.r</p>
-<p class="itemText">The “gender” package in R is able to draw on a range of historical sources for gender information, but only one is applicable for this project. Most are US-based or only contain information beginning in the nineteenth century (or both). [Or, SHOULD I use ipums…? Will US names differ a lot?]</p>
-<p class="itemText"></p>
-<p class="itemText">"The "napp" method uses census microdata from Canada, Great Britain, Denmark, Iceland, Norway, and Sweden from 1801 to 1910 created by the North Atlantic Population Project.” (Mullen, Blevins, and Schmidt)  ...</p>
-</li>
-</ul>
-<hr class="afterText"/>
-
 <li>
 <p class="itemTitle">Appendix B: detailed methods</p>
 </li>
@@ -888,6 +877,21 @@
 <p class="itemText">I started by testing just The Emigrants. To get the text without the XML markup, I viewed it at https://quod.lib.umich.edu/e/ecco/004801766.0001.000?rgn=main;view=fulltext and simply copy-pasted the page into a plaintext file, manually deleting the header and footer website text so that the file only contained the poem. I saved it as emigrants-TCO-OCR.txt.</p>
 <p class="itemText">I attempted to download the HathiTrust edition by going to the “text-only view of this item” at https://babel.hathitrust.org/cgi/ssd?id=uc1.3...</p>
 </li>
+<li>
+<p class="itemTitle">gender-quesser.r</p>
+</li>
+<hr class="afterTitle"/>
+<ul>
+<li>
+<p class="itemTitle">gender package in R</p>
+<p class="itemText">The “gender” package in R is able to draw on a range of historical sources for gender information, but only one is applicable for this project. Most are US-based or only contain information beginning in the nineteenth century (or both). [Or, SHOULD I use ipums…? Will US names differ a lot?]</p>
+<p class="itemText">If no value is specified, then for the "ssa" method it will use the period 1932 to 2012; acceptable years for the SSA method range from 1880 to 2012, but for years before 1930 the IPUMS method is probably mor...</p>
+</li>
+<li>
+<p class="itemTitle">running gender on ECCO sample</p>
+<p class="itemText">To get a handle on how the gender package in R actually worked, and to assess how well it would meet my needs for this project, I began my making a sample csv of 41 arbitrary titles from ECCO’s 1789 holdings. The choice was driven by simplicity for a proof of concept: my ESTC and full-ECCO files were too large to open on my computer in spreadsheet software, and writing a program to extract a random sample was more work than it was worth, so I chose a file that I knew I could open in Numbers, the...</p>
+</li>
+</ul>
 </ul>
 <hr class="afterText"/>
 
