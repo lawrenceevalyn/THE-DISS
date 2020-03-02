@@ -351,13 +351,11 @@ So, how do these ideas of the edition and the ideal copy shape the data structur
 
 How many of my records have subject headings? What is the ESTC’s ontology?] The remainder of the record is an extensive list of libraries which hold copies of the edition, divided into the three geographic regions of “British Isles,” “North America,” and “Other,” followed by a direct link to the ECCO copy referenced above.
 
-This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored.
+This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf32] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
 
-\[Write about how to navigate --- compare to using search function\]
+Figure 6: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
 
-  
-
-Figure 6: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).
+There are several different ways to search ESTC records. The “Search” button takes a user to the “Basic Search” function, from which there are also links to “Advanced Search,” “Browse,” and “Browse Libraries List” (which takes the user to the identical page as “Browse” but with “Library name” pre-selected as the index to browse). Once you have found a work of interest, however, several new forms fo searching become available, implied in the hyperlink formatting: almost any field in the entry can be clicked to reach other matching ESTC entries.
 
 
 
@@ -445,12 +443,6 @@ Commenting on the potential impact of their enumerative bibliography of women in
 
 
 
-
-
-An Ideal Copy:
-
-“As additional reports of copies arrive, it may be that the ideal description must change in response. For instance, the existence of a half-title may only emerge on the evidence of the seventh copy reported. A half-title would then be added to the description of the ideal copy, and the six previously matched physical copies will receive notes recording that they are imperfect in this respect” (Tabor 370).
-
 “In ESTC the matching process hinges on five points of identity: the title, as far as it is given by ESTC; the edition statement; the imprint, again as far as it is given by ESTC; the pagination; and the format” (Tabor 370).  
 
 Using the database:
@@ -486,8 +478,6 @@ Inaccurate dates
 
 
 “only records bibliographic information about surviving books ... After a careful study of book advertisements, inventories and bibliographies, it seems to this investigator that, excluding jobbing and newspaper printing, as much as 10 per cent of the printed record from 1701--1800 has not been incorporated into the ESTC. In other words, for up to 10 per cent of the editions printed in the eighteenth century, not a single copy is known to survive.” (Suarez 40)  
-
-My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-\>1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery. My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file[^cf32] with fifteen columns of information. The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.  
 
 As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettably, although this volume of The Cambridge history of the book in Britain ends in 1830, it is not possible to perform a similarly comprehensive analysis for the first decades of the nineteenth century because we have no equivalent bibliographical control for this period” (Suarez 40).  
 
@@ -721,6 +711,8 @@ I created a “content set” called ECCO-1798 in Gale Digital Scholar Labs, by 
 
 1732 - Two discourses. I. On wisdom attainable by meditation of the vanity of human life ... II. Men more influenced by example than precept; ... Preached ... March 8, 1789, by the Reverend Samuel Hopkinson, ...	\[1789\]	London, United Kingdom	Samuel Hopkinson  
 
+My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-\>1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery. My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file[^cf34] with fifteen columns of information. The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.  
+
 My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)
 
 My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, in OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and \[will\] delete empty columns.
@@ -753,25 +745,83 @@ Since some of HathiTrust’s inaccuracy may come from the fact that it uses the 
 
 The “gender” package in R is able to draw on a range of historical sources for gender information, but only one is applicable for this project. Most are US-based or only contain information beginning in the nineteenth century (or both). \[Or, SHOULD I use ipums...? Will US names differ a lot?\]
 
+If no value is specified, then for the "ssa" method it will use the period 1932 to 2012; acceptable years for the SSA method range from 1880 to 2012, but for years before 1930 the IPUMS method is probably more accurate. For the "ipums" method the default range is the period 1789 to 1930, which is also the range of acceptable years. For the "napp" method the default range is the period 1758 to 1910, which is also the range of acceptable years. 
 
 
-"The "napp" method uses census microdata from Canada, Great Britain, Denmark, Iceland, Norway, and Sweden from 1801 to 1910 created by the North Atlantic Population Project.” (Mullen, Blevins, and Schmidt)  “For the "napp" method the default range is the period 1758 to 1910, which is also the range of acceptable years.”(Mullen, Blevins, and Schmidt)
 
-“The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), **Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911)**, Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and Iceland (1703, 1729, 1801, 1901, 1910).” (NAPP)
+"The "napp" method uses census microdata from Canada, Great Britain, Denmark, Iceland, Norway, and Sweden from 1801 to 1910 created by the North Atlantic Population Project.” (Mullen, Blevins, and Schmidt)  “For the "napp" method the default range is **the period 1758 to 1910**, which is also the range of acceptable years.”(Mullen, Blevins, and Schmidt)
+
+“The North Atlantic Population Project (NAPP) is a machine-readable database of the complete censuses of Canada (1881), Denmark (1787, 1801), **Great Britain (1851, 1861, Scotland 1871, 1881, 1891, 1901, 1911)**, Norway (1801, 1865, 1900, 1910), Sweden (1880, 1890, 1900, 1910), the United States (1850, 1880) and **Iceland (1703, 1729, 1801**, 1901, 1910).” (NAPP)
 
 So actually, NAPP data has nothing relevant to *both* my time and place. But this may be the same US data that’s in the IPUMS method, so it’s still worth comparing the two.
 
 
 
-“The "ipums" method looks up names from the U.S. Census data in the Integrated Public Use Microdata Series.”(Mullen, Blevins, and Schmidt) “For the "ipums" method the default range is the period 1789 to 1930, which is also the range of acceptable years.”(Mullen, Blevins, and Schmidt)  
+“The "ipums" method looks up names from the U.S. Census data in the Integrated Public Use Microdata Series.”(Mullen, Blevins, and Schmidt) “For the "ipums" method the default range is **the period 1789 to 1930**, which is also the range of acceptable years.”(Mullen, Blevins, and Schmidt)  
 
 To get a handle on how the gender package in R actually worked, and to assess how well it would meet my needs for this project, I began my making a sample csv of 41 arbitrary titles from ECCO’s 1789 holdings. The choice was driven by simplicity for a proof of concept: my ESTC and full-ECCO files were too large to open on my computer in spreadsheet software, and writing a program to extract a random sample was more work than it was worth, so I chose a file that I knew I could open in Numbers, the sample of all 1789 ECCO titles which I had recently downloaded through Gale’s Digital Scholar Lab. I selected some rows from the top of the list, skimming the names as I went to make sure I had selected enough titles that they would include two by women, and then copied those rows to a new spreadsheet (ECCO-1789-sample.csv). After some false starts with RStudio, I was still struggling to read the file into the program. Since all I wanted to know was whether, once I got it running, the gender package would tell me results worth working with, I decided to do this first test in whatever way would get a result, even if it required a great deal of non-scalable manual labor.
 
-I copied the authors column into a plaintext file, and manually created a comma-separated list of just the first name of each other, to match the data format which the gender package required. (I took the first word before a space in each name, to reflect how a future first-name-grabber algorithm would work, even when this meant choosing things which were clearly not first names --- one of my core questions is how the gender package will handle those kinds of exceptions.) The resulting list of names was as follows:  
+I copied the authors column into a plaintext file, and manually created a comma-separated list of just the first name of each other, to match the data format which the gender package required. (I took the first word before a space in each name, to reflect how a future first-name-grabber algorithm would work, even when this meant choosing things which were clearly not first names --- one of my core questions is how the gender package will handle those kinds of exceptions.) The resulting list of names was saved as ECCO-1789-sample-firstnames.csv. Trying to paste in this list for the names finally helped me understand what is meant by a “character vector” in R. It’s basically an array of strings. You have to make the character vector before you can run gender() on it. Sample code:
+
+names = c("john", "madison") # creates a character vector called “names” by ‘combining (c-ing) two strings
+
+gender(names, method = "demo", years = 1985) # guesses gender for both of those names
+
+Once I had gotten something to produce guesses for more than one name, I wanted to try using a method other than “demo.” This sent me down a spiral of trying to install genderdata, and trying to install devtools to install genderdata. Finally I got everything installed and able to run!
+
+If a command is run requesting a name-year-method combination for which the package has no data, it simply returns an empty “tibble.” The following three sets of results illustrate the limits and possibilities of napp and ipums data:
+
+
+
+\> **gender(ECCOnames, method = "ipums", years = 1789) - earliest year possible with ipums**
+\# A tibble: 25 x 6
+name      proportion\_male proportion\_female gender year\_min year\_max
+\<chr\>               \<dbl\>             \<dbl\> \<chr\>     \<dbl\>    \<dbl\>
+1 Andrew              1                 0     male       1789     1789
+2 Ann                 0                 1     female     1789     1789
+3 Benjamin            1                 0     male       1789     1789
+4 Charles             1                 0     male       1789     1789
+5 Charles             1                 0     male       1789     1789
+6 Charles             1                 0     male       1789     1789
+7 Charlotte           0                 1     female     1789     1789
+8 Edward              1                 0     male       1789     1789
+9 Francis             0.464             0.536 female     1789     1789
+10 James               1                 0     male       1789     1789
+\# ... with 15 more rows
+
+
+
+\> **gender(ECCOnames, method = "napp", years = 1769) - earliest year that knows about “John”**
+\# A tibble: 7 x 6
+name  proportion\_male proportion\_female gender year\_min year\_max
+\<chr\>           \<dbl\>             \<dbl\> \<chr\>     \<dbl\>    \<dbl\>
+1 John                1                 0 male       1769     1769
+2 John                1                 0 male       1769     1769
+3 John                1                 0 male       1769     1769
+4 John                1                 0 male       1769     1769
+5 John                1                 0 male       1769     1769
+6 John                1                 0 male       1769     1769
+7 John                1                 0 male       1769     1769
+
+
+
+\> **gender(ECCOnames, method = "napp", years = 1789) - more direct comparison to ipums**
+\# A tibble: 9 x 6
+name      proportion\_male proportion\_female gender year\_min year\_max
+\<chr\>               \<dbl\>             \<dbl\> \<chr\>     \<dbl\>    \<dbl\>
+1 Charlotte               0                 1 female     1789     1789
+2 John                    1                 0 male       1789     1789
+3 John                    1                 0 male       1789     1789
+4 John                    1                 0 male       1789     1789
+5 John                    1                 0 male       1789     1789
+6 John                    1                 0 male       1789     1789
+7 John                    1                 0 male       1789     1789
+8 John                    1                 0 male       1789     1789
+9 Samuel                  1                 0 male       1789     1789Neither is very stunningly thorough, especially since the year is supposed to reflect the *birth* year of the person, and I can only barely get information about the year they published something. Somewhat to my surprise, the ipums method --- which I originally planned to reject in favor of napp, because ipums is US only --- has much more data available, and doesn’t seem to reflect any US-specific oddities. So, I might try to use both ipums and napp, but if that is difficult, just using ipums seems appropriate. I’m not entirely sure, yet, whether using ipums will be faster than just manually assigning genders: my next question, I think, is determining how many unique first names there are, and then trying to guess how many of them ipums would be able to sort out for me. It managed 25/41 = 61% of the random ECCO sample, which is a substantial number, especially since it will by definition include the most common names. Expanding the acceptable years slightly also seems to help it know a lot more about the names, while still according with my own estimates. (ipums can learn “Augustus” in 1799, for example.)  
 
 Table 1 shows data that I compiled by hand in Numbers. The first three columns are based on my synthesis of scholarship on Charlotte Smith. As I consulted a range of work on Smith, I updated this information to reflect the most complete and accurate information possible. My editorial decisions included, for example, the exclusion of *D’Arcy* from consideration, since it was never published in England. I introduced standardized titles for the two volumes of *Elegiac Sonnets*, retroactively naming the initial publication “volume 1” to distinguish it from the second volume which would appear 13 years later, so that each title has its own edition count. The next four columns represent the results of my queries in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases. I searched each database with several queries to locate Smith’s works, beginning (where possible) by finding all works categorized under her authorship, and then searching individual titles of works. This figure shows the simplified results from a more detailed spreadsheet, which also includes links to the records themselves where they exist, and notes on how the records are encoded (e.g., multiple volumes or all as one volume.) Simplifying inclusion down to a boolean yes/no involved some editorial decisions. If only *part* of a work was included (as in HathiTrust’s record for the first edition of *Celestina*, which only includes volumes 3 and 4), I recorded that as a “yes.” If a work was only included in its Dublin edition (as in HathiTrust’s record for *Desmond*), I recorded that as a “no.” These searches were conducted in February 2020.  
 
-Figure 1 is based on the data recorded in Table 1, which was pasted into the RAW Graphs visualization tool (Mauri et al.) and processed using their default settings for an alluvial diagram. Using an alluvial diagram required imagining the databases as sequential “stages” through which all books flow. Accordingly, I added a “source” for this flow of books by adding a column labeling every edition as falling into the category “Works printed in England, 1784-1807.” I could have chosen to place the following “stages” in any order; to assist in visualizing Smith’s representation in these databases as a process of ‘winnowing down,’ I chose to place them in order from largest selection to smallest. The scale of each “strand” of the diagram is scaled in width based on the number of editions it represents, as per RAW Graphs’ default settings. The colours, fonts, and width of the graph are also simple defaults.
+Figure 1 is based on the data recorded in Table 1, which was pasted into the RAW Graphs visualization tool (Mauri et al.) and processed using their default settings for an alluvial diagram. Using an alluvial diagram required imagining the databases as sequential “stages” through which all books flow. Accordingly, I added a “source” for this flow of books by adding a column labeling every edition as falling into the category “Works printed in England, 1784-1807.” I could have chosen to place the following “stages” in any order; to assist in visualizing Smith’s representation in these databases as a process of winnowing down, I chose to place them in order from largest selection to smallest. The scale of each “strand” of the diagram is scaled in width based on the number of editions it represents, as per RAW Graphs’ default settings. The colours, fonts, and width of the graph are also simple defaults.
 
 [CSmith-in-ESTC-ECCO-TCP-Hathi-table]: CSmith-in-ESTC-ECCO-TCP-Hathi-table.png width=184px height=312px
 
@@ -847,6 +897,8 @@ Figure 1 is based on the data recorded in Table 1, which was pasted into the RAW
 
 [^cf31]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
 
-[^cf32]: explain what a csv is
+[^cf32]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
 
 [^cf33]: I have heard it quipped more than once in digital humanities gatherings that you always think you’re going to get your texts from somewhere else, but Project Gutenberg is where you’ll actually get them.
+
+[^cf34]: explain what a csv is
