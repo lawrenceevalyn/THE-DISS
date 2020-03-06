@@ -1,18 +1,18 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fnil\fcharset0 Georgia;}
-{\colortbl;\red255\green255\blue255;\red15\green128\blue255;\red0\green0\blue255;\red102\green102\blue255;
-}
-{\*\expandedcolortbl;;\cssrgb\c0\c58980\c100000;\cssrgb\c1680\c19835\c100000;\cssrgb\c47684\c50481\c100000;
-}
+{\colortbl;\red255\green255\blue255;\red252\green111\blue207;\red15\green128\blue255;\red0\green0\blue255;
+\red102\green102\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c54098\c84731;\cssrgb\c0\c58980\c100000;\cssrgb\c1680\c19835\c100000;
+\cssrgb\c47684\c50481\c100000;}
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
 
-\f0\fs22 \cf2 To make these comparisons concrete, consider the first page of the ECCO OCR:\
-TO WILLIAM COWPER, Es DEAR SIR, THERE is,- I hope, some propriety in my addrefing a Com- potion to you, which would,never perhaps have existed, had I not, amid the heavy prefure of many sorrows, derived infinite consolation from your Poetry, and some degree of animation and of confidencefrom your efieen. . 'he.following performance isfarfrom aspiring to be con- fidered as an imitation of your inimitable Poem, " THE " TASK;" I am perfeetly sensible, that it belongs not to a feeble andfemninine hand to draw the Bow of Ulyfes.,Theforce, clearness, and sublimity ofyour admirable Poem; the felicity, almost peculiar to your genius, of givingto the moJ familiar objegls dignity and eset, I could never hope to,a reach\
+\f0\fs22 \cf2 To make these comparisons concrete, consider the first page of Smith\'92s dedication, as it is captured by OCR in ECCO and HathiTrust, and in the ECCO-TCP transcript:\
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+\cf3 \
+TO WILLIAM COWPER, Es DEAR SIR, THERE is,- I hope, some propriety in my addrefing a Com- potion to you, which would,never perhaps have existed, had I not, amid the heavy prefure of many sorrows, derived infinite consolation from your Poetry, and some degree of animation and of confidencefrom your efieen. . 'he.following performance isfarfrom aspiring to be con- fidered as an imitation of your inimitable Poem, " THE " TASK;" I am perfeetly sensible, that it belongs not to a feeble andfemninine hand to draw the Bow of Ulyfes.,Theforce, clearness, and sublimity ofyour admirable Poem; the felicity, almost peculiar to your genius, of givingto the moJ familiar objegls dignity and eset, I could never hope to,a reach\cf2  (ECCO)\cf3 \
 \
-The HathiTrust OCR of the same page is as follows:\
-T O WILLIAM com/PER, Ess. DEAR SIR, THERE is, I hope, \uc0\u383 ome propriety in my addre\u383 \u383 ing a Com- po\u383 ition to you, which would never perhaps have exi\u383 ted, had I not, amid the beavy pre\u383 \u383 ure of many \u383 orrows, derived infinite con\u383 olation from your Poetry, and \u383 ome degree of animation and of confidence from your \'bafteem. The following performance is far from a\u383 piring to be con- \u383 idered as an imitation of your inimitable Poem, \'93 The \'93TAsk;\'94 I am perf\'bay f\'ba\'bal, that it belongs not to a feeble and feminine band to draw the Bow of Uly\u383 \u383 es. The force, clearne\u383 , and\u383 ublimity of your admirable Poem; the felicity, almo\u383 t peculiar to your genius, of giving to the mo\u383 t familiar obje\u269 \'eds dignity and effe\u269 f, I could never hope to 3. - Reach\
+T O WILLIAM com/PER, Ess. DEAR SIR, THERE is, I hope, \uc0\u383 ome propriety in my addre\u383 \u383 ing a Com- po\u383 ition to you, which would never perhaps have exi\u383 ted, had I not, amid the beavy pre\u383 \u383 ure of many \u383 orrows, derived infinite con\u383 olation from your Poetry, and \u383 ome degree of animation and of confidence from your \'bafteem. The following performance is far from a\u383 piring to be con- \u383 idered as an imitation of your inimitable Poem, \'93 The \'93TAsk;\'94 I am perf\'bay f\'ba\'bal, that it belongs not to a feeble and feminine band to draw the Bow of Uly\u383 \u383 es. The force, clearne\u383 , and\u383 ublimity of your admirable Poem; the felicity, almo\u383 t peculiar to your genius, of giving to the mo\u383 t familiar obje\u269 \'eds dignity and effe\u269 f, I could never hope to 3. - Reach\cf2  (HathiTrust)\cf3 \
 \
-Compare both to the ECCO-TCP:\
 TO WILLIAM COWPER, ESQ.\
 DEAR SIR,\
 \
@@ -29,11 +29,21 @@ feeble and feminine hand to draw the Bow of Ulysses.\
 \
 The force, clearness, and sublimity of your admirable Poem;\
 the felicity, almost peculiar to your genius, of giving to the\
-most familiar objects dignity and effect, I could never hope to\cf3 \
+most familiar objects dignity and effect, I could never hope to\cf2  (ECCO-TCP)\cf4 \
+\
+\cf5 Figure <$n\cf4 #\cf5 fig:\cf4 juxta-emigrants-p1\cf5 >\cf4  shows how Juxta highlights the words which vary between these three copies.\
+Both of the OCR copies contain errors in individual letters which render the whole word interpretable by a human but not by text mining software, as in the case of \'93beavy\'94 for \'93heavy.\'94 The ECCO copy struggles with the fact that \uc0\u383  is not an available character, sometimes substituting an f, as in \'93\cf3 prefure\cf4 \'94 for \'93pre\uc0\u383 \u383 ure.\'94 Both leave out spaces between words, creating new tokens like \'93\cf3 isfarfrom\cf4 \'94 and \'93\cf3 and\uc0\u383 ublimity\cf4 ,\'94 though HathiTrust is less prone to this error.\
+Other features of the OCR copies are accurate to the page image but would nonetheless interfere with text mining. The hyphenation of \'93\cf3 Com- po\uc0\u383 ition\cf4 ,\'94 for example, would prevent it from rendering as a single word, though here even the careful TCP copy would introduce the same problem, since the line break is encoded as \'93\cf3 Com|position\cf4 .\'94 Before the TCP copy could be used for text mining, the \cf3 |\cf4  characters would likely need to be removed \'97 not too different from removing the hyphenation from the ECCO and Hathi copies. Most difficult to resolve is the fact that OCR naturally attempts to capture 
+\i \cf4 all
+\i0 \cf4  text on the page, including the signature mark and catch word. In ECCO these appear as \'93\cf3 ,a reach\cf4 \'94 and in Hathi they are \'93\cf3 3. - Reach\cf4 \'94 whereas TCP more appropriately leaves these out. Unlike the problems with hyphenated words, there is no way to correct for the inclusion of catchwords in a document, since there is no predictable way to identify them \'97 but keeping them in the document will cause any text-mining software to count these words twice.\cf2 \
+The usual \'93text cleaning\'94 procedures would further prepare these OCR texts for text mining by transforming all words to lowercase, removing all punctuation, and, in most cases, deleting all words which don\'92t match a predefined dictionary of valid words. A scholar working with the HathiTrust OCR would almost certainly add to this a step converting the \uc0\u383  character to an s, as discussed above, in order to make the dictionary comparison feasible. The result of this \'91cleaning\'92 would likely look something like the following:\
+\
+\pard\tx720\tx1080\tx1440\pardeftab720\partightenfactor0
+\cf2 to william dear sir there is i hope some propriety in my a potion to you which would never perhaps have existed had i not amid the heavy of many sorrows derived infinite consolation from your poetry and some degree of animation and of your he following performance aspiring to be con as an imitation of your inimitable poem the task i am sensible that it belongs not to a feeble hand to draw the bow of clearness and sublimity admirable poem the felicity almost peculiar to your genius of the familiar dignity and i could never hope to a reach (ECCO, as it would likely appear after text \'93cleaning\'94)\
+\
+ \
+william dear sir there is i hope some propriety in my addressing a position to you which would never perhaps have existed had i not amid the pressure of many sorrows derived infinite consolation from your poetry and some degree of animation and of confidence from your the following performance is far from aspiring to be considered as an imitation of your inimitable poem the task i am that it belongs not to a feeble and feminine band to draw the bow of ulysses. the force of your admirable poem the felicity almost peculiar to your genius of giving to the most familiar dignity and i could never hope to 3 reach (HathiTrust, as it would likely appear after text \'93cleaning\'94)\
 \
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
-\cf4 Figure <$n\cf3 #\cf4 fig:\cf3 juxta-emigrants-p1\cf4 >\cf3  shows how Juxta highlights the words which vary between these three copies.\
-Both of the OCR copies contain errors in individual letters which render the whole word interpretable by a human but not by text mining software, as in the case of \'93beavy\'94 for \'93heavy.\'94 The ECCO copy struggles with the fact that \uc0\u383  is not an available character, sometimes substituting an f, as in \'93\cf2 prefure\cf3 \'94 for \'93pre\uc0\u383 \u383 ure.\'94 Both leave out spaces between words, creating new tokens like \'93\cf2 isfarfrom\cf3 \'94 and \'93\cf2 and\uc0\u383 ublimity\cf3 ,\'94 though HathiTrust is less prone to this error.\
-Other features of the OCR copies are accurate to the page image but would nonetheless interfere with text mining. The hyphenation of \'93\cf2 Com- po\uc0\u383 ition\cf3 ,\'94 for example, would prevent it from rendering as a single word, though here even the careful TCP copy would introduce the same problem, since the line break is encoded as \'93\cf2 Com|position\cf3 .\'94 Before the TCP copy could be used for text mining, the \cf2 |\cf3  characters would likely need to be removed \'97 not too different from removing the hyphenation from the ECCO and Hathi copies. Most difficult to resolve is the fact that OCR naturally attempts to capture 
-\i all
-\i0  text on the page, including the signature mark and catch word. In ECCO these appear as \'93\cf2 ,a reach\cf3 \'94 and in Hathi they are \'93\cf2 3. - Reach\cf3 \'94 whereas TCP more appropriately leaves these out. Unlike the problems with hyphenated words, there is no way to correct for the inclusion of catchwords in a document, since there is no predictable way to identify them \'97 but keeping them in the document will cause any text-mining software to count these words twice.}
+\cf2 \
+Strikingly, these \'91clean\'92 texts are now further from legible to human eyes, as OCR errors which a reader could mentally correct (such as \'93beavy\'94 for \'93heavy\'94 are now entirely removed.}
