@@ -557,6 +557,14 @@ I created a “content set” called ECCO-1798 in Gale Digital Scholar Labs, by 
 
 1732 - Two discourses. I. On wisdom attainable by meditation of the vanity of human life ... II. Men more influenced by example than precept; ... Preached ... March 8, 1789, by the Reverend Samuel Hopkinson, ...	\[1789\]	London, United Kingdom	Samuel Hopkinson  
 
+I could end by describing what Bode-like scholarly edition I’d like to make. What would it be?
+
+Datasets of men’s, women’s, and unsigned writing from the 1790s? Filtering to fiction, or poetry? Or sermons?? Non-literary writing? Things that people might want to teach?
+
+Circulating libraries? Maybe one specific library, to be feasible?
+
+Reprints??  
+
 My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-\>1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery. My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file[^cf30] with fifteen columns of information. The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.  
 
 My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)
