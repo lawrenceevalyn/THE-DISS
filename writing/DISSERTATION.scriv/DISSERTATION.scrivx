@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-03-08 23:29:30 -0400" ModID="A4CA66BE-6AF4-4F3F-927C-AA6671A07A78">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-03-10 19:16:46 -0400" ModID="380AE37B-52F4-4697-A5A6-6DEB1075DE83">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -823,6 +823,152 @@
                                 <TextSelection>1681,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="13A33E95-65DF-4C60-8BB0-E763187BB1E0" Type="Text" Created="2020-02-18 15:03:30 -0500" Modified="2020-03-05 22:30:53 -0500">
+                            <Title>database histories</Title>
+                            <MetaData>
+                                <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
+                                <LabelID>9</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="027321C6-2E07-4146-B203-2E0E847B73BB" Type="Text" Created="2020-03-10 17:10:39 -0400" Modified="2020-03-10 17:20:29 -0400">
+                                    <Title>introduction: it's all about labour</Title>
+                                    <MetaData>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>875,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E0C2BDE8-4C86-4098-B505-5C552AADCE45" Type="Text" Created="2020-03-10 16:25:34 -0400" Modified="2020-03-10 16:26:30 -0400">
+                                    <Title>EEBO background</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>133,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C13F5C75-3627-4A8E-8ACC-0F5D77207EFB" Type="Text" Created="2019-05-31 16:16:48 -0400" Modified="2020-03-10 16:25:38 -0400">
+                                    <Title>ESTC timeline history</Title>
+                                    <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3D585F11-53AF-4B4E-843C-98209570D417" Type="Text" Created="2020-02-18 15:03:49 -0500" Modified="2020-03-10 16:31:45 -0400">
+                                    <Title>ECCO timeline history</Title>
+                                    <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EF70582E-F99B-4BA7-99E2-A55251444A17" Type="Text" Created="2020-02-18 15:04:11 -0500" Modified="2020-03-10 17:50:08 -0400">
+                                    <Title>TCP timeline history</Title>
+                                    <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="6ACD1A45-C09D-40C6-99AA-E6AB7F427B2F" Type="Text" Created="2020-03-10 17:03:16 -0400" Modified="2020-03-10 17:46:56 -0400">
+                                            <Title>1999 creation</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2041,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="EE4EDBFC-EF26-47FF-9FFD-082C696467FA" Type="Text" Created="2020-03-10 16:53:10 -0400" Modified="2020-03-10 17:03:28 -0400">
+                                            <Title>2005 ECCO-TCP</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>605,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="66765961-48DE-40D8-BC1F-D54C7BDD5345" Type="Text" Created="2020-02-18 15:04:19 -0500" Modified="2020-03-05 22:30:50 -0500">
+                                    <Title>Hathi timeline history</Title>
+                                    <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="25A3F06F-C32F-4F7D-8ACB-FD1A1D0239CD" Type="Text" Created="2020-03-06 18:53:57 -0500" Modified="2020-03-06 18:54:19 -0500">
+                                    <Title>PG timeline history</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="19BD6044-EBFB-4D42-B0DA-26E9E031EC77" Type="Text" Created="2020-03-06 18:54:00 -0500" Modified="2020-03-06 18:54:19 -0500">
+                                    <Title>GB timeline history</Title>
+                                    <MetaData>
+                                        <LabelID>9</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B32066BE-6051-4BCD-BF91-6B188369FCA2" Type="Text" Created="2020-03-10 17:10:47 -0400" Modified="2020-03-10 17:49:52 -0400">
+                                    <Title>summary</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>131,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-03-10 17:49:17 -0400">
+                                            <Title>table:databases-timeline</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1301,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="86FA8628-66BD-4C4C-A855-9BEB6C3C51D8" Type="Text" Created="2020-03-10 17:49:53 -0400" Modified="2020-03-10 17:49:55 -0400">
+                                    <Title>conclusion</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem UUID="D488F467-C376-4EA7-884C-0CBA78F9F05D" Type="Text" Created="2020-02-18 15:03:20 -0500" Modified="2020-03-05 22:30:38 -0500">
                             <Title>database models</Title>
                             <MetaData>
@@ -888,7 +1034,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="71515433-11B0-47A1-AD77-1BADF03D436C" Type="Text" Created="2020-02-18 15:04:33 -0500" Modified="2020-03-05 22:30:33 -0500">
+                                <BinderItem UUID="71515433-11B0-47A1-AD77-1BADF03D436C" Type="Text" Created="2020-02-18 15:04:33 -0500" Modified="2020-03-10 16:31:45 -0400">
                                     <Title>ECCO model</Title>
                                     <MetaData>
                                         <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
@@ -899,7 +1045,7 @@
                                         <TextSelection>266,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7F85680D-55A7-4992-B78C-52C8E1705193" Type="Text" Created="2020-02-18 15:04:36 -0500" Modified="2020-03-05 22:30:33 -0500">
+                                <BinderItem UUID="7F85680D-55A7-4992-B78C-52C8E1705193" Type="Text" Created="2020-02-18 15:04:36 -0500" Modified="2020-03-10 17:03:09 -0400">
                                     <Title>TCP model</Title>
                                     <MetaData>
                                         <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
@@ -907,8 +1053,19 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>163,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="5E7D3620-55DB-4257-9FF6-CD20FFDC43AD" Type="Text" Created="2020-03-10 16:55:07 -0400" Modified="2020-03-10 17:03:09 -0400">
+                                            <Title>TCP contents</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1350,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="7543CD43-4C48-4933-B342-BED8162DEABC" Type="Text" Created="2020-02-18 15:04:39 -0500" Modified="2020-03-05 22:30:33 -0500">
                                     <Title>Hathi model</Title>
@@ -971,94 +1128,6 @@
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem UUID="13A33E95-65DF-4C60-8BB0-E763187BB1E0" Type="Text" Created="2020-02-18 15:03:30 -0500" Modified="2020-03-05 22:30:53 -0500">
-                            <Title>database histories</Title>
-                            <MetaData>
-                                <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
-                                <LabelID>9</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem UUID="C13F5C75-3627-4A8E-8ACC-0F5D77207EFB" Type="Text" Created="2019-05-31 16:16:48 -0400" Modified="2020-03-05 22:30:43 -0500">
-                                    <Title>ESTC timeline history</Title>
-                                    <MetaData>
-                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                                        <LabelID>10</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>4098,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="3D585F11-53AF-4B4E-843C-98209570D417" Type="Text" Created="2020-02-18 15:03:49 -0500" Modified="2020-03-05 22:30:50 -0500">
-                                    <Title>ECCO timeline history</Title>
-                                    <MetaData>
-                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                                        <LabelID>9</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="4D52B8AD-2F44-45D3-A4CF-3F9A71A4CA07" Type="Text" Created="2020-03-06 18:58:13 -0500" Modified="2020-03-06 18:58:23 -0500">
-                                            <Title>ECCO assessment</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="EF70582E-F99B-4BA7-99E2-A55251444A17" Type="Text" Created="2020-02-18 15:04:11 -0500" Modified="2020-03-05 22:30:50 -0500">
-                                    <Title>TCP timeline history</Title>
-                                    <MetaData>
-                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                                        <LabelID>9</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="66765961-48DE-40D8-BC1F-D54C7BDD5345" Type="Text" Created="2020-02-18 15:04:19 -0500" Modified="2020-03-05 22:30:50 -0500">
-                                    <Title>Hathi timeline history</Title>
-                                    <MetaData>
-                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                                        <LabelID>9</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="25A3F06F-C32F-4F7D-8ACB-FD1A1D0239CD" Type="Text" Created="2020-03-06 18:53:57 -0500" Modified="2020-03-06 18:54:19 -0500">
-                                    <Title>PG timeline history</Title>
-                                    <MetaData>
-                                        <LabelID>9</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="19BD6044-EBFB-4D42-B0DA-26E9E031EC77" Type="Text" Created="2020-03-06 18:54:00 -0500" Modified="2020-03-06 18:54:19 -0500">
-                                    <Title>GB timeline history</Title>
-                                    <MetaData>
-                                        <LabelID>9</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -10712,6 +10781,15 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         <TextSelection>359,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="4D52B8AD-2F44-45D3-A4CF-3F9A71A4CA07" Type="Text" Created="2020-03-06 18:58:13 -0500" Modified="2020-03-10 16:24:15 -0400">
+                    <Title>ECCO assessment</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -10767,16 +10845,16 @@ Klein also suggests a change in how models are formed: “Instead of first askin
             <Status ID="4">Done</Status>
         </StatusItems>
     </StatusSettings>
-    <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-01 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">420</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-03-08 18:57:29 -0400"></PreviousSession>
+    <ProjectTargets Notify="Yes">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
+        <PreviousSession Words="1621" Characters="10214" Date="2020-03-10 16:10:43 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-03-08 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>903</OtherWordCount>
-        <OtherCharCount>6783</OtherCharCount>
+    <RecentWritingHistory Date="2020-03-10 00:00:00 -0400">
+        <DraftWordCount>1621</DraftWordCount>
+        <DraftCharCount>10214</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

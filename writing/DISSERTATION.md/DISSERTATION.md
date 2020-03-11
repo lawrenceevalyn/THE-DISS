@@ -299,11 +299,131 @@ What these comparisons intend to illuminate is *not* that collocation formulae o
 
 
 
+## database histories ##  
+
+In the next section I will close-read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.  
+
+To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
+
+
+
+### 2.1.1.  ESTC timeline history ###
+
+
+
+The history of the English Short-Title Catalog is long, as befits its enormous scope. “The English Short-Title Catalog (ESTC) is a vast database designed to include a bibliographic record, with holdings, of every surviving copy of letterpress produced in Great Britain or any of its dependencies, in any language, worldwide, from 1473-1800” (CBSR)[ not sure how best to cite this - <http://estc.ucr.edu/index.html#>]. Today, “The English Short-Title Catalogue is the most comprehensive record of what has appeared in print in Britain and the English-speaking world for all branches of human experience from the last quarter of the fifteenth century to the start of the nineteenth. More specialized studies exist for fields and eras within that span, but no other resource matches ESTC’s dependability over such a broad range” (Vander Meulen 265).
+
+It began as the Eighteenth Century Short Title Catalogue in the 1970s, operating in a similar line as the original Pollard and Redgrave Short-Title Catalogue for 1476--1640, which first appeared in 1926, and Donald Wing’s catalogue for 1641--1700, which appeared in 1951. These catalogues established the ambitious simplicity of the ESTC: to accurately describe every edition of every printed work in English or from the United Kingdom. After the completion of Wing’s STC, “\[e\]xploratory studies, poorly funded and inadequate though they were” (Korshin 209) throughout the 1950s and 60s pursued the feasibility of systematically accounting for the much larger body of printed work produced in the eighteenth century. The Eighteenth Century Short Title Catalogue began properly in 1976, at a conference jointly sponsored by the British Library and the American Society for Eighteenth Century Studies (Crump 106). Here, “bibliographers and librarians attempted both to arrive at a consensus of the size of the task and the methodology that would have to be adopted to achieve a union catalogue. However, until the works were catalogued, it would not be possible to answer basic questions (such as the potential number of extant items) which would predetermine working methods. The very fact that they found it difficult to agree for want of sound and accepted figures indicated the need for ESTC.” (Crump 105). A pilot project began at the British Library in 1977, under the direction of Robin Alston (Crump 105).
+
+Unlike earlier Short-Title Catalogues, which appeared as lengthly print publications, the Eighteenth-Century Short Title Catalogue was conceived as digital from the beginning --- a decision which, as Karian notes, “exhibited considerable foresight” (283) in the 1970s. As a result, “ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283).  Robin Alston and Mervyn Jannetta developed their own cataloguing rules, distinct from the Library of Congress MARC and UK MARC standards (Korshin 211). Once these standards were established, the British Library began to re-catalogue its own holdings, and in 1979 libraries in the United States, Germany, and Australia undertook to supplement them. In these international collaborations, “Where ESTC records already existed, these were adopted as the \[new\] record and only those works not held in the ESTC base file were catalogued again” (Crump 105). “One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’[ I can probably say a LOT more about all of this --- this is my answer to the “moving target” problem; move it to the introdction] (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270). Accordingly, the in-progress database “was soon available online, from 1980 via the British Library BLAISE \[British LibraryAutomated Information SErvice\] system and from 1981 in the US Research Libraries Group RLIN \[Research Libraries Information Network\] system” (Norman). Each of these databases was worked on locally by researchers, and then updated and reconciled with each other weekly.
+
+To supplement these databases, accessible almost exclusively to librarians with specialized training in operating them and primarily used by the scholars compiling the file, the ESTC intended to publish editions at particular milestones of completeness, intended for the use of non-librarian scholars. Their “first step, a fiche catalogue of \[the British Library’s\] holdings, together with indexes, generated by the computer” (Crump 105) was published in a microform “snapshot” in 1983, but other milestones did not occur according to schedule. The “joint Anglo-American interim publication of the ESTC file ” (Korshin 212) which was expected to follow on microform in 1984 (Korshin 212) did not appear. Alston attributed the delays partly to the immensity of the task, and partly to the impact of short-term cost-cutting decisions, like the reduction of early-stage proofreading or of in-person examination of books, which dramatically increased the labour of verifying the resulting database record. Although he consistently warned “how easily strategic decisions based exclusively on cost usually lead to greater, not less, eventual costs” (Alston), the ESTC each year seemed to be facing a new budget struggle, and important maintenance labour was several times deferred. This created something like a paradox for the ESTC: funding bodies wanted to commit less money to a project which was behind schedule, but the project would remain behind schedule unless it was funded to complete the work required. 
+
+Nonetheless, work continued, and in 1985, the online databases in RLIN and BLAISE were upgraded to allow dynamic updates to a single shared file (Crump 106), which for the first time allowed continuous access to a shared record, rather than the constant exchange and messy merging of individual partially-overlapping records. “Until the file was dynamically available online on RLIN in 1985 batch processing was a weekly nightmare” (Alston). At this time, it was hoped that the new RLIN file would “result in a more complete and coherent ‘first edition’ of ESTC” to be published in 1989 (Crump 106), though this deadline, too, was not met. In the mean time “the ESTC file \[was\] available to scholars on both BLAISE-LINE and on RLIN.” (Crump 106). To facilitate its use, the ESTC distributed “\[a\] simplified manual for searching the file on-line” (Crump 106). Crump took the opportunity of the update to rhapsodize on the database’s potential usefulness for other scholars: “No longer is the scholar limited in access to the data by the fixity of the printed page” (106). This valuable resource was not without cost. Although the manual on how to formulate search queries was free, use of the ESTC itself was notably not. Institutions or individuals paid to subscribe to the ESTC itself, paid per query for searches to be run, paid per minute for being connected to the database, and often paid for access to the computers they must use in their own libraries. Tabor says “the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” (367).
+
+“In 1987, with the agreement of the Bibliographical Society and the Modern Language Association of America, the International Committee approved the extension of the database to cover the period from the beginning of printing in the British Isles (ca. 1472) to 1700. The file changed its name to the 'English Short Title Catalogue', thereby keeping its well-known acronym. The USA team began cataloguing pre-1701 material in 1989, joined in the mid-1990s by the British Library team, and the resulting records were made available in the RLIN file from 1994.” (Norman). “In 1992, IESTC approved a further extension of the file to include serial publications. The USA team began work in 1994 on the cataloguing of serials within the scope of ESTC” (Norman). 
+
+Concurrently with the development of the ESTC, Wing’s seventeenth-century STC was undergoing redevelopment into a second edition, overseen by Katharine Pantzer. The second edition of Wing’s STC was published in two volumes in 1976 and 1986, followed by a set of exhaustive indexes in 1991. This second edition “represented a vast development of the original” (Vander Meulen 268), incorporating thousands of new entries, expanding the titles, and adding explanatory notes and headnotes. Its completion in 1991 also marked the end of the ability of its publisher and sponsor, the Bibliographical Society, to support it (Vander Meulen 269). “Accordingly, in 1999 the Society made an agreement with ESTC whereby the latter... would assume official responsibility for receiving new STC data” (Vander Meulen 270). The ESTC continued to research new entries and improve existing ones, releasing a second edition of the file on CD-ROM in 1998 and a third edition in 2003 (Norman).
+
+In 2006, almost thirty years after the commencement of the project, the ESTC underwent another major shift: the database was made publicly available to be searched for free online. This inspired more rhapsodizing, this time from Tabor: “The freeing of ESTC ... now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” (367). At the same time, the ESTC began a project “to provide full title and imprint transcriptions for the eighteenth-century records” (Tabor 370). Vander Meulen says that “The history of ESTC is in fact the record of steady developments. Some have been conspicuous---for instance, the physical progression from a printed prototype to microfiche, CD, online access via the vendors Blaise Line and RLIN, and universal online availability through the British Library.” (Vander Meulen 270) Many more have been less visible, in constant improvements to the accuracy and detail of the records. In 2011, the Center for Bibliographical Studies and Research at the University of California Riverside was awarded a planning grant from the Andrew W. Mellon Foundation to “redesign the ESTC as a 21st century research tool” (“Planning Grant”)[ add to bibliography], which was followed in 2013 by a larger two-year grant to execute software improvements to the ESTC.
+
+
+
+### 2.1.2.  ECCO timeline history ###
+
+
+
+### 2.1.3.  TCP timeline history ###  
+
+“ The Text Creation Partnership started, in 1999, as a collaboration between the university libraries of Michigan and Oxford, the Council on Library and Information Resources, and the publisher of Early English Books Online, Proquest. The aim was to create high quality ‘standardized, digitally-encoded electronic text editions’ starting with 25,000 titles from Early English Books Online.” (Gregg n. pag.)
+
+“The Text Creation Partnership was conceived in 1999 between the University of Michigan Library, Bodleian Libraries at the University of Oxford, ProQuest, and the Council on Library and Information Resources as an innovative way for libraries around the world to:
+
+* pool their resources in order to create full-text resources few could afford individually
+
+* create texts to a common standard suitable for search, display, navigation, and reuse
+
+* collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”)
+
+Those four named organizers --- Michigan, Oxford, ProQuest, and CLIR --- are the tip of the iceberg for institutional buy-in. At “Our scholarly partners,” TCP lists *two hundred* institutions which were involved in at least one of EEBO-TCP Phase I, EEBO-TCP Phase II, ECCO-TCP, Evans-TCP, many of which were involved in multiple of these projects. “This list does not include higher-education institutions based in the UK, all of which are counted as EEBO Phase 2 partners thanks to consortial funding” (TCP “Our scholarly partners”).
+
+The “FAQ” page still shows traces of the enormity of this undertaking. One question reveals that each partner library committed $60,000 to the venture, an amount which funds the keying and conversion of only around 250-300 books --- a large number, but a drop in the bucket compared to the approximately 73,000 books which the TCP as a whole has encoded. Two other questions, “Why would I buy something that is achievable only if others do the same?” and “Why would I buy something that is going to become freely available?” taken together imply the speculative and ambitious nature of the original project. In the official answers provided to these evidently frequently asked questions, there is a sense that the project posed a prisoner’s dilemma: every individual institution’s “best” move, from a game theory perspective, was to contribute nothing to the project and then reap the benefits of everyone else’s work, but if every institution did so, then no one would benefit. A close reading of both responses illuminates an interesting tension in values:
+
+Why would I buy something that is achievable only if others do the same?
+
+Mere calculation may have disinclined some libraries from joining. TCP partnership was always less a purchase than an (admittedly risky) investment, since all of Michigan’s projections for the TCP corpus depended on a certain optimistic assumptions about how many other institutions would join.  Some libraries may have joined out of faith in Michigan’s track record, or because of a long-standing connection with the University or its staff. Some out of an idealistic belief in the collaborative model that TCP represented or in the public value of the product it promised. Some perhaps out of a cost-benefit risk estimate. For all the partner libraries, however, TCP membership was in effect a commitment to fellow libraries to share the burden and reward of this work. Partner libraries contributed to the cost of producing tens of thousands of painstakingly produced electronic editions of early English works. Each new library that joined made it possible for the project to key books that we otherwise would not, improving the corpus for everyone.
+
+Why would I buy something that is going to become freely available?
+
+This question too has no obvious answer that will please everyone, and indeed this question may have influenced some potential partners to refrain from joining. The structure of the TCP, with its provisions for exclusive access for a time, followed by public release, was something of a balancing act, designed to encourage membership by both those who were unwilling to wait ten years or so for access to the texts on behalf of their students and faculty, and those who believed in the creation of an unrestricted public resource and were willing on altruistic grounds to contribute to it.  Regardless of their motives for joining, the success of the EEBO-TCP depended on the support of partner institutions. The partnership fee directly funded the conversion of new books,  and greatly affected the rate at which the work was carried out. By joining up,  a library not only gained immediate access to the texts,  and not only contributed to making a larger, more comprehensive corpus for everyone, but also measurably affected the pace, and advanced the completion date, of the project--and thereby advanced the date at which  the texts would be released to the public.
+
+The answers weakly attempt to provide the game-theory argument, but also carry the sense that the true answer, which they would like to give, has nothing to do with game theory and rationality, and everything to do with transcendent values of scholarship itself. In the minutes to the 2001 meeting of their executive board, they open with: “the project should determine more clearly if it is ‘a partnership or a product.’ Comment was offered that it is a ‘partnership to create a product’” (TCP Executive Board, 2001)
+
+  
+
+“In 2005 the project expanded to include Gale-Cengage’s Eighteenth-Century Collections Online (as well as Evans Early American Imprints by Newsbank). However, while the EEBO-TCP project flourishes (with around 40,000 texts transcribed so far), the work on ECCO-TCP stagnated at around 2,000 texts. As well as the main partner institutions of Michigan and Oxford that o ffer access to the ECCO-TCP corpus, there have been a variety of spin-off  projects. The result is a rather confusing jumble of access to the eighteenth-century TCP texts, so I’ve listed them below, with a few comments.” (Gregg n. pag.)
+
+
+
+### 2.1.4.  Hathi timeline history ###  
+
+To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
+
+1926	Pollard and Redgrave Short-Title Catalogue for 1476--1640
+
+1951	Donald Wing’s catalogue for 1641--1700, first edition
+
+1976	Proposal for Eighteenth Century Short Title Catalogue, British Library and the American Society for Eighteenth Century Studies
+
+1976	Second edition, vol 1, of Wing’s STC
+
+1977	ESTC pilot begun at British Library, directed by Robin Alston
+
+1979	ESTC: Libraries from USA, Germany, and Australia began contributing to ESTC
+
+1980	ESTC database available via British Library BLAISE \[British LibraryAutomated Information SErvice\]
+
+1981	ESTC database available via US Research Libraries Group RLIN \[Research Libraries Information Network\] system
+
+1983	ESTC catalogue of BL holdings and indexes published in microform
+
+1985	ESTC online databases in RLIN and BLAISE upgraded to allow dynamic updates to a single shared file
+
+1986	Second edition, vol 2, of Wing’s STC
+
+1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue
+
+1991	Exhaustive index to Wing’s STC --- after which Bibliographical Society no longer supported Wing
+
+1992	ESTC expanded scope to add serials
+
+1994	ESTC made pre-1700 records available
+
+1998	ESTC second edition released on CD-ROM
+
+199	9	ESTC assumed official responsibility for receiving new Wing STC data
+
+1999	TCP began
+
+2003	ESTC third edition released on CD-ROM
+
+2006	ESTC made available to search free online; ESTC begins transcribing full title and imprints
+
+
+
+Table 1: A chronological history of major events in the development of \[LIST THE DATABASES\].
+
+
+
+
+
+
+
 ## database models ##
 
 
 
-#### 2.1.1.1.  edition & ideal copy ####
+#### 2.2.1.1.  edition & ideal copy ####
 
 
 
@@ -333,7 +453,7 @@ There are several different ways to search ESTC records. The “Search” button
 
 
 
-### 2.1.2.  ECCO model ###
+### 2.2.2.  ECCO model ###
 
 
 
@@ -341,11 +461,23 @@ An edition being “included” in ECCO looks different from its inclusion in th
 
 
 
-### 2.1.3.  TCP model ###
+### 2.2.3.  TCP model ###
 
 
 
-### 2.1.4.  Hathi model ###  
+Although the ECCO-TCP now seems obviously built for text-mining distant reading, in fact it is largely organized around searching and consulting individual works.
+
+  
+
+What is *in* the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So --- the TCP contains whatever individual works happened to interest particular scholars.
+
+
+
+The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editions of a given work. This decision was a pragmatic one motivated by “limited funding” and a sense of scarcity: “Simply put, for every book that we chose to convert, a different book does not get converted: duplication, even partial duplication, has its costs” (TCP “FAQ”). Since the TCP never envisioned itself as a fully complete collection, the priority in textual selection “was always to capture as many different works and as great a variety of text as we could, usually focusing on the first edition of each work”(TCP “FAQ”). To a certain extent, this lack of duplication can be useful for text-mining: it places all texts on an equal playing field, rather than double-dipping on some works. However, they “have keyed additional editions where there is sufficient justification for doing so, and a user has made a case for it,” so the corpus cannot be assumed to contain *no* duplicated works (TCP “FAQ”).
+
+
+
+### 2.2.4.  Hathi model ###  
 
 The structuring principle of Project Gutenberg is its missions to make books available for pleasure reading. I argue that its core concept, analogous to the “edition” in the ESTC, or the “book” in ECCO and HathiTrust, is the “story.” Many of the priorities of Project Gutenberg which seem incompatible with scholarly approaches to textual history are explained by thinking of Project Gutenberg as being structured around “stories” rather than “books.”  
 
@@ -359,49 +491,7 @@ Google Books prioritizes low-quality information over *no* information. The algo
 
 
 
-Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.
-
-
-
-## database histories ##
-
-
-
-### 2.2.1.  ESTC timeline history ###
-
-
-
-Research the EEBO thread of ESTC/ECCO
-
-
-
-The history of the English Short-Title Catalog is long, as befits its enormous scope. “The English Short-Title Catalog (ESTC) is a vast database designed to include a bibliographic record, with holdings, of every surviving copy of letterpress produced in Great Britain or any of its dependencies, in any language, worldwide, from 1473-1800” (CBSR)[ not sure how best to cite this - <http://estc.ucr.edu/index.html#>]. Today, “The English Short-Title Catalogue is the most comprehensive record of what has appeared in print in Britain and the English-speaking world for all branches of human experience from the last quarter of the fifteenth century to the start of the nineteenth. More specialized studies exist for fields and eras within that span, but no other resource matches ESTC’s dependability over such a broad range” (Vander Meulen 265).
-
-It began as the Eighteenth Century Short Title Catalogue in the 1970s, operating in a similar line as the original Pollard and Redgrave Short-Title Catalogue for 1476--1640, which first appeared in 1926, and Donald Wing’s catalogue for 1641--1700, which appeared in 1951. These catalogues established the ambitious simplicity of the ESTC: to accurately describe every edition of every printed work in English or from the United Kingdom. After the completion of Wing’s STC, “\[e\]xploratory studies, poorly funded and inadequate though they were” (Korshin 209) throughout the 1950s and 60s pursued the feasibility of systematically accounting for the much larger body of printed work produced in the eighteenth century. The Eighteenth Century Short Title Catalogue began properly in 1976, at a conference jointly sponsored by the British Library and the American Society for Eighteenth Century Studies (Crump 106). Here, “bibliographers and librarians attempted both to arrive at a consensus of the size of the task and the methodology that would have to be adopted to achieve a union catalogue. However, until the works were catalogued, it would not be possible to answer basic questions (such as the potential number of extant items) which would predetermine working methods. The very fact that they found it difficult to agree for want of sound and accepted figures indicated the need for ESTC.” (Crump 105). A pilot project began at the British Library in 1977, under the direction of Robin Alston (Crump 105).
-
-Unlike earlier Short-Title Catalogues, which appeared as lengthly print publications, the Eighteenth-Century Short Title Catalogue was conceived as digital from the beginning --- a decision which, as Karian notes, “exhibited considerable foresight” (283) in the 1970s. As a result, “ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283).  Robin Alston and Mervyn Jannetta developed their own cataloguing rules, distinct from the Library of Congress MARC and UK MARC standards (Korshin 211). Once these standards were established, the British Library began to re-catalogue its own holdings, and in 1979 libraries in the United States, Germany, and Australia undertook to supplement them. In these international collaborations, “Where ESTC records already existed, these were adopted as the \[new\] record and only those works not held in the ESTC base file were catalogued again” (Crump 105). “One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’[ I can probably say a LOT more about all of this --- this is my answer to the “moving target” problem; move it to the introdction] (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270). Accordingly, the in-progress database “was soon available online, from 1980 via the British Library BLAISE \[British LibraryAutomated Information SErvice\] system and from 1981 in the US Research Libraries Group RLIN \[Research Libraries Information Network\] system” (Norman). Each of these databases was worked on locally by researchers, and then updated and reconciled with each other weekly.
-
-To supplement these databases, accessible almost exclusively to librarians with specialized training in operating them and primarily used by the scholars compiling the file, the ESTC intended to publish editions at particular milestones of completeness, intended for the use of non-librarian scholars. Their “first step, a fiche catalogue of \[the British Library’s\] holdings, together with indexes, generated by the computer” (Crump 105) was published in a microform “snapshot” in 1983, but other milestones did not occur according to schedule. The “joint Anglo-American interim publication of the ESTC file ” (Korshin 212) which was expected to follow on microform in 1984 (Korshin 212) did not appear. Alston attributed the delays partly to the immensity of the task, and partly to the impact of short-term cost-cutting decisions, like the reduction of early-stage proofreading or of in-person examination of books, which dramatically increased the labour of verifying the resulting database record. Although he consistently warned “how easily strategic decisions based exclusively on cost usually lead to greater, not less, eventual costs” (Alston), the ESTC each year seemed to be facing a new budget struggle, and important maintenance labour was several times deferred. This created something like a paradox for the ESTC: funding bodies wanted to commit less money to a project which was behind schedule, but the project would remain behind schedule unless it was funded to complete the work required. 
-
-Nonetheless, work continued, and in 1985, the online databases in RLIN and BLAISE were upgraded to allow dynamic updates to a single shared file (Crump 106), which for the first time allowed continuous access to a shared record, rather than the constant exchange and messy merging of individual partially-overlapping records. “Until the file was dynamically available online on RLIN in 1985 batch processing was a weekly nightmare” (Alston). At this time, it was hoped that the new RLIN file would “result in a more complete and coherent ‘first edition’ of ESTC” to be published in 1989 (Crump 106), though this deadline, too, was not met. In the mean time “the ESTC file \[was\] available to scholars on both BLAISE-LINE and on RLIN.” (Crump 106). To facilitate its use, the ESTC distributed “\[a\] simplified manual for searching the file on-line” (Crump 106). Crump took the opportunity of the update to rhapsodize on the database’s potential usefulness for other scholars: “No longer is the scholar limited in access to the data by the fixity of the printed page” (106). This valuable resource was not without cost. Although the manual on how to formulate search queries was free, use of the ESTC itself was notably not. Institutions or individuals paid to subscribe to the ESTC itself, paid per query for searches to be run, paid per minute for being connected to the database, and often paid for access to the computers they must use in their own libraries. Tabor says “the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” (367).
-
-“In 1987, with the agreement of the Bibliographical Society and the Modern Language Association of America, the International Committee approved the extension of the database to cover the period from the beginning of printing in the British Isles (ca. 1472) to 1700. The file changed its name to the 'English Short Title Catalogue', thereby keeping its well-known acronym. The USA team began cataloguing pre-1701 material in 1989, joined in the mid-1990s by the British Library team, and the resulting records were made available in the RLIN file from 1994.” (Norman). “In 1992, IESTC approved a further extension of the file to include serial publications. The USA team began work in 1994 on the cataloguing of serials within the scope of ESTC” (Norman). 
-
-Concurrently with the development of the ESTC, Wing’s seventeenth-century STC was undergoing redevelopment into a second edition, overseen by Katharine Pantzer. The second edition of Wing’s STC was published in two volumes in 1976 and 1986, followed by a set of exhaustive indexes in 1991. This second edition “represented a vast development of the original” (Vander Meulen 268), incorporating thousands of new entries, expanding the titles, and adding explanatory notes and headnotes. Its completion in 1991 also marked the end of the ability of its publisher and sponsor, the Bibliographical Society, to support it (Vander Meulen 269). “Accordingly, in 1999 the Society made an agreement with ESTC whereby the latter... would assume official responsibility for receiving new STC data” (Vander Meulen 270). The ESTC continued to research new entries and improve existing ones, releasing a second edition of the file on CD-ROM in 1998 and a third edition in 2003 (Norman).
-
-In 2006, almost thirty years after the commencement of the project, the ESTC underwent another major shift: the database was made publicly available to be searched for free online. This inspired more rhapsodizing, this time from Tabor: “The freeing of ESTC ... now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” (367). At the same time, the ESTC began a project “to provide full title and imprint transcriptions for the eighteenth-century records” (Tabor 370). Vander Meulen says that “The history of ESTC is in fact the record of steady developments. Some have been conspicuous---for instance, the physical progression from a printed prototype to microfiche, CD, online access via the vendors Blaise Line and RLIN, and universal online availability through the British Library.” (Vander Meulen 270) Many more have been less visible, in constant improvements to the accuracy and detail of the records. In 2011, the Center for Bibliographical Studies and Research at the University of California Riverside was awarded a planning grant from the Andrew W. Mellon Foundation to “redesign the ESTC as a 21st century research tool” (“Planning Grant”)[ add to bibliography], which was followed in 2013 by a larger two-year grant to execute software improvements to the ESTC.
-
-
-
-### 2.2.2.  ECCO timeline history ###
-
-
-
-### 2.2.3.  TCP timeline history ###
-
-
-
-### 2.2.4.  Hathi timeline history ###  
+Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.  
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 
