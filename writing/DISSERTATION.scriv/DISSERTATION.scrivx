@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-03-12 17:44:14 -0400" ModID="AAC00A0B-0A19-4DFB-9FDE-FAAFC4ED9D3B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-03-12 18:47:56 -0400" ModID="829B1A82-4D22-4A44-9A41-36913B1DEEAD">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -869,7 +869,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="6ACD1A45-C09D-40C6-99AA-E6AB7F427B2F" Type="Text" Created="2020-03-10 17:03:16 -0400" Modified="2020-03-12 17:21:57 -0400">
+                                        <BinderItem UUID="6ACD1A45-C09D-40C6-99AA-E6AB7F427B2F" Type="Text" Created="2020-03-10 17:03:16 -0400" Modified="2020-03-12 18:26:11 -0400">
                                             <Title>1999 creation</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -906,6 +906,15 @@
                                                 <TextSelection>24,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem UUID="044B2842-4019-45BD-9142-A3C8AFABA6C9" Type="Text" Created="2020-03-12 18:26:05 -0400" Modified="2020-03-12 18:26:11 -0400">
+                                            <Title>TCP selection</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1296,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="66765961-48DE-40D8-BC1F-D54C7BDD5345" Type="Text" Created="2020-02-18 15:04:19 -0500" Modified="2020-03-05 22:30:50 -0500">
@@ -919,15 +928,46 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="25A3F06F-C32F-4F7D-8ACB-FD1A1D0239CD" Type="Text" Created="2020-03-06 18:53:57 -0500" Modified="2020-03-06 18:54:19 -0500">
+                                <BinderItem UUID="25A3F06F-C32F-4F7D-8ACB-FD1A1D0239CD" Type="Text" Created="2020-03-06 18:53:57 -0500" Modified="2020-03-12 18:44:08 -0400">
                                     <Title>PG timeline history</Title>
                                     <MetaData>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>4426,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="113C8315-9987-4A8C-A1AE-A67A5750EDE8" Type="Text" Created="2020-03-12 18:43:48 -0400" Modified="2020-03-12 18:44:11 -0400">
+                                            <Title>history to 2008</Title>
+                                            <MetaData>
+                                                <LabelID>10</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5313,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="0E3AFC7B-4D39-4F7A-81A9-99691266BD10" Type="Text" Created="2020-03-12 18:44:03 -0400" Modified="2020-03-12 18:44:14 -0400">
+                                            <Title>history since 2008</Title>
+                                            <MetaData>
+                                                <LabelID>9</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="895C4600-1538-418C-845B-FE21EF1D0536" Type="Text" Created="2020-03-12 18:26:12 -0400" Modified="2020-03-12 18:29:18 -0400">
+                                            <Title>PG selection</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1075,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="19BD6044-EBFB-4D42-B0DA-26E9E031EC77" Type="Text" Created="2020-03-06 18:54:00 -0500" Modified="2020-03-06 18:54:19 -0500">
                                     <Title>GB timeline history</Title>
@@ -949,7 +989,7 @@
                                         <TextSelection>131,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-03-12 17:25:25 -0400">
+                                        <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-03-12 18:40:31 -0400">
                                             <Title>table:databases-timeline</Title>
                                             <MetaData>
                                                 <LabelID>10</LabelID>
@@ -1081,14 +1121,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="3C5BEC78-9108-40B0-9A42-63E92A3BC4BF" Type="Text" Created="2020-02-27 17:32:04 -0500" Modified="2020-03-05 22:30:33 -0500">
+                                <BinderItem UUID="3C5BEC78-9108-40B0-9A42-63E92A3BC4BF" Type="Text" Created="2020-02-27 17:32:04 -0500" Modified="2020-03-12 18:35:49 -0400">
                                     <Title>PG model</Title>
                                     <MetaData>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>451,0</TextSelection>
+                                        <TextSelection>913,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="C3358EAA-507B-4950-A651-DC7B76131B37" Type="Text" Created="2019-10-21 14:19:33 -0400" Modified="2019-11-21 19:03:06 -0500">
@@ -1527,7 +1567,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-03-12 17:28:53 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-03-12 18:47:35 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -10869,13 +10909,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="1217" Characters="7625" Date="2020-03-12 13:48:59 -0400"></PreviousSession>
+        <PreviousSession Words="2549" Characters="15699" Date="2020-03-12 13:48:59 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-03-12 00:00:00 -0400">
-        <DraftWordCount>1217</DraftWordCount>
-        <DraftCharCount>7625</DraftCharCount>
-        <OtherWordCount>65</OtherWordCount>
-        <OtherCharCount>636</OtherCharCount>
+        <DraftWordCount>2549</DraftWordCount>
+        <DraftCharCount>15699</DraftCharCount>
+        <OtherWordCount>110</OtherWordCount>
+        <OtherCharCount>1065</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

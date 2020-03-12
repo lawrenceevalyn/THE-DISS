@@ -349,7 +349,7 @@ Those four named organizers --- Michigan, Oxford, ProQuest, and CLIR --- are the
 
 A ten-person working group developed an encoding standard. The University of Michigan Library staff developed instructions to use this encoding standard. And then the text creation began. “Texts were selected each month at Michigan, page-images were supplied by ProQuest, marked-up transcriptions were submitted by the vendors, and quality control and editing undertaken at U-M Library and soon also at Bodleian Libraries in Oxford and subsidiary sites at the National Library of Wales, Aberystwyth, and at the University of Toronto.” (TCP “About”)
 
-“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)  
+  
 
 “EEBO-TCP met its goal of producing 25,000 books in 2009 (thereafter known as “EEBO-TCP Phase 1”), and then undertook work on a second phase to convert the first edition of each remaining unique monographic work in EEBO---another 40,000 or so books, for a total of around 70,000, if all hopes were realized.” (TCP “About”)
 
@@ -377,17 +377,57 @@ The answers weakly attempt to provide the game-theory argument, but also carry t
 
 
 
-The TCP is thus an intervention into \[stuff about money.\] They describe the project as “a public-private partnership, led by libraries” (TCP, “About”) and emphasize the “librarian’s attitude toward content” which prioritizes the widest possible access and use. This “librarian’s attitude” is most evident in the (eventual) availability of all of the transcriptions in the public domain, despite the fact that the images they are based on remain privately restricted by the companies which own them. Their description of the “partnership,” however, continues to show signs of the strain in value systems when commercial and noncommercial goals are intertwined: “Through our partnership with private vendors, we had access to a huge trove of images from which to transcribe. In return, these companies were supplied with a full-text index to their images ---work which would have otherwise been difficult or expensive to produce.” In other words, through purchasing a service (access to images), the academic institution received that service. These institutions carried out an enormous feat of labour at their own expense, using the service they purchased. Then, “in return,” they provided the results of their labour for free to the company, for the company to then further profit from the improvements to their service. Most telling, here, is the word “otherwise.” The suggestion here is that, without the TCP, the companies themselves would not have been willing to undertake the encoding (so desired by the users of their service) because it would be difficult and expensive. However, the TCP certainly did not make the task any less difficult or expensive. Instead, academic institutions absorbed the difficulty and expense on those companies’ behalf. I do not say that they were wrong to do so: on the contrary, the “librarian’s attitude” mirrors my own attitude, and it is surely to everyone’s benefit for a wonderful thing to exist even if that wonderful thing is not profitable. Rather, I highlight this rhetorical moment in the TCP’s self description to suggest that \[it takes two to collaborate.\] One of the three key aims of the TCP identified on the homepage is to “collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”). However, the TCP seems instead to have simply come up with a *better* bargain, one which creatively offers scholarly labour as a bargaining chip.
+The TCP is thus an intervention into \[stuff about money.\] They describe the project as “a public-private partnership, led by libraries” (TCP, “About”) and emphasize the “librarian’s attitude toward content” which prioritizes the widest possible access and use. This “librarian’s attitude” is most evident in the (eventual) availability of all of the transcriptions in the public domain, despite the fact that the images they are based on remain privately restricted by the companies which own them. Their description of the “partnership,” however, continues to show signs of the strain in value systems when commercial and noncommercial goals are intertwined: “Through our partnership with private vendors, we had access to a huge trove of images from which to transcribe. In return, these companies were supplied with a full-text index to their images ---work which would have otherwise been difficult or expensive to produce.” In other words, through purchasing a service (access to images), the academic institution received that service. These institutions carried out an enormous feat of labour at their own expense, using the service they purchased. Then, “in return,” they provided the results of their labour for free to the company, for the company to then further profit from the improvements to their service. Most telling, here, is the word “otherwise.” The suggestion here is that, without the TCP, the companies themselves would not have been willing to undertake the encoding (so desired by the users of their service) because it would be difficult and expensive. However, the TCP certainly did not make the task any less difficult or expensive. Instead, academic institutions absorbed the difficulty and expense on those companies’ behalf. I do not say that they were wrong to do so: on the contrary, the “librarian’s attitude” mirrors my own attitude, and it is surely to everyone’s benefit for a wonderful thing to exist even if that wonderful thing is not profitable. Rather, I highlight this rhetorical moment in the TCP’s self description to suggest that \[it takes two to collaborate.\] One of the three key aims of the TCP identified on the homepage is to “collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”). However, the TCP seems instead to have simply come up with a *better* bargain, one which creatively offers scholarly labour as a bargaining chip.  
+
+“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)
 
 
 
 ### 2.1.4.  Hathi timeline history ###  
+
+Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
+
+“During the fist twenty years, Michael Hart himself keyed in the first hundred books, with the occasional help of others from time to time.” (Lebert)
+
+“when we started, the files had to be very small as a normal 300 page book took one meg of space which no one in 1971 could be expected to have (in general). So doing the U.S. Declaration of Independence (only 5K) seemed the best place to start. This was followed by the Bill of Rights --- then the whole US Constitution, as space was getting large (at least by the standards of 1973). Then came the Bible, as individual books of the Bible were not that large, then Shakespeare (a play at a time), and then into general work in the areas of light and heavy literature and references.” (Hart “History and Philosophy”) “That edition of Shakespeare was never released, due to copyright changes. If Shakespeare's works belong to the public domain, the comments and notes may be copyrighted, depending on the publication date. But other editions belonging to the public domain were posted a few years later.” (Lebert)
+
+“When the internet became popular, in the mid-1990s, the project got a boost and an international dimension. Michael still typed and scanned in books, but now coordinated the work of dozens and then hundreds of volunteers in many countries.” (Lebert)
+
+“In August 1989, Project Gutenberg completed its 10th book, The King James Bible, that was first published in 1611, with the standard text dated 1769. In 1990, there were 250,000 internet users, and the standard was 360 K disks. In January 1991, Michael typed in Alice's Adventures in Wonderland, by Lewis Carroll (published in 1865). In July 1991, he typed in Peter Pan, by James M. Barrie (published in 1904).” (Lebert)
+
+“By the time Project Gutenberg got famous, the standard was 360K disks, so we did books such as Alice in Wonderland or Peter Pan because they could fit on one disk. Now 1.44 is the standard disk and ZIP is the standard compression; the practical filesize is about three million characters, more than long enough for the average book.” (Hart “History and Philosophy”)
+
+“Project Gutenberg gradually got into its stride, with the digitization of one book per month in 1991, two books per month in 1992, four books per month in 1993 and eight books per month in 1994. In January 1994, Project Gutenberg celebrated its 100th book by releasing The Complete Works of William Shakespeare.” (Lebert)
+
+”The number of electronic books rose from 1,000 (in August 1997) to 5,000 (in April 2002), 10,000 (in October 2003), 15,000 (in January 2005), 20,000 (in December 2006) and 25,000 (in April 2008). ... The steady growth went on, with an average of 8 books per month in 1994, 16 books per month in 1995, and 32 books per month in 1996.” (Lebert)
+
+“A fast growth thanks to Distributed Proofreaders, a website launched in October 2000 by Charles Franks to share the proofreading of books between many volunteers. Volunteers choose one of the books listed on the site and proofread a given page. They don't have any quota to fulfill, but it is recommended they do a page per day if possible. It doesn't seem much, but with hundreds of volunteers it really adds up.” (Lebert)
+
+“If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert)  
+
+“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
+
+
+
+“There are three portions of the Project Gutenberg Library, basically be described as:
+
+Light Literature; such as Alice in Wonderland, Through the Looking-Glass, Peter Pan, Aesop's Fables, etc.
+
+Heavy Literature; such as the Bible or other religious documents, Shakespeare, Moby Dick, Paradise Lost, etc.
+
+References; such as Roget's Thesaurus, almanacs, and a set of encyclopedia, dictionaries, etc.
+
+The Light Literature Collection is designed to get persons to the computer in the first place, whether the person may be a pre-schooler or a great-grandparent. We love it when we hear about kids or grandparents taking each other to an etexts to Peter Pan when they come back from watching HOOK at the movies, or when they read Alice in Wonderland after seeing it on TV. We have also been told that nearly every Star Trek movie has quoted current Project Gutenberg etext releases (from Moby Dick in The Wrath of Khan; a Peter Pan quote finishing up the most recent, etc.) not to mention a reference to Through the Looking-Glass in JFK. This was a primary concern when we chose the books for our libraries.
+
+We want people to be able to look up quotations they heard in conversation, movies, music, other books, easily with a library containing all these quotations in an easy to find etext format.” (Hart “History and Philosophy”)  
 
 To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
 
 1926	Pollard and Redgrave Short-Title Catalogue for 1476--1640
 
 1951	Donald Wing’s catalogue for 1641--1700, first edition
+
+1971	First text in what would be Project Gutenberg. Over the next twenty years, Michael Hart personally keyed the first hundred books.
 
 1976	Proposal for Eighteenth Century Short Title Catalogue, British Library and the American Society for Eighteenth Century Studies
 
@@ -409,11 +449,19 @@ To review all of these events, \<$n#table:databases-timeline\> shows the milesto
 
 1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue
 
+1989	Project Gutenberg completes its tenth book, the King James Bible
+
 1991	Exhaustive index to Wing’s STC --- after which Bibliographical Society no longer supported Wing
 
 1992	ESTC expanded scope to add serials
 
 1994	ESTC made pre-1700 records available
+
+1994	Project Gutenberg completes its 100^th^ book, the Complete Works of William Shakespeare
+
+1997	Project Gutenberg publishes its 1000^th^ book, La Divina
+
+Commedia di Dante, in Italian
 
 1998	ESTC second edition released on CD-ROM
 
@@ -421,11 +469,15 @@ To review all of these events, \<$n#table:databases-timeline\> shows the milesto
 
 1999	TCP began
 
+2000	Project Gutenberg: Charles Franks launches Distributed Proofreaders
+
 2003	ESTC third edition released on CD-ROM
 
 2005	TCP begins encoding ECCO texts
 
 2006	ESTC made available to search free online; ESTC begins transcribing full title and imprints
+
+2008	Project Gutenberg publishes its 25,000^th^ book, English Book Collectors, by William Younger Fletcher
 
 2009	EEBO-TCP Phase I complete: produced 25,000 books; beginning of Phase II
 
@@ -503,7 +555,11 @@ The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editi
 
 ### 2.2.4.  Hathi model ###  
 
-The structuring principle of Project Gutenberg is its missions to make books available for pleasure reading. I argue that its core concept, analogous to the “edition” in the ESTC, or the “book” in ECCO and HathiTrust, is the “story.” Many of the priorities of Project Gutenberg which seem incompatible with scholarly approaches to textual history are explained by thinking of Project Gutenberg as being structured around “stories” rather than “books.”  
+The structuring principle of Project Gutenberg is its missions to make books available for pleasure reading. I argue that its core concept, analogous to the “edition” in the ESTC, or the “book” in ECCO and HathiTrust, is the “story.” Many of the priorities of Project Gutenberg which seem incompatible with scholarly approaches to textual history are explained by thinking of Project Gutenberg as being structured around “stories” rather than “books.”
+
+
+
+“At the end of 1993, Project Gutenberg's eTexts were organized into three main sections: a) "Light Literature", such as Alice's Adventures in Wonderland, Peter Pan or Aesop's Fables; b) "Heavy Literature", such as the Bible, Shakespeare's works or Moby Dick; c) "Reference Literature", such as Roget's Thesaurus, and a set of encyclopaedias and dictionaries. This organization in three sections was abandoned later for a more detailed classification.” (Lebert)  
 
 The article ”Quantitative patterns of stylistic influence in the evolution of literature” uses Project Gutenberg --- do mathematicians not know what a good source of literature is, or do they know better than us?
 
