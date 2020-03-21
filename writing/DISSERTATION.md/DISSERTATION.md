@@ -251,6 +251,10 @@ Figure 4: The facsimile of the first page of *The Emigrants* found in ECCO, whic
 
 Figure 5: The facsimile of the first page of *The Emigrants* found in HathiTrust, which forms the basis of the HathiTrust OCR text.  
 
+“16 In his discussion of JSTOR's "intolerably corrupt" OCR text, Nicholson Baker suggests that the reason why the user is prevented from scrolling through this naked OCR output is that scholars "might, after a few days, be dis- turbed by the frequency and strangeness of its mistakes . . . and they might no longer be willing to put their trust in the scholarly integrity of the database."17 Baker's criticism of JSTOR, however, is based on an error rate (with editorial intervention) of just one typo in every two thousand characters.” (Spedding 439)
+
+“The two OCR-captured texts average over 150 typos per 2,000 characters,22 a high enough error rate to render parts of the text completely unintelligible. It is not clear how typical this error rate is, and how much it declines with editorial intervention,23 but again the scale of the problem is clear.24 Consequently, the claim that OCR errors "may occasionally result in incorrect character capture, which may affect some \[ECCO\] full-text search results," seems wildly, even heroically, optimistic.” (Spedding 440)  
+
 A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:
 
 \<listPrefixDef\>
@@ -301,9 +305,7 @@ What these comparisons intend to illuminate is *not* that collocation formulae o
 
 ## database histories ##  
 
-In the next section I will close-read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.  
-
-To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
+In the next section I will close-read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.
 
 
 
@@ -329,7 +331,41 @@ In 2006, almost thirty years after the commencement of the project, the ESTC und
 
 
 
-### 2.1.2.  ECCO timeline history ###
+### 2.1.2.  ECCO timeline history ###  
+
+To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
+
+
+
+“EEBO’s relationship with the original STC and Wing is straightforward and clear; EEBO’s relationship with electronic ESTC, on the other hand, is less well-known.20 A series of agreements made between ESTC and University Microfilms/ProQuest between 1989 and 1997 allowed EEBO to draw directly on ESTC’s existing bibliographical data. Consequently, / every search run on EEBO (with some exceptions) relies, in a fundamental sense, on bibliographical information originally supplied by ESTC -- but not in the form that one might expect. First, EEBO heavily edited ESTC’s data for its own purposes: certain categories of data were removed (e.g. collations, Stationers’ Register entrances), some information was amended (e.g. subject headings), and some was added (e.g. microfilm- specific details). Second, there is no formal mechanism for synchronising the data between the two resources. Occasionally, snapshots of data are sent by EEBO to ESTC but there is no guarantee that a correction or revision made to an ESTC entry will be replicated in the corresponding EEBO entry or vice versa: neither ESTC nor EEBO will necessarily know when the other has made a correction. As both resources continue to amend and expand their bibliographical data for their own purposes, there is an increasing likelihood of significant discrepancy between the two resources. Finally, although EEBO continues to microfilm and digitise, there is no absolute one-to-one correspondence between the pre-1701 entries in ESTC and the materials on EEBO; there are -- and will always be -- items on ESTC not available on EEBO.” (Gadd 685-6)
+
+
+
+“unlike scholarly facsimile editions, the selection process for microfilming was often arbitrary. Copies were selected primarily by reference to the copies listed in STC and Wing, with particular preference for certain major collections; they were not selected because they were considered representative of a particular edition. By bringing together the bibliographical record for an edition and (usually but not always) only a single witness of that edition,22 EEBO is obviously aiming to provide a useful scholarly mechanism in terms of searching but by doing so are implying -- albeit not deliberately -- that the record and the copy *are* *one and the same thing*. It would be better, perhaps, if EEBO represented itself as a library of copies, rather than a catalogue of ‘titles’.” (Gadd 687)
+
+
+
+“ in digitising the microfilms in their original forms, EEBO decided (presumably for commercial reasons rather than purely scholarly ones) against sanitising the images. Openings are retained rather than broken into single pages; images are not cropped; rulers, place-holders, and descriptive notes are left in place; blank leaves are not removed. While Kichuk’s concern about ‘remedia- tion’ is a real one, it is difficult to use EEBO for any length of time without being reminded that these are reproductions of actual objects.” (Gadd 688)  
+
+ECCO, as a distinct resource, is a historic latecomer compared to EEBO. The initial microfilms were created in \[???\] by \[???\]. In 2003, Thomson Gale began making digital copies of the Eighteenth Century Collection microfilms available to subscribers online. The digital images were made from the microfilm masters, which were 400 dpi, and thus higher resolution than the microfilm copies. 
+
+
+
+“the move from microfilms to the Internet has meant easier searching, easier physical access, easier manipulation of the images, clearer images and (for the UK at least) cheaper institutional access” (Gadd 685).
+
+
+
+“However, the path to digitization was not ideal: these documents were imaged in the late 1970s, transformed into microfilm during the 1980s, and the microfilms digitized in the 1990s. Because of the state of reproductive technologies during the late 20th century, as well as the circuitous path to digitization (through microfilm), the image quality is very poor and bitonal, with no greyscale / images available. Furthermore, the original documents themselves, printed with premodern technologies, pose problems even for human readers of their pages, but much more so for optical character recognition (OCR) engines. For example, printed characters were not perfectly situated on a baseline, blackletter fonts were used, ink bled through the paper, and the typeface was broken and overworn.” (Christy et al. 1-2)
+
+Reference “deep fried memes” --- xkcd comic: <https://xkcd.com/1683/>
+
+
+
+The microfilms were scanned at 300 dpi (Spedding 440).
+
+
+
+“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
 
 
 
@@ -355,7 +391,7 @@ A ten-person working group developed an encoding standard. The University of Mic
 
 “In 2005, the TCP executive board and staff sought to expand the TCP model to other databases of historical books, namely, Gale Cengage’s Eighteenth-Century Collections Online (ECCO) and Newsbank Readex’s Evans Early American Imprints (Evans-TCP). These projects never received quite the support attracted by EEBO-TCP, and in the end produced only about 8,000 texts, compared to the 60,000 produced by the latter, with another few thousand on the way.” (TCP “About”)
 
-“In 2005 the project expanded to include Gale-Cengage’s Eighteenth-Century Collections Online (as well as Evans Early American Imprints by Newsbank). However, while the EEBO-TCP project flourishes (with around 40,000 texts transcribed so far), the work on ECCO-TCP stagnated at around 2,000 texts. As well as the main partner institutions of Michigan and Oxford that o ffer access to the ECCO-TCP corpus, there have been a variety of spin-off  projects. The result is a rather confusing jumble of access to the eighteenth-century TCP texts, so I’ve listed them below, with a few comments.” (Gregg n. pag.)
+“In 2005 the project expanded to include Gale-Cengage’s Eighteenth-Century Collections Online (as well as Evans Early American Imprints by Newsbank). However, while the EEBO-TCP project flourishes (with around 40,000 texts transcribed so far), the work on ECCO-TCP stagnated at around 2,000 texts. As well as the main partner institutions of Michigan and Oxford that oess to the eighteenth-century TCP texts, so I’ve listed them below, with a few comments.” (Gregg n. pag.)
 
 “ECCO natively supports OCR-based full-text searching of this corpus. This is significant because it meant that unlike EEBO-TCP (which produced searchable text where there was previously none at all), ECCO-TCP could only hope to produce *more accurate* text (and more reusable text) than what was already available. The larger size of ECCO (because of the great increase in printing and greatly enhanced chances of survival of printed works in the 18th century) also made it a different proposition: nothing so ambitious as EEBO-TCP coverage was feasible for ECCO-TCP. ... Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000.” (TCP “ECCO”)  
 
@@ -379,11 +415,7 @@ The answers weakly attempt to provide the game-theory argument, but also carry t
 
 The TCP is thus an intervention into \[stuff about money.\] They describe the project as “a public-private partnership, led by libraries” (TCP, “About”) and emphasize the “librarian’s attitude toward content” which prioritizes the widest possible access and use. This “librarian’s attitude” is most evident in the (eventual) availability of all of the transcriptions in the public domain, despite the fact that the images they are based on remain privately restricted by the companies which own them. Their description of the “partnership,” however, continues to show signs of the strain in value systems when commercial and noncommercial goals are intertwined: “Through our partnership with private vendors, we had access to a huge trove of images from which to transcribe. In return, these companies were supplied with a full-text index to their images ---work which would have otherwise been difficult or expensive to produce.” In other words, through purchasing a service (access to images), the academic institution received that service. These institutions carried out an enormous feat of labour at their own expense, using the service they purchased. Then, “in return,” they provided the results of their labour for free to the company, for the company to then further profit from the improvements to their service. Most telling, here, is the word “otherwise.” The suggestion here is that, without the TCP, the companies themselves would not have been willing to undertake the encoding (so desired by the users of their service) because it would be difficult and expensive. However, the TCP certainly did not make the task any less difficult or expensive. Instead, academic institutions absorbed the difficulty and expense on those companies’ behalf. I do not say that they were wrong to do so: on the contrary, the “librarian’s attitude” mirrors my own attitude, and it is surely to everyone’s benefit for a wonderful thing to exist even if that wonderful thing is not profitable. Rather, I highlight this rhetorical moment in the TCP’s self description to suggest that \[it takes two to collaborate.\] One of the three key aims of the TCP identified on the homepage is to “collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”). However, the TCP seems instead to have simply come up with a *better* bargain, one which creatively offers scholarly labour as a bargaining chip.  
 
-“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)
-
-
-
-### 2.1.4.  Hathi timeline history ###  
+“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)  
 
 Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
 
@@ -405,7 +437,7 @@ Project Gutenberg began in 1971 with one individual, Michael Hart, who did not b
 
 “If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert)  
 
-“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
+
 
 
 
@@ -421,17 +453,39 @@ The Light Literature Collection is designed to get persons to the computer in th
 
 We want people to be able to look up quotations they heard in conversation, movies, music, other books, easily with a library containing all these quotations in an easy to find etext format.” (Hart “History and Philosophy”)  
 
+The founding logic of Project Gutenberg resonates strikingly with Bordieu’s call to “*universalize in reality the conditions of access*” (qtd in Guillory 340, emphasis original) to literature.
+
+The first Project Gutenberg texts are almost a parody of important texts: The Declaration of Independence, The King James Bible. These are the texts assumed to be urgently desired by “99% of the general public” (Hart “History and Philosophy”). They are then followed, however, by a work which has rarely been central to the institutional hierarchies of cultural capital: Alice in Wonderland. As Hart describes his choices of what texts to transcribe next, he seems to be describing a version of what Guillory hoped for, “another kind of game” in which texts can compete for cultural capital, a game “with less dire consequences for the losers, an *aesthetic* game” (Guillory 340, emphasis original).
+
+
+
+“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
+
+
+
+### 2.1.4.  Hathi timeline history ###  
+
 To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
 
+1918	Pollard first proposes a “short-title handlist”
+
 1926	Pollard and Redgrave Short-Title Catalogue for 1476--1640
+
+1938	Eugene B. Power founds University Microfilms
+
+1945	Wing starts collecting his STC, 1641--1700
 
 1951	Donald Wing’s catalogue for 1641--1700, first edition
 
 1971	First text in what would be Project Gutenberg. Over the next twenty years, Michael Hart personally keyed the first hundred books.
 
+1972	Beginning of second ed of Wing STC, 1641--1700
+
 1976	Proposal for Eighteenth Century Short Title Catalogue, British Library and the American Society for Eighteenth Century Studies
 
 1976	Second edition, vol 1, of Wing’s STC
+
+1976	Beginning of second ed of Pollard & Redgrave STC, 1475-1640
 
 1977	ESTC pilot begun at British Library, directed by Robin Alston
 
@@ -439,19 +493,25 @@ To review all of these events, \<$n#table:databases-timeline\> shows the milesto
 
 1980	ESTC database available via British Library BLAISE \[British LibraryAutomated Information SErvice\]
 
+1981	Research Publications, Inc begins microfilming books
+
 1981	ESTC database available via US Research Libraries Group RLIN \[Research Libraries Information Network\] system
 
 1983	ESTC catalogue of BL holdings and indexes published in microform
+
+1983	*Eighteenth Century Collection* microfilm produced by Research Publications, Inc
 
 1985	ESTC online databases in RLIN and BLAISE upgraded to allow dynamic updates to a single shared file
 
 1986	Second edition, vol 2, of Wing’s STC
 
-1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue
+1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue. Information from Wing and STC is added to ESTC.
 
 1989	Project Gutenberg completes its tenth book, the King James Bible
 
-1991	Exhaustive index to Wing’s STC --- after which Bibliographical Society no longer supported Wing
+1991	End of second edition of Pollard & Redgrave STC, 1475-1640
+
+1991?	Exhaustive index to Wing’s STC --- after which Bibliographical Society no longer supported Wing
 
 1992	ESTC expanded scope to add serials
 
@@ -459,11 +519,17 @@ To review all of these events, \<$n#table:databases-timeline\> shows the milesto
 
 1994	Project Gutenberg completes its 100^th^ book, the Complete Works of William Shakespeare
 
+“By the late 1990s, several thousand reels had been published in two series: ‘Early English Books, 1475--1640’ and ‘Early English Books, 1641--1700’.” (Gadd)
+
 1997	Project Gutenberg publishes its 1000^th^ book, La Divina
 
 Commedia di Dante, in Italian
 
 1998	ESTC second edition released on CD-ROM
+
+1998	Conclusion of second ed of Wing STC
+
+1998	Beginnings of EEBO: University Microfilms (now ProQuest) began to make available digitised copies of its microfilms across the Internet to subscribing institutions
 
 199	9	ESTC assumed official responsibility for receiving new Wing STC data
 
@@ -473,9 +539,13 @@ Commedia di Dante, in Italian
 
 2003	ESTC third edition released on CD-ROM
 
+2003	Beginning of ECCO: Thomson Gale (now Gale Cengage Learning) made digital copies of Eighteenth Century Collection microfilms available to subscribers online
+
 2005	TCP begins encoding ECCO texts
 
 2006	ESTC made available to search free online; ESTC begins transcribing full title and imprints
+
+“As of 26 April 2007 the number of microfilm reels of The Eighteenth Century that had been released was 16,625; the total number of titles on these reels is 189,569 (information provided by Katri Russick, Thomson Gale, Australia and New Zealand, in a private email). This number increased to at least 17,828 microfilm reels - the number received and catalogued by Monash University - by 1 November 2010.” (Spedding 450)
 
 2008	Project Gutenberg publishes its 25,000^th^ book, English Book Collectors, by William Younger Fletcher
 
@@ -491,7 +561,25 @@ Table 1: A chronological history of major events in the development of \[LIST TH
 
 
 
+  
 
+“ProQuest is to be commended for its attitude to the wider scholarly community.27 EEBO is a commercial product but nonetheless there is an encouraging and genuine wish to engage with its users. This ranges from the active monitoring and rapid responding to queries submitted via its ‘Webmaster’ form to informal and formal consultations with students, scholars, and other users. EEBO representatives appear at -- and often sponsor -- academic events. Content is frequently corrected, updated, expanded and enhanced (such as the new ‘EEBO Introduction Series’); the searching mechanism continues to be improved; the project to produce full-text transcriptions (the Text Creation Partnership) is an academic venture, not a commercial one. Unlike Jackson’s microfilm photographer, lurking in his lair with his livid lights and chemical smells, the present providers of EEBO seem to be rather more interested in -- and responsive to -- contemporary scholarship.” (Gadd 688)  
+
+“It is perhaps the inconsistency of the OCR readings, obvious from this rough assessment, that makes Gale bashful about the restricted files. The editors of the ESTC confess to their public resource being a construction site in a way that the proprietors of private, commercial websites like ECCO prefer not to. But few really mind these days, especially if improvements are seen to be ongoing. Gale should be more relaxed about the incompleteness of their work, though perhaps not quite so relaxed as they are with the Burney Collection.” (Bullard 756)  
+
+“Viewing the field of eighteenth-century digital humanities as a single prospect, it is the contrast between publicly funded, open-access sites, and privately owned, subscription- access resources that is most striking. Each side of the divide has much to learn from the other. Publicly funded academic projects must acquire the pragmatism and ambitiousness of scale that commercial developers have always shown. Commercial developers must adapt themselves more generously to the principles of scholarly openness and accuracy. They might also imitate the inventiveness of the open sector, its adaptability to the demands raised by different kinds of primary media. Both sides recognize the desirability of making their resources interoperable across the divide, and the business of interconnectivity will preoccupy all kinds of digital humanist in the coming decade. Another set of players likely to step further forward in future years is the university presses.” (Bullard 756)  
+
+The “microfilm series is not a random - and therefore randomly representatve--- selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
+
+
+
+“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)  
+
+What is *in* the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So --- the TCP contains whatever individual works happened to interest particular scholars.
+
+
+
+The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editions of a given work. This decision was a pragmatic one motivated by “limited funding” and a sense of scarcity: “Simply put, for every book that we chose to convert, a different book does not get converted: duplication, even partial duplication, has its costs” (TCP “FAQ”). Since the TCP never envisioned itself as a fully complete collection, the priority in textual selection “was always to capture as many different works and as great a variety of text as we could, usually focusing on the first edition of each work”(TCP “FAQ”). To a certain extent, this lack of duplication can be useful for text-mining: it places all texts on an equal playing field, rather than double-dipping on some works. However, they “have keyed additional editions where there is sufficient justification for doing so, and a user has made a case for it,” so the corpus cannot be assumed to contain *no* duplicated works (TCP “FAQ”).
 
 
 
@@ -537,19 +625,35 @@ An edition being “included” in ECCO looks different from its inclusion in th
 
 
 
+“Such consideration for users is sadly rather less visible with EEBO’s eighteenth-century equivalent ECCO. Unlike EEBO, ECCO presents users with a single, cropped page. In so doing, it has taken the opportunity to remove every blank page that ever appeared in an eighteenth-century book (pace its claim to provide ‘digital images of every page of 150,000 books published during the 18th Century’).” (Gadd 688)
+
+
+
+“Unlike EEBO, ECCO includes an underlying text-transcription of its entire collection, which users can search but cannot access in any other way. According to ECCO’s online guide, the full-text transcriptions are generated using computerised ‘optical character recognition’ of the digitised images of \[start page 689\] each page, with ‘proprietary software created by the vendor to improve OCR accuracy, including the ‘correction’ of old English f/s ligatures and other spelling and character variants’; in addition, there are elaborate quality control systems:
+
+For every digitized page of data, eight specific items are sampled for accuracy and correctness. Each page is visually scanned for glaring errors or omissions. Every 20th page is read in its entirety. (‘About Eighteenth Century Collections Online’)
+
+With this in mind, it comes as somewhat of a surprise to discover that, according to ECCO, the word ‘fuck’ or versions thereof appear over 28,000 times in print in the eighteenth century. Finally, unlike EEBO, feedback from users does not seem to be much valued: the technical support e-mail address provided on its help pages no longer seems to be valid.” (Gadd 688-9)
+
+
+
+“In various different ways, ECCO is less open with its users than is usual in academia. It likes to tidy away noisy information. The microfilms on which it is based reproduce images of the openings of books, but ECCO chops each opening into two single-page images and dispenses with all the detail (the rulers placed against type, the blank pages, and the indicators of physical structure) that is so precious to bibliographers. Since 2009, ECCO documents have been supported by MARC descriptions, drawn (presumably) from the ESTC and supplemented by Gale’s own ‘Subject’ entries. Users can search by subject, and yet the MARC files are not directly accessible for checking by readers using ordinary institutional subscriptions. Similarly, there is still no accurate way to identify by class- or shelf-mark the actual copy of a book that ECCO reproduces. An indication of the source collection is always given, but the larger libraries that the original microfilm photographers tended to favor often keep multiple copies of editions, and it is seldom possible to discover which copy has been used without a personal visit to the archive. This omission has several consequences: readers are further distanced from experience of the original material object; local features (such as MS annotations on the original) are inadequately documented; and the widespread phenomenon of stop-press variants within editions of hand-press era books is forgotten. Most frustratingly of all, ECCO does not allow users access to the scanned optical character recognition (OCR) documents that its full-text searches run on.
+
+This secretiveness inevitably arouses suspicions about the accuracy of the scans.” (Bullard 755)
+
+
+
+A glowing 2004 review of ECCO in the “Database & Disc Reviews” section of Library Journal says “The Advanced Search is so powerful it gave me sensory overload.” (LaGuardia 124)
+
+
+
 ### 2.2.3.  TCP model ###
 
 
 
 Although the ECCO-TCP now seems obviously built for text-mining distant reading, in fact it is largely organized around searching and consulting individual works.
 
-  
 
-What is *in* the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So --- the TCP contains whatever individual works happened to interest particular scholars.
-
-
-
-The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editions of a given work. This decision was a pragmatic one motivated by “limited funding” and a sense of scarcity: “Simply put, for every book that we chose to convert, a different book does not get converted: duplication, even partial duplication, has its costs” (TCP “FAQ”). Since the TCP never envisioned itself as a fully complete collection, the priority in textual selection “was always to capture as many different works and as great a variety of text as we could, usually focusing on the first edition of each work”(TCP “FAQ”). To a certain extent, this lack of duplication can be useful for text-mining: it places all texts on an equal playing field, rather than double-dipping on some works. However, they “have keyed additional editions where there is sufficient justification for doing so, and a user has made a case for it,” so the corpus cannot be assumed to contain *no* duplicated works (TCP “FAQ”).
 
 
 
@@ -575,7 +679,9 @@ Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE met
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 
-Exploring the technical affordances of the copies of Smith’s works available in each database also shows why the distorted impression of Smith’s works reflected in the ECCO-TCP’s corpus is likely to persist and continue to be reproduced: without the foundation of a reliable but transformable text (in the form of a human-corrected transcription, rather than a page image or machine OCR), there is a nearly insurmountable technical barrier before any individual project. Even to assess the accuracy of the OCR texts in ECCO and HathiTrust, I must rely on ECCO-TCP. Guillory has already argued persuasively that representation in literary canons is a matter of selection, not of exclusion, that the default state for a given text is not to be included. For Guillory, this serves as a proof that sexism and racism are rarely the direct cause of a particular text lacking canonical status; the role of social oppression in limiting textual representation occurs before scholars make their choices, when classes of people are systematically excluded from the means of textual production in the first place, limiting what we may select from. In the case of digital corpora, also, I see that the rhetoric of “exclusion” is not accurate, and directs attention away from the more complex systems at play. Although I critique the failure of ECCO-TCP to include important and relevant works by Charlotte Smith, it does not seem that she has been excluded out of a prejudice against women’s writing. Most likely, The Emigrants and Celestina were chosen because copies were conveniently accessible to a particular scholar involved in the creation of the ECCO-TCP, perhaps even directly related to a research question which would motivate them through the mind-numbing process of retyping long volumes of prose. Once these works had entered ECCO-TCP, they will naturally be re-used for text mining research which implicitly trusts the original selection. In this way, representation in digital corpora is a matter of infrastructure.
+Exploring the technical affordances of the copies of Smith’s works available in each database also shows why the distorted impression of Smith’s works reflected in the ECCO-TCP’s corpus is likely to persist and continue to be reproduced: without the foundation of a reliable but transformable text (in the form of a human-corrected transcription, rather than a page image or machine OCR), there is a nearly insurmountable technical barrier before any individual project. Even to assess the accuracy of the OCR texts in ECCO and HathiTrust, I must rely on ECCO-TCP. Guillory has already argued persuasively that representation in literary canons is a matter of selection, not of exclusion, that the default state for a given text is not to be included. For Guillory, this serves as a proof that sexism and racism are rarely the direct cause of a particular text lacking canonical status; the role of social oppression in limiting textual representation occurs before scholars make their choices, when classes of people are systematically excluded from the means of textual production in the first place, limiting what we may select from. In the case of digital corpora, also, I see that the rhetoric of “exclusion” is not accurate, and directs attention away from the more complex systems at play. Although I critique the failure of ECCO-TCP to include important and relevant works by Charlotte Smith, it does not seem that she has been excluded out of a prejudice against women’s writing. Most likely, The Emigrants and Celestina were chosen because copies were conveniently accessible to a particular scholar involved in the creation of the ECCO-TCP, perhaps even directly related to a research question which would motivate them through the mind-numbing process of retyping long volumes of prose. Once these works had entered ECCO-TCP, they will naturally be re-used for text mining research which implicitly trusts the original selection. In this way, representation in digital corpora is a matter of infrastructure.  
+
+We are on the cusp of eighteenth century OCR meeting the standards of twenty-first century OCR. What texts should be OCR’d, by whom, and what should be done with those text files?
 
 
 
