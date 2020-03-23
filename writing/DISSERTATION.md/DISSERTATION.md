@@ -25,7 +25,17 @@ The relocation of the debate from the canon to the corpus is not without grounds
 
 
 
-## 1.2.  frameworks ##  
+## 1.2.  frameworks ##
+
+
+
+### 1.2.1.  overview ###
+
+
+
+My work takes a critical algorithm studies approach to digital databases of eighteenth century literature, examining the structural assumptions of the most-used resources (including some that scholars don’t like to admit to using). I close-read the database structures, file formats, and historical documentation for the English Short Title Catalogue, Eighteenth Century Collections Online, the Text Creation Partnership, HathiTrust, Project Gutenberg, and Google Books, to examine how each resource’s algorithmic definition of a “book” (and the information that might matter about a book) is shaped by the material, historical conditions of each organization’s development. My initial research question was, by Eve Kosofsky Sedgwick’s definition, a classically paranoid approach: I sought to expose the under-representation of women’s writing underlying apparently “neutral” digital infrastructures. This question carried the combined urgency and futility of paranoid critique: urgent, because an unfair database would expose an unfair society; and futile, since the research could only be motivated by the conviction that its answer was already known. My paper will touch briefly on some specifics of this research and my findings, as the basis for a broader discussion of critical algorithm studies, and the project of imagining reparative algorithm studies.
+
+One of the current problems of critical algorithm studies is how difficult it is to move from critique to action: it seems that no matter how carefully we dissect the flaws of oppressive computational systems, we cannot opt out of them. Excellent work by scholars like Wendy Hui Kyong Chun and Safiya Noble, for example, meticulously historicizes computational systems, and there is real value to the denaturalization of the systems they thus reveal. But this work relies on the paranoid logic of exposure, and I am interested in other attitudes. In my examination of digital infrastructures for eighteenth century studies, I take a brief detour through Marxist thinking (via Bourdieu and John Guillory) to diagnose a deep tension between capitalist and anticapitalist value systems as the likely cause of the flaws in these systems today. I then am to move beyond the obvious paranoid critiques prompted by this observation. I confess that, at this stage, this is the point at which my thinking remains speculative--- but I feel certain that the right direction lies in queer strategies of creative reappropriation, subversion, and resistance.  
 
 The theoretical frameworks of this dissertation are drawn from the fields of feminist DH and queer DH, and from non-DH schools of thought which seem to offer valuable tools. My core motivating framework, as I conceptualize my work, is that of reparative reading. Eve Sedgwick’s “Paranoid Reading and Reparative Reading” persuasively describes in the dominance of paranoia in literary criticism, and attempts to sketch an alternative in what she terms reparative reading. A paranoid rhetoric of exposure and critique strikes me as the most obvious narrative to structure this dissertation’s investigation of the uneven institutional valuation of different writing. However, these obvious critiques also require rejecting many generations of sincere work by my fellow academics, without necessarily offering new discoveries of value to replace them. One experiment of this project, not yet complete, is to articulate an assessment of the limitations of contemporary digital resources which nonetheless allows those resources to be recuperated. My touchstones are two descriptions from Sedgwick’s original chapter:  
 
@@ -131,175 +141,13 @@ A final brief conclusion to this dissertation offers an assessment of the role o
 
 
 
-## intro ##
+## intro ##  
 
+Ian Gadd argues that critiques of digital databases often not based on the right grounds: “the real risk of scholarly misuse of \[Early English Books Online\] is less to do with the physical features of early printed books that it fails, one way or another, to represent (problematic though these are) and more to do with a lack of an informed knowledge of what exactly EEBO *is*.” (Gadd 682) The observation applies far beyond EEBO: although it is easiest to critique digital resources for their failures to perfectly replicate the full tactile experience of the books they simulate, or for failing to contain every possible book, those critiques are fundamentally futile. \[What other critiques are possible?\] This chapter examines the history, textual selection, and implicit model of six databases: the ESTC, ECCO, ECCO-TCP, Project Gutenberg, Google Books, and HathiTrust. I explore how each database encodes its assumptions about what literature is, who it is for, and how it should be used. I historicize these models in the context of the institutional infrastructure behind the creation of each resource, particularly the economic factors driving development. I argue that the differences between each database’s literary model are best understood as the result of different strategies to navigate conflict between commercial and anti-commercial values. In parallel, I follow Charlotte Smith through each of these databases, to explore the impact of their different literary models. Very different works by Smith are available in each resource, and in very different formats. Smith’s most major works are not readily available, suggesting that these literary archives lag behind scholarly consensus about her importance. The chapter concludes with a discussion of new developments in Optical Character Recognition (OCR) technology, which can be used to transcribe texts from page images. \[OCR BLUF.\]
 
 
-## Smith in databases ##  
 
-For the purposes of this chapter, I examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions. I have slightly expanded my chronological focus in part because some of the most interesting exclusions occur earlier and later in Smith’s publishing career, such as the first edition of her immensely influential Elegiac Sonnets (1784), which is listed in the ESTC but not available in facsimile anywhere, or the publications in the last years of her life, which are excluded from the chronological focus of most resources but can still appear in HathiTrust. Of particular interest is the fact that Beachy Head, which is now one of Smith’s most frequently anthologized and taught poems, does not appear in a single digital database.
 
-  
-
-![][CSmith-in-ESTC-ECCO-TCP-Hathi-table]
-
-Table 1: All editions of Charlotte Smith’s works published in England during her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
-
-Figure 1 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, is not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800[ Why these five?]).
-
-HathiTrust contains 18 of Smith’s 47 editions, though these are not a simple subset of the ESTC and ECCO. Unlike the ESTC and ECCO, HathiTrust contains volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802)[^cf22]. This is the only post-1800 work which appears in HathiTrust, however--- the others are also missing, including the important volume *Beachy Head* (1807). There is one work included in HathiTrust but not in ECCO, the second edition of *The Banished Man* (1795). Whereas ECCO does not include works unless there is a complete copy available, HathiTrust provides scans of volumes 2, 3, and 4, and simply implies through their numbering that there is a missing first volume --- perhaps in the optimism that a volume 1 will appear from another library’s holdings, to complete the set later.[^cf23] The remaining HathiTrust included titles appear in both the ESTC and ECCO, and a further 21 titles appear as facsimiles in ECCO but not in HathiTrust. At first blush it is somewhat surprising that HathiTrust has failed to include works which are, demonstrably, in known locations at institutional libraries, and in physically sound condition to be scanned--- but the scans making up HathiTrust bear no relation to the scans in ECCO. *The Young Philosopher* (1798), for example, appears in ECCO sourced from a British Library copy, but the HathiTrust images are “Google-digitized” from the New York Public Library. Google’s rapacious book-scanning, evidently, was not as thorough as ECCO’s sustained scholarly project.
-
-The smallest subset of all of these texts is the ECCO-TCP holding of just two titles: the second edition of *Celestina* (1791), and the first edition of *The Emigrants* (1793). Both titles appear in all larger databases, including HathiTrust (though, as I will discuss, they arrive in HathiTrust from a different source). *The Emigrants* is included in ECCO-TCP as one file, based on the ECCO facsimile of an original from the Huntington Library. *Celestina* is included as four files, one for each of four volumes, based on the ECCO facsimile of an original from the British Library. Both works were first reproduced in the microfilm version produced 1982-2002 in by Research Publications,[^cf24] then digitized in 2003 (released on ECCO in June 2004), and finally published as TEI XML files in January 2007. The current files have been kept up to date with changes in TEI standards, and were created by converting TCP files to TEI P5 using tcp2tei.xsl. The bibliographic metadata for these works is the same between ESTC, ECCO, and ECCO-TCP records. In HathiTrust, however, the source text for *The Emigrants* is a University of California Library copy, rather than the British Library, scanned by Google Books, and presented with substantially less detailed bibliographic information. The ESTC, ECCO, and ECCO-TCP records for The Emigrants all provide the same physical description “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” with the same note“\[n\]umbers 9-16 omitted in pagination; text is continuous.” HathiTrust, in contrast, gives the physical description “ix, 68 p. ; 26 cm,” which is both more and less information: a quarto volume could be a range of sizes, so HathiTrust provides new detail by giving a measurement in centimetres, but the data on page numbers is now misleading. Consulting the HathiTrust facsimile shows that it, too, omits the page numbers 9-16, going directly from page 8 to page 17 without a break in the poem. HathiTrust also omits information on the three unnumbered pages between the preface and the poem. Evidently, a human did consult the book, to identify a nine-page preface in roman numerals, and the page number on the last page, but they did not carry out a full collation.  
-
-![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]
-
-Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).  
-
-Only one of Charlotte Smith’s works is available in Project Gutenberg: *Emmeline, the Orphan of the Castle* (first published 1788).  
-
-Searching the ESTC for records which both have “Toronto” in the library name and “Charlotte Turner” in the author name turns up two records: volume one of *Rural Walks* (1795) and *Minor Morals* (1798), both held at the Toronto public library. The Toronto Public Library catalogue has two distinct author identities for “Smith, Charlotte Turner, 1749-1806, author.” and for “Smith, Charlotte, 1749-1806,” and the special collections holdings only appear under the latter name (making them initially difficult to find). Under the “Smith, Charlotte” name, however, six titles printed during Smith’s appear: the two listed in ESTC, plus a complete two-volume copy of *Rural Walks* (1795), the first and second editions of *Rambles Farther* (1796 and 1800), and *Conversations Introducing Poetry* (1804). Of these, *Rural Walks* and both editions of *Rambles Farther* are listed in the ESTC but without records of the Toronto copies. All six titles are part of the Osborne Collection of Early Children's Books. \[This is interesting because it shows how scholarly disciplinary interpretations perpetuate themselves *infrastructurally*: as a Toronto-based scholar, the path is easier for me to study Smith-the-children’s-writer than other Smiths.\]  
-
-The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf25] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf26] This surprised me, and suggests that skepticism of OCR in eighteenth century text mining may no longer be appropriate.  
-
-How accurate does OCR need to be? This depends on how the OCR will then be used.  
-
-To make these comparisons concrete, consider the first page of Smith’s dedication, as it is captured by OCR in ECCO and HathiTrust, and in the ECCO-TCP transcript:
-
-
-
-TO WILLIAM COWPER, Es DEAR SIR, THERE is,- I hope, some propriety in my addrefing a Com- potion to you, which would,never perhaps have existed, had I not, amid the heavy prefure of many sorrows, derived infinite consolation from your Poetry, and some degree of animation and of confidencefrom your efieen. . 'he.following performance isfarfrom aspiring to be con- fidered as an imitation of your inimitable Poem, " THE " TASK;" I am perfeetly sensible, that it belongs not to a feeble andfemninine hand to draw the Bow of Ulyfes.,Theforce, clearness, and sublimity ofyour admirable Poem; the felicity, almost peculiar to your genius, of givingto the moJ familiar objegls dignity and eset, I could never hope to,a reach (ECCO)
-
-
-
-T O WILLIAM com/PER, Ess. DEAR SIR, THERE is, I hope, ſome propriety in my addreſſing a Com- poſition to you, which would never perhaps have exiſted, had I not, amid the beavy preſſure of many ſorrows, derived infinite conſolation from your Poetry, and ſome degree of animation and of confidence from your ºfteem. The following performance is far from aſpiring to be con- ſidered as an imitation of your inimitable Poem, “ The “TAsk;” I am perfºy fººl, that it belongs not to a feeble and feminine band to draw the Bow of Ulyſſes. The force, clearneſ, andſublimity of your admirable Poem; the felicity, almoſt peculiar to your genius, of giving to the moſt familiar obječís dignity and effečf, I could never hope to 3. - Reach (HathiTrust)
-
-
-
-TO WILLIAM COWPER, ESQ.
-
-DEAR SIR,
-
-
-
-THERE is, I hope, some propriety in my addressing a Com\|position
-
-to you, which would never perhaps have existed, had
-
-I not, amid the heavy pressure of many sorrows, derived
-
-infinite consolation from your Poetry, and some degree of
-
-animation and of confidence from your esteem.
-
-
-
-The following performance is far from aspiring to be con\|sidered
-
-as an imitation of your inimitable Poem, "THE
-
-TASK;" I am perfectly sensible, that it belongs not to a
-
-feeble and feminine hand to draw the Bow of Ulysses.
-
-
-
-The force, clearness, and sublimity of your admirable Poem;
-
-the felicity, almost peculiar to your genius, of giving to the
-
-most familiar objects dignity and effect, I could never hope to (ECCO-TCP)
-
-
-
-Figure 2 shows how Juxta highlights the words which vary between these three copies.
-
-Both of the OCR copies contain errors in individual letters which render the whole word interpretable by a human but not by text mining software, as in the case of “beavy” for “heavy.” The ECCO copy struggles with the fact that ſ is not an available character, sometimes substituting an f, as in “prefure” for “preſſure.” Both leave out spaces between words, creating new tokens like “isfarfrom” and “andſublimity,” though HathiTrust is less prone to this error.
-
-Other features of the OCR copies are accurate to the page image but would nonetheless interfere with text mining. The hyphenation of “Com- poſition,” for example, would prevent it from rendering as a single word, though here even the careful TCP copy would introduce the same problem, since the line break is encoded as “Com\|position.” Before the TCP copy could be used for text mining, the \| characters would likely need to be removed --- not too different from removing the hyphenation from the ECCO and Hathi copies. Most difficult to resolve is the fact that OCR naturally attempts to capture *all* text on the page, including the signature mark and catch word. In ECCO these appear as “,a reach” and in Hathi they are “3. - Reach” whereas TCP more appropriately leaves these out. Unlike the problems with hyphenated words, there is no way to correct for the inclusion of catchwords in a document, since there is no predictable way to identify them --- but keeping them in the document will cause any text-mining software to count these words twice.
-
-The usual “text cleaning” procedures would further prepare these OCR texts for text mining by transforming all words to lowercase, removing all punctuation, and, in most cases, deleting all words which don’t match a predefined dictionary of valid words. A scholar working with the HathiTrust OCR would almost certainly add to this a step converting the ſ character to an s, as discussed above, in order to make the dictionary comparison feasible. The result of this ‘cleaning’ would likely look something like the following:
-
-
-
-to william dear sir there is i hope some propriety in my a potion to you which would never perhaps have existed had i not amid the heavy of many sorrows derived infinite consolation from your poetry and some degree of animation and of your he following performance aspiring to be con as an imitation of your inimitable poem the task i am sensible that it belongs not to a feeble hand to draw the bow of clearness and sublimity admirable poem the felicity almost peculiar to your genius of the familiar dignity and i could never hope to a reach (ECCO, as it would likely appear after text “cleaning”)
-
-
-
- 
-
-william dear sir there is i hope some propriety in my addressing a position to you which would never perhaps have existed had i not amid the pressure of many sorrows derived infinite consolation from your poetry and some degree of animation and of confidence from your the following performance is far from aspiring to be considered as an imitation of your inimitable poem the task i am that it belongs not to a feeble and feminine band to draw the bow of ulysses. the force of your admirable poem the felicity almost peculiar to your genius of giving to the most familiar dignity and i could never hope to 3 reach (HathiTrust, as it would likely appear after text “cleaning”)
-
-
-
-
-
-Strikingly, these ‘clean’ texts are now further from legible to human eyes, as OCR errors which a reader could mentally correct (such as “beavy” for “heavy” are now entirely removed.  
-
-![][juxta-emigrants-p1]
-
-Figure 2: Juxta’s “Heat Map” visualization of the “base” witness of the first page of *The Emigrants* (i.e., the ECCO-TCP version carefully prepared by scholars), highlighting words which differ in the two witnesses of the ECCO OCR and the normalized HathiTrust OCR. A darker highlight indicates that the word varies in more than one witness.  
-
-![][juxta-emigrants-histogram]
-
-Figure 3: A histogram, produced by Juxta, showing where the two ECCO and normalized HathiTrust witnesses show the most difference from the base ECCO-TCP copy. “Longer lines indicate areas of considerable difference, while shorter lines indicate greater similarity between documents.” (“A User Guide to Juxta Commons”)  
-
-![][fig-ecco-emigrants-p1]
-
-Figure 4: The facsimile of the first page of *The Emigrants* found in ECCO, which forms the basis of the ECCO OCR text.  
-
-![][hathi-emigrants-p1]
-
-Figure 5: The facsimile of the first page of *The Emigrants* found in HathiTrust, which forms the basis of the HathiTrust OCR text.  
-
-“16 In his discussion of JSTOR's "intolerably corrupt" OCR text, Nicholson Baker suggests that the reason why the user is prevented from scrolling through this naked OCR output is that scholars "might, after a few days, be dis- turbed by the frequency and strangeness of its mistakes . . . and they might no longer be willing to put their trust in the scholarly integrity of the database."17 Baker's criticism of JSTOR, however, is based on an error rate (with editorial intervention) of just one typo in every two thousand characters.” (Spedding 439)
-
-“The two OCR-captured texts average over 150 typos per 2,000 characters,22 a high enough error rate to render parts of the text completely unintelligible. It is not clear how typical this error rate is, and how much it declines with editorial intervention,23 but again the scale of the problem is clear.24 Consequently, the claim that OCR errors "may occasionally result in incorrect character capture, which may affect some \[ECCO\] full-text search results," seems wildly, even heroically, optimistic.” (Spedding 440)  
-
-A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:
-
-\<listPrefixDef\>
-
-\<prefixDef ident="tcp"
-
-matchPattern="(\[0-9\\-\]+):(\[0-9IVX\]+)"
-
-replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/\>
-
-\<prefixDef ident="char"
-
-matchPattern="(.+)"
-
-replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/\>
-
-\</ListPrefixDef\>
-
-Indeed, the collocation formula is less transparent than simple markup like the following:
-
-\<titleStmt\>
-
-\<title\>The emigrants, a poem, in two books. By Charlotte Smith\</title\>
-
-\<author\>Smith, Charlotte Turner, 1749-1806.\</author\>
-
-\</titleStmt\>
-
-It may even compare unfavorably to relatively well-commented code, like the following:
-
-| \# iterate through the directory ||
-|  | for filename in listdir\_nohidden("./" + directory): |
-| -----: | :----- |
-|  |  |
-|  | \# define the path to this file |
-|  | path = "./" + directory + "/" + filename |
-|  |  |
-|  | \# strip the file's namespace |
-|  | try: |
-|  | xmlstring = stripNamespace(path) |
-|  | except: |
-|  | print "error stripping namespace of file %s" % (filename) |
-
-
-What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.
 
 
 
@@ -365,10 +213,6 @@ The microfilms were scanned at 300 dpi (Spedding 440).
 
 
 
-“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
-
-
-
 ### 2.1.3.  TCP timeline history ###  
 
 “The Text Creation Partnership started, in 1999, as a collaboration between the university libraries of Michigan and Oxford, the Council on Library and Information Resources, and the publisher of Early English Books Online, Proquest. The aim was to create high quality ‘standardized, digitally-encoded electronic text editions’ starting with 25,000 titles from Early English Books Online.” (Gregg n. pag.)
@@ -391,31 +235,21 @@ A ten-person working group developed an encoding standard. The University of Mic
 
 “In 2005, the TCP executive board and staff sought to expand the TCP model to other databases of historical books, namely, Gale Cengage’s Eighteenth-Century Collections Online (ECCO) and Newsbank Readex’s Evans Early American Imprints (Evans-TCP). These projects never received quite the support attracted by EEBO-TCP, and in the end produced only about 8,000 texts, compared to the 60,000 produced by the latter, with another few thousand on the way.” (TCP “About”)
 
+As early as 2003, the TCP executive board meeting minutes reported that “Michigan has made agreements with Gale and Readex to support conversion of subsets of the Eighteenth Century and Evans Early American materials which will allow us to create a cross-searchable corpus of important historical texts ... The University of Michigan has reached agreements to create a subset of accurately keyed and encoded texts in conjunction with these projects, and aims to produce 6,000 early American and 10,000 18th century texts. In the near term, this will not affect production of EEBO texts because there is adequate capacity to expand beyond existing levels of production. In the long term, this will produce a large number of culturally significant texts, produced to a single standard, that are owned by the library community and complement the EEBO texts for these early historical periods.” (“Meeting Minutes 2003-10-22.”).
+
+In 2004, “Jeff Moyer then updated the Board on its progress with the ECCO product which contains over 26 million pages and 155,000 volumes. To date, they have 60 customers including 6 Canadian and 11 international institutions. They have also done OCR for the ECCO product and are interested in how the TCP text will work and integrate with their OCR.” (“Meeting Minutes 2004-10-21.”).
+
 “In 2005 the project expanded to include Gale-Cengage’s Eighteenth-Century Collections Online (as well as Evans Early American Imprints by Newsbank). However, while the EEBO-TCP project flourishes (with around 40,000 texts transcribed so far), the work on ECCO-TCP stagnated at around 2,000 texts. As well as the main partner institutions of Michigan and Oxford that oess to the eighteenth-century TCP texts, so I’ve listed them below, with a few comments.” (Gregg n. pag.)
 
-“ECCO natively supports OCR-based full-text searching of this corpus. This is significant because it meant that unlike EEBO-TCP (which produced searchable text where there was previously none at all), ECCO-TCP could only hope to produce *more accurate* text (and more reusable text) than what was already available. The larger size of ECCO (because of the great increase in printing and greatly enhanced chances of survival of printed works in the 18th century) also made it a different proposition: nothing so ambitious as EEBO-TCP coverage was feasible for ECCO-TCP. ... Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000.” (TCP “ECCO”)  
+By October 2005, “the ECCO-TCP project has commenced with the release of a demo, and TCP sponsored an ECCO selection task force in August. ... Rich Foley reported that ECCO now covers 120 subscribers and a recent purchase from the JISC. The ECCO product has also sold well in Canada this past year. Rich also reported (relating to a question on Metadata) the release of a My Library product which is opening up access to their metadata at Gale and that he was interested in further doing case studies on how ECCO is used in research and in the classroom.” (“Meeting Minutes 2005-10-20.”)
+
+In 2006, ECCO-TCP was struggling compared to the other TCP products. “Rich Foley reported that ECCO is one of the biggest products at Gale with eighty to ninety ARLs subscribing as well as small institutions. He also said that a focus at Gale was to work on more tools to facilitate undergraduate teaching of their products. ... Mark Sandler reported that the TCP budget shows mostly positive balances through 2007. The exception to that is ECCO but because it is still so early in the project, it seems likely that TCP will overcome those problems within the next few months. Nonetheless, the TCP project in EEBO, Evans, and ECCO face potential budget deficits in fiscal year 2008.” At this time, the TCP began to think about the end of the project: “the TCP should set a date to close the partnership (likely around 2010 given current commitments,” partly to address financial solvency. (“Meeting Minutes 2006-09-16”).
+
+In 2007, all three TCP project reported successful sales, though ECCO’s news was the most vague: “Brandon Nordin also reported good news from Gale and along with Mary Sauer-Games announced that the EEBO and ECCO databases will now be cross-searchable so that users can go to either collection and find records from the other” ( “Meeting Minutes 2007-10-30”). Nonetheless, “Evans-TCP and ECCO-TCP sales have historically (for a variety of reasons, chiefly the presence of OCR text in both projects) been weaker than anticipated” ( “Meeting Minutes 2007-10-30”). And the end loomed nigh: “Currently finances are good through fiscal year 2008. EEBO-TCP is on target to complete 25,000 texts by the end of fiscal year 2008. Evans-TCP is likely, given current finances to complete around 6,000 texts. ECCO-TCP will complete around 1,300 texts. Therefore, the TCP, particularly in EEBO-TCP has been a success meeting most of its goals. Nonetheless, Evans-TCP and ECCO-TCP are still short of their goals of 6,000 and 10,000 texts respectively, and in fiscal year 2009, the TCP overall is facing a deficit of around $400,000 if it does not either reduce its current staff or bring in a large influx of money within the next six months” ( “Meeting Minutes 2007-10-30”). These are the last meeting minutes available online.  
 
 “Begun in 2009, Phase II both shrank and expanded the scope of EEBO TCP.  Selection became more discriminating and focused more on English-language (and Welsh- and Gaelic-language) texts to the exclusion of French and Latin titles, and also set aside the serials (periodicals) as a fit project for another time. But within the constraints of English-language monographic titles, it aspired to something approaching comprehensive treatment: EEBO Phase II planned to convert each and every unique work in Early English Books Online (usually the first edition), or an estimated total of around 45,000 books on top of the 25,000 completed in Phase I. This was an ambitious, and always risky, goal. As it happened, enough institutions joined Phase II to fund the completion of about 40,000 titles, of which about 35,000 have been released to date, the remainder slowly working their way through the production pipeline. (TCP “EEBO”)
 
 “As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)  
-
-Two questions in the FAQ, “Why would I buy something that is achievable only if others do the same?” and “Why would I buy something that is going to become freely available?” taken together imply the speculative and ambitious nature of the original project. In the official answers provided to these evidently frequently asked questions, there is a sense that the project posed a prisoner’s dilemma: every individual institution’s “best” move, from a game theory perspective, was to contribute nothing to the project and then reap the benefits of everyone else’s work, but if every institution did so, then no one would benefit. A close reading of both responses illuminates an interesting tension in values:
-
-Why would I buy something that is achievable only if others do the same?
-
-Mere calculation may have disinclined some libraries from joining. TCP partnership was always less a purchase than an (admittedly risky) investment, since all of Michigan’s projections for the TCP corpus depended on a certain optimistic assumptions about how many other institutions would join.  Some libraries may have joined out of faith in Michigan’s track record, or because of a long-standing connection with the University or its staff. Some out of an idealistic belief in the collaborative model that TCP represented or in the public value of the product it promised. Some perhaps out of a cost-benefit risk estimate. For all the partner libraries, however, TCP membership was in effect a commitment to fellow libraries to share the burden and reward of this work. Partner libraries contributed to the cost of producing tens of thousands of painstakingly produced electronic editions of early English works. Each new library that joined made it possible for the project to key books that we otherwise would not, improving the corpus for everyone.
-
-Why would I buy something that is going to become freely available?
-
-This question too has no obvious answer that will please everyone, and indeed this question may have influenced some potential partners to refrain from joining. The structure of the TCP, with its provisions for exclusive access for a time, followed by public release, was something of a balancing act, designed to encourage membership by both those who were unwilling to wait ten years or so for access to the texts on behalf of their students and faculty, and those who believed in the creation of an unrestricted public resource and were willing on altruistic grounds to contribute to it.  Regardless of their motives for joining, the success of the EEBO-TCP depended on the support of partner institutions. The partnership fee directly funded the conversion of new books,  and greatly affected the rate at which the work was carried out. By joining up,  a library not only gained immediate access to the texts,  and not only contributed to making a larger, more comprehensive corpus for everyone, but also measurably affected the pace, and advanced the completion date, of the project--and thereby advanced the date at which  the texts would be released to the public.
-
-The answers weakly attempt to provide the game-theory argument, but also carry the sense that the true answer, which they would like to give, has nothing to do with game theory and rationality, and everything to do with transcendent values of scholarship itself. In the minutes to the 2001 meeting of their executive board, they open with: “the project should determine more clearly if it is ‘a partnership or a product.’ Comment was offered that it is a ‘partnership to create a product’” (TCP Executive Board, 2001)
-
-
-
-The TCP is thus an intervention into \[stuff about money.\] They describe the project as “a public-private partnership, led by libraries” (TCP, “About”) and emphasize the “librarian’s attitude toward content” which prioritizes the widest possible access and use. This “librarian’s attitude” is most evident in the (eventual) availability of all of the transcriptions in the public domain, despite the fact that the images they are based on remain privately restricted by the companies which own them. Their description of the “partnership,” however, continues to show signs of the strain in value systems when commercial and noncommercial goals are intertwined: “Through our partnership with private vendors, we had access to a huge trove of images from which to transcribe. In return, these companies were supplied with a full-text index to their images ---work which would have otherwise been difficult or expensive to produce.” In other words, through purchasing a service (access to images), the academic institution received that service. These institutions carried out an enormous feat of labour at their own expense, using the service they purchased. Then, “in return,” they provided the results of their labour for free to the company, for the company to then further profit from the improvements to their service. Most telling, here, is the word “otherwise.” The suggestion here is that, without the TCP, the companies themselves would not have been willing to undertake the encoding (so desired by the users of their service) because it would be difficult and expensive. However, the TCP certainly did not make the task any less difficult or expensive. Instead, academic institutions absorbed the difficulty and expense on those companies’ behalf. I do not say that they were wrong to do so: on the contrary, the “librarian’s attitude” mirrors my own attitude, and it is surely to everyone’s benefit for a wonderful thing to exist even if that wonderful thing is not profitable. Rather, I highlight this rhetorical moment in the TCP’s self description to suggest that \[it takes two to collaborate.\] One of the three key aims of the TCP identified on the homepage is to “collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”). However, the TCP seems instead to have simply come up with a *better* bargain, one which creatively offers scholarly labour as a bargaining chip.  
-
-“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)  
 
 Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
 
@@ -435,31 +269,7 @@ Project Gutenberg began in 1971 with one individual, Michael Hart, who did not b
 
 “A fast growth thanks to Distributed Proofreaders, a website launched in October 2000 by Charles Franks to share the proofreading of books between many volunteers. Volunteers choose one of the books listed on the site and proofread a given page. They don't have any quota to fulfill, but it is recommended they do a page per day if possible. It doesn't seem much, but with hundreds of volunteers it really adds up.” (Lebert)
 
-“If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert)  
-
-
-
-
-
-“There are three portions of the Project Gutenberg Library, basically be described as:
-
-Light Literature; such as Alice in Wonderland, Through the Looking-Glass, Peter Pan, Aesop's Fables, etc.
-
-Heavy Literature; such as the Bible or other religious documents, Shakespeare, Moby Dick, Paradise Lost, etc.
-
-References; such as Roget's Thesaurus, almanacs, and a set of encyclopedia, dictionaries, etc.
-
-The Light Literature Collection is designed to get persons to the computer in the first place, whether the person may be a pre-schooler or a great-grandparent. We love it when we hear about kids or grandparents taking each other to an etexts to Peter Pan when they come back from watching HOOK at the movies, or when they read Alice in Wonderland after seeing it on TV. We have also been told that nearly every Star Trek movie has quoted current Project Gutenberg etext releases (from Moby Dick in The Wrath of Khan; a Peter Pan quote finishing up the most recent, etc.) not to mention a reference to Through the Looking-Glass in JFK. This was a primary concern when we chose the books for our libraries.
-
-We want people to be able to look up quotations they heard in conversation, movies, music, other books, easily with a library containing all these quotations in an easy to find etext format.” (Hart “History and Philosophy”)  
-
-The founding logic of Project Gutenberg resonates strikingly with Bordieu’s call to “*universalize in reality the conditions of access*” (qtd in Guillory 340, emphasis original) to literature.
-
-The first Project Gutenberg texts are almost a parody of important texts: The Declaration of Independence, The King James Bible. These are the texts assumed to be urgently desired by “99% of the general public” (Hart “History and Philosophy”). They are then followed, however, by a work which has rarely been central to the institutional hierarchies of cultural capital: Alice in Wonderland. As Hart describes his choices of what texts to transcribe next, he seems to be describing a version of what Guillory hoped for, “another kind of game” in which texts can compete for cultural capital, a game “with less dire consequences for the losers, an *aesthetic* game” (Guillory 340, emphasis original).
-
-
-
-“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
+“If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert)
 
 
 
@@ -569,6 +379,64 @@ Table 1: A chronological history of major events in the development of \[LIST TH
 
 “Viewing the field of eighteenth-century digital humanities as a single prospect, it is the contrast between publicly funded, open-access sites, and privately owned, subscription- access resources that is most striking. Each side of the divide has much to learn from the other. Publicly funded academic projects must acquire the pragmatism and ambitiousness of scale that commercial developers have always shown. Commercial developers must adapt themselves more generously to the principles of scholarly openness and accuracy. They might also imitate the inventiveness of the open sector, its adaptability to the demands raised by different kinds of primary media. Both sides recognize the desirability of making their resources interoperable across the divide, and the business of interconnectivity will preoccupy all kinds of digital humanist in the coming decade. Another set of players likely to step further forward in future years is the university presses.” (Bullard 756)  
 
+Two questions in the FAQ, “Why would I buy something that is achievable only if others do the same?” and “Why would I buy something that is going to become freely available?” taken together imply the speculative and ambitious nature of the original project. In the official answers provided to these evidently frequently asked questions, there is a sense that the project posed a prisoner’s dilemma: every individual institution’s “best” move, from a game theory perspective, was to contribute nothing to the project and then reap the benefits of everyone else’s work, but if every institution did so, then no one would benefit. A close reading of both responses illuminates an interesting tension in values:
+
+Why would I buy something that is achievable only if others do the same?
+
+Mere calculation may have disinclined some libraries from joining. TCP partnership was always less a purchase than an (admittedly risky) investment, since all of Michigan’s projections for the TCP corpus depended on a certain optimistic assumptions about how many other institutions would join.  Some libraries may have joined out of faith in Michigan’s track record, or because of a long-standing connection with the University or its staff. Some out of an idealistic belief in the collaborative model that TCP represented or in the public value of the product it promised. Some perhaps out of a cost-benefit risk estimate. For all the partner libraries, however, TCP membership was in effect a commitment to fellow libraries to share the burden and reward of this work. Partner libraries contributed to the cost of producing tens of thousands of painstakingly produced electronic editions of early English works. Each new library that joined made it possible for the project to key books that we otherwise would not, improving the corpus for everyone.
+
+Why would I buy something that is going to become freely available?
+
+This question too has no obvious answer that will please everyone, and indeed this question may have influenced some potential partners to refrain from joining. The structure of the TCP, with its provisions for exclusive access for a time, followed by public release, was something of a balancing act, designed to encourage membership by both those who were unwilling to wait ten years or so for access to the texts on behalf of their students and faculty, and those who believed in the creation of an unrestricted public resource and were willing on altruistic grounds to contribute to it.  Regardless of their motives for joining, the success of the EEBO-TCP depended on the support of partner institutions. The partnership fee directly funded the conversion of new books,  and greatly affected the rate at which the work was carried out. By joining up,  a library not only gained immediate access to the texts,  and not only contributed to making a larger, more comprehensive corpus for everyone, but also measurably affected the pace, and advanced the completion date, of the project--and thereby advanced the date at which  the texts would be released to the public.
+
+The answers weakly attempt to provide the game-theory argument, but also carry the sense that the true answer, which they would like to give, has nothing to do with game theory and rationality, and everything to do with transcendent values of scholarship itself. In the minutes to the 2001 meeting of their executive board, they open with: “the project should determine more clearly if it is ‘a partnership or a product.’ Comment was offered that it is a ‘partnership to create a product’” (TCP Executive Board, 2001)
+
+
+
+The TCP is thus an intervention into \[stuff about money.\] They describe the project as “a public-private partnership, led by libraries” (TCP, “About”) and emphasize the “librarian’s attitude toward content” which prioritizes the widest possible access and use. This “librarian’s attitude” is most evident in the (eventual) availability of all of the transcriptions in the public domain, despite the fact that the images they are based on remain privately restricted by the companies which own them. Their description of the “partnership,” however, continues to show signs of the strain in value systems when commercial and noncommercial goals are intertwined: “Through our partnership with private vendors, we had access to a huge trove of images from which to transcribe. In return, these companies were supplied with a full-text index to their images ---work which would have otherwise been difficult or expensive to produce.” In other words, through purchasing a service (access to images), the academic institution received that service. These institutions carried out an enormous feat of labour at their own expense, using the service they purchased. Then, “in return,” they provided the results of their labour for free to the company, for the company to then further profit from the improvements to their service. Most telling, here, is the word “otherwise.” The suggestion here is that, without the TCP, the companies themselves would not have been willing to undertake the encoding (so desired by the users of their service) because it would be difficult and expensive. However, the TCP certainly did not make the task any less difficult or expensive. Instead, academic institutions absorbed the difficulty and expense on those companies’ behalf. I do not say that they were wrong to do so: on the contrary, the “librarian’s attitude” mirrors my own attitude, and it is surely to everyone’s benefit for a wonderful thing to exist even if that wonderful thing is not profitable. Rather, I highlight this rhetorical moment in the TCP’s self description to suggest that \[it takes two to collaborate.\] One of the three key aims of the TCP identified on the homepage is to “collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”). However, the TCP seems instead to have simply come up with a *better* bargain, one which creatively offers scholarly labour as a bargaining chip.
+
+
+
+The 2003 meeting minutes concluded with the observation that “considering where it was even two years ago, it is stunning to think that EEBO-TCP now produces texts comparable to any commercial product in a very cost-effective way. It was agreed that the TCP concept is on the cusp of revolutionary changes in research and teaching and that it will continue to grow and extend the foundation which the project has built.” (Meeting Minutes 2003-10-22.) (These minutes also talk a lot about spending, and about how to sell EEBO and TCP.)
+
+
+
+In the 2004 minutes: “Since the TCP has evolved from one project in cooperation with ProQuest to now three projects in cooperation with three different commercial publishers, it is useful to consider how the Board might adapt to accommodate the changing situation. ... The representatives of the three companies began the discussion by highlighting the things they would feel uncomfortable revealing in front of their competitors. These included pricing, their contributions to the TCP, and general marketing strategy. It was agreed that the Board should attempt to structure its meetings so that all members could be present and, if at some point there was a need to divulge sensitive information, the Board could hold an executive session in which that could be discussed.”  
+
+“Members of the Board also felt that TCP should complete an equity review of all of its employees to see what salaries are being offered from other universities and whether TCP’s salaries are in-line with what is being offered elsewhere. It was suggested that TCP might want to do a 10% raise across the board for all reviewing staff that remain with the project for five years.” (TCP Executive Board, Meeting Minutes 2005-10-20) In the next year, “Mark also reported on one item from the previous Board meeting, salary reviews. Maria and Shawn investigated the possibilities of raising salaries for TCP reviewers within the University of Michigan, and compared salaries at Michigan and Oxford. It was found that the salaries of the reviewers were comparable with expectations. Paul also reported that the reviewers who left had reasons other than salary (family issues, better opportunities within their field of study, etc.). Therefore, it was decided not to raise all reviewers salaries at once, but to continue doing merit increases that the University of Michigan does every year.” (TCP Executive Board, “Meeting Minutes 2006-09-16.”)  
+
+In 2005 the TCP was thinking about themselves as competing with Google: “John Price-Wilkin, Associate University Librarian for Library Information Technology & Technical and Access Services, was a guest of the Board to talk about issues relating to the Google initiative and TCP’s role in promoting “enhanced” product to the library and academic community. TCP does have an important role in noting that OCR text, though good for many things, cannot serve all purposes scholars need, and TCP should continue to argue for structured electronic text for at least a portion of the collection.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+
+
+
+## Smith in databases ##  
+
+For the purposes of this chapter, I examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions. I have slightly expanded my chronological focus in part because some of the most interesting exclusions occur earlier and later in Smith’s publishing career, such as the first edition of her immensely influential Elegiac Sonnets (1784), which is listed in the ESTC but not available in facsimile anywhere, or the publications in the last years of her life, which are excluded from the chronological focus of most resources but can still appear in HathiTrust. Of particular interest is the fact that *Beachy Head*, which is now one of Smith’s most frequently anthologized and taught poems, does not appear in a single digital database.
+
+  
+
+![][CSmith-in-ESTC-ECCO-TCP-Hathi-table]
+
+Table 1: All editions of Charlotte Smith’s works published in England during her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
+
+Figure 1 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, is not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800[ Why these five?]).
+
+HathiTrust contains 18 of Smith’s 47 editions, though these are not a simple subset of the ESTC and ECCO. Unlike the ESTC and ECCO, HathiTrust contains volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802)[^cf22]. This is the only post-1800 work which appears in HathiTrust, however--- the others are also missing, including the important volume *Beachy Head* (1807). There is one work included in HathiTrust but not in ECCO, the second edition of *The Banished Man* (1795). Whereas ECCO does not include works unless there is a complete copy available, HathiTrust provides scans of volumes 2, 3, and 4, and simply implies through their numbering that there is a missing first volume --- perhaps in the optimism that a volume 1 will appear from another library’s holdings, to complete the set later.[^cf23] The remaining HathiTrust included titles appear in both the ESTC and ECCO, and a further 21 titles appear as facsimiles in ECCO but not in HathiTrust. At first blush it is somewhat surprising that HathiTrust has failed to include works which are, demonstrably, in known locations at institutional libraries, and in physically sound condition to be scanned--- but the scans making up HathiTrust bear no relation to the scans in ECCO. *The Young Philosopher* (1798), for example, appears in ECCO sourced from a British Library copy, but the HathiTrust images are “Google-digitized” from the New York Public Library. Google’s rapacious book-scanning, evidently, was not as thorough as ECCO’s sustained scholarly project.
+
+The smallest subset of all of these texts is the ECCO-TCP holding of just two titles: the second edition of *Celestina* (1791), and the first edition of *The Emigrants* (1793). Both titles appear in all larger databases, including HathiTrust (though, as I will discuss, they arrive in HathiTrust from a different source). *The Emigrants* is included in ECCO-TCP as one file, based on the ECCO facsimile of an original from the Huntington Library. *Celestina* is included as four files, one for each of four volumes, based on the ECCO facsimile of an original from the British Library. Both works were first reproduced in the microfilm version produced 1982-2002 in by Research Publications,[^cf24] then digitized in 2003 (released on ECCO in June 2004), and finally published as TEI XML files in January 2007. The current files have been kept up to date with changes in TEI standards, and were created by converting TCP files to TEI P5 using tcp2tei.xsl. The bibliographic metadata for these works is the same between ESTC, ECCO, and ECCO-TCP records. In HathiTrust, however, the source text for *The Emigrants* is a University of California Library copy, rather than the British Library, scanned by Google Books, and presented with substantially less detailed bibliographic information. The ESTC, ECCO, and ECCO-TCP records for The Emigrants all provide the same physical description “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” with the same note“\[n\]umbers 9-16 omitted in pagination; text is continuous.” HathiTrust, in contrast, gives the physical description “ix, 68 p. ; 26 cm,” which is both more and less information: a quarto volume could be a range of sizes, so HathiTrust provides new detail by giving a measurement in centimetres, but the data on page numbers is now misleading. Consulting the HathiTrust facsimile shows that it, too, omits the page numbers 9-16, going directly from page 8 to page 17 without a break in the poem. HathiTrust also omits information on the three unnumbered pages between the preface and the poem. Evidently, a human did consult the book, to identify a nine-page preface in roman numerals, and the page number on the last page, but they did not carry out a full collation.  
+
+![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]
+
+Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).  
+
+Only one of Charlotte Smith’s works is available in Project Gutenberg: *Emmeline, the Orphan of the Castle* (first published 1788).  
+
+Searching the ESTC for records which both have “Toronto” in the library name and “Charlotte Turner” in the author name turns up two records: volume one of *Rural Walks* (1795) and *Minor Morals* (1798), both held at the Toronto public library. The Toronto Public Library catalogue has two distinct author identities for “Smith, Charlotte Turner, 1749-1806, author.” and for “Smith, Charlotte, 1749-1806,” and the special collections holdings only appear under the latter name (making them initially difficult to find). Under the “Smith, Charlotte” name, however, six titles printed during Smith’s appear: the two listed in ESTC, plus a complete two-volume copy of *Rural Walks* (1795), the first and second editions of *Rambles Farther* (1796 and 1800), and *Conversations Introducing Poetry* (1804). Of these, *Rural Walks* and both editions of *Rambles Farther* are listed in the ESTC but without records of the Toronto copies. All six titles are part of the Osborne Collection of Early Children's Books. \[This is interesting because it shows how scholarly disciplinary interpretations perpetuate themselves *infrastructurally*: as a Toronto-based scholar, the path is easier for me to study Smith-the-children’s-writer than other Smiths.\]  
+
+“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
+
+
+
 The “microfilm series is not a random - and therefore randomly representatve--- selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
 
 
@@ -583,6 +451,42 @@ The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editi
 
 
 
+“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)
+
+
+
+“Discussion then began on how to further develop the TCP project and insure that we can create 25,000 texts. In order to do this, the Board felt that it needed more information about the complete number of texts possible to include in the corpus, a dollar amount per title required to complete the project, a report on the total number of institutions, and the gap between EEBO subscribers and EEBO-TCP partners. Shawn Martin will work with Mary Sauer-Games to gather this information and report back to the Board. Some members thought that EEBO-TCP should go back to already existing partners and ask for a second round of funds to complete the project. In order to do this, Board members felt EEBO-TCP should look very carefully at what titles it is selecting and come up with summaries of the number of desirable titles to convert and initiate a strategy that could persuade libraries that it would be worth another years commitment to complete, for example, all of the Thomason tracts, or all of a particular genre or canonical category.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+
+
+
+“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
+
+
+
+
+
+“There are three portions of the Project Gutenberg Library, basically be described as:
+
+Light Literature; such as Alice in Wonderland, Through the Looking-Glass, Peter Pan, Aesop's Fables, etc.
+
+Heavy Literature; such as the Bible or other religious documents, Shakespeare, Moby Dick, Paradise Lost, etc.
+
+References; such as Roget's Thesaurus, almanacs, and a set of encyclopedia, dictionaries, etc.
+
+The Light Literature Collection is designed to get persons to the computer in the first place, whether the person may be a pre-schooler or a great-grandparent. We love it when we hear about kids or grandparents taking each other to an etexts to Peter Pan when they come back from watching HOOK at the movies, or when they read Alice in Wonderland after seeing it on TV. We have also been told that nearly every Star Trek movie has quoted current Project Gutenberg etext releases (from Moby Dick in The Wrath of Khan; a Peter Pan quote finishing up the most recent, etc.) not to mention a reference to Through the Looking-Glass in JFK. This was a primary concern when we chose the books for our libraries.
+
+We want people to be able to look up quotations they heard in conversation, movies, music, other books, easily with a library containing all these quotations in an easy to find etext format.” (Hart “History and Philosophy”)  
+
+The founding logic of Project Gutenberg resonates strikingly with Bordieu’s call to “*universalize in reality the conditions of access*” (qtd in Guillory 340, emphasis original) to literature.
+
+The first Project Gutenberg texts are almost a parody of important texts: The Declaration of Independence, The King James Bible. These are the texts assumed to be urgently desired by “99% of the general public” (Hart “History and Philosophy”). They are then followed, however, by a work which has rarely been central to the institutional hierarchies of cultural capital: Alice in Wonderland. As Hart describes his choices of what texts to transcribe next, he seems to be describing a version of what Guillory hoped for, “another kind of game” in which texts can compete for cultural capital, a game “with less dire consequences for the losers, an *aesthetic* game” (Guillory 340, emphasis original).
+
+
+
+“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
+
+
+
 ## database models ##
 
 
@@ -593,13 +497,13 @@ The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editi
 
 One reason that it can be informative to close-read the data structures of a resource like the ESTC is that a resource’s categories of knowledge are driven by the *uses* to which it expects that knowledge to be put. Examining the implicit assumptions that will make a given organization of knowledge seem logical, we can work backwards to the purpose of mission of the initial knowledge creation. Thus Tabor describes the data structure and the mission of the ESTC in a single statement: “ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (369). Korshin further elaborates the use envisioned for this information: “the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book in his or her library is the same or different from the one listed in ESTC” (211). Both “edition” and “ideal copy” are terms defined around the interests of a specialist audience of bibliographers, which bear inexact but important relationships to the formulation of an ESTC record.
 
-An “edition” is a group of copies of a work which are understood to be interchangeable with each other (Tabor 369),[^cf27] though in practice different levels of granularity are applied in distinguishing between editions. The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Karian describes that “\[s\]ometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type)” (289). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). As a result, Karian argues persuasively that ESTC records should not be treated as synonymous with “editions,” “issues,” or “titles,” since the same definitions of those boundaries may not be applied consistently. The specific question he poses is “What is the unit that the ESTC uses?” (289), and important question, to which the answer cannot really be “editions,” despite the best attempts of the ESTC bibliographers. Instead, he says “one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC” (Karian 289).[^cf28]
+An “edition” is a group of copies of a work which are understood to be interchangeable with each other (Tabor 369),[^cf25] though in practice different levels of granularity are applied in distinguishing between editions. The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Karian describes that “\[s\]ometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type)” (289). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). As a result, Karian argues persuasively that ESTC records should not be treated as synonymous with “editions,” “issues,” or “titles,” since the same definitions of those boundaries may not be applied consistently. The specific question he poses is “What is the unit that the ESTC uses?” (289), and important question, to which the answer cannot really be “editions,” despite the best attempts of the ESTC bibliographers. Instead, he says “one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC” (Karian 289).[^cf26]
 
 The “ideal copy,” too, represents an interpretation. Because the ESTC is essentially a movel based on limited samples of an imagined lost prior whole --- “the most complete and correct manifestation of that edition as the printer and publisher intended it,” as Tabor termed it (369) --- a new sample can change the model. As Tabor describes, “\[a\]s additional reports of copies arrive, it may be that the ideal description must change in response. For instance, the existence of a half-title may only emerge on the evidence of the seventh copy reported. A half-title would then be added to the description of the ideal copy, and the six previously matched physical copies will receive notes recording that they are imperfect in this respect” (370). The ideal copy, like the database itself, thus represents a moving target.
 
   
 
-So, how do these ideas of the edition and the ideal copy shape the data structures employed in the building of the ESTC? Consulting an individual ESTC record in the online database, as we can see in Figure 6, reveals a lot of information all pointing ‘outside’ of the ESTC itself. It begins with six details which will be present for every title: the “System Number” and “Citation Number” uniquely identifying the record; the author; the title; the publication information; and a physical description. It then displays any uncategorized “notes,” which in the case of *The Emigrants* (1793) consist of two additions to the physical description. \[Add other examples of “general notes”?\] The entry then points ‘outward’ to two “Surrogates”: the microfilm, and the electronic reproduction of the microfilm which is collected in ECCO. A very brief description is made of the work’s content --- its subject is “English poetry --- 18^th^ century” and its genre/form is “Poems” --- which is the only information provided about the *work* rather than the *book*.[ There’s a lot more to be examined re: these subject headings, especially if I do topic modelling for contents.
+So, how do these ideas of the edition and the ideal copy shape the data structures employed in the building of the ESTC? Consulting an individual ESTC record in the online database, as we can see in Figure 2, reveals a lot of information all pointing ‘outside’ of the ESTC itself. It begins with six details which will be present for every title: the “System Number” and “Citation Number” uniquely identifying the record; the author; the title; the publication information; and a physical description. It then displays any uncategorized “notes,” which in the case of *The Emigrants* (1793) consist of two additions to the physical description. \[Add other examples of “general notes”?\] The entry then points ‘outward’ to two “Surrogates”: the microfilm, and the electronic reproduction of the microfilm which is collected in ECCO. A very brief description is made of the work’s content --- its subject is “English poetry --- 18^th^ century” and its genre/form is “Poems” --- which is the only information provided about the *work* rather than the *book*.[ There’s a lot more to be examined re: these subject headings, especially if I do topic modelling for contents.
 
 
 
@@ -609,9 +513,9 @@ So, how do these ideas of the edition and the ideal copy shape the data structur
 
 How many of my records have subject headings? What is the ESTC’s ontology?] The remainder of the record is an extensive list of libraries which hold copies of the edition, divided into the three geographic regions of “British Isles,” “North America,” and “Other,” followed by a direct link to the ECCO copy referenced above.
 
-This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf29] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
+This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf27] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
 
-Figure 6: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
+Figure 2: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
 
 There are several different ways to search ESTC records. The “Search” button takes a user to the “Basic Search” function, from which there are also links to “Advanced Search,” “Browse,” and “Browse Libraries List” (which takes the user to the identical page as “Browse” but with “Library name” pre-selected as the index to browse). Once you have found a work of interest, however, several new forms fo searching become available, implied in the hyperlink formatting: almost any field in the entry can be clicked to reach other matching ESTC entries.
 
@@ -655,6 +559,8 @@ Although the ECCO-TCP now seems obviously built for text-mining distant reading,
 
 
 
+“ECCO natively supports OCR-based full-text searching of this corpus. This is significant because it meant that unlike EEBO-TCP (which produced searchable text where there was previously none at all), ECCO-TCP could only hope to produce *more accurate* text (and more reusable text) than what was already available. The larger size of ECCO (because of the great increase in printing and greatly enhanced chances of survival of printed works in the 18th century) also made it a different proposition: nothing so ambitious as EEBO-TCP coverage was feasible for ECCO-TCP. ... Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000.” (TCP “ECCO”)
+
 
 
 ### 2.2.4.  Hathi model ###  
@@ -676,6 +582,102 @@ Google Books prioritizes low-quality information over *no* information. The algo
 
 
 Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.  
+
+How accurate does OCR need to be? This depends on how the OCR will then be used.  
+
+The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf28] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf29] This surprised me, and suggests that skepticism of OCR in eighteenth century text mining may no longer be appropriate.  
+
+To make these comparisons concrete, consider the first page of Smith’s dedication, as it is captured by OCR in ECCO and HathiTrust, and in the ECCO-TCP transcript:
+
+
+
+TO WILLIAM COWPER, Es DEAR SIR, THERE is,- I hope, some propriety in my addrefing a Com- potion to you, which would,never perhaps have existed, had I not, amid the heavy prefure of many sorrows, derived infinite consolation from your Poetry, and some degree of animation and of confidencefrom your efieen. . 'he.following performance isfarfrom aspiring to be con- fidered as an imitation of your inimitable Poem, " THE " TASK;" I am perfeetly sensible, that it belongs not to a feeble andfemninine hand to draw the Bow of Ulyfes.,Theforce, clearness, and sublimity ofyour admirable Poem; the felicity, almost peculiar to your genius, of givingto the moJ familiar objegls dignity and eset, I could never hope to,a reach (ECCO)
+
+
+
+T O WILLIAM com/PER, Ess. DEAR SIR, THERE is, I hope, ſome propriety in my addreſſing a Com- poſition to you, which would never perhaps have exiſted, had I not, amid the beavy preſſure of many ſorrows, derived infinite conſolation from your Poetry, and ſome degree of animation and of confidence from your ºfteem. The following performance is far from aſpiring to be con- ſidered as an imitation of your inimitable Poem, “ The “TAsk;” I am perfºy fººl, that it belongs not to a feeble and feminine band to draw the Bow of Ulyſſes. The force, clearneſ, andſublimity of your admirable Poem; the felicity, almoſt peculiar to your genius, of giving to the moſt familiar obječís dignity and effečf, I could never hope to 3. - Reach (HathiTrust)
+
+
+
+TO WILLIAM COWPER, ESQ.
+
+DEAR SIR,
+
+
+
+THERE is, I hope, some propriety in my addressing a Com\|position
+
+to you, which would never perhaps have existed, had
+
+I not, amid the heavy pressure of many sorrows, derived
+
+infinite consolation from your Poetry, and some degree of
+
+animation and of confidence from your esteem.
+
+
+
+The following performance is far from aspiring to be con\|sidered
+
+as an imitation of your inimitable Poem, "THE
+
+TASK;" I am perfectly sensible, that it belongs not to a
+
+feeble and feminine hand to draw the Bow of Ulysses.
+
+
+
+The force, clearness, and sublimity of your admirable Poem;
+
+the felicity, almost peculiar to your genius, of giving to the
+
+most familiar objects dignity and effect, I could never hope to (ECCO-TCP)
+
+
+
+Figure 3 shows how Juxta highlights the words which vary between these three copies.
+
+Both of the OCR copies contain errors in individual letters which render the whole word interpretable by a human but not by text mining software, as in the case of “beavy” for “heavy.” The ECCO copy struggles with the fact that ſ is not an available character, sometimes substituting an f, as in “prefure” for “preſſure.” Both leave out spaces between words, creating new tokens like “isfarfrom” and “andſublimity,” though HathiTrust is less prone to this error.
+
+Other features of the OCR copies are accurate to the page image but would nonetheless interfere with text mining. The hyphenation of “Com- poſition,” for example, would prevent it from rendering as a single word, though here even the careful TCP copy would introduce the same problem, since the line break is encoded as “Com\|position.” Before the TCP copy could be used for text mining, the \| characters would likely need to be removed --- not too different from removing the hyphenation from the ECCO and Hathi copies. Most difficult to resolve is the fact that OCR naturally attempts to capture *all* text on the page, including the signature mark and catch word. In ECCO these appear as “,a reach” and in Hathi they are “3. - Reach” whereas TCP more appropriately leaves these out. Unlike the problems with hyphenated words, there is no way to correct for the inclusion of catchwords in a document, since there is no predictable way to identify them --- but keeping them in the document will cause any text-mining software to count these words twice.
+
+The usual “text cleaning” procedures would further prepare these OCR texts for text mining by transforming all words to lowercase, removing all punctuation, and, in most cases, deleting all words which don’t match a predefined dictionary of valid words. A scholar working with the HathiTrust OCR would almost certainly add to this a step converting the ſ character to an s, as discussed above, in order to make the dictionary comparison feasible. The result of this ‘cleaning’ would likely look something like the following:
+
+
+
+to william dear sir there is i hope some propriety in my a potion to you which would never perhaps have existed had i not amid the heavy of many sorrows derived infinite consolation from your poetry and some degree of animation and of your he following performance aspiring to be con as an imitation of your inimitable poem the task i am sensible that it belongs not to a feeble hand to draw the bow of clearness and sublimity admirable poem the felicity almost peculiar to your genius of the familiar dignity and i could never hope to a reach (ECCO, as it would likely appear after text “cleaning”)
+
+
+
+ 
+
+william dear sir there is i hope some propriety in my addressing a position to you which would never perhaps have existed had i not amid the pressure of many sorrows derived infinite consolation from your poetry and some degree of animation and of confidence from your the following performance is far from aspiring to be considered as an imitation of your inimitable poem the task i am that it belongs not to a feeble and feminine band to draw the bow of ulysses. the force of your admirable poem the felicity almost peculiar to your genius of giving to the most familiar dignity and i could never hope to 3 reach (HathiTrust, as it would likely appear after text “cleaning”)
+
+
+
+
+
+Strikingly, these ‘clean’ texts are now further from legible to human eyes, as OCR errors which a reader could mentally correct (such as “beavy” for “heavy” are now entirely removed.  
+
+![][juxta-emigrants-p1]
+
+Figure 3: Juxta’s “Heat Map” visualization of the “base” witness of the first page of *The Emigrants* (i.e., the ECCO-TCP version carefully prepared by scholars), highlighting words which differ in the two witnesses of the ECCO OCR and the normalized HathiTrust OCR. A darker highlight indicates that the word varies in more than one witness.  
+
+![][juxta-emigrants-histogram]
+
+Figure 4: A histogram, produced by Juxta, showing where the two ECCO and normalized HathiTrust witnesses show the most difference from the base ECCO-TCP copy. “Longer lines indicate areas of considerable difference, while shorter lines indicate greater similarity between documents.” (“A User Guide to Juxta Commons”)  
+
+![][fig-ecco-emigrants-p1]
+
+Figure 5: The facsimile of the first page of *The Emigrants* found in ECCO, which forms the basis of the ECCO OCR text.  
+
+![][hathi-emigrants-p1]
+
+Figure 6: The facsimile of the first page of *The Emigrants* found in HathiTrust, which forms the basis of the HathiTrust OCR text.  
+
+“16 In his discussion of JSTOR's "intolerably corrupt" OCR text, Nicholson Baker suggests that the reason why the user is prevented from scrolling through this naked OCR output is that scholars "might, after a few days, be dis- turbed by the frequency and strangeness of its mistakes . . . and they might no longer be willing to put their trust in the scholarly integrity of the database."17 Baker's criticism of JSTOR, however, is based on an error rate (with editorial intervention) of just one typo in every two thousand characters.” (Spedding 439)
+
+“The two OCR-captured texts average over 150 typos per 2,000 characters,22 a high enough error rate to render parts of the text completely unintelligible. It is not clear how typical this error rate is, and how much it declines with editorial intervention,23 but again the scale of the problem is clear.24 Consequently, the claim that OCR errors "may occasionally result in incorrect character capture, which may affect some \[ECCO\] full-text search results," seems wildly, even heroically, optimistic.” (Spedding 440)  
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 
@@ -840,6 +842,52 @@ Datasets of men’s, women’s, and unsigned writing from the 1790s? Filtering t
 Circulating libraries? Maybe one specific library, to be feasible?
 
 Reprints??  
+
+A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:
+
+\<listPrefixDef\>
+
+\<prefixDef ident="tcp"
+
+matchPattern="(\[0-9\\-\]+):(\[0-9IVX\]+)"
+
+replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/\>
+
+\<prefixDef ident="char"
+
+matchPattern="(.+)"
+
+replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/\>
+
+\</ListPrefixDef\>
+
+Indeed, the collocation formula is less transparent than simple markup like the following:
+
+\<titleStmt\>
+
+\<title\>The emigrants, a poem, in two books. By Charlotte Smith\</title\>
+
+\<author\>Smith, Charlotte Turner, 1749-1806.\</author\>
+
+\</titleStmt\>
+
+It may even compare unfavorably to relatively well-commented code, like the following:
+
+| \# iterate through the directory ||
+|  | for filename in listdir\_nohidden("./" + directory): |
+| -----: | :----- |
+|  |  |
+|  | \# define the path to this file |
+|  | path = "./" + directory + "/" + filename |
+|  |  |
+|  | \# strip the file's namespace |
+|  | try: |
+|  | xmlstring = stripNamespace(path) |
+|  | except: |
+|  | print "error stripping namespace of file %s" % (filename) |
+
+
+What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.  
 
 My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-\>1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery. My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file[^cf30] with fifteen columns of information. The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.  
 
@@ -1053,14 +1101,14 @@ Figure 1 is based on the data recorded in Table 1, which was pasted into the RAW
 
 [^cf24]: Later known as Primary Source Microfilm, an imprint of the Gale Group.
 
-[^cf25]: One exception to this assumption has to do with treatment of the character ſ, which the TCP file modernizes to an s, but which HathiTrust renders as ſ. To avoid penalizing HathiTrust for “inaccuracy” when it is actually a more accurate reproduction of the page than my reference point, I amended every instance of ſ in HathiTrust to an s.
+[^cf25]: “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369).
 
-[^cf26]: Leaving the ſ characters unchanged in the HathiTrust document resulted in a .29 change from base (71% accuracy), so my normalization of ſ to s had a major impact on the comparison. I consider the .09 result more appropriate than the .29 because the normalized copy better reflects how an OCR file would be used.
+[^cf26]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
 
-[^cf27]: “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369).
+[^cf27]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
 
-[^cf28]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
+[^cf28]: One exception to this assumption has to do with treatment of the character ſ, which the TCP file modernizes to an s, but which HathiTrust renders as ſ. To avoid penalizing HathiTrust for “inaccuracy” when it is actually a more accurate reproduction of the page than my reference point, I amended every instance of ſ in HathiTrust to an s.
 
-[^cf29]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
+[^cf29]: Leaving the ſ characters unchanged in the HathiTrust document resulted in a .29 change from base (71% accuracy), so my normalization of ſ to s had a major impact on the comparison. I consider the .09 result more appropriate than the .29 because the normalized copy better reflects how an OCR file would be used.
 
 [^cf30]: explain what a csv is
