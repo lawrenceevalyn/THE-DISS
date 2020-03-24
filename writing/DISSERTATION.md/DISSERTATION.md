@@ -195,6 +195,14 @@ To understand the history of the ESTC and ECCO, we actually need to begin with a
 
 “ in digitising the microfilms in their original forms, EEBO decided (presumably for commercial reasons rather than purely scholarly ones) against sanitising the images. Openings are retained rather than broken into single pages; images are not cropped; rulers, place-holders, and descriptive notes are left in place; blank leaves are not removed. While Kichuk’s concern about ‘remedia- tion’ is a real one, it is difficult to use EEBO for any length of time without being reminded that these are reproductions of actual objects.” (Gadd 688)  
 
+Began as Research Publications, Inc in 1981, which began the Eighteenth Century Collection in 1983. Their rival was University Microfilms. RP became Thomson Gale, now Gale Cengage. UM became ProQuest.
+
+
+
+By 1997, Research Publications, Inc had become Primary Source Media. (LOC http://id.loc.gov/authorities/names/n98069963.html) In September 1998, “the Thomson Corporation \[merged\] three of its electronic and reference publishing subsidiaries---Gale Research, Information Access Company (IAC), and Primary Source Media---into a new company called The Gale Group.” (http://newsbreaks.infotoday.com/NewsBreaks/Thomson-Merges-Gale-IAC-Primary-Source-Media-into-The-Gale-Group-17999.asp)  
+
+*1983 Eighteenth Century Collection* microfilm begins to be produced by Research Publications, Inc  
+
 ECCO, as a distinct resource, is a historic latecomer compared to EEBO. The initial microfilms were created in \[???\] by \[???\]. In 2003, Thomson Gale began making digital copies of the Eighteenth Century Collection microfilms available to subscribers online. The digital images were made from the microfilm masters, which were 400 dpi, and thus higher resolution than the microfilm copies. 
 
 
@@ -209,7 +217,13 @@ Reference “deep fried memes” --- xkcd comic: <https://xkcd.com/1683/>
 
 
 
-The microfilms were scanned at 300 dpi (Spedding 440).
+The microfilms were scanned at 300 dpi (Spedding 440).  
+
+“Part I includes 135,000 printed works, comprising more than 26 million scanned facsimile pages.” (Gale, “Part I”) “From books and directories to bibles and sheet music to sermons and pamphlets, Eighteenth Century Collections Online, Part II features a variety of materials to provide a critical tool for both faculty research and classroom use. With more than fifty thousand new titles of previously unavailable or inaccessible materials, Eighteenth Century Collections Online, Part II is an essential addition for current owners of Part I.” (Gale, Part II). Each part (sold separately) also describes itself in breathless language assuring users of the comprehensiveness and breadth of the resource --- even as its existence in two parts belies this.
+
+
+
+“Although "Eighteenth Century Collections Online, Part 2 adds six million pages that include previously unavailable or inaccessible titles," the latest promotional leaflet claims a total of "26 million pages of text" for ECCO - instead of 32 million - which is the same total that appeared in the original promotional leaflet for what is now understood to be ECCO Part 1. See "About Gale Digital Collections," accessed 1 March 2009, http://www.gale.cengage.com/DigitalCollections/; Eighteenth Century Collections Online (2008), accessed 1 March 2009 http://www.gale.cengage.com/pdf/facts/ ECCO.pdf; and "Eighteenth Century Collections Online: The eighteenth century's most important revolution has just begun" (2005”) (Spedding 450) 
 
 
 
@@ -441,7 +455,15 @@ The “microfilm series is not a random - and therefore randomly representatve--
 
 
 
-“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)  
+“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
+
+
+
+Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s *Elegiac Sonnets*, a significant title which is absent.
+
+
+
+“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)  
 
 What is *in* the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So --- the TCP contains whatever individual works happened to interest particular scholars.
 
