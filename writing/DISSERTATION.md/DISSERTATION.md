@@ -185,15 +185,7 @@ To understand the history of the ESTC and ECCO, we actually need to begin with a
 
 
 
-“EEBO’s relationship with the original STC and Wing is straightforward and clear; EEBO’s relationship with electronic ESTC, on the other hand, is less well-known.20 A series of agreements made between ESTC and University Microfilms/ProQuest between 1989 and 1997 allowed EEBO to draw directly on ESTC’s existing bibliographical data. Consequently, / every search run on EEBO (with some exceptions) relies, in a fundamental sense, on bibliographical information originally supplied by ESTC -- but not in the form that one might expect. First, EEBO heavily edited ESTC’s data for its own purposes: certain categories of data were removed (e.g. collations, Stationers’ Register entrances), some information was amended (e.g. subject headings), and some was added (e.g. microfilm- specific details). Second, there is no formal mechanism for synchronising the data between the two resources. Occasionally, snapshots of data are sent by EEBO to ESTC but there is no guarantee that a correction or revision made to an ESTC entry will be replicated in the corresponding EEBO entry or vice versa: neither ESTC nor EEBO will necessarily know when the other has made a correction. As both resources continue to amend and expand their bibliographical data for their own purposes, there is an increasing likelihood of significant discrepancy between the two resources. Finally, although EEBO continues to microfilm and digitise, there is no absolute one-to-one correspondence between the pre-1701 entries in ESTC and the materials on EEBO; there are -- and will always be -- items on ESTC not available on EEBO.” (Gadd 685-6)
-
-
-
-“unlike scholarly facsimile editions, the selection process for microfilming was often arbitrary. Copies were selected primarily by reference to the copies listed in STC and Wing, with particular preference for certain major collections; they were not selected because they were considered representative of a particular edition. By bringing together the bibliographical record for an edition and (usually but not always) only a single witness of that edition,22 EEBO is obviously aiming to provide a useful scholarly mechanism in terms of searching but by doing so are implying -- albeit not deliberately -- that the record and the copy *are* *one and the same thing*. It would be better, perhaps, if EEBO represented itself as a library of copies, rather than a catalogue of ‘titles’.” (Gadd 687)
-
-
-
-“ in digitising the microfilms in their original forms, EEBO decided (presumably for commercial reasons rather than purely scholarly ones) against sanitising the images. Openings are retained rather than broken into single pages; images are not cropped; rulers, place-holders, and descriptive notes are left in place; blank leaves are not removed. While Kichuk’s concern about ‘remedia- tion’ is a real one, it is difficult to use EEBO for any length of time without being reminded that these are reproductions of actual objects.” (Gadd 688)  
+“EEBO’s relationship with the original STC and Wing is straightforward and clear; EEBO’s relationship with electronic ESTC, on the other hand, is less well-known.20 A series of agreements made between ESTC and University Microfilms/ProQuest between 1989 and 1997 allowed EEBO to draw directly on ESTC’s existing bibliographical data. Consequently, / every search run on EEBO (with some exceptions) relies, in a fundamental sense, on bibliographical information originally supplied by ESTC -- but not in the form that one might expect. First, EEBO heavily edited ESTC’s data for its own purposes: certain categories of data were removed (e.g. collations, Stationers’ Register entrances), some information was amended (e.g. subject headings), and some was added (e.g. microfilm- specific details). Second, there is no formal mechanism for synchronising the data between the two resources. Occasionally, snapshots of data are sent by EEBO to ESTC but there is no guarantee that a correction or revision made to an ESTC entry will be replicated in the corresponding EEBO entry or vice versa: neither ESTC nor EEBO will necessarily know when the other has made a correction. As both resources continue to amend and expand their bibliographical data for their own purposes, there is an increasing likelihood of significant discrepancy between the two resources. Finally, although EEBO continues to microfilm and digitise, there is no absolute one-to-one correspondence between the pre-1701 entries in ESTC and the materials on EEBO; there are -- and will always be -- items on ESTC not available on EEBO.” (Gadd 685-6)  
 
 Began as Research Publications, Inc in 1981, which began the Eighteenth Century Collection in 1983. Their rival was University Microfilms. RP became Thomson Gale, now Gale Cengage. UM became ProQuest.
 
@@ -201,7 +193,15 @@ Began as Research Publications, Inc in 1981, which began the Eighteenth Century 
 
 By 1997, Research Publications, Inc had become Primary Source Media. (LOC http://id.loc.gov/authorities/names/n98069963.html) In September 1998, “the Thomson Corporation \[merged\] three of its electronic and reference publishing subsidiaries---Gale Research, Information Access Company (IAC), and Primary Source Media---into a new company called The Gale Group.” (http://newsbreaks.infotoday.com/NewsBreaks/Thomson-Merges-Gale-IAC-Primary-Source-Media-into-The-Gale-Group-17999.asp)  
 
-*1983 Eighteenth Century Collection* microfilm begins to be produced by Research Publications, Inc  
+*1983 Eighteenth Century Collection* microfilm begins to be produced by Research Publications, Inc
+
+
+
+EEBO: “unlike scholarly facsimile editions, the selection process for microfilming was often arbitrary. Copies were selected primarily by reference to the copies listed in STC and Wing, with particular preference for certain major collections; they were not selected because they were considered representative of a particular edition. By bringing together the bibliographical record for an edition and (usually but not always) only a single witness of that edition,22 EEBO is obviously aiming to provide a useful scholarly mechanism in terms of searching but by doing so are implying -- albeit not deliberately -- that the record and the copy *are* *one and the same thing*. It would be better, perhaps, if EEBO represented itself as a library of copies, rather than a catalogue of ‘titles’.” (Gadd 687)
+
+
+
+EEBO: “in digitising the microfilms in their original forms, EEBO decided (presumably for commercial reasons rather than purely scholarly ones) against sanitising the images. Openings are retained rather than broken into single pages; images are not cropped; rulers, place-holders, and descriptive notes are left in place; blank leaves are not removed. While Kichuk’s concern about ‘remediation’ is a real one, it is difficult to use EEBO for any length of time without being reminded that these are reproductions of actual objects.” (Gadd 688)  
 
 ECCO, as a distinct resource, is a historic latecomer compared to EEBO. The initial microfilms were created in \[???\] by \[???\]. In 2003, Thomson Gale began making digital copies of the Eighteenth Century Collection microfilms available to subscribers online. The digital images were made from the microfilm masters, which were 400 dpi, and thus higher resolution than the microfilm copies. 
 
@@ -223,7 +223,9 @@ The microfilms were scanned at 300 dpi (Spedding 440).
 
 
 
-“Although "Eighteenth Century Collections Online, Part 2 adds six million pages that include previously unavailable or inaccessible titles," the latest promotional leaflet claims a total of "26 million pages of text" for ECCO - instead of 32 million - which is the same total that appeared in the original promotional leaflet for what is now understood to be ECCO Part 1. See "About Gale Digital Collections," accessed 1 March 2009, http://www.gale.cengage.com/DigitalCollections/; Eighteenth Century Collections Online (2008), accessed 1 March 2009 http://www.gale.cengage.com/pdf/facts/ ECCO.pdf; and "Eighteenth Century Collections Online: The eighteenth century's most important revolution has just begun" (2005”) (Spedding 450) 
+“Although "Eighteenth Century Collections Online, Part 2 adds six million pages that include previously unavailable or inaccessible titles," the latest promotional leaflet claims a total of "26 million pages of text" for ECCO - instead of 32 million - which is the same total that appeared in the original promotional leaflet for what is now understood to be ECCO Part 1. See "About Gale Digital Collections," accessed 1 March 2009, http://www.gale.cengage.com/DigitalCollections/; Eighteenth Century Collections Online (2008), accessed 1 March 2009 http://www.gale.cengage.com/pdf/facts/ECCO.pdf; and "Eighteenth Century Collections Online: The eighteenth century's most important revolution has just begun" (2005”) (Spedding 450)   
+
+In late 2019, Gale began allowing access to a new interface, the Gale Digital Scholar Lab, which dramatically changed the forms of access available for ECCO texts. It became possible not only to see the underlying OCR for texts, but to run pre-built text mining on it, and to download the OCR as text files. The only limit to downloading is that only 10,000 texts may be downloaded at a time, but as long as the desired corpus can be defined as “collections” in chunks of 10,000 or less, any number of files can be downloaded. In a particularly dramatic departure from ECCO’s past practice and current norms, I was told that there were also no restrictions on sharing the downloaded files, even though downloading them in the first place required a library subscription.
 
 
 
@@ -265,25 +267,147 @@ In 2007, all three TCP project reported successful sales, though ECCO’s news w
 
 “As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)  
 
-Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
+Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
 
 “During the fist twenty years, Michael Hart himself keyed in the first hundred books, with the occasional help of others from time to time.” (Lebert)
 
 “when we started, the files had to be very small as a normal 300 page book took one meg of space which no one in 1971 could be expected to have (in general). So doing the U.S. Declaration of Independence (only 5K) seemed the best place to start. This was followed by the Bill of Rights --- then the whole US Constitution, as space was getting large (at least by the standards of 1973). Then came the Bible, as individual books of the Bible were not that large, then Shakespeare (a play at a time), and then into general work in the areas of light and heavy literature and references.” (Hart “History and Philosophy”) “That edition of Shakespeare was never released, due to copyright changes. If Shakespeare's works belong to the public domain, the comments and notes may be copyrighted, depending on the publication date. But other editions belonging to the public domain were posted a few years later.” (Lebert)
 
+“As of 1987 he had typed in a total of 313 books in this fashion. Then, through being involved in the University of Illinois PC User Group and with assistance from Mark Zinzow, a programmer at the school, Hart was able to recruit volunteers and set up an infrastructure of mirror sites and mailing lists for the project. With this the project was able to grow much more rapidly.” (History-Computer)
+
 “When the internet became popular, in the mid-1990s, the project got a boost and an international dimension. Michael still typed and scanned in books, but now coordinated the work of dozens and then hundreds of volunteers in many countries.” (Lebert)
 
 “In August 1989, Project Gutenberg completed its 10th book, The King James Bible, that was first published in 1611, with the standard text dated 1769. In 1990, there were 250,000 internet users, and the standard was 360 K disks. In January 1991, Michael typed in Alice's Adventures in Wonderland, by Lewis Carroll (published in 1865). In July 1991, he typed in Peter Pan, by James M. Barrie (published in 1904).” (Lebert)
+
+1989 is also when Project Gutenberg began to make use of OCR to generate base texts which were then proofread, rather than having the text typed from scratch. (Paywalled WSJ article)
 
 “By the time Project Gutenberg got famous, the standard was 360K disks, so we did books such as Alice in Wonderland or Peter Pan because they could fit on one disk. Now 1.44 is the standard disk and ZIP is the standard compression; the practical filesize is about three million characters, more than long enough for the average book.” (Hart “History and Philosophy”)
 
 “Project Gutenberg gradually got into its stride, with the digitization of one book per month in 1991, two books per month in 1992, four books per month in 1993 and eight books per month in 1994. In January 1994, Project Gutenberg celebrated its 100th book by releasing The Complete Works of William Shakespeare.” (Lebert)
 
-”The number of electronic books rose from 1,000 (in August 1997) to 5,000 (in April 2002), 10,000 (in October 2003), 15,000 (in January 2005), 20,000 (in December 2006) and 25,000 (in April 2008). ... The steady growth went on, with an average of 8 books per month in 1994, 16 books per month in 1995, and 32 books per month in 1996.” (Lebert)
+1994, Italian volunteer Pietro Di Miceli developed and administered the first Project Gutenberg website and started the development of the Project online Catalog. (“Credits”)
+
+”The number of electronic books rose from 1,000 (in August 1997) to 5,000 (in April 2002), 10,000 (in October 2003), 15,000 (in January 2005), 20,000 (in December 2006) and 25,000 (in April 2008). ... The steady growth went on, with an average of 8 books per month in 1994, 16 books per month in 1995, and 32 books per month in 1996.” (Lebert) “If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert) “In the first 11 weeks of 2004, Project Gutenberg added 313 new e-books. It took from 1971 to 1997 to produce the first 313 e-books---that's 11 weeks compared to about 26 years.” (Hane)
+
+The books doubled again between 2006 and 2011, from 20,000 (2006) to 40,000 (2011). (Hosch)
+
+The current collection is 60,000 ebooks. This falls short of Hart’s bombastic declaration in 2004 that “We want to grow the collection to 1 million free e-books and distribute them to 1 billion people for a total of 1 quadrillion e-books to be given away by the end of the year 2015.” (Hane)  
 
 “A fast growth thanks to Distributed Proofreaders, a website launched in October 2000 by Charles Franks to share the proofreading of books between many volunteers. Volunteers choose one of the books listed on the site and proofread a given page. They don't have any quota to fulfill, but it is recommended they do a page per day if possible. It doesn't seem much, but with hundreds of volunteers it really adds up.” (Lebert)
 
-“If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert)
+“In 2002 Distributed Proofreaders became part of Project Gutenberg.” (Hosch) “By 2009 roughly half of all Project Gutenberg books had been handled by using Distributed Proofreaders.” (Hosch)
+
+“As of 2018, the 36,000+ DP-contributed books comprised almost two-thirds of the nearly 60,000 books in Project Gutenberg.” (Wikipedia)  
+
+Because the texts are available without restrictions, a number of \[spin-off\] websites exist, some of which extend PG’s mission and some of which are slightly exploitative. On the most purely beneficial side are website “mirrors,” which duplicate the contents of the website in order to distribute the costs of hosting and to make sure that the texts remain accessible even if the “primary” Project Gutenberg website goes down. Also in keeping with Project Gutenberg’s core mission are projects which take the very plain text of PG works and make them more appealing or accessible in different formats. LibriVox, for example, is a similarly volunteer-driven effort which produces audiobooks of public domain works. Many organizations produce polished ebooks of PG works, and offer them for sale or for free in individual ebook reader libraries such as the Apple iBooks store or the Kindle store.
+
+“In 2004 Project Gutenberg Europe and Distributed Proofreaders Europe were formed to facilitate the process of adding more non-English works.” (Hosch)  
+
+All directly quoted from “Partners, Affiliates and Resources”
+
+
+
+
+
+
+
+2	Sister Projects
+
+2.1	Project Gutenberg of Australia
+
+2.2	Project Gutenberg of Canada
+
+2.3	Projekt Gutenberg DE
+
+2.4	Project Gutenberg Europe
+
+2.5	Project Gutenberg Self Publishing Portal
+
+2.6	Projekt Runeberg
+
+2.7	ReadingRoo.ms
+
+
+
+3	Affiliates
+
+3.1	ClassicalArchives.com
+
+3.2	The Internet Archive
+
+3.3	Librivox.org
+
+3.4	LiteralSystems
+
+3.5	ManyBooks.net
+
+3.6	The Online Books Page
+
+3.7	Outernet
+
+3.8	RocketReader.com
+
+3.9	Wattpad
+
+
+
+4	Links to locations that provide software, tools, or Project Gutenberg eBooks in different formats
+
+4.1	Andrew Sly's List of Canadiana in Project Gutenberg
+
+4.2	Breeno.org
+
+4.3	The Early Canadiana Online Project
+
+4.4	GutenMark
+
+4.5	Mobipocket
+
+4.6	MobileRead
+
+4.7	Noveltrove
+
+4.8	thefifthimperium.com
+
+4.9	Wikibooks  
+
+“PG has been giving away CDs and DVDs; a volunteer mails them out for free on request.” (Hane)
+
+
+
+Wikipedia: ”In August 2003, Project Gutenberg created a CD containing approximately 600 of the "best" e-books from the collection. The CD is available for download as an ISO image. When users are unable to download the CD, they can request to have a copy sent to them, free of charge.
+
+In December 2003, a DVD was created containing nearly 10,000 items. At the time, this represented almost the entire collection. In early 2004, the DVD also became available by mail.
+
+In July 2007, a new edition of the DVD was released containing over 17,000 books, and in April 2010, a dual-layer DVD was released, containing nearly 30,000 items.
+
+The majority of the DVDs, and all of the CDs mailed by the project, were recorded on recordable media by volunteers. However, the new dual layer DVDs were manufactured, as it proved more economical than having volunteers burn them. As of October 2010, the project has mailed approximately 40,000 discs. As of 2017, the delivery of free CDs has been discontinued, though the ISO image is still available for download.”
+
+Full info at “The CD and DVD Project”  
+
+In 2000, Distributed Proofreaders was founded. Also “In 2000, a non-profit corporation, the Project Gutenberg Literary Archive Foundation, Inc. was chartered in Mississippi, United States to handle the project's legal needs. Donations to it are tax-deductible. Long-time Project Gutenberg volunteer Gregory Newby became the foundation's first CEO.” (Wikipedia)
+
+
+
+At some point Carnegie Mellon University agreed to administer the project’s finances.
+
+It’s currently hosted by ibiblio at UNC Chapel Hill.
+
+
+
+Current partners: “- Distributed Proofreaders. DP allows people to share in the tasks of proofreading, verifying and formatting eBooks for Project Gutenberg.
+
+\- iBiblio, the public's library. IBiblio is our main eBook distribution site, holds our Web pages, and offers a variety of supporting services.
+
+\- Project Gutenberg Consortia Center: Project Gutenberg Consortia Center (PGCC). Collections of collections, with numerous languages and formats. Sponsored by the World eBook Library. Host of the self.gutenberg.org self-publishing portal.” (“Partners, Affiliates and Resources”)  
+
+In 2004, there was some discussion of spinning off a PGII with the World eBook Library. “The co-founders say that PG 2 came from the need to include existing e-book collections, such as those found in schools, universities, and professional and religious organizations. Many such e-books do not fall into the acceptable criteria of Project Gutenberg. "For those books, PG 2 was created to find a home. PG 2 is a consortium of collections. Our vision is to create an additional portal where a broader variety of intellectual objects may be accessed.”” (Hane)
+
+Did this go anywhere?
+
+
+
+It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?
 
 
 
@@ -331,6 +455,8 @@ To review all of these events, \<$n#table:databases-timeline\> shows the milesto
 
 1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue. Information from Wing and STC is added to ESTC.
 
+1987	Michael Hart recruits first Project Gutenberg volunteers
+
 1989	Project Gutenberg completes its tenth book, the King James Bible
 
 1991	End of second edition of Pollard & Redgrave STC, 1475-1640
@@ -341,7 +467,11 @@ To review all of these events, \<$n#table:databases-timeline\> shows the milesto
 
 1994	ESTC made pre-1700 records available
 
-1994	Project Gutenberg completes its 100^th^ book, the Complete Works of William Shakespeare
+1994
+
+1994	Project Gutenberg completes its 100^th^ book, the Complete Works of William Shakespeare ?? (Contradicts 1987 count)
+
+1994	Project Gutenberg’s first website is developed by volunteer Pietro Di Miceli
 
 “By the late 1990s, several thousand reels had been published in two series: ‘Early English Books, 1475--1640’ and ‘Early English Books, 1641--1700’.” (Gadd)
 
@@ -363,6 +493,8 @@ Commedia di Dante, in Italian
 
 2003	ESTC third edition released on CD-ROM
 
+2003	Project Gutenberg 600 “best” ebooks released on CD-ROM, followed by 10,000 item DVD
+
 2003	Beginning of ECCO: Thomson Gale (now Gale Cengage Learning) made digital copies of Eighteenth Century Collection microfilms available to subscribers online
 
 2005	TCP begins encoding ECCO texts
@@ -371,11 +503,19 @@ Commedia di Dante, in Italian
 
 “As of 26 April 2007 the number of microfilm reels of The Eighteenth Century that had been released was 16,625; the total number of titles on these reels is 189,569 (information provided by Katri Russick, Thomson Gale, Australia and New Zealand, in a private email). This number increased to at least 17,828 microfilm reels - the number received and catalogued by Monash University - by 1 November 2010.” (Spedding 450)
 
+2007	Project Gutenberg DVD released with 17,000 items
+
 2008	Project Gutenberg publishes its 25,000^th^ book, English Book Collectors, by William Younger Fletcher
 
 2009	EEBO-TCP Phase I complete: produced 25,000 books; beginning of Phase II
 
+2010	Project Gutenberg DVD released with 30,000 items
+
+2011	40,000 books in Project Gutenberg
+
 2015	EEBO-TCP Phase I books released to the general public
+
+2017	Project Gutenberg discontinues free mailing of CDs and DVDs, though the files remain available for people to burn their own copies at home
 
 2021	EECO-TCP Phase II books released to the general public
 
@@ -419,7 +559,19 @@ In the 2004 minutes: “Since the TCP has evolved from one project in cooperatio
 
 “Members of the Board also felt that TCP should complete an equity review of all of its employees to see what salaries are being offered from other universities and whether TCP’s salaries are in-line with what is being offered elsewhere. It was suggested that TCP might want to do a 10% raise across the board for all reviewing staff that remain with the project for five years.” (TCP Executive Board, Meeting Minutes 2005-10-20) In the next year, “Mark also reported on one item from the previous Board meeting, salary reviews. Maria and Shawn investigated the possibilities of raising salaries for TCP reviewers within the University of Michigan, and compared salaries at Michigan and Oxford. It was found that the salaries of the reviewers were comparable with expectations. Paul also reported that the reviewers who left had reasons other than salary (family issues, better opportunities within their field of study, etc.). Therefore, it was decided not to raise all reviewers salaries at once, but to continue doing merit increases that the University of Michigan does every year.” (TCP Executive Board, “Meeting Minutes 2006-09-16.”)  
 
-In 2005 the TCP was thinking about themselves as competing with Google: “John Price-Wilkin, Associate University Librarian for Library Information Technology & Technical and Access Services, was a guest of the Board to talk about issues relating to the Google initiative and TCP’s role in promoting “enhanced” product to the library and academic community. TCP does have an important role in noting that OCR text, though good for many things, cannot serve all purposes scholars need, and TCP should continue to argue for structured electronic text for at least a portion of the collection.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+In 2005 the TCP was thinking about themselves as competing with Google: “John Price-Wilkin, Associate University Librarian for Library Information Technology & Technical and Access Services, was a guest of the Board to talk about issues relating to the Google initiative and TCP’s role in promoting “enhanced” product to the library and academic community. TCP does have an important role in noting that OCR text, though good for many things, cannot serve all purposes scholars need, and TCP should continue to argue for structured electronic text for at least a portion of the collection.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
+
+The Project Gutenberg mission has always been focused on freely giving away things which were acknowledges to have financial value. After all, Hart’s goal was to “pay back” the $100,000,000 he had been given in computing time --- giving away ebooks would generate and give away this financial value. But even in seeking to “pay back” there is an impulse behind Project Gutenberg which exceeds \[capitalism\]. The explanatory documents of the project, when it became a major volunteer undertaking in the 1990s, read like a manifesto.
+
+“Encourage the Creation and Distribution of eBooks
+
+Help Break Down the Bars of Ignorance and Illiteracy
+
+Give As Many eBooks to As Many People As Possible” (History-Computer)
+
+
+
+“As Barbara Quint, editor of Searcher, said to me after reading some Gutenberg texts: "It struck me how noble, how wonderful, how great-spirited the people who made this all possible were. The time, the tedium, the labor it would take to render a book digital from a print copy." Further, she noted, "It's all a reminder of how much of what is the best on the Web and the Net comes from the kindness of strangers.”” (Hane)
 
 
 
