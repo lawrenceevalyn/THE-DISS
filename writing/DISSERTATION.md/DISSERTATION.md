@@ -411,7 +411,35 @@ It also brought to light the fact that Hart himself had the trademark for PG, ra
 
 
 
-### 2.1.4.  Hathi timeline history ###  
+### 2.1.4.  Hathi timeline history ###
+
+
+
+“The vast majority of those digitized books-around 95 percent, as of mid-2017- had originally been scanned as part of the Google Books project; the agreements that Google Books entered into with the libraries typically stipulated that Google had to provide the library with a digital copy of each book scanned from that library.” (Bauder)
+
+”HathiTrust was launched in 2008 by the 11 University of California libraries and the 12-university consortium known as the Committee on Institutional Cooperation (CIC), with key support provided by the University of Michigan and Indiana University.” (Karels) “As of today \[October 13, 2008\], HathiTrust contains more than 2 million volumes and approximately ¾ of a billion pages, about 16 percent of which are in the public domain. Public domain materials will be available for reading online. Materials protected by copyright, although not available for reading online, are given the full range of digital archiving services, thereby offering member libraries a reliable means to preserve their collections.” (HathiTrust, “Major Library Partners Launch HathiTrust Shared Digital Repository”)
+
+In 2010, just two years later, ”HathiTrust is now jointly owned and operated by 52 institutions from the U.S. and Europe, all focused on a common goal -- to build an extraordinary digital library that preserves and provides access to the cultural record. The new members to HathiTrust include the Library of Congress, Stanford University, Arizona State University, Massachusetts Institute of Technology, and University of Madrid, HathiTrust’s first international partner.” (Karels)
+
+”In October 2015, HathiTrust comprised over 13.7 million volumes, including 5.3 million of which were in the public domain in the United States.” (Wikipedia)
+
+
+
+“HathiTrust, as a co-managed and co-funded collaborative of academic and research libraries, relies on its members to govern its programmatic, financial, and strategic directions. Membership established the governance model in 2012 and comprises the following entities: 
+
+The Board of Governors
+
+The Program Steering Committee
+
+The governing bodies operate under the HathiTrust Bylaws. In addition to the formal governing bodies, multiple working, advisory, and task-based groups further enable member libraries to participate in and guide the direction of HathiTrust. As necessary, members vote on various policies or changes using the weighted voting system established in 2011.” (HathiTrust, “Governance”)
+
+
+
+“The budget of HathiTrust is a separately maintained budget held within the University of Michigan budget system and managed by the Executive Director with oversight from the Executive Committee. Some additional financial components of the operation are represented by commitments in kind by participating members. The University Library’s financial procedures are subject to audits by the University of Michigan Office of University Audits.” (HathiTrust, “Governance”)
+
+
+
+Wikipedia: “The partnership includes over 60 research libraries\[7\] across the United States, Canada, and Europe, and is based on a shared governance structure. Costs are shared by the participating libraries and library consortia.\[8\] The repository is administered by the University of Michigan.\[9\] The Executive Director of HathiTrust is Mike Furlough.\[10\] The HathiTrust Shared Print Program is a distributed collective collection whose participating libraries have committed to retaining almost 18 million monograph volumes for 25 years, representing three-quarters of HathiTrust digital book holdings.\[11\]”  
 
 To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
 
@@ -507,6 +535,8 @@ Commedia di Dante, in Italian
 
 2008	Project Gutenberg publishes its 25,000^th^ book, English Book Collectors, by William Younger Fletcher
 
+2008	HathiTrust founded, by 12-university Committee on Institutional Cooperation and 11-library University of California Libraries
+
 2009	EEBO-TCP Phase I complete: produced 25,000 books; beginning of Phase II
 
 2010	Project Gutenberg DVD released with 30,000 items
@@ -558,6 +588,16 @@ The 2003 meeting minutes concluded with the observation that “considering wher
 In the 2004 minutes: “Since the TCP has evolved from one project in cooperation with ProQuest to now three projects in cooperation with three different commercial publishers, it is useful to consider how the Board might adapt to accommodate the changing situation. ... The representatives of the three companies began the discussion by highlighting the things they would feel uncomfortable revealing in front of their competitors. These included pricing, their contributions to the TCP, and general marketing strategy. It was agreed that the Board should attempt to structure its meetings so that all members could be present and, if at some point there was a need to divulge sensitive information, the Board could hold an executive session in which that could be discussed.”  
 
 “Members of the Board also felt that TCP should complete an equity review of all of its employees to see what salaries are being offered from other universities and whether TCP’s salaries are in-line with what is being offered elsewhere. It was suggested that TCP might want to do a 10% raise across the board for all reviewing staff that remain with the project for five years.” (TCP Executive Board, Meeting Minutes 2005-10-20) In the next year, “Mark also reported on one item from the previous Board meeting, salary reviews. Maria and Shawn investigated the possibilities of raising salaries for TCP reviewers within the University of Michigan, and compared salaries at Michigan and Oxford. It was found that the salaries of the reviewers were comparable with expectations. Paul also reported that the reviewers who left had reasons other than salary (family issues, better opportunities within their field of study, etc.). Therefore, it was decided not to raise all reviewers salaries at once, but to continue doing merit increases that the University of Michigan does every year.” (TCP Executive Board, “Meeting Minutes 2006-09-16.”)  
+
+Wikipedia: “In September 2011, the Authors Guild sued HathiTrust (Authors Guild, Inc. v. HathiTrust), alleging massive copyright violation.\[12\] A federal court ruled against the Authors Guild in October 2012, finding that HathiTrust's use of books scanned by Google was fair use under US law.\[13\] The court's opinion relied on the transformativeness doctrine of federal copyright law, holding that the Trust had transformed the copyrighted works without infringing on the copyright holders' rights. That decision was largely affirmed by the Second Circuit on June 10, 2014, which found that providing search and accessibility for the visually impaired were grounds to consider the service transformative and fair use, and remanded to the lower court to reconsider whether the plaintiffs had standing to sue regarding HathiTrust's library preservation copies.\[14\]”
+
+See: <https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/54321-in-hathitrust-ruling-judge-says-google-scanning-is-fair-use.html>
+
+See: <https://www.hathitrust.org/authors_guild_google>
+
+
+
+The current copyright policy states that "Many works in our collection are protected by copyright law, so we cannot ordinarily publicly display large portions of those protected works unless we have permission from the copyright holder. Where we have the right to show page images of works, we will make every effort to do so. We are currently displaying works that are in the public domain (such as US works published before 1925), uncopyrightable works (such as works of the US government), or works where we have permission from the copyright holder. If we cannot determine the copyright or permission status of a work, we restrict access to that work until we can establish its status.” (HathiTrust, “Help - Copyright”)  
 
 In 2005 the TCP was thinking about themselves as competing with Google: “John Price-Wilkin, Associate University Librarian for Library Information Technology & Technical and Access Services, was a guest of the Board to talk about issues relating to the Google initiative and TCP’s role in promoting “enhanced” product to the library and academic community. TCP does have an important role in noting that OCR text, though good for many things, cannot serve all purposes scholars need, and TCP should continue to argue for structured electronic text for at least a portion of the collection.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
 
@@ -737,7 +777,17 @@ Although the ECCO-TCP now seems obviously built for text-mining distant reading,
 
 
 
-### 2.2.4.  Hathi model ###  
+### 2.2.4.  Hathi model ###
+
+
+
+Wikipedia: “PageTurner is the web application on the HathiTrust website for viewing publications.\[17\] From PageTurner readers can navigate through a publication, download a PDF version of it, and view pages in different ways, such as one page at a time, scrolling, flipping, or thumbnail views.\[17\]\[18\]”
+
+
+
+See: <https://www.hathitrust.org/technology>
+
+See: <https://search-proquest-com.myaccess.library.utoronto.ca/results/58AF728D91BD440DPQ/false?accountid=14771>  
 
 The structuring principle of Project Gutenberg is its missions to make books available for pleasure reading. I argue that its core concept, analogous to the “edition” in the ESTC, or the “book” in ECCO and HathiTrust, is the “story.” Many of the priorities of Project Gutenberg which seem incompatible with scholarly approaches to textual history are explained by thinking of Project Gutenberg as being structured around “stories” rather than “books.”
 
