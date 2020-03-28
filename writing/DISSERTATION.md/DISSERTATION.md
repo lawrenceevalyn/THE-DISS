@@ -407,7 +407,125 @@ Did this go anywhere?
 
 
 
-It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?
+It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?  
+
+“...one can certainly argue that the project is as old as Google itself. In 1996, Google co-founders Sergey Brin and Larry Page were graduate computer science students working on a research project supported by the Stanford Digital Library Technologies Project. Their goal was to make digital libraries work, and their big idea was as follows: in a future world in which vast collections of books are digitized, people would use a “web crawler” to index the books’ content and analyze the connections between them, determining any given book’s relevance and usefulness by tracking the number and quality of citations from other books. The crawler they wound up building was called BackRub, and it was this modern twist on traditional citation analysis that inspired Google’s PageRank algorithms -- the core search technology that makes Google, well, Google.” (“Google Books History”)
+
+
+
+2002: “A small group of Googlers officially launches the secret “books” project. They begin talking to experts about the challenges ahead, starting with a simple but crucial question: how long would it take to digitally scan every book in the world? It turns out, oddly enough, that no one knows. In typical Google fashion, Larry Page decides to experiment on his own. In the office one day, he and Marissa Mayer, one of our first product managers, use a metronome to keep rhythm as they methodically turn the pages of a 300-page volume. It takes a full 40 minutes to reach the end. Inspired by the extraordinary digitization projects underway all around the world -- the Library of Congress’s American Memory project, Project Gutenberg, the Million Book Project and the Universal Library, to name only a few -- the team embarks on a series of site visits to learn about how they work. As part of this fact-finding mission, Larry Page reaches out to the University of Michigan, his alma mater and a pioneer in library digitization efforts including JSTOR and Making of America. When he learns that the current estimate for scanning the university library’s seven million volumes is 1,000 years, he tells university president Mary Sue Coleman he believes Google can help make it happen in six.” (“Google Books History,” 2016)
+
+
+
+2003: The team works to develop a high-speed scanning process --- “A team member travels to a charity book fair in Phoenix, Arizona, to acquire books for testing non-destructive scanning techniques. After countless rounds of experimentation, the team develops a scanning method that’s much gentler than current common high-speed processes. ... At the same time, the team’s software engineers make progress toward resolving the tricky technical issues they encounter processing information from books that contain odd type sizes, unusual fonts or other unexpected peculiarities -- in 430 different languages.” (“Google Books History,” 2016)
+
+
+
+2004: formal partnership with Bodleian library “to digitize the library’s incomparable collection of more than one million 19th-century public domain books within three years.” (“Google Books History,” 2016)
+
+“In October, Larry and Sergey announce “Google Print” at the Frankfurt Book Fair in Germany. The first publishers to join the program: Blackwell, Cambridge University Press, the University of Chicago Press, Houghton Mifflin, Hyperion, McGraw-Hill, Oxford University Press, Pearson, Penguin, Perseus, Princeton University Press, Springer, Taylor & Francis, Thomson Delmar and Warner Books. In December, we announce the beginning of the “Google Print” Library Project, made possible by partnerships with Harvard, the University of Michigan, the New York Public Library, Oxford and Stanford. The combined collections at these extraordinary libraries are estimated to exceed 15 million volumes.” (“Google Books History,” 2016)
+
+
+
+“Every weekday, semi trucks full of books would pull up at designated Google scanning centers. ... The books were unloaded from the trucks onto the kind of carts you find in libraries and wheeled up to human operators sitting at one of a few dozen brightly lit scanning stations, arranged in rows about six to eight feet apart. ... Each one could digitize books at a rate of 1,000 pages per hour. The book would lie in a specially designed motorized cradle that would adjust to the spine, locking it in place. Above, there was an array of lights and at least $1,000 worth of optics, including four cameras, two pointed at each half of the book, and a range-finding LIDAR that overlaid a three-dimensional laser grid on the book’s surface to capture the curvature of the paper. ... What made the system so efficient is that it left so much of the work to software. Rather than make sure that each page was aligned perfectly, and flattened, before taking a photo, which was a major source of delays in traditional book-scanning systems, cruder images of curved pages were fed to de-warping algorithms, which used the LIDAR data along with some clever mathematics to artificially bend the text back into straight lines. At its peak, the project involved about 50 full-time software engineers.” (Somers)
+
+
+
+2005: “In keeping with our mission to organize the world’s information and make it universally accessible and useful, we donate $3 million to the Library of Congress to help build the World Digital Library, which will provide online access to a collection of rare and unique items from all around the world. We also extend our pilot scanning program with the Library, which includes digitizing works of historical value from the Library of Congress Law Library. Google renames “Google Print” Google Books, which more accurately reflects how people use it. The team also responds to the controversy over the Library Project by engaging in public debate about its underlying principles.” (“Google Books History,” 2016)
+
+Public debate: <https://web.archive.org/web/20160204071159/https://googleblog.blogspot.com/2005/10/point-of-google-print.html>
+
+
+
+2006: “We launch a series of product enhancements to make Book Search more useful and easier to use. First, we expand access to the public domain works we’ve scanned by adding a download a PDF button to all out-of-copyright books. A few months later, we release a new browsing interface that makes it easier to browse and navigate Book Search. The new interface is also accompanied by new About this Book pages which use Google algorithms to populate pages with rich related content on a book -- initially, related books, selected pages and references from scholarly works. In the fall, four new libraries join the Library Project: the University of California, University Complutense of Madrid, the University of Wisconsin- Madison and the University of Virginia.” (“Google Books History,” 2016)
+
+
+
+2007: “Using the new UI as a launching point, we experiment with new ways for people to interact with books.
+
+Places in this Book: A mashup with Maps lets people browse books by locations mentioned in the text (later, we release an experimental KML layer for Google Earth that does the reverse -- the user picks a location, and we map books to it).
+
+Popular Passages: We create a new way to navigate between books, tracking the use of a single passage through a collection of books.
+
+My Library: We help people harness the power of Google search within their own personal book collections. Users begin to curate and share their personal libraries, reviews and ratings with others.
+
+New homepage (initially US only): We give people more jumping off points for exploring the books in our index.
+
+... we add a “View plain text” link to all out-of-copyright books. T.V. Raman explains how this opens the book to adaptive technologies such as screen readers and Braille display” (“Google Books History,” 2016)
+
+“By December, the Book Search interface is available in over 35 languages, from Japanese to Czech to Finnish.  Over 10,000 publishers and authors from 100+ countries are participating in the Book Search Partner Program.” (“Google Books History,” 2016)
+
+“In May, the Cantonal and University Library of Lausanne, and Ghent University Library join the Book Search program, adding a substantial amount of books in French, German, Flemish, Latin and other languages, and bringing the total number of European libraries partners to six. ...  Over 10,000 publishers and authors from 100+ countries are participating in the Book Search Partner Program.  The Library Project expands to 28 partners, including seven international library partners: Oxford University (UK), University of Complutense of Madrid (Spain), the National Library of Catalonia (Spain), University Library of Lausanne (Switzerland), Ghent University (Belgium) and Keio University (Japan).”(“Google Books History,” 2016)
+
+
+
+2008, the year when Google 
+
+
+
+The “Google Books History” page ends with 2007, with the final words of “As we look to the year ahead, we continue to develop our technology and expand our partnerships with publishers and libraries all around the world. Stay tuned...” but the page spent more than a decade with no further updates. Some time between August 2019 and March 2020, the page was edited so that it no longer had a year-by-year breakdown of milestones. Now, after briefly telling the anecdote about the 1996 origin of Google Books, the “history” says ”Fast forward to today:
+
+After more than a decade of evolution, innovation and strong partnerships, Google Books has helped to make more than 40 million books discoverable, in more than 400 languages.
+
+And we're not done -- not until all of the books in the world can be found by everyone, everywhere, at any time they need them.” (“Google Books History,” 2020)
+
+
+
+2008, the year that Google stops being quite so proud of the rapid progress of Google Books, is also the year that they begin to face legal repercussions for their “scan first and ask questions later” approach to mass digitization. Somers has characterized this process as equivalent to the burning of the library of Alexandria: “When the most significant humanities project of our time was dismantled in court, the scholars, archivists, and librarians who’d had a hand in its undoing breathed a sigh of relief, for they believed, at the time, that they had narrowly averted disaster” (Somers).
+
+
+
+Wikipedia: “May 2008: Microsoft tapered off and planned to end its scanning project, which had reached 750,000 books and 80 million journal articles.\[92\]
+
+Wikipedia: “October 2008: A settlement was reached between the publishing industry and Google after two years of negotiation. Google agreed to compensate authors and publishers in exchange for the right to make millions of books available to the public.\[9\]\[93\]
+
+Wikipedia: “November 2008: Google reached the 7 million book mark for items scanned by Google and by their publishing partners. 1 million were in full preview mode and 1 million were fully viewable and downloadable public domain works. About five million were out of print.\[18\]\[94\]\[95\]
+
+Wikipedia: “December 2008: Google announced the inclusion of magazines in Google Books. Titles include New York Magazine, Ebony, and Popular Mechanics\[96\]\[97\]
+
+Wikipedia: “February 2009: Google launched a mobile version of Google Book Search, allowing iPhone and Android phone users to read over 1.5 million public domain works in the US (and over 500,000 outside the US) using a mobile browser. Instead of page images, the plain text of the book is displayed.\[98\]
+
+Wikipedia: “May 2009: At the annual BookExpo convention in New York, Google signaled its intent to introduce a program that would enable publishers to sell digital versions of their newest books direct to consumers through Google.\[99\]
+
+Wikipedia: “December 2009: A French court shut down the scanning of copyrighted books published in France, saying this violated copyright laws. It was the first major legal loss for the scanning project.\[100\]
+
+Wikipedia: “April 2010: Visual artists were not included in the previous lawsuit and settlement, are the plaintiff groups in another lawsuit, and say they intend to bring more than just Google Books under scrutiny. "The new class action," read the statement, "goes beyond Google's Library Project, and includes Google's other systematic and pervasive infringements of the rights of photographers, illustrators and other visual artists."\[101\]
+
+Wikipedia: “May 2010: It was reported that Google would launch a digital book store called Google Editions.\[102\] It would compete with Amazon, Barnes & Noble, Apple and other electronic book retailers with its own e-book store. Unlike others, Google Editions would be completely online and would not require a specific device (such as kindle, Nook, or iPad).
+
+Wikipedia: “June 2010: Google passed 12 million books scanned.\[12\]
+
+Wikipedia: “August 2010: It was announced that Google intends to scan all known existing 129,864,880 books within a decade, amounting to over 4 billion digital pages and 2 trillion words in total.\[12\]
+
+Wikipedia: “December 2010: Google eBooks (Google Editions) was launched in the US.\[103\]
+
+Wikipedia: “December 2010: Google launched the Ngram Viewer, which collects and graphs data on word usage across its book collection.\[31\]
+
+Wikipedia: “March 2011: A federal judge rejected the settlement reached between the publishing industry and Google.\[104\]
+
+
+
+“At a time when the rest of Google was obsessed with making apps more “social”---Google Plus was released in 2011---Books was seen by those who worked on it as one of those projects from the old era, like Search itself, that made good on the company’s mission “to organize the world’s information and make it universally accessible and useful.” It was the first project that Google ever called a “moonshot.”” (Somers)
+
+
+
+Wikipedia: “March 2012: Google passed 20 million books scanned.\[105\]\[106\]
+
+Wikipedia: “March 2012: Google reached a settlement with publishers.\[107\]
+
+Wikipedia: “November 2013: Ruling in Authors Guild v. Google, US District Judge Denny Chin sides with Google, citing fair use.\[109\] The authors said they would appeal.\[110\]
+
+Wikipedia: “October 2015: The appeals court sided with Google, declaring that Google did not violate copyright law.\[111\] According to the New York Times, Google has scanned more than 25 million books.\[10\]
+
+Wikipedia: “April 2016: The US Supreme Court declined to hear the Authors Guild's appeal, which means the lower court's decision stood, and Google would be allowed to scan library books and display snippets in search results without violating the law.\[112\]” (Wikipedia)
+
+
+
+Wikipedia: “As of October 2015, the number of scanned book titles was over 25 million, but the scanning process has slowed down in American academic libraries.\[10\]\[11\] As of October 2019, Google celebrated 15 years of Google Books and provided the number of scanned books as more than 40 million titles.\[14\]”
+
+
+
+Wikipedia: “Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project -- initially stacks of books were entirely taken up for scanning whereas now Google only needed to consider the ones that have not been scanned already.\[49\] The company's own Google Books history page ends in 2007, and the Google Books blog was merged into the Google Search blog in 2012.\[113\] Despite winning the decade-long litigation in 2017, The Atlantic has said that Google has "all but shut down its scanning operation."\[20\] In April 2017, Wired reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.\[113\]”
 
 
 
@@ -416,6 +534,8 @@ It also brought to light the fact that Hart himself had the trademark for PG, ra
 
 
 “The vast majority of those digitized books-around 95 percent, as of mid-2017- had originally been scanned as part of the Google Books project; the agreements that Google Books entered into with the libraries typically stipulated that Google had to provide the library with a digital copy of each book scanned from that library.” (Bauder)
+
+“When Google partnered with university libraries to scan their collections, it had agreed to give them each a copy of the scanning data, and in 2008 the HathiTrust began organizing and sharing those files. (It had to fend off the Authors Guild in court, too.) HathiTrust has 125 member organizations and institutions who “believe that we can better stewardresearch and cultural heritage by working together than alone or by leaving it to an organization like Google,” says Mike Furlough, the trust’s director.” (Van Helden)
 
 ”HathiTrust was launched in 2008 by the 11 University of California libraries and the 12-university consortium known as the Committee on Institutional Cooperation (CIC), with key support provided by the University of Michigan and Indiana University.” (Karels) “As of today \[October 13, 2008\], HathiTrust contains more than 2 million volumes and approximately ¾ of a billion pages, about 16 percent of which are in the public domain. Public domain materials will be available for reading online. Materials protected by copyright, although not available for reading online, are given the full range of digital archiving services, thereby offering member libraries a reliable means to preserve their collections.” (HathiTrust, “Major Library Partners Launch HathiTrust Shared Digital Repository”)
 
@@ -525,6 +645,8 @@ Commedia di Dante, in Italian
 
 2003	Beginning of ECCO: Thomson Gale (now Gale Cengage Learning) made digital copies of Eighteenth Century Collection microfilms available to subscribers online
 
+2004	Google Print is announced
+
 2005	TCP begins encoding ECCO texts
 
 2006	ESTC made available to search free online; ESTC begins transcribing full title and imprints
@@ -597,9 +719,41 @@ See: <https://www.hathitrust.org/authors_guild_google>
 
 
 
-The current copyright policy states that "Many works in our collection are protected by copyright law, so we cannot ordinarily publicly display large portions of those protected works unless we have permission from the copyright holder. Where we have the right to show page images of works, we will make every effort to do so. We are currently displaying works that are in the public domain (such as US works published before 1925), uncopyrightable works (such as works of the US government), or works where we have permission from the copyright holder. If we cannot determine the copyright or permission status of a work, we restrict access to that work until we can establish its status.” (HathiTrust, “Help - Copyright”)  
+The current copyright policy states that "Many works in our collection are protected by copyright law, so we cannot ordinarily publicly display large portions of those protected works unless we have permission from the copyright holder. Where we have the right to show page images of works, we will make every effort to do so. We are currently displaying works that are in the public domain (such as US works published before 1925), uncopyrightable works (such as works of the US government), or works where we have permission from the copyright holder. If we cannot determine the copyright or permission status of a work, we restrict access to that work until we can establish its status.” (HathiTrust, “Help - Copyright”)
 
-In 2005 the TCP was thinking about themselves as competing with Google: “John Price-Wilkin, Associate University Librarian for Library Information Technology & Technical and Access Services, was a guest of the Board to talk about issues relating to the Google initiative and TCP’s role in promoting “enhanced” product to the library and academic community. TCP does have an important role in noting that OCR text, though good for many things, cannot serve all purposes scholars need, and TCP should continue to argue for structured electronic text for at least a portion of the collection.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
+
+
+  
+
+In 2005 the TCP was thinking about themselves as competing with Google: “John Price-Wilkin, Associate University Librarian for Library Information Technology & Technical and Access Services, was a guest of the Board to talk about issues relating to the Google initiative and TCP’s role in promoting “enhanced” product to the library and academic community. TCP does have an important role in noting that OCR text, though good for many things, cannot serve all purposes scholars need, and TCP should continue to argue for structured electronic text for at least a portion of the collection.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+
+
+
+”When the library at Alexandria burned it was said to be an “international catastrophe.” When the most significant humanities project of our time was dismantled in court, the scholars, archivists, and librarians who’d had a hand in its undoing breathed a sigh of relief, for they believed, at the time, that they had narrowly averted disaster.” (Somers)
+
+
+
+“He offered the library a deal: You let us borrow all your books, he said, and we’ll scan them for you. You’ll end up with a digital copy of every volume in your collection, and Google will end up with access to one of the great untapped troves of data left in the world. Brin put Google’s lust for library books this way: “You have thousands of years of human knowledge, and probably the highest-quality knowledge is captured in books.” What if you could feed all the knowledge that’s locked up on paper to a search engine?
+
+By 2004, Google had started scanning. In just over a decade, after making deals with Michigan, Harvard, Stanford, Oxford, the New York Public Library, and dozens of other library systems, the company, outpacing Page’s prediction, had scanned about 25 million books. It cost them an estimated $400 million. It was a feat not just of technology but of logistics.” (Somers)
+
+
+
+“The human operator would turn pages by hand---no machine could be as quick and gentle” (Somers)
+
+
+
+“It was the first project that Google ever called a “moonshot.” Before the self-driving car and Project Loon---their effort to deliver Internet to Africa via high-altitude balloons---it was the idea of digitizing books that struck the outside world as a wide-eyed dream. Even some Googlers themselves thought of the project as a boondoggle. “There were certainly lots of folks at Google that while we were doing Google Book Search were like, Why are we spending all this money on this project?,” Clancy said to me. “Once Google started being a little more conscious about how it was spending money, it was like, wait, you have $40 million a year, $50 million a year on the cost of scanning? It’s gonna cost us $300 to $400 million before we’re done? What are you thinking? But Larry and Sergey were big supporters.”” (Somers)
+
+
+
+“Out-of-print books, almost by definition, were commercial dead weight. If Google, through mass digitization, could make a new market for them, that would be a real victory for authors and publishers. “We realized there was an opportunity to do something extraordinary for readers and academics in this country,” Richard Sarnoff, who was then Chairman of the American Association of Publishers, said at the time. “We realized that we could light up the out-of-print backlist of this industry for two things: discovery and consumption.” But once you had that goal in mind, the lawsuit itself---which was about whether Google could keep scanning and displaying snippets---began to seem small time. Suppose the Authors Guild won: they were unlikely to recoup anything more than the statutory minimum in damages; and what good would it do to stop Google from providing snippets of old books? If anything those snippets might drive demand. And suppose Google won: Authors and publishers would get nothing, and all readers would get for out-of-print books would be snippets---not access to full texts. The plaintiffs, in other words, had gotten themselves into a pretty unusual situation. They didn’t want to lose their own lawsuit---but they didn’t want to win it either.” (Somers)
+
+But the ambitious class-action settlement was nixed by the Department of Justice, so Google wouldn’t have a monopoly. “No one is quite sure why the DOJ decided to take a stand instead of remaining neutral. Dan Clancy, the Google engineering lead on the project who helped design the settlement, thinks that it was a particular brand of objector---not Google’s competitors but “sympathetic entities” you’d think would be in favor of it, like library enthusiasts, academic authors, and so on---that ultimately flipped the DOJ. “I don’t know how the settlement would have transpired if those naysayers hadn’t been so vocal,” he told me. “It’s not clear to me that if the libraries and the Bob Darntons and the Pam Samuelsons of the world hadn’t been so active that the Justice Department ever would have become involved, because it just would have been Amazon and Microsoft bitching about Google. Which is like yeah, tell me something new.”” (Somers)
+
+““This is not important enough for the Congress to somehow adjust copyright law,” Clancy said. “It’s not going to get anyone elected. It’s not going to create a whole bunch of jobs.” It’s no coincidence that a class action against Google turned out to be perhaps the only plausible venue for this kind of reform: Google was the only one with the initiative, and the money, to make it happen. “If you want to look at this in a raw way,” Allan Adler, in-house counsel for the publishers, said to me, “a deep pocketed, private corporate actor was going to foot the bill for something that everyone wanted to see.” Google poured resources into the project, not just to scan the books but to dig up and digitize old copyright records, to negotiate with authors and publishers, to foot the bill for a Books Rights Registry. Years later, the Copyright Office has gotten nowhere with a proposal that re-treads much the same ground, but whose every component would have to be funded with Congressional appropriations.”(Somers)
+
+  
 
 The Project Gutenberg mission has always been focused on freely giving away things which were acknowledges to have financial value. After all, Hart’s goal was to “pay back” the $100,000,000 he had been given in computing time --- giving away ebooks would generate and give away this financial value. But even in seeking to “pay back” there is an impulse behind Project Gutenberg which exceeds \[capitalism\]. The explanatory documents of the project, when it became a major volunteer undertaking in the 1990s, read like a manifesto.
 
@@ -805,7 +959,11 @@ Google Books prioritizes low-quality information over *no* information. The algo
 
 
 
-Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.  
+Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE metadata provided by partners with their algorithmic information!! They could very easily *not*.
+
+
+
+“At its peak, the project involved about 50 full-time software engineers. They developed optical character-recognition software for turning raw images into text; they wrote de-warping and color-correction and contrast-adjustment routines to make the images easier to process; they developed algorithms to detect illustrations and diagrams in books, to extract page numbers, to turn footnotes into real citations, and, per Brin and Page’s early research, to rank books by relevance. “Books are not part of a network,” Dan Clancy, who was the engineering director on the project during its heyday, has said. “There is a huge research challenge, to understand the relationship between books.”” (Somers)  
 
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
