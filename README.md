@@ -4,6 +4,11 @@ See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
 
 # Thesis Map
 
+1. Ch 1: intro - 2nd draft
+2. Ch 2: database histories, CSmith - 2nd draft
+3. Ch 3: gender-finder.py - researching
+4. Ch 4: random sampling - not begun
+
 # Writing Principles
 * Don't be precious about preserving previous drafts. Cannibalize them and move on. It's okay for things to be left behind. (Git has my historical record.)
 * Remember that I'm not trying to write to undergrads.
@@ -24,6 +29,10 @@ load csv in OpenRefine
 non-MARC version: 1789|179[0123456789]
 
 # Research Log
+
+## March 27, 2020
+
+All of this work is basically happening with Trello for planning now... but I've finished a second draft of chapter 2, which isn't ready for committee eyes but has the raw materials I need. While I let that mull over in the back of my mind, I'll do a third draft of the introduction, in preparation for a committee meeting. And the first draft of chapter 3 is due September 1.
 
 ## February 17, 2020
 
