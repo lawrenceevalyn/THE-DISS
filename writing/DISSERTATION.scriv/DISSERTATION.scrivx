@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-04-03 20:42:16 -0400" ModID="6772D245-4B24-4309-A1A6-89E3E4306D9B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-04-07 23:55:14 -0400" ModID="94AEEC4E-545F-4A23-B28C-695BB04992AA">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -36,24 +36,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>266,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="32718B61-6DD1-4A61-87C6-9FEB2FF38888" Type="Text" Created="2020-01-16 16:39:40 -0500" Modified="2020-03-08 18:51:24 -0400">
-                    <Title>NASSR 2020 - “Visualizing the Print Mediascape of the 1790s”</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>80,48</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="45FA28DA-7474-4471-ADD7-DE6BB95038FC" Type="Text" Created="2020-01-16 16:39:47 -0500" Modified="2020-03-17 14:57:16 -0400">
-                    <Title>CSECS 2020 - “Playing With the Truth: The Artfully Dishonest Narrator of Tom Jones.”</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>687,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="0F784CFF-D957-44DD-84CB-92525961B2F6" Type="Text" Created="2020-01-16 16:39:53 -0500" Modified="2020-03-08 18:56:11 -0400">
@@ -3282,7 +3264,7 @@ By Samuel Halkett, John Laing, James Kennedy, Dennis E. Rhodes, Anna E. C. Simon
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>553,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="134CC259-2CD7-4FCA-A166-C69AB528EEA9" Type="Text" Created="2018-09-04 18:39:47 -0400" Modified="2018-11-07 19:04:21 -0500">
@@ -11318,6 +11300,24 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         <TextSelection>79,63</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="32718B61-6DD1-4A61-87C6-9FEB2FF38888" Type="Text" Created="2020-01-16 16:39:40 -0500" Modified="2020-03-08 18:51:24 -0400">
+                    <Title>NASSR 2020 - “Visualizing the Print Mediascape of the 1790s”</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>80,48</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="45FA28DA-7474-4471-ADD7-DE6BB95038FC" Type="Text" Created="2020-01-16 16:39:47 -0500" Modified="2020-04-07 23:55:14 -0400">
+                    <Title>CSECS 2020 - “Playing With the Truth: The Artfully Dishonest Narrator of Tom Jones.”</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -11376,13 +11376,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="42" Characters="252" Date="2020-04-03 20:12:25 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2020-04-07 23:54:54 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-04-03 00:00:00 -0400">
-        <DraftWordCount>42</DraftWordCount>
-        <DraftCharCount>252</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2020-04-07 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>-209</OtherWordCount>
+        <OtherCharCount>-1427</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
