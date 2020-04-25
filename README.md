@@ -6,7 +6,7 @@ See [this trello board](https://trello.com/b/iGs9uQn6/dissertation) for details.
 
 1. Ch 1: intro - starting 3rd draft
 2. Ch 2: database histories, CSmith - 2nd draft
-3. Ch 3: gender-finder.py - researching
+3. Ch 3: gender-finder.py - researching, 1st draft due Sept 1
 4. Ch 4: random sampling - not begun
 
 # Writing Principles

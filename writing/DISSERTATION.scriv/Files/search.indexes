@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
-            <Title>Women's Writing Online</Title>
+        <Document ID="27F96EBE-76AE-49F0-9178-D9D7C5CB795C">
+            <Title>McCarty, Willard. “Knowing: Modeling in Literary Studies</Title>
+            <Text>McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web. 
+McCarty’s detailed consideration of models, which explores the implications of the maxim that “all models are wrong; some models are useful,” informs my understanding of the relationship between computational literary research and the mental modelling inherent to ‘analog’ literary research. </Text>
         </Document>
-        <Document ID="694A529A-BEAF-4647-B2A2-06BB253B494C">
-            <Title>donoghue's lesbian history</Title>
-            <Text>me Which is -- a totally different way of responding to the flaws and insufficiencies of a text, and one that has intense appeal to me
-hbbo reminds me of several chapters of that lesbian history by emma donoghue [Passions Between Women] I was reading a month or so ago
-me oh! tell me more!
-hbbo she talks a lot about how, like
-hbbo the fact that a text that represents or misrepresents woman-woman desire, in a lot of ways, fundamentally hostile to that desire or AT THE VERY LEAST extremely ill-informed about it, doesn't mean that historical same-sex-attracted women didn't gain value from those texts, even if that value required different kinds of readings than intended
-me ohhh, yeah! yeah, that's a perfect example, I think</Text>
+        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
+            <Title>ECCO MARC records</Title>
+            <Text>001 stores ESTC number, though without leading numbers
+i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
+
+260 c stores publication year
+i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
         </Document>
         <Document ID="AEB02B06-7A44-47E1-91B9-8BEFC9CFBA38">
             <Title>contents</Title>
@@ -8290,7 +8291,22 @@ Problem with snapshots of contemporary digital objects: “no matter how detaile
 “But there is—and there is only—the capacity to represent the effects of engagements with particular digital collections at particular times. Herein lies the fundamental importance of data publication for data-rich literary history: in expressing a materiality that no longer exists in any other form, it offers the only possible basis for conversation on shared premises. It is not enough to point to the mass-digitized collection or bibliographical database from which data were derived. The constitutive features of that entity have almost certainly altered. And even if the digital collection has not expanded (or contracted), data-rich literary history does not analyze the collection itself. It explores the effects of scholarly engagement with and interpretation of it.” (Bode 50)
 
 “Of the data-rich literary history projects discussed in this chapter, Underwood and Sellers’s work on changing standards of literary prestigePage 51 → most consistently enacts the curatorial elements present elsewhere in digital humanities, not least in terms of data publication. As the authors explain in an online working paper on the project, its most time-consuming element was not training their supervised model but constructing their dataset: identifying the different subgenres—poetry, prose, fiction, and drama—present in HathiTrust (“How,” 6). As well as publishing the datasets and code used in their article (“Code”), in collaboration with HathiTrust Underwood takes the major, additional step of releasing the outcome of analysis of that mass-digitized collection for others to use. This takes the form of “word counts for 101,948 volumes of fiction, 58,724 volumes of poetry, and 17,709 volumes of drama” published from 1700 to 1922, as well as yearly summaries of word frequencies for each genre. Underwood refers to this dataset as a “collection” to differentiate it from a “corpus” because “I don’t necessarily recommend that you use the whole thing, as is. The whole thing may or may not represent the sample you need for your research question” (“Dataset” np).
-Signifying growing recognition of the importance of data publication, the Underwood/HathiTrust collection is an important undertaking for data-rich literary history in at least two ways. In presenting a dataset designed for literary history, it offers a shared foundation for research. Working with it, researchers can ask a range of questions based on a reliable, standardized dataset and engage with each other’s arguments in terms not only of results produced but of data investigated. In characterizing that collection as the holdings of “American university and public libraries, insofar as they were digitized in the year 2012 (when the project began), Underwood also frames a major mass-digitized collection—HathiTrust—in terms of its history of transmission (“Dataset” np). However general this framing, Underwood thus explicitly associates the dataset he publishes with a sequence of production and reception that profoundly affects its capacity to support historical analysis. In their article, Underwood and Sellers acknowledge that this history of transmission shapes their findings, noting that their model “makes more accurate” predictions for American poetry collections because HathiTrust “mainly aggregates the collections of large American libraries” (“Longue” 338).” (Bode 50-51)</Text>
+Signifying growing recognition of the importance of data publication, the Underwood/HathiTrust collection is an important undertaking for data-rich literary history in at least two ways. In presenting a dataset designed for literary history, it offers a shared foundation for research. Working with it, researchers can ask a range of questions based on a reliable, standardized dataset and engage with each other’s arguments in terms not only of results produced but of data investigated. In characterizing that collection as the holdings of “American university and public libraries, insofar as they were digitized in the year 2012 (when the project began), Underwood also frames a major mass-digitized collection—HathiTrust—in terms of its history of transmission (“Dataset” np). However general this framing, Underwood thus explicitly associates the dataset he publishes with a sequence of production and reception that profoundly affects its capacity to support historical analysis. In their article, Underwood and Sellers acknowledge that this history of transmission shapes their findings, noting that their model “makes more accurate” predictions for American poetry collections because HathiTrust “mainly aggregates the collections of large American libraries” (“Longue” 338).” (Bode 50-51)
+
+“The challenge facing data-rich literary history—of proposing a historically coherent whole (a literary system) from a collection or collections of parts (the disciplinary infrastructure and the digitized documents and literary data it transmits)—suggests the strategy for meeting it. The scholarly edition has long offered both a theoretical basis and a practical technology for demonstrating and managing the documentary record’s partiality. Applied to the literary system rather than the literary work, the scholarly edition provides a framework for investigating the history of transmission constitutive of the literary system modeled, justifying the selections and decisions made in that analysis, and publishing the outcomes.” (Bode 52)
+“The critical apparatus describes and justifies the editor’s engagement with the documentary record constitutive of the literary work, including the inevitable gaps and uncertainties that engagement exposes and creates. The curated text represents the outcome of that extended critical encounter, offering to those who accept its tenets—or who lack the expertise to engage with the documentary record in that manner—both an argument about the nature of the literary work and a foundation for analysis of that work.” (Bode 53)
+“Much more than simply describing the construction of a dataset—something already offered by many data-rich literary history projects—this critical apparatus elaborates the complex relationships between the historical context explored, the disciplinary infrastructure employed in investigating that context, the decisions and selections implicated in creating and remediating the collection or collections, and the transformations wrought by the editor’s extraction, construction, and analysis of that data.” (Bode 53)
+
+“A curated dataset replaces the curated text for a scholarly edition of a literary system. In the form of bibliographical and textual data, it manifests—demonstrates and, specifically, publishes—the outcome of the sequence of production and reception, including the current moment of interpretation, described in the critical apparatus.” (Bode 53)
+“The model it provides is stable: it is published and accessible for all to use, whether for conventional or computational literary history. But that stability does not belie or extinguish its hypothetical character. … Its suitability and reliability for literary-historical research is established by a relationship between the historical phenomena and the data model that is explicitly interpretive and contingent rather than supposedly direct or natural.” (Bode 53)
+
+“First, and most basically, where the latter is usable only by those with programming expertise, or access to it, a scholarly edition of a literary system should be accessible to all literary scholars through an interface for searching, browsing, and exporting the curated dataset.
+Second, while the Underwood/HathiTrust collection is presented as raw data from which researchers can construct a sample, a scholarly edition of a literary system explicitly embodies an argument about historical relationships between literary works in a set time and place, at the same time as it offers a sample of literary works for analysis.” (Bode 54)
+
+She publishes in two modes — data held by her institution, long-term storage but not very usable except by those who can code. And an interactive database, more usable but perhaps of a shorter lifespan.
+
+“what could and I think should be a key contribution of data-rich literary history to the broader discipline: an expanded bibliographical record” (Bode 56)
+</Text>
         </Document>
         <Document ID="B0BB20F8-3423-4CE9-A9B6-C0F8D0C107B6">
             <Title>overview</Title>
@@ -9237,6 +9253,9 @@ p.131: Cultural Capital argues forcefully—and in my view convincingly—that t
 p.131: Regardless of race or gender, that is,"[t]hose who have never been taught, or have been very inadequately taught, the practice of reading have little occasion to rejoice at being 'represented’ in the canon” (38)
 P.132: More important, perhaps, it reveals the difficulty anyone faces who imagines the dismantling of a system in which he or she holds a position of privilege.</Text>
         </Document>
+        <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
+            <Title>Women's Writing Online</Title>
+        </Document>
         <Document ID="98A142C7-E513-4BFB-BF20-B1B8169F4E94">
             <Title>Garside &amp; Raven</Title>
         </Document>
@@ -9256,18 +9275,14 @@ Gale proudly declares that “this collection contains every significant English
             <Title>I'm reading a lot of disreputable stuff</Title>
             <Text>My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro &amp; Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.</Text>
         </Document>
-        <Document ID="27F96EBE-76AE-49F0-9178-D9D7C5CB795C">
-            <Title>McCarty, Willard. “Knowing: Modeling in Literary Studies</Title>
-            <Text>McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, ed. Susan Schreibman and Ray Siemens. Oxford: Blackwell, 2008. Web. 
-McCarty’s detailed consideration of models, which explores the implications of the maxim that “all models are wrong; some models are useful,” informs my understanding of the relationship between computational literary research and the mental modelling inherent to ‘analog’ literary research. </Text>
-        </Document>
-        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
-            <Title>ECCO MARC records</Title>
-            <Text>001 stores ESTC number, though without leading numbers
-i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
-
-260 c stores publication year
-i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
+        <Document ID="694A529A-BEAF-4647-B2A2-06BB253B494C">
+            <Title>donoghue's lesbian history</Title>
+            <Text>me Which is -- a totally different way of responding to the flaws and insufficiencies of a text, and one that has intense appeal to me
+hbbo reminds me of several chapters of that lesbian history by emma donoghue [Passions Between Women] I was reading a month or so ago
+me oh! tell me more!
+hbbo she talks a lot about how, like
+hbbo the fact that a text that represents or misrepresents woman-woman desire, in a lot of ways, fundamentally hostile to that desire or AT THE VERY LEAST extremely ill-informed about it, doesn't mean that historical same-sex-attracted women didn't gain value from those texts, even if that value required different kinds of readings than intended
+me ohhh, yeah! yeah, that's a perfect example, I think</Text>
         </Document>
     </Documents>
 </SearchIndexes>
