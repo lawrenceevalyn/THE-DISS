@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-04-27 23:33:42 -0400" ModID="8BEEB084-3185-4B06-AA75-763ED124D1D7">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-04-28 23:34:35 -0400" ModID="9538861B-4C60-4359-BE0F-915AA0AF4775">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -236,7 +236,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>720,0</TextSelection>
+                                        <TextSelection>944,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="29A1F8E5-1041-48F9-A7F0-D40BD5AFEE82" Type="Text" Created="2019-03-11 18:48:36 -0400" Modified="2019-11-21 18:15:48 -0500">
@@ -337,10 +337,10 @@
                                         <TextSelection>1666,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="937AFD75-8D1F-42BE-8755-C2C3AB431FE7" Type="Text" Created="2019-02-09 22:08:35 -0500" Modified="2019-11-21 18:15:48 -0500">
+                                <BinderItem UUID="937AFD75-8D1F-42BE-8755-C2C3AB431FE7" Type="Text" Created="2019-02-09 22:08:35 -0500" Modified="2020-04-28 23:24:35 -0400">
                                     <Title>fruitful models</Title>
                                     <MetaData>
-                                        <LabelID>11</LabelID>
+                                        <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -360,7 +360,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F9A1429E-36E1-4777-A604-7E9B198508F9" Type="Text" Created="2019-11-21 17:30:10 -0500" Modified="2019-11-21 18:15:48 -0500">
+                                <BinderItem UUID="F9A1429E-36E1-4777-A604-7E9B198508F9" Type="Text" Created="2019-11-21 17:30:10 -0500" Modified="2020-04-28 23:34:35 -0400">
                                     <Title>1790s</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
@@ -483,14 +483,14 @@
                                                 <TextSelection>1498,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="25656C2F-E55A-437F-9BE7-56436B053898" Type="Text" Created="2019-02-15 03:39:03 -0500" Modified="2019-11-21 18:15:48 -0500">
+                                        <BinderItem UUID="25656C2F-E55A-437F-9BE7-56436B053898" Type="Text" Created="2019-02-15 03:39:03 -0500" Modified="2020-04-28 23:29:16 -0400">
                                             <Title>HathiTrust</Title>
                                             <MetaData>
                                                 <LabelID>11</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>1583,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="8AFDC435-7698-40E3-BF85-7112E7F2FC65" Type="Text" Created="2019-09-20 17:58:33 -0400" Modified="2019-11-21 18:15:48 -0500">
@@ -11417,13 +11417,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-04-27 18:46:24 -0400"></PreviousSession>
+        <PreviousSession Words="45" Characters="330" Date="2020-04-28 23:19:46 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-04-27 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1734</OtherWordCount>
-        <OtherCharCount>11031</OtherCharCount>
+    <RecentWritingHistory Date="2020-04-28 00:00:00 -0400">
+        <DraftWordCount>45</DraftWordCount>
+        <DraftCharCount>330</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
