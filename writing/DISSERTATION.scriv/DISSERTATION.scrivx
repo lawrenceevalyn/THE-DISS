@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-07 00:34:50 -0400" ModID="508C9334-9A66-43FE-B16D-18578B3C09F1">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-10 21:08:15 -0400" ModID="B190D281-D063-40BA-ACC4-3E4C9A82D3D0">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -234,6 +234,16 @@
                                     <TextSettings>
                                         <TextSelection>1958,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="B25BA972-1B75-4793-B9FF-0EEA20A6BC29" Type="Text" Created="2020-05-10 20:31:33 -0400" Modified="2020-05-10 20:32:16 -0400">
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>539,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="8EA8CA4A-96D9-442C-9132-843484F5034B" Type="Text" Created="2019-03-09 15:59:07 -0500" Modified="2020-04-30 18:45:56 -0400">
                                     <Title>distant reading without Moretti</Title>
@@ -546,6 +556,15 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem UUID="8C4B37D9-F4F7-48E7-AA1B-A466C2DFA3DC" Type="Text" Created="2020-05-10 20:19:26 -0400" Modified="2020-05-10 20:33:14 -0400">
+                            <Title>lit review: eds of digital systems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>571,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1075,25 +1094,36 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="044B2842-4019-45BD-9142-A3C8AFABA6C9" Type="Text" Created="2020-03-12 18:26:05 -0400" Modified="2020-03-23 19:15:26 -0400">
+                                <BinderItem UUID="044B2842-4019-45BD-9142-A3C8AFABA6C9" Type="Text" Created="2020-03-12 18:26:05 -0400" Modified="2020-05-10 20:26:42 -0400">
                                     <Title>ESTC selection</Title>
                                     <MetaData>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>2025,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="87D8B0AC-D850-4292-B3F4-7B52A41869B2" Type="Text" Created="2020-03-21 00:21:57 -0400" Modified="2020-03-24 16:51:18 -0400">
+                                <BinderItem UUID="87D8B0AC-D850-4292-B3F4-7B52A41869B2" Type="Text" Created="2020-03-21 00:21:57 -0400" Modified="2020-05-10 20:24:18 -0400">
                                     <Title>ECCO selection</Title>
                                     <MetaData>
                                         <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1944,0</TextSelection>
+                                        <TextSelection>2349,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="858F4C7E-BE15-456F-ABCD-FFF6D4246F74" Type="Text" Created="2020-05-10 20:38:36 -0400" Modified="2020-05-10 21:04:44 -0400">
+                                            <Title>ECCO subject headings</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1110,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="5E7D3620-55DB-4257-9FF6-CD20FFDC43AD" Type="Text" Created="2020-03-10 16:55:07 -0400" Modified="2020-03-23 19:36:17 -0400">
                                     <Title>TCP selection</Title>
@@ -1488,7 +1518,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>581,0</TextSelection>
+                                <TextSelection>140,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="541964B5-5159-4138-BB0E-B18CC654CCE7" Type="Text" Created="2019-05-31 16:16:45 -0400" Modified="2019-11-21 19:03:25 -0500">
@@ -1694,7 +1724,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1681,0</TextSelection>
+                                <TextSelection>232,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1851,7 +1881,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-05-06 20:23:41 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-05-10 21:06:37 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -2025,14 +2055,14 @@
                                 <TextSelection>23426,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6646F725-C00F-4F17-A24D-5D861DD4D079" Type="Text" Created="2020-03-20 19:33:14 -0400" Modified="2020-05-05 20:02:53 -0400">
+                        <BinderItem UUID="6646F725-C00F-4F17-A24D-5D861DD4D079" Type="Text" Created="2020-03-20 19:33:14 -0400" Modified="2020-05-08 19:52:13 -0400">
                             <Title>ch 2</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>915,0</TextSelection>
+                                <TextSelection>11052,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CD1FD43E-EC02-4C98-9F43-A6F3978BF298" Type="Text" Created="2020-03-20 19:37:13 -0400" Modified="2020-03-20 19:37:21 -0400">
@@ -11689,13 +11719,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="570" Characters="3701" Date="2020-05-06 16:59:49 -0400"></PreviousSession>
+        <PreviousSession Words="809" Characters="5291" Date="2020-05-10 20:19:17 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-05-07 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2020-05-10 00:00:00 -0400">
+        <DraftWordCount>809</DraftWordCount>
+        <DraftCharCount>5291</DraftCharCount>
+        <OtherWordCount>51</OtherWordCount>
+        <OtherCharCount>386</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

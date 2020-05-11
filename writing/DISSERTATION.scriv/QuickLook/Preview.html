@@ -146,6 +146,14 @@
 <p class="itemTitle">computation reveals assumptions</p>
 <p class="itemText">Love’s later article, “Close Reading and Thin Description,” provides a more precise articulation of the kind of close reading that she calls for, in which an “exhaustive, fine-grained attention to phenomena” (404) enables “taking up the position of the device; by turning oneself into a camera, one could—at least ideally—pay equal attention to every aspect of a scene that is available to the senses and record it faithfully” (407). Although Love is uninterested in “distant reading” as synonymous w...</p>
 </li>
+<hr class="afterText"/>
+<ul>
+<li>
+<p class="itemTextStart">“The relationship between the individual cultural object and the curated dataset is not a transparent one; the latter is rather a heavily mediated and discipline-specific representation of the former. Through the collection and curation of our own dataset we are acutely aware of the choices that went into its creation. The use of already curated datasets has other undeniable advantages: it may temper the influence of the researcher on his or her findings; furthermore, from a practical standpoint...</p>
+</li>
+</ul>
+<hr class="afterText"/>
+
 <li>
 <p class="itemTitle">distant reading without Moretti</p>
 <p class="itemText">To bring these principles into the field of Digital Humanities by way of an example, I want to offer an alternative geneaology for the practice of distant reading itself. Rachel Buurma and Laura Heffernen provide a valuable history of Josephine Miles as the first ‘distant reader’. Miles’ history, briefly, is as follows:</p>
@@ -282,6 +290,14 @@
 <p class="itemText">A final brief conclusion to this dissertation offers an assessment of the role of digital textual collections in contemporary literary study.</p>
 </li>
 </ul>
+<hr class="afterText"/>
+
+<li>
+<p class="itemTitle">lit review: eds of digital systems</p>
+<p class="itemText">Increasingly, projects do in fact actively theorize and address their datasets.</p>
+<p class="itemText"></p>
+<p class="itemText">Mark Vareschi and Mattie Burkert, for example, in “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale,” have an argument to make about eighteenth century theatrical genres, but also “theorizing a new dataset of our own creation as a description that mediates and transforms our relationship to the objects it describes” (598). ”Our study shows the need to attend to the unstable ontologies present in ...</p>
+</li>
 </ul>
 <hr class="afterText"/>
 
@@ -593,6 +609,7 @@
 <ul>
 <li>
 <p class="itemTitle">ESTC selection</p>
+<p class="itemText">“It has been difficult to consider playbills at scale because they were excluded from the catalogs that form the basis for mass digitization efforts. The absence of playbills from Eighteenth-Century Collections Online (ECCO), as well as from its pre-1700 counterpart Early English Books Online (EEBO), is a result of the decision, as reported by R. C. Alston, not to include them in the English Short Title Catalog (ESTC) on which those collections are built.” (Vareschi and Burkert 600 — citing R. C...</p>
 </li>
 <li>
 <p class="itemTitle">ECCO selection</p>
@@ -600,6 +617,15 @@
 <p class="itemText"></p>
 <p class="itemText">The “microfilm series is not a random - and therefore randomly representatve— selection of items from ESTC. Texts have been selected for filming on the basis of criteri...</p>
 </li>
+<hr class="afterText"/>
+<ul>
+<li>
+<p class="itemTitle">ECCO subject headings</p>
+<p class="itemText">”subject heading assignment is pragmatic and heuristic rather than an exercise in truth and accuracy. …normally the question to be asked is whether they are good or bad, helpful or irrelevant, rather than true (accurate) or false (incorrect). The assignment of subject headings cannot and need not conform to the same standards that apply to descriptive bibliography in the tradition of W. W. Greg and Fredson Bowers. What descriptive accuracy is to cataloging and bibliography, consistency is to the...</p>
+</li>
+</ul>
+<hr class="afterText"/>
+
 <li>
 <p class="itemTitle">TCP selection</p>
 <p class="itemText">What is in the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So — the TCP contains whatever individual works happened to interest particular scholars.</p>
@@ -951,80 +977,6 @@
 <p class="itemText">                       replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/></p>
 <p class="itemText">            <prefixDef ident="ch...</p>
 </li>
-</ul>
-<hr class="afterText"/>
-
-<li>
-<p class="topLevelItemTitle">Appendices</p>
-</li>
-<hr class="afterTitle"/>
-<ul>
-<li>
-<p class="itemTitle">Appendix A: codebase</p>
-</li>
-<li>
-<p class="itemTitle">Appendix B: detailed methods</p>
-</li>
-<hr class="afterTitle"/>
-<ul>
-<li>
-<p class="itemTitle">corpus building</p>
-</li>
-<hr class="afterTitle"/>
-<ul>
-<li>
-<p class="itemTitle">ESTC corpus</p>
-<p class="itemText">My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789->1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom ...</p>
-</li>
-<li>
-<p class="itemTitle">ECCO</p>
-<p class="itemText">My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)</p>
-<p class="itemText">My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. ...</p>
-</li>
-</ul>
-<hr class="afterText"/>
-
-<li>
-<p class="itemTitle">authors-in-archives.numbers</p>
-<p class="itemText">For each author, I went to http://estc.bl.uk/, determined the authoritative format of that author’s name within the database (e.g., “Smith, Charlotte Turner, 1749-1806”) and got the list of all titles attributed to that author. Paging through each entry, I recorded the date, edition, city, and publisher for every title which met my conditions of being printed in England 1789-99, and recorded the “permalink” URL to the work’s full ESTC record.</p>
-</li>
-<li>
-<p class="itemTitle">OCR accuracy</p>
-<p class="itemText">I started by testing just The Emigrants. To get the text without the XML markup, I viewed it at https://quod.lib.umich.edu/e/ecco/004801766.0001.000?rgn=main;view=fulltext and simply copy-pasted the page into a plaintext file, manually deleting the header and footer website text so that the file only contained the poem. I saved it as emigrants-TCO-OCR.txt.</p>
-<p class="itemText">I attempted to download the HathiTrust edition by going to the “text-only view of this item” at https://babel.hathitrust.org/cgi/ssd?id=uc1.3...</p>
-</li>
-<li>
-<p class="itemTitle">gender-quesser.r</p>
-</li>
-<hr class="afterTitle"/>
-<ul>
-<li>
-<p class="itemTitle">gender package in R</p>
-<p class="itemText">The “gender” package in R is able to draw on a range of historical sources for gender information, but only one is applicable for this project. Most are US-based or only contain information beginning in the nineteenth century (or both). [Or, SHOULD I use ipums…? Will US names differ a lot?]</p>
-<p class="itemText">If no value is specified, then for the "ssa" method it will use the period 1932 to 2012; acceptable years for the SSA method range from 1880 to 2012, but for years before 1930 the IPUMS method is probably mor...</p>
-</li>
-<li>
-<p class="itemTitle">running gender on ECCO sample</p>
-<p class="itemText">To get a handle on how the gender package in R actually worked, and to assess how well it would meet my needs for this project, I began my making a sample csv of 41 arbitrary titles from ECCO’s 1789 holdings. The choice was driven by simplicity for a proof of concept: my ESTC and full-ECCO files were too large to open on my computer in spreadsheet software, and writing a program to extract a random sample was more work than it was worth, so I chose a file that I knew I could open in Numbers, the...</p>
-</li>
-</ul>
-</ul>
-<hr class="afterText"/>
-
-<li>
-<p class="itemTitle">Appendix C: data</p>
-</li>
-<hr class="afterTitle"/>
-<ul>
-<li>
-<p class="itemTitle">Table <$n#table:Smith-4dbs></p>
-<p class="itemText">Table <$n#table:Smith-4dbs> shows data that I compiled by hand in Numbers. The first three columns are based on my synthesis of scholarship on Charlotte Smith. As I consulted a range of work on Smith, I updated this information to reflect the most complete and accurate information possible. My editorial decisions included, for example, the exclusion of D’Arcy from consideration, since it was never published in England. I introduced standardized titles for the two volumes of Elegiac Sonnets, retr...</p>
-</li>
-<li>
-<p class="itemTitle">Figure <$n#fig:Smith-4dbs-alluvial></p>
-<p class="itemText">Figure <$n#fig:Smith-4dbs-alluvial> is based on the data recorded in Table <$n#table:Smith-4dbs>, which was pasted into the RAW Graphs visualization tool (Mauri et al.) and processed using their default settings for an alluvial diagram. Using an alluvial diagram required imagining the databases as sequential “stages” through which all books flow. Accordingly, I added a “source” for this flow of books by adding a column labeling every edition as falling into the category “Works printed in England...</p>
-</li>
-</ul>
 </ul>
 </ul>
 
