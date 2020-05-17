@@ -184,7 +184,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {256, 708}}</string>
-		<string>{{257, 0}, {661, 708}}</string>
+		<string>{{257, 0}, {566, 708}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -220,8 +220,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {661, 572}}</string>
-		<string>{{0, 573}, {661, 105}}</string>
+		<string>{{0, 0}, {566, 572}}</string>
+		<string>{{0, 573}, {566, 105}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>1</integer>
@@ -258,7 +258,7 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {288, 769}}</string>
+		<string>{{0, 0}, {288, 698}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -1201,7 +1201,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 328}, {528.79999999999995, 39.199999999999989}}</string>
+	<string>{{0, 234.40000000000001}, {452.80000000000001, 39.200000000000017}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{423, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
@@ -1214,7 +1214,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>0 148 918 730 0 0 1440 878 </string>
+	<string>0 147 823 730 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1264,14 +1264,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>BCAA5291-00ED-41A6-ABB3-5AA7C7ED4142</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -2162,6 +2154,8 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{21461, 0}</string>
 				<key>BinderDocUUIDs</key>
 				<array>
 					<string>1D4F41D3-4AF5-4429-8654-A28324930D4E</string>
@@ -2169,14 +2163,22 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>6646F725-C00F-4F17-A24D-5D861DD4D079</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {440.66666666666669, 344}}</string>
+	<string>{{0, 4613.6405273437504}, {377.33333333333331, 344}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>13295,84</string>
+	<string>17460,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

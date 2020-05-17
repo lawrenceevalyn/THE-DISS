@@ -274,174 +274,210 @@ For full metadata, see an online repository: Ted Underwood, \'93Data and Code to
 \f1 \cf3 \uc0\u57358 
 \f0 \cf3 ction from the same background. As we might expect, this model fails utterly: it\'92s right less than half of the time. Although these two genres have a few things in common (theories and laboratories, for instance), their common elements seem not to be the features that most saliently de
 \f1 \cf3 \uc0\u57358 
-\f0 \cf3 ne / them.\'94 (46-7)\cf4 \
+\f0 \cf3 ne / them.\'94 (46-7)\
 \
 \'93It is of course possible that a single exhibition catalog of detec-tive 
-\f2 fi
-\f0 ction (limited to volumes before 
-\f2 1941
-\f0 ) will create a picture of the genre that diverges substantially from postwar volumes cataloged by many di
-\f2 ff
-\f0 erent hands. But that\'92s exactly the kind of question statistical models allow us to test. Modeling just the eighty- eight volumes from the Indiana exhibition that I was able to obtain digitally, we have a rather high level of accuracy, 
-\f2 93
-\f0 .
-\f2 2%
-\f0 . 
-\f2 Th
-\f0 e 
-\f2 194
-\f0  volumes that have Library of Congress genre tags are more of a mixed bag and can only be recognized 
-\f2 91
-\f0 .
-\f2 0%
-\f0  of the time. If we combine both sets, we have 
-\f2 266
-\f0  volumes (since 
-\f2 16
-\f0  were in both groups) that can be recognized with 
-\f2 93
-\f0 .
-\f2 4%
-\f0  accuracy. So mixing groups selected in di
-\f2 ff
-\f0 erent ways doesn\'92t reduce ac-curacy; it\'92s a compromise that \'93levels upward.\'94\'94 (48)\
+\f2 \cf3 fi
+\f0 \cf3 ction (limited to volumes before 
+\f2 \cf3 1941
+\f0 \cf3 ) will create a picture of the genre that diverges substantially from postwar volumes cataloged by many di
+\f2 \cf3 ff
+\f0 \cf3 erent hands. But that\'92s exactly the kind of question statistical models allow us to test. Modeling just the eighty- eight volumes from the Indiana exhibition that I was able to obtain digitally, we have a rather high level of accuracy, 
+\f2 \cf3 93
+\f0 \cf3 .
+\f2 \cf3 2%
+\f0 \cf3 . 
+\f2 \cf3 Th
+\f0 \cf3 e 
+\f2 \cf3 194
+\f0 \cf3  volumes that have Library of Congress genre tags are more of a mixed bag and can only be recognized 
+\f2 \cf3 91
+\f0 \cf3 .
+\f2 \cf3 0%
+\f0 \cf3  of the time. If we combine both sets, we have 
+\f2 \cf3 266
+\f0 \cf3  volumes (since 
+\f2 \cf3 16
+\f0 \cf3  were in both groups) that can be recognized with 
+\f2 \cf3 93
+\f0 \cf3 .
+\f2 \cf3 4%
+\f0 \cf3  accuracy. So mixing groups selected in di
+\f2 \cf3 ff
+\f0 \cf3 erent ways doesn\'92t reduce ac-curacy; it\'92s a compromise that \'93levels upward.\'94\'94 (48)\
 \'93But as I have mentioned, algorithmic models can be very good at 
-\f1 \uc0\u57358 
-\f0 nding common elements that link a group of works. A bet-ter way of comparing two human de
-\f1 \uc0\u57358 
-\f0 nitions of genre is to train a model on one reader\'92s judgments and then ask it to predict judgments made by a di
-\f1 \uc0\u57349 
-\f0 erent reader. For instance, when we ask a model trained on the Library of Congress detective 
-\f1 \uc0\u57358 
-\f0 ction to distinguish the Indiana exhibition from a random background and vice versa, we still get 
-\f2 85%
-\f0  accuracy on average. 
-\f1 \uc0\u57375 
-\f0 at\'92s the real con
-\f1 \uc0\u57358 
-\f0 rmation that we\'92re looking at largely congruent de
-\f1 \uc0\u57358 
-\f0 nitions of the detective story.\'94\
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 nding common elements that link a group of works. A bet-ter way of comparing two human de
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 nitions of genre is to train a model on one reader\'92s judgments and then ask it to predict judgments made by a di
+\f1 \cf3 \uc0\u57349 
+\f0 \cf3 erent reader. For instance, when we ask a model trained on the Library of Congress detective 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 ction to distinguish the Indiana exhibition from a random background and vice versa, we still get 
+\f2 \cf3 85%
+\f0 \cf3  accuracy on average. 
+\f1 \cf3 \uc0\u57375 
+\f0 \cf3 at\'92s the real con
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 rmation that we\'92re looking at largely congruent de
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 nitions of the detective story.\'94\
 \
 \'93In short, the models created by machine learning are not mysterious black boxes: it is quite possible to crack them open and ask how they work. But they work so well, in part, because they are under no obligation to condense the world into a crisp de
-\f2 fi
-\f0 nition. 
+\f2 \cf3 fi
+\f0 \cf3 nition. 
 \b A model of a complex, overdetermined concept is likely to be just as overdetermined itself
 \b0 . Working with a light touch, a critic who has read a few detective stories can use pre-dictive features to tease out insights (the absence of children in these stories, for instance, is an interesting dog that didn\'92t bark). But it would be a mistake to imagine that a predictive model can quickly resolve arguments about the essential features of a genre. For that kind of condensing, prioritizing work, we still need critical debate.\'94 (49)\
 \
 \'93
-\f2 Th
-\f0 e model is very con
-\f1 \uc0\u57358 
-\f0 dent about most of the nineteenth-  and twentieth- century volumes categorized as detective 
-\f1 \uc0\u57358 
-\f0 ction. But it has di
-\f1 \uc0\u57485 
-\f0 culty recognizing Newgate and sensation novels as members of the same set, even though it has been trained on a sample that includes them and has not been given any indication that they are di
-\f1 \uc0\u57349 
-\f0 erent from other detective stories. By contrast, Edgar Allan Poe\'92s three short stories from the 
-\f2 1840
-\f0 s seem entirely consonant with later de
-\f1 \uc0\u57358 
-\f0 nitions of the genre. 
-\f1 \uc0\u57375 
-\f0 e patterns that link Sue Grafton to Arthur Conan Doyle extend backward all the way to Poe\'97 but not much farther. In short, 
+\f2 \cf3 Th
+\f0 \cf3 e model is very con
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 dent about most of the nineteenth-  and twentieth- century volumes categorized as detective 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 ction. But it has di
+\f1 \cf3 \uc0\u57485 
+\f0 \cf3 culty recognizing Newgate and sensation novels as members of the same set, even though it has been trained on a sample that includes them and has not been given any indication that they are di
+\f1 \cf3 \uc0\u57349 
+\f0 \cf3 erent from other detective stories. By contrast, Edgar Allan Poe\'92s three short stories from the 
+\f2 \cf3 1840
+\f0 \cf3 s seem entirely consonant with later de
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 nitions of the genre. 
+\f1 \cf3 \uc0\u57375 
+\f0 \cf3 e patterns that link Sue Grafton to Arthur Conan Doyle extend backward all the way to Poe\'97 but not much farther. In short, 
 \b quantitative methods are not inherently biased to-ward continuity or discontinuity. When cultural forms do change suddenly, a predictive model can recognize the break without being speci
-\f1\b0 \uc0\u57358 
-\f0\b cally instructed to do so
+\f1\b0 \cf3 \uc0\u57358 
+\f0\b \cf3 cally instructed to do so
 \b0 . \'94 (52)\
 \'93A model of 
-\f2 287 
-\f0 volumes puts us in a position to con
-\f2 fi
-\f0 rm that the similarities between works of detective 
-\f1 \uc0\u57358 
-\f0 ction are really becoming looser, overall, in the 
-\f2 1990
-\f0 s than they were in the 
-\f2 1920
-\f0 s or 
-\f2 1930
-\f0 s.\'94 (52)\
+\f2 \cf3 287 
+\f0 \cf3 volumes puts us in a position to con
+\f2 \cf3 fi
+\f0 \cf3 rm that the similarities between works of detective 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 ction are really becoming looser, overall, in the 
+\f2 \cf3 1990
+\f0 \cf3 s than they were in the 
+\f2 \cf3 1920
+\f0 \cf3 s or 
+\f2 \cf3 1930
+\f0 \cf3 s.\'94 (52)\
 \
 THE GOTHIC\
 \'93
-\f1 \uc0\u57375 
-\f0 e history of Gothic 
-\f1 \uc0\u57358 
-\f0 ction creates, appropriately, a mystery about ancestral 
-\f1 \uc0\u57358 
-\f0 gures that haunt their descendants only as am-biguous traces. 
+\f1 \cf3 \uc0\u57375 
+\f0 \cf3 e history of Gothic 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 ction creates, appropriately, a mystery about ancestral 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 gures that haunt their descendants only as am-biguous traces. 
 \b Critics seem fairly con
-\f2\b0 fi
-\f0\b dent that the Gothic novel was a coherent phenomenon in Britain from 
-\f2\b0 1760
-\f0\b  to perhaps 
-\f2\b0 1830
-\f0\b . But as we move further into the nineteenth century, it becomes less and less clear whether the Gothic remains a continuous tradition
+\f2\b0 \cf3 fi
+\f0\b \cf3 dent that the Gothic novel was a coherent phenomenon in Britain from 
+\f2\b0 \cf3 1760
+\f0\b \cf3  to perhaps 
+\f2\b0 \cf3 1830
+\f0\b \cf3 . But as we move further into the nineteenth century, it becomes less and less clear whether the Gothic remains a continuous tradition
 \b0 .\'94 (53)\
 \
 Not sure about these methods: \'93Since we have good reasons to wonder whether \'93the Gothic\'94 writ large is a strongly uni
-\f1 \uc0\u57358 
-\f0 ed tradition, it was particularly im-portant in this case to compare di
-\f1 \uc0\u57349 
-\f0 erent sources of testimony. Before 
-\f2 1840
-\f0  I relied heavily on the Stanford Literary Lab\'92s list of Gothic 
-\f1 \uc0\u57358 
-\f0 ction; after 
-\f2 1840
-\f0  I relied on the Library of Congress genre tags associated with \'93horror\'94 or the \'93ghost story.\'94 But I also collected a set of works mentioned in 
-\f1 \uc0\u57375 
-\f0 e Gothic, a Blackwell guide edited by David Punter and Glennis Byron (
-\f2 2004
-\f0 ), which traces a Gothic tradition all the way from Horace Walpole to Brett Easton Ellis, linked through a surprising range of inter-mediary 
-\f1 \uc0\u57358 
-\f0 gures that includes Emily Bront\'eb, Henry James, and H. P. Lovecraft.\'94\
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 ed tradition, it was particularly im-portant in this case to compare di
+\f1 \cf3 \uc0\u57349 
+\f0 \cf3 erent sources of testimony. Before 
+\f2 \cf3 1840
+\f0 \cf3  I relied heavily on the Stanford Literary Lab\'92s list of Gothic 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 ction; after 
+\f2 \cf3 1840
+\f0 \cf3  I relied on the Library of Congress genre tags associated with \'93horror\'94 or the \'93ghost story.\'94 But I also collected a set of works mentioned in 
+\f1 \cf3 \uc0\u57375 
+\f0 \cf3 e Gothic, a Blackwell guide edited by David Punter and Glennis Byron (
+\f2 \cf3 2004
+\f0 \cf3 ), which traces a Gothic tradition all the way from Horace Walpole to Brett Easton Ellis, linked through a surprising range of inter-mediary 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 gures that includes Emily Bront\'eb, Henry James, and H. P. Lovecraft.\'94\
 More accurate with the smaller samples. \'93
-\f2 Th
-\f0 e growing shakiness of this Gothic edi
-\f2 fi
-\f0 ce as samples grow larger 
+\f2 \cf3 Th
+\f0 \cf3 e growing shakiness of this Gothic edi
+\f2 \cf3 fi
+\f0 \cf3 ce as samples grow larger 
 \b betrays a weakness somewhere in its foundation.
 \b0  In modeling a homogenous group of works, accuracy ordinarily increases as one gathers more data. \'94 (54)\
 \'93Declining accuracy suggests that 
 \b our di
-\f2\b0 ff
-\f0\b erent sources are describing heterogenous things.
+\f2\b0 \cf3 ff
+\f0\b \cf3 erent sources are describing heterogenous things.
 \b0  We can con
-\f1 \uc0\u57358 
-\f0 rm this using the method of mutual recognition. A model trained on Romantic- era Gothic works recognizes ghost stories only weakly and vice versa (
-\f2 69
-\f0 .
-\f2 8%
-\f0 ); ghost stories are even less similar to twentieth- century horror (
-\f2 67
-\f0 .
-\f2 8%
-\f0 ). If one compares twentieth-century horror directly to the Romantic- era Gothic, there is hardly any textual similarity at all (
-\f2 51
-\f0 .
-\f2 0%
-\f0 ). I don\'92t expect this pattern to surprise many readers. \'85 
+\f1 \cf3 \uc0\u57358 
+\f0 \cf3 rm this using the method of mutual recognition. A model trained on Romantic- era Gothic works recognizes ghost stories only weakly and vice versa (
+\f2 \cf3 69
+\f0 \cf3 .
+\f2 \cf3 8%
+\f0 \cf3 ); ghost stories are even less similar to twentieth- century horror (
+\f2 \cf3 67
+\f0 \cf3 .
+\f2 \cf3 8%
+\f0 \cf3 ). If one compares twentieth-century horror directly to the Romantic- era Gothic, there is hardly any textual similarity at all (
+\f2 \cf3 51
+\f0 \cf3 .
+\f2 \cf3 0%
+\f0 \cf3 ). I don\'92t expect this pattern to surprise many readers. \'85 
 \b Establishing that the Gothic falls apart is a test less of the Gothic than of our method.
 \b0  A method that didn\'92t recog-nize hard cases would be hard to trust about others!\'94\
 His explanation: \'93the genre\'92s reliance on several distinct thematic prem-ises: ghost stories, Romantic- era tales of incarceration and es-cape (often mixed with a courtship plot), and twentieth- century horror. Each of these things is easier to model on its own than in combination with the others. Detective 
-\f2 fi
-\f0 ction is not internally divided in quite the same way.\'94 (55) Even though you can tell apart hardboiled detective fiction from cozy mysteries, they group together in larger contexts \'97 they \'93are never easier to model on their own than in combination\'94 (55).\
+\f2 \cf3 fi
+\f0 \cf3 ction is not internally divided in quite the same way.\'94 (55) Even though you can tell apart hardboiled detective fiction from cozy mysteries, they group together in larger contexts \'97 they \'93are never easier to model on their own than in combination\'94 (55).\
 \
 \'93It is not safe to assume that all genres change at the same pace or that the existence of distinct subgenres will necessarily weaken a parent category. 
 \b In the case of the Gothic, the forces of drift and division do work against coalescence. But even so, the term names a real phenomenon
 \b0 : a group of texts that can be recognized with 
-\f2 81%
-\f0  accuracy over a span of 
-\f2 240
-\f0  years can hardly be called inchoate. 
+\f2 \cf3 81%
+\f0 \cf3  accuracy over a span of 
+\f2 \cf3 240
+\f0 \cf3  years can hardly be called inchoate. 
 \b Critics sometimes acknowledge the contrast with more tightly uni
-\f2\b0 fi
-\f0\b ed literary groups by calling the Gothic a mode rather than a genre.
+\f2\b0 \cf3 fi
+\f0\b \cf3 ed literary groups by calling the Gothic a mode rather than a genre.
 \b0  
-\f2 Th
-\f0 e term is fair enough, but like many terminological distinctions, it 
+\f2 \cf3 Th
+\f0 \cf3 e term is fair enough, but like many terminological distinctions, it 
 \b substitutes a crisp binary division for a more muddled reality
-\b0 .\'94 (56)}
+\b0 .\'94 (56)\cf4 \
+\
+P 57 - starts third example, sci fi, from the premise that it\'92s \'93not intuitively clear whether we should expect science 
+\f1 \uc0\u57358 
+\f0 ction to hold together over long timelines, like detective 
+\f1 \uc0\u57358 
+\f0 ction, or fall apart like the Gothic.\'94 (57)\
+He says \'93I drew on several di
+\f1 \uc0\u57349 
+\f0 erent sources for that period\'94 and refers to them as \'93 all these bibliographic sources\'94 but it seems to only be two bibliographies?? (57)\
+Sci fi, unlike detective fiction, doesn\'92t seem to change much on cohesion as a genre \'97 "the early his-tory of this genre looks incoherent to our retrospective gaze for parochial, presentist reasons\'94 (60)\
+\'93One could, admittedly, object that my list of nineteenth- century scienti
+\f1 \uc0\u57358 
+\f0 c romances comes mostly from twentieth- century histories of science 
+\f1 \uc0\u57358 
+\f0 ction. Perhaps this group of texts is only co-herent because it was selected, tacitly, to provide a set of precur-sors for a more strongly uni
+\f1 \uc0\u57358 
+\f0 ed genre? 
+\f1 \uc0\u57375 
+\f0 is is a fair objection.\'94 (60) His counter: \'93I haven\'92t found a bibliography or reading list that I could use as strictly contem-porary evidence for the boundaries of the genre.\'94 (60) Also: \'93it is still signi
+\f1 \uc0\u57358 
+\f0 cant that the concept coheres on a textual level. 
+\f1 \uc0\u57375 
+\f0 ere is no way to construct the same kind of retrospective coherence for the Gothic.\'94 (61)\
+\
+He does find a lot of change around the 1940s\
+\'93what kind of change are we detecting? 
+\f1 \uc0\u57375 
+\f0 is doesn\'92t have to be a mysterious question; there are many ways to open the so- called black box of machine learning and 
+\f1 \uc0\u57358 
+\f0 nd answers. For instance, one way to locate change is to ask which later books are hard for models trained on an earlier period to recognize. Since models assign each book a probability of being science 
+\f1 \uc0\u57358 
+\f0 ction, we can simply compare the probabilities assigned by models trained on di
+\f1 \uc0\u57349 
+\f0 erent periods. 
+\f1 \uc0\u57375 
+\f0 is produces a measure of historical parallax or, so to speak, of surprise.\'94 (62)}
