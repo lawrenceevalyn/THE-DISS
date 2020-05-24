@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-23 23:51:19 -0400" ModID="525EEFEF-43AF-4C8F-9270-962FBB66A59B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-23 23:59:23 -0400" ModID="9150D4C8-D5AB-4496-8FBF-9BCEB7EF9167">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -590,7 +590,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>220,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1513,8 +1513,46 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="F9546C3D-2D29-4064-8BD9-FE1BD1F8311E" Type="Text" Created="2020-03-06 18:56:05 -0500" Modified="2020-05-22 19:05:17 -0400">
-                            <Title>ch 3 - database demographics</Title>
+                        <BinderItem UUID="99A8ECB0-F588-4116-9F7C-B097E66D69BA" Type="Text" Created="2020-05-23 23:55:16 -0400" Modified="2020-05-23 23:55:17 -0400">
+                            <Title>intro</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B2F94A6E-5A36-4178-8A61-B456C2811853" Type="Text" Created="2020-05-23 23:55:20 -0400" Modified="2020-05-23 23:55:22 -0400">
+                                    <Title>BLUF</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="F9546C3D-2D29-4064-8BD9-FE1BD1F8311E" Type="Text" Created="2020-03-06 18:56:05 -0500" Modified="2020-05-23 23:54:42 -0400">
+                            <Title>gender-guesser</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1B10D1D5-94B2-4472-817D-CBA6BBA8877E" Type="Text" Created="2020-05-23 23:54:43 -0400" Modified="2020-05-23 23:56:43 -0400">
+                            <Title>why topic model</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>809,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C754B470-88FA-4D38-ADB2-2005ABF8DB04" Type="Text" Created="2020-05-23 23:56:38 -0400" Modified="2020-05-23 23:59:04 -0400">
+                            <Title>why titles count</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -11761,11 +11799,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="266" Characters="1678" Date="2020-05-23 23:30:13 -0400"></PreviousSession>
+        <PreviousSession Words="603" Characters="3887" Date="2020-05-23 23:30:13 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-05-23 00:00:00 -0400">
-        <DraftWordCount>266</DraftWordCount>
-        <DraftCharCount>1678</DraftCharCount>
+        <DraftWordCount>603</DraftWordCount>
+        <DraftCharCount>3887</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

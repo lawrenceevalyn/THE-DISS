@@ -1109,7 +1109,11 @@ We are on the cusp of eighteenth-century OCR meeting the standards of twenty-fir
 
 
 
-# ch 3 - database demographics #
+# ch 3 - database demographics #  
+
+When working with large literary databases, scholars naturally wish to know what kind of literature they are working with. A high incidence of religious language in an eighteenth century corpus, for example, will mean something different depending on how many of the documents included in the corpus are sermons. However, the larger and more heterogenous the database, the less likely it is that all of its contents have been thoroughly and consistently identified. Eighteenth century texts predate systems such as the Library of Congress subject headings, so many of the holdings in widely-used resources such as the English Short Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), and ECCO Text Creation Partnership (ECCO-TCP) include no metadata regarding their contents’ subject matter.  
+
+In designing this tool, I want to take advantage of one of the unique features of eighteenth century literature: long and descriptive titles. In most periods of literary history, the information that gets input in the “title” field of a database offers a scholar very little to work with. Eighteenth century books were advertised and sold without any visual cues as to their contents; they attracted readers through the strength of their title pages alone. Bibliographers have consistently chosen to record a large amount of this title page information. Their lengthy titles therefore intentionally communicate their genres, and, as my paper demonstrates, their messages can be distilled through topic modelling. I present my results for the 52,000 titles printed in England between 1789 and 1799, and discuss the resulting ontology of generic categories. As I demonstrate, inferring genres based on how texts describe themselves produces a very different picture of the categories of textual production than the post-facto descriptions that later generations of scholars have produced. I am then able to use these subject categories to compare the contents of several commonly-used digital resources, to identify how representative of eighteenth century literature as a whole each database is. Finally, I discuss how my methods might be adapted to address similar gaps in metadata in related fields.
 
 
 
