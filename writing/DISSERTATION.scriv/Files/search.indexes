@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="BF476B67-6327-43A6-920B-76CB7DB44116">
-            <Title>rev. O'Dair</Title>
-            <Text>Review Reviewed Work(s): Cultural Capital: The Problem of Literary Canon Formation by John Guillory Review by: Sharon O'Dair Source: South Atlantic Review, Vol. 59, No. 2 (May, 1994), pp. 130-132 Published by: South Atlantic Modern Language Association Stable URL: https://www.jstor.org/stable/3200802 
-p.130: The debate about the literary canon or the "crisis" in the humanities engages literary critics not only because its resolution may affect the ways we do our work but also because its dissemination attracts public attention in ways few of our debates ever do.
-p.130: Without dissenting from the progressive social agenda of liberal pluralism, Guillory attacks both the theoretical assumptions underlying liberal pluralism and the specific approach to curricular reform it has engendered. The pluralist critique of the canon rests upon the notion of representation, with an emphasis on the social identity of the author, who stands for particular social groups and whose writing expresses theideology of that group. As a principle of selection, representation thus replaces aesthetic judgment, which the pluralist critique "is compelled to regard ... as merely fraudulent, as a screen for the covert affirmation of hegemonic values which can be shown to be the real qualification for canonicity in the first place" (270).
-p.130: Guillory aims partly to rehabilitate the value of aesthetic judgment, and he dedicates Cultural Capital's concluding chapter to that task. This effort, which one assumes even cultural conservatives will applaud, is predicated, however, on a critique of the mediating function of the school system in the process of canonization and, of course, of judgment.
-p.131: The university, especially the research university, is the preserve of an elite; and the function of the lower levels of the school system is to exclude the vast majority of all peoples from access to it, thereby enabling the reproduction of class structures.
-p.131: Cultural Capital argues forcefully—and in my view convincingly—that the problem of literary canon formation is best understood not as a problem of biased judgment or as a lack of representation but as “a problem in the constitution and distribution of access to the means of cultural capital, or more specifically, a problem of access to the means of literary production and consumption” (ix).
-p.131: Regardless of race or gender, that is,"[t]hose who have never been taught, or have been very inadequately taught, the practice of reading have little occasion to rejoice at being 'represented’ in the canon” (38)
-P.132: More important, perhaps, it reveals the difficulty anyone faces who imagines the dismantling of a system in which he or she holds a position of privilege.</Text>
+        <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
+            <Title>Women's Writing Online</Title>
         </Document>
-        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
-            <Title>ECCO MARC records</Title>
-            <Text>001 stores ESTC number, though without leading numbers
-i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
+        <Document ID="87D8B0AC-D850-4292-B3F4-7B52A41869B2">
+            <Title>ECCO selection</Title>
+            <Text>“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
 
-260 c stores publication year
-i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
+The “microfilm series is not a random - and therefore randomly representatve— selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
+
+“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
+
+Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s Elegiac Sonnets, a significant title which is absent.
+
+“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)</Text>
         </Document>
         <Document ID="AEB02B06-7A44-47E1-91B9-8BEFC9CFBA38">
             <Title>contents</Title>
@@ -36,6 +32,9 @@ Suarez: “Lacking the resources to conduct a detailed analysis of the entire ES
         <Document ID="FD16F148-47A4-46E6-9914-349C1DBC100B">
             <Title>Byron and Southey are interesting!</Title>
             <Text>Southey is even interesting in the 1790s! Writes a LOT, in a lot of forms, with shifting political allegiances</Text>
+        </Document>
+        <Document ID="F9546C3D-2D29-4064-8BD9-FE1BD1F8311E">
+            <Title>ch 3 - database demographics</Title>
         </Document>
         <Document ID="3D662697-9F43-4374-92E3-07F634DA1FD6">
             <Title>narratology?</Title>
@@ -1982,7 +1981,7 @@ To make my argument, I study a sample of late eighteenth century writing, consis
         <Document ID="4B274490-B409-48DB-8105-E96549BEF3CF">
             <Title>chapter 3: databases</Title>
             <Text>In chapter three, I re-examine my core databases, but no longer with Smith as a focalizing lens. Instead, I undertake computational assessment and comparison of the databases’ contents. My research examines the authorship and subject matter (broadly construed) of all titles printed in England between 1789 and 1799 which are included in each database. I calculate the proportion of the titles in each resource that are attributed to men, to women, or are left unsigned. My naive hypothesis is that, as each resource demanded a greater investment of scholarly effort in each text, women and unsigned writers will grow increasingly underrepresented, so that the ECCO-TCP corpus will have substantially different demographics than the ESTC. Using the titles of these works and a topic modelling tool which I have built, I also roughly identify the subject matter of each title, categorizing works into broad genres such as drama, poetry, Romance, History, or sermons. Although the topic modelling tool is able to cluster what it sees as “similar” titles, individual interpretation is required to make these clusters meaningful. A substantial portion of chapter three is dedicated to discussing how scholars apply genre categories retrospectively to clusters of texts, how publishers sought to advertise their texts to particular audiences, and how the categories I develop ought to be understood in the context of existing eighteenth century scholarship on print genres. Using my resulting genre classifications, I am then able to compare these four resources to each other, and to existing scholarly work on the print production of the 1790s. For example, I compare each resource’s holdings to the statistics on the English novel included in Garside, Raven and Schöwerling’s Bibliographical Survey of Prose Fiction. In examining genres, I anticipate discovering a preference, in the more specialized resources, for more “literary” forms of writing.
-I will also correlate gender and genre. This preference for particular kinds of writing might explain changes in gender representation of smaller corpora. If the novel is the domain of women, for example, a corpus can underrepresent women by underrepresenting novels. Or it could include a representative number of novels, but disproportionately include novels by men. My investigation allows me to identify the patterns of exclusion. Asking bibliographical questions of multiple corpora, in order to learn about the corpora themselves, emphasizes an under-examined stage of text mining research, and provides a basis for other scholars to use these corpora more precisely. It also provides the foundation for my own </Text>
+I will also correlate gender and genre. This preference for particular kinds of writing might explain changes in gender representation of smaller corpora. If the novel is the domain of women, for example, a corpus can underrepresent women by underrepresenting novels. Or it could include a representative number of novels, but disproportionately include novels by men. My investigation allows me to identify the patterns of exclusion. Asking bibliographical questions of multiple corpora, in order to learn about the corpora themselves, emphasizes an under-examined stage of text mining research, and provides a basis for other scholars to use these corpora more precisely.</Text>
             <Comments>I am particularly excited to explore “false advertising” in titles!</Comments>
         </Document>
         <Document ID="CB8A1565-826C-4DA4-8CEB-401CFCF2B7A3">
@@ -6843,8 +6842,8 @@ Bio: Lawrence Evalyn is a Ph.D. Candidate in English at the University of Toront
 
 Abstract: This paper will examine how contemporary digital databases of eighteenth century literature have remediated the cultural production of the 1790s through choices of which texts to make digitally accessible. Despite the importance of corpus-building (that is, the accumulation of a large body of text files for analysis) to the interpretation of “distant reading” research, it is often extremely difficult to know what is in a corpus. These hidden choices are particularly problematic when historical selection factors might have led to the creation of databases which re-create social inequalities. My research studies literature of the 1790s, a time when literary canons were being reinvented in England, to examine processes of selection in the eighteenth century and today. For the decade 1789-99, the English Short Title Catalogue provides basic bibliographic data for nearly 52,000 titles, but the Eighteenth Century Collections Online Text Creation Partnership corpus of XML-encoded full texts — the source for most distant reading research on eighteenth century literature — includes fewer than 500 titles. This difference raises the question: why were the other 51,500 titles not considered worth the investment of scholarly effort? And with particular urgency: do the most invested-in resources underrepresent women? I have written a program which infers a gender for the named authors of the works recorded in three major eighteenth century databases. (As my paper will discuss, inferring a gender from a name would not be tenable for a modern literary corpus, but is not inappropriate for the strong emphasis on binary gender in eighteenth century title pages.) By comparing the gender representation within different digital resources, I present a case study in recognizing the inequalities which may underly apparently neutral research resources.</Text>
         </Document>
-        <Document ID="BB240AA5-1F17-434E-9F87-A8C400A715B0">
-            <Text>estc comment</Text>
+        <Document ID="B48B3167-1B36-4204-9EB8-04F7235C5CCE">
+            <Title>ch 3 - database demographics</Title>
         </Document>
         <Document ID="049379D3-1587-4E80-95B6-BEF4EC8E1E32">
             <Title>chapter 4: random selection</Title>
@@ -6910,6 +6909,9 @@ Footnotes
         </Document>
         <Document ID="19BF109E-503A-4DA2-A93A-A582A48B25E8">
             <Title>?</Title>
+        </Document>
+        <Document ID="BB240AA5-1F17-434E-9F87-A8C400A715B0">
+            <Text>estc comment</Text>
         </Document>
         <Document ID="B09C5D8C-965C-477F-984D-59D811DA1C58">
             <Title>why no evangelical revival in 1790s?</Title>
@@ -9657,30 +9659,34 @@ Book Formats
 ￼(64)
 </Text>
         </Document>
+        <Document ID="BF476B67-6327-43A6-920B-76CB7DB44116">
+            <Title>rev. O'Dair</Title>
+            <Text>Review Reviewed Work(s): Cultural Capital: The Problem of Literary Canon Formation by John Guillory Review by: Sharon O'Dair Source: South Atlantic Review, Vol. 59, No. 2 (May, 1994), pp. 130-132 Published by: South Atlantic Modern Language Association Stable URL: https://www.jstor.org/stable/3200802 
+p.130: The debate about the literary canon or the "crisis" in the humanities engages literary critics not only because its resolution may affect the ways we do our work but also because its dissemination attracts public attention in ways few of our debates ever do.
+p.130: Without dissenting from the progressive social agenda of liberal pluralism, Guillory attacks both the theoretical assumptions underlying liberal pluralism and the specific approach to curricular reform it has engendered. The pluralist critique of the canon rests upon the notion of representation, with an emphasis on the social identity of the author, who stands for particular social groups and whose writing expresses theideology of that group. As a principle of selection, representation thus replaces aesthetic judgment, which the pluralist critique "is compelled to regard ... as merely fraudulent, as a screen for the covert affirmation of hegemonic values which can be shown to be the real qualification for canonicity in the first place" (270).
+p.130: Guillory aims partly to rehabilitate the value of aesthetic judgment, and he dedicates Cultural Capital's concluding chapter to that task. This effort, which one assumes even cultural conservatives will applaud, is predicated, however, on a critique of the mediating function of the school system in the process of canonization and, of course, of judgment.
+p.131: The university, especially the research university, is the preserve of an elite; and the function of the lower levels of the school system is to exclude the vast majority of all peoples from access to it, thereby enabling the reproduction of class structures.
+p.131: Cultural Capital argues forcefully—and in my view convincingly—that the problem of literary canon formation is best understood not as a problem of biased judgment or as a lack of representation but as “a problem in the constitution and distribution of access to the means of cultural capital, or more specifically, a problem of access to the means of literary production and consumption” (ix).
+p.131: Regardless of race or gender, that is,"[t]hose who have never been taught, or have been very inadequately taught, the practice of reading have little occasion to rejoice at being 'represented’ in the canon” (38)
+P.132: More important, perhaps, it reveals the difficulty anyone faces who imagines the dismantling of a system in which he or she holds a position of privilege.</Text>
+        </Document>
         <Document ID="98A142C7-E513-4BFB-BF20-B1B8169F4E94">
             <Title>Garside &amp; Raven</Title>
         </Document>
         <Document ID="776EC7C1-846E-4FF8-9612-EE5A1DBE54BD">
             <Title>?</Title>
         </Document>
-        <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
-            <Title>Women's Writing Online</Title>
-        </Document>
-        <Document ID="87D8B0AC-D850-4292-B3F4-7B52A41869B2">
-            <Title>ECCO selection</Title>
-            <Text>“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
-
-The “microfilm series is not a random - and therefore randomly representatve— selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
-
-“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
-
-Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s Elegiac Sonnets, a significant title which is absent.
-
-“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)</Text>
-        </Document>
         <Document ID="93055C65-8ECB-4CA2-BB70-E65701A5DC30">
             <Title>I'm reading a lot of disreputable stuff</Title>
             <Text>My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro &amp; Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.</Text>
+        </Document>
+        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
+            <Title>ECCO MARC records</Title>
+            <Text>001 stores ESTC number, though without leading numbers
+i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
+
+260 c stores publication year
+i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
         </Document>
         <Document ID="694A529A-BEAF-4647-B2A2-06BB253B494C">
             <Title>donoghue's lesbian history</Title>
