@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-27 00:10:57 -0400" ModID="B3003BAE-CDD6-4F63-8BD1-6D57F3092F2B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-28 02:14:20 -0400" ModID="96AB680A-36DC-4066-9C42-DB2DF4E511D3">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -611,7 +611,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>220,0</TextSelection>
+                                        <TextSelection>879,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2155,24 +2155,24 @@
                                 <TextSelection>23426,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6646F725-C00F-4F17-A24D-5D861DD4D079" Type="Text" Created="2020-03-20 19:33:14 -0400" Modified="2020-05-20 00:26:48 -0400">
+                        <BinderItem UUID="6646F725-C00F-4F17-A24D-5D861DD4D079" Type="Text" Created="2020-03-20 19:33:14 -0400" Modified="2020-05-28 02:14:14 -0400">
                             <Title>ch 2</Title>
                             <MetaData>
                                 <LabelID>11</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>22475,0</TextSelection>
+                                <TextSelection>22795,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CD1FD43E-EC02-4C98-9F43-A6F3978BF298" Type="Text" Created="2020-03-20 19:37:13 -0400" Modified="2020-05-26 02:48:22 -0400">
+                        <BinderItem UUID="CD1FD43E-EC02-4C98-9F43-A6F3978BF298" Type="Text" Created="2020-03-20 19:37:13 -0400" Modified="2020-05-28 02:13:19 -0400">
                             <Title>ch 3</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5313,0</TextSelection>
+                                <TextSelection>6662,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="378DB81D-F8C7-4109-A341-B80173FA2F0A" Type="Text" Created="2020-03-20 19:37:44 -0400" Modified="2020-03-20 19:38:49 -0400">
@@ -6804,7 +6804,7 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="7A6DDFD9-A9C5-49F1-89A2-20F9D464857E" Type="Text" Created="2020-02-18 15:56:16 -0500" Modified="2020-03-05 22:26:51 -0500">
+                                <BinderItem UUID="7A6DDFD9-A9C5-49F1-89A2-20F9D464857E" Type="Text" Created="2020-02-18 15:56:16 -0500" Modified="2020-05-27 00:19:20 -0400">
                                     <Title>winnowing down (4 dbs)</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
@@ -11821,13 +11821,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="447" Characters="2747" Date="2020-05-27 00:02:13 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2020-05-27 16:55:53 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-05-27 00:00:00 -0400">
-        <DraftWordCount>447</DraftWordCount>
-        <DraftCharCount>2747</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2020-05-28 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>299</OtherWordCount>
+        <OtherCharCount>1809</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
