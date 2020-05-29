@@ -57,13 +57,7 @@ Love’s later article, “Close Reading and Thin Description,” provides a mor
 
 Good descriptions are in a sense rich, but not because they truck with imponderables like human experience or human nature. They are close, but they are not deep; rather than adding anything ‘extra’ to the description, they account for the real variety that is already there. (377)
 
-A computational model is unlikely to “truck with imponderables,” but it *absolutely* *must* “account for the real variety that is already there” or else the code will simply fail to run. If you are forced to manually encode your assumptions into a system, you are forced to confront what they are. Even deleting or ignoring information is still a way of “accounting for” it in the coding process: some part of the program will have to say, in effect, ‘if I get an input that doesn’t match what I expect, discard it.’ Choosing to ignore contradictory or difficult information carries the assumption that this information does not ‘count,’ or does not matter to the question at hand. The choice faced by scholars is how to address our encoded assumptions. The encounter with variety does not in itself produce nuanced results: it is possible to selectively ignore any uncomfortable details. But it is also possible to do computation reflectively, asking not “how can I make this work the way I want?” but “where do my assumptions encounter resistance?” and turning one’s attention to the nature of the resistance. Integrating this reflection into the research process can allow a scholar to avoid both the pitfalls of “conquering” their material and of claiming an algorithmic grasp of “objective” truth. 
-
-
-
-#### 1.2.1.1.   ####
-
-
+A computational model is unlikely to “truck with imponderables,” but it *absolutely* *must* “account for the real variety that is already there” or else the code will simply fail to run. If you are forced to manually encode your assumptions into a system, you are forced to confront what they are. Even deleting or ignoring information is still a way of “accounting for” it in the coding process: some part of the program will have to say, in effect, ‘if I get an input that doesn’t match what I expect, discard it.’ Choosing to ignore contradictory or difficult information carries the assumption that this information does not ‘count,’ or does not matter to the question at hand. The choice faced by scholars is how to address our encoded assumptions. The encounter with variety does not in itself produce nuanced results: it is possible to selectively ignore any uncomfortable details. But it is also possible to do computation reflectively, asking not “how can I make this work the way I want?” but “where do my assumptions encounter resistance?” and turning one’s attention to the nature of the resistance. Integrating this reflection into the research process can allow a scholar to avoid both the pitfalls of “conquering” their material and of claiming an algorithmic grasp of “objective” truth.   
 
 “The relationship between the individual cultural object and the curated dataset is not a transparent one; the latter is rather a heavily mediated and discipline-specific representation of the former. **Through the collection and curation of our own dataset we are acutely aware of the choices that went into its creation.** The use of already curated datasets has other undeniable advantages: it may temper the influence of the researcher on his or her findings; furthermore, from a practical standpoint, it allows work to advance past the time-consuming labor of curation. While we would not suggest that researchers need to reinvent the wheel, we do advocate for a more explicit reflection on the relationship between the dataset and the objects it describes. Such reflection allows for a deeper resonance between digitally enabled research agendas and existing intellectual and disciplinary traditions.” (Vareschi and Burkert 612)  
 
@@ -193,7 +187,7 @@ One of my core interests is grappling with heterogenous groups of texts, which a
 
 
 
-## intro ##  
+## 2.1.  intro ##  
 
 Ian Gadd argues that critiques of digital databases often not based on the right grounds: “the real risk of scholarly misuse of \[Early English Books Online\] is less to do with the physical features of early printed books that it fails, one way or another, to represent (problematic though these are) and more to do with a lack of an informed knowledge of what exactly EEBO *is*.” (Gadd 682) The observation applies far beyond EEBO: although it is easiest to critique digital resources for their failures to perfectly replicate the full tactile experience of the books they simulate, or for failing to contain every possible book, those critiques are fundamentally futile. \[What other critiques are possible?\] This chapter examines the history, textual selection, and implicit model of six databases: the ESTC, ECCO, ECCO-TCP, Project Gutenberg, Google Books, and HathiTrust. I explore how each database encodes its assumptions about what literature is, who it is for, and how it should be used. I historicize these models in the context of the institutional infrastructure behind the creation of each resource, particularly the economic factors driving development. I argue that the differences between each database’s literary model are best understood as the result of different strategies to navigate conflict between commercial and anti-commercial values. In parallel, I follow Charlotte Smith through each of these databases, to explore the impact of their different literary models. Very different works by Smith are available in each resource, and in very different formats. Smith’s most major works are not readily available, suggesting that these literary archives lag behind scholarly consensus about her importance. The chapter concludes with a discussion of new developments in Optical Character Recognition (OCR) technology, which can be used to transcribe texts from page images. \[OCR BLUF.\]
 
@@ -203,13 +197,13 @@ Ian Gadd argues that critiques of digital databases often not based on the right
 
 
 
-## database histories ##  
+## 2.2.  database histories ##  
 
 In the next section I will close read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.
 
 
 
-### 2.1.1.  ESTC timeline history ###
+### 2.2.1.  ESTC timeline history ###
 
 
 
@@ -231,7 +225,7 @@ In 2006, almost thirty years after the commencement of the project, the ESTC und
 
 
 
-### 2.1.2.  ECCO timeline history ###  
+### 2.2.2.  ECCO timeline history ###  
 
 To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
 
@@ -281,7 +275,7 @@ In late 2019, Gale began allowing access to a new interface, the Gale Digital Sc
 
 
 
-### 2.1.3.  TCP timeline history ###  
+### 2.2.3.  TCP timeline history ###  
 
 “The Text Creation Partnership started, in 1999, as a collaboration between the university libraries of Michigan and Oxford, the Council on Library and Information Resources, and the publisher of Early English Books Online, Proquest. The aim was to create high quality ‘standardized, digitally-encoded electronic text editions’ starting with 25,000 titles from Early English Books Online.” (Gregg n. pag.)
 
@@ -317,7 +311,11 @@ In 2007, all three TCP project reported successful sales, though ECCO’s news w
 
 “Begun in 2009, Phase II both shrank and expanded the scope of EEBO TCP.  Selection became more discriminating and focused more on English-language (and Welsh- and Gaelic-language) texts to the exclusion of French and Latin titles, and also set aside the serials (periodicals) as a fit project for another time. But within the constraints of English-language monographic titles, it aspired to something approaching comprehensive treatment: EEBO Phase II planned to convert each and every unique work in Early English Books Online (usually the first edition), or an estimated total of around 45,000 books on top of the 25,000 completed in Phase I. This was an ambitious, and always risky, goal. As it happened, enough institutions joined Phase II to fund the completion of about 40,000 titles, of which about 35,000 have been released to date, the remainder slowly working their way through the production pipeline. (TCP “EEBO”)
 
-“As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)  
+“As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)
+
+
+
+### 2.2.4.  PG timeline history ###  
 
 Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
 
@@ -459,7 +457,13 @@ Did this go anywhere?
 
 
 
-It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?  
+It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?
+
+
+
+### 2.2.5.  GB timeline history ###
+
+
 
 “...one can certainly argue that the project is as old as Google itself. In 1996, Google co-founders Sergey Brin and Larry Page were graduate computer science students working on a research project supported by the Stanford Digital Library Technologies Project. Their goal was to make digital libraries work, and their big idea was as follows: in a future world in which vast collections of books are digitized, people would use a “web crawler” to index the books’ content and analyze the connections between them, determining any given book’s relevance and usefulness by tracking the number and quality of citations from other books. The crawler they wound up building was called BackRub, and it was this modern twist on traditional citation analysis that inspired Google’s PageRank algorithms -- the core search technology that makes Google, well, Google.” (“Google Books History”)
 
@@ -581,7 +585,7 @@ Wikipedia: “Google has been quite secretive regarding its plans on the future 
 
 
 
-### 2.1.4.  Hathi timeline history ###
+### 2.2.6.  Hathi timeline history ###
 
 
 
@@ -611,7 +615,11 @@ The governing bodies operate under the HathiTrust Bylaws. In addition to the for
 
 
 
-Wikipedia: “The partnership includes over 60 research libraries\[7\] across the United States, Canada, and Europe, and is based on a shared governance structure. Costs are shared by the participating libraries and library consortia.\[8\] The repository is administered by the University of Michigan.\[9\] The Executive Director of HathiTrust is Mike Furlough.\[10\] The HathiTrust Shared Print Program is a distributed collective collection whose participating libraries have committed to retaining almost 18 million monograph volumes for 25 years, representing three-quarters of HathiTrust digital book holdings.\[11\]”  
+Wikipedia: “The partnership includes over 60 research libraries\[7\] across the United States, Canada, and Europe, and is based on a shared governance structure. Costs are shared by the participating libraries and library consortia.\[8\] The repository is administered by the University of Michigan.\[9\] The Executive Director of HathiTrust is Mike Furlough.\[10\] The HathiTrust Shared Print Program is a distributed collective collection whose participating libraries have committed to retaining almost 18 million monograph volumes for 25 years, representing three-quarters of HathiTrust digital book holdings.\[11\]”
+
+
+
+### 2.2.7.  synthesizing histories ###  
 
 To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
 
@@ -823,7 +831,7 @@ are they really making money or do they just think they are
 
 
 
-## Smith in databases ##  
+## 2.3.  Smith in databases ##  
 
 For the purposes of this chapter, I examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  I have slightly expanded my chronological focus in part because some of the most interesting exclusions occur earlier and later in Smith’s publishing career, such as the first edition of her immensely influential Elegiac Sonnets (1784), which is listed in the ESTC but not available in facsimile anywhere, or the publications in the last years of her life, which are excluded from the chronological focus of most resources but can still appear in HathiTrust. Of particular interest is the fact that *Beachy Head*, which is now one of Smith’s most frequently anthologized and taught poems, does not appear in a single digital database. None of these inclusions or exclusions represent an agenda against (or for) Smith, or indeed an interpretive choice at all, but they nonetheless shape the disciplinary infrastructure.  
 
@@ -847,7 +855,7 @@ Searching the ESTC for records which both have “Toronto” in the library name
 
 
 
-## database models ##  
+## 2.4.  database models ##  
 
 Mark Merry’s Designing Databases for Historical Research as a rich entrypoint for historians to learn about database construction, in particular the chapter on “Conceptual models of database design” that contrasts “source-oriented” and “method-oriented” models:
 
@@ -863,9 +871,7 @@ Ultimately, historians will need to steer a middle course between the two extrem
 
 
 
-#### 2.2.1.1.  edition & ideal copy ####
-
-
+### 2.4.1.  ESTC model ###  
 
 One reason that it can be informative to close-read the data structures of a resource like the ESTC is that a resource’s categories of knowledge are driven by the *uses* to which it expects that knowledge to be put. Examining the implicit assumptions that will make a given organization of knowledge seem logical, we can work backwards to the purpose of mission of the initial knowledge creation. Thus Tabor describes the data structure and the mission of the ESTC in a single statement: “ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (369). Korshin further elaborates the use envisioned for this information: “the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book in his or her library is the same or different from the one listed in ESTC” (211). Both “edition” and “ideal copy” are terms defined around the interests of a specialist audience of bibliographers, which bear inexact but important relationships to the formulation of an ESTC record.
 
@@ -893,7 +899,7 @@ There are several different ways to search ESTC records. The “Search” button
 
 
 
-### 2.2.2.  ECCO model ###
+### 2.4.2.  ECCO model ###
 
 
 
@@ -923,7 +929,7 @@ A glowing 2004 review of ECCO in the “Database & Disc Reviews” section of Li
 
 
 
-### 2.2.3.  TCP model ###
+### 2.4.3.  TCP model ###
 
 
 
@@ -935,7 +941,7 @@ Although the ECCO-TCP now seems obviously built for text-mining distant reading,
 
 
 
-### 2.2.4.  Hathi model ###
+### 2.4.4.  Hathi model ###
 
 
 
@@ -945,7 +951,13 @@ Wikipedia: “PageTurner is the web application on the HathiTrust website for vi
 
 See: <https://www.hathitrust.org/technology>
 
-See: <https://search-proquest-com.myaccess.library.utoronto.ca/results/58AF728D91BD440DPQ/false?accountid=14771>  
+See: <https://search-proquest-com.myaccess.library.utoronto.ca/results/58AF728D91BD440DPQ/false?accountid=14771>
+
+
+
+### 2.4.5.  PG model ###
+
+
 
 The structuring principle of Project Gutenberg is its missions to make books available for pleasure reading. I argue that its core concept, analogous to the “edition” in the ESTC, or the “book” in ECCO and HathiTrust, is the “story.” Many of the priorities of Project Gutenberg which seem incompatible with scholarly approaches to textual history are explained by thinking of Project Gutenberg as being structured around “stories” rather than “books.”
 
@@ -957,7 +969,11 @@ The article ”Quantitative patterns of stylistic influence in the evolution of 
 
 
 
-Cite Hammond’s book re: comparing modernists to bestsellers --- he can’t always find bestsellers, it depends on whether bestsellers were enjoyed enough for someone to bother to type them up  
+Cite Hammond’s book re: comparing modernists to bestsellers --- he can’t always find bestsellers, it depends on whether bestsellers were enjoyed enough for someone to bother to type them up
+
+
+
+### 2.4.6.  GB model ###  
 
 Google Books prioritizes low-quality information over *no* information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
 
@@ -967,7 +983,11 @@ Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE met
 
 
 
-“At its peak, the project involved about 50 full-time software engineers. They developed optical character-recognition software for turning raw images into text; they wrote de-warping and color-correction and contrast-adjustment routines to make the images easier to process; they developed algorithms to detect illustrations and diagrams in books, to extract page numbers, to turn footnotes into real citations, and, per Brin and Page’s early research, to rank books by relevance. “Books are not part of a network,” Dan Clancy, who was the engineering director on the project during its heyday, has said. “There is a huge research challenge, to understand the relationship between books.”” (Somers)  
+“At its peak, the project involved about 50 full-time software engineers. They developed optical character-recognition software for turning raw images into text; they wrote de-warping and color-correction and contrast-adjustment routines to make the images easier to process; they developed algorithms to detect illustrations and diagrams in books, to extract page numbers, to turn footnotes into real citations, and, per Brin and Page’s early research, to rank books by relevance. “Books are not part of a network,” Dan Clancy, who was the engineering director on the project during its heyday, has said. “There is a huge research challenge, to understand the relationship between books.”” (Somers)
+
+
+
+### 2.4.7.  database selection ###  
 
 “It has been difficult to consider playbills at scale because they were excluded from the catalogs that form the basis for mass digitization efforts. The absence of playbills from Eighteenth-Century Collections Online (ECCO), as well as from its pre-1700 counterpart Early English Books Online (EEBO), is a result of the decision, as reported by R. C. Alston, not to include them in the English Short Title Catalog (ESTC) on which those collections are built.” (Vareschi and Burkert 600 --- citing R. C. Alston, “The Eighteenth-Century Non-Book: Observations on Printed Ephemera,” in *The Book and the Book Trade in Eighteenth-Century Europe*, ed. Giles Barber and Bernhard Fabian (Hamburg: Dr. Ernst Hauswedell & Co., 1981), 343--60, quote on 344--45.)
 
@@ -1049,7 +1069,11 @@ The first Project Gutenberg texts are almost a parody of important texts: The De
 
 
 
-“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)  
+“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
+
+
+
+## 2.5.  OCR ##  
 
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
@@ -1145,7 +1169,11 @@ Figure 6: The facsimile of the first page of *The Emigrants* found in HathiTrust
 
 “16 In his discussion of JSTOR's "intolerably corrupt" OCR text, Nicholson Baker suggests that the reason why the user is prevented from scrolling through this naked OCR output is that scholars "might, after a few days, be dis- turbed by the frequency and strangeness of its mistakes . . . and they might no longer be willing to put their trust in the scholarly integrity of the database."17 Baker's criticism of JSTOR, however, is based on an error rate (with editorial intervention) of just one typo in every two thousand characters.” (Spedding 439)
 
-“The two OCR-captured texts average over 150 typos per 2,000 characters,22 a high enough error rate to render parts of the text completely unintelligible. It is not clear how typical this error rate is, and how much it declines with editorial intervention,23 but again the scale of the problem is clear.24 Consequently, the claim that OCR errors "may occasionally result in incorrect character capture, which may affect some \[ECCO\] full-text search results," seems wildly, even heroically, optimistic.” (Spedding 440)  
+“The two OCR-captured texts average over 150 typos per 2,000 characters,22 a high enough error rate to render parts of the text completely unintelligible. It is not clear how typical this error rate is, and how much it declines with editorial intervention,23 but again the scale of the problem is clear.24 Consequently, the claim that OCR errors "may occasionally result in incorrect character capture, which may affect some \[ECCO\] full-text search results," seems wildly, even heroically, optimistic.” (Spedding 440)
+
+
+
+## 2.6.  data cleaning ##  
 
 The next phase of this project does not deal with these databases directly, but with my own curated samples. I have collected as much information as I can about all the works published in England 1789-99 held within each database. What follows is a detailed description of each of these samples, and of the further work which I employed to prepare these samples for computational experimentation  
 
@@ -1163,7 +1191,11 @@ usable enough to share, which would seem to imply we’ve already compromised on
 
 
 
-“I leaned on the word “tidy” in part due to Marie Kondo’s *Tidying Up*, newly popularized in the United States from the Net ix special last year. Marie Kondo’s tidiness is not an absolute, but instead contextual. In *your* home, what matters most? Answering that question isn’t a prerequisite to starting to tidy - it’s an ongoing discovery that happens during the process of tidying.” (Lincoln)  
+“I leaned on the word “tidy” in part due to Marie Kondo’s *Tidying Up*, newly popularized in the United States from the Net ix special last year. Marie Kondo’s tidiness is not an absolute, but instead contextual. In *your* home, what matters most? Answering that question isn’t a prerequisite to starting to tidy - it’s an ongoing discovery that happens during the process of tidying.” (Lincoln)
+
+
+
+## 2.7.  conclusion ##  
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 

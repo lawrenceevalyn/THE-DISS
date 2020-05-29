@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-28 23:04:52 -0400" ModID="655BF2A8-9AF0-4950-BCD2-6E0B6B83760C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-28 23:10:09 -0400" ModID="9D862F80-1AEA-4128-B385-482E8D8BF93B">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -249,6 +249,7 @@
                                     <Children>
                                         <BinderItem UUID="B25BA972-1B75-4793-B9FF-0EEA20A6BC29" Type="Text" Created="2020-05-10 20:31:33 -0400" Modified="2020-05-10 20:32:16 -0400">
                                             <MetaData>
+                                                <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
@@ -632,7 +633,7 @@
                         <BinderItem UUID="8EE66AAE-8EBE-4BBA-8E4D-EAF3F280F1FD" Type="Text" Created="2020-02-18 15:00:57 -0500" Modified="2020-03-23 19:04:06 -0400">
                             <Title>intro</Title>
                             <MetaData>
-                                <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -655,7 +656,7 @@
                         <BinderItem UUID="13A33E95-65DF-4C60-8BB0-E763187BB1E0" Type="Text" Created="2020-02-18 15:03:30 -0500" Modified="2020-03-26 00:24:44 -0400">
                             <Title>database histories</Title>
                             <MetaData>
-                                <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -803,6 +804,7 @@
                                 <BinderItem UUID="25A3F06F-C32F-4F7D-8ACB-FD1A1D0239CD" Type="Text" Created="2020-03-06 18:53:57 -0500" Modified="2020-03-25 15:45:00 -0400">
                                     <Title>PG timeline history</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -888,6 +890,7 @@
                                 <BinderItem UUID="19BD6044-EBFB-4D42-B0DA-26E9E031EC77" Type="Text" Created="2020-03-06 18:54:00 -0500" Modified="2020-03-26 00:24:40 -0400">
                                     <Title>GB timeline history</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -909,6 +912,7 @@
                                 <BinderItem UUID="86FA8628-66BD-4C4C-A855-9BEB6C3C51D8" Type="Text" Created="2020-03-10 17:49:53 -0400" Modified="2020-03-25 17:57:27 -0400">
                                     <Title>synthesizing histories</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1062,7 +1066,7 @@
                         <BinderItem UUID="FFA030C4-4A92-4E38-A2FE-31F7C34E974D" Type="Text" Created="2020-02-18 15:03:35 -0500" Modified="2020-03-23 19:16:39 -0400">
                             <Title>Smith in databases</Title>
                             <MetaData>
-                                <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -1137,7 +1141,7 @@
                         <BinderItem UUID="D488F467-C376-4EA7-884C-0CBA78F9F05D" Type="Text" Created="2020-02-18 15:03:20 -0500" Modified="2020-03-05 22:30:38 -0500">
                             <Title>database models</Title>
                             <MetaData>
-                                <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -1157,6 +1161,7 @@
                                 <BinderItem UUID="814452D2-7FD0-43C9-B968-63EF7FE6E2E5" Type="Text" Created="2020-02-27 18:15:29 -0500" Modified="2020-03-05 22:30:26 -0500">
                                     <Title>ESTC model</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>10</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1167,7 +1172,7 @@
                                         <BinderItem UUID="71D9A3C8-A687-4A43-916A-6147A62197F8" Type="Text" Created="2020-02-18 15:03:45 -0500" Modified="2020-03-05 22:30:19 -0500">
                                             <Title>edition &amp; ideal copy</Title>
                                             <MetaData>
-                                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
+                                                <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
                                                 <LabelID>11</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -1244,6 +1249,7 @@
                                 <BinderItem UUID="3C5BEC78-9108-40B0-9A42-63E92A3BC4BF" Type="Text" Created="2020-02-27 17:32:04 -0500" Modified="2020-03-12 18:35:49 -0400">
                                     <Title>PG model</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1274,6 +1280,7 @@
                                 <BinderItem UUID="14AC0D91-3FB4-419A-BED2-6588DAD8FC06" Type="Text" Created="2020-03-06 18:54:08 -0500" Modified="2020-03-06 18:54:29 -0500">
                                     <Title>GB model</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1295,6 +1302,7 @@
                                 <BinderItem UUID="A1AFA6E8-B358-45AA-B45F-60ADD8F110A9" Type="Text" Created="2020-03-21 00:35:21 -0400" Modified="2020-03-21 00:35:49 -0400">
                                     <Title>database selection</Title>
                                     <MetaData>
+                                        <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                         <LabelID>9</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -1402,6 +1410,7 @@
                         <BinderItem UUID="AAF24D96-379D-4EDC-AC68-39CD1109B3A2" Type="Text" Created="2020-03-23 19:06:49 -0400" Modified="2020-03-23 19:07:11 -0400">
                             <Title>OCR</Title>
                             <MetaData>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -1503,6 +1512,7 @@
                         <BinderItem UUID="370CD608-BCA5-4E63-80AE-6FA3CFF1AF2C" Type="Text" Created="2020-05-28 22:34:55 -0400" Modified="2020-05-28 22:38:23 -0400">
                             <Title>data cleaning</Title>
                             <MetaData>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -1533,6 +1543,7 @@
                         <BinderItem UUID="04CA39D4-3CAC-4344-8EAA-0229A1CBA732" Type="Text" Created="2020-02-17 17:20:58 -0500" Modified="2020-03-23 19:50:02 -0400">
                             <Title>conclusion</Title>
                             <MetaData>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
