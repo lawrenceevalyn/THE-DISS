@@ -171,6 +171,8 @@ The meaning of “popular” shifts depending on what is conceived of as its “
 
 Literary study is typically interested in outliers, because they are, well, *interesting*. I’m interested in the “normal” because I think it is a necessary context for any claims or analysis about that which is exceptional. For example, it’s not appropriate to read too much into the fact that Radcliffe published Athlin & Dunbayne unsigned, since this was “normal” --- a default position, rather than an informative expression of intentionality. So, one kind of “normal” that interests me is this idea of the default: what might we expect? The default normal can be defined at multiple levels of granularity. We are handed a two-volume work, what might we expect from it at default? We are looking at a poem written by a man in 1792, what might we expect from it at default? Making these naive default guesses will be tied to another meaning of “normal,” that of “most prevalent.” From this perspective “normal” serves more as a synonym of “common.” What do we find the most of? Again, this can be defined at multiple levels of granularity. (Is most-ness a trait of normality, or of exceptionality....?) Can we better characterize the background against which outlier works were written and read?
 
+What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
+
 In both cases, it is difficult to describe “normal for an eighteenth century audience” through the mediating lenses of our databases. One key question, in fact, is “is there anything that seems normal in these databases which would not seem normal to the eighteenth century public?” I anticipate denaturalizing some aspects of these databases, e.g., the way that the flatten distinctions between different buying publics (social classes, time periods, tastes).
 
 I’m also interested in “disreputable” literatures, which have often been some versions of popular or some versions of normal --- this is an essentially ethical attachment, or perhaps an inherent contrariness; any time a work is dismissed for any reason, I wish to question the importance of the evaluation metrics which rejected it, and seek whatever may be of value in the rejected work. This is one way a reparative impulse underlies the project: so what is these things were common, or cheap, or bad --- that doesn’t mean they *have* to be worthless. The arbitrariness of the literary canon is that essentially any artistic product can be imbued with value by its audience. (Guillory has a lot on this.) I want to explore how we can value that which has not been valued.  
@@ -841,93 +843,23 @@ Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from 
 
 Only one of Charlotte Smith’s works is available in Project Gutenberg: *Emmeline, the Orphan of the Castle* (first published 1788).  
 
-Searching the ESTC for records which both have “Toronto” in the library name and “Charlotte Turner” in the author name turns up two records: volume one of *Rural Walks* (1795) and *Minor Morals* (1798), both held at the Toronto public library. The Toronto Public Library catalogue has two distinct author identities for “Smith, Charlotte Turner, 1749-1806, author.” and for “Smith, Charlotte, 1749-1806,” and the special collections holdings only appear under the latter name (making them initially difficult to find). Under the “Smith, Charlotte” name, however, six titles printed during Smith’s appear: the two listed in ESTC, plus a complete two-volume copy of *Rural Walks* (1795), the first and second editions of *Rambles Farther* (1796 and 1800), and *Conversations Introducing Poetry* (1804). Of these, *Rural Walks* and both editions of *Rambles Farther* are listed in the ESTC but without records of the Toronto copies. All six titles are part of the Osborne Collection of Early Children's Books. \[This is interesting because it shows how scholarly disciplinary interpretations perpetuate themselves *infrastructurally*: as a Toronto-based scholar, the path is easier for me to study Smith-the-children’s-writer than other Smiths.\]  
-
-“It has been difficult to consider playbills at scale because they were excluded from the catalogs that form the basis for mass digitization efforts. The absence of playbills from Eighteenth-Century Collections Online (ECCO), as well as from its pre-1700 counterpart Early English Books Online (EEBO), is a result of the decision, as reported by R. C. Alston, not to include them in the English Short Title Catalog (ESTC) on which those collections are built.” (Vareschi and Burkert 600 --- citing R. C. Alston, “The Eighteenth-Century Non-Book: Observations on Printed Ephemera,” in *The Book and the Book Trade in Eighteenth-Century Europe*, ed. Giles Barber and Bernhard Fabian (Hamburg: Dr. Ernst Hauswedell & Co., 1981), 343--60, quote on 344--45.)
+Searching the ESTC for records which both have “Toronto” in the library name and “Charlotte Turner” in the author name turns up two records: volume one of *Rural Walks* (1795) and *Minor Morals* (1798), both held at the Toronto public library. The Toronto Public Library catalogue has two distinct author identities for “Smith, Charlotte Turner, 1749-1806, author.” and for “Smith, Charlotte, 1749-1806,” and the special collections holdings only appear under the latter name (making them initially difficult to find). Under the “Smith, Charlotte” name, however, six titles printed during Smith’s appear: the two listed in ESTC, plus a complete two-volume copy of *Rural Walks* (1795), the first and second editions of *Rambles Farther* (1796 and 1800), and *Conversations Introducing Poetry* (1804). Of these, *Rural Walks* and both editions of *Rambles Farther* are listed in the ESTC but without records of the Toronto copies. All six titles are part of the Osborne Collection of Early Children's Books. \[This is interesting because it shows how scholarly disciplinary interpretations perpetuate themselves *infrastructurally*: as a Toronto-based scholar, the path is easier for me to study Smith-the-children’s-writer than other Smiths.\]
 
 
 
-“Alston recalls that the unusually high survival rate of playbills / actually worked against their inclusion in the ESTC during its creation in the 1970s. Often thought of as fragile in their ephemerality, playbills actually “seem to have been preserved more consistently than any other category of ephemera.”17 The compilers of the ESTC decided to catalog approximately 250,000 ephemeral materials like pam- phlets and ballads, but balked at including playbills, which would have added nearly 50,000 items from the British Library and the Victoria and Albert Museum alone.18 This decision has had serious ramifications for the study of British culture in the ensuing thirty years: ballads and pamphlets are now the basis of numerous serious studies by scholars in literature and history, while playbills are not.” (Vareschi and Burkert 600-601)
+## database models ##  
 
-“Alston’s account reminds us that **playbills are infrequently studied today because they were** ***made*** **less accessible and less institutionally supported than other kinds of items**. While they once shared a visual field with the other cheaply printed materials of early modern London, such as libels and advertisements,20 today they are nearly invisible to scholars who can access those other cheap prints with the click of a button.” (Vareschi and Burkert 600-601)  
+Mark Merry’s Designing Databases for Historical Research as a rich entrypoint for historians to learn about database construction, in particular the chapter on “Conceptual models of database design” that contrasts “source-oriented” and “method-oriented” models:
 
-“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
+“The Source-oriented model of database design dictates that everything about the design of the historical database is geared towards recording every last piece of information from the sources, omitting nothing, and in effect becoming a digital surrogate for the original...
 
+\[The method-oriented model\] is based on what the database is intended to do, rather than the nature of the information it is intended to contain...
 
+Method-oriented databases are quicker to design, build and enter data into, but it is very hard to deviate away from the designed function of the database, in order to (for example) pursue newly discovered lines of enquiry.
 
-The “microfilm series is not a random - and therefore randomly representatve--- selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
+Ultimately, historians will need to steer a middle course between the two extreme models, perhaps with a slight tendency to lean towards the Source-oriented approach. When making decisions about what information you need from your sources to go into the database, it is important to take into account that your needs may change over the course of a project that might take a number of years.” (Lincoln)
 
-
-
-“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
-
-
-
-Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s *Elegiac Sonnets*, a significant title which is absent.
-
-
-
-“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)  
-
-”subject heading assignment is pragmatic and heuristic rather than an exercise in truth and accuracy. ...normally the question to be asked is whether they are good or bad, helpful or irrelevant, rather than true (accurate) or false (incorrect). The assignment of subject headings cannot and need not conform to the same standards that apply to descriptive bibliography in the tradition of W. W. Greg and Fredson Bowers. What descriptive accuracy is to cataloging and bibliography, *consistency* is to the assignment of subject headings.” (Garrett 69)
-
-
-
-“While the English Short Title Catalogue (ESTC) contains Library of Congress Subject Headings (hereafter: LCSH) for books from the English-speaking world printed before 1701, entries for material dating from 1701 to 1800 are not subject indexed.” (Garrett 70)
-
-“An already difficult situation has been aggravated recently by the sudden (and otherwise hugely welcome) availability of a new and mammoth library of searchable eighteenth-century text online through Thomson Gale’s Eighteenth Century Collections Online (ECCO).” (Garrett 70)
-
-“Northwestern harvested records from WorldCat containing subject headings for eighteenth-century titles in ECCO.” (Garrett 71)
-
-They found that roughly 60% of the material located in a search for “East India Trading Company” was only found due to the subject headings, and would not have been found by a simple keyword search. (Garrett 73-4)
-
-“Shortly after completion of this manuscript, The British Library announced that it intended to add LCSH to all 18th-century records in the ESTC by autumn 2007. The subject headings extracted by Northwestern from the WorldCat database will constitute an important part of this enhancement project.” (Garrett 77)  
-
-What is *in* the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So --- the TCP contains whatever individual works happened to interest particular scholars.
-
-
-
-The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editions of a given work. This decision was a pragmatic one motivated by “limited funding” and a sense of scarcity: “Simply put, for every book that we chose to convert, a different book does not get converted: duplication, even partial duplication, has its costs” (TCP “FAQ”). Since the TCP never envisioned itself as a fully complete collection, the priority in textual selection “was always to capture as many different works and as great a variety of text as we could, usually focusing on the first edition of each work”(TCP “FAQ”). To a certain extent, this lack of duplication can be useful for text-mining: it places all texts on an equal playing field, rather than double-dipping on some works. However, they “have keyed additional editions where there is sufficient justification for doing so, and a user has made a case for it,” so the corpus cannot be assumed to contain *no* duplicated works (TCP “FAQ”).
-
-
-
-“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)
-
-
-
-“Discussion then began on how to further develop the TCP project and insure that we can create 25,000 texts. In order to do this, the Board felt that it needed more information about the complete number of texts possible to include in the corpus, a dollar amount per title required to complete the project, a report on the total number of institutions, and the gap between EEBO subscribers and EEBO-TCP partners. Shawn Martin will work with Mary Sauer-Games to gather this information and report back to the Board. Some members thought that EEBO-TCP should go back to already existing partners and ask for a second round of funds to complete the project. In order to do this, Board members felt EEBO-TCP should look very carefully at what titles it is selecting and come up with summaries of the number of desirable titles to convert and initiate a strategy that could persuade libraries that it would be worth another years commitment to complete, for example, all of the Thomason tracts, or all of a particular genre or canonical category.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
-
-
-
-“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
-
-
-
-
-
-“There are three portions of the Project Gutenberg Library, basically be described as:
-
-Light Literature; such as Alice in Wonderland, Through the Looking-Glass, Peter Pan, Aesop's Fables, etc.
-
-Heavy Literature; such as the Bible or other religious documents, Shakespeare, Moby Dick, Paradise Lost, etc.
-
-References; such as Roget's Thesaurus, almanacs, and a set of encyclopedia, dictionaries, etc.
-
-The Light Literature Collection is designed to get persons to the computer in the first place, whether the person may be a pre-schooler or a great-grandparent. We love it when we hear about kids or grandparents taking each other to an etexts to Peter Pan when they come back from watching HOOK at the movies, or when they read Alice in Wonderland after seeing it on TV. We have also been told that nearly every Star Trek movie has quoted current Project Gutenberg etext releases (from Moby Dick in The Wrath of Khan; a Peter Pan quote finishing up the most recent, etc.) not to mention a reference to Through the Looking-Glass in JFK. This was a primary concern when we chose the books for our libraries.
-
-We want people to be able to look up quotations they heard in conversation, movies, music, other books, easily with a library containing all these quotations in an easy to find etext format.” (Hart “History and Philosophy”)  
-
-The founding logic of Project Gutenberg resonates strikingly with Bordieu’s call to “*universalize in reality the conditions of access*” (qtd in Guillory 340, emphasis original) to literature.
-
-The first Project Gutenberg texts are almost a parody of important texts: The Declaration of Independence, The King James Bible. These are the texts assumed to be urgently desired by “99% of the general public” (Hart “History and Philosophy”). They are then followed, however, by a work which has rarely been central to the institutional hierarchies of cultural capital: Alice in Wonderland. As Hart describes his choices of what texts to transcribe next, he seems to be describing a version of what Guillory hoped for, “another kind of game” in which texts can compete for cultural capital, a game “with less dire consequences for the losers, an *aesthetic* game” (Guillory 340, emphasis original).
-
-
-
-“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)
-
-
-
-## database models ##
+ 
 
 
 
@@ -1037,6 +969,88 @@ Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE met
 
 “At its peak, the project involved about 50 full-time software engineers. They developed optical character-recognition software for turning raw images into text; they wrote de-warping and color-correction and contrast-adjustment routines to make the images easier to process; they developed algorithms to detect illustrations and diagrams in books, to extract page numbers, to turn footnotes into real citations, and, per Brin and Page’s early research, to rank books by relevance. “Books are not part of a network,” Dan Clancy, who was the engineering director on the project during its heyday, has said. “There is a huge research challenge, to understand the relationship between books.”” (Somers)  
 
+“It has been difficult to consider playbills at scale because they were excluded from the catalogs that form the basis for mass digitization efforts. The absence of playbills from Eighteenth-Century Collections Online (ECCO), as well as from its pre-1700 counterpart Early English Books Online (EEBO), is a result of the decision, as reported by R. C. Alston, not to include them in the English Short Title Catalog (ESTC) on which those collections are built.” (Vareschi and Burkert 600 --- citing R. C. Alston, “The Eighteenth-Century Non-Book: Observations on Printed Ephemera,” in *The Book and the Book Trade in Eighteenth-Century Europe*, ed. Giles Barber and Bernhard Fabian (Hamburg: Dr. Ernst Hauswedell & Co., 1981), 343--60, quote on 344--45.)
+
+
+
+“Alston recalls that the unusually high survival rate of playbills / actually worked against their inclusion in the ESTC during its creation in the 1970s. Often thought of as fragile in their ephemerality, playbills actually “seem to have been preserved more consistently than any other category of ephemera.”17 The compilers of the ESTC decided to catalog approximately 250,000 ephemeral materials like pam- phlets and ballads, but balked at including playbills, which would have added nearly 50,000 items from the British Library and the Victoria and Albert Museum alone.18 This decision has had serious ramifications for the study of British culture in the ensuing thirty years: ballads and pamphlets are now the basis of numerous serious studies by scholars in literature and history, while playbills are not.” (Vareschi and Burkert 600-601)
+
+“Alston’s account reminds us that **playbills are infrequently studied today because they were** ***made*** **less accessible and less institutionally supported than other kinds of items**. While they once shared a visual field with the other cheaply printed materials of early modern London, such as libels and advertisements,20 today they are nearly invisible to scholars who can access those other cheap prints with the click of a button.” (Vareschi and Burkert 600-601)  
+
+“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
+
+
+
+The “microfilm series is not a random - and therefore randomly representatve--- selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
+
+
+
+“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
+
+
+
+Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s *Elegiac Sonnets*, a significant title which is absent.
+
+
+
+“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)  
+
+”subject heading assignment is pragmatic and heuristic rather than an exercise in truth and accuracy. ...normally the question to be asked is whether they are good or bad, helpful or irrelevant, rather than true (accurate) or false (incorrect). The assignment of subject headings cannot and need not conform to the same standards that apply to descriptive bibliography in the tradition of W. W. Greg and Fredson Bowers. What descriptive accuracy is to cataloging and bibliography, *consistency* is to the assignment of subject headings.” (Garrett 69)
+
+
+
+“While the English Short Title Catalogue (ESTC) contains Library of Congress Subject Headings (hereafter: LCSH) for books from the English-speaking world printed before 1701, entries for material dating from 1701 to 1800 are not subject indexed.” (Garrett 70)
+
+“An already difficult situation has been aggravated recently by the sudden (and otherwise hugely welcome) availability of a new and mammoth library of searchable eighteenth-century text online through Thomson Gale’s Eighteenth Century Collections Online (ECCO).” (Garrett 70)
+
+“Northwestern harvested records from WorldCat containing subject headings for eighteenth-century titles in ECCO.” (Garrett 71)
+
+They found that roughly 60% of the material located in a search for “East India Trading Company” was only found due to the subject headings, and would not have been found by a simple keyword search. (Garrett 73-4)
+
+“Shortly after completion of this manuscript, The British Library announced that it intended to add LCSH to all 18th-century records in the ESTC by autumn 2007. The subject headings extracted by Northwestern from the WorldCat database will constitute an important part of this enhancement project.” (Garrett 77)  
+
+What is *in* the TCP? Well, when active transcription was taking place, “users (especially those affiliated with partner libraries) were welcome to request works from EEBO that had not yet been keyed, and that their requests would go to the top of the queue” (TCP “FAQ”). So --- the TCP contains whatever individual works happened to interest particular scholars.
+
+
+
+The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editions of a given work. This decision was a pragmatic one motivated by “limited funding” and a sense of scarcity: “Simply put, for every book that we chose to convert, a different book does not get converted: duplication, even partial duplication, has its costs” (TCP “FAQ”). Since the TCP never envisioned itself as a fully complete collection, the priority in textual selection “was always to capture as many different works and as great a variety of text as we could, usually focusing on the first edition of each work”(TCP “FAQ”). To a certain extent, this lack of duplication can be useful for text-mining: it places all texts on an equal playing field, rather than double-dipping on some works. However, they “have keyed additional editions where there is sufficient justification for doing so, and a user has made a case for it,” so the corpus cannot be assumed to contain *no* duplicated works (TCP “FAQ”).
+
+
+
+“Selection of works to transcribe for EEBO Phase 1 was initially based on named authors mentioned in the New Cambridge Bibliography of English Literature.  Though this tended to bias selection a bit toward canonical, or at least attributed, works, anonymous works may also have been selected at this stage if their titles appeared in the bibliography. The New Cambridge Bibliography of English Literature was chosen as a guideline because it included foundational works as well as less canonical titles related to a wide variety of fields, not just literary studies. In any case, this initial reliance on the New Cambridge soon gave way to a series of deliberate attempts to cast a wider net, for example by selecting works exemplifying a particular theme (food, drugs, piracy, witchcraft), or fitting a particular format (broadsides, pamphlets, etc.)  The intention was to supplement methodical selection with more or less random selection based on arbitrary criteria in order to expand the generic diversity of the corpus. Requests for particular works by faculty at partner institutions were also taken into consideration and, if feasible, placed at the head of the queue. A user willing and able to make a case for a given work almost always prevailed over other considerations.” (TCP “EEBO”)
+
+
+
+“Discussion then began on how to further develop the TCP project and insure that we can create 25,000 texts. In order to do this, the Board felt that it needed more information about the complete number of texts possible to include in the corpus, a dollar amount per title required to complete the project, a report on the total number of institutions, and the gap between EEBO subscribers and EEBO-TCP partners. Shawn Martin will work with Mary Sauer-Games to gather this information and report back to the Board. Some members thought that EEBO-TCP should go back to already existing partners and ask for a second round of funds to complete the project. In order to do this, Board members felt EEBO-TCP should look very carefully at what titles it is selecting and come up with summaries of the number of desirable titles to convert and initiate a strategy that could persuade libraries that it would be worth another years commitment to complete, for example, all of the Thomason tracts, or all of a particular genre or canonical category.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+
+
+
+“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
+
+
+
+
+
+“There are three portions of the Project Gutenberg Library, basically be described as:
+
+Light Literature; such as Alice in Wonderland, Through the Looking-Glass, Peter Pan, Aesop's Fables, etc.
+
+Heavy Literature; such as the Bible or other religious documents, Shakespeare, Moby Dick, Paradise Lost, etc.
+
+References; such as Roget's Thesaurus, almanacs, and a set of encyclopedia, dictionaries, etc.
+
+The Light Literature Collection is designed to get persons to the computer in the first place, whether the person may be a pre-schooler or a great-grandparent. We love it when we hear about kids or grandparents taking each other to an etexts to Peter Pan when they come back from watching HOOK at the movies, or when they read Alice in Wonderland after seeing it on TV. We have also been told that nearly every Star Trek movie has quoted current Project Gutenberg etext releases (from Moby Dick in The Wrath of Khan; a Peter Pan quote finishing up the most recent, etc.) not to mention a reference to Through the Looking-Glass in JFK. This was a primary concern when we chose the books for our libraries.
+
+We want people to be able to look up quotations they heard in conversation, movies, music, other books, easily with a library containing all these quotations in an easy to find etext format.” (Hart “History and Philosophy”)  
+
+The founding logic of Project Gutenberg resonates strikingly with Bordieu’s call to “*universalize in reality the conditions of access*” (qtd in Guillory 340, emphasis original) to literature.
+
+The first Project Gutenberg texts are almost a parody of important texts: The Declaration of Independence, The King James Bible. These are the texts assumed to be urgently desired by “99% of the general public” (Hart “History and Philosophy”). They are then followed, however, by a work which has rarely been central to the institutional hierarchies of cultural capital: Alice in Wonderland. As Hart describes his choices of what texts to transcribe next, he seems to be describing a version of what Guillory hoped for, “another kind of game” in which texts can compete for cultural capital, a game “with less dire consequences for the losers, an *aesthetic* game” (Guillory 340, emphasis original).
+
+
+
+“Project Gutenberg selects etexts targeted a bit on the "bang for the buck" philosophy ... we choose etexts we hope extremely large portions of the audience will want and use frequently. We are constantly asked to prepare etext from out of print editions of esoteric materials, but this does not provide for usage by the audience we have targeted, 99% of the general public.” (Hart “History and Philosophy”)  
+
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
 The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf31] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf32] This surprised me, and suggests that skepticism of OCR in eighteenth-century text mining may no longer be appropriate.  
@@ -1132,6 +1146,24 @@ Figure 6: The facsimile of the first page of *The Emigrants* found in HathiTrust
 “16 In his discussion of JSTOR's "intolerably corrupt" OCR text, Nicholson Baker suggests that the reason why the user is prevented from scrolling through this naked OCR output is that scholars "might, after a few days, be dis- turbed by the frequency and strangeness of its mistakes . . . and they might no longer be willing to put their trust in the scholarly integrity of the database."17 Baker's criticism of JSTOR, however, is based on an error rate (with editorial intervention) of just one typo in every two thousand characters.” (Spedding 439)
 
 “The two OCR-captured texts average over 150 typos per 2,000 characters,22 a high enough error rate to render parts of the text completely unintelligible. It is not clear how typical this error rate is, and how much it declines with editorial intervention,23 but again the scale of the problem is clear.24 Consequently, the claim that OCR errors "may occasionally result in incorrect character capture, which may affect some \[ECCO\] full-text search results," seems wildly, even heroically, optimistic.” (Spedding 440)  
+
+The next phase of this project does not deal with these databases directly, but with my own curated samples. I have collected as much information as I can about all the works published in England 1789-99 held within each database. What follows is a detailed description of each of these samples, and of the further work which I employed to prepare these samples for computational experimentation  
+
+“The more I listen to humanists working through data issues and challenges, I see a common tension arise:
+
+1\. We know that all data is a reductive construction
+
+2\. We also worry a lot about creating data that’s clean and
+
+usable enough to share, which would seem to imply we’ve already compromised on point 1.” (Lincoln)
+
+
+
+“Katie Rawson and Trevor Muñoz’s “Against Cleaning”, and the “Tidy Data” paper they cite by statistician Hadley Wickham. Although the former comes from a humanistic / librarian perspective, and the latter a statistical and programming perspective, I believe they are in fundamental agreement. ... Wickham’s paper, published in the Journal of Statistical Software, has been fairly called a manifesto, as it strongly advocates for more attention towards the “mundane data manipulation chores” that precede any kind of analytical work. “Tidy datasets are easy to manipulate, model and visualize, and have a speci c structure: each variable is a column, each observation is a row, and each type of observational unit is a table.” ...What was important about the Knoedler data being “tidy” wasn’t that it was somehow “clean” in a Platonic sense of being a pure representation of historical reality, but instead that the well- de fined relationships between is various fields and records allowed students to try a large number of queries against the data with much less effort than if they had been working with, for example, a word document transcribing the stock books into paragraphs. In this way, Wickham’s “tidy data” goes hand in hand with the deep questions that Rawson and Muñoz pose about the notion of “clean” data.” (Lincoln)
+
+
+
+“I leaned on the word “tidy” in part due to Marie Kondo’s *Tidying Up*, newly popularized in the United States from the Net ix special last year. Marie Kondo’s tidiness is not an absolute, but instead contextual. In *your* home, what matters most? Answering that question isn’t a prerequisite to starting to tidy - it’s an ongoing discovery that happens during the process of tidying.” (Lincoln)  
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 
@@ -1270,8 +1302,6 @@ Which of these archives are the most "reliable", and which the most "distorted"?
 * What’s *in* all these, anyway?
     * What does ECCO-TCP leave out compared to ECCO? Compared to ESTC? (Can I come up with adjustment factors?)
     * How do digital vs physical holdings compare?  
-
-What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)  
 
 The problem of textual selection--- the paired difficulty and importance of deciding which few books one will actually read--- is an urgently meaningful problem in the “real world,” outside the realms of academia. A common solution is one which will likely alarm and distress most scholars who have dedicated themselves to thinking through canonical selection, or even the construction of a syllabus: a solution which could perhaps be called ‘radical impatience.’ Consider, for example, the following advice in a blog post, “100 Ways to Live Better,” item number 6, the first entry in the category “Mind”:
 
