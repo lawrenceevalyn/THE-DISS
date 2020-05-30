@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-28 23:10:09 -0400" ModID="9D862F80-1AEA-4128-B385-482E8D8BF93B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-05-30 02:52:37 -0400" ModID="DDF1088A-1357-4E81-ADFC-D11B405BE13E">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -929,18 +929,6 @@
                                             <TextSettings>
                                                 <TextSelection>131,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-04-30 17:51:47 -0400">
-                                                    <Title>table:databases-timeline</Title>
-                                                    <MetaData>
-                                                        <LabelID>10</LabelID>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>2996,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
                                         </BinderItem>
                                         <BinderItem UUID="AE8EAD88-54DE-4D9D-8B3A-8A6C813E1A58" Type="Text" Created="2020-03-20 23:44:12 -0400" Modified="2020-03-20 23:44:40 -0400">
                                             <Title>commercialization</Title>
@@ -1062,6 +1050,16 @@
                                     </Children>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-05-29 22:00:39 -0400">
+                            <Title>table:databases-timeline</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>916,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="FFA030C4-4A92-4E38-A2FE-31F7C34E974D" Type="Text" Created="2020-02-18 15:03:35 -0500" Modified="2020-03-23 19:16:39 -0400">
                             <Title>Smith in databases</Title>
@@ -2206,7 +2204,7 @@
                                 <TextSelection>22795,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CD1FD43E-EC02-4C98-9F43-A6F3978BF298" Type="Text" Created="2020-03-20 19:37:13 -0400" Modified="2020-05-28 02:13:19 -0400">
+                        <BinderItem UUID="CD1FD43E-EC02-4C98-9F43-A6F3978BF298" Type="Text" Created="2020-03-20 19:37:13 -0400" Modified="2020-05-30 02:52:37 -0400">
                             <Title>ch 3</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -11871,13 +11869,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="602" Characters="3748" Date="2020-05-28 22:33:12 -0400"></PreviousSession>
+        <PreviousSession Words="1" Characters="1" Date="2020-05-29 22:00:06 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-05-28 00:00:00 -0400">
-        <DraftWordCount>602</DraftWordCount>
-        <DraftCharCount>3748</DraftCharCount>
-        <OtherWordCount>326</OtherWordCount>
-        <OtherCharCount>2023</OtherCharCount>
+    <RecentWritingHistory Date="2020-05-30 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>783</OtherWordCount>
+        <OtherCharCount>4649</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
