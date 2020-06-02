@@ -623,120 +623,6 @@ Wikipedia: “The partnership includes over 60 research libraries\[7\] across th
 
 To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
 
-1918	Pollard first proposes a “short-title handlist”
-
-1926	Pollard and Redgrave Short-Title Catalogue for 1476--1640
-
-1938	Eugene B. Power founds University Microfilms
-
-1945	Wing starts collecting his STC, 1641--1700
-
-1951	Donald Wing’s catalogue for 1641--1700, first edition
-
-1971	First text in what would be Project Gutenberg. Over the next twenty years, Michael Hart personally keyed the first hundred books.
-
-1972	Beginning of second ed of Wing STC, 1641--1700
-
-1976	Proposal for Eighteenth Century Short Title Catalogue, British Library and the American Society for Eighteenth Century Studies
-
-1976	Second edition, vol 1, of Wing’s STC
-
-1976	Beginning of second ed of Pollard & Redgrave STC, 1475-1640
-
-1977	ESTC pilot begun at British Library, directed by Robin Alston
-
-1979	ESTC: Libraries from USA, Germany, and Australia began contributing to ESTC
-
-1980	ESTC database available via British Library BLAISE \[British LibraryAutomated Information SErvice\]
-
-1981	Research Publications, Inc begins microfilming books
-
-1981	ESTC database available via US Research Libraries Group RLIN \[Research Libraries Information Network\] system
-
-1983	ESTC catalogue of BL holdings and indexes published in microform
-
-1983	*Eighteenth Century Collection* microfilm produced by Research Publications, Inc
-
-1985	ESTC online databases in RLIN and BLAISE upgraded to allow dynamic updates to a single shared file
-
-1986	Second edition, vol 2, of Wing’s STC
-
-1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue. Information from Wing and STC is added to ESTC.
-
-1987	Michael Hart recruits first Project Gutenberg volunteers
-
-1989	Project Gutenberg completes its tenth book, the King James Bible
-
-1991	End of second edition of Pollard & Redgrave STC, 1475-1640
-
-1991?	Exhaustive index to Wing’s STC --- after which Bibliographical Society no longer supported Wing
-
-1992	ESTC expanded scope to add serials
-
-1994	ESTC made pre-1700 records available
-
-1994
-
-1994	Project Gutenberg completes its 100^th^ book, the Complete Works of William Shakespeare ?? (Contradicts 1987 count)
-
-1994	Project Gutenberg’s first website is developed by volunteer Pietro Di Miceli
-
-“By the late 1990s, several thousand reels had been published in two series: ‘Early English Books, 1475--1640’ and ‘Early English Books, 1641--1700’.” (Gadd)
-
-1997	Project Gutenberg publishes its 1000^th^ book, La Divina Commedia di Dante, in Italian
-
-1998	ESTC second edition released on CD-ROM
-
-1998	Conclusion of second ed of Wing STC
-
-1998	Beginnings of EEBO: University Microfilms (now ProQuest) began to make available digitised copies of its microfilms across the Internet to subscribing institutions
-
-199	9	ESTC assumed official responsibility for receiving new Wing STC data
-
-1999	TCP began
-
-2000	Project Gutenberg: Charles Franks launches Distributed Proofreaders
-
-2003	ESTC third edition released on CD-ROM
-
-2003	Project Gutenberg 600 “best” ebooks released on CD-ROM, followed by 10,000 item DVD
-
-2003	Beginning of ECCO: Thomson Gale (now Gale Cengage Learning) made digital copies of Eighteenth Century Collection microfilms available to subscribers online
-
-2004	Google Print is announced
-
-2005	TCP begins encoding ECCO texts
-
-2006	ESTC made available to search free online; ESTC begins transcribing full title and imprints
-
-“As of 26 April 2007 the number of microfilm reels of The Eighteenth Century that had been released was 16,625; the total number of titles on these reels is 189,569 (information provided by Katri Russick, Thomson Gale, Australia and New Zealand, in a private email). This number increased to at least 17,828 microfilm reels - the number received and catalogued by Monash University - by 1 November 2010.” (Spedding 450)
-
-2007	Project Gutenberg DVD released with 17,000 items
-
-2008	Project Gutenberg publishes its 25,000^th^ book, English Book Collectors, by William Younger Fletcher
-
-2008	HathiTrust founded, by 12-university Committee on Institutional Cooperation and 11-library University of California Libraries
-
-2009	EEBO-TCP Phase I complete: produced 25,000 books; beginning of Phase II
-
-2010	Project Gutenberg DVD released with 30,000 items
-
-2011	40,000 books in Project Gutenberg
-
-2015	EEBO-TCP Phase I books released to the general public
-
-2017	Project Gutenberg discontinues free mailing of CDs and DVDs, though the files remain available for people to burn their own copies at home
-
-2021	EEBO-TCP Phase II books released to the general public
-
-
-
-Table 1: A chronological history of major events in the development of \[LIST THE DATABASES\].
-
-
-
-  
-
 “ProQuest is to be commended for its attitude to the wider scholarly community.27 EEBO is a commercial product but nonetheless there is an encouraging and genuine wish to engage with its users. This ranges from the active monitoring and rapid responding to queries submitted via its ‘Webmaster’ form to informal and formal consultations with students, scholars, and other users. EEBO representatives appear at -- and often sponsor -- academic events. Content is frequently corrected, updated, expanded and enhanced (such as the new ‘EEBO Introduction Series’); the searching mechanism continues to be improved; the project to produce full-text transcriptions (the Text Creation Partnership) is an academic venture, not a commercial one. Unlike Jackson’s microfilm photographer, lurking in his lair with his livid lights and chemical smells, the present providers of EEBO seem to be rather more interested in -- and responsive to -- contemporary scholarship.” (Gadd 688)  
 
 “It is perhaps the inconsistency of the OCR readings, obvious from this rough assessment, that makes Gale bashful about the restricted files. The editors of the ESTC confess to their public resource being a construction site in a way that the proprietors of private, commercial websites like ECCO prefer not to. But few really mind these days, especially if improvements are seen to be ongoing. Gale should be more relaxed about the incompleteness of their work, though perhaps not quite so relaxed as they are with the Burney Collection.” (Bullard 756)  
@@ -827,7 +713,121 @@ Give As Many eBooks to As Many People As Possible” (History-Computer)
 
 are they really making money or do they just think they are  
 
-“Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode 47)
+“Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode 47)  
+
+1918	Pollard first proposes a “short-title handlist”
+
+1926	Pollard and Redgrave Short-Title Catalogue for 1476--1640
+
+1938	Eugene B. Power founds University Microfilms
+
+1945	Wing starts collecting his STC, 1641--1700
+
+1951	Donald Wing’s catalogue for 1641--1700, first edition
+
+1971	First text in what would be Project Gutenberg. Over the next twenty years, Michael Hart personally keyed the first hundred books.
+
+1972	Beginning of second ed of Wing STC, 1641--1700
+
+1976	Proposal for Eighteenth Century Short Title Catalogue, British Library and the American Society for Eighteenth Century Studies
+
+1976	Second edition, vol 1, of Wing’s STC
+
+1976	Beginning of second ed of Pollard & Redgrave STC, 1475-1640
+
+1977	ESTC pilot begun at British Library, directed by Robin Alston
+
+1979	ESTC: Libraries from USA, Germany, and Australia began contributing to ESTC
+
+1980	ESTC database available via British Library BLAISE \[British Library Automated Information SErvice\]
+
+1981	Research Publications, Inc begins microfilming books
+
+1981	ESTC database available via US Research Libraries Group RLIN \[Research Libraries Information Network\] system
+
+1983	ESTC catalogue of BL holdings and indexes published in microform
+
+1983	*Eighteenth Century Collection* microfilm produced by Research Publications, Inc
+
+1985	ESTC online databases in RLIN and BLAISE upgraded to allow dynamic updates to a single shared file
+
+1986	Second edition, vol 2, of Wing’s STC
+
+1987	ESTC expanded scope to add all print prior to 1700, changing its name to the English Short Title Catalogue. Information from Wing and STC is added to ESTC.
+
+1987	Michael Hart recruits first Project Gutenberg volunteers
+
+1989	Project Gutenberg completes its tenth book, the King James Bible
+
+1991	End of second edition of Pollard & Redgrave STC, 1475-1640
+
+1991?	Exhaustive index to Wing’s STC --- after which Bibliographical Society no longer supported Wing
+
+1992	ESTC expanded scope to add serials
+
+1994	ESTC made pre-1700 records available
+
+1994
+
+1994	Project Gutenberg completes its 100^th^ book, the Complete Works of William Shakespeare ?? (Contradicts 1987 count)
+
+1994	Project Gutenberg’s first website is developed by volunteer Pietro Di Miceli
+
+“By the late 1990s, several thousand reels had been published in two series: ‘Early English Books, 1475--1640’ and ‘Early English Books, 1641--1700’.” (Gadd)
+
+1997	Project Gutenberg publishes its 1000^th^ book, La Divina Commedia di Dante, in Italian
+
+1998	ESTC second edition released on CD-ROM
+
+1998	Conclusion of second ed of Wing STC
+
+1998	Beginnings of EEBO: University Microfilms (now ProQuest) began to make available digitised copies of its microfilms across the Internet to subscribing institutions
+
+199	9	ESTC assumed official responsibility for receiving new Wing STC data
+
+1999	TCP began
+
+2000	Project Gutenberg: Charles Franks launches Distributed Proofreaders
+
+2003	ESTC third edition released on CD-ROM
+
+2003	Project Gutenberg 600 “best” ebooks released on CD-ROM, followed by 10,000 item DVD
+
+2003	Beginning of ECCO: Thomson Gale (now Gale Cengage Learning) made digital copies of Eighteenth Century Collection microfilms available to subscribers online
+
+2004	Google Print is announced
+
+2005	TCP begins encoding ECCO texts
+
+2006	ESTC made available to search free online; ESTC begins transcribing full title and imprints
+
+“As of 26 April 2007 the number of microfilm reels of The Eighteenth Century that had been released was 16,625; the total number of titles on these reels is 189,569 (information provided by Katri Russick, Thomson Gale, Australia and New Zealand, in a private email). This number increased to at least 17,828 microfilm reels - the number received and catalogued by Monash University - by 1 November 2010.” (Spedding 450)
+
+2007	Project Gutenberg DVD released with 17,000 items
+
+2008	Project Gutenberg publishes its 25,000^th^ book, English Book Collectors, by William Younger Fletcher
+
+2008	HathiTrust founded, by 12-university Committee on Institutional Cooperation and 11-library University of California Libraries
+
+2009	EEBO-TCP Phase I complete: produced 25,000 books; beginning of Phase II
+
+2010	Project Gutenberg DVD released with 30,000 items
+
+2011	40,000 books in Project Gutenberg
+
+2015	EEBO-TCP Phase I books released to the general public
+
+2017	Project Gutenberg discontinues free mailing of CDs and DVDs, though the files remain available for people to burn their own copies at home
+
+2021	EEBO-TCP Phase II books released to the general public
+
+
+
+Table 1: A chronological history of major events in the development of \[LIST THE DATABASES\].
+
+
+
+
 
 
 
@@ -1187,11 +1187,11 @@ usable enough to share, which would seem to imply we’ve already compromised on
 
 
 
-“Katie Rawson and Trevor Muñoz’s “Against Cleaning”, and the “Tidy Data” paper they cite by statistician Hadley Wickham. Although the former comes from a humanistic / librarian perspective, and the latter a statistical and programming perspective, I believe they are in fundamental agreement. ... Wickham’s paper, published in the Journal of Statistical Software, has been fairly called a manifesto, as it strongly advocates for more attention towards the “mundane data manipulation chores” that precede any kind of analytical work. “Tidy datasets are easy to manipulate, model and visualize, and have a speci c structure: each variable is a column, each observation is a row, and each type of observational unit is a table.” ...What was important about the Knoedler data being “tidy” wasn’t that it was somehow “clean” in a Platonic sense of being a pure representation of historical reality, but instead that the well- de fined relationships between is various fields and records allowed students to try a large number of queries against the data with much less effort than if they had been working with, for example, a word document transcribing the stock books into paragraphs. In this way, Wickham’s “tidy data” goes hand in hand with the deep questions that Rawson and Muñoz pose about the notion of “clean” data.” (Lincoln)
+“Katie Rawson and Trevor Muñoz’s “Against Cleaning”, and the “Tidy Data” paper they cite by statistician Hadley Wickham. Although the former comes from a humanistic / librarian perspective, and the latter a statistical and programming perspective, I believe they are in fundamental agreement. ... Wickham’s paper, published in the Journal of Statistical Software, has been fairly called a manifesto, as it strongly advocates for more attention towards the “mundane data manipulation chores” that precede any kind of analytical work. “Tidy datasets are easy to manipulate, model and visualize, and have a speciy a large number of queries against the data with much less effort than if they had been working with, for example, a word document transcribing the stock books into paragraphs. In this way, Wickham’s “tidy data” goes hand in hand with the deep questions that Rawson and Muñoz pose about the notion of “clean” data.” (Lincoln)
 
 
 
-“I leaned on the word “tidy” in part due to Marie Kondo’s *Tidying Up*, newly popularized in the United States from the Net ix special last year. Marie Kondo’s tidiness is not an absolute, but instead contextual. In *your* home, what matters most? Answering that question isn’t a prerequisite to starting to tidy - it’s an ongoing discovery that happens during the process of tidying.” (Lincoln)
+“I leaned on the word “tidy” in part due to Marie Kondo’s *Tidying Up*, newly popularized in the United States from the Net*your* home, what matters most? Answering that question isn’t a prerequisite to starting to tidy - it’s an ongoing discovery that happens during the process of tidying.” (Lincoln)
 
 
 
@@ -1449,7 +1449,9 @@ It may even compare unfavorably to relatively well-commented code, like the foll
 |  | print "error stripping namespace of file %s" % (filename) |
 
 
-What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.
+What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.  
+
+Vincent Carretta sees a lull in abolitionist activities during the late 1790s. Do I see anything like that?
 
 [CSmith-in-ESTC-ECCO-TCP-Hathi-table]: CSmith-in-ESTC-ECCO-TCP-Hathi-table.png width=184px height=312px
 
