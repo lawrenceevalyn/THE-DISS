@@ -1,16 +1,12 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fnil\fcharset0 Georgia;}
-{\colortbl;\red255\green255\blue255;\red204\green102\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c84466\c51457\c100000;}
+{\colortbl;\red255\green255\blue255;\red204\green102\blue255;\red15\green128\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c84466\c51457\c100000;\cssrgb\c0\c58980\c100000;}
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
 
-\f0\fs22 \cf2 My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)\
-\cf0 My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, \cf2 i\cf0 n OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert \'93all the MARC headings that exist\'94 using MarcEdit, I used all numbers 1 to 999 and [will] delete empty columns.\
-ECCO encodes much of its data in \'93unassigned\'94 columns, rather than the standardized LOC categories.\
+\f0\fs22 \cf2 My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)\cf3  Later I changed my mind and didn\'92t want Ireland and Scotland any more, which created a problem for myself.\cf2 \
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm"}}{\fldrslt \cf0 https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm}}\
-Library of Congress MARC info\cf2 \
+\cf0 My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing.\cf3 \
+\cf0 Using MarcEdit, I converted these MARC records to csv files which could, \cf2 i\cf0 n OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert \'93all the MARC headings that exist\'94 using MarcEdit, I used all numbers 1 to 999 and [will] delete empty columns.\cf3  I frequently referred to the Library of Congress\'92s MARC info at \'93MARC 21 Format for Authority Data.\'94 Cataloger's Reference Shelf, The Library Corporation. However, \cf0 ECCO encodes much of its data in \'93unassigned\'94 columns, rather than the standardized LOC categories\cf3 , presenting some challenged.\
 \
-\
-\
-I also have ECCO metadata records, now, from the Gale Digital Scholars Lab. Due to their restrictions on how much data may be downloaded at once, I have created 11 files, each one holding the metadata for all of ECCO\'92s works in each year. ECCO-1789.csv, for example, is based on the following search: \'93LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1789).\'94 These files initially contain works from a wide range of publication locations, not just England, since the Digital Scholars Lab does not provide any way to filter items by publication location.}
+These MARC records came in four files, named ECCO.mrc, ECCO1.mrc, ECCO2.mrc, and ECCO2-A.mrc. For some internal clarity I renamed the \'93ECCO.mrc\'94 file to \'93ECCO0.mrc\'94. }

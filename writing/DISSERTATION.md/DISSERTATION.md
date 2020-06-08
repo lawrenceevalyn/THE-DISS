@@ -375,6 +375,10 @@ In 2007, all three TCP project reported successful sales, though ECCO’s news w
 
 
 
+“Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000. In cooperation with Gale Cengage, these texts have been made freely available to the public.” (TCP, “Eighteenth Century Collections Online (ECCO) TCP”)
+
+
+
 ### 2.2.4.  PG timeline history ###  
 
 Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
@@ -642,6 +646,14 @@ Wikipedia: “As of October 2015, the number of scanned book titles was over 25 
 
 
 Wikipedia: “Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project -- initially stacks of books were entirely taken up for scanning whereas now Google only needed to consider the ones that have not been scanned already.\[49\] The company's own Google Books history page ends in 2007, and the Google Books blog was merged into the Google Search blog in 2012.\[113\] Despite winning the decade-long litigation in 2017, The Atlantic has said that Google has "all but shut down its scanning operation."\[20\] In April 2017, Wired reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.\[113\]”
+
+
+
+Material is still being sent to Google Books for scanning, however. In November 2019, University of Colorado Boulder announced that their library would be partnering with Google for books to be scanned, with copies appearing both in Google Books and in HathiTrust. (“Increasing Access with Google Books”)
+
+“In total, the process is estimated to take two to four years to complete. With this estimation, Interim Director of Libraries Information Technology Michael Dulock approximated that if Google processed 200,000 books and each book was about 200 pages, this project will save the Libraries about $20 million. 
+
+Another way to measure savings for the Libraries is with time. Dulock said that if Digital Media Services in the Libraries worked on this project full-time, with one staff member at 40 hours a week and five students at 20 hours a week, doing nothing else, it would take close to 100 years to complete.” (“Increasing Access with Google Books”)
 
 
 
@@ -1105,7 +1117,11 @@ The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editi
 
 
 
-“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)  
+“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+
+
+
+“To users working with the EEBO-TCP texts, the ECCO-TCP texts may form a useful adjunct, since for the latter some attempt was made to select works by authors who straddled the divide between the 17th and 18th centuries, the thought being that authors whose earlier works we had included in our 17th-century corpus could be “completed” by having their later works included in our 18th-century (ECCO-TCP) corpus. That helps account (for example) for **the heavy representation of Defoe** in ECCO-TCP.” (TCP, “Eighteenth Century Collections Online (ECCO) TCP”)  
 
 
 
@@ -1266,6 +1282,100 @@ usable enough to share, which would seem to imply we’ve already compromised on
 
 
 “I leaned on the word “tidy” in part due to Marie Kondo’s *Tidying Up*, newly popularized in the United States from the Net*your* home, what matters most? Answering that question isn’t a prerequisite to starting to tidy - it’s an ongoing discovery that happens during the process of tidying.” (Lincoln)  
+
+My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-\>1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery.
+
+My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file with fifteen columns of information.  
+
+My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.) Later I changed my mind and didn’t want Ireland and Scotland any more, which created a problem for myself.
+
+My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing.
+
+Using MarcEdit, I converted these MARC records to csv files which could, in OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and \[will\] delete empty columns. I frequently referred to the Library of Congress’s MARC info at “MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation. However, ECCO encodes much of its data in “unassigned” columns, rather than the standardized LOC categories, presenting some challenged.
+
+
+
+These MARC records came in four files, named ECCO.mrc, ECCO1.mrc, ECCO2.mrc, and ECCO2-A.mrc. For some internal clarity I renamed the “ECCO.mrc” file to “ECCO0.mrc”.   
+
+Several years in to the project, Gale released a new interface for their various collections, the Digital Scholar Lab, which provided new forms of access to ECCO texts. Through the Digital Scholar Lab, it was now permitted to download the OCR transcripts of facsimiles, though only 10,000 items could be downloaded at a time. To work within the Digital Scholar Lab’s restrictions, I created eleven “Content Sets,” one for each year 1789-99, and downloaded them individually. The query used to find each year’s works was “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789).” All content sets were downloaded on June 2, 2020. For each content set, I downloaded the provided “metadata” .csv, and then used a simple Terminal command (cat \*.csv \>merged.csv) to merge them together.
+
+
+
+The merged spreadsheet of all eleven years had 45,027 rows. Adding the number of files in each year gives a total of 45,017, so the merged spreadsheet has 10 extra rows --- probably repeating the title headings.
+
+For reference, I ran a search with the query “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1799),” which returned 44,121 results. This is a particularly unexpected mismatch, since it means items *did* appear when I searched for one year (e.g., 1797) but *didn’t* appear when I searched for a range of years that ought to have included that year. Unfortunately, since I can’t make a “content set” of all 44,121 items, there is no simple way to determine which 906 items mysteriously failed to appear.
+
+Olli McMullin cleverly suggested that this mismatch might be due to serial publications, which appear in each of the years with which they are associated (counting them multiple times in the merged set) but only once in the full-span search. I investigated Helen Maria Williams’ *Letters Written in France* as a 1790s serial publication to see if this might be occurring. Indeed, *Letters on the French Revolution, written in France, in the summer of 1790, to a friend in England; containing, various anecdotes relative to that interesting event, and memoirs of Mons. and Madame Du F--. By Helen Maria Williams* (CW0104715153), which has the publication date “MDCCXCI\[-MDCCXCII\] \[1791-1792\].” This is not exactly a serial work, but rather a work of uncertain or flexible date, making the double-counting less appropriate. However, it can be addressed by removing duplicated Gale document ID numbers.  
+
+Somewhat oddly, because the Text Creation Partnership texts are made freely available, they are also somewhat difficult to track down. There is no central location with all of them and their related information --- not even the TCP’s website. In \[YEAR\], the website contained many broken links to possible places to download the corpus, and the best guide was actually a blog post. By \[YEAR\], a general redesign of the TCP’s website added more up to date links for TCP texts and clarified what kinds of information are available about them in each place. However, the focus was on searching and reading TCP texts, or downloading corpora of their full texts. It is possible to download the XML “headers” of all ECCO-TCP files from a University of Michigan Dropbox (last updated Nov 5, 2012 by Paul Frederick Schaffner), though these headers consist of thousands of individual xml files.
+
+I was also able to download, from a source I no longer recall, a csv of title information for all TCP works (including EEBO, Evan American, and ECCO); this csv includes years for me to filter out the 90s, but no publisher information that would allow me to focus on England.
+
+
+
+To guess at the number of titles per year, I searched PhiloLogic4, which showed 511 titles for the range 1789-99. I searched individual years and the numbers added to 511, indicating that each work is only associated with one year.
+
+The UMich site doesn’t allow this kind of search, even in the “Bibliographic” search mode --- the closest it can come is selecting specific decades from a dropdown.
+
+
+
+Each volume has its own entry.  
+
+**The first step was to make a “collection” in the HathiTrust system.**
+
+To search the catalog based on metadata is the best way to find what I want, but to add works found in that way, I would have needed to open each individual file. The catalog search returned 4,026 items.
+
+So instead I did a “full-text search” for a bogus search term but with my date range, added a restriction to England, and removed the search term. This method returned 8,220 full-text results, which I could add to my collection 100 at a time. I confirmed that I’d gotten them all by checking that the final collection also had 8,220 items.
+
+HathiTrust also suggests contacting them to make custom collections --- which I will do, in part to see if it has a different result that the one I made manually.
+
+
+
+I then downloaded the metadata for this collection as “Tab-Delimited Text (TSV)”
+
+To count how many titles are included per year, I opened in OpenRefine and filtered “date” by each year in sequence, to see how many results were returned
+
+
+
+Each volume has its own record.  
+
+I attempted to find information about what is contained in Google Books, and rapidly discovered that there are no ways to search via bibliographic data, (though a search for a keyword can be filtered by publication date), nor are there any ways to identify how many titles were returned for a given query. Slightly more information was available for information about the Ngram viewer which was, **as of 2013**, not based on the ordinary Google Books holdings, but rather on specialized pre-selected and pre-processed corpora, created in 2009 and 2012 (“Google Books Ngram Viewer: Info”).
+
+I’m not planning to download any Google Ngram data, I just want to know what (if anything) can determine about its sources, to shed light on use of the Ngram viewer.
+
+
+
+“Below are descriptions of the corpora that can be searched with the Google Books Ngram Viewer. All corpora were generated in either July 2009 or July 2012; we will update these corpora as our book scanning continues, and the updated versions will have distinct persistent identifiers. Books with low OCR quality and serials were excluded” (“Google Books Ngram Viewer: Info”)
+
+
+
+Possibly containing stuff 1789-99 (“Google Books Ngram Viewer: Info”)
+
+* “English One Million” - “The "Google Million". All are in English with dates ranging from 1500 to 2008. No more than about 6000 books were chosen from any one year, which means that all of the scanned books from early years are present, and books from later years are randomly sampled. The random samplings reflect the subject distributions for the year (so there are more computer books in 2000 than 1980).”
+* “British English 2012” / “British English 2009” - Books predominantly in the English language that were published in Great Britain.
+* “English 2012” / “English 2009” - “Books predominantly in the English language published in any country.”
+* “English Fiction 2012” / “English Fiction 2009” - “Books predominantly in the English language that a library or publisher identified as fiction.”
+
+
+“Compared to the 2009 versions, the 2012 versions have more books, improved OCR, improved library and publisher metadata. The 2012 versions also don't form ngrams that cross sentence boundaries, and do form ngrams across page boundaries, unlike the 2009 versions. With the 2012 corpora, the tokenization has improved as well, using a set of manually devised rules (except for Chinese, where a statistical system is used for segmentation). In the 2009 corpora, tokenization was based simply on whitespace.” (“Google Books Ngram Viewer: Info”)
+
+“Many more books are published in modern years. Doesn't this skew the results? It would if we didn't normalize by the number of books published in each year.” (“Google Books Ngram Viewer: Info”)
+
+
+
+
+
+Also consult “Characterizing the Google Books corpus: Strong limits to inferences of socio-cultural and linguistic evolution” for more info  
+
+Project Gutenberg does not provide publication information about works (except for info about the publication of the ebook), so in order to identify which were published in England between 1789 and 1799, I would have to use my other corpora as a guide.
+
+\[Is this something 18thConnect has done at all? Or would be interested in doing...?\]
+
+
+
+Nonetheless it is possible to download “catalogs” of everything included in PG, in both plain text and XML and MARC versions. I downloaded plaintext lists for PG and PG-AUS (from “Offline Catalogs.”) and the XML catalog (from “Feeds”) on June 7, 2020.  
+
+The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.  
 
 When working with large literary databases, scholars naturally wish to know what kind of literature they are working with. A high incidence of religious language in an eighteenth century corpus, for example, will mean something different depending on how many of the documents included in the corpus are sermons. However, the larger and more heterogenous the database, the less likely it is that all of its contents have been thoroughly and consistently identified. Eighteenth century texts predate systems such as the Library of Congress subject headings, so many of the holdings in widely-used resources such as the English Short Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), and ECCO Text Creation Partnership (ECCO-TCP) include no metadata regarding their contents’ subject matter.  
 
