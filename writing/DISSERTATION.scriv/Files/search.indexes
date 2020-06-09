@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="98A142C7-E513-4BFB-BF20-B1B8169F4E94">
-            <Title>Garside &amp; Raven</Title>
+        <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
+            <Title>Women's Writing Online</Title>
         </Document>
-        <Document ID="87D8B0AC-D850-4292-B3F4-7B52A41869B2">
-            <Title>ECCO selection</Title>
-            <Text>“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
-
-The “microfilm series is not a random - and therefore randomly representatve— selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
-
-“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
-
-Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s Elegiac Sonnets, a significant title which is absent.
-
-“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)</Text>
+        <Document ID="93055C65-8ECB-4CA2-BB70-E65701A5DC30">
+            <Title>I'm reading a lot of disreputable stuff</Title>
+            <Text>My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro &amp; Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.</Text>
         </Document>
         <Document ID="AEB02B06-7A44-47E1-91B9-8BEFC9CFBA38">
             <Title>contents</Title>
@@ -148,6 +140,9 @@ Most of the scholars who have followed Jones condemn More in similar terms. She 
 There are two problems with these judgments. First, they greatly exaggerate More’s dedication to church and state. Though it is true that the “mainstream” Tory position incorporated constructive criticism of existing institutions within a generally conservative framework, More was angrier and more deeply critical of both church and state than the scholars discussed above allow. And her disaffection increased markedly during the 1790s. Second, these judgments do not relate More’s activities to their historical context in a sufficiently nuanced manner. No “characteristic” or “typical” attitude toward the poor marked the years from 1789 to 1803. An acrimonious debate over the cause and cure of poverty characterized the period, a debate to which More responded in an idiosyncratic manner. As her own views changed, a period of reaction set in, and this conjunction of events prevented her from negotiating a wholly satisfactory public stance. (Nardin 269)
 The aim of this essay, then, is to re-examine More’s opinions about poverty, paying particular attention to the contemporary situation and the cross pressures to which it subjected her. I hope to show that, although More was a less enthusiastic believer in the “hierarchical social order” than most scholars have argued, the evasions and compromises she engaged in as a practical reformer helped to damage her reputation with posterity.  (Nardin 269)
 </Text>
+        </Document>
+        <Document ID="82D061EF-98C8-4ADF-BFBE-0FD8FD9D0452">
+            <Text>The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.</Text>
         </Document>
         <Document ID="7852950D-2339-4F69-912D-24F98DBB8612">
             <Title>18thC genre</Title>
@@ -678,13 +673,28 @@ My own work seeks to examine reprints, but in a more limited fashion than Farmer
 Gothic (Cambridge: Cambridge University Press, 2014). Pp. xv + 257. 
 </Text>
         </Document>
+        <Document ID="AE2FC02D-B684-4B8E-9A21-10F22A4F10E5">
+            <Title>Google Ngram</Title>
+            <Text>I attempted to find information about what is contained in Google Books, and rapidly discovered that there are no ways to search via bibliographic data, (though a search for a keyword can be filtered by publication date), nor are there any ways to identify how many titles were returned for a given query. Slightly more information was available for information about the Ngram viewer which was, as of 2013, not based on the ordinary Google Books holdings, but rather on specialized pre-selected and pre-processed corpora, created in 2009 and 2012 (“Google Books Ngram Viewer: Info”).
+I’m not planning to download any Google Ngram data, I just want to know what (if anything) can determine about its sources, to shed light on use of the Ngram viewer.
+
+“Below are descriptions of the corpora that can be searched with the Google Books Ngram Viewer. All corpora were generated in either July 2009 or July 2012; we will update these corpora as our book scanning continues, and the updated versions will have distinct persistent identifiers. Books with low OCR quality and serials were excluded” (“Google Books Ngram Viewer: Info”)
+
+Possibly containing stuff 1789-99 (“Google Books Ngram Viewer: Info”)
+	•	“English One Million” - “The "Google Million". All are in English with dates ranging from 1500 to 2008. No more than about 6000 books were chosen from any one year, which means that all of the scanned books from early years are present, and books from later years are randomly sampled. The random samplings reflect the subject distributions for the year (so there are more computer books in 2000 than 1980).”
+	•	“British English 2012” / “British English 2009” - Books predominantly in the English language that were published in Great Britain.
+	•	“English 2012” / “English 2009” - “Books predominantly in the English language published in any country.”
+	•	“English Fiction 2012” / “English Fiction 2009” - “Books predominantly in the English language that a library or publisher identified as fiction.”
+
+“Compared to the 2009 versions, the 2012 versions have more books, improved OCR, improved library and publisher metadata. The 2012 versions also don't form ngrams that cross sentence boundaries, and do form ngrams across page boundaries, unlike the 2009 versions. With the 2012 corpora, the tokenization has improved as well, using a set of manually devised rules (except for Chinese, where a statistical system is used for segmentation). In the 2009 corpora, tokenization was based simply on whitespace.” (“Google Books Ngram Viewer: Info”)
+“Many more books are published in modern years. Doesn't this skew the results? It would if we didn't normalize by the number of books published in each year.” (“Google Books Ngram Viewer: Info”)
+
+
+Also consult “Characterizing the Google Books corpus: Strong limits to inferences of socio-cultural and linguistic evolution” for more info</Text>
+        </Document>
         <Document ID="66FFCCD9-0F32-4AA1-BE5B-59B717B7F24F">
             <Title>the moving target has been moving since the 1970s</Title>
             <Text>“One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’ (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270).</Text>
-        </Document>
-        <Document ID="2226302A-C7FF-4360-990C-B65562ACE24E">
-            <Title>is this 1790s or just 1810s+ ?</Title>
-            <Text>It really seems like this is a very minor thread in *this* decade</Text>
         </Document>
         <Document ID="0B53344E-D25D-40C1-AB2A-3E45EEA1BD4B">
             <Title>reparative reading</Title>
@@ -703,6 +713,10 @@ Gothic (Cambridge: Cambridge University Press, 2014). Pp. xv + 257.
         <Document ID="0E5742C3-D781-4708-89FC-F9FFB56F0074">
             <Title>prompt</Title>
             <Text>This interdisciplinary special issue asks how our understanding of these women and their writing might be augmented, or disrupted, by turning our attention to women’s books as they were made and circulated in the period and beyond. … the practices by which women’s books were made, sold, exchanged, marketed, read, preserved and collected (and how women engaged in these activities); and that reflect upon what Jerome McGann has described as the interaction between bibliographical and linguistic codes. This special issue also seeks to address how we remediate Romantic women’s books today, in archival collections, in critical editions (both print and digital), and in our pedagogy. The overarching question driving this special issue is: what do we gain, and what might we lose, by resituating women’s writing and their literary labour within new frameworks of material and bibliographic histories?</Text>
+        </Document>
+        <Document ID="2226302A-C7FF-4360-990C-B65562ACE24E">
+            <Title>is this 1790s or just 1810s+ ?</Title>
+            <Text>It really seems like this is a very minor thread in *this* decade</Text>
         </Document>
         <Document ID="173A7462-B78B-42F3-828C-3E040A115402">
             <Title>overall summary</Title>
@@ -1875,6 +1889,18 @@ Hammond weirdly unhelpful</Text>
         <Document ID="E74C1EEB-DDB1-49FA-82DB-EF6F1434A635">
             <Title>contents</Title>
         </Document>
+        <Document ID="F9E5A401-4C27-4987-85C9-A4DDCCB8D3E1">
+            <Title>HathiTrust</Title>
+            <Text>The first step was to make a “collection” in the HathiTrust system.
+To search the catalog based on metadata is the best way to find what I want, but to add works found in that way, I would have needed to open each individual file. The catalog search returned 4,026 items.
+So instead I did a “full-text search” for a bogus search term but with my date range, added a restriction to England, and removed the search term. This method returned 8,220 full-text results, which I could add to my collection 100 at a time. I confirmed that I’d gotten them all by checking that the final collection also had 8,220 items.
+HathiTrust also suggests contacting them to make custom collections — which I will do, in part to see if it has a different result that the one I made manually.
+
+I then downloaded the metadata for this collection as “Tab-Delimited Text (TSV)”
+To count how many titles are included per year, I opened in OpenRefine and filtered “date” by each year in sequence, to see how many results were returned
+
+Each volume has its own record.</Text>
+        </Document>
         <Document ID="D634BE92-2592-4F12-93C6-48B6A7F4046B">
             <Title>taking samples</Title>
             <Text>First, I make sure the data is “clean” and comparable to all the others:
@@ -1972,7 +1998,9 @@ The TCP, unlike the ESTC and ECCO, intentionally avoids including multiple editi
 
 “Discussion then began on how to further develop the TCP project and insure that we can create 25,000 texts. In order to do this, the Board felt that it needed more information about the complete number of texts possible to include in the corpus, a dollar amount per title required to complete the project, a report on the total number of institutions, and the gap between EEBO subscribers and EEBO-TCP partners. Shawn Martin will work with Mary Sauer-Games to gather this information and report back to the Board. Some members thought that EEBO-TCP should go back to already existing partners and ask for a second round of funds to complete the project. In order to do this, Board members felt EEBO-TCP should look very carefully at what titles it is selecting and come up with summaries of the number of desirable titles to convert and initiate a strategy that could persuade libraries that it would be worth another years commitment to complete, for example, all of the Thomason tracts, or all of a particular genre or canonical category.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
 
-“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)</Text>
+“Shawn Martin then discussed the selection process for all of the TCP projects. Though there are commonalities between them, selection runs differently for all 3 projects and each project runs fairly independently. Therefore, it becomes a question of how much should TCP coordinate collection between the three projects and how should TCP manage duplication. Scholars prefer that TCP duplicate titles between EEBO, Evans, and ECCO; librarians prefer to avoid duplication. The Board felt that it should receive a report of all duplicated materials, that TCP create an oversight group of librarians to coordinate the three projects, and where feasible TCP should try to minimize duplication.” (TCP Executive Board, “Meeting Minutes 2005-10-20.”)
+
+ “To users working with the EEBO-TCP texts, the ECCO-TCP texts may form a useful adjunct, since for the latter some attempt was made to select works by authors who straddled the divide between the 17th and 18th centuries, the thought being that authors whose earlier works we had included in our 17th-century corpus could be “completed” by having their later works included in our 18th-century (ECCO-TCP) corpus. That helps account (for example) for the heavy representation of Defoe in ECCO-TCP.” (TCP, “Eighteenth Century Collections Online (ECCO) TCP”)</Text>
         </Document>
         <Document ID="6CC6405C-ECA1-42AF-A2E2-A7E205A66EFE">
             <Title>Wordsworth's Salisbury Plain?</Title>
@@ -2210,7 +2238,11 @@ Wikipedia: “April 2016: The US Supreme Court declined to hear the Authors Guil
 
 Wikipedia: “As of October 2015, the number of scanned book titles was over 25 million, but the scanning process has slowed down in American academic libraries.[10][11] As of October 2019, Google celebrated 15 years of Google Books and provided the number of scanned books as more than 40 million titles.[14]”
 
-Wikipedia: “Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project – initially stacks of books were entirely taken up for scanning whereas now Google only needed to consider the ones that have not been scanned already.[49] The company's own Google Books history page ends in 2007, and the Google Books blog was merged into the Google Search blog in 2012.[113] Despite winning the decade-long litigation in 2017, The Atlantic has said that Google has "all but shut down its scanning operation."[20] In April 2017, Wired reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.[113]”</Text>
+Wikipedia: “Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project – initially stacks of books were entirely taken up for scanning whereas now Google only needed to consider the ones that have not been scanned already.[49] The company's own Google Books history page ends in 2007, and the Google Books blog was merged into the Google Search blog in 2012.[113] Despite winning the decade-long litigation in 2017, The Atlantic has said that Google has "all but shut down its scanning operation."[20] In April 2017, Wired reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.[113]”
+
+Material is still being sent to Google Books for scanning, however. In November 2019, University of Colorado Boulder announced that their library would be partnering with Google for books to be scanned, with copies appearing both in Google Books and in HathiTrust. (“Increasing Access with Google Books”)
+“In total, the process is estimated to take two to four years to complete. With this estimation, Interim Director of Libraries Information Technology Michael Dulock approximated that if Google processed 200,000 books and each book was about 200 pages, this project will save the Libraries about $20 million. 
+Another way to measure savings for the Libraries is with time. Dulock said that if Digital Media Services in the Libraries worked on this project full-time, with one staff member at 40 hours a week and five students at 20 hours a week, doing nothing else, it would take close to 100 years to complete.” (“Increasing Access with Google Books”)</Text>
         </Document>
         <Document ID="51766436-1BC3-421A-B348-4316C87479F5">
             <Title>individual word studies seem cool</Title>
@@ -2413,7 +2445,9 @@ Also mentioned in pamphlet 11 by stanford lab</Text>
         <Document ID="97E7E888-03EB-434C-BDCF-B9109735E00D">
             <Title>Phase II EEBO</Title>
             <Text>“Begun in 2009, Phase II both shrank and expanded the scope of EEBO TCP.  Selection became more discriminating and focused more on English-language (and Welsh- and Gaelic-language) texts to the exclusion of French and Latin titles, and also set aside the serials (periodicals) as a fit project for another time. But within the constraints of English-language monographic titles, it aspired to something approaching comprehensive treatment: EEBO Phase II planned to convert each and every unique work in Early English Books Online (usually the first edition), or an estimated total of around 45,000 books on top of the 25,000 completed in Phase I. This was an ambitious, and always risky, goal. As it happened, enough institutions joined Phase II to fund the completion of about 40,000 titles, of which about 35,000 have been released to date, the remainder slowly working their way through the production pipeline. (TCP “EEBO”)
-“As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)</Text>
+“As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)
+
+“Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000. In cooperation with Gale Cengage, these texts have been made freely available to the public.” (TCP, “Eighteenth Century Collections Online (ECCO) TCP”)</Text>
         </Document>
         <Document ID="C0864CE0-1075-43FC-A9F5-931D7F73480E">
             <Title>Alfoxden &amp; Grasmere mingled with much</Title>
@@ -3185,6 +3219,16 @@ And Scott’s influential transformation of the imagining of war was not limited
 --- it's something like - I read all this, i learned all this, i care about THIS THIS AND THIS (just 3 things, out of 100!) - here is how I want to move forward
 — your question is -what do i think my investment in this field is. what do I want to spend 2-3 years writing about</Text>
         </Document>
+        <Document ID="892038FC-28EE-42AB-BC08-7AE9D75AD50B">
+            <Title>ECCO TCP</Title>
+            <Text>Somewhat oddly, because the Text Creation Partnership texts are made freely available, they are also somewhat difficult to track down. There is no central location with all of them and their related information — not even the TCP’s website. In [YEAR], the website contained many broken links to possible places to download the corpus, and the best guide was actually a blog post. By [YEAR], a general redesign of the TCP’s website added more up to date links for TCP texts and clarified what kinds of information are available about them in each place. However, the focus was on searching and reading TCP texts, or downloading corpora of their full texts. It is possible to download the XML “headers” of all ECCO-TCP files from a University of Michigan Dropbox (last updated Nov 5, 2012 by Paul Frederick Schaffner), though these headers consist of thousands of individual xml files.
+I was also able to download, from a source I no longer recall, a csv of title information for all TCP works (including EEBO, Evan American, and ECCO); this csv includes years for me to filter out the 90s, but no publisher information that would allow me to focus on England.
+
+To guess at the number of titles per year, I searched PhiloLogic4, which showed 511 titles for the range 1789-99. I searched individual years and the numbers added to 511, indicating that each work is only associated with one year.
+The UMich site doesn’t allow this kind of search, even in the “Bibliographic” search mode — the closest it can come is selecting specific decades from a dropdown.
+
+Each volume has its own entry.</Text>
+        </Document>
         <Document ID="B2415AA7-593F-4529-B21E-2AED71B1EE37">
             <Title>Untitled</Title>
         </Document>
@@ -3247,6 +3291,14 @@ My dissertation seeks to determine, in as minute detail as possible, what the pr
 TK: This will be very valuable, but of course you’re dealing here with a moving target and one subject to sudden transformations as well as gradual / incremental changes. Not sure what the solution is here but it’s something to thing about. Presumably you can’t make this chapter the last thing you do if you need the data for later chapters – or can you?
 TK: NB that you tend to use printing and publishing a bit too interchangeably. Presumably this one should be publishing practices? Print technologies are also changing in this era but that’s a whole different story, not part of yours I would imagine.</Comments>
         </Document>
+        <Document ID="608C6550-F78A-4A07-AF8C-D2B016B44E57">
+            <Title>ECCO - DSL</Title>
+            <Text>Several years in to the project, Gale released a new interface for their various collections, the Digital Scholar Lab, which provided new forms of access to ECCO texts. Through the Digital Scholar Lab, it was now permitted to download the OCR transcripts of facsimiles, though only 10,000 items could be downloaded at a time. To work within the Digital Scholar Lab’s restrictions, I created eleven “Content Sets,” one for each year 1789-99, and downloaded them individually. The query used to find each year’s works was “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789).” All content sets were downloaded on June 2, 2020. For each content set, I downloaded the provided “metadata” .csv, and then used a simple Terminal command (cat *.csv &gt;merged.csv) to merge them together.
+
+The merged spreadsheet of all eleven years had 45,027 rows. Adding the number of files in each year gives a total of 45,017, so the merged spreadsheet has 10 extra rows — probably repeating the title headings.
+For reference, I ran a search with the query “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1799),” which returned 44,121 results. This is a particularly unexpected mismatch, since it means items did appear when I searched for one year (e.g., 1797) but didn’t appear when I searched for a range of years that ought to have included that year. Unfortunately, since I can’t make a “content set” of all 44,121 items, there is no simple way to determine which 906 items mysteriously failed to appear.
+Olli McMullin cleverly suggested that this mismatch might be due to serial publications, which appear in each of the years with which they are associated (counting them multiple times in the merged set) but only once in the full-span search. I investigated Helen Maria Williams’ Letters Written in France as a 1790s serial publication to see if this might be occurring. Indeed, Letters on the French Revolution, written in France, in the summer of 1790, to a friend in England; containing, various anecdotes relative to that interesting event, and memoirs of Mons. and Madame Du F--. By Helen Maria Williams (CW0104715153), which has the publication date “MDCCXCI[-MDCCXCII] [1791-1792].” This is not exactly a serial work, but rather a work of uncertain or flexible date, making the double-counting less appropriate. However, it can be addressed by removing duplicated Gale document ID numbers.</Text>
+        </Document>
         <Document ID="F0AB13E4-7ECC-43AC-8E08-D33875BD5C5B">
             <Title>Wordsworth's Prelude</Title>
             <Text>What parts were printed elsewhere, and where?
@@ -3261,14 +3313,6 @@ How much was the work anticipated, when it was published on his death?</Text>
             <Title>fig:juxta-emigrants-histogram</Title>
             <Text>#
 Figure &lt;$n:fig:juxta-emigrants-histogram&gt;: A histogram, produced by Juxta, showing where the two ECCO and normalized HathiTrust witnesses show the most difference from the base ECCO-TCP copy. “Longer lines indicate areas of considerable difference, while shorter lines indicate greater similarity between documents.” (“A User Guide to Juxta Commons”)</Text>
-        </Document>
-        <Document ID="608C6550-F78A-4A07-AF8C-D2B016B44E57">
-            <Title>ECCO - DSL</Title>
-            <Text>Several years in to the project, Gale released a new interface for their various collections, the Digital Scholar Lab, which provided new forms of access to ECCO texts. Through the Digital Scholar Lab, it was now permitted to download the OCR transcripts of facsimiles, though only 10,000 items could be downloaded at a time. To work within the Digital Scholar Lab’s restrictions, I created eleven “Content Sets,” one for each year 1789-99, and downloaded them individually. The query used to find each year’s works was “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789).” All content sets were downloaded on June 2, 2020. For each content set, I downloaded the provided “metadata” .csv, and then used a simple Terminal command (cat *.csv &gt;merged.csv) to merge them together.
-
-The merged spreadsheet of all eleven years had 45,027 rows. Adding the number of files in each year gives a total of 45,017, so the merged spreadsheet has 10 extra rows — probably repeating the title headings.
-For reference, I ran a search with the query “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1799),” which returned 44,121 results. This is a particularly unexpected mismatch, since it means items did appear when I searched for one year (e.g., 1797) but didn’t appear when I searched for a range of years that ought to have included that year. Unfortunately, since I can’t make a “content set” of all 44,121 items, there is no simple way to determine which 906 items mysteriously failed to appear.
-Olli McMullin cleverly suggested that this mismatch might be due to serial publications, which appear in each of the years with which they are associated (counting them multiple times in the merged set) but only once in the full-span search. I investigated Helen Maria Williams’ Letters Written in France as a 1790s serial publication to see if this might be occurring. Indeed, Letters on the French Revolution, written in France, in the summer of 1790, to a friend in England; containing, various anecdotes relative to that interesting event, and memoirs of Mons. and Madame Du F--. By Helen Maria Williams (CW0104715153), which has the publication date “MDCCXCI[-MDCCXCII] [1791-1792].” This is not exactly a serial work, but rather a work of uncertain or flexible date, making the double-counting less appropriate. However, it can be addressed by removing duplicated Gale document ID numbers.</Text>
         </Document>
         <Document ID="E9360082-B888-4A9E-931B-BFBA3899F536">
             <Title>what's "normal"?</Title>
@@ -3758,7 +3802,7 @@ Beth Seltzer, Stanford U (bethseltzer@stanford.edu )
         </Document>
         <Document ID="B0821094-841E-46A6-B473-875A17DCAFA2">
             <Title>Figure &lt;$n#fig:Smith-4dbs-alluvial&gt;</Title>
-            <Text>Figure &lt;$n#fig:Smith-4dbs-alluvial&gt; is based on the data recorded in Table &lt;$n#table:Smith-4dbs&gt;, which was pasted into the RAW Graphs visualization tool (Mauri et al.) and processed using their default settings for an alluvial diagram. Using an alluvial diagram required imagining the databases as sequential “stages” through which all books flow. Accordingly, I added a “source” for this flow of books by adding a column labeling every edition as falling into the category “Works printed in England, 1784-1807.” I could have chosen to place the following “stages” in any order; to assist in visualizing Smith’s representation in these databases as a process of winnowing down, I chose to place them in order from largest selection to smallest. The scale of each “strand” of the diagram is scaled in width based on the number of editions it represents, as per RAW Graphs’ default settings. The colours, fonts, and width of the graph are also simple defaults.</Text>
+            <Text>Figure &lt;$n#fig:Smith-4dbs-alluvial&gt; is based on the data recorded in Table &lt;$n#table:Smith-4dbs&gt;, which was reformatted in excel and then pasted into the RAW Graphs visualization tool (Mauri et al.) and processed using their default settings for an alluvial diagram. Using an alluvial diagram required imagining the databases as sequential “stages” through which all books flow. Accordingly, I added a “source” for this flow of books by adding a column labeling every edition as falling into the category “Works printed in England, 1784-1807.” I could have chosen to place the following “stages” in any order; to assist in visualizing Smith’s representation in these databases as a process of winnowing down, I chose to place them in order from largest selection to smallest. The scale of each “strand” of the diagram is scaled in width based on the number of editions it represents, as per RAW Graphs’ default settings. The colours, fonts, and width of the graph are also simple defaults.</Text>
         </Document>
         <Document ID="14DB748A-C0A4-4BAD-9F48-CBF424F46851">
             <Title>Joseph Ritson's Robin Hood</Title>
@@ -4421,6 +4465,10 @@ Chris Young uses it</Text>
             <Text>Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly 69.3 (2006): 425–450. Web.
 Zwicker uses a random sample of 500 books from the ETSC to represent the full output of a 20-year period.</Text>
         </Document>
+        <Document ID="6CC9975C-A144-4A7B-B788-0E98BE9E9B1B">
+            <Title>&lt;$n#fig:Smith-5dbs-alluvial&gt;</Title>
+            <Text>Figure &lt;$n#fig:Smith-5dbs-alluvial&gt; is based on Figure &lt;$n#fig:Smith-4dbs-alluvial&gt;, with Project Gutenberg added through the same methods, though this time the resulting image was very slightly edited in Adobe Illustrator to break the leftmost title across three lines (to improve readability).</Text>
+        </Document>
         <Document ID="4A55F65A-A0FC-49E1-A26D-A30DA5B98407">
             <Title>Appendix C: design rationale</Title>
         </Document>
@@ -4700,7 +4748,24 @@ None of this is relevant to my own work, though I do enjoy it
 “It is interesting, for instance, that predicted probabilities of review correlate with au-thors’ dates of birth more strongly than they correlate with publi-cation dates. This detail suggests that the causal processes responsible for change are located fairly early in an author’s life, and it may hint that authors imitate prestigious examples.” (93)
 “Nor do we actually need a causal explanation of this phenomenon to see that it could have far- reaching consequences for literary history. The model I have presented already suggests that some things scholars tend to describe as rejections of tradition— modernist insistence on the concrete image, for instance— are better explained as continuations of a long- term trend, guided by established standards.”
 
-Ah: I’m not sure it’s fair to say that literature changes at all. New works of literature comes into being: they are presumably related to previous works of literature. No singular thing called Literature exists.</Text>
+Ah: I’m not sure it’s fair to say that literature changes at all. New works of literature comes into being: they are presumably related to previous works of literature. No singular thing called Literature exists.
+
+“even when a model knows only about the language of the work, it is possible that predictions about reception could seem accurate only because they were tacitly based on the depressingly reliable assumption that works by Americans, or women, wouldn’t get reviewed.Problems of this kind are becoming important in twenty- rst- century life, where they are often diagnosed as “algorithmic bias.” … In historical inquiry, the same problem emerges, but bias may not be exactly the right word to apply in this context. At any rate, historians are interested in the intersection of social preferences; it is not an aspect of the past that we simply factor out. It is quite possible, for instance, that Britishness really was a signicant component of literary prestige in nineteenth- century America. A model of literary culture that covered its eyes to avoid seeing that preference wouldn’t represent the period. On the other hand, historians do want to know when one so-cial category denes another. For instance, if a model of prestige turned out to be mostly reducible to Britishness, plus masculin-ity, that’s something we would want to acknowledge. So without forcing our sample of the past to be unrealistically balanced, we would like to have some way to measure the effects of imbalances. Fortunately, quantitative methods make it easy to look at the same evidence from several dierent angles and measure the interactions between social categories.” (94)
+
+“In our data set, women are underrepresented, contributing only 38% of the volumes in ction and 25% in poetry. Just as importantly, they are distributed a little unequally across the re- / viewed and random samples— slightly more likely than men to be reviewed in poetry and signicantly less so in ction. is imbalance raises the possibility that our models of “prestige” might be leaning on gender as a clue.” (94-5)
+Tests by seeing if gender-balanced samples are less accurate — only slightly less accurate
+“is is not to deny that women writers confronted barriers and were judged unequally; their sheer underrepresentation in the data set, by itself, is an eloquent fact. But the criteria of prestige that we can model using textual evidence don’t seem mostly reducible to gender.” (95)
+“the prestige of British poetry is the only case I can nd where authorial demo-graphics clearly distort our model of prestige. Rather than being a mere sampling error, I suspect this represents a real association between nationality and poetic capital. But more research would be needed to say for sure” (96)
+
+Separating the Axes of Popularity and Prestige
+“It seemed reasonable to hypothesize that serious literary writing would de-velop its own idiom, diverging from the quicker patter of (say) detective and adventure ction. If so, models of prestige should get more accurate over time, as it became easier to distinguish high literary culture from the rest of the literary eld” (96)
+“e pattern I actually found was subtler and more complex. … Instead of imagining that literature became more strongly sorted along a single axis (separating elite literary taste from mass culture) we should imagine two largely parallel axes of distinction that slowly unfold to become perpendicular.” (96)
+
+“within the random sample, I discovered an even deeper divide between works that were left out of serious reviewing because they seemed too sensational or popular and works left out because they were merely obscure.” (97)
+“I may not have fully appreciated this dierence at the beginning of the experiment. But one learns a lot, informally, while sampling hundreds of books from the depths of a library” (97)
+
+Looked at sales — to replicate Bourdieu’s approach of separating economic and cultural capital. Similar to Stanford Literary Lab, but with different metrics — Stanford used academic citations for cultural capital, and copies in libraries for economic capital. (98)
+Underwood uses bestseller lists for popularity, partly interpreted with empirical Bayes. (99)</Text>
         </Document>
         <Document ID="FBEFD0FA-CB3C-4830-B8D3-FA9889525A21">
             <Title>What models of 18thC publishers' social networks already exist?</Title>
@@ -5254,6 +5319,17 @@ Because politics occurs between individual people, not political parties, I argu
         <Document ID="A52C2374-0F70-4070-B379-5550795FAA40">
             <Title>ESTC overview</Title>
         </Document>
+        <Document ID="04389B30-849F-4974-9B4C-D4437B08F7C2">
+            <Title>Project Gutenberg</Title>
+            <Text>Project Gutenberg does not provide publication information about works (except for info about the publication of the ebook), so in order to identify which were published in England between 1789 and 1799, I would have to use my other corpora as a guide.
+[Is this something 18thConnect has done at all? Or would be interested in doing…?]
+
+Nonetheless it is possible to download “catalogs” of everything included in PG, in both plain text and XML and MARC versions. I downloaded plaintext lists for PG and PG-AUS (from “Offline Catalogs.”) and the XML catalog (from “Feeds”) on June 7, 2020.</Text>
+        </Document>
+        <Document ID="639857A4-361E-40D7-B96A-29AA8DD9C892">
+            <Title>algorithms &amp; critical race studies</Title>
+            <Text>Sophia Noble’s book on algorithms &amp; critical race studies</Text>
+        </Document>
         <Document ID="CC10F121-AFF4-4D19-BBDF-9F7E53A632DC">
             <Title>these are all databases</Title>
             <Text>The primary methodological challenge to the questions I would like to pose is the standard makeup of these academic resources: self-contained databases, which are searchable for individual materials but not queryable for overall statistics. (I'd love to know the distribution-by-year of everything in the databases as a whole, but that may be beyond my scope.)
@@ -5261,10 +5337,6 @@ Because politics occurs between individual people, not political parties, I argu
 What I'm trying to do, essentially, is to forcibly "join" all of those databases -- the ESTC is my best bet so far, it looks like, for unique keys.
 A true "standard" is probably both unfeasible and undesirable. So what can be usefully done with things that follow different standards? I think the answer might be OpenRefine, which I haven't seen extolled enough.
 Another approach is to ignore the categories and use things like topic modelling; relies on a more intimate knowledge of the information being studies (i.e., humanities expertise)</Text>
-        </Document>
-        <Document ID="639857A4-361E-40D7-B96A-29AA8DD9C892">
-            <Title>algorithms &amp; critical race studies</Title>
-            <Text>Sophia Noble’s book on algorithms &amp; critical race studies</Text>
         </Document>
         <Document ID="CE7CC90F-1FE2-4368-8B7C-92910A44602F">
             <Title>Emily St Aubert has 3 girlfiends</Title>
@@ -5274,13 +5346,13 @@ Another approach is to ignore the categories and use things like topic modelling
         <Document ID="EA9D22F9-53F4-4C8B-8BD2-08DD979EF464">
             <Title>Bode, Kath. World of Fiction</Title>
         </Document>
-        <Document ID="DFB4F46D-E6CA-460C-B97E-08C18A02EA2F">
-            <Title>overview of existing corpora</Title>
-        </Document>
         <Document ID="944C445B-096F-4AFB-A5D6-1767988C2DB3">
             <Title>ch 2 - corpora</Title>
             <Text>Chapter two begins by examining corpora of eighteenth-century literature through the same critical lens by which anthologies and classroom teaching are often scrutinized. I make the case that digital archives can implicitly shape scholarly research, and begin the process of revealing and interrogating their structural assumptions. The chapter begins with a task somewhere between a literature review and a scientific meta-analysis. My first goal will be to survey as broadly as possible the accessible mass holdings of digital eighteenth-century texts (all those containing at least 100 works from the 1790s). I begin by simply attempting to establish how many titles each database includes from each year, 1789-99. Answering this basic demographic question will also illustrate the nature of each resource’s data structures, and allow the first comparisons between them. I am particularly interested to see which resources have ‘spikes’ in 1790 and 1795, years which are often assigned to works of uncertain date. I will also check each database for my four key authors. For each author I compile, based largely on non-digital resources, a list of every edition of every work that they published during this decade. Manually comparing each digital resource against this comprehensive list allows me to spot-check the completeness and accuracy of the corpus. I am particularly interested to see which works by each author are most widely distributed, and how successfully each corpus handles ambiguities of authorship. As I compare corpora to each other, I expect to find systematic exclusions where archives are investing more labour in their holdings, with narrower selections as they move from bibliographic data to facsimiles to scholarly transcripts. To contextualize these decisions about inclusion, I research the history of how each corpus was formed. As part of this process, I also discuss and theorize the difficulties involved in researching these histories: drawing on, for example, my experience with HathiTrust’s codebase, I critique the assumption that digital resources make all information transparent and accessible. Returning to the actual contents of each archive, I discuss the nature of the works they do not contain.  The second chapter thus establishes the contents and limitations of the corpora which will drive my argument in chapter three, and will shape the later phases of my research in chapters four and five.</Text>
             <Comments>For example, how many unsigned works, or works published under pseudonyms, are correctly attributed? Are there any mistakes made between Ann Radcliffe and Ann Ward Radcliffe? Do they unify Charlotte Smith and Charlotte Turner Smith? Exploring these questions through authors with whom I am deeply familiar can indicate the error rates of the corpus as a whole.</Comments>
+        </Document>
+        <Document ID="DFB4F46D-E6CA-460C-B97E-08C18A02EA2F">
+            <Title>overview of existing corpora</Title>
         </Document>
         <Document ID="E1BFA95D-F40B-472F-97A8-1EA226BA32AE">
             <Title>BLUF</Title>
@@ -5891,6 +5963,10 @@ We usually string together literary history by framing each thing as rejecting t
         <Document ID="B9B7FA60-0B9F-4712-B91F-948EF6F5EED1">
             <Title>lit review</Title>
         </Document>
+        <Document ID="AE57AB7D-6E3C-4F68-944A-A7EA5C568806">
+            <Title>stray ideas</Title>
+            <Text>Its priorities are tantalizingly attuned to those of the literature of sensibility itself.</Text>
+        </Document>
         <Document ID="6C1BF0FC-E8E1-45EA-9402-30F146048E97">
             <Title>dramatic goals</Title>
             <Text>Despite the crucial importance of corpus-building to the interpretation of “distant reading” research, it is often extremely difficult to know what is in a corpus. Even large institutional resources used by many scholars provide little context for their choices of what to include or exclude. These hidden choices are particularly problematic when historical selection factors might have led to the creation of databases which re-create social inequalities. I focus specifically on writing printed in England between 1789 and 1799, to explore how works from this eleven-year “decade” have been selected as important, literary, or popular. For this period, the English Short Title Catalogue provides basic bibliographic data for nearly 52,000 titles, but the Eighteenth Century Collections Online Text Creation Partnership corpus of XML-encoded full texts includes fewer than 500 titles. This difference raises the question: why were the other 51,500 titles not considered worth the investment of scholarly effort? And with particular urgency: do the most invested-in resources underrepresent women? My experiments examine six major databases to answer these questions: The English Short Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the Eighteenth Century Collections Online Text Creation Partnership (ECCO-TCP), Google Books, Project Gutenberg, and HathiTrust. For each database, I download their holdings identified as printed in England 1789-1799. I identify how many titles the database attributes to each year. I calculate how many works are attributed to male, female, or unknown authors. These very simple pieces of information, when they differ widely between databases, provides the basis for an initial analysis of the assumptions and limitations of each database. I then examine the contents of each database more closely, to compare the inclusion of broad categories of writing like poetry, drama, prose fiction, and ephemera. Identifying these categories of writing within each corpus reveals a predictable preference for “literary” forms such as novels and poetry in the smaller databases. This preference for particular kinds of writing might explain changes in gender representation of smaller databases. If the novel is the domain of women, for example, a corpus can underrepresent women by under-representing novels. Or it could include a representative number of novels, but disproportionately include novels by men. My investigation allows me to identify the patterns of selection. To ground my analysis in specifics, I take Charlotte Smith as a case study author. Smith has a long history of contentious reception, rooted in debates about seriousness, popularity, and women’s writing. I revisit them to see how her career and reception might be interpreted through a new lens. I do so, in part, to challenge the contrast drawn between ‘popular’ and ‘serious’ writing, especially in the historical evaluation of women’s writing as literary.</Text>
@@ -5900,10 +5976,6 @@ This calculation is carried out by a small, simple program I am writing, describ
 I already know that ‘titles per year’ are distributed fascinatingly differently between ECCO, ECCO-TCP, ESTC, and HathiTrust
 This calculation is carried out by a larger, more complex program I am writing, applying topic modelling to the titles of works. Because it makes several major interpretive choices, it is theorized and discussed in detail when it is applied.
 TK: “What would be your preliminary hypothesis? I guess one assumption might be that market-driven choices are made in light of existing demand i.e. the established teaching / research canon, in which case there would be an inherent conservatism in selection of texts.”</Comments>
-        </Document>
-        <Document ID="AE57AB7D-6E3C-4F68-944A-A7EA5C568806">
-            <Title>stray ideas</Title>
-            <Text>Its priorities are tantalizingly attuned to those of the literature of sensibility itself.</Text>
         </Document>
         <Document ID="678A45BA-BF28-4469-B2E0-DD68618CB91D">
             <Title>I identify a lot</Title>
@@ -6862,16 +6934,12 @@ Miles, Robert	Romantic Misfits (print only, Robarts only)
 “At the end of 1993, Project Gutenberg's eTexts were organized into three main sections: a) "Light Literature", such as Alice's Adventures in Wonderland, Peter Pan or Aesop's Fables; b) "Heavy Literature", such as the Bible, Shakespeare's works or Moby Dick; c) "Reference Literature", such as Roget's Thesaurus, and a set of encyclopaedias and dictionaries. This organization in three sections was abandoned later for a more detailed classification.” (Lebert)</Text>
         </Document>
         <Document ID="4FA0B36C-32D0-4681-85AA-9F28DEC5F35D">
-            <Title>ECCO</Title>
-            <Text>My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.)
-My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing. Using MarcEdit, I converted these MARC records to csv files which could, in OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and [will] delete empty columns.
-ECCO encodes much of its data in “unassigned” columns, rather than the standardized LOC categories.
-https://www.itsmarc.com/crs/mergedprojects/helpauth/helpauth/tag_list.htm
-Library of Congress MARC info
+            <Title>ECCO - MARC</Title>
+            <Text>My first source of ECCO metadata consisted of MARC records, kindly provided by University of Toronto libraries (my thanks to Leslie Barnes!). I requested information for all works published 1789-99 in the UK (so, including Ireland and Scotland, but excluding America.) Later I changed my mind and didn’t want Ireland and Scotland any more, which created a problem for myself.
+My ECCO metadata presented particular challenges. I had access to MARC records, which stands for MAchine Readable Catalogue. At several points, I read this data with my feeble non-machine eyes in order to guide my data processing.
+Using MarcEdit, I converted these MARC records to csv files which could, in OpenRefine, be read, manipulated, and merged like my other corpora. Since I was not able to simply convert “all the MARC headings that exist” using MarcEdit, I used all numbers 1 to 999 and [will] delete empty columns. I frequently referred to the Library of Congress’s MARC info at “MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation. However, ECCO encodes much of its data in “unassigned” columns, rather than the standardized LOC categories, presenting some challenged.
 
-
-
-I also have ECCO metadata records, now, from the Gale Digital Scholars Lab. Due to their restrictions on how much data may be downloaded at once, I have created 11 files, each one holding the metadata for all of ECCO’s works in each year. ECCO-1789.csv, for example, is based on the following search: “LIMITS: Archive (Eighteenth Century Collections Online) And Publication Date (1789 - 1789).” These files initially contain works from a wide range of publication locations, not just England, since the Digital Scholars Lab does not provide any way to filter items by publication location.</Text>
+These MARC records came in four files, named ECCO.mrc, ECCO1.mrc, ECCO2.mrc, and ECCO2-A.mrc. For some internal clarity I renamed the “ECCO.mrc” file to “ECCO0.mrc”. </Text>
         </Document>
         <Document ID="E109A178-D3D2-45AE-8D33-3BF32EA099C7">
             <Title>chooses to be bad</Title>
@@ -9041,9 +9109,9 @@ I do agree with Blayney’s central argument is that “Market share in the real
 Moreover, even if, as Blayney persuasively supports the numbers showing that, of the playbooks, “no more than 107 (32.2 percent), and perhaps only 104 (31.3 percent) were reprinted during the lifetimes of their first publishers” (45), he still has not addressed Farmer &amp; Lesser’s need to address the choice of the qualifier “only” (L&amp;F 3). By his own numbers, [what’s the fate of sermon-books??]</Text>
         </Document>
         <Document ID="BC37A316-0931-435C-A89A-3107F53C9F62">
-            <Title>ESTC corpus</Title>
-            <Text>My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-&gt;1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery. My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file with fifteen columns of information. The columns are: “Type of resource” (“Monograph” or “Serial”); “ESTC citation number”; “Name” (e.g., of an author, editor or illustrator); “Dates associated with name” (generally, the years they lived); “Type of name” (“meeting/conference,” “organization,” or “person”); “Role” (e.g., “author,” “cartographer,” or “bookseller”), “All names”, “Title”, “Variant titles”, “Place of publication”, “Publisher”, “Date of publication” (a single year), “Date of publication (not standardised)” (e.g., a year in roman numerals, or a date which includes a month or day), and “Publication date range” (for serials). In other words, it includes the very basic information of author, title, publisher, and year, in a complex structure which belies the apparent simplicity of these “basics.” Some of the ESTC records included in this corpus do not necessarily match my selection criteria (England, 1789-99), which is inevitably true of every corpus collected, and which I discuss in more detail in SECTION, Data Cleaning.</Text>
-            <Comments>explain what a csv is</Comments>
+            <Title>ESTC</Title>
+            <Text>My own sliver of the ESTC was generously provided to me by the British Library in January 2017. It contains all items matching the query I specified, “(Words= alldocuments and W-year= 1789-&gt;1799 and W-Country of publica= enk),” which requests all documents published between 1789 and 1799 (inclusive) with a place of publication encoded as “England.” Running this search on the ESTC website at the time returned 52,001 records. The tools used to create the file, according to the librarian with whom I corresponded, returned 51,965 records, 36 records having gone missing; however, the file itself contains only 51,860, another 105 mysteriously lost. These 141 missing records are currently an unsolved mystery.
+My records come from the British Library’s ESTC database, rather than the STAR file. The corpus itself consists of a csv file with fifteen columns of information.</Text>
         </Document>
         <Document ID="B08521AF-D2ED-4C5B-AF49-DFBF92BB2E8F">
             <Title>I trust Project Gutenberg more than I trust HathiTrust</Title>
@@ -9417,128 +9485,135 @@ and one to which literature speaks better than political writing, generally: sin
 	86.	Gonda, Caroline. “Review of Heteronormativity in Eighteenth-Century Literature and Culture, ed. by Ana de Freitas Boe and Abby Coykendall.” Eighteenth Century Studies, volume 49, issue 3, 2016, pp. 427-428.
 	87.	Google Books. “Google Books History.” Site as of 25 March 2020, web.archive.org/web/20200326031915/https://books.google.com/googlebooks/about/history.html Accessed 25 March 2020.
 	88.	—. “Google Books History.” Site as of 6 February 2016, https://web.archive.org/web/20160206043510/http://books.google.com/googlebooks/about/history.html. Accessed 25 March 2020.
-	89.	Gorak, Jan. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Philology, volume 94, number 2, Nov 1996, pp. 286-290. JSTOR, www.jstor.org/stable/437977.
-	90.	Grafton, Anthony and Glenn W. Most. “How to do things with texts: An introduction.” Canonical Texts and Scholarly Practices: A Global Comparative Approach. Cambridge UP, 2016, pp. 1-13. doi:10.1017/CBO9781316226728.001.
-	91.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
-	92.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U Chicago P, 1993.
-	93.	Hammond, Adam. Literature in the Digital Age: An Introduction. Cambridge UP, 2016.
-	94.	Hane, Paula. “Project Gutenberg Progresses.” Information Today, volume 21, number 5, May 2004, web.archive.org/web/20200325195437/http://www.infotoday.com/it/may04/hane1.shtml. Accessed 25 March 2020.
-	95.	Hart, Michael. “The History and Philosophy of Project Gutenberg.” Project Gutenberg, August 1992. web.archive.org/web/20200312224522/https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart Accessed 12 March 2020.
-	96.	HathiTrust. “Getting Content Into HathiTrust.” HathiTrust, web.archive.org/web/20190915204356/https://www.hathitrust.org/ingest. Accessed 15 Sept 2019.
-	97.	—. “Governance.” HathiTrust, web.archive.org/web/20200325212223/https://www.hathitrust.org/governance. Accessed 25 March 2020.
-	98.	—. “Help - Copyright.” HathiTrust, web.archive.org/web/20200325212528/https://www.hathitrust.org/help_copyright%23RestrictedAccess. Accessed 25 March 2020.
-	99.	—. “Major Library Partners Launch HathiTrust Shared Digital Repository.” HathiTrust, 13 October 2008, web.archive.org/web/20200325213628/https://www.hathitrust.org/press_10-13-2008. Accessed 25 March 2020.
-	100.	—. “Member Community.” HathiTrust, web.archive.org/web/20190915204844/https://www.hathitrust.org/community. Accessed 15 Sept 2019.
-	101.	—. “Our Digital Library.” HathiTrust, web.archive.org/web/20190915204611/https://www.hathitrust.org/digital_library. Accessed 15 Sept 2019.
-	102.	—. “Our Membership.” HathiTrust, web.archive.org/web/20190915204720/https://www.hathitrust.org/partnership. Accessed 15 Sept 2019.
-	103.	Heisel, Andrew. “Hannah More’s Art of Reduction.” Eighteenth-Century Fiction, volume 25, number 3, Spring 2013, pp. 557-588.
-	104.	Hosch, William L. “Project Gutenberg.” Encyclopedia Britannica, 17 August 2017, web.archive.org/web/20200325190246/https://www.britannica.com/topic/Project-Gutenberg. Accessed 25 March 2020.
-	105.	Hunt, Bishop C. “Wordsworth and Charlotte Smith.” The Wordsworth Circle, vol. 1, no. 3, 1970, pp. 85. ProQuest, ProQuest Document ID 1300171026.
-	106.	IPUMS NAPP. “What is NAPP?” North Atlantic Population Project, web.archive.org/web/20200209014205/https://www.nappdata.org/napp/intro.shtml. Accessed February 8, 2020.
-	107.	Jockers, Matthew. Macroanalysis: Digital Methods and Literary History. U Illinois P, 2013.
-	108.	Juxta Commons. “A User Guide to Juxta Commons.” web.archive.org/web/20200227014953/http://juxtacommons.org/guide.
-	109.	Karels, Liene. “HathiTrust adds new members, goes global.” Montage: Arts + Creativity, University of Michigan, November 2010, web.archive.org/web/20140302084528/http://www.montage.umich.edu/2010/11/hathitrust-adds-new-members-goes-global. Accessed 25 March 2020.
-	110.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
-	111.	King, Kathryn R. “Introduction: Hans Turley, Queer Studies, and the Open-Hatched Eighteenth Century.” The Eighteenth Century, volume 53, number 3, 2012, pp. 265-272. JSTOR, www.jstor.org/stable/23365012.
-	112.	Klein, Lauren. “Distant Reading After Moretti.” Arcade: Literature, the Humanities, &amp; the World, 2018, web.archive.org/save/https://arcade.stanford.edu/blogs/distant-reading-after-moretti. Accessed 19 September 2019.
-	113.	Klein, Ula, and Emily MN Kugler. “Eighteenth-Century Camp Introduction.” ABO: Interactive Journal for Women in the Arts, 1640-1830, volume 9, issue 1, 2019, pp. 1-12. doi:10.5038/2157-7129.9.1.1180
-	114.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, volume 12, number 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
-	115.	Labbe, Jacqueline. “Introduction.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 1-11.
-	116.	—. “Selling One's Sorrows: Charlotte Smith, Mary Robinson, and the Marketing of Poetry.” The Wordsworth Circle, volume 25, number 2, 1994, pp. 68-71. ProQuest, ProQuest Document ID 1300173031.
-	117.	LaGuardia, Cheryl. Review of Eighteenth Century Collections Online. Library Journal, May 2004, pp. 123-124. 
-	118.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, volume 25, number 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
-	119.	Lebert, Marie. “Project Gutenberg (1971-2008).” Project Gutenberg, May 2008, www.gutenberg.org/cache/epub/27045/pg27045-images.html Accessed 12 March 2020
-	120.	Liberman, Mark. “The ‘dance of the p’s and b’s’: truth or noise?” Language Log, 26 Jan 2012, web.archive.org/web/20191105001115/https://languagelog.ldc.upenn.edu/nll/?p=3730. Accessed 4 Nov 2019.
-	121.	Lincoln, Matthew D. "Tidy Data for the Humanities." Matthew Lincoln, PhD (blog), 26 May 2020, https://web.archive.org/web/20200529025634/https://matthewlincoln.net/2020/05/26/tidy-data-for-%20humanities.html
-	122.	Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History, volume 41, issue 2, 2010, pp. 371–391.
-	123.	—. “Close Reading and Thin Description.” Public Culture, volume 25, number 3 (71), 2013, pp. 401-434, doi:10.1215/08992363-2144688.
-	124.	Manshel, Alexander, Laura B. McGrath, and J.D. Porter. “Who Cares About Literary Prizes?” Public Books, 3 August 2019, www.publicbooks.org/who-cares-about-literary-prizes
-	125.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
-	126.	Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” Los Angeles Review of Books, 28 Oct. 2012. web.archive.org/web/20191022060530/https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/
-	127.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
-	128.	Mauri, M., T. Elli, G. Caviglia, G. Uboldi, and M. Azzi. (2017). “RAWGraphs: A Visualisation Platform to Create Open Outputs.” Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter, ACM, 2017, p. 28:1–28:5, doi:10.1145/3125571.3125585.
-	129.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
-	130.	McLaverty, James. “Poems in Print.” The Oxford Handbook of British Poetry, 1660-1800, edited by Jack Lynch. Oxford UP, 2016, pp. 40-54, doi:10.1093/oxfordhb/9780199600809.013.3. Oxford Handbooks Online.
-	131.	McLeod, Dayna, Jasmine Rault, and T.L. Cowan. ”Speculative Praxis Towards a Queer Feminist Digital Archive: A Collaborative Research-Creation Project.” Ada: A Journal of Gender, New Media, &amp; Technology, issue 5, 2014, web.archive.org/web/20190318202624/https://adanewmedia.org/2014/07/issue5-cowanetal/
-	132.	McLeod, Deborah Anne. The Minerva Press. PhD dissertation, U of Alberta, 1997, doi:10.7939/R33J39C22.
-	133.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, vol. 7, no. 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
-	134.	Mee, John. Print, Publicity, and Popular Radicalism in the 1790s: The Laurel of Liberty. Cambridge UP, 2016.
-	135.	Moretti, Franco. The Bourgeois: Between History and Literature. Verso, 2013.
-	136.	—. “Conjectures on World Literature.” New Left Review, volume 1, issue 1, 2000, pp. 54 - 67.
-	137.	—. Distant Reading. Verso, 2013.
-	138.	Mullen, Lincoln. “gender: Predict Gender from Names Using Historical Data.” R package version 0.5.2. GitHub, https://github.com/ropensci/gender
-	139.	Mullen, Lincoln, Cameron Blevins, and Ben Schmidt. “Package ‘gender.’” November 9, 2019.
-	140.	Murphie, Andrew. “The Digital’s Amodal Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 390-407, doi: 10.1017/9781108339339.022.
-	141.	Murphy, Peter. Poetry as an occupation and an art in Britain, 1760-1830. Cambridge UP, 1993.
-	142.	Nicolazzo, Sarah. “Reading Clarissa’s “Conditional Liking”: A Queer Philology.” Modern Philology, volume 112, issu 1, 2014, pp. 205-225. JSTOR, www.jstor.org/stable/10.1086/676008.
-	143.	Noble, Safiya. Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press, 2018.
-	144.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
-	145.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
-	146.	O’Dair, Sharon. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. South Atlantic Review, volume 59, number 2, May 1994, pp. 130-132. JSTOR, www.jstor.org/stable/3200802.
-	147.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
-	148.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
-	149.	Price, Leah. The Anthology and the Rise of the Novel: From Richardson to George Eliot. Cambridge UP, 2000, doi:10.1017/CBO9780511484445.
-	150.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
-	151.	Project Gutenberg. “Credits.” 7 June 2006, web.archive.org/web/20200325192439/https://www.gutenberg.org/wiki/Gutenberg:Credits. Accessed 25 March 2020.
-	152.	—. “The CD and DVD Project.” 19 August 2017, web.archive.org/web/20200325194042/https://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project. Accessed 25 March 2020.
-	153.	—. “Partners, Affiliates and Resources.” 24 January 2019, web.archive.org/web/20200325193013/https://www.gutenberg.org/wiki/Gutenberg:Partners,_Affiliates_and_Resources. Accessed 25 March 2020.
-	154.	Punter, David. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Non-Standard Englishes and the New Media, special issue of The Yearbook of English Studies, volume 25, 1995, pp. 229-230. JSTOR, www.jstor.org/stable/3508832.
-	155.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
-	156.	Readings, Bill. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Language Quarterly, volume 55, number 3, Sept 1994, pp. 321-326, doi:10.1215/00267929-55-3-321.
-	157.	@RealSaavedra (Ryan Saavedra). “Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist.” Twitter, 22 Jan. 2019, 3:27 AM, web.archive.org/save/https://twitter.com/realsaavedra/status/1087627739861897216?lang=en.
-	158.	Reason. “How to Politely Download All English Language Text Format Files from Project Gutenberg.” Ex Ratione, 1 November 2014, web/20200506014409/https://www.exratione.com/2014/11/how-to-politely-download-all-english-language-text-format-files-from-project-gutenberg/
-	159.	Reinert, Thomas. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Fiction Studies, volume 42, number 1, 1996, pp. 221-224. ProQuest, ProQuest Document ID 2152910014.
-	160.	Rigby, Mair. “Uncanny recognition: Queer theory's debt to the Gothic.” Gothic Studies, vol. 11, no. 1, 2009, pp. 46-57.
-	161.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
-	162.	Rogers, Deborah D. Ann Radcliffe: A Bio-Bibliography. Bio-Bibliographies in World Literature, number 4. Greenwood Press, 1996.
-	163.	Rosenberg, Scott. “How Google Book Search Got Lost.” Wired, 11 April 2017, web.archive.org/web/20200326035223/https://www.wired.com/2017/04/how-google-book-search-got-lost/. Accessed 25 March 2020.
-	164.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
-	165.	Sandvoss, Cornel. “The Death of the Reader: Literary Theory and the Study of Texts in Popular Culture.” Fandom: Identities and Communities in a Mediated World, edited by Jonathan Gray, C. Sandvoss, and C. Lee Harrington. NYU Press.
-	166.	Seaver, Nick. “Bastard Algebra.” Data, Now Bigger and Better!, edited by Tom Boellstorff and Bill Maurer. Prickly Paradigm, 2015.
-	167.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
-	168.	Shaw, Zed. Learn Python the Hard Way, Addison-Wesley Professional, 2013.
-	169.	Shirky, Clay. “Why Abundance is Good: A Reply to Nick Carr.” Encyclopædia Britannica Blog, 17 July 2008, blogs.britannica.com/2008/07/why-abundance-is-good-a-reply-to-nick-carr. Accessed 10 Sept 2019.
-	170.	Shiroma, Yumi Dineen. “Conjectures on World Literature, Revisited.” June 3, 2018, web.archive.org/web/20200309032430/http://yumidineenshiroma.org/blog/conjectures-on-world-literature-revisited/ Accessed March 1, 2020.
-	171.	Somers, James. “Torching the Modern-Day Library of Alexandria.” The Atlantic, 20 April 2017, web.archive.org/web/20200326035404/https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/. Accessed 25 March 2020.
-	172.	Spedding, Patrick. “‘The New Machine’: Discovering the Limits of ECCO.” Eighteenth-Century Studies, volume 44, issue 4, 2011, pp. 437-453.
-	173.	St. Clair, William. The Reading Nation in the Romantic Period. Cambridge UP, 2007.
-	174.	Stanton, Judith Phillips. “Recovering Charlotte Smith’s Letters: A History, With Lessons.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 159-173.
-	175.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
-	176.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
-	177.	Syme, Holger Schott. “Imaginary Targets.” Los Angeles Review of Books, 5 Nov 2012. web.archive.org/web/20191023050529/https://lareviewofbooks.org/article/in-defense-of-data-responses-to-stephen-marches-literature-is-not-data.
-	178.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381. (If I add new Tabor citations, go back and clarify which ones I’m already quoting)
-	179.	Taylor, George. The French Revolution and the London Stage, 1789–1805. Cambridge UP, 2001.
-	180.	TCP Executive Board. “Meeting Minutes 2001-01-12.” wayback.archive-it.org/5871/20190806191909/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2001-01-12/ Accessed 10 March 2020.
-	181.	—. “Meeting Minutes 2003-10-22.” wayback.archive-it.org/5871/20190806191856/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2003-10-22/ Accessed 23 March 2020.
-	182.	—. “Meeting Minutes 2004-10-21.” wayback.archive-it.org/5871/20190806191851/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2004-10-21/ Accessed 23 March 2020.
-	183.	—. “Meeting Minutes 2005-10-20.” https://wayback.archive-it.org/5871/20190806191847/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2005-10-20/ Accessed 23 March 2020.
-	184.	—. “Meeting Minutes 2006-09-16.” https://wayback.archive-it.org/5871/20190806191843/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2006-09-16/ Accessed 23 March 2020.
-	185.	—. “Meeting Minutes 2007-10-30.” https://wayback.archive-it.org/5871/20190806191838/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2007-10-30/ Accessed 23 March 2020.
-	186.	Text Creation Partnership (TCP). “About the partnership.” web.archive.org/web/20200312203119/https://textcreationpartnership.org/about-the-tcp/. Accessed 12 March 2020.
-	187.	—. “Eighteenth Century Collections Online (ECCO) TCP.” web.archive.org/web/20200312212808/https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/. Accessed 12 March 2020.
-	188.	—. “Early English Books Online (EEBO) TCP.” web.archive.org/web/20200312212215/https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/. Accessed 12 March 2020.
-	189.	—. “FAQ.” web.archive.org/web/20200311042209/https://textcreationpartnership.org/faq/. Accessed 10 March 2020.
-	190.	—. “Our scholarly partners.” web.archive.org/web/20200311042125/https://textcreationpartnership.org/about-the-tcp/about-partner-libraries/. Accessed 10 March 2020.
-	191.	—. “Welcome.” web.archive.org/web/20200311042006/https://textcreationpartnership.org/. Accessed 10 March 2020.
-	192.	Thaventhiran, Helen. “Feelings under the Microscope: New Critical Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 83-99, doi:10.1017/9781108339339.005.
-	193.	Townshend, Dale and Angela Wright. “Gothic and Romantic engagements: The critical reception of Ann Radcliffe, 1789–1850.” Ann Radcliffe, Romanticism and the Gothic, Cambridge University Press, 2014.
-	194.	Tufte, Edward. The Visual Display of Quantitative Information. 2nd ed. Graphics Press, 2001.
-	195.	Underwood, Ted. “A dataset for distant-reading literature in English, 1700-1922.” The Stone and the Shell, 7 August 2015, https://web.archive.org/web/20200207044631/https://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/. Accessed 6 Feb 2020.
-	196.	—. “A Genealogy of Distant Reading.” Digital Humanities Quarterly, volume 11, issue 2, 2017, www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html.
-	197.	—. Distant Horizons: Digital Evidence and Literary Change. U Chicago P, 2019.
-	198.	—. “Do humanists get their ideas from anything at all?” The Stone and the Shell, 24 Jan 2012, web.archive.org/web/20191105004437/https://tedunderwood.com/2012/01/24/discovery-and-hypothesis-testing. Accessed 4 Nov 2019.
-	199.	—. Why Literary Periods Mattered: Historical Contrast and the Prestige of Literary Studies. Stanford UP, 2013.
-	200.	Underwood, Ted and David Bamman. “The instability of gender.” The Stone and the Shell, 9 January 2016, https://web.archive.org/web/20200207044340/https://tedunderwood.com/2016/01/09/the-instability-of-gender/. Accessed 6 Feb 2020.
-	201.	—. “Preregistered Hypotheses for Evaluating Models of Literary Character,”  June 2014, hdl.handle.net/2142/49936.
-	202.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, vol. 21, 2001, pp. 263-282.
-	203.	Vara, Vauhini. “Project Gutenberg Fears No Google.” The Wall Street Journal Online, 10 December 2005, https://www.wsj.com/articles/SB113415403113218620. NOT ACCESSED IN FULL
-	204.	Vareschi, Mark and Mattie Burkert. “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale.” Theatre Journal, volume 68, issue 4, 2016, pp. 597-613. ProQuest, ProQuest Document ID 1886308168.
-	205.	Walker, William. “Aroused Yet Thoughtful: Readers in Eighteenth-Century Britain.” Review of Excitable Imaginations: Eroticism and Reading in Britain, 1660-1760, by Kathleen Lubey. Eighteenth Century Life, volume 39, number 2, April 2015, pp. 87-91.
-	206.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
-	207.	Wheeles D., Jensen K. (2013). Juxta Commons. In Proceedings of the Digital Humanities 2013. University of Nebraska-Lincoln, 17 July 2013. http://dh2013.unl.edu/abstracts/ab-142.html.
-	208.	Wilkins, Matt. “Literary Attention Lag.” Work Product, 13 January 2015, https://web.archive.org/web/20200605030011/https://mattwilkens.com/2015/01/13/literary-attention-lag/. Accessed 5 June 2020.
-	209.	Zimmerman, Sarah M. "Smith [née Turner], Charlotte (1749–1806), poet and novelist." Oxford Dictionary of National Biography, Oxford University Press, 4 Oct. 2007, doi: 10.1093/ref:odnb/25790. Accessed 13 July 2019.
-	210.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
+	89.	—. “Google Books Ngram Viewer: Datasets.” 2013, https://web.archive.org/web/20200608004518/http://storage.googleapis.com/books/ngrams/books/datasetsv2.html.
+	90.	—. “Google Books Ngram Viewer: Info.” 2013, https://web.archive.org/web/20200608004424/https://books.google.com/ngrams/info.
+	91.	Gorak, Jan. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Philology, volume 94, number 2, Nov 1996, pp. 286-290. JSTOR, www.jstor.org/stable/437977.
+	92.	Grafton, Anthony and Glenn W. Most. “How to do things with texts: An introduction.” Canonical Texts and Scholarly Practices: A Global Comparative Approach. Cambridge UP, 2016, pp. 1-13. doi:10.1017/CBO9781316226728.001.
+	93.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
+	94.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U Chicago P, 1993.
+	95.	Hammond, Adam. Literature in the Digital Age: An Introduction. Cambridge UP, 2016.
+	96.	Hane, Paula. “Project Gutenberg Progresses.” Information Today, volume 21, number 5, May 2004, web.archive.org/web/20200325195437/http://www.infotoday.com/it/may04/hane1.shtml. Accessed 25 March 2020.
+	97.	Hart, Michael. “The History and Philosophy of Project Gutenberg.” Project Gutenberg, August 1992. web.archive.org/web/20200312224522/https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart Accessed 12 March 2020.
+	98.	HathiTrust. “Getting Content Into HathiTrust.” HathiTrust, web.archive.org/web/20190915204356/https://www.hathitrust.org/ingest. Accessed 15 Sept 2019.
+	99.	—. “Governance.” HathiTrust, web.archive.org/web/20200325212223/https://www.hathitrust.org/governance. Accessed 25 March 2020.
+	100.	—. “Help - Copyright.” HathiTrust, web.archive.org/web/20200325212528/https://www.hathitrust.org/help_copyright%23RestrictedAccess. Accessed 25 March 2020.
+	101.	—. “Major Library Partners Launch HathiTrust Shared Digital Repository.” HathiTrust, 13 October 2008, web.archive.org/web/20200325213628/https://www.hathitrust.org/press_10-13-2008. Accessed 25 March 2020.
+	102.	—. “Member Community.” HathiTrust, web.archive.org/web/20190915204844/https://www.hathitrust.org/community. Accessed 15 Sept 2019.
+	103.	—. “Our Digital Library.” HathiTrust, web.archive.org/web/20190915204611/https://www.hathitrust.org/digital_library. Accessed 15 Sept 2019.
+	104.	—. “Our Membership.” HathiTrust, web.archive.org/web/20190915204720/https://www.hathitrust.org/partnership. Accessed 15 Sept 2019.
+	105.	Heisel, Andrew. “Hannah More’s Art of Reduction.” Eighteenth-Century Fiction, volume 25, number 3, Spring 2013, pp. 557-588.
+	106.	Hosch, William L. “Project Gutenberg.” Encyclopedia Britannica, 17 August 2017, web.archive.org/web/20200325190246/https://www.britannica.com/topic/Project-Gutenberg. Accessed 25 March 2020.
+	107.	Hunt, Bishop C. “Wordsworth and Charlotte Smith.” The Wordsworth Circle, vol. 1, no. 3, 1970, pp. 85. ProQuest, ProQuest Document ID 1300171026.
+	108.	IPUMS NAPP. “What is NAPP?” North Atlantic Population Project, web.archive.org/web/20200209014205/https://www.nappdata.org/napp/intro.shtml. Accessed February 8, 2020.
+	109.	Jockers, Matthew. Macroanalysis: Digital Methods and Literary History. U Illinois P, 2013.
+	110.	Juxta Commons. “A User Guide to Juxta Commons.” web.archive.org/web/20200227014953/http://juxtacommons.org/guide.
+	111.	Karels, Liene. “HathiTrust adds new members, goes global.” Montage: Arts + Creativity, University of Michigan, November 2010, web.archive.org/web/20140302084528/http://www.montage.umich.edu/2010/11/hathitrust-adds-new-members-goes-global. Accessed 25 March 2020.
+	112.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
+	113.	King, Kathryn R. “Introduction: Hans Turley, Queer Studies, and the Open-Hatched Eighteenth Century.” The Eighteenth Century, volume 53, number 3, 2012, pp. 265-272. JSTOR, www.jstor.org/stable/23365012.
+	114.	Klein, Lauren. “Distant Reading After Moretti.” Arcade: Literature, the Humanities, &amp; the World, 2018, web.archive.org/save/https://arcade.stanford.edu/blogs/distant-reading-after-moretti. Accessed 19 September 2019.
+	115.	Klein, Ula, and Emily MN Kugler. “Eighteenth-Century Camp Introduction.” ABO: Interactive Journal for Women in the Arts, 1640-1830, volume 9, issue 1, 2019, pp. 1-12. doi:10.5038/2157-7129.9.1.1180
+	116.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, volume 12, number 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
+	117.	Labbe, Jacqueline. “Introduction.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 1-11.
+	118.	—. “Selling One's Sorrows: Charlotte Smith, Mary Robinson, and the Marketing of Poetry.” The Wordsworth Circle, volume 25, number 2, 1994, pp. 68-71. ProQuest, ProQuest Document ID 1300173031.
+	119.	LaGuardia, Cheryl. Review of Eighteenth Century Collections Online. Library Journal, May 2004, pp. 123-124. 
+	120.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, volume 25, number 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
+	121.	Lebert, Marie. “Project Gutenberg (1971-2008).” Project Gutenberg, May 2008, www.gutenberg.org/cache/epub/27045/pg27045-images.html Accessed 12 March 2020
+	122.	Lee, Haimin. “15 Years of Google Books.” The Keyword, Google.
+	123.	Liberman, Mark. “The ‘dance of the p’s and b’s’: truth or noise?” Language Log, 26 Jan 2012, web.archive.org/web/20191105001115/https://languagelog.ldc.upenn.edu/nll/?p=3730. Accessed 4 Nov 2019.
+	124.	Lincoln, Matthew D. "Tidy Data for the Humanities." Matthew Lincoln, PhD (blog), 26 May 2020, https://web.archive.org/web/20200529025634/https://matthewlincoln.net/2020/05/26/tidy-data-for-%20humanities.html
+	125.	Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History, volume 41, issue 2, 2010, pp. 371–391.
+	126.	—. “Close Reading and Thin Description.” Public Culture, volume 25, number 3 (71), 2013, pp. 401-434, doi:10.1215/08992363-2144688.
+	127.	Manshel, Alexander, Laura B. McGrath, and J.D. Porter. “Who Cares About Literary Prizes?” Public Books, 3 August 2019, www.publicbooks.org/who-cares-about-literary-prizes
+	128.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
+	129.	Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” Los Angeles Review of Books, 28 Oct. 2012. web.archive.org/web/20191022060530/https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/
+	130.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
+	131.	Mauri, M., T. Elli, G. Caviglia, G. Uboldi, and M. Azzi. (2017). “RAWGraphs: A Visualisation Platform to Create Open Outputs.” Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter, ACM, 2017, p. 28:1–28:5, doi:10.1145/3125571.3125585.
+	132.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
+	133.	McLaverty, James. “Poems in Print.” The Oxford Handbook of British Poetry, 1660-1800, edited by Jack Lynch. Oxford UP, 2016, pp. 40-54, doi:10.1093/oxfordhb/9780199600809.013.3. Oxford Handbooks Online.
+	134.	McLeod, Dayna, Jasmine Rault, and T.L. Cowan. ”Speculative Praxis Towards a Queer Feminist Digital Archive: A Collaborative Research-Creation Project.” Ada: A Journal of Gender, New Media, &amp; Technology, issue 5, 2014, web.archive.org/web/20190318202624/https://adanewmedia.org/2014/07/issue5-cowanetal/
+	135.	McLeod, Deborah Anne. The Minerva Press. PhD dissertation, U of Alberta, 1997, doi:10.7939/R33J39C22.
+	136.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, vol. 7, no. 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
+	137.	Mee, John. Print, Publicity, and Popular Radicalism in the 1790s: The Laurel of Liberty. Cambridge UP, 2016.
+	138.	Michel, Jean-Baptiste et al. “Quantitative Analysis of Culture Using Millions of Digitized Books.” Science, volume 331, issue 6014, 2011), pp. 176-182. doi:10.1126/science.1199644.
+	139.	Moretti, Franco. The Bourgeois: Between History and Literature. Verso, 2013.
+	140.	—. “Conjectures on World Literature.” New Left Review, volume 1, issue 1, 2000, pp. 54 - 67.
+	141.	—. Distant Reading. Verso, 2013.
+	142.	Mullen, Lincoln. “gender: Predict Gender from Names Using Historical Data.” R package version 0.5.2. GitHub, https://github.com/ropensci/gender
+	143.	Mullen, Lincoln, Cameron Blevins, and Ben Schmidt. “Package ‘gender.’” November 9, 2019.
+	144.	Murphie, Andrew. “The Digital’s Amodal Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 390-407, doi: 10.1017/9781108339339.022.
+	145.	Murphy, Peter. Poetry as an occupation and an art in Britain, 1760-1830. Cambridge UP, 1993.
+	146.	Nicolazzo, Sarah. “Reading Clarissa’s “Conditional Liking”: A Queer Philology.” Modern Philology, volume 112, issu 1, 2014, pp. 205-225. JSTOR, www.jstor.org/stable/10.1086/676008.
+	147.	Noble, Safiya. Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press, 2018.
+	148.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
+	149.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
+	150.	O’Dair, Sharon. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. South Atlantic Review, volume 59, number 2, May 1994, pp. 130-132. JSTOR, www.jstor.org/stable/3200802.
+	151.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
+	152.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
+	153.	Price, Leah. The Anthology and the Rise of the Novel: From Richardson to George Eliot. Cambridge UP, 2000, doi:10.1017/CBO9780511484445.
+	154.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
+	155.	Project Gutenberg. “Credits.” 7 June 2006, web.archive.org/web/20200325192439/https://www.gutenberg.org/wiki/Gutenberg:Credits. Accessed 25 March 2020.
+	156.	—. “The CD and DVD Project.” 19 August 2017, web.archive.org/web/20200325194042/https://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project. Accessed 25 March 2020.
+	157.	—. “Feeds.” 1 April 2020, https://web.archive.org/web/20200608003736/http://www.gutenberg.org/wiki/Gutenberg:Feeds.
+	158.	—. “Offline Catalogs.” 6 January 2020, https://web.archive.org/web/20200608003535/http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs.
+	159.	—. “Partners, Affiliates and Resources.” 24 January 2019, web.archive.org/web/20200325193013/https://www.gutenberg.org/wiki/Gutenberg:Partners,_Affiliates_and_Resources. Accessed 25 March 2020.
+	160.	Punter, David. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Non-Standard Englishes and the New Media, special issue of The Yearbook of English Studies, volume 25, 1995, pp. 229-230. JSTOR, www.jstor.org/stable/3508832.
+	161.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
+	162.	Readings, Bill. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Language Quarterly, volume 55, number 3, Sept 1994, pp. 321-326, doi:10.1215/00267929-55-3-321.
+	163.	@RealSaavedra (Ryan Saavedra). “Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist.” Twitter, 22 Jan. 2019, 3:27 AM, web.archive.org/save/https://twitter.com/realsaavedra/status/1087627739861897216?lang=en.
+	164.	Reason. “How to Politely Download All English Language Text Format Files from Project Gutenberg.” Ex Ratione, 1 November 2014, web/20200506014409/https://www.exratione.com/2014/11/how-to-politely-download-all-english-language-text-format-files-from-project-gutenberg/
+	165.	Reinert, Thomas. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Fiction Studies, volume 42, number 1, 1996, pp. 221-224. ProQuest, ProQuest Document ID 2152910014.
+	166.	Rigby, Mair. “Uncanny recognition: Queer theory's debt to the Gothic.” Gothic Studies, vol. 11, no. 1, 2009, pp. 46-57.
+	167.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
+	168.	Rogers, Deborah D. Ann Radcliffe: A Bio-Bibliography. Bio-Bibliographies in World Literature, number 4. Greenwood Press, 1996.
+	169.	Rosenberg, Scott. “How Google Book Search Got Lost.” Wired, 11 April 2017, web.archive.org/web/20200326035223/https://www.wired.com/2017/04/how-google-book-search-got-lost/. Accessed 25 March 2020.
+	170.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
+	171.	Sandvoss, Cornel. “The Death of the Reader: Literary Theory and the Study of Texts in Popular Culture.” Fandom: Identities and Communities in a Mediated World, edited by Jonathan Gray, C. Sandvoss, and C. Lee Harrington. NYU Press.
+	172.	Seaver, Nick. “Bastard Algebra.” Data, Now Bigger and Better!, edited by Tom Boellstorff and Bill Maurer. Prickly Paradigm, 2015.
+	173.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
+	174.	Shaw, Zed. Learn Python the Hard Way, Addison-Wesley Professional, 2013.
+	175.	Shirky, Clay. “Why Abundance is Good: A Reply to Nick Carr.” Encyclopædia Britannica Blog, 17 July 2008, blogs.britannica.com/2008/07/why-abundance-is-good-a-reply-to-nick-carr. Accessed 10 Sept 2019.
+	176.	Shiroma, Yumi Dineen. “Conjectures on World Literature, Revisited.” June 3, 2018, web.archive.org/web/20200309032430/http://yumidineenshiroma.org/blog/conjectures-on-world-literature-revisited/ Accessed March 1, 2020.
+	177.	Somers, James. “Torching the Modern-Day Library of Alexandria.” The Atlantic, 20 April 2017, web.archive.org/web/20200326035404/https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/. Accessed 25 March 2020.
+	178.	Spedding, Patrick. “‘The New Machine’: Discovering the Limits of ECCO.” Eighteenth-Century Studies, volume 44, issue 4, 2011, pp. 437-453.
+	179.	St. Clair, William. The Reading Nation in the Romantic Period. Cambridge UP, 2007.
+	180.	Stanton, Judith Phillips. “Recovering Charlotte Smith’s Letters: A History, With Lessons.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 159-173.
+	181.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
+	182.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
+	183.	Syme, Holger Schott. “Imaginary Targets.” Los Angeles Review of Books, 5 Nov 2012. web.archive.org/web/20191023050529/https://lareviewofbooks.org/article/in-defense-of-data-responses-to-stephen-marches-literature-is-not-data.
+	184.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381. (If I add new Tabor citations, go back and clarify which ones I’m already quoting)
+	185.	Taylor, George. The French Revolution and the London Stage, 1789–1805. Cambridge UP, 2001.
+	186.	TCP Executive Board. “Meeting Minutes 2001-01-12.” wayback.archive-it.org/5871/20190806191909/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2001-01-12/ Accessed 10 March 2020.
+	187.	—. “Meeting Minutes 2003-10-22.” wayback.archive-it.org/5871/20190806191856/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2003-10-22/ Accessed 23 March 2020.
+	188.	—. “Meeting Minutes 2004-10-21.” wayback.archive-it.org/5871/20190806191851/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2004-10-21/ Accessed 23 March 2020.
+	189.	—. “Meeting Minutes 2005-10-20.” https://wayback.archive-it.org/5871/20190806191847/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2005-10-20/ Accessed 23 March 2020.
+	190.	—. “Meeting Minutes 2006-09-16.” https://wayback.archive-it.org/5871/20190806191843/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2006-09-16/ Accessed 23 March 2020.
+	191.	—. “Meeting Minutes 2007-10-30.” https://wayback.archive-it.org/5871/20190806191838/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2007-10-30/ Accessed 23 March 2020.
+	192.	Text Creation Partnership (TCP). “About the partnership.” web.archive.org/web/20200312203119/https://textcreationpartnership.org/about-the-tcp/. Accessed 12 March 2020.
+	193.	—. “Eighteenth Century Collections Online (ECCO) TCP.” web.archive.org/web/20200312212808/https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/. Accessed 12 March 2020.
+	194.	—. “Early English Books Online (EEBO) TCP.” web.archive.org/web/20200312212215/https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/. Accessed 12 March 2020.
+	195.	—. “FAQ.” web.archive.org/web/20200311042209/https://textcreationpartnership.org/faq/. Accessed 10 March 2020.
+	196.	—. “Our scholarly partners.” web.archive.org/web/20200311042125/https://textcreationpartnership.org/about-the-tcp/about-partner-libraries/. Accessed 10 March 2020.
+	197.	—. “Welcome.” web.archive.org/web/20200311042006/https://textcreationpartnership.org/. Accessed 10 March 2020.
+	198.	Thaventhiran, Helen. “Feelings under the Microscope: New Critical Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 83-99, doi:10.1017/9781108339339.005.
+	199.	Townshend, Dale and Angela Wright. “Gothic and Romantic engagements: The critical reception of Ann Radcliffe, 1789–1850.” Ann Radcliffe, Romanticism and the Gothic, Cambridge University Press, 2014.
+	200.	Tufte, Edward. The Visual Display of Quantitative Information. 2nd ed. Graphics Press, 2001.
+	201.	Underwood, Ted. “A dataset for distant-reading literature in English, 1700-1922.” The Stone and the Shell, 7 August 2015, https://web.archive.org/web/20200207044631/https://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/. Accessed 6 Feb 2020.
+	202.	—. “A Genealogy of Distant Reading.” Digital Humanities Quarterly, volume 11, issue 2, 2017, www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html.
+	203.	—. Distant Horizons: Digital Evidence and Literary Change. U Chicago P, 2019.
+	204.	—. “Do humanists get their ideas from anything at all?” The Stone and the Shell, 24 Jan 2012, web.archive.org/web/20191105004437/https://tedunderwood.com/2012/01/24/discovery-and-hypothesis-testing. Accessed 4 Nov 2019.
+	205.	—. Why Literary Periods Mattered: Historical Contrast and the Prestige of Literary Studies. Stanford UP, 2013.
+	206.	Underwood, Ted and David Bamman. “The instability of gender.” The Stone and the Shell, 9 January 2016, https://web.archive.org/web/20200207044340/https://tedunderwood.com/2016/01/09/the-instability-of-gender/. Accessed 6 Feb 2020.
+	207.	—. “Preregistered Hypotheses for Evaluating Models of Literary Character,”  June 2014, hdl.handle.net/2142/49936.
+	208.	University Libraries, University of Colorado Boulder. “Increasing Access with Google Books.” 13 November 2019, /web/20200608004707/https://www.colorado.edu/libraries/2019/11/13/increasing-access-google-books.
+	209.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, vol. 21, 2001, pp. 263-282.
+	210.	Vara, Vauhini. “Project Gutenberg Fears No Google.” The Wall Street Journal Online, 10 December 2005, https://www.wsj.com/articles/SB113415403113218620. NOT ACCESSED IN FULL
+	211.	Vareschi, Mark and Mattie Burkert. “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale.” Theatre Journal, volume 68, issue 4, 2016, pp. 597-613. ProQuest, ProQuest Document ID 1886308168.
+	212.	Walker, William. “Aroused Yet Thoughtful: Readers in Eighteenth-Century Britain.” Review of Excitable Imaginations: Eroticism and Reading in Britain, 1660-1760, by Kathleen Lubey. Eighteenth Century Life, volume 39, number 2, April 2015, pp. 87-91.
+	213.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
+	214.	Wheeles D., Jensen K. (2013). Juxta Commons. In Proceedings of the Digital Humanities 2013. University of Nebraska-Lincoln, 17 July 2013. http://dh2013.unl.edu/abstracts/ab-142.html.
+	215.	Wilkins, Matt. “Literary Attention Lag.” Work Product, 13 January 2015, https://web.archive.org/web/20200605030011/https://mattwilkens.com/2015/01/13/literary-attention-lag/. Accessed 5 June 2020.
+	216.	Zimmerman, Sarah M. "Smith [née Turner], Charlotte (1749–1806), poet and novelist." Oxford Dictionary of National Biography, Oxford University Press, 4 Oct. 2007, doi: 10.1093/ref:odnb/25790. Accessed 13 July 2019.
+	217.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
             <Comments>they style it all lowercase
 they style it all lowercase
 “the text of a talk delivered at the 2018 MLA Annual Convention for a panel, “Varieties of Digital Humanities,” organized by Alison Booth and Miriam Posner. Marisa Parham, Alan Liu, and Ted Underwood were the other speakers. (Howard Ramsby was also scheduled to present, but he was unable to attend because of the blizzard.)”
@@ -9829,6 +9904,9 @@ McCarty’s detailed consideration of models, which explores the implications of
         <Document ID="776EC7C1-846E-4FF8-9612-EE5A1DBE54BD">
             <Title>?</Title>
         </Document>
+        <Document ID="98A142C7-E513-4BFB-BF20-B1B8169F4E94">
+            <Title>Garside &amp; Raven</Title>
+        </Document>
         <Document ID="400760AF-E4A7-411F-8617-D8544E4D43F1">
             <Title>Suarez ESTC</Title>
             <Text>WHO SAID THIS ABOUT THIS WORK? “This article should be required reading for those trying to use the ESTC for bibliometric purposes.” — Probably Karian??
@@ -9870,6 +9948,26 @@ Book Formats
 ￼(64)
 </Text>
         </Document>
+        <Document ID="87D8B0AC-D850-4292-B3F4-7B52A41869B2">
+            <Title>ECCO selection</Title>
+            <Text>“while ESTC may be based on two thousand public and private libraries worldwide, the Eighteenth Century microfilm series is based on books from only a tiny fraction of that number - almost certainly less than twenty libraries, and rarely anywhere other than the British Library, the Bodleian, Harvard, and the Hunt” (Spedding 440)
+
+The “microfilm series is not a random - and therefore randomly representatve— selection of items from ESTC. Texts have been selected for filming on the basis of criteria that are rarely mentioned, but which include ease of access for filming (initially, items at the British Library) and the desire to avoid duplication of texts. That is, by the desire to get the biggest bang for Gale’s buck.” (Spedding 441)
+
+“There may also be commercial considerations at work. Alt not conducted a systematic search for items from the British L Case" (its collection of erotic material), it seems that little of tha the Eighteenth Century microfilm series, and the material that h has only been quite recently added.37 Consequently, much of this ing from ECCO. The reason for this may be that much Private Ca as late as 1989, not represented on ESTC,38 but it may also be be Private Case was microfilmed by Adam Matthew Publications in under the title Sex and Sexuality 1 640-1 940 . That is, the eighteent terial in the Private Case may have been withheld from the Eigh microfilm series (and consequently ECCO) to ensure the profitab Sexuality. Similar, and similarly hidden, criteria seem to affect o such as EEBO and Goo” (Spedding 441)
+
+Gale proudly declares that “this collection contains every significant English-language and foreign-language title printed in the United Kingdom between the years 1701 and 1800.” (“Eighteenth Century Collections Online”) This claim is easily overturned with a single counterexample, such as the first edition of Charlotte Smith’s Elegiac Sonnets, a significant title which is absent.
+
+“Full-text searching across all 26 million pages enables users to explore a vast range of books and directories, bibles, sheet music, sermons, advertisements, and works by both celebrated and lesser-known authors. Researchers will also find rare works from women writers of the eighteenth century, collections on the French Revolution, and numerous editions of the works of Shakespeare.” (Gale, “Part I”)</Text>
+        </Document>
+        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
+            <Title>ECCO MARC records</Title>
+            <Text>001 stores ESTC number, though without leading numbers
+i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
+
+260 c stores publication year
+i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
+        </Document>
         <Document ID="BF476B67-6327-43A6-920B-76CB7DB44116">
             <Title>rev. O'Dair</Title>
             <Text>Review Reviewed Work(s): Cultural Capital: The Problem of Literary Canon Formation by John Guillory Review by: Sharon O'Dair Source: South Atlantic Review, Vol. 59, No. 2 (May, 1994), pp. 130-132 Published by: South Atlantic Modern Language Association Stable URL: https://www.jstor.org/stable/3200802 
@@ -9880,21 +9978,6 @@ p.131: The university, especially the research university, is the preserve of an
 p.131: Cultural Capital argues forcefully—and in my view convincingly—that the problem of literary canon formation is best understood not as a problem of biased judgment or as a lack of representation but as “a problem in the constitution and distribution of access to the means of cultural capital, or more specifically, a problem of access to the means of literary production and consumption” (ix).
 p.131: Regardless of race or gender, that is,"[t]hose who have never been taught, or have been very inadequately taught, the practice of reading have little occasion to rejoice at being 'represented’ in the canon” (38)
 P.132: More important, perhaps, it reveals the difficulty anyone faces who imagines the dismantling of a system in which he or she holds a position of privilege.</Text>
-        </Document>
-        <Document ID="1CD2817E-EBA7-4D19-ABAB-16A70F32328C">
-            <Title>Women's Writing Online</Title>
-        </Document>
-        <Document ID="93055C65-8ECB-4CA2-BB70-E65701A5DC30">
-            <Title>I'm reading a lot of disreputable stuff</Title>
-            <Text>My reading list mixes canonical masterpieces with rubbish like “The Shepherd of Salisbury Plain” and “Almagro &amp; Claude.” I… don’t think these things are better than the “good stuff,” though I do often appreciate their honesty.</Text>
-        </Document>
-        <Document ID="25EE45BB-4A7C-43C3-B684-1BB2787CED16">
-            <Title>ECCO MARC records</Title>
-            <Text>001 stores ESTC number, though without leading numbers
-i.e., =001  N836 (MARC) correlates to ESTC Number:N000836 (online)
-
-260 c stores publication year
-i.e., =260 […] $c (MARC) correlates to Imprint:[…] 1733 (online)</Text>
         </Document>
         <Document ID="694A529A-BEAF-4647-B2A2-06BB253B494C">
             <Title>donoghue's lesbian history</Title>
