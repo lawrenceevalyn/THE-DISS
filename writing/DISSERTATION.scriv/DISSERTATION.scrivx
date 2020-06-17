@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-06-16 01:56:25 -0400" ModID="C8123DDD-C939-4EA9-9A2F-208BEFD59B14">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-06-17 02:15:31 -0400" ModID="A91A4F78-B510-4036-8219-1A51BE79198C">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -58,7 +58,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>0,0</TextSelection>
+                <TextSelection>808,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="EDAB35FA-5F1D-44DF-963D-171D341E5E8C" Type="Text" Created="2019-09-21 13:32:52 -0400" Modified="2019-09-21 13:35:03 -0400">
@@ -106,8 +106,8 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Folder" Created="2018-04-02 14:19:48 -0400" Modified="2020-06-02 19:47:58 -0400">
-                    <Title>ch 1 - intro</Title>
+                <BinderItem UUID="2CDB07AA-9D8D-4797-89D0-D0624337DB55" Type="Folder" Created="2018-04-02 14:19:48 -0400" Modified="2020-06-17 01:59:51 -0400">
+                    <Title>introduction</Title>
                     <MetaData>
                         <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
                         <LabelID>10</LabelID>
@@ -674,39 +674,24 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-06-02 18:17:01 -0400">
-                    <Title>ch 2 - Charlotte Smith</Title>
+                <BinderItem UUID="AD127CAC-3483-463D-AD03-E3A52D0D7AC5" Type="Folder" Created="2020-06-17 02:00:00 -0400" Modified="2020-06-17 02:00:09 -0400">
+                    <Title>ch 1 - historical set-up</Title>
                     <MetaData>
-                        <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
-                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="8EE66AAE-8EBE-4BBA-8E4D-EAF3F280F1FD" Type="Text" Created="2020-02-18 15:00:57 -0500" Modified="2020-03-23 19:04:06 -0400">
-                            <Title>intro</Title>
+                        <BinderItem UUID="69B0676B-4A86-4A15-8753-0020B94C31DB" Type="Text" Created="2020-06-17 01:58:45 -0400" Modified="2020-06-17 01:59:36 -0400">
+                            <Title>ch 1 - historical set-up</Title>
                             <MetaData>
-                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
-                                <LabelID>10</LabelID>
+                                <LabelID>9</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>364,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem UUID="B44759CF-F2D3-4D4B-AE83-E31552DFA25B" Type="Text" Created="2020-02-18 15:03:04 -0500" Modified="2020-06-02 02:40:47 -0400">
-                                    <Title>BLUF</Title>
-                                    <MetaData>
-                                        <LabelID>10</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>281,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                         <BinderItem UUID="13A33E95-65DF-4C60-8BB0-E763187BB1E0" Type="Text" Created="2020-02-18 15:03:30 -0500" Modified="2020-03-26 00:24:44 -0400">
                             <Title>database histories</Title>
@@ -1104,17 +1089,63 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
+                                <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-05-29 22:00:39 -0400">
+                                    <Title>table:databases-timeline</Title>
+                                    <MetaData>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>916,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="0BD91C8B-05FD-4D19-AD2D-0C5F1792AA7C" Type="Text" Created="2020-03-10 17:29:18 -0400" Modified="2020-05-29 22:00:39 -0400">
-                            <Title>table:databases-timeline</Title>
+                        <BinderItem UUID="69BFF476-1824-4C32-B37D-B54D132251B4" Type="Text" Created="2020-06-17 01:57:34 -0400" Modified="2020-06-17 01:59:45 -0400">
+                            <Title>1790s women history</Title>
                             <MetaData>
+                                <LabelID>9</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-06-02 18:17:01 -0400">
+                    <Title>ch 2 - Charlotte Smith</Title>
+                    <MetaData>
+                        <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
+                        <LabelID>10</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="8EE66AAE-8EBE-4BBA-8E4D-EAF3F280F1FD" Type="Text" Created="2020-02-18 15:00:57 -0500" Modified="2020-03-23 19:04:06 -0400">
+                            <Title>intro</Title>
+                            <MetaData>
+                                <SectionType>51E458CC-E541-4B50-ACE8-A8E55F4B15FC</SectionType>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>916,0</TextSelection>
+                                <TextSelection>364,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B44759CF-F2D3-4D4B-AE83-E31552DFA25B" Type="Text" Created="2020-02-18 15:03:04 -0500" Modified="2020-06-02 02:40:47 -0400">
+                                    <Title>BLUF</Title>
+                                    <MetaData>
+                                        <LabelID>10</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>281,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="FFA030C4-4A92-4E38-A2FE-31F7C34E974D" Type="Text" Created="2020-02-18 15:03:35 -0500" Modified="2020-03-23 19:16:39 -0400">
                             <Title>Smith in databases</Title>
@@ -12005,13 +12036,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-06-16 01:43:54 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2020-06-17 01:54:33 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-06-16 00:00:00 -0400">
+    <RecentWritingHistory Date="2020-06-17 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>138</OtherWordCount>
-        <OtherCharCount>808</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

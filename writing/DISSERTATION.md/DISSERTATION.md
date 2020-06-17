@@ -1,7 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# ch 1 - intro #
+# introduction #
 
 
 
@@ -243,27 +243,17 @@ Signifying growing recognition of the importance of data publication, the Underw
 
 
 
-# ch 2 - Charlotte Smith #
+# ch 1 - historical set-up #
 
 
 
-## 2.1.  intro ##  
-
-Ian Gadd argues that critiques of digital databases are often not based on the right grounds: “the real risk of scholarly misuse of \[Early English Books Online\] is less to do with the physical features of early printed books that it fails, one way or another, to represent (problematic though these are) and more to do with a lack of an informed knowledge of what exactly EEBO *is*.” (Gadd 682) The observation applies far beyond EEBO: although it is easiest to critique digital resources for their failures to perfectly replicate the full tactile experience of the books they simulate, or for failing to contain every possible book, those critiques are fundamentally futile. \[What other critiques are possible?\] This chapter examines the history, textual selection, and implicit model of six databases: the ESTC, ECCO, ECCO-TCP, Project Gutenberg, Google Books, and HathiTrust. I explore how each database encodes its assumptions about what literature is, who it is for, and how it should be used. I historicize these models in the context of the institutional infrastructure behind the creation of each resource, particularly the economic factors driving development. I argue that the differences between each database’s literary model are best understood as the result of different strategies to navigate conflict between commercial and anti-commercial values. In parallel, I follow Charlotte Smith through each of these databases, to explore the impact of their different literary models. Very different works by Smith are available in each resource, and in very different formats. Smith’s most major works are not readily available, suggesting that these literary archives lag behind scholarly consensus about her importance. The chapter concludes with a discussion of new developments in Optical Character Recognition (OCR) technology, which can be used to transcribe texts from page images. \[OCR BLUF.\]
-
-
-
-
-
-
-
-## 2.2.  database histories ##  
+## 2.1.  database histories ##  
 
 In the next section I will close read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.
 
 
 
-### 2.2.1.  ESTC timeline history ###
+### 2.1.1.  ESTC timeline history ###
 
 
 
@@ -285,7 +275,7 @@ In 2006, almost thirty years after the commencement of the project, the ESTC und
 
 
 
-### 2.2.2.  ECCO timeline history ###  
+### 2.1.2.  ECCO timeline history ###  
 
 To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
 
@@ -335,7 +325,7 @@ In late 2019, Gale began allowing access to a new interface, the Gale Digital Sc
 
 
 
-### 2.2.3.  TCP timeline history ###  
+### 2.1.3.  TCP timeline history ###  
 
 “The Text Creation Partnership started, in 1999, as a collaboration between the university libraries of Michigan and Oxford, the Council on Library and Information Resources, and the publisher of Early English Books Online, Proquest. The aim was to create high quality ‘standardized, digitally-encoded electronic text editions’ starting with 25,000 titles from Early English Books Online.” (Gregg n. pag.)
 
@@ -379,7 +369,7 @@ In 2007, all three TCP project reported successful sales, though ECCO’s news w
 
 
 
-### 2.2.4.  PG timeline history ###  
+### 2.1.4.  PG timeline history ###  
 
 Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
 
@@ -525,7 +515,7 @@ It also brought to light the fact that Hart himself had the trademark for PG, ra
 
 
 
-### 2.2.5.  GB timeline history ###
+### 2.1.5.  GB timeline history ###
 
 
 
@@ -657,7 +647,7 @@ Another way to measure savings for the Libraries is with time. Dulock said that 
 
 
 
-### 2.2.6.  Hathi timeline history ###
+### 2.1.6.  Hathi timeline history ###
 
 
 
@@ -691,7 +681,7 @@ Wikipedia: “The partnership includes over 60 research libraries\[7\] across th
 
 
 
-### 2.2.7.  synthesizing histories ###  
+### 2.1.7.  synthesizing histories ###  
 
 To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
 
@@ -903,7 +893,21 @@ Table 1: A chronological history of major events in the development of \[LIST TH
 
 
 
-## 2.3.  Smith in databases ##  
+# ch 2 - Charlotte Smith #
+
+
+
+## 3.1.  intro ##  
+
+Ian Gadd argues that critiques of digital databases are often not based on the right grounds: “the real risk of scholarly misuse of \[Early English Books Online\] is less to do with the physical features of early printed books that it fails, one way or another, to represent (problematic though these are) and more to do with a lack of an informed knowledge of what exactly EEBO *is*.” (Gadd 682) The observation applies far beyond EEBO: although it is easiest to critique digital resources for their failures to perfectly replicate the full tactile experience of the books they simulate, or for failing to contain every possible book, those critiques are fundamentally futile. \[What other critiques are possible?\] This chapter examines the history, textual selection, and implicit model of six databases: the ESTC, ECCO, ECCO-TCP, Project Gutenberg, Google Books, and HathiTrust. I explore how each database encodes its assumptions about what literature is, who it is for, and how it should be used. I historicize these models in the context of the institutional infrastructure behind the creation of each resource, particularly the economic factors driving development. I argue that the differences between each database’s literary model are best understood as the result of different strategies to navigate conflict between commercial and anti-commercial values. In parallel, I follow Charlotte Smith through each of these databases, to explore the impact of their different literary models. Very different works by Smith are available in each resource, and in very different formats. Smith’s most major works are not readily available, suggesting that these literary archives lag behind scholarly consensus about her importance. The chapter concludes with a discussion of new developments in Optical Character Recognition (OCR) technology, which can be used to transcribe texts from page images. \[OCR BLUF.\]
+
+
+
+
+
+
+
+## 3.2.  Smith in databases ##  
 
 For the purposes of this chapter, I examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  I have slightly expanded my chronological focus in part because some of the most interesting exclusions occur earlier and later in Smith’s publishing career, such as the first edition of her immensely influential Elegiac Sonnets (1784), which is listed in the ESTC but not available in facsimile anywhere, or the publications in the last years of her life, which are excluded from the chronological focus of most resources but can still appear in HathiTrust. Of particular interest is the fact that *Beachy Head*, which is now one of Smith’s most frequently anthologized and taught poems, does not appear in a single digital database. None of these inclusions or exclusions represent an agenda against (or for) Smith, or indeed an interpretive choice at all, but they nonetheless shape the disciplinary infrastructure.  
 
@@ -927,7 +931,7 @@ Searching the ESTC for records which both have “Toronto” in the library name
 
 
 
-## 2.4.  database models ##  
+## 3.3.  database models ##  
 
 Mark Merry’s Designing Databases for Historical Research as a rich entrypoint for historians to learn about database construction, in particular the chapter on “Conceptual models of database design” that contrasts “source-oriented” and “method-oriented” models:
 
@@ -943,7 +947,7 @@ Ultimately, historians will need to steer a middle course between the two extrem
 
 
 
-### 2.4.1.  ESTC model ###  
+### 3.3.1.  ESTC model ###  
 
 One reason that it can be informative to close-read the data structures of a resource like the ESTC is that a resource’s categories of knowledge are driven by the *uses* to which it expects that knowledge to be put. Examining the implicit assumptions that will make a given organization of knowledge seem logical, we can work backwards to the purpose of mission of the initial knowledge creation. Thus Tabor describes the data structure and the mission of the ESTC in a single statement: “ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (369). Korshin further elaborates the use envisioned for this information: “the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book in his or her library is the same or different from the one listed in ESTC” (211). Both “edition” and “ideal copy” are terms defined around the interests of a specialist audience of bibliographers, which bear inexact but important relationships to the formulation of an ESTC record.
 
@@ -971,7 +975,7 @@ There are several different ways to search ESTC records. The “Search” button
 
 
 
-### 2.4.2.  ECCO model ###
+### 3.3.2.  ECCO model ###
 
 
 
@@ -1001,7 +1005,7 @@ A glowing 2004 review of ECCO in the “Database & Disc Reviews” section of Li
 
 
 
-### 2.4.3.  TCP model ###
+### 3.3.3.  TCP model ###
 
 
 
@@ -1013,7 +1017,7 @@ Although the ECCO-TCP now seems obviously built for text-mining distant reading,
 
 
 
-### 2.4.4.  Hathi model ###
+### 3.3.4.  Hathi model ###
 
 
 
@@ -1027,7 +1031,7 @@ See: <https://search-proquest-com.myaccess.library.utoronto.ca/results/58AF728D9
 
 
 
-### 2.4.5.  PG model ###
+### 3.3.5.  PG model ###
 
 
 
@@ -1045,7 +1049,7 @@ Cite Hammond’s book re: comparing modernists to bestsellers --- he can’t alw
 
 
 
-### 2.4.6.  GB model ###  
+### 3.3.6.  GB model ###  
 
 Google Books prioritizes low-quality information over *no* information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
 
@@ -1059,7 +1063,7 @@ Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE met
 
 
 
-### 2.4.7.  database selection ###  
+### 3.3.7.  database selection ###  
 
 “It has been difficult to consider playbills at scale because they were excluded from the catalogs that form the basis for mass digitization efforts. The absence of playbills from Eighteenth-Century Collections Online (ECCO), as well as from its pre-1700 counterpart Early English Books Online (EEBO), is a result of the decision, as reported by R. C. Alston, not to include them in the English Short Title Catalog (ESTC) on which those collections are built.” (Vareschi and Burkert 600 --- citing R. C. Alston, “The Eighteenth-Century Non-Book: Observations on Printed Ephemera,” in *The Book and the Book Trade in Eighteenth-Century Europe*, ed. Giles Barber and Bernhard Fabian (Hamburg: Dr. Ernst Hauswedell & Co., 1981), 343--60, quote on 344--45.)
 
@@ -1149,7 +1153,7 @@ The first Project Gutenberg texts are almost a parody of important texts: The De
 
 
 
-## 2.5.  OCR ##  
+## 3.4.  OCR ##  
 
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
@@ -1249,7 +1253,7 @@ Figure 6: The facsimile of the first page of *The Emigrants* found in HathiTrust
 
 
 
-## 2.6.  conclusion ##  
+## 3.5.  conclusion ##  
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 
@@ -1263,7 +1267,7 @@ We are on the cusp of eighteenth-century OCR meeting the standards of twenty-fir
 
 
 
-## 3.1.  data cleaning ##  
+## 4.1.  data cleaning ##  
 
 The next phase of this project does not deal with these databases directly, but with my own curated samples. I have collected as much information as I can about all the works published in England 1789-99 held within each database. What follows is a detailed description of each of these samples, and of the further work which I employed to prepare these samples for computational experimentation  
 
