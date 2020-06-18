@@ -1,7 +1,9 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fnil\fcharset0 Georgia;\f1\ftech\fcharset77 Symbol;}
-{\colortbl;\red255\green255\blue255;\red252\green111\blue207;\red15\green128\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c100000\c54098\c84731;\cssrgb\c0\c58980\c100000;}
+{\colortbl;\red255\green255\blue255;\red252\green111\blue207;\red15\green128\blue255;\red15\green128\blue255;
+}
+{\*\expandedcolortbl;;\cssrgb\c100000\c54098\c84731;\cssrgb\c0\c58980\c100000;\cssrgb\c0\c58980\c100000;
+}
 \pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
 
 \f0\fs22 \cf2 \'93Chapter 6, \'93\'91Man people woman life\'92 / \'91Creek sheep cattle horses\'92: Influence, Distinction, and Literary Traditions,\'94 turns from the source and reception of fiction in nineteenth-century Australian newspapers to its content, and to the question of whether colonial writing demonstrated any distinct features. Given the transnational market in which colonial literature developed, it has been argued that a distinctive AustralianPage 12 
@@ -9,26 +11,37 @@
 \f0 \cf2  literary tradition was impossible. I show, to the contrary, thematic tendencies in colonial fiction that are clearly different from those in American and British writing. Focusing on rural colonial spaces, characters, and activities, such writing resonates in certain ways, including in its masculine orientation, with the primary framework through which nineteenth-century Australian fiction was perceived prior to the transnational turn: the bush tradition.\'94 (11-12)\cf3 \
 \
 \'93it is entirely possible that Australian fiction largely resembled\'97that is, imitated\'97popular genres imported from elsewhere. Of course, given the scale of fiction involved, 
-\b this relationship is not one that can be ascertained simply by reading
-\b0 . Working at the rate of a story a day, reading all of the extended fiction harvested in this project 
-\b would take more than sixteen years
-\b0 ; in this light, s
-\b electing a sample
-\b0  and systematizing analysis of the contents without computational assistance would present an insurmountable challenge.\'94 (158)\
+\b \cf3 this relationship is not one that can be ascertained simply by reading
+\b0 \cf3 . Working at the rate of a story a day, reading all of the extended fiction harvested in this project 
+\b \cf3 would take more than sixteen years
+\b0 \cf3 ; in this light, s
+\b \cf3 electing a sample
+\b0 \cf3  and systematizing analysis of the contents without computational assistance would present an insurmountable challenge.\'94 (158)\
 Actually, this is a scale at which I suspect reading could be applied: two people at two stories a day could do it in four years. Especially if you\'92re still going to select a sample!\
 Looked at \'93text files representing 75 percent of the extended fiction in the curated dataset and 81 percent of unique titles\'94 (161) \'97 so, 12 years of one person/story/day. 3 years of 2 people/2 stories/day. It would, obviously, be a massive and expensive undertaking, but by no means beyond the scope of what scholar have done.
-\b  The better argument is that \'91just reading\'92 could not produce the information that the computational methods do.
-\b0 \
+\b \cf3  The better argument is that \'91just reading\'92 could not produce the information that the computational methods do.
+\b0 \cf3 \
 \
 \'93Topic modeling has been used extensively in digital literary studies, albeit often Page 159 
-\f1 \uc0\u8594 
-\f0 in the gray literature attached to the field: in blogs, conference presentations, and shared code.\'94 (158-9)\
+\f1 \cf3 \uc0\u8594 
+\f0 \cf3 in the gray literature attached to the field: in blogs, conference presentations, and shared code.\'94 (158-9)\
 \'93But 
-\b the focus on corpus-wide \'93topics,\'94
-\b0  largely separate from the literary works these patterns arise from, 
-\b undermines the method\'92s usefulness
-\b0  for literary history. 
-\b Decision trees provide a means of tying the results of topic modeling to literary works and, more particularly, of associating word patterns with historical categories of documents
-\b0 .\'94 (159)\
+\b \cf3 the focus on corpus-wide \'93topics,\'94
+\b0 \cf3  largely separate from the literary works these patterns arise from, 
+\b \cf3 undermines the method\'92s usefulness
+\b0 \cf3  for literary history. 
+\b \cf3 Decision trees provide a means of tying the results of topic modeling to literary works and, more particularly, of associating word patterns with historical categories of documents
+\b0 \cf3 .\'94 (159)\
 \
-\'93We might expect gendered tendencies in fiction to be more apparent than national (or protonational) ones. But word patterns emerge as more strongly indicative of whether an author is American, Australian, or British than male or female. \'94 (159)}
+\'93We might expect gendered tendencies in fiction to be more apparent than national (or protonational) ones. But word patterns emerge as more strongly indicative of whether an author is American, Australian, or British than male or female. \'94 (159)\cf4 \
+\
+\'93Topic modeling\'97especially latent dirichlet allocation (LDA) using Mallet software (McCallum)\'97has attained a similar degree of prominence in digital literary studies that network analysis has for book and periodical historians. As multiple articles and blogs elaborate, topic modeling is an unsupervised statistical classification method for identifying patterns in the use of words within documents and across a corpus.4 The researcher allocates the number of topics that the program will create, and a machine-learning algorithm sorts all words in a corpus (barring the excluded or \'93stop words\'94 specified by the researcher) into that number of groups based on the probability of their co-occurrence. Words that occur in the same document more often than would be expected based on their presence across the corpus are designated as \'93topics.\'94\'94 iBooks. \'94 (160)\
+\
+She uses topic modelling for ill-defined \'93conceptual\'94 reasons, as well as practical ones, that it works on unstructured text and is resilient to OCR errors.\
+Indeed, \'93
+\b topic modeling is able to produce topics comprised largely or entirely of OCR errors and to indicate the presence of such topics in each document
+\b0 . These topics can be excluded from analysis, as I do with the one-hundred-topic model used here\'94 (161)\
+\
+\'93The one-hundred-topic model investigated in this chapter is based on text files representing 75 percent of the extended fiction in the curated dataset and 81 percent of unique titles. Sampled stories have at least three text files, which was the number analyzed for each so as not to create topics dominated by lengthy works or to exceed available computing power. This subset also provides a representative sample of fiction in terms of the date of publication, authors\'92 gender and Page 162 
+\f1 \uc0\u8594 
+\f0 nationality, and newspapers\'92 locations. Digital appendix 7 describes the parameters by which this one-hundred-topic model was created, including a summary of the sample\'92s relationship to the curated dataset; digital appendix 8 presents the topic model\'92s results and inputs, including my stop-words list. In addition to Mallet\'92s standard inclusions, my stop words incorporate those created by Jockers for Macroanalysis (\'93Expanded\'94) as well as an extensive list of people and place names produced by analyzing the text files using Stanford\'92s Named Entity Recognizer (Finkel, Grenager, and Manning).5 Although this chapter seeks to explore the relationship between the contents of stories and their national or protonational associations, I did not want the extensive references to particular places (or character names) in this fiction to overdetermine the composition of topics.\'94 (161-2)}
