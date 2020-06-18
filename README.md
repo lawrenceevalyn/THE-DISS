@@ -30,6 +30,11 @@ non-MARC version: 1789|179[0123456789]
 
 # Research Log
 
+## June 18, 2020
+
+The research log has gotten less and less use as I have tried to do my note-taking directly in the diss. Right now I feel like the whole structure of the thing is all up in the air; I'm accumulating a lot of information and can see something starting to resist, but it feels beyond my control and comprehension as more accumulates. I feel like I have no idea what question I am trying to answer -- something about the representation of women in the 1790s, and the difficulty of working with closed datasets.
+
+
 ## March 27, 2020
 
 All of this work is basically happening with Trello for planning now... but I've finished a second draft of chapter 2, which isn't ready for committee eyes but has the raw materials I need. While I let that mull over in the back of my mind, I'll do a third draft of the introduction, in preparation for a committee meeting. And the first draft of chapter 3 is due September 1.
