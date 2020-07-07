@@ -3,16 +3,26 @@
 # Think of this as a place to keep scratch notes, rather than a program,
 # and copy output from the console to long-term storage.
 
-library(gender) # re-run these every time to get everything necessary installed
-install_genderdata_package()
-devtools::install_github("ropensci/genderdata")
+### Set up every time ###
 
-names = c("john", "madison")
+library(gender) # re-run this every time to remind R that it knows this plugin
+# install_genderdata_package() # don't need these every time, but if it doesn't work
+# devtools::install_github("ropensci/genderdata") # these can reinstall it
 
-ECCOnames = c("Charles", "Society", "William", "René-Louis", "James", "John", "Edward", "Philip", "Hainault", "Junius", "Septimus", "Herodian", "John", "Benjamin", "Samuel", "Whitwell", "William", "Augustus", "Francis", "William", "Olaudah", "Candid", "John", "Charles", "William", "John", "Great", "Andrew", "Charles", "John", "Society", "John", "Western", "Elhanan", "John", "William", "Joshua", "Ann", "Charlotte")
+# then, set the working directory to wherever the csvs are (Session>Set Working Directory)
+# setwd("~/Desktop/desktop/THE-DISS/corpora/ECCO/Digital-Scholar-Lab")
 
-gender(ECCOnames, method = "ipums", years = 1799)
+### Actual Code Stuff ###
+
+ECCO1789 <- read.csv("ECCO-1789-sample.csv")
+# this works on the sample but not on the full data
+# easier to change data so it has a "firstname" column rather than telling R to just look at some stuff
+ECCO1789names <- as.character(ECCO1789$Author)
+
+gender(ECCO1789names, method = "ipums", years = 1799)
 # if this makes an empty tibble, it's probably fine, but I'm asking for something it has no data for (probably because the date is too early)
 # ipums can go as early as 1789
 # napp can go as early as 1758, but doesn't know the name "John" until 1769
 
+## for troubleshooting ##
+testnames = c("john", "madison")  #just to check it works at all if needed
