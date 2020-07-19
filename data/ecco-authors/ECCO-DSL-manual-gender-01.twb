@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20194.20.0119.2058                               -->
+<workbook original-version='18.1' source-build='2019.4.2 (20194.20.0119.2058)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='ECCO-merged-1789-99-nodups-manual-gender-01' inline='true' name='federated.0nwypmk1snm690199e7v41blrao3' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='ECCO-merged-1789-99-nodups-manual-gender-01' name='textscan.0u5jmxi0s0is2212vdc3m0szcc99'>
+            <connection class='textscan' directory='/Users/lawrence/Desktop/desktop/THE-DISS/corpora/ECCO/Digital-Scholar-Lab' filename='ECCO-merged-1789-99-nodups-manual-gender-01.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0u5jmxi0s0is2212vdc3m0szcc99' name='ECCO-merged-1789-99-nodups-manual-gender-01.csv' table='[ECCO-merged-1789-99-nodups-manual-gender-01#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='string' name='Document Title' ordinal='0' />
+            <column datatype='string' name='Content Type' ordinal='1' />
+            <column datatype='string' name='Document Types' ordinal='2' />
+            <column datatype='string' name='Publication Title' ordinal='3' />
+            <column datatype='string' name='Publication Date' ordinal='4' />
+            <column datatype='string' name='Publisher' ordinal='5' />
+            <column datatype='string' name='Place of Publication' ordinal='6' />
+            <column datatype='string' name='Author' ordinal='7' />
+            <column datatype='string' name='First name' ordinal='8' />
+            <column datatype='string' name='Gender (manual)' ordinal='9' />
+            <column datatype='string' name='Last names' ordinal='10' />
+            <column datatype='string' name='Source Library' ordinal='11' />
+            <column datatype='string' name='Gale Primary Source' ordinal='12' />
+            <column datatype='string' name='Gale Document Number' ordinal='13' />
+            <column datatype='string' name='Subject' ordinal='14' />
+            <column datatype='string' name='Language' ordinal='15' />
+            <column datatype='string' name='Column 14' ordinal='16' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Document Title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Document Title]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Document Title</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Content Type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Content Type]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Content Type</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Document Types</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Document Types]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Document Types</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Publication Title</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Publication Title]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Publication Title</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Publication Date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Publication Date]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Publication Date</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Publisher</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Publisher]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Publisher</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Place of Publication</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Place of Publication]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Place of Publication</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Author</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Author]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Author</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>First name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[First name]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>First name</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gender (manual)</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Gender (manual)]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Gender (manual)</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Last names</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Last names]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Last names</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Source Library</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Source Library]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Source Library</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gale Primary Source</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Gale Primary Source]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Gale Primary Source</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gale Document Number</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Gale Document Number]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Gale Document Number</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Subject</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Subject]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Subject</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Language</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Language]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Language</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Column 14</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Column 14]</local-name>
+            <parent-name>[ECCO-merged-1789-99-nodups-manual-gender-01.csv]</parent-name>
+            <remote-alias>Column 14</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <layout dim-ordering='alphabetic' dim-percentage='0.787053' measure-ordering='alphabetic' measure-percentage='0.212947' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='ECCO-merged-1789-99-nodups-manual-gender-01' name='federated.0nwypmk1snm690199e7v41blrao3' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0nwypmk1snm690199e7v41blrao3'>
+            <column datatype='string' name='[Gender (manual)]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+              <calculation class='tableau' formula='1' />
+            </column>
+            <column-instance column='[Gender (manual)]' derivation='None' name='[none:Gender (manual):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='on' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <size column='[federated.0nwypmk1snm690199e7v41blrao3].[sum:Number of Records:qk]' />
+              <color column='[federated.0nwypmk1snm690199e7v41blrao3].[sum:Number of Records:qk]' />
+              <text column='[federated.0nwypmk1snm690199e7v41blrao3].[none:Gender (manual):nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A33F7602-A658-4048-B9EB-B95F0811B059}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0nwypmk1snm690199e7v41blrao3].[sum:Number of Records:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0nwypmk1snm690199e7v41blrao3].[none:Gender (manual):nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{785E84FB-8390-4F6D-A73B-0BE2965E0ECA}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='384' name='Sheet 1' width='384'>
+      iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAVpElEQVR4nO3daZBdZZ3H8d9Z7ta3+/ZNb4FsnZCFBEQgaZYAIRpQlEQFZBQRGadKdGSs
+      UZyi1BkdyimXYhhEUYYRqVHHBQvci0UUlU0UEEISEiC72Tud3pJebt/lnHmRBsmkQ8KQnHPI
+      //t5lXRu7vPcN/fbZ3seJwzDUAAAc9y4JwAAiAcBAACjCAAAGEUAAMAoAgAARhEAADCKAACA
+      UQQAAIwiAABglH+oL/zwl+7Qtl39R3IuAI5yt113hW5f9kLc08CoQw7A1q4+bersPZJzAXCU
+      qwaBuoZKcU8DozgFBABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABgVYwAcXX3Z2Rqf9uKb
+      AgAYFmsApk45RmnXiW8KAGDYIT8JfGCu3n7W8fLctE6YPE7LV63VSK6oece1aP2aDfrZk39R
+      faFeF86fo4aMrz29vbrnsRc0UNv3XWbPmKIlpx2n0tCgfvLbpdo+UH3tUwMAHNBhOALwdNVl
+      izSrOaWn1u3UP37oEi2YWtDjq7bpby45T9PS0qxpk1RUWc9v7NTMU0/VBxcet887jJ8wUZ+/
+      8hwtX7lOu2pZff7KhcpwYAAAR9RhOQXU071Tt/3iz3p4+UZ17tqlW+5+Uo88s1obekfku9LS
+      Z1dr6fZBTT5mnAZ6BzS9fbxe/v1+8okz9cxTy7V8U7ce/dNypVvHq7mQOhxTAwAcwGE4BbRX
+      +Ar/9v53X6D5LRXds3SLUrlhTWve98JvPp9Rx9yT1DRpmiSpc9sOlaqv9I4AgNfqsAXglcye
+      1qrvfedOPdFV1kUXTpTzf07vbNi0Q32TA33htgc0GLiaN2uCRsq1sd8MAHBYHIYAhNq4tVuh
+      pCCoae2mLlVrgSRp8/ZulULp7odW6BP/cKlGyoG2dfVr47a9r9+8vVflINQzS1fqD9PH69Z/
+      vlzVINSGteu0Ys3m1z41AMABOWEYHtK5lsXX3Pqa9gOoz2flB1X1DR/47p58Li03qGnPCL/9
+      A0eje275mG54fEXc08CoSE4BSdLA4ME3gRgcLkcwEwCAxFIQAGAWAQAAowgAABhFAADAKAIA
+      AEYRAAAwigAAgFEEAACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABg
+      FAEAAKMIAAAYRQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYR
+      AAAwigAAgFEEAACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEA
+      AKMIAAAYRQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAw
+      igAAgFEEAACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMI
+      AAAYRQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAA
+      gFEEAACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMIAAAY
+      RQAAwCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAAgFEE
+      AACMIgAAYBQBAACjCAAAGEUAAMAoAgAARhEAADCKAACAUQQAAIwiAABgFAEAAKMIAAAYRQAA
+      wCgCAABGEQAAMIoAAIBRBAAAjCIAAGAUAQAAowgAABhFAADAKAIAAEYRAAAwigAAgFEEAACM
+      IgAAYJQf9wQA2FHMZnTVqbPjngZGEQAAkamFNfUFfXFPY0z1qYwm1BW0dndXLONPa2hWz8iQ
+      +svDkYx3SvMkAgAgOqFClWrVuKcxprTrqRYGsc2vGgQq12qRjR+GIdcAAMAqAgAARhEAADCK
+      AACAUQQAAIwiAABgFAEAAKN4DgBAItRKA3pu2UpVKqFcz9eEmdPV0jxOjjP264NaVXI8ue4B
+      XoCD4ggAQCKUe7fpjm/9QLt7e9S58QV99ZPXasXqbQd8/QN3fEfrtw9GOMOjD0cAAJLBcdUy
+      daoWvuNCKQw1Y0qTfvXbpXrDjDY99/vfa/mqdWqbfoLOveAcda5ZoScf/KO2jxS1pSWrN77p
+      rSpkq3r0rp9rW0+/Tjz3LTrp5Oka7NqqnuGU/KHtWrl6hxYtuUC+xxHDizgCAJAYL/9qHurt
+      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
+      YII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
