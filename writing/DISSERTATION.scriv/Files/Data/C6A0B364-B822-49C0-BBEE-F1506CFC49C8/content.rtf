@@ -1,0 +1,57 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Georgia;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 Helvetica;
+\f3\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;\red15\green128\blue255;\red0\green0\blue233;\red31\green32\blue33;
+\red255\green255\blue255;\red43\green136\blue154;}
+{\*\expandedcolortbl;;\cssrgb\c0\c58980\c100000;\cssrgb\c0\c0\c93333;\cssrgb\c16078\c16863\c17255;
+\cssrgb\c100000\c100000\c100000;\cssrgb\c20000\c60000\c66667;}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 Followed this tutorial using the \'93Gale Document Number\'94:\
+\pard\pardeftab720\sl280\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine#removing-duplicates"}}{\fldrslt 
+\f1\fs24 \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine#removing-duplicates}}\
+\pard\pardeftab720\sl360\sa120\partightenfactor0
+
+\f2\fs24 \cf4 \cb5 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 <$Scr_H::3>
+\f1\fs33\fsmilli16800 Removing duplicates\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2\fs24 \cf6 \cb1 \strokec6 <!$Scr_H::3>
+\f1\fs33\fsmilli16800 \
+\pard\pardeftab720\sl380\sa240\partightenfactor0
+
+\f3\fs32 \cf4 \cb5 \strokec4 A second step is to detect and remove duplicates. These can be spotted by sorting them by a unique value, such as the Record ID (in this case we are assuming the Record ID should in fact be unique for each entry). The operation can be performed by clicking the triangle left of Record ID, then choosing \'91
+\b Sort
+\b0 \'91\'85 and selecting the \'91
+\b numbers
+\b0 \'92 bullet. In\'a0
+\i OpenRefine
+\i0 , sorting is only a visual aid, unless you make the reordering permanent. To do this, click the Sort menu that has just appeared at the top and choose \'91
+\b Reorder rows permanently
+\b0 \'92. If you forget to do this, you will get unpredictable results later in this tutorial.\
+Identical rows are now adjacent to each other. Next, blank the Record ID of rows that have the same Record ID as the row above them, marking them duplicates. To do this, click on the Record ID triangle, choose\'a0
+\b Edit cells
+\b0 \'a0>\'a0
+\b Blank down
+\b0 . The status message tells you that 84 columns were affected (if you forgot to reorder rows permanently, you will get only 19; if so, undo the blank down operation in the \'91Undo/Redo\'92 tab and go back to the previous paragraph to make sure that rows are reordered and not simply sorted). Eliminate those rows by creating a facet on \'91
+\b blank cells
+\b0 \'92 in the Record ID column (\'91
+\b Facet
+\b0 \'92 > \'91
+\b Customized facets
+\b0 \'92 > \'91
+\b Facet by blank
+\b0 \'92), selecting the 84 blank rows by clicking on \'91
+\b true
+\b0 \'92, and removing them using the \'91
+\b All
+\b0 \'92 triangle (\'91
+\b Edit rows
+\b0 \'92 > \'91
+\b Remove all matching rows
+\b0 \'92). Upon closing the facet, you see 75,727 unique rows.\
+Be aware that special caution is needed when eliminating duplicates. In the above mentioned step, we assume the dataset has a field with unique values, indicating that the entire row represents a duplicate. This is not necessarily the case, and great caution should be taken to manually verify whether the entire row represents a duplicate or not.\
+}

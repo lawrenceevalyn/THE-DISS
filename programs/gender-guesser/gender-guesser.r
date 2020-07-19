@@ -15,15 +15,14 @@ setwd("~/Desktop/desktop/THE-DISS/corpora/ECCO/Digital-Scholar-Lab")
 ### Actual Code Stuff ###
 
 ECCO1789 <- read.csv("ECCO-1789_metadata-firstnames.csv")
-# this works on the sample but not on the full data
 # easier to change data so it has a "firstname" column rather than telling R to just look at some stuff
 View(ECCO1789) # just to look at it
-ECCO1789names <- as.character(ECCO1789$First.name)
+ECCO1789names <- as.character(ECCO1789$First.name) # gender package wants data as character
 ECCO1789names # just to look at it
 
 
 gender(ECCO1789names, method = "ipums", years = 1799)
-# if this makes an empty tibble, it's probably fine, but I'm asking for something it has no data for (probably because the date is too early)
+# if this makes an empty tibble, it's probably fine, that probably just means I'm asking for something it has no data for (probably because the date is too early)
 # ipums can go as early as 1789
 # napp can go as early as 1758, but doesn't know the name "John" until 1769
 
