@@ -245,7 +245,7 @@ Echoing Underwood’s provocative question, “do we understand the outlines of 
 
 
 
-# ch 1 - historical set-up #
+# ch 1 - databases & CSmith #
 
 
 
@@ -895,7 +895,7 @@ Table 1: A chronological history of major events in the development of \[LIST TH
 
 
 
-# ch 2 - Charlotte Smith #
+# ch 2 - genres in databases #
 
 
 
@@ -1265,7 +1265,7 @@ We are on the cusp of eighteenth-century OCR meeting the standards of twenty-fir
 
 
 
-# ch 3 - database demographics #
+# ch 3 - gender in databases #
 
 
 
@@ -1398,6 +1398,14 @@ Which of these archives are the most "reliable", and which the most "distorted"?
 **Suarez numbers**
 
 Some Statistics on the Number of Surviving Printed Titles for Great Britain and Dependencies from the Beginnings of Print in England to the year 1800, by Alain Veylit. 
+
+
+
+# ch 4 - random sample #
+
+
+
+# conclusion #
 
 
 
