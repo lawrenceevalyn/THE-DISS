@@ -1,7 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# introduction #
+# introduction (9k) #
 
 
 
@@ -91,7 +91,13 @@ This dissertation understands archives, bibliographies, anthologies, and corpora
 
 All of the computational work in this dissertation aims to identify, in as minute detail as possible, all works printed in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf18] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Rights of Man*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now famous superlatives capture the tension often seen by scholars between ‘Enlightenment’ modes of writing and ‘Romantic’ or ‘Gothic’ modes, which are no longer neatly periodized as mutually exclusive.
 
-Scholarship on 18thC works often takes the form of evaluating or assigning the cultural capital of individual works, or, perhaps, analyzing the strategies by which they accrue or fail to accrue that capital. The winners of the cultural capital game are the Romantics in poetry and Walter Scott in prose. For example, Simon Bainbridge examines the decade and its poetry through the lens of war to identify “the attempts made by several writers to fill the role of national bard prior to Scott” (3). Both poetry and the poet, in his conception, are pursuing a particular kind of cultural capital that allows them to rise above their own popularity. Richard Cronin’s *The Politics of Romantic Poetry* and Robert Miles’ \[WHICHEVER ONE IT IS\], too, seem to treat Scott’s \[intensely serious popular romances\] as the teleological end of the late eighteenth century birth development within the novel. These works follow a pattern established from the beginning with \[Kiely and Tompkins\], of treating the novel as synonymous with the realist novel, and treating Romantic and especially Gothic novels as aberrations in the history of the novel, a problem which needs to be explained away. E.J. Clery’s *The Rise of Supernatural Fiction* has examined at length the historical conditions by which supernatural plot elements began to make limited claims to literary seriousness throughout the eighteenth century. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled Romanticism’s own rise. Gamer, like Bainbridge and Cronin, primarily examines Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is *not* literature, in order to better understand why it is not.
+Scholarship on 18thC works often takes the form of evaluating or assigning the cultural capital of individual works, or, perhaps, analyzing the strategies by which they accrue or fail to accrue that capital. The winners of the cultural capital game are the Romantics in poetry and Walter Scott in prose. For example, Simon Bainbridge examines the decade and its poetry through the lens of war to identify “the attempts made by several writers to fill the role of national bard prior to Scott” (3). Both poetry and the poet, in his conception, are pursuing a particular kind of cultural capital that allows them to rise above their own popularity. Richard Cronin’s *The Politics of Romantic Poetry* and Robert Miles’ \[WHICHEVER ONE IT IS\], too, seem to treat Scott’s \[intensely serious popular romances\] as the teleological end of the late eighteenth century birth development within the novel. These works follow a pattern established from the beginning with \[Kiely and Tompkins\], of treating the novel as synonymous with the realist novel, and treating Romantic and especially Gothic novels as aberrations in the history of the novel, a problem which needs to be explained away. E.J. Clery’s *The Rise of Supernatural Fiction* has examined at length the historical conditions by which supernatural plot elements began to make limited claims to literary seriousness throughout the eighteenth century. The “rise” she describes is not an increase in volume and prominence of supernatural stories, since her starting point in 1762 (the Cock Lane ghost) is a major national phenomenon with many imitators. Rather, supernatural fiction ‘rises’ when it acquires cultural legitimacy. Michael Gamer has more recently expanded on how this ‘rise’ fuelled Romanticism’s own rise. Gamer, like Bainbridge and Cronin, primarily examines Wordsworth and the ‘winners’ of the struggle for cultural capital: I, like Clery, am more interested in the ‘losers.’ Accordingly, I attend to much that is *not* literature, in order to better understand why it is not.  
+
+Some limiting factor was necessary to make this project feasible from a technical standpoint. I needed to define a small enough scope that I could attempt something like comprehensiveness within that scope. I also knew that for many of the databases I wanted to use, I would not be able to access their full records, but samples of up to roughly 50,000 records had been given to other scholars (based on other papers I saw people publish on the ESTC). I decided that roughly a decade would give me enough texts to be worth approaching in this way, but not more texts than I could handle.
+
+I narrowed my focus to England as a way to sidestep problems of metadata. The Ireland of the eighteenth century had an unstable and contested relationship with the United Kingdom: how is this addressed by metadata assigning countries to texts? Is something tagged as “UK” if the city is in the UK now, or if it was in the UK at the time? I assume now. I decided not to open this can of worms! “Future Work.” Narrowing to England also helps to reduce the number of texts being considered. I’m disappointed that this means excluding all those Scottish pirated editions. Additional Future Work could compare Scotland to England, or grapple with Ireland.
+
+Once I decided to pick roughly a decade, I picked the 1790s for a couple reasons. I began in the eighteenth century as a Gothicist, and remain curious about how the Gothic might relate to its print context: choosing a decade that was important to the Gothic opened up the possibility that my ultimate findings would be Gothic-related. The 1790s were also just a generally exciting decade, as there was a massive expansion of print, and a massive cultural anxiety about the role of print in peoples’ lives. The nature of the project meant that I had to pick my decade before I really knew what to find in it: the heightened revolutionary stakes of this particular decade seemed to give me the best chance that the decade would have something interesting in it. It’s also an important decade for the eighteenth century texts which would later become canonical, namely, the origins of Romanticism.
 
 
 
@@ -100,6 +106,16 @@ Scholarship on 18thC works often takes the form of evaluating or assigning the c
 To navigate the 1790s, I turn to an author whose career and works usefully focalize my core questions of genre, publics, and the status of literature: Charlotte Smith. Smith was highly productive in multiple genres throughout the 1790s, and had a complex and contested literary legacy after the 1790s. As literary scholars re-assess ideas about literary seriousness, popularity, and women’s writing, our assessment of Smith has shifted as well. By examining their bibliographies with computational methods, I again ask how she might continue to look different if we look at her a different way. I particularly examine the extent to which digital resources have kept up with the re-evaluation of Smith as a central figure in British Romanticism.
 
 \[All of this introduction to Smith remains rough to give a gist of the kind of material I want to cover here.\]  
+
+In addition to being a prolific and interesting writing who was prominent across multiple genres (of which there are many other authors), Charlotte Smith offers an interesting case study in a ‘successful’ recovery project. This allows me to ask: to what extend do research infrastructures ‘lag behind’ scholarly consensus? No eighteenth centuryist is now likely to say that Smith is irrelevant or unimportant to the period. In the infrastructure of literary canons as described by Guillory, she has certainly succeeded: she is given prominent space in all anthologies of Romantic literature; she regularly appears on introductory syllabi, including surveys of all British literature; there are scholarly editions, and seminars, and dissertations, conference panels, and every other sign that she is an important and valued writer. But what about digital infrastructures? Are they “up to date”? For many I would say, not really. The ESTC ecosystem is still strongly shaped by editorial decisions made at the time of microfilming, or at the time of indexing. On Wikipedia, Smith herself had a respectable wiki article, but none of her major works were covered until I began to create those articles myself over the course of this dissertation. \[FOOTNOTE: One reason this dissertation does not engage with Wikipedia as an object of study, despite many interesting implications, is because I am too involved as a wiki editor to maintain an arms-length distance.\]  
+
+Smith is also self-consciously navigating a series of questions about genre that interest me, namely, the fact that not everybody reads everything, or for the same reasons --- she is not the same author from genre to genre.
+
+“Very few Smith scholars work actively on both the novels and the poetry, and consequently we have been learning about two separate Smiths, each closely linked to the genre she writes in, neither closely linked to the other. Because the novel during the Romantic period is undergoing an extraordinary amount of change and innovation, as it moves closer to its modern form, editors of the novels (myself included) tend to focus on Smith’s techniques and innovations, her use of tropes and themes, her facility with genres and description. Conversely, because Romantic poetry in the Smithian tradition is so closely tied up with explorations of selfhood and subjectivity, memory and a personalized past, editors of the poetry tend to present it as reflective of a personalized state of mind, of ‘woman’s’ experience, treating its manifold themes and narratives as, finally, reducible to and manifested from Smith’s life. **Is it all to do with inherent qualities of genre, or is it more to do with the expectations we as readers bring to different genres?** Genre, it seems, carries a greater force in constructing our preconceptions of identity than has been recognized, and Smith is a case in point, a case we can crack by studying closely Smith’s style and techniques *across* genres.” (Labbe 5)
+
+Is poet-Smith different or separate from novelist-Smith of didactic-Smith? If so, does that tell us something about poetry or novels, aesthetically? About the marketing or consumption of poetry or novels?
+
+One of my core interests is grappling with heterogenous groups of texts, which are usually examined each in isolation, and trying to bring them together. This might be one of those things that people don’t do because it’s a bad idea, rather than because it’s hard; maybe there aren’t any meaningfully questions that can be posed about All Writing. But I still wonder: are these things as separate from each other as we assume? Are we *really* dealing with different Smiths, or do we just *expect to find* different Smiths?  
 
 Charlotte Smith is selected as a writer who was productive in multiple genres, only some of which may end up represented in corpora. Charlotte Smith’s literary career began with the publication of her volume of poetry *Elegiac Sonnets*, in 1784.[ maybe these whole bibliography sections should just be tables?] This work is the one upon which much of Smith’s fame and prestige rested in the eighteenth century. A second edition of *Elegiac Sonnets* rapidly followed the first in the same year, with only slight amendments. The third and fourth editions of *Elegiac Sonnets* appeared in 1786, adding new poems. 1786 also saw the publication of Smith’s *The Romance of Real Life*, a translation of *Les Causes Célèbres,* her first foray into prose, which would occupy the major part of the next phase of her career. In 1788 she published her first original novel, *Emmeline, or the Orphan of the Castle*. 1789 begins this dissertation’s decade of interest, a period of intense productivity for Smith: she had at least one new publication almost every year from 1789-1799. In 1789, she published her second original novel, *Ethelinde, or the Recluse of the Lake*, and a fifth edition of *Elegiac Sonnets*. In 1791 she published *Celestina,* her third novel; in 1792, her fourth novel, *Desmond*[ add info about the “phases” of her novelistic career], and a sixth edition of *Elegiac Sonnets*. Although *Elegiac Sonnets* continued to be reprinted, reaching its tenth edition in 1812, after this edition no further poems were added. Instead, her new poetry appeared in their own independent publications, and no longer took the form of sonnets. In 1793 she published *The Emigrants*, a poem in two volumes, as well as *The Old Manor House*, her fifth novel. In 1794, her sixth and seventh novels, *The Wanderings of Warwick* and *The Banished Man*. In 1795 she published her eighth novel, *Montalbert*, and began writing in a new genre with *Rural Walks*. With *Rural Walks*, Smith’s dominant genre again changed: having gone from a poet to a novelist, she now primarily published in a form which does not have a contemporary name: morally instructive natural history for “young persons.” 1796 saw the sequel to *Rural Walks*, *Rambles Farther*, as well as the novel *Marchmont*, and the poem *A Narrative of the loss...* of several ships. 1797 saw the eighth edition[ when was the seventh???] of *Elegiac Sonnets*, unchanged since the sixth. 1798 saw the novel *The Young Philosopher*, and more natural history for children in *Minor Morals*. In 1799, Smith tried her hand at theatre with *What Is She?*, a comedy --- not a form she will revisit. After this dissertation’s decade of interest, Smith continued to write at a slightly less frenetic pace. In 1800 she published the first three volumes of *Letters of a Solitary Wanderer*, an epistolary anthology of narratives. In 1802 she published two additional volumes of *Letters of a Solitary Wanderer.* In 1804, she published *Conversations, Introducing Poetry*, for children. In 1806, Smith published *History of England*, another work for young persons, and Smith herself died, age 55. The next year saw the posthumous publication of the poem *Beachy Head* and the work for young persons, *The Natural History of Birds.*  
 
@@ -147,545 +163,41 @@ I will also correlate gender and genre. This preference for particular kinds of 
 
 In my fourth chapter, I playfully attempt what might be considered a devil’s advocate method of textual selection: pure random sampling. Using a random number generator, I select arbitrary texts to close read, and weave together a narrative of 1790s print from their contents. Much of my work will involve defining and justifying the parameters for my random selection --- ESTC, or a full-text database? How many texts? From which years? --- but once I have taken my sample, I will not re-sample. For each text, I explore the path which brought it into the databases in question, and what scholarship (if any) might be used to interpret it. How far afield do I have to look, to find scholarly conversations addressing each text? What, if anything, can be produced by placing them in conversation? This methodology is inspired by work in the field of speculative computing, a practice of creating strange and possibly non-functional programs in order to generate productive forms of surprise.  
 
-A final brief conclusion to this dissertation offers an assessment of the role of digital textual collections in contemporary literary study.  
+A final brief conclusion to this dissertation offers an assessment of the role of digital textual collections in contemporary literary study.
 
-“One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’ (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270).  
 
-Increasingly, projects do in fact actively theorize and address their datasets.
 
+# ch 1 - history of databases (13k) #  
 
+Before delving into the more than fifty years of interlocking institutional histories which have created the current landscape of digital databases in eighteenth century studies, it is worth pausing to observe carefully what that current landscape actually looks like. One way to gain our bearings with an overwhelming quantity of information is to particularize it into anecdote: accordingly, our first look at these resources will be with the guiding figure of Charlotte Smith. Which works by Smith are in which database, why, and how? Another way to understand the pieces is to generalize them into systems: to take this approach, our second look at the same resources will examine graphs of their relative scale and overlapping contents. How does the system as a whole draw boundaries between its parts? Which parts are ‘peers’ or ‘colleagues,’ which are ‘rivals,’ and which do not even acknowledge their presence within the same system? The latter system-scale questions will be easier to pursue after Charlotte Smith has given us our first tour of the component parts, so let us begin there.  
 
-Mark Vareschi and Mattie Burkert, for example, in “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale,” have an argument to make about eighteenth century theatrical genres, but also “theorizing a new dataset of our own creation as a *description* that mediates and transforms our relationship to the objects it describes” (598). ”Our study shows the need to attend to the unstable ontologies present in cultural objects, as well as in the datasets that describe them.” (613)  
+![][fig-databases-venn]
 
-Some limiting factor was necessary to make this project feasible from a technical standpoint. I needed to define a small enough scope that I could attempt something like comprehensiveness within that scope. I also knew that for many of the databases I wanted to use, I would not be able to access their full records, but samples of up to roughly 50,000 records had been given to other scholars (based on other papers I saw people publish on the ESTC). I decided that roughly a decade would give me enough texts to be worth approaching in this way, but not more texts than I could handle.
+Figure 1: A hand-drawn venn diagram of the relative scale and overlapping holdings of databases containing 1790s literature.
 
-I narrowed my focus to England as a way to sidestep problems of metadata. The Ireland of the eighteenth century had an unstable and contested relationship with the United Kingdom: how is this addressed by metadata assigning countries to texts? Is something tagged as “UK” if the city is in the UK now, or if it was in the UK at the time? I assume now. I decided not to open this can of worms! “Future Work.” Narrowing to England also helps to reduce the number of texts being considered. I’m disappointed that this means excluding all those Scottish pirated editions. Additional Future Work could compare Scotland to England, or grapple with Ireland.
 
-Once I decided to pick roughly a decade, I picked the 1790s for a couple reasons. I began in the eighteenth century as a Gothicist, and remain curious about how the Gothic might relate to its print context: choosing a decade that was important to the Gothic opened up the possibility that my ultimate findings would be Gothic-related. The 1790s were also just a generally exciting decade, as there was a massive expansion of print, and a massive cultural anxiety about the role of print in peoples’ lives. The nature of the project meant that I had to pick my decade before I really knew what to find in it: the heightened revolutionary stakes of this particular decade seemed to give me the best chance that the decade would have something interesting in it. It’s also an important decade for the eighteenth century texts which would later become canonical, namely, the origins of Romanticism.  
 
-The meaning of “popular” shifts depending on what is conceived of as its “opposite.” Is it an aesthetic category, popular vs highbrow, Gothic novel vs poetry? Is is a sociological/economic term, popular vs elite, ballads and chapbooks vs books? Is it tied to reception, popular vs unpopular, Udolpho vs The Two Emilys? Or tied to legacy, popular vs forgotten, Lyrical Ballads vs The Lemon? I am interested in all of these varying definitions of popularity because they are all tied to what *actually* interests me, an attempt to define and characterize “normal.”
+### 2.1.1.  Smith in databases ###  
 
-Literary study is typically interested in outliers, because they are, well, *interesting*. I’m interested in the “normal” because I think it is a necessary context for any claims or analysis about that which is exceptional. For example, it’s not appropriate to read too much into the fact that Radcliffe published Athlin & Dunbayne unsigned, since this was “normal” --- a default position, rather than an informative expression of intentionality. So, one kind of “normal” that interests me is this idea of the default: what might we expect? The default normal can be defined at multiple levels of granularity. We are handed a two-volume work, what might we expect from it at default? We are looking at a poem written by a man in 1792, what might we expect from it at default? Making these naive default guesses will be tied to another meaning of “normal,” that of “most prevalent.” From this perspective “normal” serves more as a synonym of “common.” What do we find the most of? Again, this can be defined at multiple levels of granularity. (Is most-ness a trait of normality, or of exceptionality....?) Can we better characterize the background against which outlier works were written and read?
+For the purposes of this chapter, I examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  I have slightly expanded my chronological focus in part because some of the most interesting exclusions occur earlier and later in Smith’s publishing career, such as the first edition of her immensely influential *Elegiac Sonnets* (1784), which is listed in the ESTC but not available in facsimile anywhere, or the publications in the last years of her life, which are excluded from the chronological focus of most resources but can still appear in HathiTrust. Of particular interest is the fact that *Beachy Head*, which is now one of Smith’s most frequently anthologized and taught poems, does not appear in a single digital database. None of these inclusions or exclusions represent an agenda against (or for) Smith, or indeed an interpretive choice at all, but they nonetheless shape the disciplinary infrastructure.  
 
-What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
+![][CSmith-in-ESTC-ECCO-TCP-Hathi-table]
 
-In both cases, it is difficult to describe “normal for an eighteenth century audience” through the mediating lenses of our databases. One key question, in fact, is “is there anything that seems normal in these databases which would not seem normal to the eighteenth century public?” I anticipate denaturalizing some aspects of these databases, e.g., the way that the flatten distinctions between different buying publics (social classes, time periods, tastes).
+Table 1: All editions of Charlotte Smith’s works published in England during her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
 
-I’m also interested in “disreputable” literatures, which have often been some versions of popular or some versions of normal --- this is an essentially ethical attachment, or perhaps an inherent contrariness; any time a work is dismissed for any reason, I wish to question the importance of the evaluation metrics which rejected it, and seek whatever may be of value in the rejected work. This is one way a reparative impulse underlies the project: so what is these things were common, or cheap, or bad --- that doesn’t mean they *have* to be worthless. The arbitrariness of the literary canon is that essentially any artistic product can be imbued with value by its audience. (Guillory has a lot on this.) I want to explore how we can value that which has not been valued.  
+Figure 2 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, is not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800[ Why these five?]).
 
-In addition to being a prolific and interesting writing who was prominent across multiple genres (of which there are many other authors), Charlotte Smith offers an interesting case study in a ‘successful’ recovery project. This allows me to ask: to what extend do research infrastructures ‘lag behind’ scholarly consensus? No eighteenth centuryist is now likely to say that Smith is irrelevant or unimportant to the period. In the infrastructure of literary canons as described by Guillory, she has certainly succeeded: she is given prominent space in all anthologies of Romantic literature; she regularly appears on introductory syllabi, including surveys of all British literature; there are scholarly editions, and seminars, and dissertations, conference panels, and every other sign that she is an important and valued writer. But what about digital infrastructures? Are they “up to date”? For many I would say, not really. The ESTC ecosystem is still strongly shaped by editorial decisions made at the time of microfilming, or at the time of indexing. On Wikipedia, Smith herself had a respectable wiki article, but none of her major works were covered until I began to create those articles myself over the course of this dissertation. \[FOOTNOTE: One reason this dissertation does not engage with Wikipedia as an object of study, despite many interesting implications, is because I am too involved as a wiki editor to maintain an arms-length distance.\]  
+HathiTrust contains 18 of Smith’s 47 editions, though these are not a simple subset of the ESTC and ECCO. Unlike the ESTC and ECCO, HathiTrust contains volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802)[^cf25]. This is the only post-1800 work which appears in HathiTrust, however--- the others are also missing, including the important volume *Beachy Head* (1807). There is one work included in HathiTrust but not in ECCO, the second edition of *The Banished Man* (1795). Whereas ECCO does not include works unless there is a complete copy available, HathiTrust provides scans of volumes 2, 3, and 4, and simply implies through their numbering that there is a missing first volume --- perhaps in the optimism that a volume 1 will appear from another library’s holdings, to complete the set later.[^cf26] The remaining HathiTrust included titles appear in both the ESTC and ECCO, and a further 21 titles appear as facsimiles in ECCO but not in HathiTrust. At first blush it is somewhat surprising that HathiTrust has failed to include works which are, demonstrably, in known locations at institutional libraries, and in physically sound condition to be scanned--- but the scans making up HathiTrust bear no relation to the scans in ECCO. *The Young Philosopher* (1798), for example, appears in ECCO sourced from a British Library copy, but the HathiTrust images are “Google-digitized” from the New York Public Library. Google’s rapacious book-scanning, evidently, was not as thorough as ECCO’s sustained scholarly project.
 
-Smith is also self-consciously navigating a series of questions about genre that interest me, namely, the fact that not everybody reads everything, or for the same reasons --- she is not the same author from genre to genre.
+The smallest subset of all of these texts is the ECCO-TCP holding of just two titles: the second edition of *Celestina* (1791), and the first edition of *The Emigrants* (1793). Both titles appear in all larger databases, including HathiTrust (though, as I will discuss, they arrive in HathiTrust from a different source). *The Emigrants* is included in ECCO-TCP as one file, based on the ECCO facsimile of an original from the Huntington Library. *Celestina* is included as four files, one for each of four volumes, based on the ECCO facsimile of an original from the British Library. Both works were first reproduced in the microfilm version produced 1982-2002 in by Research Publications,[^cf27] then digitized in 2003 (released on ECCO in June 2004), and finally published as TEI XML files in January 2007. The current files have been kept up to date with changes in TEI standards, and were created by converting TCP files to TEI P5 using tcp2tei.xsl. The bibliographic metadata for these works is the same between ESTC, ECCO, and ECCO-TCP records. In HathiTrust, however, the source text for *The Emigrants* is a University of California Library copy, rather than the British Library, scanned by Google Books, and presented with substantially less detailed bibliographic information. The ESTC, ECCO, and ECCO-TCP records for The Emigrants all provide the same physical description “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” with the same note“\[n\]umbers 9-16 omitted in pagination; text is continuous.” HathiTrust, in contrast, gives the physical description “ix, 68 p. ; 26 cm,” which is both more and less information: a quarto volume could be a range of sizes, so HathiTrust provides new detail by giving a measurement in centimetres, but the data on page numbers is now misleading. Consulting the HathiTrust facsimile shows that it, too, omits the page numbers 9-16, going directly from page 8 to page 17 without a break in the poem. HathiTrust also omits information on the three unnumbered pages between the preface and the poem. Evidently, a human did consult the book, to identify a nine-page preface in roman numerals, and the page number on the last page, but they did not carry out a full collation.  
 
-“Very few Smith scholars work actively on both the novels and the poetry, and consequently we have been learning about two separate Smiths, each closely linked to the genre she writes in, neither closely linked to the other. Because the novel during the Romantic period is undergoing an extraordinary amount of change and innovation, as it moves closer to its modern form, editors of the novels (myself included) tend to focus on Smith’s techniques and innovations, her use of tropes and themes, her facility with genres and description. Conversely, because Romantic poetry in the Smithian tradition is so closely tied up with explorations of selfhood and subjectivity, memory and a personalized past, editors of the poetry tend to present it as reflective of a personalized state of mind, of ‘woman’s’ experience, treating its manifold themes and narratives as, finally, reducible to and manifested from Smith’s life. **Is it all to do with inherent qualities of genre, or is it more to do with the expectations we as readers bring to different genres?** Genre, it seems, carries a greater force in constructing our preconceptions of identity than has been recognized, and Smith is a case in point, a case we can crack by studying closely Smith’s style and techniques *across* genres.” (Labbe 5)
+![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]
 
-Is poet-Smith different or separate from novelist-Smith of didactic-Smith? If so, does that tell us something about poetry or novels, aesthetically? About the marketing or consumption of poetry or novels?
+Figure 2: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).  
 
-One of my core interests is grappling with heterogenous groups of texts, which are usually examined each in isolation, and trying to bring them together. This might be one of those things that people don’t do because it’s a bad idea, rather than because it’s hard; maybe there aren’t any meaningfully questions that can be posed about All Writing. But I still wonder: are these things as separate from each other as we assume? Are we *really* dealing with different Smiths, or do we just *expect to find* different Smiths?  
+Only one of Charlotte Smith’s works is available in Project Gutenberg: *Emmeline, the Orphan of the Castle* (first published 1788).  
 
-“But however essential it is for data-rich literary history, modeling cannot be the sole foundation for the field. **Models of literary systems are not simply arguments** about the existence of and connections between literary works in the past; **they are arguments made with reference to the disciplinary infrastructure**---the bibliographies and collections, analog and digital---that transmit evidence of past works and relationships to the present. Modeling, even when integrated with descriptive bibliography as I have described, does not reflect on this transmission. Models embody a scholar’s arguments, whereas disciplinary infrastructure is an effect of multiple arguments: a sequence of assumptions, decisions, representations, and remediations. Such histories of transmission shape how the researcher can explore, and what she can know of, the historical context that disciplinary infrastructure appears to represent. To adequately perform literary history, data-rich projects must investigate these histories of transmission and how they constitute the documentary record.” (Bode 42)
-
-
-
-“The distinctions or gaps between the context signified by collections and the exemplars used in signification **might partly arise from, but are not simply the consequence of, successive exclusions of documents**, as the Stanford Literary Lab Pamphlet 11 suggests. In chapter 1 I noted that, in defining “the published,” “the archive,” and “the corpus” as progressively smaller selections, those authors admit the constructed nature Page 44 →of literary data. Yet they also argue that mass-digitization largely avoids those exclusions, such that “the corpus of a project can now easily be (almost) as large as the archive, while the archive is itself becoming---at least for modern times (almost) as large as all of published literature” (Algee-Hewitt et al., 2).
-
-Even with their account of the considerable practical challenges involved in accessing versions of specific literary works, this description of mass digitization drastically diminishes the degree of exclusion involved in constructing such collections. ” (Bode 43-4)
-
-
-
-“Digitized collections are partial in another way, in that combining the holdings of multiple analog collections tends to obscure the individual histories of the contributing collections and their implications for the form, scope, and critical capacity of the resulting digital one.” (Bode 44)
-
-
-
-“Collections have always been constituted in this way. In analog collections, documents are represented and remediated through the cataloging systems that organize holdings and the interfaces that interpret them: the card catalogs, special collection indexes, or online library catalogs that provide a method of searching and a type, form, and detail of metadata. ... A key difference between analog collections and digital ones is that literary historians rarely, if ever, treat the former (a given library, for instance) as proxies for literature as it circulated and was understood in the past, whereas digital collections such as Google Books or HathiTrust are sometimes assumed to be representative in this way.” (Bode 44)
-
-
-
-“Due to their multiplicity and complex interaction, the components involved in producing digital collections expand access to the historical record in certain ways, even as they increase the likelihood of unrealized and significant disjunctions between the access we intend and the access we achieve. **Digital humanities scholars recognize that digital infrastructure shapes knowledge production, and digital literary historians have responded with explicitly curatorial approaches** to constructing and exploring digital documents and collections.” (Bode 45)
-
-
-
-“These digital humanities projects highlight **four features** that I believe should also **underpin the modeling of literary systems in data-rich literary history**. First is a critical assessment of the **relationship between the historical context analyzed and the digital collection(s) used** for analysis; second is detailed attention to the **relationship between the documents included in the digital collection(s) and the terms in which they are represented**; third is explicit discussion of the **means by which data are extracted and modeled**; and fourth is a **published record of data** arising from that extensive history of transmission. Existing projects in data-rich literary history often (though by no means universally) demonstrate the second and third of these features. The need for data publication, and for platforms and modes of review to support it, is also increasingly recognized and enacted.7 But data-rich literary history projects rarely consider how the disciplinary infrastructure analyzed relates to the historical context investigated. The lack of shared standards for data publication---and, more specifically, of a framework for combining these four features in investigating and representing the transmission and transformation of historical evidence to and in the present---problematizes the field’s capacity to advance historical knowledge.” (Bode 46)
-
-
-
-“Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode 47)  
-
-One of Underwood’s contentions is that “we understand \[literary\] history, locally, very well,” (31) and the role of computational study is to examine the large-scale trends which would join together the individual moments of literary history. This dissertation, however, attempts to study a very local moment with a larger body of evidence than is usually feasible to examine.  
-
-The problem of textual selection--- the paired difficulty and importance of deciding which few books one will actually read--- is an urgently meaningful problem in the “real world,” outside the realms of academia. A common solution is one which will likely alarm and distress most scholars who have dedicated themselves to thinking through canonical selection, or even the construction of a syllabus: a solution which could perhaps be called ‘radical impatience.’ Consider, for example, the following advice in a blog post, “100 Ways to Live Better,” item number 6, the first entry in the category “Mind”:
-
-There are more great podcasts than you’ll ever have the time to listen to. If it sucks after 10 minutes, skip half an hour ahead. Still boring? Delete and move on. Obviously, do the same for books.
-
-There is much to find distressing here. The operant metric that another’s ideas “suck” if they are “boring” in the first ten or thirty minutes. The fact that “obviously” the same metrics apply for books as for podcasts. Indeed, even the fact that podcasts so strongly come *before* books as the default way to encounter new ideas. Each word in the first sentence is itself a link to a specific podcast recommended by the writer, but “books” are a monolith and a footnote.
-
-
-
-Later we see another metric for textual selection:
-
-Should you watch that movie / play that game / read that book? Use the ratio:
-
-(\[# who rated it 5/5\] + \[# who rated it 1/5\]) / \[# who rated it 3/5\].
-
-This doesn’t apply to everything, but it applies to many things, including media. There are too many options out there to waste time on mediocrity, and everything great will be divisive.
-
-Paired with the first piece of advice, this would suggest a process of seeking out divisive and controversial works, determining within ten minutes whether one is strongly in sympathy or strongly opposed, and continuing only with works which evoke strong sympathy.
-
-Of the seven mentions of the word “book,” two are in fact the word “Facebook.” Two are the pieces of advice quoted above. Two are suggestions to find “good audiobooks, and/or a dog” to form a habit of going on walks, or “a good app or guidebook” to practice meditation. And the last is the advice that “If you’ve been waiting for months for someone to create an event and invite you, whether it’s a book discussion or a BDSM orgy, just throw one yourself,” in which “a book discussion” functions rhetorically as an extreme example of an unusual and improbable kind of social event, paired against its assumed opposite extreme.  
-
-“Of the data-rich literary history projects discussed in this chapter, Underwood and Sellers’s work on changing standards of literary prestigePage 51 → most consistently enacts the curatorial elements present elsewhere in digital humanities, not least in terms of data publication. As the authors explain in an online working paper on the project, its most time-consuming element was not training their supervised model but constructing their dataset: identifying the different subgenres---poetry, prose, fiction, and drama---present in HathiTrust (“How,” 6). As well as publishing the datasets and code used in their article (“Code”), in collaboration with HathiTrust Underwood takes the major, additional step of releasing the outcome of analysis of that mass-digitized collection for others to use. This takes the form of “word counts for 101,948 volumes of fiction, 58,724 volumes of poetry, and 17,709 volumes of drama” published from 1700 to 1922, as well as yearly summaries of word frequencies for each genre. Underwood refers to this dataset as a “collection” to differentiate it from a “corpus” because “I don’t necessarily recommend that you use the whole thing, as is. *The whole thing* may or may not represent the sample you need for your research question” (“Dataset” np).
-
-Signifying growing recognition of the importance of data publication, the Underwood/HathiTrust collection is an important undertaking for data-rich literary history in at least two ways. In presenting a dataset designed for literary history, it offers a shared foundation for research. Working with it, researchers can ask a range of questions based on a reliable, standardized dataset and engage with each other’s arguments in terms not only of results produced but of data investigated. In characterizing that collection as the holdings of “American university and public libraries, insofar as they were digitized in the year 2012 (when the project began), Underwood also frames a major mass-digitized collection---HathiTrust---in terms of its history of transmission (“Dataset” np). However general this framing, Underwood thus explicitly associates the dataset he publishes with a sequence of production and reception that profoundly affects its capacity to support historical analysis. In their article, Underwood and Sellers acknowledge that this history of transmission shapes their findings, noting that their model “makes more accurate” predictions for American poetry collections because HathiTrust “mainly aggregates the collections of large American libraries” (“Longue” 338).” (Bode 50-51)
-
-
-
-“Seeking to define the scope of their dataset, Underwood and Sellers note that HathiTrust “may represent more than half of the titles that were printed” because it contains “about 58% of titles recorded in standard bibliographies.” Yet their own “work on fiction” with this collection belies the apparently solid basis of this estimate, finding that HathiTrust contains “many titles left out of” existing bibliographies (“How” n11). Underwood and Sellers thus indicate a significant lack of overlap between established bibliographical records and the holdings of a major digital library, although they do not highlight the significance of this finding nor explore its implications for their own study or for literary history broadly (whether conducted by computational or noncomputational means). Emphasizing that we cannot know the documentary past except through the knowledge infrastructure we create to interpret it, this disjunction that Underwood and Sellers discover highlights the potentially major gaps in all existing forms of description and interpretation: **neither the analog nor the digital record offers an unmediated and comprehensive view of the documentary past; both are partial, and not necessarily in complementary ways.**” (Bode 53)  
-
-Echoing Underwood’s provocative question, “do we understand the outlines of literary history?” (the title of chapter one of *Distant Horizons*), I ask: do we know what was common in the 1790s? Catherine Fleming, for example, says “There is no consensus about what percentage of the books sold in England during the long eighteenth century were translations” (10), though estimates of 15 to 35 percent indicate that their presence was substantial.
-
-
-
-# ch 1 - databases & CSmith #
-
-
-
-## 2.1.  database histories ##  
-
-In the next section I will close read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.
-
-
-
-### 2.1.1.  ESTC timeline history ###
-
-
-
-The history of the English Short-Title Catalog is long, as befits its enormous scope. “The English Short-Title Catalog (ESTC) is a vast database designed to include a bibliographic record, with holdings, of every surviving copy of letterpress produced in Great Britain or any of its dependencies, in any language, worldwide, from 1473-1800” (CBSR)[ not sure how best to cite this - <http://estc.ucr.edu/index.html#>]. Today, “The English Short-Title Catalogue is the most comprehensive record of what has appeared in print in Britain and the English-speaking world for all branches of human experience from the last quarter of the fifteenth century to the start of the nineteenth. More specialized studies exist for fields and eras within that span, but no other resource matches ESTC’s dependability over such a broad range” (Vander Meulen 265).
-
-It began as the Eighteenth Century Short Title Catalogue in the 1970s, operating in a similar line as the original Pollard and Redgrave Short-Title Catalogue for 1476--1640, which first appeared in 1926, and Donald Wing’s catalogue for 1641--1700, which appeared in 1951. These catalogues established the ambitious simplicity of the ESTC: to accurately describe every edition of every printed work in English or from the United Kingdom. After the completion of Wing’s STC, “\[e\]xploratory studies, poorly funded and inadequate though they were” (Korshin 209) throughout the 1950s and 60s pursued the feasibility of systematically accounting for the much larger body of printed work produced in the eighteenth century. The Eighteenth Century Short Title Catalogue began properly in 1976, at a conference jointly sponsored by the British Library and the American Society for Eighteenth Century Studies (Crump 106). Here, “bibliographers and librarians attempted both to arrive at a consensus of the size of the task and the methodology that would have to be adopted to achieve a union catalogue. However, until the works were catalogued, it would not be possible to answer basic questions (such as the potential number of extant items) which would predetermine working methods. The very fact that they found it difficult to agree for want of sound and accepted figures indicated the need for ESTC.” (Crump 105). A pilot project began at the British Library in 1977, under the direction of Robin Alston (Crump 105).
-
-Unlike earlier Short-Title Catalogues, which appeared as lengthly print publications, the Eighteenth-Century Short Title Catalogue was conceived as digital from the beginning --- a decision which, as Karian notes, “exhibited considerable foresight” (283) in the 1970s. As a result, “ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283).  Robin Alston and Mervyn Jannetta developed their own cataloguing rules, distinct from the Library of Congress MARC and UK MARC standards (Korshin 211). Once these standards were established, the British Library began to re-catalogue its own holdings, and in 1979 libraries in the United States, Germany, and Australia undertook to supplement them. In these international collaborations, “Where ESTC records already existed, these were adopted as the \[new\] record and only those works not held in the ESTC base file were catalogued again” (Crump 105). “One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’[ I can probably say a LOT more about all of this --- this is my answer to the “moving target” problem; move it to the introdction] (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270). Accordingly, the in-progress database “was soon available online, from 1980 via the British Library BLAISE \[British LibraryAutomated Information SErvice\] system and from 1981 in the US Research Libraries Group RLIN \[Research Libraries Information Network\] system” (Norman). Each of these databases was worked on locally by researchers, and then updated and reconciled with each other weekly.
-
-To supplement these databases, accessible almost exclusively to librarians with specialized training in operating them and primarily used by the scholars compiling the file, the ESTC intended to publish editions at particular milestones of completeness, intended for the use of non-librarian scholars. Their “first step, a fiche catalogue of \[the British Library’s\] holdings, together with indexes, generated by the computer” (Crump 105) was published in a microform “snapshot” in 1983, but other milestones did not occur according to schedule. The “joint Anglo-American interim publication of the ESTC file ” (Korshin 212) which was expected to follow on microform in 1984 (Korshin 212) did not appear. Alston attributed the delays partly to the immensity of the task, and partly to the impact of short-term cost-cutting decisions, like the reduction of early-stage proofreading or of in-person examination of books, which dramatically increased the labour of verifying the resulting database record. Although he consistently warned “how easily strategic decisions based exclusively on cost usually lead to greater, not less, eventual costs” (Alston), the ESTC each year seemed to be facing a new budget struggle, and important maintenance labour was several times deferred. This created something like a paradox for the ESTC: funding bodies wanted to commit less money to a project which was behind schedule, but the project would remain behind schedule unless it was funded to complete the work required. 
-
-Nonetheless, work continued, and in 1985, the online databases in RLIN and BLAISE were upgraded to allow dynamic updates to a single shared file (Crump 106), which for the first time allowed continuous access to a shared record, rather than the constant exchange and messy merging of individual partially-overlapping records. “Until the file was dynamically available online on RLIN in 1985 batch processing was a weekly nightmare” (Alston). At this time, it was hoped that the new RLIN file would “result in a more complete and coherent ‘first edition’ of ESTC” to be published in 1989 (Crump 106), though this deadline, too, was not met. In the mean time “the ESTC file \[was\] available to scholars on both BLAISE-LINE and on RLIN.” (Crump 106). To facilitate its use, the ESTC distributed “\[a\] simplified manual for searching the file on-line” (Crump 106). Crump took the opportunity of the update to rhapsodize on the database’s potential usefulness for other scholars: “No longer is the scholar limited in access to the data by the fixity of the printed page” (106). This valuable resource was not without cost. Although the manual on how to formulate search queries was free, use of the ESTC itself was notably not. Institutions or individuals paid to subscribe to the ESTC itself, paid per query for searches to be run, paid per minute for being connected to the database, and often paid for access to the computers they must use in their own libraries. Tabor says “the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” (367).
-
-“In 1987, with the agreement of the Bibliographical Society and the Modern Language Association of America, the International Committee approved the extension of the database to cover the period from the beginning of printing in the British Isles (ca. 1472) to 1700. The file changed its name to the 'English Short Title Catalogue', thereby keeping its well-known acronym. The USA team began cataloguing pre-1701 material in 1989, joined in the mid-1990s by the British Library team, and the resulting records were made available in the RLIN file from 1994.” (Norman). “In 1992, IESTC approved a further extension of the file to include serial publications. The USA team began work in 1994 on the cataloguing of serials within the scope of ESTC” (Norman). 
-
-Concurrently with the development of the ESTC, Wing’s seventeenth-century STC was undergoing redevelopment into a second edition, overseen by Katharine Pantzer. The second edition of Wing’s STC was published in two volumes in 1976 and 1986, followed by a set of exhaustive indexes in 1991. This second edition “represented a vast development of the original” (Vander Meulen 268), incorporating thousands of new entries, expanding the titles, and adding explanatory notes and headnotes. Its completion in 1991 also marked the end of the ability of its publisher and sponsor, the Bibliographical Society, to support it (Vander Meulen 269). “Accordingly, in 1999 the Society made an agreement with ESTC whereby the latter... would assume official responsibility for receiving new STC data” (Vander Meulen 270). The ESTC continued to research new entries and improve existing ones, releasing a second edition of the file on CD-ROM in 1998 and a third edition in 2003 (Norman).
-
-In 2006, almost thirty years after the commencement of the project, the ESTC underwent another major shift: the database was made publicly available to be searched for free online. This inspired more rhapsodizing, this time from Tabor: “The freeing of ESTC ... now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” (367). At the same time, the ESTC began a project “to provide full title and imprint transcriptions for the eighteenth-century records” (Tabor 370). Vander Meulen says that “The history of ESTC is in fact the record of steady developments. Some have been conspicuous---for instance, the physical progression from a printed prototype to microfiche, CD, online access via the vendors Blaise Line and RLIN, and universal online availability through the British Library.” (Vander Meulen 270) Many more have been less visible, in constant improvements to the accuracy and detail of the records. In 2011, the Center for Bibliographical Studies and Research at the University of California Riverside was awarded a planning grant from the Andrew W. Mellon Foundation to “redesign the ESTC as a 21st century research tool” (“Planning Grant”)[ add to bibliography], which was followed in 2013 by a larger two-year grant to execute software improvements to the ESTC.
-
-
-
-### 2.1.2.  ECCO timeline history ###  
-
-To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
-
-
-
-“EEBO’s relationship with the original STC and Wing is straightforward and clear; EEBO’s relationship with electronic ESTC, on the other hand, is less well-known.20 A series of agreements made between ESTC and University Microfilms/ProQuest between 1989 and 1997 allowed EEBO to draw directly on ESTC’s existing bibliographical data. Consequently, / every search run on EEBO (with some exceptions) relies, in a fundamental sense, on bibliographical information originally supplied by ESTC -- but not in the form that one might expect. First, EEBO heavily edited ESTC’s data for its own purposes: certain categories of data were removed (e.g. collations, Stationers’ Register entrances), some information was amended (e.g. subject headings), and some was added (e.g. microfilm- specific details). Second, there is no formal mechanism for synchronising the data between the two resources. Occasionally, snapshots of data are sent by EEBO to ESTC but there is no guarantee that a correction or revision made to an ESTC entry will be replicated in the corresponding EEBO entry or vice versa: neither ESTC nor EEBO will necessarily know when the other has made a correction. As both resources continue to amend and expand their bibliographical data for their own purposes, there is an increasing likelihood of significant discrepancy between the two resources. Finally, although EEBO continues to microfilm and digitise, there is no absolute one-to-one correspondence between the pre-1701 entries in ESTC and the materials on EEBO; there are -- and will always be -- items on ESTC not available on EEBO.” (Gadd 685-6)  
-
-Began as Research Publications, Inc in 1981, which began the Eighteenth Century Collection in 1983. Their rival was University Microfilms. RP became Thomson Gale, now Gale Cengage. UM became ProQuest.
-
-
-
-By 1997, Research Publications, Inc had become Primary Source Media. (LOC http://id.loc.gov/authorities/names/n98069963.html) In September 1998, “the Thomson Corporation \[merged\] three of its electronic and reference publishing subsidiaries---Gale Research, Information Access Company (IAC), and Primary Source Media---into a new company called The Gale Group.” (http://newsbreaks.infotoday.com/NewsBreaks/Thomson-Merges-Gale-IAC-Primary-Source-Media-into-The-Gale-Group-17999.asp)  
-
-*1983 Eighteenth Century Collection* microfilm begins to be produced by Research Publications, Inc
-
-
-
-EEBO: “unlike scholarly facsimile editions, the selection process for microfilming was often arbitrary. Copies were selected primarily by reference to the copies listed in STC and Wing, with particular preference for certain major collections; they were not selected because they were considered representative of a particular edition. By bringing together the bibliographical record for an edition and (usually but not always) only a single witness of that edition,22 EEBO is obviously aiming to provide a useful scholarly mechanism in terms of searching but by doing so are implying -- albeit not deliberately -- that the record and the copy *are* *one and the same thing*. It would be better, perhaps, if EEBO represented itself as a library of copies, rather than a catalogue of ‘titles’.” (Gadd 687)
-
-
-
-EEBO: “in digitising the microfilms in their original forms, EEBO decided (presumably for commercial reasons rather than purely scholarly ones) against sanitising the images. Openings are retained rather than broken into single pages; images are not cropped; rulers, place-holders, and descriptive notes are left in place; blank leaves are not removed. While Kichuk’s concern about ‘remediation’ is a real one, it is difficult to use EEBO for any length of time without being reminded that these are reproductions of actual objects.” (Gadd 688)  
-
-ECCO, as a distinct resource, is a historic latecomer compared to EEBO. The initial microfilms were created in \[???\] by \[???\]. In 2003, Thomson Gale began making digital copies of the Eighteenth Century Collection microfilms available to subscribers online. The digital images were made from the microfilm masters, which were 400 dpi, and thus higher resolution than the microfilm copies. 
-
-
-
-“the move from microfilms to the Internet has meant easier searching, easier physical access, easier manipulation of the images, clearer images and (for the UK at least) cheaper institutional access” (Gadd 685).
-
-
-
-“However, the path to digitization was not ideal: these documents were imaged in the late 1970s, transformed into microfilm during the 1980s, and the microfilms digitized in the 1990s. Because of the state of reproductive technologies during the late 20th century, as well as the circuitous path to digitization (through microfilm), the image quality is very poor and bitonal, with no greyscale / images available. Furthermore, the original documents themselves, printed with premodern technologies, pose problems even for human readers of their pages, but much more so for optical character recognition (OCR) engines. For example, printed characters were not perfectly situated on a baseline, blackletter fonts were used, ink bled through the paper, and the typeface was broken and overworn.” (Christy et al. 1-2)
-
-Reference “deep fried memes” --- xkcd comic: <https://xkcd.com/1683/>
-
-
-
-The microfilms were scanned at 300 dpi (Spedding 440).  
-
-“Part I includes 135,000 printed works, comprising more than 26 million scanned facsimile pages.” (Gale, “Part I”) “From books and directories to bibles and sheet music to sermons and pamphlets, Eighteenth Century Collections Online, Part II features a variety of materials to provide a critical tool for both faculty research and classroom use. With more than fifty thousand new titles of previously unavailable or inaccessible materials, Eighteenth Century Collections Online, Part II is an essential addition for current owners of Part I.” (Gale, Part II). Each part (sold separately) also describes itself in breathless language assuring users of the comprehensiveness and breadth of the resource --- even as its existence in two parts belies this.
-
-
-
-“Although "Eighteenth Century Collections Online, Part 2 adds six million pages that include previously unavailable or inaccessible titles," the latest promotional leaflet claims a total of "26 million pages of text" for ECCO - instead of 32 million - which is the same total that appeared in the original promotional leaflet for what is now understood to be ECCO Part 1. See "About Gale Digital Collections," accessed 1 March 2009, http://www.gale.cengage.com/DigitalCollections/; Eighteenth Century Collections Online (2008), accessed 1 March 2009 http://www.gale.cengage.com/pdf/facts/ECCO.pdf; and "Eighteenth Century Collections Online: The eighteenth century's most important revolution has just begun" (2005”) (Spedding 450)   
-
-In late 2019, Gale began allowing access to a new interface, the Gale Digital Scholar Lab, which dramatically changed the forms of access available for ECCO texts. It became possible not only to see the underlying OCR for texts, but to run pre-built text mining on it, and to download the OCR as text files. The only limit to downloading is that only 10,000 texts may be downloaded at a time, but as long as the desired corpus can be defined as “collections” in chunks of 10,000 or less, any number of files can be downloaded. In a particularly dramatic departure from ECCO’s past practice and current norms, I was told that there were also no restrictions on sharing the downloaded files, even though downloading them in the first place required a library subscription.
-
-
-
-### 2.1.3.  TCP timeline history ###  
-
-“The Text Creation Partnership started, in 1999, as a collaboration between the university libraries of Michigan and Oxford, the Council on Library and Information Resources, and the publisher of Early English Books Online, Proquest. The aim was to create high quality ‘standardized, digitally-encoded electronic text editions’ starting with 25,000 titles from Early English Books Online.” (Gregg n. pag.)
-
-“The Text Creation Partnership was conceived in 1999 between the University of Michigan Library, Bodleian Libraries at the University of Oxford, ProQuest, and the Council on Library and Information Resources as an innovative way for libraries around the world to:
-
-* pool their resources in order to create full-text resources few could afford individually
-
-* create texts to a common standard suitable for search, display, navigation, and reuse
-
-* collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”)
-
-Those four named organizers --- Michigan, Oxford, ProQuest, and CLIR --- are the tip of the iceberg for institutional buy-in. At “Our scholarly partners,” TCP lists *two hundred* institutions which were involved in at least one of EEBO-TCP Phase I, EEBO-TCP Phase II, ECCO-TCP, Evans-TCP, many of which were involved in multiple of these projects. “This list does not include higher-education institutions based in the UK, all of which are counted as EEBO Phase 2 partners thanks to consortial funding” (TCP “Our scholarly partners”). The “FAQ” page still shows traces of the enormity of this undertaking. One question reveals that each partner library committed $60,000 to the venture, an amount which funds the keying and conversion of only around 250-300 books --- a large number, but a drop in the bucket compared to the approximately 73,000 books which the TCP as a whole has encoded.
-
-A ten-person working group developed an encoding standard. The University of Michigan Library staff developed instructions to use this encoding standard. And then the text creation began. “Texts were selected each month at Michigan, page-images were supplied by ProQuest, marked-up transcriptions were submitted by the vendors, and quality control and editing undertaken at U-M Library and soon also at Bodleian Libraries in Oxford and subsidiary sites at the National Library of Wales, Aberystwyth, and at the University of Toronto.” (TCP “About”)
-
-  
-
-“EEBO-TCP met its goal of producing 25,000 books in 2009 (thereafter known as “EEBO-TCP Phase 1”), and then undertook work on a second phase to convert the first edition of each remaining unique monographic work in EEBO---another 40,000 or so books, for a total of around 70,000, if all hopes were realized.” (TCP “About”)
-
-“In 2005, the TCP executive board and staff sought to expand the TCP model to other databases of historical books, namely, Gale Cengage’s Eighteenth-Century Collections Online (ECCO) and Newsbank Readex’s Evans Early American Imprints (Evans-TCP). These projects never received quite the support attracted by EEBO-TCP, and in the end produced only about 8,000 texts, compared to the 60,000 produced by the latter, with another few thousand on the way.” (TCP “About”)
-
-As early as 2003, the TCP executive board meeting minutes reported that “Michigan has made agreements with Gale and Readex to support conversion of subsets of the Eighteenth Century and Evans Early American materials which will allow us to create a cross-searchable corpus of important historical texts ... The University of Michigan has reached agreements to create a subset of accurately keyed and encoded texts in conjunction with these projects, and aims to produce 6,000 early American and 10,000 18th century texts. In the near term, this will not affect production of EEBO texts because there is adequate capacity to expand beyond existing levels of production. In the long term, this will produce a large number of culturally significant texts, produced to a single standard, that are owned by the library community and complement the EEBO texts for these early historical periods.” (“Meeting Minutes 2003-10-22.”).
-
-In 2004, “Jeff Moyer then updated the Board on its progress with the ECCO product which contains over 26 million pages and 155,000 volumes. To date, they have 60 customers including 6 Canadian and 11 international institutions. They have also done OCR for the ECCO product and are interested in how the TCP text will work and integrate with their OCR.” (“Meeting Minutes 2004-10-21.”).
-
-“In 2005 the project expanded to include Gale-Cengage’s Eighteenth-Century Collections Online (as well as Evans Early American Imprints by Newsbank). However, while the EEBO-TCP project flourishes (with around 40,000 texts transcribed so far), the work on ECCO-TCP stagnated at around 2,000 texts. As well as the main partner institutions of Michigan and Oxford that oess to the eighteenth-century TCP texts, so I’ve listed them below, with a few comments.” (Gregg n. pag.)
-
-By October 2005, “the ECCO-TCP project has commenced with the release of a demo, and TCP sponsored an ECCO selection task force in August. ... Rich Foley reported that ECCO now covers 120 subscribers and a recent purchase from the JISC. The ECCO product has also sold well in Canada this past year. Rich also reported (relating to a question on Metadata) the release of a My Library product which is opening up access to their metadata at Gale and that he was interested in further doing case studies on how ECCO is used in research and in the classroom.” (“Meeting Minutes 2005-10-20.”)
-
-In 2006, ECCO-TCP was struggling compared to the other TCP products. “Rich Foley reported that ECCO is one of the biggest products at Gale with eighty to ninety ARLs subscribing as well as small institutions. He also said that a focus at Gale was to work on more tools to facilitate undergraduate teaching of their products. ... Mark Sandler reported that the TCP budget shows mostly positive balances through 2007. The exception to that is ECCO but because it is still so early in the project, it seems likely that TCP will overcome those problems within the next few months. Nonetheless, the TCP project in EEBO, Evans, and ECCO face potential budget deficits in fiscal year 2008.” At this time, the TCP began to think about the end of the project: “the TCP should set a date to close the partnership (likely around 2010 given current commitments,” partly to address financial solvency. (“Meeting Minutes 2006-09-16”).
-
-In 2007, all three TCP project reported successful sales, though ECCO’s news was the most vague: “Brandon Nordin also reported good news from Gale and along with Mary Sauer-Games announced that the EEBO and ECCO databases will now be cross-searchable so that users can go to either collection and find records from the other” ( “Meeting Minutes 2007-10-30”). Nonetheless, “Evans-TCP and ECCO-TCP sales have historically (for a variety of reasons, chiefly the presence of OCR text in both projects) been weaker than anticipated” ( “Meeting Minutes 2007-10-30”). And the end loomed nigh: “Currently finances are good through fiscal year 2008. EEBO-TCP is on target to complete 25,000 texts by the end of fiscal year 2008. Evans-TCP is likely, given current finances to complete around 6,000 texts. ECCO-TCP will complete around 1,300 texts. Therefore, the TCP, particularly in EEBO-TCP has been a success meeting most of its goals. Nonetheless, Evans-TCP and ECCO-TCP are still short of their goals of 6,000 and 10,000 texts respectively, and in fiscal year 2009, the TCP overall is facing a deficit of around $400,000 if it does not either reduce its current staff or bring in a large influx of money within the next six months” ( “Meeting Minutes 2007-10-30”). These are the last meeting minutes available online.  
-
-“Begun in 2009, Phase II both shrank and expanded the scope of EEBO TCP.  Selection became more discriminating and focused more on English-language (and Welsh- and Gaelic-language) texts to the exclusion of French and Latin titles, and also set aside the serials (periodicals) as a fit project for another time. But within the constraints of English-language monographic titles, it aspired to something approaching comprehensive treatment: EEBO Phase II planned to convert each and every unique work in Early English Books Online (usually the first edition), or an estimated total of around 45,000 books on top of the 25,000 completed in Phase I. This was an ambitious, and always risky, goal. As it happened, enough institutions joined Phase II to fund the completion of about 40,000 titles, of which about 35,000 have been released to date, the remainder slowly working their way through the production pipeline. (TCP “EEBO”)
-
-“As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)
-
-
-
-“Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000. In cooperation with Gale Cengage, these texts have been made freely available to the public.” (TCP, “Eighteenth Century Collections Online (ECCO) TCP”)
-
-
-
-### 2.1.4.  PG timeline history ###  
-
-Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
-
-“During the fist twenty years, Michael Hart himself keyed in the first hundred books, with the occasional help of others from time to time.” (Lebert)
-
-“when we started, the files had to be very small as a normal 300 page book took one meg of space which no one in 1971 could be expected to have (in general). So doing the U.S. Declaration of Independence (only 5K) seemed the best place to start. This was followed by the Bill of Rights --- then the whole US Constitution, as space was getting large (at least by the standards of 1973). Then came the Bible, as individual books of the Bible were not that large, then Shakespeare (a play at a time), and then into general work in the areas of light and heavy literature and references.” (Hart “History and Philosophy”) “That edition of Shakespeare was never released, due to copyright changes. If Shakespeare's works belong to the public domain, the comments and notes may be copyrighted, depending on the publication date. But other editions belonging to the public domain were posted a few years later.” (Lebert)
-
-“As of 1987 he had typed in a total of 313 books in this fashion. Then, through being involved in the University of Illinois PC User Group and with assistance from Mark Zinzow, a programmer at the school, Hart was able to recruit volunteers and set up an infrastructure of mirror sites and mailing lists for the project. With this the project was able to grow much more rapidly.” (History-Computer)
-
-“When the internet became popular, in the mid-1990s, the project got a boost and an international dimension. Michael still typed and scanned in books, but now coordinated the work of dozens and then hundreds of volunteers in many countries.” (Lebert)
-
-“In August 1989, Project Gutenberg completed its 10th book, The King James Bible, that was first published in 1611, with the standard text dated 1769. In 1990, there were 250,000 internet users, and the standard was 360 K disks. In January 1991, Michael typed in Alice's Adventures in Wonderland, by Lewis Carroll (published in 1865). In July 1991, he typed in Peter Pan, by James M. Barrie (published in 1904).” (Lebert)
-
-1989 is also when Project Gutenberg began to make use of OCR to generate base texts which were then proofread, rather than having the text typed from scratch. (Paywalled WSJ article)
-
-“By the time Project Gutenberg got famous, the standard was 360K disks, so we did books such as Alice in Wonderland or Peter Pan because they could fit on one disk. Now 1.44 is the standard disk and ZIP is the standard compression; the practical filesize is about three million characters, more than long enough for the average book.” (Hart “History and Philosophy”)
-
-“Project Gutenberg gradually got into its stride, with the digitization of one book per month in 1991, two books per month in 1992, four books per month in 1993 and eight books per month in 1994. In January 1994, Project Gutenberg celebrated its 100th book by releasing The Complete Works of William Shakespeare.” (Lebert)
-
-1994, Italian volunteer Pietro Di Miceli developed and administered the first Project Gutenberg website and started the development of the Project online Catalog. (“Credits”)
-
-”The number of electronic books rose from 1,000 (in August 1997) to 5,000 (in April 2002), 10,000 (in October 2003), 15,000 (in January 2005), 20,000 (in December 2006) and 25,000 (in April 2008). ... The steady growth went on, with an average of 8 books per month in 1994, 16 books per month in 1995, and 32 books per month in 1996.” (Lebert) “If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert) “In the first 11 weeks of 2004, Project Gutenberg added 313 new e-books. It took from 1971 to 1997 to produce the first 313 e-books---that's 11 weeks compared to about 26 years.” (Hane)
-
-The books doubled again between 2006 and 2011, from 20,000 (2006) to 40,000 (2011). (Hosch)
-
-The current collection is 60,000 ebooks. This falls short of Hart’s bombastic declaration in 2004 that “We want to grow the collection to 1 million free e-books and distribute them to 1 billion people for a total of 1 quadrillion e-books to be given away by the end of the year 2015.” (Hane)  
-
-“A fast growth thanks to Distributed Proofreaders, a website launched in October 2000 by Charles Franks to share the proofreading of books between many volunteers. Volunteers choose one of the books listed on the site and proofread a given page. They don't have any quota to fulfill, but it is recommended they do a page per day if possible. It doesn't seem much, but with hundreds of volunteers it really adds up.” (Lebert)
-
-“In 2002 Distributed Proofreaders became part of Project Gutenberg.” (Hosch) “By 2009 roughly half of all Project Gutenberg books had been handled by using Distributed Proofreaders.” (Hosch)
-
-“As of 2018, the 36,000+ DP-contributed books comprised almost two-thirds of the nearly 60,000 books in Project Gutenberg.” (Wikipedia)  
-
-Because the texts are available without restrictions, a number of \[spin-off\] websites exist, some of which extend PG’s mission and some of which are slightly exploitative. On the most purely beneficial side are website “mirrors,” which duplicate the contents of the website in order to distribute the costs of hosting and to make sure that the texts remain accessible even if the “primary” Project Gutenberg website goes down. Also in keeping with Project Gutenberg’s core mission are projects which take the very plain text of PG works and make them more appealing or accessible in different formats. LibriVox, for example, is a similarly volunteer-driven effort which produces audiobooks of public domain works. Many organizations produce polished ebooks of PG works, and offer them for sale or for free in individual ebook reader libraries such as the Apple iBooks store or the Kindle store.
-
-“In 2004 Project Gutenberg Europe and Distributed Proofreaders Europe were formed to facilitate the process of adding more non-English works.” (Hosch)  
-
-All directly quoted from “Partners, Affiliates and Resources”
-
-
-
-
-
-
-
-2	Sister Projects
-
-2.1	Project Gutenberg of Australia
-
-2.2	Project Gutenberg of Canada
-
-2.3	Projekt Gutenberg DE
-
-2.4	Project Gutenberg Europe
-
-2.5	Project Gutenberg Self Publishing Portal
-
-2.6	Projekt Runeberg
-
-2.7	ReadingRoo.ms
-
-
-
-3	Affiliates
-
-3.1	ClassicalArchives.com
-
-3.2	The Internet Archive
-
-3.3	Librivox.org
-
-3.4	LiteralSystems
-
-3.5	ManyBooks.net
-
-3.6	The Online Books Page
-
-3.7	Outernet
-
-3.8	RocketReader.com
-
-3.9	Wattpad
-
-
-
-4	Links to locations that provide software, tools, or Project Gutenberg eBooks in different formats
-
-4.1	Andrew Sly's List of Canadiana in Project Gutenberg
-
-4.2	Breeno.org
-
-4.3	The Early Canadiana Online Project
-
-4.4	GutenMark
-
-4.5	Mobipocket
-
-4.6	MobileRead
-
-4.7	Noveltrove
-
-4.8	thefifthimperium.com
-
-4.9	Wikibooks  
-
-“PG has been giving away CDs and DVDs; a volunteer mails them out for free on request.” (Hane)
-
-
-
-Wikipedia: ”In August 2003, Project Gutenberg created a CD containing approximately 600 of the "best" e-books from the collection. The CD is available for download as an ISO image. When users are unable to download the CD, they can request to have a copy sent to them, free of charge.
-
-In December 2003, a DVD was created containing nearly 10,000 items. At the time, this represented almost the entire collection. In early 2004, the DVD also became available by mail.
-
-In July 2007, a new edition of the DVD was released containing over 17,000 books, and in April 2010, a dual-layer DVD was released, containing nearly 30,000 items.
-
-The majority of the DVDs, and all of the CDs mailed by the project, were recorded on recordable media by volunteers. However, the new dual layer DVDs were manufactured, as it proved more economical than having volunteers burn them. As of October 2010, the project has mailed approximately 40,000 discs. As of 2017, the delivery of free CDs has been discontinued, though the ISO image is still available for download.”
-
-Full info at “The CD and DVD Project”  
-
-In 2000, Distributed Proofreaders was founded. Also “In 2000, a non-profit corporation, the Project Gutenberg Literary Archive Foundation, Inc. was chartered in Mississippi, United States to handle the project's legal needs. Donations to it are tax-deductible. Long-time Project Gutenberg volunteer Gregory Newby became the foundation's first CEO.” (Wikipedia)
-
-
-
-At some point Carnegie Mellon University agreed to administer the project’s finances.
-
-It’s currently hosted by ibiblio at UNC Chapel Hill.
-
-
-
-Current partners: “- Distributed Proofreaders. DP allows people to share in the tasks of proofreading, verifying and formatting eBooks for Project Gutenberg.
-
-\- iBiblio, the public's library. IBiblio is our main eBook distribution site, holds our Web pages, and offers a variety of supporting services.
-
-\- Project Gutenberg Consortia Center: Project Gutenberg Consortia Center (PGCC). Collections of collections, with numerous languages and formats. Sponsored by the World eBook Library. Host of the self.gutenberg.org self-publishing portal.” (“Partners, Affiliates and Resources”)  
-
-In 2004, there was some discussion of spinning off a PGII with the World eBook Library. “The co-founders say that PG 2 came from the need to include existing e-book collections, such as those found in schools, universities, and professional and religious organizations. Many such e-books do not fall into the acceptable criteria of Project Gutenberg. "For those books, PG 2 was created to find a home. PG 2 is a consortium of collections. Our vision is to create an additional portal where a broader variety of intellectual objects may be accessed.”” (Hane)
-
-Did this go anywhere?
-
-
-
-It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?
-
-
-
-### 2.1.5.  GB timeline history ###
-
-
-
-“...one can certainly argue that the project is as old as Google itself. In 1996, Google co-founders Sergey Brin and Larry Page were graduate computer science students working on a research project supported by the Stanford Digital Library Technologies Project. Their goal was to make digital libraries work, and their big idea was as follows: in a future world in which vast collections of books are digitized, people would use a “web crawler” to index the books’ content and analyze the connections between them, determining any given book’s relevance and usefulness by tracking the number and quality of citations from other books. The crawler they wound up building was called BackRub, and it was this modern twist on traditional citation analysis that inspired Google’s PageRank algorithms -- the core search technology that makes Google, well, Google.” (“Google Books History”)
-
-
-
-2002: “A small group of Googlers officially launches the secret “books” project. They begin talking to experts about the challenges ahead, starting with a simple but crucial question: how long would it take to digitally scan every book in the world? It turns out, oddly enough, that no one knows. In typical Google fashion, Larry Page decides to experiment on his own. In the office one day, he and Marissa Mayer, one of our first product managers, use a metronome to keep rhythm as they methodically turn the pages of a 300-page volume. It takes a full 40 minutes to reach the end. Inspired by the extraordinary digitization projects underway all around the world -- the Library of Congress’s American Memory project, Project Gutenberg, the Million Book Project and the Universal Library, to name only a few -- the team embarks on a series of site visits to learn about how they work. As part of this fact-finding mission, Larry Page reaches out to the University of Michigan, his alma mater and a pioneer in library digitization efforts including JSTOR and Making of America. When he learns that the current estimate for scanning the university library’s seven million volumes is 1,000 years, he tells university president Mary Sue Coleman he believes Google can help make it happen in six.” (“Google Books History,” 2016)
-
-
-
-2003: The team works to develop a high-speed scanning process --- “A team member travels to a charity book fair in Phoenix, Arizona, to acquire books for testing non-destructive scanning techniques. After countless rounds of experimentation, the team develops a scanning method that’s much gentler than current common high-speed processes. ... At the same time, the team’s software engineers make progress toward resolving the tricky technical issues they encounter processing information from books that contain odd type sizes, unusual fonts or other unexpected peculiarities -- in 430 different languages.” (“Google Books History,” 2016)
-
-
-
-2004: formal partnership with Bodleian library “to digitize the library’s incomparable collection of more than one million 19th-century public domain books within three years.” (“Google Books History,” 2016)
-
-“In October, Larry and Sergey announce “Google Print” at the Frankfurt Book Fair in Germany. The first publishers to join the program: Blackwell, Cambridge University Press, the University of Chicago Press, Houghton Mifflin, Hyperion, McGraw-Hill, Oxford University Press, Pearson, Penguin, Perseus, Princeton University Press, Springer, Taylor & Francis, Thomson Delmar and Warner Books. In December, we announce the beginning of the “Google Print” Library Project, made possible by partnerships with Harvard, the University of Michigan, the New York Public Library, Oxford and Stanford. The combined collections at these extraordinary libraries are estimated to exceed 15 million volumes.” (“Google Books History,” 2016)
-
-
-
-“Every weekday, semi trucks full of books would pull up at designated Google scanning centers. ... The books were unloaded from the trucks onto the kind of carts you find in libraries and wheeled up to human operators sitting at one of a few dozen brightly lit scanning stations, arranged in rows about six to eight feet apart. ... Each one could digitize books at a rate of 1,000 pages per hour. The book would lie in a specially designed motorized cradle that would adjust to the spine, locking it in place. Above, there was an array of lights and at least $1,000 worth of optics, including four cameras, two pointed at each half of the book, and a range-finding LIDAR that overlaid a three-dimensional laser grid on the book’s surface to capture the curvature of the paper. ... What made the system so efficient is that it left so much of the work to software. Rather than make sure that each page was aligned perfectly, and flattened, before taking a photo, which was a major source of delays in traditional book-scanning systems, cruder images of curved pages were fed to de-warping algorithms, which used the LIDAR data along with some clever mathematics to artificially bend the text back into straight lines. At its peak, the project involved about 50 full-time software engineers.” (Somers)
-
-
-
-2005: “In keeping with our mission to organize the world’s information and make it universally accessible and useful, we donate $3 million to the Library of Congress to help build the World Digital Library, which will provide online access to a collection of rare and unique items from all around the world. We also extend our pilot scanning program with the Library, which includes digitizing works of historical value from the Library of Congress Law Library. Google renames “Google Print” Google Books, which more accurately reflects how people use it. The team also responds to the controversy over the Library Project by engaging in public debate about its underlying principles.” (“Google Books History,” 2016)
-
-Public debate: <https://web.archive.org/web/20160204071159/https://googleblog.blogspot.com/2005/10/point-of-google-print.html>
-
-
-
-2006: “We launch a series of product enhancements to make Book Search more useful and easier to use. First, we expand access to the public domain works we’ve scanned by adding a download a PDF button to all out-of-copyright books. A few months later, we release a new browsing interface that makes it easier to browse and navigate Book Search. The new interface is also accompanied by new About this Book pages which use Google algorithms to populate pages with rich related content on a book -- initially, related books, selected pages and references from scholarly works. In the fall, four new libraries join the Library Project: the University of California, University Complutense of Madrid, the University of Wisconsin- Madison and the University of Virginia.” (“Google Books History,” 2016)
-
-
-
-2007: “Using the new UI as a launching point, we experiment with new ways for people to interact with books.
-
-Places in this Book: A mashup with Maps lets people browse books by locations mentioned in the text (later, we release an experimental KML layer for Google Earth that does the reverse -- the user picks a location, and we map books to it).
-
-Popular Passages: We create a new way to navigate between books, tracking the use of a single passage through a collection of books.
-
-My Library: We help people harness the power of Google search within their own personal book collections. Users begin to curate and share their personal libraries, reviews and ratings with others.
-
-New homepage (initially US only): We give people more jumping off points for exploring the books in our index.
-
-... we add a “View plain text” link to all out-of-copyright books. T.V. Raman explains how this opens the book to adaptive technologies such as screen readers and Braille display” (“Google Books History,” 2016)
-
-“By December, the Book Search interface is available in over 35 languages, from Japanese to Czech to Finnish.  Over 10,000 publishers and authors from 100+ countries are participating in the Book Search Partner Program.” (“Google Books History,” 2016)
-
-“In May, the Cantonal and University Library of Lausanne, and Ghent University Library join the Book Search program, adding a substantial amount of books in French, German, Flemish, Latin and other languages, and bringing the total number of European libraries partners to six. ...  Over 10,000 publishers and authors from 100+ countries are participating in the Book Search Partner Program.  The Library Project expands to 28 partners, including seven international library partners: Oxford University (UK), University of Complutense of Madrid (Spain), the National Library of Catalonia (Spain), University Library of Lausanne (Switzerland), Ghent University (Belgium) and Keio University (Japan).”(“Google Books History,” 2016)
-
-
-
-2008, the year when Google 
-
-
-
-The “Google Books History” page ends with 2007, with the final words of “As we look to the year ahead, we continue to develop our technology and expand our partnerships with publishers and libraries all around the world. Stay tuned...” but the page spent more than a decade with no further updates. Some time between August 2019 and March 2020, the page was edited so that it no longer had a year-by-year breakdown of milestones. Now, after briefly telling the anecdote about the 1996 origin of Google Books, the “history” says ”Fast forward to today:
-
-After more than a decade of evolution, innovation and strong partnerships, Google Books has helped to make more than 40 million books discoverable, in more than 400 languages.
-
-And we're not done -- not until all of the books in the world can be found by everyone, everywhere, at any time they need them.” (“Google Books History,” 2020)
-
-
-
-2008, the year that Google stops being quite so proud of the rapid progress of Google Books, is also the year that they begin to face legal repercussions for their “scan first and ask questions later” approach to mass digitization. Somers has characterized this process as equivalent to the burning of the library of Alexandria: “When the most significant humanities project of our time was dismantled in court, the scholars, archivists, and librarians who’d had a hand in its undoing breathed a sigh of relief, for they believed, at the time, that they had narrowly averted disaster” (Somers).
-
-
-
-Wikipedia: “May 2008: Microsoft tapered off and planned to end its scanning project, which had reached 750,000 books and 80 million journal articles.\[92\]
-
-Wikipedia: “October 2008: A settlement was reached between the publishing industry and Google after two years of negotiation. Google agreed to compensate authors and publishers in exchange for the right to make millions of books available to the public.\[9\]\[93\]
-
-Wikipedia: “November 2008: Google reached the 7 million book mark for items scanned by Google and by their publishing partners. 1 million were in full preview mode and 1 million were fully viewable and downloadable public domain works. About five million were out of print.\[18\]\[94\]\[95\]
-
-Wikipedia: “December 2008: Google announced the inclusion of magazines in Google Books. Titles include New York Magazine, Ebony, and Popular Mechanics\[96\]\[97\]
-
-Wikipedia: “February 2009: Google launched a mobile version of Google Book Search, allowing iPhone and Android phone users to read over 1.5 million public domain works in the US (and over 500,000 outside the US) using a mobile browser. Instead of page images, the plain text of the book is displayed.\[98\]
-
-Wikipedia: “May 2009: At the annual BookExpo convention in New York, Google signaled its intent to introduce a program that would enable publishers to sell digital versions of their newest books direct to consumers through Google.\[99\]
-
-Wikipedia: “December 2009: A French court shut down the scanning of copyrighted books published in France, saying this violated copyright laws. It was the first major legal loss for the scanning project.\[100\]
-
-Wikipedia: “April 2010: Visual artists were not included in the previous lawsuit and settlement, are the plaintiff groups in another lawsuit, and say they intend to bring more than just Google Books under scrutiny. "The new class action," read the statement, "goes beyond Google's Library Project, and includes Google's other systematic and pervasive infringements of the rights of photographers, illustrators and other visual artists."\[101\]
-
-Wikipedia: “May 2010: It was reported that Google would launch a digital book store called Google Editions.\[102\] It would compete with Amazon, Barnes & Noble, Apple and other electronic book retailers with its own e-book store. Unlike others, Google Editions would be completely online and would not require a specific device (such as kindle, Nook, or iPad).
-
-Wikipedia: “June 2010: Google passed 12 million books scanned.\[12\]
-
-Wikipedia: “August 2010: It was announced that Google intends to scan all known existing 129,864,880 books within a decade, amounting to over 4 billion digital pages and 2 trillion words in total.\[12\]
-
-Wikipedia: “December 2010: Google eBooks (Google Editions) was launched in the US.\[103\]
-
-Wikipedia: “December 2010: Google launched the Ngram Viewer, which collects and graphs data on word usage across its book collection.\[31\]
-
-Wikipedia: “March 2011: A federal judge rejected the settlement reached between the publishing industry and Google.\[104\]
-
-
-
-“At a time when the rest of Google was obsessed with making apps more “social”---Google Plus was released in 2011---Books was seen by those who worked on it as one of those projects from the old era, like Search itself, that made good on the company’s mission “to organize the world’s information and make it universally accessible and useful.” It was the first project that Google ever called a “moonshot.”” (Somers)
-
-
-
-Wikipedia: “March 2012: Google passed 20 million books scanned.\[105\]\[106\]
-
-Wikipedia: “March 2012: Google reached a settlement with publishers.\[107\]
-
-Wikipedia: “November 2013: Ruling in Authors Guild v. Google, US District Judge Denny Chin sides with Google, citing fair use.\[109\] The authors said they would appeal.\[110\]
-
-Wikipedia: “October 2015: The appeals court sided with Google, declaring that Google did not violate copyright law.\[111\] According to the New York Times, Google has scanned more than 25 million books.\[10\]
-
-Wikipedia: “April 2016: The US Supreme Court declined to hear the Authors Guild's appeal, which means the lower court's decision stood, and Google would be allowed to scan library books and display snippets in search results without violating the law.\[112\]” (Wikipedia)
-
-
-
-Wikipedia: “As of October 2015, the number of scanned book titles was over 25 million, but the scanning process has slowed down in American academic libraries.\[10\]\[11\] As of October 2019, Google celebrated 15 years of Google Books and provided the number of scanned books as more than 40 million titles.\[14\]”
-
-
-
-Wikipedia: “Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project -- initially stacks of books were entirely taken up for scanning whereas now Google only needed to consider the ones that have not been scanned already.\[49\] The company's own Google Books history page ends in 2007, and the Google Books blog was merged into the Google Search blog in 2012.\[113\] Despite winning the decade-long litigation in 2017, The Atlantic has said that Google has "all but shut down its scanning operation."\[20\] In April 2017, Wired reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.\[113\]”
-
-
-
-Material is still being sent to Google Books for scanning, however. In November 2019, University of Colorado Boulder announced that their library would be partnering with Google for books to be scanned, with copies appearing both in Google Books and in HathiTrust. (“Increasing Access with Google Books”)
-
-“In total, the process is estimated to take two to four years to complete. With this estimation, Interim Director of Libraries Information Technology Michael Dulock approximated that if Google processed 200,000 books and each book was about 200 pages, this project will save the Libraries about $20 million. 
-
-Another way to measure savings for the Libraries is with time. Dulock said that if Digital Media Services in the Libraries worked on this project full-time, with one staff member at 40 hours a week and five students at 20 hours a week, doing nothing else, it would take close to 100 years to complete.” (“Increasing Access with Google Books”)
-
-
-
-### 2.1.6.  Hathi timeline history ###
-
-
-
-“The vast majority of those digitized books-around 95 percent, as of mid-2017- had originally been scanned as part of the Google Books project; the agreements that Google Books entered into with the libraries typically stipulated that Google had to provide the library with a digital copy of each book scanned from that library.” (Bauder)
-
-“When Google partnered with university libraries to scan their collections, it had agreed to give them each a copy of the scanning data, and in 2008 the HathiTrust began organizing and sharing those files. (It had to fend off the Authors Guild in court, too.) HathiTrust has 125 member organizations and institutions who “believe that we can better stewardresearch and cultural heritage by working together than alone or by leaving it to an organization like Google,” says Mike Furlough, the trust’s director.” (Van Helden)
-
-”HathiTrust was launched in 2008 by the 11 University of California libraries and the 12-university consortium known as the Committee on Institutional Cooperation (CIC), with key support provided by the University of Michigan and Indiana University.” (Karels) “As of today \[October 13, 2008\], HathiTrust contains more than 2 million volumes and approximately ¾ of a billion pages, about 16 percent of which are in the public domain. Public domain materials will be available for reading online. Materials protected by copyright, although not available for reading online, are given the full range of digital archiving services, thereby offering member libraries a reliable means to preserve their collections.” (HathiTrust, “Major Library Partners Launch HathiTrust Shared Digital Repository”)
-
-In 2010, just two years later, ”HathiTrust is now jointly owned and operated by 52 institutions from the U.S. and Europe, all focused on a common goal -- to build an extraordinary digital library that preserves and provides access to the cultural record. The new members to HathiTrust include the Library of Congress, Stanford University, Arizona State University, Massachusetts Institute of Technology, and University of Madrid, HathiTrust’s first international partner.” (Karels)
-
-”In October 2015, HathiTrust comprised over 13.7 million volumes, including 5.3 million of which were in the public domain in the United States.” (Wikipedia)
-
-
-
-“HathiTrust, as a co-managed and co-funded collaborative of academic and research libraries, relies on its members to govern its programmatic, financial, and strategic directions. Membership established the governance model in 2012 and comprises the following entities: 
-
-The Board of Governors
-
-The Program Steering Committee
-
-The governing bodies operate under the HathiTrust Bylaws. In addition to the formal governing bodies, multiple working, advisory, and task-based groups further enable member libraries to participate in and guide the direction of HathiTrust. As necessary, members vote on various policies or changes using the weighted voting system established in 2011.” (HathiTrust, “Governance”)
-
-
-
-“The budget of HathiTrust is a separately maintained budget held within the University of Michigan budget system and managed by the Executive Director with oversight from the Executive Committee. Some additional financial components of the operation are represented by commitments in kind by participating members. The University Library’s financial procedures are subject to audits by the University of Michigan Office of University Audits.” (HathiTrust, “Governance”)
-
-
-
-Wikipedia: “The partnership includes over 60 research libraries\[7\] across the United States, Canada, and Europe, and is based on a shared governance structure. Costs are shared by the participating libraries and library consortia.\[8\] The repository is administered by the University of Michigan.\[9\] The Executive Director of HathiTrust is Mike Furlough.\[10\] The HathiTrust Shared Print Program is a distributed collective collection whose participating libraries have committed to retaining almost 18 million monograph volumes for 25 years, representing three-quarters of HathiTrust digital book holdings.\[11\]”
-
-
-
-### 2.1.7.  synthesizing histories ###  
-
-To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.  
+Searching the ESTC for records which both have “Toronto” in the library name and “Charlotte Turner” in the author name turns up two records: volume one of *Rural Walks* (1795) and *Minor Morals* (1798), both held at the Toronto public library. The Toronto Public Library catalogue has two distinct author identities for “Smith, Charlotte Turner, 1749-1806, author.” and for “Smith, Charlotte, 1749-1806,” and the special collections holdings only appear under the latter name (making them initially difficult to find). Under the “Smith, Charlotte” name, however, six titles printed during Smith’s appear: the two listed in ESTC, plus a complete two-volume copy of *Rural Walks* (1795), the first and second editions of *Rambles Farther* (1796 and 1800), and *Conversations Introducing Poetry* (1804). Of these, *Rural Walks* and both editions of *Rambles Farther* are listed in the ESTC but without records of the Toronto copies. All six titles are part of the Osborne Collection of Early Children's Books. \[This is interesting because it shows how scholarly disciplinary interpretations perpetuate themselves *infrastructurally*: as a Toronto-based scholar, the path is easier for me to study Smith-the-children’s-writer than other Smiths.\]  
 
 “ProQuest is to be commended for its attitude to the wider scholarly community.27 EEBO is a commercial product but nonetheless there is an encouraging and genuine wish to engage with its users. This ranges from the active monitoring and rapid responding to queries submitted via its ‘Webmaster’ form to informal and formal consultations with students, scholars, and other users. EEBO representatives appear at -- and often sponsor -- academic events. Content is frequently corrected, updated, expanded and enhanced (such as the new ‘EEBO Introduction Series’); the searching mechanism continues to be improved; the project to produce full-text transcriptions (the Text Creation Partnership) is an academic venture, not a commercial one. Unlike Jackson’s microfilm photographer, lurking in his lair with his livid lights and chemical smells, the present providers of EEBO seem to be rather more interested in -- and responsive to -- contemporary scholarship.” (Gadd 688)  
 
@@ -895,11 +407,545 @@ Table 1: A chronological history of major events in the development of \[LIST TH
 
 
 
-# ch 2 - gender in databases #
+# ch 2 - gender in databases (13k) #
 
 
 
-## 3.1.  intro ##  
+# ch 3 - genre in databases (13k) #
+
+
+
+# ch 4 - random sample (13k) #
+
+
+
+# conclusion (5k) #
+
+
+
+# Raw Writing #  
+
+“One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’ (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270).  
+
+Increasingly, projects do in fact actively theorize and address their datasets.
+
+
+
+Mark Vareschi and Mattie Burkert, for example, in “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale,” have an argument to make about eighteenth century theatrical genres, but also “theorizing a new dataset of our own creation as a *description* that mediates and transforms our relationship to the objects it describes” (598). ”Our study shows the need to attend to the unstable ontologies present in cultural objects, as well as in the datasets that describe them.” (613)  
+
+The meaning of “popular” shifts depending on what is conceived of as its “opposite.” Is it an aesthetic category, popular vs highbrow, Gothic novel vs poetry? Is is a sociological/economic term, popular vs elite, ballads and chapbooks vs books? Is it tied to reception, popular vs unpopular, Udolpho vs The Two Emilys? Or tied to legacy, popular vs forgotten, Lyrical Ballads vs The Lemon? I am interested in all of these varying definitions of popularity because they are all tied to what *actually* interests me, an attempt to define and characterize “normal.”
+
+Literary study is typically interested in outliers, because they are, well, *interesting*. I’m interested in the “normal” because I think it is a necessary context for any claims or analysis about that which is exceptional. For example, it’s not appropriate to read too much into the fact that Radcliffe published Athlin & Dunbayne unsigned, since this was “normal” --- a default position, rather than an informative expression of intentionality. So, one kind of “normal” that interests me is this idea of the default: what might we expect? The default normal can be defined at multiple levels of granularity. We are handed a two-volume work, what might we expect from it at default? We are looking at a poem written by a man in 1792, what might we expect from it at default? Making these naive default guesses will be tied to another meaning of “normal,” that of “most prevalent.” From this perspective “normal” serves more as a synonym of “common.” What do we find the most of? Again, this can be defined at multiple levels of granularity. (Is most-ness a trait of normality, or of exceptionality....?) Can we better characterize the background against which outlier works were written and read?
+
+What is a "normal" footprint in the print culture of this decade? (i.e., what are the boundaries a work has to surpass to be unusually popular or unusually unpopular?)
+
+In both cases, it is difficult to describe “normal for an eighteenth century audience” through the mediating lenses of our databases. One key question, in fact, is “is there anything that seems normal in these databases which would not seem normal to the eighteenth century public?” I anticipate denaturalizing some aspects of these databases, e.g., the way that the flatten distinctions between different buying publics (social classes, time periods, tastes).
+
+I’m also interested in “disreputable” literatures, which have often been some versions of popular or some versions of normal --- this is an essentially ethical attachment, or perhaps an inherent contrariness; any time a work is dismissed for any reason, I wish to question the importance of the evaluation metrics which rejected it, and seek whatever may be of value in the rejected work. This is one way a reparative impulse underlies the project: so what is these things were common, or cheap, or bad --- that doesn’t mean they *have* to be worthless. The arbitrariness of the literary canon is that essentially any artistic product can be imbued with value by its audience. (Guillory has a lot on this.) I want to explore how we can value that which has not been valued.  
+
+“But however essential it is for data-rich literary history, modeling cannot be the sole foundation for the field. **Models of literary systems are not simply arguments** about the existence of and connections between literary works in the past; **they are arguments made with reference to the disciplinary infrastructure**---the bibliographies and collections, analog and digital---that transmit evidence of past works and relationships to the present. Modeling, even when integrated with descriptive bibliography as I have described, does not reflect on this transmission. Models embody a scholar’s arguments, whereas disciplinary infrastructure is an effect of multiple arguments: a sequence of assumptions, decisions, representations, and remediations. Such histories of transmission shape how the researcher can explore, and what she can know of, the historical context that disciplinary infrastructure appears to represent. To adequately perform literary history, data-rich projects must investigate these histories of transmission and how they constitute the documentary record.” (Bode 42)
+
+
+
+“The distinctions or gaps between the context signified by collections and the exemplars used in signification **might partly arise from, but are not simply the consequence of, successive exclusions of documents**, as the Stanford Literary Lab Pamphlet 11 suggests. In chapter 1 I noted that, in defining “the published,” “the archive,” and “the corpus” as progressively smaller selections, those authors admit the constructed nature Page 44 →of literary data. Yet they also argue that mass-digitization largely avoids those exclusions, such that “the corpus of a project can now easily be (almost) as large as the archive, while the archive is itself becoming---at least for modern times (almost) as large as all of published literature” (Algee-Hewitt et al., 2).
+
+Even with their account of the considerable practical challenges involved in accessing versions of specific literary works, this description of mass digitization drastically diminishes the degree of exclusion involved in constructing such collections. ” (Bode 43-4)
+
+
+
+“Digitized collections are partial in another way, in that combining the holdings of multiple analog collections tends to obscure the individual histories of the contributing collections and their implications for the form, scope, and critical capacity of the resulting digital one.” (Bode 44)
+
+
+
+“Collections have always been constituted in this way. In analog collections, documents are represented and remediated through the cataloging systems that organize holdings and the interfaces that interpret them: the card catalogs, special collection indexes, or online library catalogs that provide a method of searching and a type, form, and detail of metadata. ... A key difference between analog collections and digital ones is that literary historians rarely, if ever, treat the former (a given library, for instance) as proxies for literature as it circulated and was understood in the past, whereas digital collections such as Google Books or HathiTrust are sometimes assumed to be representative in this way.” (Bode 44)
+
+
+
+“Due to their multiplicity and complex interaction, the components involved in producing digital collections expand access to the historical record in certain ways, even as they increase the likelihood of unrealized and significant disjunctions between the access we intend and the access we achieve. **Digital humanities scholars recognize that digital infrastructure shapes knowledge production, and digital literary historians have responded with explicitly curatorial approaches** to constructing and exploring digital documents and collections.” (Bode 45)
+
+
+
+“These digital humanities projects highlight **four features** that I believe should also **underpin the modeling of literary systems in data-rich literary history**. First is a critical assessment of the **relationship between the historical context analyzed and the digital collection(s) used** for analysis; second is detailed attention to the **relationship between the documents included in the digital collection(s) and the terms in which they are represented**; third is explicit discussion of the **means by which data are extracted and modeled**; and fourth is a **published record of data** arising from that extensive history of transmission. Existing projects in data-rich literary history often (though by no means universally) demonstrate the second and third of these features. The need for data publication, and for platforms and modes of review to support it, is also increasingly recognized and enacted.7 But data-rich literary history projects rarely consider how the disciplinary infrastructure analyzed relates to the historical context investigated. The lack of shared standards for data publication---and, more specifically, of a framework for combining these four features in investigating and representing the transmission and transformation of historical evidence to and in the present---problematizes the field’s capacity to advance historical knowledge.” (Bode 46)
+
+
+
+“Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode 47)  
+
+One of Underwood’s contentions is that “we understand \[literary\] history, locally, very well,” (31) and the role of computational study is to examine the large-scale trends which would join together the individual moments of literary history. This dissertation, however, attempts to study a very local moment with a larger body of evidence than is usually feasible to examine.  
+
+The problem of textual selection--- the paired difficulty and importance of deciding which few books one will actually read--- is an urgently meaningful problem in the “real world,” outside the realms of academia. A common solution is one which will likely alarm and distress most scholars who have dedicated themselves to thinking through canonical selection, or even the construction of a syllabus: a solution which could perhaps be called ‘radical impatience.’ Consider, for example, the following advice in a blog post, “100 Ways to Live Better,” item number 6, the first entry in the category “Mind”:
+
+There are more great podcasts than you’ll ever have the time to listen to. If it sucks after 10 minutes, skip half an hour ahead. Still boring? Delete and move on. Obviously, do the same for books.
+
+There is much to find distressing here. The operant metric that another’s ideas “suck” if they are “boring” in the first ten or thirty minutes. The fact that “obviously” the same metrics apply for books as for podcasts. Indeed, even the fact that podcasts so strongly come *before* books as the default way to encounter new ideas. Each word in the first sentence is itself a link to a specific podcast recommended by the writer, but “books” are a monolith and a footnote.
+
+
+
+Later we see another metric for textual selection:
+
+Should you watch that movie / play that game / read that book? Use the ratio:
+
+(\[# who rated it 5/5\] + \[# who rated it 1/5\]) / \[# who rated it 3/5\].
+
+This doesn’t apply to everything, but it applies to many things, including media. There are too many options out there to waste time on mediocrity, and everything great will be divisive.
+
+Paired with the first piece of advice, this would suggest a process of seeking out divisive and controversial works, determining within ten minutes whether one is strongly in sympathy or strongly opposed, and continuing only with works which evoke strong sympathy.
+
+Of the seven mentions of the word “book,” two are in fact the word “Facebook.” Two are the pieces of advice quoted above. Two are suggestions to find “good audiobooks, and/or a dog” to form a habit of going on walks, or “a good app or guidebook” to practice meditation. And the last is the advice that “If you’ve been waiting for months for someone to create an event and invite you, whether it’s a book discussion or a BDSM orgy, just throw one yourself,” in which “a book discussion” functions rhetorically as an extreme example of an unusual and improbable kind of social event, paired against its assumed opposite extreme.  
+
+“Of the data-rich literary history projects discussed in this chapter, Underwood and Sellers’s work on changing standards of literary prestigePage 51 → most consistently enacts the curatorial elements present elsewhere in digital humanities, not least in terms of data publication. As the authors explain in an online working paper on the project, its most time-consuming element was not training their supervised model but constructing their dataset: identifying the different subgenres---poetry, prose, fiction, and drama---present in HathiTrust (“How,” 6). As well as publishing the datasets and code used in their article (“Code”), in collaboration with HathiTrust Underwood takes the major, additional step of releasing the outcome of analysis of that mass-digitized collection for others to use. This takes the form of “word counts for 101,948 volumes of fiction, 58,724 volumes of poetry, and 17,709 volumes of drama” published from 1700 to 1922, as well as yearly summaries of word frequencies for each genre. Underwood refers to this dataset as a “collection” to differentiate it from a “corpus” because “I don’t necessarily recommend that you use the whole thing, as is. *The whole thing* may or may not represent the sample you need for your research question” (“Dataset” np).
+
+Signifying growing recognition of the importance of data publication, the Underwood/HathiTrust collection is an important undertaking for data-rich literary history in at least two ways. In presenting a dataset designed for literary history, it offers a shared foundation for research. Working with it, researchers can ask a range of questions based on a reliable, standardized dataset and engage with each other’s arguments in terms not only of results produced but of data investigated. In characterizing that collection as the holdings of “American university and public libraries, insofar as they were digitized in the year 2012 (when the project began), Underwood also frames a major mass-digitized collection---HathiTrust---in terms of its history of transmission (“Dataset” np). However general this framing, Underwood thus explicitly associates the dataset he publishes with a sequence of production and reception that profoundly affects its capacity to support historical analysis. In their article, Underwood and Sellers acknowledge that this history of transmission shapes their findings, noting that their model “makes more accurate” predictions for American poetry collections because HathiTrust “mainly aggregates the collections of large American libraries” (“Longue” 338).” (Bode 50-51)
+
+
+
+“Seeking to define the scope of their dataset, Underwood and Sellers note that HathiTrust “may represent more than half of the titles that were printed” because it contains “about 58% of titles recorded in standard bibliographies.” Yet their own “work on fiction” with this collection belies the apparently solid basis of this estimate, finding that HathiTrust contains “many titles left out of” existing bibliographies (“How” n11). Underwood and Sellers thus indicate a significant lack of overlap between established bibliographical records and the holdings of a major digital library, although they do not highlight the significance of this finding nor explore its implications for their own study or for literary history broadly (whether conducted by computational or noncomputational means). Emphasizing that we cannot know the documentary past except through the knowledge infrastructure we create to interpret it, this disjunction that Underwood and Sellers discover highlights the potentially major gaps in all existing forms of description and interpretation: **neither the analog nor the digital record offers an unmediated and comprehensive view of the documentary past; both are partial, and not necessarily in complementary ways.**” (Bode 53)  
+
+Echoing Underwood’s provocative question, “do we understand the outlines of literary history?” (the title of chapter one of *Distant Horizons*), I ask: do we know what was common in the 1790s? Catherine Fleming, for example, says “There is no consensus about what percentage of the books sold in England during the long eighteenth century were translations” (10), though estimates of 15 to 35 percent indicate that their presence was substantial.
+
+
+
+### 3.1.1.  database histories ###  
+
+In the next section I will close read the implicit models underlying each database, to examine how each enforces a particular concept of “literature” and “a text.” However, before these models can make sense, we must understand the history of how they were built. I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and \[capitalism\]. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be *created* digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour.
+
+
+
+#### 3.1.1.1.  ESTC timeline history ####
+
+
+
+The history of the English Short-Title Catalog is long, as befits its enormous scope. “The English Short-Title Catalog (ESTC) is a vast database designed to include a bibliographic record, with holdings, of every surviving copy of letterpress produced in Great Britain or any of its dependencies, in any language, worldwide, from 1473-1800” (CBSR)[ not sure how best to cite this - <http://estc.ucr.edu/index.html#>]. Today, “The English Short-Title Catalogue is the most comprehensive record of what has appeared in print in Britain and the English-speaking world for all branches of human experience from the last quarter of the fifteenth century to the start of the nineteenth. More specialized studies exist for fields and eras within that span, but no other resource matches ESTC’s dependability over such a broad range” (Vander Meulen 265).
+
+It began as the Eighteenth Century Short Title Catalogue in the 1970s, operating in a similar line as the original Pollard and Redgrave Short-Title Catalogue for 1476--1640, which first appeared in 1926, and Donald Wing’s catalogue for 1641--1700, which appeared in 1951. These catalogues established the ambitious simplicity of the ESTC: to accurately describe every edition of every printed work in English or from the United Kingdom. After the completion of Wing’s STC, “\[e\]xploratory studies, poorly funded and inadequate though they were” (Korshin 209) throughout the 1950s and 60s pursued the feasibility of systematically accounting for the much larger body of printed work produced in the eighteenth century. The Eighteenth Century Short Title Catalogue began properly in 1976, at a conference jointly sponsored by the British Library and the American Society for Eighteenth Century Studies (Crump 106). Here, “bibliographers and librarians attempted both to arrive at a consensus of the size of the task and the methodology that would have to be adopted to achieve a union catalogue. However, until the works were catalogued, it would not be possible to answer basic questions (such as the potential number of extant items) which would predetermine working methods. The very fact that they found it difficult to agree for want of sound and accepted figures indicated the need for ESTC.” (Crump 105). A pilot project began at the British Library in 1977, under the direction of Robin Alston (Crump 105).
+
+Unlike earlier Short-Title Catalogues, which appeared as lengthly print publications, the Eighteenth-Century Short Title Catalogue was conceived as digital from the beginning --- a decision which, as Karian notes, “exhibited considerable foresight” (283) in the 1970s. As a result, “ESTC records existed in digital form long before many humanists saw computer technology as central to their work” (Karian 283).  Robin Alston and Mervyn Jannetta developed their own cataloguing rules, distinct from the Library of Congress MARC and UK MARC standards (Korshin 211). Once these standards were established, the British Library began to re-catalogue its own holdings, and in 1979 libraries in the United States, Germany, and Australia undertook to supplement them. In these international collaborations, “Where ESTC records already existed, these were adopted as the \[new\] record and only those works not held in the ESTC base file were catalogued again” (Crump 105). “One implication of the publication history of short-title catalogues is that they have been deemed functional and valuable even before they were complete. (That estimation is crucial, for their full completion is for all practical purposes impossible.) Judging that even a preliminary form of the records was useful to scholars, the planners of ESTC determined to conduct its development ‘in full public view’ and to make the incomplete file available ‘warts and all’[ I can probably say a LOT more about all of this --- this is my answer to the “moving target” problem; move it to the introdction] (in the words of Henry Snyder and Michael Crump, responding to criticism by Peter Blayney)” (Vander Meulen 270). Accordingly, the in-progress database “was soon available online, from 1980 via the British Library BLAISE \[British LibraryAutomated Information SErvice\] system and from 1981 in the US Research Libraries Group RLIN \[Research Libraries Information Network\] system” (Norman). Each of these databases was worked on locally by researchers, and then updated and reconciled with each other weekly.
+
+To supplement these databases, accessible almost exclusively to librarians with specialized training in operating them and primarily used by the scholars compiling the file, the ESTC intended to publish editions at particular milestones of completeness, intended for the use of non-librarian scholars. Their “first step, a fiche catalogue of \[the British Library’s\] holdings, together with indexes, generated by the computer” (Crump 105) was published in a microform “snapshot” in 1983, but other milestones did not occur according to schedule. The “joint Anglo-American interim publication of the ESTC file ” (Korshin 212) which was expected to follow on microform in 1984 (Korshin 212) did not appear. Alston attributed the delays partly to the immensity of the task, and partly to the impact of short-term cost-cutting decisions, like the reduction of early-stage proofreading or of in-person examination of books, which dramatically increased the labour of verifying the resulting database record. Although he consistently warned “how easily strategic decisions based exclusively on cost usually lead to greater, not less, eventual costs” (Alston), the ESTC each year seemed to be facing a new budget struggle, and important maintenance labour was several times deferred. This created something like a paradox for the ESTC: funding bodies wanted to commit less money to a project which was behind schedule, but the project would remain behind schedule unless it was funded to complete the work required. 
+
+Nonetheless, work continued, and in 1985, the online databases in RLIN and BLAISE were upgraded to allow dynamic updates to a single shared file (Crump 106), which for the first time allowed continuous access to a shared record, rather than the constant exchange and messy merging of individual partially-overlapping records. “Until the file was dynamically available online on RLIN in 1985 batch processing was a weekly nightmare” (Alston). At this time, it was hoped that the new RLIN file would “result in a more complete and coherent ‘first edition’ of ESTC” to be published in 1989 (Crump 106), though this deadline, too, was not met. In the mean time “the ESTC file \[was\] available to scholars on both BLAISE-LINE and on RLIN.” (Crump 106). To facilitate its use, the ESTC distributed “\[a\] simplified manual for searching the file on-line” (Crump 106). Crump took the opportunity of the update to rhapsodize on the database’s potential usefulness for other scholars: “No longer is the scholar limited in access to the data by the fixity of the printed page” (106). This valuable resource was not without cost. Although the manual on how to formulate search queries was free, use of the ESTC itself was notably not. Institutions or individuals paid to subscribe to the ESTC itself, paid per query for searches to be run, paid per minute for being connected to the database, and often paid for access to the computers they must use in their own libraries. Tabor says “the ongoing expense of consulting ESTC was the cyber-equivalent of the hefty up-front payment needed to acquire its printed predecessors, STC and Wing” (367).
+
+“In 1987, with the agreement of the Bibliographical Society and the Modern Language Association of America, the International Committee approved the extension of the database to cover the period from the beginning of printing in the British Isles (ca. 1472) to 1700. The file changed its name to the 'English Short Title Catalogue', thereby keeping its well-known acronym. The USA team began cataloguing pre-1701 material in 1989, joined in the mid-1990s by the British Library team, and the resulting records were made available in the RLIN file from 1994.” (Norman). “In 1992, IESTC approved a further extension of the file to include serial publications. The USA team began work in 1994 on the cataloguing of serials within the scope of ESTC” (Norman). 
+
+Concurrently with the development of the ESTC, Wing’s seventeenth-century STC was undergoing redevelopment into a second edition, overseen by Katharine Pantzer. The second edition of Wing’s STC was published in two volumes in 1976 and 1986, followed by a set of exhaustive indexes in 1991. This second edition “represented a vast development of the original” (Vander Meulen 268), incorporating thousands of new entries, expanding the titles, and adding explanatory notes and headnotes. Its completion in 1991 also marked the end of the ability of its publisher and sponsor, the Bibliographical Society, to support it (Vander Meulen 269). “Accordingly, in 1999 the Society made an agreement with ESTC whereby the latter... would assume official responsibility for receiving new STC data” (Vander Meulen 270). The ESTC continued to research new entries and improve existing ones, releasing a second edition of the file on CD-ROM in 1998 and a third edition in 2003 (Norman).
+
+In 2006, almost thirty years after the commencement of the project, the ESTC underwent another major shift: the database was made publicly available to be searched for free online. This inspired more rhapsodizing, this time from Tabor: “The freeing of ESTC ... now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” (367). At the same time, the ESTC began a project “to provide full title and imprint transcriptions for the eighteenth-century records” (Tabor 370). Vander Meulen says that “The history of ESTC is in fact the record of steady developments. Some have been conspicuous---for instance, the physical progression from a printed prototype to microfiche, CD, online access via the vendors Blaise Line and RLIN, and universal online availability through the British Library.” (Vander Meulen 270) Many more have been less visible, in constant improvements to the accuracy and detail of the records. In 2011, the Center for Bibliographical Studies and Research at the University of California Riverside was awarded a planning grant from the Andrew W. Mellon Foundation to “redesign the ESTC as a 21st century research tool” (“Planning Grant”)[ add to bibliography], which was followed in 2013 by a larger two-year grant to execute software improvements to the ESTC.
+
+
+
+#### 3.1.1.2.  ECCO timeline history ####  
+
+To understand the history of the ESTC and ECCO, we actually need to begin with another resource: Early English Books Online, or EEBO.
+
+
+
+“EEBO’s relationship with the original STC and Wing is straightforward and clear; EEBO’s relationship with electronic ESTC, on the other hand, is less well-known.20 A series of agreements made between ESTC and University Microfilms/ProQuest between 1989 and 1997 allowed EEBO to draw directly on ESTC’s existing bibliographical data. Consequently, / every search run on EEBO (with some exceptions) relies, in a fundamental sense, on bibliographical information originally supplied by ESTC -- but not in the form that one might expect. First, EEBO heavily edited ESTC’s data for its own purposes: certain categories of data were removed (e.g. collations, Stationers’ Register entrances), some information was amended (e.g. subject headings), and some was added (e.g. microfilm- specific details). Second, there is no formal mechanism for synchronising the data between the two resources. Occasionally, snapshots of data are sent by EEBO to ESTC but there is no guarantee that a correction or revision made to an ESTC entry will be replicated in the corresponding EEBO entry or vice versa: neither ESTC nor EEBO will necessarily know when the other has made a correction. As both resources continue to amend and expand their bibliographical data for their own purposes, there is an increasing likelihood of significant discrepancy between the two resources. Finally, although EEBO continues to microfilm and digitise, there is no absolute one-to-one correspondence between the pre-1701 entries in ESTC and the materials on EEBO; there are -- and will always be -- items on ESTC not available on EEBO.” (Gadd 685-6)  
+
+Began as Research Publications, Inc in 1981, which began the Eighteenth Century Collection in 1983. Their rival was University Microfilms. RP became Thomson Gale, now Gale Cengage. UM became ProQuest.
+
+
+
+By 1997, Research Publications, Inc had become Primary Source Media. (LOC http://id.loc.gov/authorities/names/n98069963.html) In September 1998, “the Thomson Corporation \[merged\] three of its electronic and reference publishing subsidiaries---Gale Research, Information Access Company (IAC), and Primary Source Media---into a new company called The Gale Group.” (http://newsbreaks.infotoday.com/NewsBreaks/Thomson-Merges-Gale-IAC-Primary-Source-Media-into-The-Gale-Group-17999.asp)  
+
+*1983 Eighteenth Century Collection* microfilm begins to be produced by Research Publications, Inc
+
+
+
+EEBO: “unlike scholarly facsimile editions, the selection process for microfilming was often arbitrary. Copies were selected primarily by reference to the copies listed in STC and Wing, with particular preference for certain major collections; they were not selected because they were considered representative of a particular edition. By bringing together the bibliographical record for an edition and (usually but not always) only a single witness of that edition,22 EEBO is obviously aiming to provide a useful scholarly mechanism in terms of searching but by doing so are implying -- albeit not deliberately -- that the record and the copy *are* *one and the same thing*. It would be better, perhaps, if EEBO represented itself as a library of copies, rather than a catalogue of ‘titles’.” (Gadd 687)
+
+
+
+EEBO: “in digitising the microfilms in their original forms, EEBO decided (presumably for commercial reasons rather than purely scholarly ones) against sanitising the images. Openings are retained rather than broken into single pages; images are not cropped; rulers, place-holders, and descriptive notes are left in place; blank leaves are not removed. While Kichuk’s concern about ‘remediation’ is a real one, it is difficult to use EEBO for any length of time without being reminded that these are reproductions of actual objects.” (Gadd 688)  
+
+ECCO, as a distinct resource, is a historic latecomer compared to EEBO. The initial microfilms were created in \[???\] by \[???\]. In 2003, Thomson Gale began making digital copies of the Eighteenth Century Collection microfilms available to subscribers online. The digital images were made from the microfilm masters, which were 400 dpi, and thus higher resolution than the microfilm copies. 
+
+
+
+“the move from microfilms to the Internet has meant easier searching, easier physical access, easier manipulation of the images, clearer images and (for the UK at least) cheaper institutional access” (Gadd 685).
+
+
+
+“However, the path to digitization was not ideal: these documents were imaged in the late 1970s, transformed into microfilm during the 1980s, and the microfilms digitized in the 1990s. Because of the state of reproductive technologies during the late 20th century, as well as the circuitous path to digitization (through microfilm), the image quality is very poor and bitonal, with no greyscale / images available. Furthermore, the original documents themselves, printed with premodern technologies, pose problems even for human readers of their pages, but much more so for optical character recognition (OCR) engines. For example, printed characters were not perfectly situated on a baseline, blackletter fonts were used, ink bled through the paper, and the typeface was broken and overworn.” (Christy et al. 1-2)
+
+Reference “deep fried memes” --- xkcd comic: <https://xkcd.com/1683/>
+
+
+
+The microfilms were scanned at 300 dpi (Spedding 440).  
+
+“Part I includes 135,000 printed works, comprising more than 26 million scanned facsimile pages.” (Gale, “Part I”) “From books and directories to bibles and sheet music to sermons and pamphlets, Eighteenth Century Collections Online, Part II features a variety of materials to provide a critical tool for both faculty research and classroom use. With more than fifty thousand new titles of previously unavailable or inaccessible materials, Eighteenth Century Collections Online, Part II is an essential addition for current owners of Part I.” (Gale, Part II). Each part (sold separately) also describes itself in breathless language assuring users of the comprehensiveness and breadth of the resource --- even as its existence in two parts belies this.
+
+
+
+“Although "Eighteenth Century Collections Online, Part 2 adds six million pages that include previously unavailable or inaccessible titles," the latest promotional leaflet claims a total of "26 million pages of text" for ECCO - instead of 32 million - which is the same total that appeared in the original promotional leaflet for what is now understood to be ECCO Part 1. See "About Gale Digital Collections," accessed 1 March 2009, http://www.gale.cengage.com/DigitalCollections/; Eighteenth Century Collections Online (2008), accessed 1 March 2009 http://www.gale.cengage.com/pdf/facts/ECCO.pdf; and "Eighteenth Century Collections Online: The eighteenth century's most important revolution has just begun" (2005”) (Spedding 450)   
+
+In late 2019, Gale began allowing access to a new interface, the Gale Digital Scholar Lab, which dramatically changed the forms of access available for ECCO texts. It became possible not only to see the underlying OCR for texts, but to run pre-built text mining on it, and to download the OCR as text files. The only limit to downloading is that only 10,000 texts may be downloaded at a time, but as long as the desired corpus can be defined as “collections” in chunks of 10,000 or less, any number of files can be downloaded. In a particularly dramatic departure from ECCO’s past practice and current norms, I was told that there were also no restrictions on sharing the downloaded files, even though downloading them in the first place required a library subscription.
+
+
+
+#### 3.1.1.3.  TCP timeline history ####  
+
+“The Text Creation Partnership started, in 1999, as a collaboration between the university libraries of Michigan and Oxford, the Council on Library and Information Resources, and the publisher of Early English Books Online, Proquest. The aim was to create high quality ‘standardized, digitally-encoded electronic text editions’ starting with 25,000 titles from Early English Books Online.” (Gregg n. pag.)
+
+“The Text Creation Partnership was conceived in 1999 between the University of Michigan Library, Bodleian Libraries at the University of Oxford, ProQuest, and the Council on Library and Information Resources as an innovative way for libraries around the world to:
+
+* pool their resources in order to create full-text resources few could afford individually
+
+* create texts to a common standard suitable for search, display, navigation, and reuse
+
+* collaborate with commercial providers, rather than constantly bargaining and competing with them” (TCP “Welcome”)
+
+Those four named organizers --- Michigan, Oxford, ProQuest, and CLIR --- are the tip of the iceberg for institutional buy-in. At “Our scholarly partners,” TCP lists *two hundred* institutions which were involved in at least one of EEBO-TCP Phase I, EEBO-TCP Phase II, ECCO-TCP, Evans-TCP, many of which were involved in multiple of these projects. “This list does not include higher-education institutions based in the UK, all of which are counted as EEBO Phase 2 partners thanks to consortial funding” (TCP “Our scholarly partners”). The “FAQ” page still shows traces of the enormity of this undertaking. One question reveals that each partner library committed $60,000 to the venture, an amount which funds the keying and conversion of only around 250-300 books --- a large number, but a drop in the bucket compared to the approximately 73,000 books which the TCP as a whole has encoded.
+
+A ten-person working group developed an encoding standard. The University of Michigan Library staff developed instructions to use this encoding standard. And then the text creation began. “Texts were selected each month at Michigan, page-images were supplied by ProQuest, marked-up transcriptions were submitted by the vendors, and quality control and editing undertaken at U-M Library and soon also at Bodleian Libraries in Oxford and subsidiary sites at the National Library of Wales, Aberystwyth, and at the University of Toronto.” (TCP “About”)
+
+  
+
+“EEBO-TCP met its goal of producing 25,000 books in 2009 (thereafter known as “EEBO-TCP Phase 1”), and then undertook work on a second phase to convert the first edition of each remaining unique monographic work in EEBO---another 40,000 or so books, for a total of around 70,000, if all hopes were realized.” (TCP “About”)
+
+“In 2005, the TCP executive board and staff sought to expand the TCP model to other databases of historical books, namely, Gale Cengage’s Eighteenth-Century Collections Online (ECCO) and Newsbank Readex’s Evans Early American Imprints (Evans-TCP). These projects never received quite the support attracted by EEBO-TCP, and in the end produced only about 8,000 texts, compared to the 60,000 produced by the latter, with another few thousand on the way.” (TCP “About”)
+
+As early as 2003, the TCP executive board meeting minutes reported that “Michigan has made agreements with Gale and Readex to support conversion of subsets of the Eighteenth Century and Evans Early American materials which will allow us to create a cross-searchable corpus of important historical texts ... The University of Michigan has reached agreements to create a subset of accurately keyed and encoded texts in conjunction with these projects, and aims to produce 6,000 early American and 10,000 18th century texts. In the near term, this will not affect production of EEBO texts because there is adequate capacity to expand beyond existing levels of production. In the long term, this will produce a large number of culturally significant texts, produced to a single standard, that are owned by the library community and complement the EEBO texts for these early historical periods.” (“Meeting Minutes 2003-10-22.”).
+
+In 2004, “Jeff Moyer then updated the Board on its progress with the ECCO product which contains over 26 million pages and 155,000 volumes. To date, they have 60 customers including 6 Canadian and 11 international institutions. They have also done OCR for the ECCO product and are interested in how the TCP text will work and integrate with their OCR.” (“Meeting Minutes 2004-10-21.”).
+
+“In 2005 the project expanded to include Gale-Cengage’s Eighteenth-Century Collections Online (as well as Evans Early American Imprints by Newsbank). However, while the EEBO-TCP project flourishes (with around 40,000 texts transcribed so far), the work on ECCO-TCP stagnated at around 2,000 texts. As well as the main partner institutions of Michigan and Oxford that oess to the eighteenth-century TCP texts, so I’ve listed them below, with a few comments.” (Gregg n. pag.)
+
+By October 2005, “the ECCO-TCP project has commenced with the release of a demo, and TCP sponsored an ECCO selection task force in August. ... Rich Foley reported that ECCO now covers 120 subscribers and a recent purchase from the JISC. The ECCO product has also sold well in Canada this past year. Rich also reported (relating to a question on Metadata) the release of a My Library product which is opening up access to their metadata at Gale and that he was interested in further doing case studies on how ECCO is used in research and in the classroom.” (“Meeting Minutes 2005-10-20.”)
+
+In 2006, ECCO-TCP was struggling compared to the other TCP products. “Rich Foley reported that ECCO is one of the biggest products at Gale with eighty to ninety ARLs subscribing as well as small institutions. He also said that a focus at Gale was to work on more tools to facilitate undergraduate teaching of their products. ... Mark Sandler reported that the TCP budget shows mostly positive balances through 2007. The exception to that is ECCO but because it is still so early in the project, it seems likely that TCP will overcome those problems within the next few months. Nonetheless, the TCP project in EEBO, Evans, and ECCO face potential budget deficits in fiscal year 2008.” At this time, the TCP began to think about the end of the project: “the TCP should set a date to close the partnership (likely around 2010 given current commitments,” partly to address financial solvency. (“Meeting Minutes 2006-09-16”).
+
+In 2007, all three TCP project reported successful sales, though ECCO’s news was the most vague: “Brandon Nordin also reported good news from Gale and along with Mary Sauer-Games announced that the EEBO and ECCO databases will now be cross-searchable so that users can go to either collection and find records from the other” ( “Meeting Minutes 2007-10-30”). Nonetheless, “Evans-TCP and ECCO-TCP sales have historically (for a variety of reasons, chiefly the presence of OCR text in both projects) been weaker than anticipated” ( “Meeting Minutes 2007-10-30”). And the end loomed nigh: “Currently finances are good through fiscal year 2008. EEBO-TCP is on target to complete 25,000 texts by the end of fiscal year 2008. Evans-TCP is likely, given current finances to complete around 6,000 texts. ECCO-TCP will complete around 1,300 texts. Therefore, the TCP, particularly in EEBO-TCP has been a success meeting most of its goals. Nonetheless, Evans-TCP and ECCO-TCP are still short of their goals of 6,000 and 10,000 texts respectively, and in fiscal year 2009, the TCP overall is facing a deficit of around $400,000 if it does not either reduce its current staff or bring in a large influx of money within the next six months” ( “Meeting Minutes 2007-10-30”). These are the last meeting minutes available online.  
+
+“Begun in 2009, Phase II both shrank and expanded the scope of EEBO TCP.  Selection became more discriminating and focused more on English-language (and Welsh- and Gaelic-language) texts to the exclusion of French and Latin titles, and also set aside the serials (periodicals) as a fit project for another time. But within the constraints of English-language monographic titles, it aspired to something approaching comprehensive treatment: EEBO Phase II planned to convert each and every unique work in Early English Books Online (usually the first edition), or an estimated total of around 45,000 books on top of the 25,000 completed in Phase I. This was an ambitious, and always risky, goal. As it happened, enough institutions joined Phase II to fund the completion of about 40,000 titles, of which about 35,000 have been released to date, the remainder slowly working their way through the production pipeline. (TCP “EEBO”)
+
+“As of 2019, the total number of books available in Phase II came to 34,963, with a further release of several thousand additional titles tentatively scheduled for later in the year.  Short of an infusion of new funding, or the adoption of a new production model, this should bring the active work of the TCP to at least an interim conclusion.” (TCP “EEBO”)
+
+
+
+“Because of these greater challenges facing ECCO-TCP, it is perhaps better described as a proof of concept than as a completed project. With the support of more than 35 libraries, the TCP keyed, encoded, edited, and released 2,473 ECCO-TCP texts. A further tranche of 628 texts was keyed and encoded but never fully proofed or edited. The texts in this group remain useful for many purposes, however, and bring the total of ECCO-TCP texts to over 3,000. In cooperation with Gale Cengage, these texts have been made freely available to the public.” (TCP, “Eighteenth Century Collections Online (ECCO) TCP”)
+
+
+
+#### 3.1.1.4.  PG timeline history ####  
+
+Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of "normal computing," that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence. This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
+
+“During the fist twenty years, Michael Hart himself keyed in the first hundred books, with the occasional help of others from time to time.” (Lebert)
+
+“when we started, the files had to be very small as a normal 300 page book took one meg of space which no one in 1971 could be expected to have (in general). So doing the U.S. Declaration of Independence (only 5K) seemed the best place to start. This was followed by the Bill of Rights --- then the whole US Constitution, as space was getting large (at least by the standards of 1973). Then came the Bible, as individual books of the Bible were not that large, then Shakespeare (a play at a time), and then into general work in the areas of light and heavy literature and references.” (Hart “History and Philosophy”) “That edition of Shakespeare was never released, due to copyright changes. If Shakespeare's works belong to the public domain, the comments and notes may be copyrighted, depending on the publication date. But other editions belonging to the public domain were posted a few years later.” (Lebert)
+
+“As of 1987 he had typed in a total of 313 books in this fashion. Then, through being involved in the University of Illinois PC User Group and with assistance from Mark Zinzow, a programmer at the school, Hart was able to recruit volunteers and set up an infrastructure of mirror sites and mailing lists for the project. With this the project was able to grow much more rapidly.” (History-Computer)
+
+“When the internet became popular, in the mid-1990s, the project got a boost and an international dimension. Michael still typed and scanned in books, but now coordinated the work of dozens and then hundreds of volunteers in many countries.” (Lebert)
+
+“In August 1989, Project Gutenberg completed its 10th book, The King James Bible, that was first published in 1611, with the standard text dated 1769. In 1990, there were 250,000 internet users, and the standard was 360 K disks. In January 1991, Michael typed in Alice's Adventures in Wonderland, by Lewis Carroll (published in 1865). In July 1991, he typed in Peter Pan, by James M. Barrie (published in 1904).” (Lebert)
+
+1989 is also when Project Gutenberg began to make use of OCR to generate base texts which were then proofread, rather than having the text typed from scratch. (Paywalled WSJ article)
+
+“By the time Project Gutenberg got famous, the standard was 360K disks, so we did books such as Alice in Wonderland or Peter Pan because they could fit on one disk. Now 1.44 is the standard disk and ZIP is the standard compression; the practical filesize is about three million characters, more than long enough for the average book.” (Hart “History and Philosophy”)
+
+“Project Gutenberg gradually got into its stride, with the digitization of one book per month in 1991, two books per month in 1992, four books per month in 1993 and eight books per month in 1994. In January 1994, Project Gutenberg celebrated its 100th book by releasing The Complete Works of William Shakespeare.” (Lebert)
+
+1994, Italian volunteer Pietro Di Miceli developed and administered the first Project Gutenberg website and started the development of the Project online Catalog. (“Credits”)
+
+”The number of electronic books rose from 1,000 (in August 1997) to 5,000 (in April 2002), 10,000 (in October 2003), 15,000 (in January 2005), 20,000 (in December 2006) and 25,000 (in April 2008). ... The steady growth went on, with an average of 8 books per month in 1994, 16 books per month in 1995, and 32 books per month in 1996.” (Lebert) “If 32 years were necessary to digitize the first 10,000 books, between July 1971 and October 2003, 3 years and 2 months were necessary to digitize the following 10,000 books, between October 2003 and December 2006.” (Lebert) “In the first 11 weeks of 2004, Project Gutenberg added 313 new e-books. It took from 1971 to 1997 to produce the first 313 e-books---that's 11 weeks compared to about 26 years.” (Hane)
+
+The books doubled again between 2006 and 2011, from 20,000 (2006) to 40,000 (2011). (Hosch)
+
+The current collection is 60,000 ebooks. This falls short of Hart’s bombastic declaration in 2004 that “We want to grow the collection to 1 million free e-books and distribute them to 1 billion people for a total of 1 quadrillion e-books to be given away by the end of the year 2015.” (Hane)  
+
+“A fast growth thanks to Distributed Proofreaders, a website launched in October 2000 by Charles Franks to share the proofreading of books between many volunteers. Volunteers choose one of the books listed on the site and proofread a given page. They don't have any quota to fulfill, but it is recommended they do a page per day if possible. It doesn't seem much, but with hundreds of volunteers it really adds up.” (Lebert)
+
+“In 2002 Distributed Proofreaders became part of Project Gutenberg.” (Hosch) “By 2009 roughly half of all Project Gutenberg books had been handled by using Distributed Proofreaders.” (Hosch)
+
+“As of 2018, the 36,000+ DP-contributed books comprised almost two-thirds of the nearly 60,000 books in Project Gutenberg.” (Wikipedia)  
+
+Because the texts are available without restrictions, a number of \[spin-off\] websites exist, some of which extend PG’s mission and some of which are slightly exploitative. On the most purely beneficial side are website “mirrors,” which duplicate the contents of the website in order to distribute the costs of hosting and to make sure that the texts remain accessible even if the “primary” Project Gutenberg website goes down. Also in keeping with Project Gutenberg’s core mission are projects which take the very plain text of PG works and make them more appealing or accessible in different formats. LibriVox, for example, is a similarly volunteer-driven effort which produces audiobooks of public domain works. Many organizations produce polished ebooks of PG works, and offer them for sale or for free in individual ebook reader libraries such as the Apple iBooks store or the Kindle store.
+
+“In 2004 Project Gutenberg Europe and Distributed Proofreaders Europe were formed to facilitate the process of adding more non-English works.” (Hosch)  
+
+All directly quoted from “Partners, Affiliates and Resources”
+
+
+
+
+
+
+
+2	Sister Projects
+
+2.1	Project Gutenberg of Australia
+
+2.2	Project Gutenberg of Canada
+
+2.3	Projekt Gutenberg DE
+
+2.4	Project Gutenberg Europe
+
+2.5	Project Gutenberg Self Publishing Portal
+
+2.6	Projekt Runeberg
+
+2.7	ReadingRoo.ms
+
+
+
+3	Affiliates
+
+3.1	ClassicalArchives.com
+
+3.2	The Internet Archive
+
+3.3	Librivox.org
+
+3.4	LiteralSystems
+
+3.5	ManyBooks.net
+
+3.6	The Online Books Page
+
+3.7	Outernet
+
+3.8	RocketReader.com
+
+3.9	Wattpad
+
+
+
+4	Links to locations that provide software, tools, or Project Gutenberg eBooks in different formats
+
+4.1	Andrew Sly's List of Canadiana in Project Gutenberg
+
+4.2	Breeno.org
+
+4.3	The Early Canadiana Online Project
+
+4.4	GutenMark
+
+4.5	Mobipocket
+
+4.6	MobileRead
+
+4.7	Noveltrove
+
+4.8	thefifthimperium.com
+
+4.9	Wikibooks  
+
+“PG has been giving away CDs and DVDs; a volunteer mails them out for free on request.” (Hane)
+
+
+
+Wikipedia: ”In August 2003, Project Gutenberg created a CD containing approximately 600 of the "best" e-books from the collection. The CD is available for download as an ISO image. When users are unable to download the CD, they can request to have a copy sent to them, free of charge.
+
+In December 2003, a DVD was created containing nearly 10,000 items. At the time, this represented almost the entire collection. In early 2004, the DVD also became available by mail.
+
+In July 2007, a new edition of the DVD was released containing over 17,000 books, and in April 2010, a dual-layer DVD was released, containing nearly 30,000 items.
+
+The majority of the DVDs, and all of the CDs mailed by the project, were recorded on recordable media by volunteers. However, the new dual layer DVDs were manufactured, as it proved more economical than having volunteers burn them. As of October 2010, the project has mailed approximately 40,000 discs. As of 2017, the delivery of free CDs has been discontinued, though the ISO image is still available for download.”
+
+Full info at “The CD and DVD Project”  
+
+In 2000, Distributed Proofreaders was founded. Also “In 2000, a non-profit corporation, the Project Gutenberg Literary Archive Foundation, Inc. was chartered in Mississippi, United States to handle the project's legal needs. Donations to it are tax-deductible. Long-time Project Gutenberg volunteer Gregory Newby became the foundation's first CEO.” (Wikipedia)
+
+
+
+At some point Carnegie Mellon University agreed to administer the project’s finances.
+
+It’s currently hosted by ibiblio at UNC Chapel Hill.
+
+
+
+Current partners: “- Distributed Proofreaders. DP allows people to share in the tasks of proofreading, verifying and formatting eBooks for Project Gutenberg.
+
+\- iBiblio, the public's library. IBiblio is our main eBook distribution site, holds our Web pages, and offers a variety of supporting services.
+
+\- Project Gutenberg Consortia Center: Project Gutenberg Consortia Center (PGCC). Collections of collections, with numerous languages and formats. Sponsored by the World eBook Library. Host of the self.gutenberg.org self-publishing portal.” (“Partners, Affiliates and Resources”)  
+
+In 2004, there was some discussion of spinning off a PGII with the World eBook Library. “The co-founders say that PG 2 came from the need to include existing e-book collections, such as those found in schools, universities, and professional and religious organizations. Many such e-books do not fall into the acceptable criteria of Project Gutenberg. "For those books, PG 2 was created to find a home. PG 2 is a consortium of collections. Our vision is to create an additional portal where a broader variety of intellectual objects may be accessed.”” (Hane)
+
+Did this go anywhere?
+
+
+
+It also brought to light the fact that Hart himself had the trademark for PG, rather than the nonprofit. When did that change?
+
+
+
+#### 3.1.1.5.  GB timeline history ####
+
+
+
+“...one can certainly argue that the project is as old as Google itself. In 1996, Google co-founders Sergey Brin and Larry Page were graduate computer science students working on a research project supported by the Stanford Digital Library Technologies Project. Their goal was to make digital libraries work, and their big idea was as follows: in a future world in which vast collections of books are digitized, people would use a “web crawler” to index the books’ content and analyze the connections between them, determining any given book’s relevance and usefulness by tracking the number and quality of citations from other books. The crawler they wound up building was called BackRub, and it was this modern twist on traditional citation analysis that inspired Google’s PageRank algorithms -- the core search technology that makes Google, well, Google.” (“Google Books History”)
+
+
+
+2002: “A small group of Googlers officially launches the secret “books” project. They begin talking to experts about the challenges ahead, starting with a simple but crucial question: how long would it take to digitally scan every book in the world? It turns out, oddly enough, that no one knows. In typical Google fashion, Larry Page decides to experiment on his own. In the office one day, he and Marissa Mayer, one of our first product managers, use a metronome to keep rhythm as they methodically turn the pages of a 300-page volume. It takes a full 40 minutes to reach the end. Inspired by the extraordinary digitization projects underway all around the world -- the Library of Congress’s American Memory project, Project Gutenberg, the Million Book Project and the Universal Library, to name only a few -- the team embarks on a series of site visits to learn about how they work. As part of this fact-finding mission, Larry Page reaches out to the University of Michigan, his alma mater and a pioneer in library digitization efforts including JSTOR and Making of America. When he learns that the current estimate for scanning the university library’s seven million volumes is 1,000 years, he tells university president Mary Sue Coleman he believes Google can help make it happen in six.” (“Google Books History,” 2016)
+
+
+
+2003: The team works to develop a high-speed scanning process --- “A team member travels to a charity book fair in Phoenix, Arizona, to acquire books for testing non-destructive scanning techniques. After countless rounds of experimentation, the team develops a scanning method that’s much gentler than current common high-speed processes. ... At the same time, the team’s software engineers make progress toward resolving the tricky technical issues they encounter processing information from books that contain odd type sizes, unusual fonts or other unexpected peculiarities -- in 430 different languages.” (“Google Books History,” 2016)
+
+
+
+2004: formal partnership with Bodleian library “to digitize the library’s incomparable collection of more than one million 19th-century public domain books within three years.” (“Google Books History,” 2016)
+
+“In October, Larry and Sergey announce “Google Print” at the Frankfurt Book Fair in Germany. The first publishers to join the program: Blackwell, Cambridge University Press, the University of Chicago Press, Houghton Mifflin, Hyperion, McGraw-Hill, Oxford University Press, Pearson, Penguin, Perseus, Princeton University Press, Springer, Taylor & Francis, Thomson Delmar and Warner Books. In December, we announce the beginning of the “Google Print” Library Project, made possible by partnerships with Harvard, the University of Michigan, the New York Public Library, Oxford and Stanford. The combined collections at these extraordinary libraries are estimated to exceed 15 million volumes.” (“Google Books History,” 2016)
+
+
+
+“Every weekday, semi trucks full of books would pull up at designated Google scanning centers. ... The books were unloaded from the trucks onto the kind of carts you find in libraries and wheeled up to human operators sitting at one of a few dozen brightly lit scanning stations, arranged in rows about six to eight feet apart. ... Each one could digitize books at a rate of 1,000 pages per hour. The book would lie in a specially designed motorized cradle that would adjust to the spine, locking it in place. Above, there was an array of lights and at least $1,000 worth of optics, including four cameras, two pointed at each half of the book, and a range-finding LIDAR that overlaid a three-dimensional laser grid on the book’s surface to capture the curvature of the paper. ... What made the system so efficient is that it left so much of the work to software. Rather than make sure that each page was aligned perfectly, and flattened, before taking a photo, which was a major source of delays in traditional book-scanning systems, cruder images of curved pages were fed to de-warping algorithms, which used the LIDAR data along with some clever mathematics to artificially bend the text back into straight lines. At its peak, the project involved about 50 full-time software engineers.” (Somers)
+
+
+
+2005: “In keeping with our mission to organize the world’s information and make it universally accessible and useful, we donate $3 million to the Library of Congress to help build the World Digital Library, which will provide online access to a collection of rare and unique items from all around the world. We also extend our pilot scanning program with the Library, which includes digitizing works of historical value from the Library of Congress Law Library. Google renames “Google Print” Google Books, which more accurately reflects how people use it. The team also responds to the controversy over the Library Project by engaging in public debate about its underlying principles.” (“Google Books History,” 2016)
+
+Public debate: <https://web.archive.org/web/20160204071159/https://googleblog.blogspot.com/2005/10/point-of-google-print.html>
+
+
+
+2006: “We launch a series of product enhancements to make Book Search more useful and easier to use. First, we expand access to the public domain works we’ve scanned by adding a download a PDF button to all out-of-copyright books. A few months later, we release a new browsing interface that makes it easier to browse and navigate Book Search. The new interface is also accompanied by new About this Book pages which use Google algorithms to populate pages with rich related content on a book -- initially, related books, selected pages and references from scholarly works. In the fall, four new libraries join the Library Project: the University of California, University Complutense of Madrid, the University of Wisconsin- Madison and the University of Virginia.” (“Google Books History,” 2016)
+
+
+
+2007: “Using the new UI as a launching point, we experiment with new ways for people to interact with books.
+
+Places in this Book: A mashup with Maps lets people browse books by locations mentioned in the text (later, we release an experimental KML layer for Google Earth that does the reverse -- the user picks a location, and we map books to it).
+
+Popular Passages: We create a new way to navigate between books, tracking the use of a single passage through a collection of books.
+
+My Library: We help people harness the power of Google search within their own personal book collections. Users begin to curate and share their personal libraries, reviews and ratings with others.
+
+New homepage (initially US only): We give people more jumping off points for exploring the books in our index.
+
+... we add a “View plain text” link to all out-of-copyright books. T.V. Raman explains how this opens the book to adaptive technologies such as screen readers and Braille display” (“Google Books History,” 2016)
+
+“By December, the Book Search interface is available in over 35 languages, from Japanese to Czech to Finnish.  Over 10,000 publishers and authors from 100+ countries are participating in the Book Search Partner Program.” (“Google Books History,” 2016)
+
+“In May, the Cantonal and University Library of Lausanne, and Ghent University Library join the Book Search program, adding a substantial amount of books in French, German, Flemish, Latin and other languages, and bringing the total number of European libraries partners to six. ...  Over 10,000 publishers and authors from 100+ countries are participating in the Book Search Partner Program.  The Library Project expands to 28 partners, including seven international library partners: Oxford University (UK), University of Complutense of Madrid (Spain), the National Library of Catalonia (Spain), University Library of Lausanne (Switzerland), Ghent University (Belgium) and Keio University (Japan).”(“Google Books History,” 2016)
+
+
+
+2008, the year when Google 
+
+
+
+The “Google Books History” page ends with 2007, with the final words of “As we look to the year ahead, we continue to develop our technology and expand our partnerships with publishers and libraries all around the world. Stay tuned...” but the page spent more than a decade with no further updates. Some time between August 2019 and March 2020, the page was edited so that it no longer had a year-by-year breakdown of milestones. Now, after briefly telling the anecdote about the 1996 origin of Google Books, the “history” says ”Fast forward to today:
+
+After more than a decade of evolution, innovation and strong partnerships, Google Books has helped to make more than 40 million books discoverable, in more than 400 languages.
+
+And we're not done -- not until all of the books in the world can be found by everyone, everywhere, at any time they need them.” (“Google Books History,” 2020)
+
+
+
+2008, the year that Google stops being quite so proud of the rapid progress of Google Books, is also the year that they begin to face legal repercussions for their “scan first and ask questions later” approach to mass digitization. Somers has characterized this process as equivalent to the burning of the library of Alexandria: “When the most significant humanities project of our time was dismantled in court, the scholars, archivists, and librarians who’d had a hand in its undoing breathed a sigh of relief, for they believed, at the time, that they had narrowly averted disaster” (Somers).
+
+
+
+Wikipedia: “May 2008: Microsoft tapered off and planned to end its scanning project, which had reached 750,000 books and 80 million journal articles.\[92\]
+
+Wikipedia: “October 2008: A settlement was reached between the publishing industry and Google after two years of negotiation. Google agreed to compensate authors and publishers in exchange for the right to make millions of books available to the public.\[9\]\[93\]
+
+Wikipedia: “November 2008: Google reached the 7 million book mark for items scanned by Google and by their publishing partners. 1 million were in full preview mode and 1 million were fully viewable and downloadable public domain works. About five million were out of print.\[18\]\[94\]\[95\]
+
+Wikipedia: “December 2008: Google announced the inclusion of magazines in Google Books. Titles include New York Magazine, Ebony, and Popular Mechanics\[96\]\[97\]
+
+Wikipedia: “February 2009: Google launched a mobile version of Google Book Search, allowing iPhone and Android phone users to read over 1.5 million public domain works in the US (and over 500,000 outside the US) using a mobile browser. Instead of page images, the plain text of the book is displayed.\[98\]
+
+Wikipedia: “May 2009: At the annual BookExpo convention in New York, Google signaled its intent to introduce a program that would enable publishers to sell digital versions of their newest books direct to consumers through Google.\[99\]
+
+Wikipedia: “December 2009: A French court shut down the scanning of copyrighted books published in France, saying this violated copyright laws. It was the first major legal loss for the scanning project.\[100\]
+
+Wikipedia: “April 2010: Visual artists were not included in the previous lawsuit and settlement, are the plaintiff groups in another lawsuit, and say they intend to bring more than just Google Books under scrutiny. "The new class action," read the statement, "goes beyond Google's Library Project, and includes Google's other systematic and pervasive infringements of the rights of photographers, illustrators and other visual artists."\[101\]
+
+Wikipedia: “May 2010: It was reported that Google would launch a digital book store called Google Editions.\[102\] It would compete with Amazon, Barnes & Noble, Apple and other electronic book retailers with its own e-book store. Unlike others, Google Editions would be completely online and would not require a specific device (such as kindle, Nook, or iPad).
+
+Wikipedia: “June 2010: Google passed 12 million books scanned.\[12\]
+
+Wikipedia: “August 2010: It was announced that Google intends to scan all known existing 129,864,880 books within a decade, amounting to over 4 billion digital pages and 2 trillion words in total.\[12\]
+
+Wikipedia: “December 2010: Google eBooks (Google Editions) was launched in the US.\[103\]
+
+Wikipedia: “December 2010: Google launched the Ngram Viewer, which collects and graphs data on word usage across its book collection.\[31\]
+
+Wikipedia: “March 2011: A federal judge rejected the settlement reached between the publishing industry and Google.\[104\]
+
+
+
+“At a time when the rest of Google was obsessed with making apps more “social”---Google Plus was released in 2011---Books was seen by those who worked on it as one of those projects from the old era, like Search itself, that made good on the company’s mission “to organize the world’s information and make it universally accessible and useful.” It was the first project that Google ever called a “moonshot.”” (Somers)
+
+
+
+Wikipedia: “March 2012: Google passed 20 million books scanned.\[105\]\[106\]
+
+Wikipedia: “March 2012: Google reached a settlement with publishers.\[107\]
+
+Wikipedia: “November 2013: Ruling in Authors Guild v. Google, US District Judge Denny Chin sides with Google, citing fair use.\[109\] The authors said they would appeal.\[110\]
+
+Wikipedia: “October 2015: The appeals court sided with Google, declaring that Google did not violate copyright law.\[111\] According to the New York Times, Google has scanned more than 25 million books.\[10\]
+
+Wikipedia: “April 2016: The US Supreme Court declined to hear the Authors Guild's appeal, which means the lower court's decision stood, and Google would be allowed to scan library books and display snippets in search results without violating the law.\[112\]” (Wikipedia)
+
+
+
+Wikipedia: “As of October 2015, the number of scanned book titles was over 25 million, but the scanning process has slowed down in American academic libraries.\[10\]\[11\] As of October 2019, Google celebrated 15 years of Google Books and provided the number of scanned books as more than 40 million titles.\[14\]”
+
+
+
+Wikipedia: “Google has been quite secretive regarding its plans on the future of the Google Books project. Scanning operations had been slowing down since at least 2012, as confirmed by the librarians at several of Google's partner institutions. At University of Wisconsin, the speed had reduced to less than half of what it was in 2006. However, the librarians have said that the dwindling pace could be a natural result of maturation of the project -- initially stacks of books were entirely taken up for scanning whereas now Google only needed to consider the ones that have not been scanned already.\[49\] The company's own Google Books history page ends in 2007, and the Google Books blog was merged into the Google Search blog in 2012.\[113\] Despite winning the decade-long litigation in 2017, The Atlantic has said that Google has "all but shut down its scanning operation."\[20\] In April 2017, Wired reported that there were only a few Google employees working on the project, and new books were still being scanned, but at a significantly lower rate. It commented that the decade-long legal battle had caused Google to lose its ambition.\[113\]”
+
+
+
+Material is still being sent to Google Books for scanning, however. In November 2019, University of Colorado Boulder announced that their library would be partnering with Google for books to be scanned, with copies appearing both in Google Books and in HathiTrust. (“Increasing Access with Google Books”)
+
+“In total, the process is estimated to take two to four years to complete. With this estimation, Interim Director of Libraries Information Technology Michael Dulock approximated that if Google processed 200,000 books and each book was about 200 pages, this project will save the Libraries about $20 million. 
+
+Another way to measure savings for the Libraries is with time. Dulock said that if Digital Media Services in the Libraries worked on this project full-time, with one staff member at 40 hours a week and five students at 20 hours a week, doing nothing else, it would take close to 100 years to complete.” (“Increasing Access with Google Books”)
+
+
+
+#### 3.1.1.6.  Hathi timeline history ####
+
+
+
+“The vast majority of those digitized books-around 95 percent, as of mid-2017- had originally been scanned as part of the Google Books project; the agreements that Google Books entered into with the libraries typically stipulated that Google had to provide the library with a digital copy of each book scanned from that library.” (Bauder)
+
+“When Google partnered with university libraries to scan their collections, it had agreed to give them each a copy of the scanning data, and in 2008 the HathiTrust began organizing and sharing those files. (It had to fend off the Authors Guild in court, too.) HathiTrust has 125 member organizations and institutions who “believe that we can better stewardresearch and cultural heritage by working together than alone or by leaving it to an organization like Google,” says Mike Furlough, the trust’s director.” (Van Helden)
+
+”HathiTrust was launched in 2008 by the 11 University of California libraries and the 12-university consortium known as the Committee on Institutional Cooperation (CIC), with key support provided by the University of Michigan and Indiana University.” (Karels) “As of today \[October 13, 2008\], HathiTrust contains more than 2 million volumes and approximately ¾ of a billion pages, about 16 percent of which are in the public domain. Public domain materials will be available for reading online. Materials protected by copyright, although not available for reading online, are given the full range of digital archiving services, thereby offering member libraries a reliable means to preserve their collections.” (HathiTrust, “Major Library Partners Launch HathiTrust Shared Digital Repository”)
+
+In 2010, just two years later, ”HathiTrust is now jointly owned and operated by 52 institutions from the U.S. and Europe, all focused on a common goal -- to build an extraordinary digital library that preserves and provides access to the cultural record. The new members to HathiTrust include the Library of Congress, Stanford University, Arizona State University, Massachusetts Institute of Technology, and University of Madrid, HathiTrust’s first international partner.” (Karels)
+
+”In October 2015, HathiTrust comprised over 13.7 million volumes, including 5.3 million of which were in the public domain in the United States.” (Wikipedia)
+
+
+
+“HathiTrust, as a co-managed and co-funded collaborative of academic and research libraries, relies on its members to govern its programmatic, financial, and strategic directions. Membership established the governance model in 2012 and comprises the following entities: 
+
+The Board of Governors
+
+The Program Steering Committee
+
+The governing bodies operate under the HathiTrust Bylaws. In addition to the formal governing bodies, multiple working, advisory, and task-based groups further enable member libraries to participate in and guide the direction of HathiTrust. As necessary, members vote on various policies or changes using the weighted voting system established in 2011.” (HathiTrust, “Governance”)
+
+
+
+“The budget of HathiTrust is a separately maintained budget held within the University of Michigan budget system and managed by the Executive Director with oversight from the Executive Committee. Some additional financial components of the operation are represented by commitments in kind by participating members. The University Library’s financial procedures are subject to audits by the University of Michigan Office of University Audits.” (HathiTrust, “Governance”)
+
+
+
+Wikipedia: “The partnership includes over 60 research libraries\[7\] across the United States, Canada, and Europe, and is based on a shared governance structure. Costs are shared by the participating libraries and library consortia.\[8\] The repository is administered by the University of Michigan.\[9\] The Executive Director of HathiTrust is Mike Furlough.\[10\] The HathiTrust Shared Print Program is a distributed collective collection whose participating libraries have committed to retaining almost 18 million monograph volumes for 25 years, representing three-quarters of HathiTrust digital book holdings.\[11\]”
+
+
+
+#### 3.1.1.7.  synthesizing histories ####  
+
+To review all of these events, \<$n#table:databases-timeline\> shows the milestones of all of these databases in chronological order.
+
+
+
+### 3.2.1.  intro ###  
 
 Ian Gadd argues that critiques of digital databases are often not based on the right grounds: “the real risk of scholarly misuse of \[Early English Books Online\] is less to do with the physical features of early printed books that it fails, one way or another, to represent (problematic though these are) and more to do with a lack of an informed knowledge of what exactly EEBO *is*.” (Gadd 682) The observation applies far beyond EEBO: although it is easiest to critique digital resources for their failures to perfectly replicate the full tactile experience of the books they simulate, or for failing to contain every possible book, those critiques are fundamentally futile. \[What other critiques are possible?\] This chapter examines the history, textual selection, and implicit model of six databases: the ESTC, ECCO, ECCO-TCP, Project Gutenberg, Google Books, and HathiTrust. I explore how each database encodes its assumptions about what literature is, who it is for, and how it should be used. I historicize these models in the context of the institutional infrastructure behind the creation of each resource, particularly the economic factors driving development. I argue that the differences between each database’s literary model are best understood as the result of different strategies to navigate conflict between commercial and anti-commercial values. In parallel, I follow Charlotte Smith through each of these databases, to explore the impact of their different literary models. Very different works by Smith are available in each resource, and in very different formats. Smith’s most major works are not readily available, suggesting that these literary archives lag behind scholarly consensus about her importance. The chapter concludes with a discussion of new developments in Optical Character Recognition (OCR) technology, which can be used to transcribe texts from page images. \[OCR BLUF.\]
 
@@ -909,31 +955,7 @@ Ian Gadd argues that critiques of digital databases are often not based on the r
 
 
 
-## 3.2.  Smith in databases ##  
-
-For the purposes of this chapter, I examine Smith’s works which fall outside this dissertation’s decade of interest. As Table 1 shows, Smith’s publishing career began in 1784 and continued until her death in 1806; when I refer to Smith’s “full” output, I consider all 47 editions of her works published in her lifetime or in the year immediately following her death. Her 1790s output (that is, the editions published 1789-99) consists of 30 of those editions.  I have slightly expanded my chronological focus in part because some of the most interesting exclusions occur earlier and later in Smith’s publishing career, such as the first edition of her immensely influential Elegiac Sonnets (1784), which is listed in the ESTC but not available in facsimile anywhere, or the publications in the last years of her life, which are excluded from the chronological focus of most resources but can still appear in HathiTrust. Of particular interest is the fact that *Beachy Head*, which is now one of Smith’s most frequently anthologized and taught poems, does not appear in a single digital database. None of these inclusions or exclusions represent an agenda against (or for) Smith, or indeed an interpretive choice at all, but they nonetheless shape the disciplinary infrastructure.  
-
-![][CSmith-in-ESTC-ECCO-TCP-Hathi-table]
-
-Table 1: All editions of Charlotte Smith’s works published in England during her lifetime or in the year immediately following her death, and their inclusion in the ESTC, ECCO, ECCO-TCP, and HathiTrust databases.  
-
-Figure 1 shows how Smith’s presence in four major databases has the effect of winnowing down her full output arbitrarily. Even the largest collection, the 42 editions included in the ESTC, is not comprehensive: since the ESTC does not include any works published after 1800, it excludes volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802), three works for children (*Conversations, Introducing Poetry*, 1804; *History of England*, 1806; and *Natural History of Birds*, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, *Beachy Head* (1807). ECCO lacks these five editions for the same reason, and is also missing five others: the first and ninth editions of *Elegiac Sonnets* (1784 and 1800), the second edition of *The Banished Man* (1795), the first edition of *Minor Morals* (1798), and the second edition of *Rambles Farther* (1800[ Why these five?]).
-
-HathiTrust contains 18 of Smith’s 47 editions, though these are not a simple subset of the ESTC and ECCO. Unlike the ESTC and ECCO, HathiTrust contains volumes 4 and 5 of *Letters of a Solitary Wanderer* (1802)[^cf25]. This is the only post-1800 work which appears in HathiTrust, however--- the others are also missing, including the important volume *Beachy Head* (1807). There is one work included in HathiTrust but not in ECCO, the second edition of *The Banished Man* (1795). Whereas ECCO does not include works unless there is a complete copy available, HathiTrust provides scans of volumes 2, 3, and 4, and simply implies through their numbering that there is a missing first volume --- perhaps in the optimism that a volume 1 will appear from another library’s holdings, to complete the set later.[^cf26] The remaining HathiTrust included titles appear in both the ESTC and ECCO, and a further 21 titles appear as facsimiles in ECCO but not in HathiTrust. At first blush it is somewhat surprising that HathiTrust has failed to include works which are, demonstrably, in known locations at institutional libraries, and in physically sound condition to be scanned--- but the scans making up HathiTrust bear no relation to the scans in ECCO. *The Young Philosopher* (1798), for example, appears in ECCO sourced from a British Library copy, but the HathiTrust images are “Google-digitized” from the New York Public Library. Google’s rapacious book-scanning, evidently, was not as thorough as ECCO’s sustained scholarly project.
-
-The smallest subset of all of these texts is the ECCO-TCP holding of just two titles: the second edition of *Celestina* (1791), and the first edition of *The Emigrants* (1793). Both titles appear in all larger databases, including HathiTrust (though, as I will discuss, they arrive in HathiTrust from a different source). *The Emigrants* is included in ECCO-TCP as one file, based on the ECCO facsimile of an original from the Huntington Library. *Celestina* is included as four files, one for each of four volumes, based on the ECCO facsimile of an original from the British Library. Both works were first reproduced in the microfilm version produced 1982-2002 in by Research Publications,[^cf27] then digitized in 2003 (released on ECCO in June 2004), and finally published as TEI XML files in January 2007. The current files have been kept up to date with changes in TEI standards, and were created by converting TCP files to TEI P5 using tcp2tei.xsl. The bibliographic metadata for these works is the same between ESTC, ECCO, and ECCO-TCP records. In HathiTrust, however, the source text for *The Emigrants* is a University of California Library copy, rather than the British Library, scanned by Google Books, and presented with substantially less detailed bibliographic information. The ESTC, ECCO, and ECCO-TCP records for The Emigrants all provide the same physical description “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” with the same note“\[n\]umbers 9-16 omitted in pagination; text is continuous.” HathiTrust, in contrast, gives the physical description “ix, 68 p. ; 26 cm,” which is both more and less information: a quarto volume could be a range of sizes, so HathiTrust provides new detail by giving a measurement in centimetres, but the data on page numbers is now misleading. Consulting the HathiTrust facsimile shows that it, too, omits the page numbers 9-16, going directly from page 8 to page 17 without a break in the poem. HathiTrust also omits information on the three unnumbered pages between the preface and the poem. Evidently, a human did consult the book, to identify a nine-page preface in roman numerals, and the page number on the last page, but they did not carry out a full collation.  
-
-![][CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]
-
-Figure 1: An alluvial chart, showing the winnowing down of Smith’s works from database to database. Of the 47 editions printed in England between 1784 and 1807, 42 are included in the ESTC, and 5 do not appear in the ESTC because they were printed after 1800 and thus fall outside its purview. ECCO contains 37 of Smith’s 47 editions, all of which also appear in the ESTC. ECCO is missing the 5 editions not listed in the ESTC (since it, too, does not contain works past 1800), as well as another 5 works. HathiTrust contains 18 of Smith’s 47 editions, but unlike ECCO, these are not a simple subset of the ESTC. HathiTrust contains one of the 5 editions excluded from the ESTC, and one of the 5 editions included in ESTC but excluded from ECCO. The remaining 16 HathiTrust editions appear in both the ESTC and ECCO. ECCO-TCP includes only 2 of Smith’s 47 editions, both of which appear in every previous database. Graph generated using RAW Graphs (Mauri et al.).  
-
-Only one of Charlotte Smith’s works is available in Project Gutenberg: *Emmeline, the Orphan of the Castle* (first published 1788).  
-
-Searching the ESTC for records which both have “Toronto” in the library name and “Charlotte Turner” in the author name turns up two records: volume one of *Rural Walks* (1795) and *Minor Morals* (1798), both held at the Toronto public library. The Toronto Public Library catalogue has two distinct author identities for “Smith, Charlotte Turner, 1749-1806, author.” and for “Smith, Charlotte, 1749-1806,” and the special collections holdings only appear under the latter name (making them initially difficult to find). Under the “Smith, Charlotte” name, however, six titles printed during Smith’s appear: the two listed in ESTC, plus a complete two-volume copy of *Rural Walks* (1795), the first and second editions of *Rambles Farther* (1796 and 1800), and *Conversations Introducing Poetry* (1804). Of these, *Rural Walks* and both editions of *Rambles Farther* are listed in the ESTC but without records of the Toronto copies. All six titles are part of the Osborne Collection of Early Children's Books. \[This is interesting because it shows how scholarly disciplinary interpretations perpetuate themselves *infrastructurally*: as a Toronto-based scholar, the path is easier for me to study Smith-the-children’s-writer than other Smiths.\]
-
-
-
-## 3.3.  database models ##  
+### 3.2.2.  database models ###  
 
 Mark Merry’s Designing Databases for Historical Research as a rich entrypoint for historians to learn about database construction, in particular the chapter on “Conceptual models of database design” that contrasts “source-oriented” and “method-oriented” models:
 
@@ -949,7 +971,7 @@ Ultimately, historians will need to steer a middle course between the two extrem
 
 
 
-### 3.3.1.  ESTC model ###  
+#### 3.2.2.1.  ESTC model ####  
 
 One reason that it can be informative to close-read the data structures of a resource like the ESTC is that a resource’s categories of knowledge are driven by the *uses* to which it expects that knowledge to be put. Examining the implicit assumptions that will make a given organization of knowledge seem logical, we can work backwards to the purpose of mission of the initial knowledge creation. Thus Tabor describes the data structure and the mission of the ESTC in a single statement: “ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (369). Korshin further elaborates the use envisioned for this information: “the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book in his or her library is the same or different from the one listed in ESTC” (211). Both “edition” and “ideal copy” are terms defined around the interests of a specialist audience of bibliographers, which bear inexact but important relationships to the formulation of an ESTC record.
 
@@ -959,7 +981,7 @@ The “ideal copy,” too, represents an interpretation. Because the ESTC is ess
 
   
 
-So, how do these ideas of the edition and the ideal copy shape the data structures employed in the building of the ESTC? Consulting an individual ESTC record in the online database, as we can see in Figure 2, reveals a lot of information all pointing ‘outside’ of the ESTC itself. It begins with six details which will be present for every title: the “System Number” and “Citation Number” uniquely identifying the record; the author; the title; the publication information; and a physical description. It then displays any uncategorized “notes,” which in the case of *The Emigrants* (1793) consist of two additions to the physical description. \[Add other examples of “general notes”?\] The entry then points ‘outward’ to two “Surrogates”: the microfilm, and the electronic reproduction of the microfilm which is collected in ECCO. A very brief description is made of the work’s content --- its subject is “English poetry --- 18^th^ century” and its genre/form is “Poems” --- which is the only information provided about the *work* rather than the *book*.[ There’s a lot more to be examined re: these subject headings, especially if I do topic modelling for contents.
+So, how do these ideas of the edition and the ideal copy shape the data structures employed in the building of the ESTC? Consulting an individual ESTC record in the online database, as we can see in Figure 3, reveals a lot of information all pointing ‘outside’ of the ESTC itself. It begins with six details which will be present for every title: the “System Number” and “Citation Number” uniquely identifying the record; the author; the title; the publication information; and a physical description. It then displays any uncategorized “notes,” which in the case of *The Emigrants* (1793) consist of two additions to the physical description. \[Add other examples of “general notes”?\] The entry then points ‘outward’ to two “Surrogates”: the microfilm, and the electronic reproduction of the microfilm which is collected in ECCO. A very brief description is made of the work’s content --- its subject is “English poetry --- 18^th^ century” and its genre/form is “Poems” --- which is the only information provided about the *work* rather than the *book*.[ There’s a lot more to be examined re: these subject headings, especially if I do topic modelling for contents.
 
 
 
@@ -971,13 +993,13 @@ How many of my records have subject headings? What is the ESTC’s ontology?] Th
 
 This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf30] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
 
-Figure 2: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
+Figure 3: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
 
 There are several different ways to search ESTC records. The “Search” button takes a user to the “Basic Search” function, from which there are also links to “Advanced Search,” “Browse,” and “Browse Libraries List” (which takes the user to the identical page as “Browse” but with “Library name” pre-selected as the index to browse). Once you have found a work of interest, however, several new forms fo searching become available, implied in the hyperlink formatting: almost any field in the entry can be clicked to reach other matching ESTC entries.
 
 
 
-### 3.3.2.  ECCO model ###
+#### 3.2.2.2.  ECCO model ####
 
 
 
@@ -1007,7 +1029,7 @@ A glowing 2004 review of ECCO in the “Database & Disc Reviews” section of Li
 
 
 
-### 3.3.3.  TCP model ###
+#### 3.2.2.3.  TCP model ####
 
 
 
@@ -1019,7 +1041,7 @@ Although the ECCO-TCP now seems obviously built for text-mining distant reading,
 
 
 
-### 3.3.4.  Hathi model ###
+#### 3.2.2.4.  Hathi model ####
 
 
 
@@ -1033,7 +1055,7 @@ See: <https://search-proquest-com.myaccess.library.utoronto.ca/results/58AF728D9
 
 
 
-### 3.3.5.  PG model ###
+#### 3.2.2.5.  PG model ####
 
 
 
@@ -1051,7 +1073,7 @@ Cite Hammond’s book re: comparing modernists to bestsellers --- he can’t alw
 
 
 
-### 3.3.6.  GB model ###  
+#### 3.2.2.6.  GB model ####  
 
 Google Books prioritizes low-quality information over *no* information. The algorithmic extraction of publication dates from title pages, for example, can never be perfect. But algorithms give their predictions with certainty estimates: if accuracy was a higher priority, Google Books could calibrate the algorithm to simply provide no answer when none of the possibilities cross a given certainty threshold.
 
@@ -1065,7 +1087,7 @@ Per <http://languagelog.ldc.upenn.edu/nll/?p=1701> , they actually OVERWRITE met
 
 
 
-### 3.3.7.  database selection ###  
+#### 3.2.2.7.  database selection ####  
 
 “It has been difficult to consider playbills at scale because they were excluded from the catalogs that form the basis for mass digitization efforts. The absence of playbills from Eighteenth-Century Collections Online (ECCO), as well as from its pre-1700 counterpart Early English Books Online (EEBO), is a result of the decision, as reported by R. C. Alston, not to include them in the English Short Title Catalog (ESTC) on which those collections are built.” (Vareschi and Burkert 600 --- citing R. C. Alston, “The Eighteenth-Century Non-Book: Observations on Printed Ephemera,” in *The Book and the Book Trade in Eighteenth-Century Europe*, ed. Giles Barber and Bernhard Fabian (Hamburg: Dr. Ernst Hauswedell & Co., 1981), 343--60, quote on 344--45.)
 
@@ -1155,7 +1177,7 @@ The first Project Gutenberg texts are almost a parody of important texts: The De
 
 
 
-## 3.4.  OCR ##  
+### 3.2.3.  OCR ###  
 
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
@@ -1209,7 +1231,7 @@ most familiar objects dignity and effect, I could never hope to (ECCO-TCP)
 
 
 
-Figure 3 shows how Juxta highlights the words which vary between these three copies.
+Figure 4 shows how Juxta highlights the words which vary between these three copies.
 
 Both of the OCR copies contain errors in individual letters which render the whole word interpretable by a human but not by text mining software, as in the case of “beavy” for “heavy.” The ECCO copy struggles with the fact that ſ is not an available character, sometimes substituting an f, as in “prefure” for “preſſure.” Both leave out spaces between words, creating new tokens like “isfarfrom” and “andſublimity,” though HathiTrust is less prone to this error.
 
@@ -1235,19 +1257,19 @@ Strikingly, these ‘clean’ texts are now further from legible to human eyes, 
 
 ![][juxta-emigrants-p1]
 
-Figure 3: Juxta’s “Heat Map” visualization of the “base” witness of the first page of *The Emigrants* (i.e., the ECCO-TCP version carefully prepared by scholars), highlighting words which differ in the two witnesses of the ECCO OCR and the normalized HathiTrust OCR. A darker highlight indicates that the word varies in more than one witness.  
+Figure 4: Juxta’s “Heat Map” visualization of the “base” witness of the first page of *The Emigrants* (i.e., the ECCO-TCP version carefully prepared by scholars), highlighting words which differ in the two witnesses of the ECCO OCR and the normalized HathiTrust OCR. A darker highlight indicates that the word varies in more than one witness.  
 
 ![][juxta-emigrants-histogram]
 
-Figure 4: A histogram, produced by Juxta, showing where the two ECCO and normalized HathiTrust witnesses show the most difference from the base ECCO-TCP copy. “Longer lines indicate areas of considerable difference, while shorter lines indicate greater similarity between documents.” (“A User Guide to Juxta Commons”)  
+Figure 5: A histogram, produced by Juxta, showing where the two ECCO and normalized HathiTrust witnesses show the most difference from the base ECCO-TCP copy. “Longer lines indicate areas of considerable difference, while shorter lines indicate greater similarity between documents.” (“A User Guide to Juxta Commons”)  
 
 ![][fig-ecco-emigrants-p1]
 
-Figure 5: The facsimile of the first page of *The Emigrants* found in ECCO, which forms the basis of the ECCO OCR text.  
+Figure 6: The facsimile of the first page of *The Emigrants* found in ECCO, which forms the basis of the ECCO OCR text.  
 
 ![][hathi-emigrants-p1]
 
-Figure 6: The facsimile of the first page of *The Emigrants* found in HathiTrust, which forms the basis of the HathiTrust OCR text.  
+Figure 7: The facsimile of the first page of *The Emigrants* found in HathiTrust, which forms the basis of the HathiTrust OCR text.  
 
 “16 In his discussion of JSTOR's "intolerably corrupt" OCR text, Nicholson Baker suggests that the reason why the user is prevented from scrolling through this naked OCR output is that scholars "might, after a few days, be dis- turbed by the frequency and strangeness of its mistakes . . . and they might no longer be willing to put their trust in the scholarly integrity of the database."17 Baker's criticism of JSTOR, however, is based on an error rate (with editorial intervention) of just one typo in every two thousand characters.” (Spedding 439)
 
@@ -1255,7 +1277,7 @@ Figure 6: The facsimile of the first page of *The Emigrants* found in HathiTrust
 
 
 
-## 3.5.  conclusion ##  
+### 3.2.4.  conclusion ###  
 
 Like literary canons, these corpora --- especially smaller ones, like the Eighteenth Century Collections Online Text Creation Partnership --- are vulnerable to a critique of their selection methods on the grounds of representation. However, unlike the various changing literary canons of the past, digital corpora tend to conceal which particular titles have been selected as representative. I argue that Charlotte Smith’s inclusion in these resources lags behind a scholarly consensus which sees her as increasingly important and canonical in the period. Her partial inclusion in ECCO-TCP seems particularly likely to lead to ill-supported conclusions by researchers who might easily assume that their text-mining research is taking her works into consideration. However, since none of her sonnets are included, nor any of the politically radical novels which made up a substantial portion of her latter career, nor any of her natural history, some of her most important contributions to the literature of the period are not able to impact studies in which they would be relevant. In particular, a study of women’s writing through the lens of the ECCO-TCP would emphasize the most conventional and expected women’s writing from Smith, with four volumes of one of her more straightforward marriage plot novels.
 
@@ -1267,11 +1289,7 @@ We are on the cusp of eighteenth-century OCR meeting the standards of twenty-fir
 
 
 
-# ch 3 - genre in databases #
-
-
-
-## 4.1.  data cleaning ##  
+### 3.3.1.  data cleaning ###  
 
 The next phase of this project does not deal with these databases directly, but with my own curated samples. I have collected as much information as I can about all the works published in England 1789-99 held within each database. What follows is a detailed description of each of these samples, and of the further work which I employed to prepare these samples for computational experimentation  
 
@@ -1399,19 +1417,7 @@ Which of these archives are the most "reliable", and which the most "distorted"?
 
 **Suarez numbers**
 
-Some Statistics on the Number of Surviving Printed Titles for Great Britain and Dependencies from the Beginnings of Print in England to the year 1800, by Alain Veylit. 
-
-
-
-# ch 4 - random sample #
-
-
-
-# conclusion #
-
-
-
-# Raw Writing #  
+Some Statistics on the Number of Surviving Printed Titles for Great Britain and Dependencies from the Beginnings of Print in England to the year 1800, by Alain Veylit.   
 
 
 
@@ -1568,6 +1574,8 @@ It may even compare unfavorably to relatively well-commented code, like the foll
 What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.  
 
 Vincent Carretta sees a lull in abolitionist activities during the late 1790s. Do I see anything like that?
+
+[fig-databases-venn]: fig-databases-venn.png width=349px height=286px
 
 [CSmith-in-ESTC-ECCO-TCP-Hathi-table]: CSmith-in-ESTC-ECCO-TCP-Hathi-table.png width=184px height=312px
 
