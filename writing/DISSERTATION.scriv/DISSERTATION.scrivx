@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-07-27 16:32:59 -0400" ModID="91EAA829-EAE1-41BF-9F47-1051BA9C3E86">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-07-28 15:55:35 -0400" ModID="4CD65DAB-3399-408D-A062-0AB341C56CC9">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1122,8 +1122,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-07-27 15:52:44 -0400">
-                    <Title>ch 2 - genres in databases</Title>
+                <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-07-28 15:55:20 -0400">
+                    <Title>ch 2 - gender in databases</Title>
                     <MetaData>
                         <SectionType>7EE7D41D-D3A6-4A2C-A246-9A259BCCA072</SectionType>
                         <LabelID>10</LabelID>
@@ -1635,10 +1635,19 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="07475F79-7A5A-478F-B622-6A579238B219" Type="Text" Created="2020-07-27 23:59:05 -0400" Modified="2020-07-27 23:59:10 -0400">
+                            <Title>subject headings</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>498,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="B48B3167-1B36-4204-9EB8-04F7235C5CCE" Type="Folder" Created="2020-05-22 19:05:28 -0400" Modified="2020-07-27 15:52:50 -0400">
-                    <Title>ch 3 - gender in databases</Title>
+                <BinderItem UUID="B48B3167-1B36-4204-9EB8-04F7235C5CCE" Type="Folder" Created="2020-05-22 19:05:28 -0400" Modified="2020-07-28 15:55:23 -0400">
+                    <Title>ch 3 - genre in databases</Title>
                     <MetaData>
                         <LabelID>9</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1904,7 +1913,7 @@
                                         <TextSelection>2,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="DA6DD1BC-1654-46ED-8312-234AE106E24B" Type="Text" Created="2019-06-15 18:26:37 -0400" Modified="2020-02-28 16:04:52 -0500">
+                                        <BinderItem UUID="DA6DD1BC-1654-46ED-8312-234AE106E24B" Type="Text" Created="2019-06-15 18:26:37 -0400" Modified="2020-07-27 23:59:23 -0400">
                                             <Title>database structure</Title>
                                             <MetaData>
                                                 <LabelID>10</LabelID>
@@ -1956,7 +1965,7 @@
                                         <TextSelection>361,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="39EDEF4B-AE3D-4660-8C5F-89652D7483E8" Type="Text" Created="2019-06-15 18:13:15 -0400" Modified="2019-11-21 18:15:48 -0500">
+                                <BinderItem UUID="39EDEF4B-AE3D-4660-8C5F-89652D7483E8" Type="Text" Created="2019-06-15 18:13:15 -0400" Modified="2020-07-27 23:59:34 -0400">
                                     <Title>ESTC &gt; ECCO</Title>
                                     <MetaData>
                                         <LabelID>9</LabelID>
@@ -2254,7 +2263,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-07-24 23:33:49 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-07-27 23:53:33 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -2267,7 +2276,7 @@
                         <BinderItem UUID="B12131E5-731A-4C42-BEA7-972CA771B9AA" Type="Text" Created="2019-06-07 21:04:16 -0400" Modified="2019-11-21 19:00:04 -0500">
                             <Title>how-to</Title>
                             <TextSettings>
-                                <TextSelection>20,0</TextSelection>
+                                <TextSelection>514,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="03213EE8-EB33-44A9-BA7F-11A0D7A894D3" Type="Text" Created="2019-06-15 21:33:55 -0400" Modified="2019-11-21 19:00:04 -0500">
@@ -2465,7 +2474,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6474,0</TextSelection>
+                                <TextSelection>14574,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="8AE384D3-9B23-4128-AF72-E821DB147007" Type="Text" Created="2020-06-23 01:57:38 -0400" Modified="2020-06-23 01:57:45 -0400">
@@ -4590,13 +4599,31 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="CEAD2BCC-AD7C-471F-AA95-AF383BB1180B" Type="Text" Created="2020-07-22 14:25:19 -0400" Modified="2020-07-22 14:49:43 -0400">
-                    <Title>Catherine Fleming</Title>
+                <BinderItem UUID="CEAD2BCC-AD7C-471F-AA95-AF383BB1180B" Type="Text" Created="2020-07-22 14:25:19 -0400" Modified="2020-07-28 15:50:24 -0400">
+                    <Title>Catherine Fleming (adv. TK)</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>123,0</TextSelection>
+                        <TextSelection>244,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="944D1A37-A272-4A92-B257-17740086A7EB" Type="Text" Created="2020-07-28 15:23:44 -0400" Modified="2020-07-28 15:45:05 -0400">
+                    <Title>Susan Hesemeier</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>163,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F1EF9A36-3F2F-4346-85B0-0E170856266D" Type="Text" Created="2020-07-28 15:38:21 -0400" Modified="2020-07-28 15:48:17 -0400">
+                    <Title>Matthew Risling (adv. TK)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>214,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -12189,13 +12216,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-07-27 15:51:09 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2020-07-28 15:20:17 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-27 00:00:00 -0400">
+    <RecentWritingHistory Date="2020-07-28 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1005</OtherWordCount>
-        <OtherCharCount>6475</OtherCharCount>
+        <OtherWordCount>139</OtherWordCount>
+        <OtherCharCount>809</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

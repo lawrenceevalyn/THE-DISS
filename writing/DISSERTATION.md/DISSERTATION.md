@@ -895,7 +895,7 @@ Table 1: A chronological history of major events in the development of \[LIST TH
 
 
 
-# ch 2 - genres in databases #
+# ch 2 - gender in databases #
 
 
 
@@ -1261,11 +1261,13 @@ Like literary canons, these corpora --- especially smaller ones, like the Eighte
 
 Exploring the technical affordances of the copies of Smith’s works available in each database also shows why the distorted impression of Smith’s works reflected in the ECCO-TCP’s corpus is likely to persist and continue to be reproduced: without the foundation of a reliable but transformable text (in the form of a human-corrected transcription, rather than a page image or machine OCR), there is a nearly insurmountable technical barrier before any individual project. Even to assess the accuracy of the OCR texts in ECCO and HathiTrust, I must rely on ECCO-TCP. Guillory has already argued persuasively that representation in literary canons is a matter of selection, not of exclusion, that the default state for a given text is not to be included. For Guillory, this serves as a proof that sexism and racism are rarely the direct cause of a particular text lacking canonical status; the role of social oppression in limiting textual representation occurs before scholars make their choices, when classes of people are systematically excluded from the means of textual production in the first place, limiting what we may select from. In the case of digital corpora, also, I see that the rhetoric of “exclusion” is not accurate, and directs attention away from the more complex systems at play. Although I critique the failure of ECCO-TCP to include important and relevant works by Charlotte Smith, it does not seem that she has been excluded out of a prejudice against women’s writing. Most likely, The Emigrants and Celestina were chosen because copies were conveniently accessible to a particular scholar involved in the creation of the ECCO-TCP, perhaps even directly related to a research question which would motivate them through the mind-numbing process of retyping long volumes of prose. Once these works had entered ECCO-TCP, they will naturally be re-used for text mining research which implicitly trusts the original selection. In this way, representation in digital corpora is a matter of infrastructure.  
 
-We are on the cusp of eighteenth-century OCR meeting the standards of twenty-first century OCR. What texts should be OCR’d, by whom, and what should be done with those text files?
+We are on the cusp of eighteenth-century OCR meeting the standards of twenty-first century OCR. What texts should be OCR’d, by whom, and what should be done with those text files?  
+
+“Because the ESTC was formed from three different projects over many decades, the existence of subject headings varies. For books that are from the periods 1475-1640 (from the original Short-Title Catalogue created by Pollard and Redgrave) and 1641-1700 (from Donald Wing’s short-title catalogue), subject headings exist. But subject headings were not initially created for the eighteenth-century records in the ESTC, and so subject headings rarely occur for the items in ECCO.” (Karian, “Guide” 3)
 
 
 
-# ch 3 - gender in databases #
+# ch 3 - genre in databases #
 
 
 
@@ -1421,12 +1423,6 @@ Some Statistics on the Number of Surviving Printed Titles for Great Britain and 
 
 
 
-“Because the ESTC was formed from three different projects over many decades, the existence of subject headings varies. For books that are from the periods 1475-1640 (from the original Short-Title Catalogue created by Pollard and Redgrave) and 1641-1700 (from Donald Wing’s short-title catalogue), subject headings exist. But subject headings were not initially created for the eighteenth-century records in the ESTC, and so subject headings rarely occur for the items in ECCO.” (Karian, “Guide” 3)
-
-
-
-
-
 “In ESTC the matching process hinges on five points of identity: the title, as far as it is given by ESTC; the edition statement; the imprint, again as far as it is given by ESTC; the pagination; and the format” (Tabor 370).  
 
 Using the database:
@@ -1465,11 +1461,7 @@ Inaccurate dates
 
 As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettably, although this volume of The Cambridge history of the book in Britain ends in 1830, it is not possible to perform a similarly comprehensive analysis for the first decades of the nineteenth century because we have no equivalent bibliographical control for this period” (Suarez 40).  
 
-“To use a metaphor, some people prefer to explore the world through books of photographs with occasional schematic maps. ESTC, on the other hand, provides the equivalent of a detailed topographic map, but no pictures. Such technical tools have limited appeal, even to some specialists; but if you want to thoroughly learn the lie of the land, you will need one, and the more complete and accurate the better.” (Tabor)
-
-
-
-  
+“To use a metaphor, some people prefer to explore the world through books of photographs with occasional schematic maps. ESTC, on the other hand, provides the equivalent of a detailed topographic map, but no pictures. Such technical tools have limited appeal, even to some specialists; but if you want to thoroughly learn the lie of the land, you will need one, and the more complete and accurate the better.” (Tabor)  
 
 “An increasingly common trend, I am sorry to report, is that more and more people do not want ESTC at all --- they want ECCO or EEBO. The younger generation of scholars in particular, lured by full-text images and ransacking the Web for illustrations for their books and articles, are using these utilities as de facto bibliographic databases. They find that the stripped-down records and simplified indexes are good enough for their purposes. To a minority of them, the fact that other works, editions, and copies exist outside the Web is irrelevant, and perhaps even irritating.” (Tabor 368)  
 
