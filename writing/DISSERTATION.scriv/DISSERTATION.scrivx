@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-07-29 16:06:09 -0400" ModID="C67ED000-23F2-4A98-B1BB-B8ADF94EAC9D">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-07-30 00:35:39 -0400" ModID="7F3A615C-AE29-4DA1-876F-5AA6BD1DADF7">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -2377,7 +2377,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>211,0</TextSelection>
+                                        <TextSelection>224,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2431,14 +2431,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-07-28 17:09:43 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-07-29 23:53:01 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>23358,68</TextSelection>
+                        <TextSelection>32058,56</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="B12131E5-731A-4C42-BEA7-972CA771B9AA" Type="Text" Created="2019-06-07 21:04:16 -0400" Modified="2019-11-21 19:00:04 -0500">
@@ -3226,14 +3226,44 @@
                         <TextSelection>1120,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D2965696-CAB6-40AF-AA25-E4276E53A14E" Type="Text" Created="2020-03-26 00:22:17 -0400" Modified="2020-03-26 00:22:24 -0400">
-                    <Title>Somers on Project Gutenberg</Title>
+                <BinderItem UUID="8BE1D525-F91E-4C5A-8F19-B7B127C9AB69" Type="Text" Created="2020-07-29 23:27:11 -0400" Modified="2020-07-29 23:27:15 -0400">
+                    <Title>Project Gutenberg</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Filing Cabinet.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>404,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D2965696-CAB6-40AF-AA25-E4276E53A14E" Type="Text" Created="2020-03-26 00:22:17 -0400" Modified="2020-03-26 00:22:24 -0400">
+                            <Title>Somers on Project Gutenberg</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>404,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1CF59B85-AB4B-4391-B83E-9E56ECAA60EC" Type="Text" Created="2020-07-29 23:27:24 -0400" Modified="2020-07-30 00:16:01 -0400">
+                            <Title>Richardson - PG Books Are Real</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1328,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CB7A7F2A-67FA-45B8-966A-FCC524AC594E" Type="Text" Created="2020-07-29 23:29:37 -0400" Modified="2020-07-29 23:29:46 -0400">
+                            <Title>workflow documentation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>84,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="FB34B409-14E5-4C6C-91ED-1229511DAF8C" Type="Text" Created="2018-05-27 15:39:04 -0400" Modified="2019-09-12 15:24:09 -0400">
                     <Title>queer DH</Title>
@@ -4767,15 +4797,6 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="CEAD2BCC-AD7C-471F-AA95-AF383BB1180B" Type="Text" Created="2020-07-22 14:25:19 -0400" Modified="2020-07-28 15:50:24 -0400">
-                    <Title>Catherine Fleming (adv. TK)</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>126,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem UUID="944D1A37-A272-4A92-B257-17740086A7EB" Type="Text" Created="2020-07-28 15:23:44 -0400" Modified="2020-07-28 15:45:05 -0400">
                     <Title>Susan Hesemeier</Title>
                     <MetaData>
@@ -4783,6 +4804,15 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                     </MetaData>
                     <TextSettings>
                         <TextSelection>163,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CEAD2BCC-AD7C-471F-AA95-AF383BB1180B" Type="Text" Created="2020-07-22 14:25:19 -0400" Modified="2020-07-28 15:50:24 -0400">
+                    <Title>Catherine Fleming (adv. TK)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>279,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F1EF9A36-3F2F-4346-85B0-0E170856266D" Type="Text" Created="2020-07-28 15:38:21 -0400" Modified="2020-07-28 15:48:17 -0400">
@@ -12395,11 +12425,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
         <PreviousSession Words="407" Characters="2765" Date="2020-07-29 14:27:28 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-07-29 00:00:00 -0400">
-        <DraftWordCount>407</DraftWordCount>
-        <DraftCharCount>2765</DraftCharCount>
-        <OtherWordCount>167</OtherWordCount>
-        <OtherCharCount>1217</OtherCharCount>
+    <RecentWritingHistory Date="2020-07-30 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>202</OtherWordCount>
+        <OtherCharCount>1111</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
