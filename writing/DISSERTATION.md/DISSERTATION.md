@@ -1,11 +1,7 @@
 Title: DISSERTATION  
 Author: Lawrence Evalyn
 
-# introduction (9k) #
-
-
-
-## 1.1.  intro ##  
+# introduction (9k) #  
 
 According to the English Short Title Catalogue (ESTC), the most popular English authors of the 1790s were Thomas Paine, Hannah More, John Wesley, and William Shakespeare. Of course this claim immediately falls apart on further scrutiny. In fact, by the metric of ‘unique entries in the ESTC database,’ the most popular author of the decade is by far Great Britain, followed by Great Britain, Great Britain, Great Britain, and King George III.[^cf1] Paine, More, Wesley and Shakespeare are only able to rise to our notice if we intervene in the dataset to filter out all authors whose names contain the phrase “Great Britain”; otherwise, Shakespeare is outnumbered by the House of Lords and by the Church of England. And a single paragraph cannot contain all of the reasons that the quantity of unique entries in a database would not correlate with any useful definition of popularity -- although later parts of this dissertation will undertake to enumerate them at greater length. These claims demonstrate that a poorly formed question will produce a useless and stupid answer even (or perhaps especially) if computation is used to answer it. This dissertation is dedicated to the formulation of better questions. I am interested in the limits of the generalizations that we make, both in “distant reading” research and in non-digital scholarship[ , which still frequently relies on claims that a given work was “popular” because it went through a certain number of editions, or the author was paid a certain amount, and so on. These generalizations break down in part because “popular,” as a concept, is overdetermined: does it mean financially successful, or widely beloved, or important? Examinations of “popularity” also break down, at close scrutiny, because of the contentious relationship between concepts of “popular” and “literary”: important literature should have some claim to cultural relevance, but it shouldn’t be *too* popular or it becomes suspect. Nonetheless, \[TRANSITION\]]. I take as my starting point the contention that, in order to identify what is “popular” or “important,” we must also understand what is normal. At its core, my question is: given that it is not possible to read everything (or even most things), how do we, and how *should* we, determine what to read, preserve, study, and teach? This “question” is, of course, many questions: what we do is by no means what we *should* do; what we read is not necessarily what we study or teach. It is also an old, nearly an old-fashioned question. The current moment of self-reflection in the field of Digital Humanities, however, provides a timely reason to revisit it. Even literary scholars who do not carry out “Digital Humanities” research are impacted by the corpus-building choices of major digital resources, since all literary research is now mediated at some level by search algorithms and databases, even if this mediation is as small as looking up the holding libraries for physical copies of texts. It is therefore relevant to the field as a whole if, as I contend, corpus-building has become the new canon-building: an invisible and naturalized process of selecting texts for idiosyncratic and historically-specific reasons, and then treating those individual texts as ideal representatives of an imagined “whole” of literature.   
 
@@ -13,7 +9,7 @@ Despite the crucial importance of corpus-building to the interpretation of “di
 
 
 
-## 1.2.  from canon to corpus ##
+## 1.1.  from canon to corpus ##
 
 
 
@@ -43,7 +39,7 @@ The relocation of the debate from the canon to the corpus is not without grounds
 
 
 
-## 1.3.  frameworks ##  
+## 1.2.  frameworks ##  
 
 My work takes a critical algorithm studies approach to digital databases of eighteenth-century literature, examining the structural assumptions of the most-used resources (including some that scholars don’t like to admit to using). I close read the database structures, file formats, and historical documentation for the English Short Title Catalogue, Eighteenth Century Collections Online, the Text Creation Partnership, HathiTrust, Project Gutenberg, and Google Books, to examine how each resource’s algorithmic definition of a “book” (and the information that might matter about a book) is shaped by the material, historical conditions of each organization’s development. My initial research question was, by Eve Kosofsky Sedgwick’s definition, a classically paranoid approach: I sought to expose the under-representation of women’s writing underlying apparently “neutral” digital infrastructures. This question carried the combined urgency and futility of paranoid critique: urgent, because an unfair database would expose an unfair society; and futile, since the research could only be motivated by the conviction that its answer was already known. My paper will touch briefly on some specifics of this research and my findings, as the basis for a broader discussion of critical algorithm studies, and the project of imagining reparative algorithm studies.
 
@@ -81,7 +77,7 @@ Critical algorithm studies is therefore a crucial background for my work --- but
 
 
 
-## 1.4.  methods ##  
+## 1.3.  methods ##  
 
 This dissertation undertakes computational distant reading. At every possible point, however, the underlying methodology will be made visible, and its assumptions scrutinized. The bibliographic histories of my multiple corpora are explicit objects of inquiry. Much of the code underlying this project I have written myself. Some has been written at my request. In every case where the code is available to me, the program itself appears in Appendix A (“Codebase”), accompanied by a plain language explanation of how it operates. Where I have used closed-source software, Appendix A contains an explanation of my best guess at its underlying process. My exact use of these tools --- sufficient for another to replicate my work --- is provided in Appendix B (“Methodology”). These details are explicated in full in the appendices in order not to over-burden the body of the dissertation, but they are by no means *confined* to the appendices. Computation is not a “black box” to be consulted for simple answers, but is inextricable from my reasoning and argument.  
 
@@ -93,7 +89,7 @@ This dissertation understands archives, bibliographies, anthologies, and corpora
 
 
 
-## 1.5.  scope ##  
+## 1.4.  scope ##  
 
 All of the computational work in this dissertation aims to identify, in as minute detail as possible, all works printed in England between January 1 1789 and December 31 1799. This eleven-year “decade” was a turbulent one across the Channel, encompassing the whole of the French Revolution, from the Estates General in 1789 to Napoleon’s coup in 1799.[^cf18] In England, these events caused strong and variously nationalist reactions in a country which had so recently lost its colonies in America and feared that a French invasion could come at any moment. This is the decade of *Rights of Man*, it is the decade of *Lyrical Ballads*; it is the decade of Hannah More, it is the decade of Ann Radcliffe; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity. Charles Dickens’ now famous superlatives capture the tension often seen by scholars between ‘Enlightenment’ modes of writing and ‘Romantic’ or ‘Gothic’ modes, which are no longer neatly periodized as mutually exclusive.
 
@@ -107,7 +103,7 @@ Once I decided to pick roughly a decade, I picked the 1790s for a couple reasons
 
 
 
-### 1.5.1.  Charlotte Smith ###  
+### 1.4.1.  Charlotte Smith ###  
 
 To navigate the 1790s, I turn to an author whose career and works usefully focalize my core questions of genre, publics, and the status of literature: Charlotte Smith. Smith was highly productive in multiple genres throughout the 1790s, and had a complex and contested literary legacy after the 1790s. As literary scholars re-assess ideas about literary seriousness, popularity, and women’s writing, our assessment of Smith has shifted as well. By examining their bibliographies with computational methods, I again ask how she might continue to look different if we look at her a different way. I particularly examine the extent to which digital resources have kept up with the re-evaluation of Smith as a central figure in British Romanticism.
 
@@ -137,7 +133,7 @@ A complicating factor to these evaluations of Smith is that, as Labbe’s edited
 
 
 
-### 1.5.2.  databases ###  
+### 1.4.2.  databases ###  
 
 A core object of study for this dissertation is the makeup and history of contemporary digital databases. Eighteenth-century materials of various kinds have been collected in many digital archives, of very different scopes. I will draw materials from the English Short-Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), the ECCO Text Creation Partnership corpus (ECCO-TCP), Google Books, Project Gutenberg and HathiTrust. My examination of these six databases will, of necessity, examine a ‘time capsule’ of their holdings at a particular moment; the sources of my data, and my procedures for working with them, are described in more detail in Appendix B (“Methodology”). The databases vary from each other in terms of two main qualities: their size, and their reputation. The reputation of any given digital resource is shaped largely, I argue, by its ability to signal ‘rigour’ in its collection practices. Several databases of different sizes have established reputations of seriousness, and, correspondingly, cultural capital within scholarly communities. The databases that I will examine at length form two groupings of three each, to explore two sets of related concepts. The first set consists of ESTC, ECCO, and ECCO-TCP, all of which follow the same rigorous collection practices at different scales. The second set consists of Google Books, HathiTrust, and Project Gutenberg, which follow very different collection practices while sharing a dubious scholarly reputation.  
 
@@ -157,7 +153,7 @@ As this brief survey of eighteenth-century digital archives shows, there is no �
 
 
 
-## 1.6.  dissertation map ##  
+## 1.5.  dissertation map ##  
 
 Chapter two describes in more detail the databases to be studied, and examines Charlotte Smith and the ways that her writing is made accessible today. The specific experimentation undertaken in chapter two tests the basic assumptions and methods of my project. I begin with a the histories of the ESTC, ECCO, ECCO-TCP, Project Gutenberg, Google Books, and HathiTrust: highlighting the chronological relationships between these resources can explain each database’s scope and technical implementation. Each new resource must contend with the possibility of either competing or collaborating with those which have come before. Examining materials like the meeting minutes and internal communications of these resources’ early histories will show how those which currently enjoy the lowest reputation among scholars --- Project Gutenberg and Google Books --- defined their initial scope around an explicit rejection of scholarly norms. After establishing the history of each resource’s development, I describe its current digital infrastructure, through the lens of critical algorithm studies. This begins with basic questions: what file formats does it use? What kinds of metadata, what ontologies? How does it make its materials available for use? Through close reading and comparison of these details, I articulate each database’s implicit construction of what a text is and what it is for. Combining each resource’s history with its technical infrastructure, I return to 
 
