@@ -7171,6 +7171,7 @@ More importantly — what social libraries existed?? mechanics libraries, or mut
             <Text>I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and the commercial environment in which institutions much remain financially solvent. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be created digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour. In Paddy Bullard’s “Digital Humanities and Electronic Resources in the Long Eighteenth Century,” which surveys the research completed and the resources used as of 2013, Bullard is also faced with the task of explaining why multiple services interact so poorly. Bullard, too, observes the core tension between public access vs private profit: 
 Viewing the field of eighteenth-century digital humanities as a single prospect, it is the contrast between publicly funded, open-access sites, and privately owned, subscription-access resources that is most striking. Each side of the divide has much to learn from the other. Publicly funded academic projects must acquire the pragmatism and ambitiousness of scale that commercial developers have always shown. Commercial developers must adapt themselves more generously to the principles of scholarly openness and accuracy. They might also imitate the inventiveness of the open sector, its adaptability to the demands raised by different kinds of primary media. Both sides recognize the desirability of making their resources interoperable across the divide, and the business of interconnectivity will preoccupy all kinds of digital humanist in the coming decade. (756)
 Bullard is correct to note that there are major disjunctions between databases like the The British Book Trade Index or careful online editions like The Proceedings of the Old Bailey, 1674–1913, compared to massive archives like ECCO. It seems odd, however, to attribute to ECCO both “ambitiousness of scale” and “pragmatism” as the lessons for noncommercial projects to imitate, since an ambitious scale is only plausibly pragmatic for a project with the money to sustain itself. Even odder is the idea that commercial developers might voluntarily choose to “adapt themselves more generously to the principles of scholarly openness and accuracy,” when the core business model of a private enterprise relies on its lack of openness, and the private access only seems worth purchasing when its marketers suppress all nuance about accuracy. As Bode observes, “the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive” (Bode World 47). In other words, Bullard has observed an underlying system of profit and non-profit in awkward competition, and examined the outputs of these systems in order to articular their particular virtues and describe what a ‘best of both worlds’ might look like if both parts of the system sought to collaborate together on how best to achieve maximally useful scholarly resources. What Bullard overlooks in this process is that not all parts of this system have the goal of achieving maximally useful scholarly resources.</Text>
+            <Comments>As an example of the frustrating impacts of the need to brand services as universally useful: I attended a daylong university workshop about the new Gale Digital Scholars Lab in the company of a medievalist who arrived, discovered that no medieval materials were available in the Digital Scholars Lab, nor even the Early English Books Online collection, and spent the morning awkwardly listening to speakers effuse about the incredible scope of U of T’s subscriptions. </Comments>
         </Document>
         <Document ID="301C0384-6B0E-4B33-A8B8-29E78D7A8E61">
             <Title>what is left out of corpora?</Title>
@@ -8956,7 +8957,18 @@ The Risk of Preoccupation with Technology
 
 Rejects the easy/expected critique of technological hierarchies reinforcing other hierarchies: “This kind of fearmongering is the flip side of technophilic hype; both are wildly exaggerated. Managing a whole digital library, like Hathi-Trust, is admittedly a big task. But specic research questions usually engage a small part of the library. Most of the analysis in this book can be done on a desktop, although some of the pro-grams might take an afternoon to run. Nothing discussed here required computing power that is available only at a few institu-tions.” (157)
 
-“Sometimes, scholars using computational methods can them-selves become too hypnotized by the physical embodiment of these methods in computers. Several digital humanists have rightly warned the eld against the fantasy that delegating ob-servation to a machine would somehow increase the objectiv-ity of results. is fantasy— which Lorraine Daston and Peter  Galison have called “mechanical objectivity”— may be evoked es-pecially by unsupervised learning algorithms (such as clustering and topic modeling) that seem to discover patterns in the archive / without human prompting. In reality, algorithms are designed by human beings and explicitly encode human assumptions.” (158)</Text>
+“Sometimes, scholars using computational methods can them-selves become too hypnotized by the physical embodiment of these methods in computers. Several digital humanists have rightly warned the eld against the fantasy that delegating ob-servation to a machine would somehow increase the objectiv-ity of results. is fantasy— which Lorraine Daston and Peter  Galison have called “mechanical objectivity”— may be evoked es-pecially by unsupervised learning algorithms (such as clustering and topic modeling) that seem to discover patterns in the archive / without human prompting. In reality, algorithms are designed by human beings and explicitly encode human assumptions.” (158)
+
+“In the long run, this misunderstanding can be cleared up if humanists and scientists acquire a basic understanding of each other’s methods, based on contemporary realities rather than caricatures of nineteenth- century Romanticism and positivism. Mutual understanding would lead us away from the fantasy that objectivity and subjectivity represent rmly distinct alternatives and toward a more exible conversation about human attempts to understand the world by modeling it.” (158)
+
+“If critics of distant reading would likewise acknowledge that the technologies at stake often date back to the middle of the twentieth century, conversation on this topic could move beyond technophilia and - phobia. Few of the ideas currently transform-ing literary history are really dependent on “big data,” for in-stance. But the phrase has become indispensable for critics of quantitative methods in the humanities, because it implicitly characterizes any use of numbers as a recent fashion, originat-ing in Silicon Valley, and linked in an unspecied way to mass surveillance. I don’t think that rhetoric does much to advance mutual understanding.” (159)
+
+“The models produced by machine learning do not have to be black boxes. They can be complex but transparent moves in an interpretive argument, and they deserve to be engaged or critiqued as arguments, not hyped or smeared by association with the Bay Area.” (160)
+
+“I have worked very hard to separate badly framed controversies about technology from the historical and interpre-tive questions posed in this book. Instead of presenting distant reading as a conversation about the word data, for instance, I have tried to foreground a trio of older words that better character-ize the ideas at issue here. First, I have emphasized the premise that historical inquiry can be structured as an experiment. … We can minimize misleading con-rmations, for instance, by testing a hypothesis against a sample of texts, dened in advance in order to limit the researcher’s free-dom to support a predetermined thesis. Finally, I have suggested that historical experiments will often describe samples of the cul-tural past by testing models, or simplied representations of the relations between dierent concepts.” (160)
+“Experiments, samples, models. These are not new technologies; they are the central concepts of twentieth-century social science. So, to frame a fair critique of distant reading, one might ask whether it simply moves further toward social science than most literary scholars are willing to go.” (161)
+
+The Missing Curricular Foundation</Text>
         </Document>
         <Document ID="68761611-8C6A-48C0-9EEA-673EF96E72EF">
             <Title>corpus building</Title>
@@ -10432,203 +10444,206 @@ and one to which literature speaks better than political writing, generally: sin
 	38.	Chatterjee, Ronjaunee, Alicia Mireles Christoff, and Amy R. Wong. “Undisciplining Victorian Studies.” LA Review of Books, 10 July 2020, web.archive.org/web/20200728034955/https://lareviewofbooks.org/article/undisciplining-victorian-studies.
 	39.	Christy, Matthew, Anshul Gupta, Elizabeth Grumbach, et al. “Mass Digitization of Early Modern Texts With Optical Character Recognition.” ACM Journal on Computing and Cultural Heritage, volume 11, number 1, article 6, December 2017, 25 pp., doi:10.1145/3075645.
 	40.	Chun, Wendy Hui Kyong. “Queerying Homophily.” Pattern Discrimination, by Clemens Apprich, Wendy Hui Kyong Chun, Florian Cramer, and Hito Steyerl, meon press and U Minnesota P, 2018, pp. 59-97, doi:10.14619/1457. In Search Of Media series, edited by Götz Bachman, Timon Beyes, Mercedes Bunz, and Wendy Hui Kyong Chun.
-	41.	Civale, Susan. “Women’s life writing and reputation: A case study of Mary Darby Robinson.” Romanticism, vol. 24, no. 2, 2018, pp. 181-202.
-	42.	Clemens, Justin. “Aggressively middling: The Bourgeois &amp; Distant Reading by Franco Moretti.” Sydney Review of Books, 16 July 2013, web.archive.org/web/20200309032758/https://sydneyreviewofbooks.com/review/aggressively-middling/ Accessed 8 March 2020.
-	43.	Clery, E.J. The Rise of Supernatural Fiction 1762-1800. Cambridge UP, 1995.
-	44.	Christman, Paul. “The Cinema of Inadvertence.” The Hedgehog Review: Critical Reflections on Contemporary Culture, volume 21, number 3, Fall 2019, web.archive.org/web/20191118012126/https://hedgehogreview.com/issues/eating-and-being/articles/the-cinema-of-inadvertence-or-why-i-like-bad-movies
-	45.	Cronin, Richard. The Politics of Romantic Poetry: In Search of the Pure Commonwealth. Palgrave Macmillan, 2000.
-	46.	Cross, Ashley. “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt.” Studies in Romanticism, vol. 40, no. 4, 2001, pp. 571–605, doi:10.2307/25601532.
-	47.	—. Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784–1821. Routledge, 2016.
-	48.	Cohen, Margaret. The Sentimental Education of the Novel. Princeton UP, 1999.
-	49.	Coker, Cait, and Kate Ozment. “Building the Women in Book History Bibliography, or Digital Enumerative Bibliography as Preservation of Feminist Labor.” Digital Humanities Quarterly, volume 13, number 3, 2019, www.digitalhumanities.org/dhq/vol/13/3/000428/000428.html.
-	50.	Cooke, Richard. “Wikipedia Is the Last Best Place on the Internet.” Wired, 17 February 2020, web.archive.org/web/20200227222807/https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet.
-	51.	Cordell, Ryan. “Talking about Viral Texts Failures.” ryancordell.org, 25 June 2020, web.archive.org/web/20200625185504/https://ryancordell.org/research/VT-database-fail. Accessed 25 June 2020.
-	52.	Crump, M. J. “Short Title Catalogue On-Line.” Information Development, vol. 2, no. 2, April 1986, pp. 105-107, doi:10.1177/026666698600200208. 
-	53.	Curran, Stuart. “Charlotte Smith: Intertextualities.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 175-188.
-	54.	Dawkins, Richard. “Memes: the new replicators.” 1976. The Selfish Gene, Oxford UP, 1989, pp. 189-201.
-	55.	Dayal, Samir. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. MELUS, volume 21, number 2, June 1996, pp. 165–168, doi:10.2307/467957.
-	56.	DeLuna, D. N. “Race Matters in the Very Long Eighteenth Century.” Huntington Library Quarterly, volume 64, number 3/4, 2001, pp. 507-518, https://www.jstor.org/stable/3817924.
-	57.	Denham, Alison. “Making Sorrow Sweet: Emotion and Empathy in the Experience of Fiction.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 190-210, doi:10.1017/9781108339339.011.
-	58.	Digital Proofreaders wiki. “General Workflow Diagram.” web.archive.org/web/20200730033032/https://www.pgdp.net/wiki/DP_Official_Documentation:General/General_Workflow_Diagram. Accessed 29 July 2020.
-	59.	Drucker, Johanna. Graphesis: Visual Forms of Knowledge Production. Harvard UP, 2014.
-	60.	—. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, vol. 5, no. 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
-	61.	Duckling, Louise. “‘Tell My Name to Distant Ages’: The Literary Fate of Charlotte Smith.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 203-217.
-	62.	“ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, https://web.archive.org/web/20190621121928/http://www.textcreationpartnership.org:80/tcp-ecco. Accessed 20 June 2019.
-	63.	“Eighteenth Century Collections Online (ECCO) FAQ’s.” Gale Group (?), circa 2008, https://web.archive.org/web/20200603031058/http://find.galegroup.com/ecco/component/researchtools/xml/ecco_35.xml. Accessed 2 June 2020. 
-	64.	Emre, Merve. “Public Thinker: Leah Price on Books, Book Tech, and Book Tattoos.” Interview with Leah Price. Public Books, 26 Sept 2019, web.archive.org/web/20190928023628/https://www.publicbooks.org/public-thinker-leah-price-on-books-book-tech-and-book-tattoos. Accessed 27 Sept 2019.
-	65.	Ezell, Margaret J. M. “Big Books, Big Data, and Reading Literary Histories.” Eighteenth-Century Life, volume 41, issue 3, September 2017, pp. 3-19. Project MUSE, muse.jhu.edu/article/667488.
-	66.	Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
-	67.	Falkovich, Jacob. “100 Ways to Live Better.” Put A Number On It!, 30 December 2019, web.archive.org/save/https://putanumonit.com/2019/12/30/100-ways-to-live-better/.
-	68.	Farmer, Alan B., and Zachary Lesser. “Structures of Popularity in the Early Modern Book Trade.” Shakespeare Quarterly, vol. 56, no. 2, 2005, pp. 206–213. JSTOR, www.jstor.org/stable/3844307.
-	69.	—. “The Popularity of Playbooks Revisited.” Shakespeare Quarterly, vol. 56, no. 1, 2005, pp. 1–32. JSTOR, www.jstor.org/stable/3844024.
-	70.	Felski, Rita. “Everyday Aesthetics.” the minnesota review, volume 71-72, 2009, pp. 171-179.
-	71.	—. The Limits of Critique. U Chicago P, 2015.
-	72.	Finley, Klint. “The Internet Archive Is Making Wikipedia More Reliable.” Wired, 3 November 2019, web.archive.org/web/20200227222720/https://www.wired.com/story/internet-archive-wikipedia-more-reliable/
-	73.	Fischer-Starcke, Bettina. Corpus Linguistics in Literary Analysis: Jane Austen and Her Contemporaries. Continuum, 2010.
-	74.	Fleming, Catherine. Translation, Reputation, and Authorship in Eighteenth-Century Britain. PhD Dissertation, University of Toronto, 2018, hdl.handle.net/1807/101619.
-	75.	Flores, Pepe. “Is Wikipedia the largest-ever digital humanities project? Exploring an emerging relationship.” Wikimedia Foundation blog, 17 April 2016, web.archive.org/web/20200428033423/https://blog.wikimedia.org/2016/08/17/wikipedia-largest-digital-humanities-project/
-	76.	Forster, Chris. “A Walk Through the Metadata: Gender in the HathiTrust Dataset.” 8 Sept. 2015, cforster.com/2015/09/gender-in-hathitrust-dataset. Accessed 3 Sept. 2019.
-	77.	Fowers, Alyssa. “Profiling protest data (or, what I did on my summer vacation).” Data and Dragons, 10 Sept 2019, dataanddragons.wordpress.com/2019/09/10/profiling-protests-or-what-i-did-on-my-summer-vacation. Accessed 10 Sept 2019.
-	78.	Frank, Marcie. “Melodrama and the Politics of Literary Form in Elizabeth Inchbald’s Works.” Eighteenth-Century Fiction, volume 27, number 3-4, Spring-Summer 2015, pp. 707-730.
-	79.	Freedgood, Elaine. “Reading Things.” The Ideas in Things: Fugitive Meaning in the Victorian Novel, U Chicago P, 2006.
-	80.	Frow, John. Genre. Routledge, 2015.
-	81.	Fry, Carrol L. Charlotte Smith. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
-	82.	Gadd, Ian. “The Use and Misuse of Early English Books Online.” Literature Compass, volume 6, issue 3, 2009, pp. 680-692, doi:10.1111/j.1741‐4113.2009.00632.x.
-	83.	Gale. “Eighteenth Century Collections Online.” web.archive.org/web/20200324195501/https://www.gale.com/primary-sources/eighteenth-century-collections-online Accessed 24 March, 2020.
-	84.	Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge UP, 2000.
-	85.	Gamer, Michael, and Terry F. Robinson. “Mary Robinson and the Dramatic Art of the Comeback.” Studies in Romanticism, vol. 48, no. 2, 2009, pp. 219–56. JSTOR, www.jstor.org/stable/25602191.
-	86.	Garnai, Amy. Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald. Palgrave Macmillan, 2009.
-	87.	Garrett, Jeffrey. “Subject Headings in Full-Text Environments: The ECCO Experiment.” College &amp; Research Libraries, volume 68, number 1, 2007, doi: 10.5860/crl.68.1.69.
-	88.	Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
-	89.	Garside, Peter, James Raven, and Rainer Schöwerling, editors. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, Oxford UP, 2000. 2 vols.
-	90.	—. General Introduction. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
-	91.	Gavin, Michael. “Historical Text Networks: The Sociology of Early English Criticism.” Eighteenth-Century Studies, volume 50, number 1, 2016, pp. 53-80.
-	92.	Gilbert, Geoff. “The Durability of Affect and the Ageing of Gay Male Queer Theory.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 133-158, doi: 10.1017/9781108339339.008.
-	93.	Goldie, Mark and Robert Wokler, editors. The Cambridge history of eighteenth-century political thought. Cambridge UP, 2006.
-	94.	Gonda, Caroline. “Review of Heteronormativity in Eighteenth-Century Literature and Culture, ed. by Ana de Freitas Boe and Abby Coykendall.” Eighteenth Century Studies, volume 49, issue 3, 2016, pp. 427-428.
-	95.	Google Books. “Google Books History.” Site as of 25 March 2020, web.archive.org/web/20200326031915/https://books.google.com/googlebooks/about/history.html Accessed 25 March 2020.
-	96.	—. “Google Books History.” Site as of 6 February 2016, https://web.archive.org/web/20160206043510/http://books.google.com/googlebooks/about/history.html. Accessed 25 March 2020.
-	97.	—. “Google Books Ngram Viewer: Datasets.” 2013, https://web.archive.org/web/20200608004518/http://storage.googleapis.com/books/ngrams/books/datasetsv2.html.
-	98.	—. “Google Books Ngram Viewer: Info.” 2013, https://web.archive.org/web/20200608004424/https://books.google.com/ngrams/info.
-	99.	Gorak, Jan. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Philology, volume 94, number 2, Nov 1996, pp. 286-290. JSTOR, www.jstor.org/stable/437977.
-	100.	Grafton, Anthony and Glenn W. Most. “How to do things with texts: An introduction.” Canonical Texts and Scholarly Practices: A Global Comparative Approach. Cambridge UP, 2016, pp. 1-13. doi:10.1017/CBO9781316226728.001.
-	101.	Gray, Kishonna L. Review of Algorithms of Oppression: How Search Engines Reinforce Racism. Feminist Media Studies, volume 19, issue 2, pp. 308-310, doi:10.1080/14680777.2019.1579984.
-	102.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
-	103.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U Chicago P, 1993.
-	104.	Hammond, Adam. Literature in the Digital Age: An Introduction. Cambridge UP, 2016.
-	105.	Hane, Paula. “Project Gutenberg Progresses.” Information Today, volume 21, number 5, May 2004, web.archive.org/web/20200325195437/http://www.infotoday.com/it/may04/hane1.shtml. Accessed 25 March 2020.
-	106.	Hart, Michael. “The History and Philosophy of Project Gutenberg.” Project Gutenberg, August 1992. web.archive.org/web/20200312224522/https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart Accessed 12 March 2020.
-	107.	HathiTrust. “Getting Content Into HathiTrust.” HathiTrust, web.archive.org/web/20190915204356/https://www.hathitrust.org/ingest. Accessed 15 Sept 2019.
-	108.	—. “Governance.” HathiTrust, web.archive.org/web/20200325212223/https://www.hathitrust.org/governance. Accessed 25 March 2020.
-	109.	—. “Help - Copyright.” HathiTrust, web.archive.org/web/20200325212528/https://www.hathitrust.org/help_copyright%23RestrictedAccess. Accessed 25 March 2020.
-	110.	—. “Major Library Partners Launch HathiTrust Shared Digital Repository.” HathiTrust, 13 October 2008, web.archive.org/web/20200325213628/https://www.hathitrust.org/press_10-13-2008. Accessed 25 March 2020.
-	111.	—. “Member Community.” HathiTrust, web.archive.org/web/20190915204844/https://www.hathitrust.org/community. Accessed 15 Sept 2019.
-	112.	—. “Our Digital Library.” HathiTrust, web.archive.org/web/20190915204611/https://www.hathitrust.org/digital_library. Accessed 15 Sept 2019.
-	113.	—. “Our Membership.” HathiTrust, web.archive.org/web/20190915204720/https://www.hathitrust.org/partnership. Accessed 15 Sept 2019.
-	114.	Heisel, Andrew. “Hannah More’s Art of Reduction.” Eighteenth-Century Fiction, volume 25, number 3, Spring 2013, pp. 557-588.
-	115.	Hosch, William L. “Project Gutenberg.” Encyclopedia Britannica, 17 August 2017, web.archive.org/web/20200325190246/https://www.britannica.com/topic/Project-Gutenberg. Accessed 25 March 2020.
-	116.	Hunt, Bishop C. “Wordsworth and Charlotte Smith.” The Wordsworth Circle, vol. 1, no. 3, 1970, pp. 85. ProQuest, ProQuest Document ID 1300171026.
-	117.	IPUMS NAPP. “What is NAPP?” North Atlantic Population Project, web.archive.org/web/20200209014205/https://www.nappdata.org/napp/intro.shtml. Accessed February 8, 2020.
-	118.	Jockers, Matthew. Macroanalysis: Digital Methods and Literary History. U Illinois P, 2013.
-	119.	Juxta Commons. “A User Guide to Juxta Commons.” web.archive.org/web/20200227014953/http://juxtacommons.org/guide.
-	120.	Karels, Liene. “HathiTrust adds new members, goes global.” Montage: Arts + Creativity, University of Michigan, November 2010, web.archive.org/web/20140302084528/http://www.montage.umich.edu/2010/11/hathitrust-adds-new-members-goes-global. Accessed 25 March 2020.
-	121.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
-	122.	King, Kathryn R. “Introduction: Hans Turley, Queer Studies, and the Open-Hatched Eighteenth Century.” The Eighteenth Century, volume 53, number 3, 2012, pp. 265-272. JSTOR, www.jstor.org/stable/23365012.
-	123.	Klein, Lauren. “Distant Reading After Moretti.” Arcade: Literature, the Humanities, &amp; the World, 2018, web.archive.org/save/https://arcade.stanford.edu/blogs/distant-reading-after-moretti. Accessed 19 September 2019.
-	124.	Klein, Ula, and Emily MN Kugler. “Eighteenth-Century Camp Introduction.” ABO: Interactive Journal for Women in the Arts, 1640-1830, volume 9, issue 1, 2019, pp. 1-12. doi:10.5038/2157-7129.9.1.1180
-	125.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, volume 12, number 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
-	126.	Labbe, Jacqueline. “Introduction.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 1-11.
-	127.	—. “Selling One's Sorrows: Charlotte Smith, Mary Robinson, and the Marketing of Poetry.” The Wordsworth Circle, volume 25, number 2, 1994, pp. 68-71. ProQuest, ProQuest Document ID 1300173031.
-	128.	LaGuardia, Cheryl. Review of Eighteenth Century Collections Online. Library Journal, May 2004, pp. 123-124. 
-	129.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, volume 25, number 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
-	130.	Lebert, Marie. “Project Gutenberg (1971-2008).” Project Gutenberg, May 2008, www.gutenberg.org/cache/epub/27045/pg27045-images.html Accessed 12 March 2020
-	131.	Lee, Haimin. “15 Years of Google Books.” The Keyword, Google.
-	132.	Liberman, Mark. “The ‘dance of the p’s and b’s’: truth or noise?” Language Log, 26 Jan 2012, web.archive.org/web/20191105001115/https://languagelog.ldc.upenn.edu/nll/?p=3730. Accessed 4 Nov 2019.
-	133.	Lincoln, Matthew D. "Tidy Data for the Humanities." Matthew Lincoln, PhD (blog), 26 May 2020, https://web.archive.org/web/20200529025634/https://matthewlincoln.net/2020/05/26/tidy-data-for-%20humanities.html
-	134.	Liu, Alan. “Where is Cultural Criticism in the Digital Humanities?” Debates in the Digital Humanities. Edited by Matthew K. Gold. University of Minnesota Press, 2012.
-	135.	Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History, volume 41, issue 2, 2010, pp. 371–391.
-	136.	—. “Close Reading and Thin Description.” Public Culture, volume 25, number 3 (71), 2013, pp. 401-434, doi:10.1215/08992363-2144688.
-	137.	Manshel, Alexander, Laura B. McGrath, and J.D. Porter. “Who Cares About Literary Prizes?” Public Books, 3 August 2019, www.publicbooks.org/who-cares-about-literary-prizes
-	138.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
-	139.	Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” Los Angeles Review of Books, 28 Oct. 2012. web.archive.org/web/20191022060530/https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/
-	140.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
-	141.	Mauri, M., T. Elli, G. Caviglia, G. Uboldi, and M. Azzi. (2017). “RAWGraphs: A Visualisation Platform to Create Open Outputs.” Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter, ACM, 2017, p. 28:1–28:5, doi:10.1145/3125571.3125585.
-	142.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
-	143.	McInnes, Andrew. “Should We Cancel Romantic Studies?” The Romantic Ridiculous, 15 June 2020, web.archive.org/web/20200627220515/https://romanticridiculous.wordpress.com/2020/06/15/should-we-cancel-romantic-studies.
-	144.	McLaverty, James. “Poems in Print.” The Oxford Handbook of British Poetry, 1660-1800, edited by Jack Lynch. Oxford UP, 2016, pp. 40-54, doi:10.1093/oxfordhb/9780199600809.013.3. Oxford Handbooks Online.
-	145.	McLeod, Dayna, Jasmine Rault, and T.L. Cowan. ”Speculative Praxis Towards a Queer Feminist Digital Archive: A Collaborative Research-Creation Project.” Ada: A Journal of Gender, New Media, &amp; Technology, issue 5, 2014, web.archive.org/web/20190318202624/https://adanewmedia.org/2014/07/issue5-cowanetal/
-	146.	McLeod, Deborah Anne. The Minerva Press. PhD dissertation, U of Alberta, 1997, doi:10.7939/R33J39C22.
-	147.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, vol. 7, no. 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
-	148.	Mee, John. Print, Publicity, and Popular Radicalism in the 1790s: The Laurel of Liberty. Cambridge UP, 2016.
-	149.	Michel, Jean-Baptiste et al. “Quantitative Analysis of Culture Using Millions of Digitized Books.” Science, volume 331, issue 6014, 2011), pp. 176-182. doi:10.1126/science.1199644.
-	150.	Moretti, Franco. The Bourgeois: Between History and Literature. Verso, 2013.
-	151.	—. “Conjectures on World Literature.” New Left Review, volume 1, issue 1, 2000, pp. 54 - 67.
-	152.	—. Distant Reading. Verso, 2013.
-	153.	—. “Network Theory, Plot Analysis.” New Left Review, volume 68, 2011, pp. 80–102.
-	154.	Mullen, Lincoln. “gender: Predict Gender from Names Using Historical Data.” R package version 0.5.2. GitHub, https://github.com/ropensci/gender
-	155.	Mullen, Lincoln, Cameron Blevins, and Ben Schmidt. “Package ‘gender.’” November 9, 2019.
-	156.	Murphie, Andrew. “The Digital’s Amodal Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 390-407, doi: 10.1017/9781108339339.022.
-	157.	Murphy, Peter. Poetry as an occupation and an art in Britain, 1760-1830. Cambridge UP, 1993.
-	158.	Nicolazzo, Sarah. “Reading Clarissa’s “Conditional Liking”: A Queer Philology.” Modern Philology, volume 112, issu 1, 2014, pp. 205-225. JSTOR, www.jstor.org/stable/10.1086/676008.
-	159.	Noble, Safiya. Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press, 2018.
-	160.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
-	161.	O’Dair, Sharon. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. South Atlantic Review, volume 59, number 2, May 1994, pp. 130-132. JSTOR, www.jstor.org/stable/3200802.
-	162.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
-	163.	Otchenash, Maiia. “Suing Online Platforms for Copyright Infringements: The Choice of Court and Law in the ‘Project Gutenberg’ Scenario.” IDP Revista de Internet, Derecho y Politica, no. 29, 2019, doi:10.7238/idp.v0i29.3175.
-	164.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
-	165.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
-	166.	Price, Leah. The Anthology and the Rise of the Novel: From Richardson to George Eliot. Cambridge UP, 2000, doi:10.1017/CBO9780511484445.
-	167.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
-	168.	Project Gutenberg. “Credits.” 7 June 2006, web.archive.org/web/20200325192439/https://www.gutenberg.org/wiki/Gutenberg:Credits. Accessed 25 March 2020.
-	169.	—. “The CD and DVD Project.” 19 August 2017, web.archive.org/web/20200325194042/https://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project. Accessed 25 March 2020.
-	170.	—. “Feeds.” 1 April 2020, https://web.archive.org/web/20200608003736/http://www.gutenberg.org/wiki/Gutenberg:Feeds.
-	171.	—. “Offline Catalogs.” 6 January 2020, https://web.archive.org/web/20200608003535/http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs.
-	172.	—. “Partners, Affiliates and Resources.” 24 January 2019, web.archive.org/web/20200325193013/https://www.gutenberg.org/wiki/Gutenberg:Partners,_Affiliates_and_Resources. Accessed 25 March 2020.
-	173.	Punter, David. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Non-Standard Englishes and the New Media, special issue of The Yearbook of English Studies, volume 25, 1995, pp. 229-230. JSTOR, www.jstor.org/stable/3508832.
-	174.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
-	175.	Readings, Bill. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Language Quarterly, volume 55, number 3, Sept 1994, pp. 321-326, doi:10.1215/00267929-55-3-321.
-	176.	@RealSaavedra (Ryan Saavedra). “Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist.” Twitter, 22 Jan. 2019, 3:27 AM, web.archive.org/save/https://twitter.com/realsaavedra/status/1087627739861897216?lang=en.
-	177.	Reason. “How to Politely Download All English Language Text Format Files from Project Gutenberg.” Ex Ratione, 1 November 2014, web/20200506014409/https://www.exratione.com/2014/11/how-to-politely-download-all-english-language-text-format-files-from-project-gutenberg/
-	178.	Reinert, Thomas. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Fiction Studies, volume 42, number 1, 1996, pp. 221-224. ProQuest, ProQuest Document ID 2152910014.
-	179.	Richardson, Leonard. “Project Gutenberg Books Are Real.” Books in Browsers V Proceedings, volume 18, issue 1, winter 2015, doi:10.3998/3336451.0018.126.
-	180.	Riddell, Allen, Troy J. Bassett, Laura Schneider, et al. “Common Library 1.0: A Corpus of Victorian Novels Reflecting the Population in Terms of Publication Year and Author Gender.” arXiv:1909.02602v1 [cs.DL] 
-	181.	Rigby, Mair. “Uncanny recognition: Queer theory's debt to the Gothic.” Gothic Studies, vol. 11, no. 1, 2009, pp. 46-57.
-	182.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
-	183.	Rogers, Deborah D. Ann Radcliffe: A Bio-Bibliography. Bio-Bibliographies in World Literature, number 4. Greenwood Press, 1996.
-	184.	Rosenberg, Scott. “How Google Book Search Got Lost.” Wired, 11 April 2017, web.archive.org/web/20200326035223/https://www.wired.com/2017/04/how-google-book-search-got-lost/. Accessed 25 March 2020.
-	185.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
-	186.	Sandvoss, Cornel. “The Death of the Reader: Literary Theory and the Study of Texts in Popular Culture.” Fandom: Identities and Communities in a Mediated World, edited by Jonathan Gray, C. Sandvoss, and C. Lee Harrington. NYU Press.
-	187.	Seaver, Nick. “Bastard Algebra.” Data, Now Bigger and Better!, edited by Tom Boellstorff and Bill Maurer. Prickly Paradigm, 2015.
-	188.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
-	189.	Sentance, Nathan. “Your neutral is not our neutral.” Archival Decolonist, 27 September 2019, web.archive.org/web/20200621053700/https://archivaldecolonist.com/2019/09/27/your-neutral-is-not-our-neutral-3/
-	190.	Shaw, Zed. Learn Python the Hard Way, Addison-Wesley Professional, 2013.
-	191.	Shirky, Clay. “Why Abundance is Good: A Reply to Nick Carr.” Encyclopædia Britannica Blog, 17 July 2008, blogs.britannica.com/2008/07/why-abundance-is-good-a-reply-to-nick-carr. Accessed 10 Sept 2019.
-	192.	Shiroma, Yumi Dineen. “Conjectures on World Literature, Revisited.” June 3, 2018, web.archive.org/web/20200309032430/http://yumidineenshiroma.org/blog/conjectures-on-world-literature-revisited/ Accessed March 1, 2020.
-	193.	Sinanan, Kerry. “Heterogeneous Blackness: Peter Brathwaite’s Eighteenth-Century Re-portraits.” The 18th-Century Common, 13 July 2020, web.archive.org/web/20200721052125/https://www.18thcenturycommon.org/blackportraiture. Accessed 18 July 2020.
-	194.	Somers, James. “Torching the Modern-Day Library of Alexandria.” The Atlantic, 20 April 2017, web.archive.org/web/20200326035404/https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/. Accessed 25 March 2020.
-	195.	Spedding, Patrick. “‘The New Machine’: Discovering the Limits of ECCO.” Eighteenth-Century Studies, volume 44, issue 4, 2011, pp. 437-453.
-	196.	St. Clair, William. The Reading Nation in the Romantic Period. Cambridge UP, 2007.
-	197.	Stanton, Judith Phillips. “Recovering Charlotte Smith’s Letters: A History, With Lessons.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 159-173.
-	198.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
-	199.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
-	200.	Syme, Holger Schott. “Imaginary Targets.” Los Angeles Review of Books, 5 Nov 2012. web.archive.org/web/20191023050529/https://lareviewofbooks.org/article/in-defense-of-data-responses-to-stephen-marches-literature-is-not-data.
-	201.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381. (If I add new Tabor citations, go back and clarify which ones I’m already quoting)
-	202.	Taylor, George. The French Revolution and the London Stage, 1789–1805. Cambridge UP, 2001.
-	203.	TCP Executive Board. “Meeting Minutes 2001-01-12.” wayback.archive-it.org/5871/20190806191909/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2001-01-12/ Accessed 10 March 2020.
-	204.	—. “Meeting Minutes 2003-10-22.” wayback.archive-it.org/5871/20190806191856/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2003-10-22/ Accessed 23 March 2020.
-	205.	—. “Meeting Minutes 2004-10-21.” wayback.archive-it.org/5871/20190806191851/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2004-10-21/ Accessed 23 March 2020.
-	206.	—. “Meeting Minutes 2005-10-20.” https://wayback.archive-it.org/5871/20190806191847/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2005-10-20/ Accessed 23 March 2020.
-	207.	—. “Meeting Minutes 2006-09-16.” https://wayback.archive-it.org/5871/20190806191843/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2006-09-16/ Accessed 23 March 2020.
-	208.	—. “Meeting Minutes 2007-10-30.” https://wayback.archive-it.org/5871/20190806191838/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2007-10-30/ Accessed 23 March 2020.
-	209.	Text Creation Partnership (TCP). “About the partnership.” web.archive.org/web/20200312203119/https://textcreationpartnership.org/about-the-tcp/. Accessed 12 March 2020.
-	210.	—. “Eighteenth Century Collections Online (ECCO) TCP.” web.archive.org/web/20200312212808/https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/. Accessed 12 March 2020.
-	211.	—. “Early English Books Online (EEBO) TCP.” web.archive.org/web/20200312212215/https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/. Accessed 12 March 2020.
-	212.	—. “FAQ.” web.archive.org/web/20200311042209/https://textcreationpartnership.org/faq/. Accessed 10 March 2020.
-	213.	—. “Our scholarly partners.” web.archive.org/web/20200311042125/https://textcreationpartnership.org/about-the-tcp/about-partner-libraries/. Accessed 10 March 2020.
-	214.	—. “Welcome.” web.archive.org/web/20200311042006/https://textcreationpartnership.org/. Accessed 10 March 2020.
-	215.	Thaventhiran, Helen. “Feelings under the Microscope: New Critical Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 83-99, doi:10.1017/9781108339339.005.
-	216.	Townshend, Dale and Angela Wright. “Gothic and Romantic engagements: The critical reception of Ann Radcliffe, 1789–1850.” Ann Radcliffe, Romanticism and the Gothic, Cambridge University Press, 2014.
-	217.	Tufte, Edward. The Visual Display of Quantitative Information. 2nd ed. Graphics Press, 2001.
-	218.	Underwood, Ted. “A dataset for distant-reading literature in English, 1700-1922.” The Stone and the Shell, 7 August 2015, https://web.archive.org/web/20200207044631/https://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/. Accessed 6 Feb 2020.
-	219.	—. “A Genealogy of Distant Reading.” Digital Humanities Quarterly, volume 11, issue 2, 2017, www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html.
-	220.	—. Distant Horizons: Digital Evidence and Literary Change. U Chicago P, 2019.
-	221.	—. “Do humanists get their ideas from anything at all?” The Stone and the Shell, 24 Jan 2012, web.archive.org/web/20191105004437/https://tedunderwood.com/2012/01/24/discovery-and-hypothesis-testing. Accessed 4 Nov 2019.
-	222.	—. Why Literary Periods Mattered: Historical Contrast and the Prestige of Literary Studies. Stanford UP, 2013.
-	223.	Underwood, Ted and David Bamman. “The instability of gender.” The Stone and the Shell, 9 January 2016, https://web.archive.org/web/20200207044340/https://tedunderwood.com/2016/01/09/the-instability-of-gender/. Accessed 6 Feb 2020.
-	224.	—. “Preregistered Hypotheses for Evaluating Models of Literary Character,”  June 2014, hdl.handle.net/2142/49936.
-	225.	University Libraries, University of Colorado Boulder. “Increasing Access with Google Books.” 13 November 2019, /web/20200608004707/https://www.colorado.edu/libraries/2019/11/13/increasing-access-google-books.
-	226.	van Hooland, Seth, Ruben Verborgh, and Max De Wilde. “Cleaning Data with OpenRefine.” The Programming Historian, edited by Adam Crymble, 5 August 2013, web.archive.org/web/20200719213948/https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine. Accessed 19 July 2020.
-	227.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, vol. 21, 2001, pp. 263-282.
-	228.	Vara, Vauhini. “Project Gutenberg Fears No Google.” The Wall Street Journal Online, 10 December 2005, https://www.wsj.com/articles/SB113415403113218620. NOT ACCESSED IN FULL
-	229.	Vareschi, Mark and Mattie Burkert. “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale.” Theatre Journal, volume 68, issue 4, 2016, pp. 597-613. ProQuest, ProQuest Document ID 1886308168.
-	230.	Walker, William. “Aroused Yet Thoughtful: Readers in Eighteenth-Century Britain.” Review of Excitable Imaginations: Eroticism and Reading in Britain, 1660-1760, by Kathleen Lubey. Eighteenth Century Life, volume 39, number 2, April 2015, pp. 87-91.
-	231.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
-	232.	Wheeles D., Jensen K. (2013). Juxta Commons. In Proceedings of the Digital Humanities 2013. University of Nebraska-Lincoln, 17 July 2013. http://dh2013.unl.edu/abstracts/ab-142.html.
-	233.	Wilkins, Matt. “Literary Attention Lag.” Work Product, 13 January 2015, https://web.archive.org/web/20200605030011/https://mattwilkens.com/2015/01/13/literary-attention-lag/. Accessed 5 June 2020.
-	234.	Yeager, Myron D. “Articulating Male Homosexual Identity in the Long Eighteenth Century.” Review of The Overflowing of Friendship: Love between Men and the Creation of the American Republic by Richard Godbeer, The Gendering of Men, 1600–1750: Volume 2, Queer Articulations by Thomas A. King, and Perverse Romanticism: Aesthetics and Sexuality in Britain, 1750–1832 by Richard C. Sha. ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews, volume 23, number 4, pp. 259–267, 2010. doi:10.1080/0895769X.2010.517094.
-	235.	Zimmerman, Sarah M. "Smith [née Turner], Charlotte (1749–1806), poet and novelist." Oxford Dictionary of National Biography, Oxford University Press, 4 Oct. 2007, doi: 10.1093/ref:odnb/25790. Accessed 13 July 2019.
-	236.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
+	41.	Chuh, Kandice. “It’s Not About Anything.” Social Text 32 (4 (121)), 2014, pp. 125-134, doi:10.1215/01642472-2820496
+	42.	Civale, Susan. “Women’s life writing and reputation: A case study of Mary Darby Robinson.” Romanticism, vol. 24, no. 2, 2018, pp. 181-202.
+	43.	Clemens, Justin. “Aggressively middling: The Bourgeois &amp; Distant Reading by Franco Moretti.” Sydney Review of Books, 16 July 2013, web.archive.org/web/20200309032758/https://sydneyreviewofbooks.com/review/aggressively-middling/ Accessed 8 March 2020.
+	44.	Clery, E.J. The Rise of Supernatural Fiction 1762-1800. Cambridge UP, 1995.
+	45.	Christman, Paul. “The Cinema of Inadvertence.” The Hedgehog Review: Critical Reflections on Contemporary Culture, volume 21, number 3, Fall 2019, web.archive.org/web/20191118012126/https://hedgehogreview.com/issues/eating-and-being/articles/the-cinema-of-inadvertence-or-why-i-like-bad-movies
+	46.	Cronin, Richard. The Politics of Romantic Poetry: In Search of the Pure Commonwealth. Palgrave Macmillan, 2000.
+	47.	Cross, Ashley. “From Lyrical Ballads to Lyrical Tales: Mary Robinson's Reputation and the Problem of Literary Debt.” Studies in Romanticism, vol. 40, no. 4, 2001, pp. 571–605, doi:10.2307/25601532.
+	48.	—. Mary Robinson and the Genesis of Romanticism: Literary Dialogues and Debts, 1784–1821. Routledge, 2016.
+	49.	Cohen, Margaret. The Sentimental Education of the Novel. Princeton UP, 1999.
+	50.	Coker, Cait, and Kate Ozment. “Building the Women in Book History Bibliography, or Digital Enumerative Bibliography as Preservation of Feminist Labor.” Digital Humanities Quarterly, volume 13, number 3, 2019, www.digitalhumanities.org/dhq/vol/13/3/000428/000428.html.
+	51.	Cooke, Richard. “Wikipedia Is the Last Best Place on the Internet.” Wired, 17 February 2020, web.archive.org/web/20200227222807/https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet.
+	52.	Cordell, Ryan. “Talking about Viral Texts Failures.” ryancordell.org, 25 June 2020, web.archive.org/web/20200625185504/https://ryancordell.org/research/VT-database-fail. Accessed 25 June 2020.
+	53.	Crump, M. J. “Short Title Catalogue On-Line.” Information Development, vol. 2, no. 2, April 1986, pp. 105-107, doi:10.1177/026666698600200208. 
+	54.	Curran, Stuart. “Charlotte Smith: Intertextualities.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 175-188.
+	55.	Dawkins, Richard. “Memes: the new replicators.” 1976. The Selfish Gene, Oxford UP, 1989, pp. 189-201.
+	56.	Dayal, Samir. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. MELUS, volume 21, number 2, June 1996, pp. 165–168, doi:10.2307/467957.
+	57.	DeLuna, D. N. “Race Matters in the Very Long Eighteenth Century.” Huntington Library Quarterly, volume 64, number 3/4, 2001, pp. 507-518, https://www.jstor.org/stable/3817924.
+	58.	Denham, Alison. “Making Sorrow Sweet: Emotion and Empathy in the Experience of Fiction.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 190-210, doi:10.1017/9781108339339.011.
+	59.	Diaby, Bakary. “Black Women and/in the Shadow of Romanticism.” European Romantic Review, volume 30, issue 3, 209, doi: 10.1080/10509585.2019.1612568.
+	60.	Digital Proofreaders wiki. “General Workflow Diagram.” web.archive.org/web/20200730033032/https://www.pgdp.net/wiki/DP_Official_Documentation:General/General_Workflow_Diagram. Accessed 29 July 2020.
+	61.	Drucker, Johanna. Graphesis: Visual Forms of Knowledge Production. Harvard UP, 2014.
+	62.	—. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly, vol. 5, no. 1, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+	63.	Duckling, Louise. “‘Tell My Name to Distant Ages’: The Literary Fate of Charlotte Smith.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 203-217.
+	64.	“ECCO-TCP: Eighteenth Century Collections Online.” Text Creation Partnership, https://web.archive.org/web/20190621121928/http://www.textcreationpartnership.org:80/tcp-ecco. Accessed 20 June 2019.
+	65.	“Eighteenth Century Collections Online (ECCO) FAQ’s.” Gale Group (?), circa 2008, https://web.archive.org/web/20200603031058/http://find.galegroup.com/ecco/component/researchtools/xml/ecco_35.xml. Accessed 2 June 2020. 
+	66.	Emre, Merve. “Public Thinker: Leah Price on Books, Book Tech, and Book Tattoos.” Interview with Leah Price. Public Books, 26 Sept 2019, web.archive.org/web/20190928023628/https://www.publicbooks.org/public-thinker-leah-price-on-books-book-tech-and-book-tattoos. Accessed 27 Sept 2019.
+	67.	Ezell, Margaret J. M. “Big Books, Big Data, and Reading Literary Histories.” Eighteenth-Century Life, volume 41, issue 3, September 2017, pp. 3-19. Project MUSE, muse.jhu.edu/article/667488.
+	68.	Facer, Ruth. “Ann Radcliffe (1764-1823).” Women Writer Biographies, Chawton House, chawtonhouse.org/the-library/library-collections/womens-writing-in-english/women-writer-biographies/.
+	69.	Falkovich, Jacob. “100 Ways to Live Better.” Put A Number On It!, 30 December 2019, web.archive.org/save/https://putanumonit.com/2019/12/30/100-ways-to-live-better/.
+	70.	Farmer, Alan B., and Zachary Lesser. “Structures of Popularity in the Early Modern Book Trade.” Shakespeare Quarterly, vol. 56, no. 2, 2005, pp. 206–213. JSTOR, www.jstor.org/stable/3844307.
+	71.	—. “The Popularity of Playbooks Revisited.” Shakespeare Quarterly, vol. 56, no. 1, 2005, pp. 1–32. JSTOR, www.jstor.org/stable/3844024.
+	72.	Felski, Rita. “Everyday Aesthetics.” the minnesota review, volume 71-72, 2009, pp. 171-179.
+	73.	—. The Limits of Critique. U Chicago P, 2015.
+	74.	Finley, Klint. “The Internet Archive Is Making Wikipedia More Reliable.” Wired, 3 November 2019, web.archive.org/web/20200227222720/https://www.wired.com/story/internet-archive-wikipedia-more-reliable/
+	75.	Fischer-Starcke, Bettina. Corpus Linguistics in Literary Analysis: Jane Austen and Her Contemporaries. Continuum, 2010.
+	76.	Fleming, Catherine. Translation, Reputation, and Authorship in Eighteenth-Century Britain. PhD Dissertation, University of Toronto, 2018, hdl.handle.net/1807/101619.
+	77.	Flores, Pepe. “Is Wikipedia the largest-ever digital humanities project? Exploring an emerging relationship.” Wikimedia Foundation blog, 17 April 2016, web.archive.org/web/20200428033423/https://blog.wikimedia.org/2016/08/17/wikipedia-largest-digital-humanities-project/
+	78.	Forster, Chris. “A Walk Through the Metadata: Gender in the HathiTrust Dataset.” 8 Sept. 2015, cforster.com/2015/09/gender-in-hathitrust-dataset. Accessed 3 Sept. 2019.
+	79.	Fowers, Alyssa. “Profiling protest data (or, what I did on my summer vacation).” Data and Dragons, 10 Sept 2019, dataanddragons.wordpress.com/2019/09/10/profiling-protests-or-what-i-did-on-my-summer-vacation. Accessed 10 Sept 2019.
+	80.	Frank, Marcie. “Melodrama and the Politics of Literary Form in Elizabeth Inchbald’s Works.” Eighteenth-Century Fiction, volume 27, number 3-4, Spring-Summer 2015, pp. 707-730.
+	81.	Freedgood, Elaine. “Reading Things.” The Ideas in Things: Fugitive Meaning in the Victorian Novel, U Chicago P, 2006.
+	82.	Frow, John. Genre. Routledge, 2015.
+	83.	Fry, Carrol L. Charlotte Smith. Twayne’s English Authors Series, edited by Herbert Sussman, Twayne, 1996.
+	84.	Gadd, Ian. “The Use and Misuse of Early English Books Online.” Literature Compass, volume 6, issue 3, 2009, pp. 680-692, doi:10.1111/j.1741‐4113.2009.00632.x.
+	85.	Gale. “Eighteenth Century Collections Online.” web.archive.org/web/20200324195501/https://www.gale.com/primary-sources/eighteenth-century-collections-online Accessed 24 March, 2020.
+	86.	Gamer, Michael. Romanticism and the Gothic: Genre, Reception, and Canon Formation. Cambridge UP, 2000.
+	87.	Gamer, Michael, and Terry F. Robinson. “Mary Robinson and the Dramatic Art of the Comeback.” Studies in Romanticism, vol. 48, no. 2, 2009, pp. 219–56. JSTOR, www.jstor.org/stable/25602191.
+	88.	Garnai, Amy. Revolutionary Imaginings in the 1790s: Charlotte Smith, Mary Robinson, Elizabeth Inchbald. Palgrave Macmillan, 2009.
+	89.	Garrett, Jeffrey. “Subject Headings in Full-Text Environments: The ECCO Experiment.” College &amp; Research Libraries, volume 68, number 1, 2007, doi: 10.5860/crl.68.1.69.
+	90.	Garside, Peter. “The English Novel in the Romantic Era: Consolidation and Dispersal.” The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 2: 1800-1829, edited by Peter Garside and Rainer Schöwerling with Christopher Skelton-Foord and Karin Wünsche. Oxford UP, 2000.
+	91.	Garside, Peter, James Raven, and Rainer Schöwerling, editors. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, Oxford UP, 2000. 2 vols.
+	92.	—. General Introduction. The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, Oxford UP, 2000. 2 vols.
+	93.	Gavin, Michael. “Historical Text Networks: The Sociology of Early English Criticism.” Eighteenth-Century Studies, volume 50, number 1, 2016, pp. 53-80.
+	94.	Gilbert, Geoff. “The Durability of Affect and the Ageing of Gay Male Queer Theory.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 133-158, doi: 10.1017/9781108339339.008.
+	95.	Goldie, Mark and Robert Wokler, editors. The Cambridge history of eighteenth-century political thought. Cambridge UP, 2006.
+	96.	Gonda, Caroline. “Review of Heteronormativity in Eighteenth-Century Literature and Culture, ed. by Ana de Freitas Boe and Abby Coykendall.” Eighteenth Century Studies, volume 49, issue 3, 2016, pp. 427-428.
+	97.	Google Books. “Google Books History.” Site as of 25 March 2020, web.archive.org/web/20200326031915/https://books.google.com/googlebooks/about/history.html Accessed 25 March 2020.
+	98.	—. “Google Books History.” Site as of 6 February 2016, https://web.archive.org/web/20160206043510/http://books.google.com/googlebooks/about/history.html. Accessed 25 March 2020.
+	99.	—. “Google Books Ngram Viewer: Datasets.” 2013, https://web.archive.org/web/20200608004518/http://storage.googleapis.com/books/ngrams/books/datasetsv2.html.
+	100.	—. “Google Books Ngram Viewer: Info.” 2013, https://web.archive.org/web/20200608004424/https://books.google.com/ngrams/info.
+	101.	Gorak, Jan. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Philology, volume 94, number 2, Nov 1996, pp. 286-290. JSTOR, www.jstor.org/stable/437977.
+	102.	Grafton, Anthony and Glenn W. Most. “How to do things with texts: An introduction.” Canonical Texts and Scholarly Practices: A Global Comparative Approach. Cambridge UP, 2016, pp. 1-13. doi:10.1017/CBO9781316226728.001.
+	103.	Gray, Kishonna L. Review of Algorithms of Oppression: How Search Engines Reinforce Racism. Feminist Media Studies, volume 19, issue 2, pp. 308-310, doi:10.1080/14680777.2019.1579984.
+	104.	Gregg, Stephen H. “Finding ECCO-TCP texts.” Manicule: Thoughts on the Eighteenth Century, Daniel Defoe, and Digital Humanities, Wordpress, 16 Aug. 2017, shgregg.com/2017/08/16/finding-ecco-tcp-texts. Accessed 20 June 2019.
+	105.	Guillory, John. Cultural Capital: The Problem of Literary Canon Formation. U Chicago P, 1993.
+	106.	Hammond, Adam. Literature in the Digital Age: An Introduction. Cambridge UP, 2016.
+	107.	Hane, Paula. “Project Gutenberg Progresses.” Information Today, volume 21, number 5, May 2004, web.archive.org/web/20200325195437/http://www.infotoday.com/it/may04/hane1.shtml. Accessed 25 March 2020.
+	108.	Hart, Michael. “The History and Philosophy of Project Gutenberg.” Project Gutenberg, August 1992. web.archive.org/web/20200312224522/https://www.gutenberg.org/wiki/Gutenberg:The_History_and_Philosophy_of_Project_Gutenberg_by_Michael_Hart Accessed 12 March 2020.
+	109.	HathiTrust. “Getting Content Into HathiTrust.” HathiTrust, web.archive.org/web/20190915204356/https://www.hathitrust.org/ingest. Accessed 15 Sept 2019.
+	110.	—. “Governance.” HathiTrust, web.archive.org/web/20200325212223/https://www.hathitrust.org/governance. Accessed 25 March 2020.
+	111.	—. “Help - Copyright.” HathiTrust, web.archive.org/web/20200325212528/https://www.hathitrust.org/help_copyright%23RestrictedAccess. Accessed 25 March 2020.
+	112.	—. “Major Library Partners Launch HathiTrust Shared Digital Repository.” HathiTrust, 13 October 2008, web.archive.org/web/20200325213628/https://www.hathitrust.org/press_10-13-2008. Accessed 25 March 2020.
+	113.	—. “Member Community.” HathiTrust, web.archive.org/web/20190915204844/https://www.hathitrust.org/community. Accessed 15 Sept 2019.
+	114.	—. “Our Digital Library.” HathiTrust, web.archive.org/web/20190915204611/https://www.hathitrust.org/digital_library. Accessed 15 Sept 2019.
+	115.	—. “Our Membership.” HathiTrust, web.archive.org/web/20190915204720/https://www.hathitrust.org/partnership. Accessed 15 Sept 2019.
+	116.	Heisel, Andrew. “Hannah More’s Art of Reduction.” Eighteenth-Century Fiction, volume 25, number 3, Spring 2013, pp. 557-588.
+	117.	Hosch, William L. “Project Gutenberg.” Encyclopedia Britannica, 17 August 2017, web.archive.org/web/20200325190246/https://www.britannica.com/topic/Project-Gutenberg. Accessed 25 March 2020.
+	118.	Hunt, Bishop C. “Wordsworth and Charlotte Smith.” The Wordsworth Circle, vol. 1, no. 3, 1970, pp. 85. ProQuest, ProQuest Document ID 1300171026.
+	119.	IPUMS NAPP. “What is NAPP?” North Atlantic Population Project, web.archive.org/web/20200209014205/https://www.nappdata.org/napp/intro.shtml. Accessed February 8, 2020.
+	120.	Jockers, Matthew. Macroanalysis: Digital Methods and Literary History. U Illinois P, 2013.
+	121.	Juxta Commons. “A User Guide to Juxta Commons.” web.archive.org/web/20200227014953/http://juxtacommons.org/guide.
+	122.	Karels, Liene. “HathiTrust adds new members, goes global.” Montage: Arts + Creativity, University of Michigan, November 2010, web.archive.org/web/20140302084528/http://www.montage.umich.edu/2010/11/hathitrust-adds-new-members-goes-global. Accessed 25 March 2020.
+	123.	Karian, Stephen. "The Limitations and Possibilities of the ESTC." The Age of Johnson, vol. 21, 2011, pp. 283-297. ProQuest, ProQuest document ID 1689625001.
+	124.	King, Kathryn R. “Introduction: Hans Turley, Queer Studies, and the Open-Hatched Eighteenth Century.” The Eighteenth Century, volume 53, number 3, 2012, pp. 265-272. JSTOR, www.jstor.org/stable/23365012.
+	125.	Klein, Lauren. “Distant Reading After Moretti.” Arcade: Literature, the Humanities, &amp; the World, 2018, web.archive.org/save/https://arcade.stanford.edu/blogs/distant-reading-after-moretti. Accessed 19 September 2019.
+	126.	Klein, Ula, and Emily MN Kugler. “Eighteenth-Century Camp Introduction.” ABO: Interactive Journal for Women in the Arts, 1640-1830, volume 9, issue 1, 2019, pp. 1-12. doi:10.5038/2157-7129.9.1.1180
+	127.	Korshin, Paul J. Review of Bibliography, Machine Readable Cataloguing, and the ESTC. A Summary History of the Eighteenth Century Short Title Catalogue. Working Methods. Cataloguing Rules. A Catalogue of the Works of Alexander Pope Printed Between 1711 and 1800 in the British Library, by R. C. Alston and M. C. Jannetta. Eighteenth-Century Studies, volume 12, number 2, 1978, pp. 209–212. JSTOR, www.jstor.org/stable/2738046.
+	128.	Labbe, Jacqueline. “Introduction.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 1-11.
+	129.	—. “Selling One's Sorrows: Charlotte Smith, Mary Robinson, and the Marketing of Poetry.” The Wordsworth Circle, volume 25, number 2, 1994, pp. 68-71. ProQuest, ProQuest Document ID 1300173031.
+	130.	LaGuardia, Cheryl. Review of Eighteenth Century Collections Online. Library Journal, May 2004, pp. 123-124. 
+	131.	Lahti, Leo, Niko Ilomäki, and Mikko Tolonen. “A Quantitative Study of History in the English Short-Title Catalogue (ESTC), 1470-1800.” LIBER Quarterly, volume 25, number 2, 2015, pp. 87–31, doi:10.18352/lq.10112.
+	132.	Lebert, Marie. “Project Gutenberg (1971-2008).” Project Gutenberg, May 2008, www.gutenberg.org/cache/epub/27045/pg27045-images.html Accessed 12 March 2020
+	133.	Lee, Haimin. “15 Years of Google Books.” The Keyword, Google.
+	134.	Liberman, Mark. “The ‘dance of the p’s and b’s’: truth or noise?” Language Log, 26 Jan 2012, web.archive.org/web/20191105001115/https://languagelog.ldc.upenn.edu/nll/?p=3730. Accessed 4 Nov 2019.
+	135.	Lincoln, Matthew D. "Tidy Data for the Humanities." Matthew Lincoln, PhD (blog), 26 May 2020, https://web.archive.org/web/20200529025634/https://matthewlincoln.net/2020/05/26/tidy-data-for-%20humanities.html
+	136.	Liu, Alan. “Where is Cultural Criticism in the Digital Humanities?” Debates in the Digital Humanities. Edited by Matthew K. Gold. University of Minnesota Press, 2012.
+	137.	Love, Heather. “Close but Not Deep: Literary Ethics and the Descriptive Turn.” New Literary History, volume 41, issue 2, 2010, pp. 371–391.
+	138.	—. “Close Reading and Thin Description.” Public Culture, volume 25, number 3 (71), 2013, pp. 401-434, doi:10.1215/08992363-2144688.
+	139.	Manshel, Alexander, Laura B. McGrath, and J.D. Porter. “Who Cares About Literary Prizes?” Public Books, 3 August 2019, www.publicbooks.org/who-cares-about-literary-prizes
+	140.	“MARC 21 Format for Authority Data.” Cataloger's Reference Shelf, The Library Corporation, www.itsmarc.com/crs/mergedProjects/helpauth/helpauth/Contents.htm.
+	141.	Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” Los Angeles Review of Books, 28 Oct. 2012. web.archive.org/web/20191022060530/https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/
+	142.	Mark Ockerbloom, Mary. “Mary Darby Robinson (1758-1800).” A Celebration of Women Writers, digital.library.upenn.edu/women/robinson/biography.html. Accessed 07 June 2019.
+	143.	Mauri, M., T. Elli, G. Caviglia, G. Uboldi, and M. Azzi. (2017). “RAWGraphs: A Visualisation Platform to Create Open Outputs.” Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter, ACM, 2017, p. 28:1–28:5, doi:10.1145/3125571.3125585.
+	144.	McCarty, Willard. “Knowing: Modeling in Literary Studies.” A Companion to Digital Literary Studies, edited by Susan Schreibman and Ray Siemens, Blackwell, 2008, www.digitalhumanities.org/companionDLS/.
+	145.	McInnes, Andrew. “Should We Cancel Romantic Studies?” The Romantic Ridiculous, 15 June 2020, web.archive.org/web/20200627220515/https://romanticridiculous.wordpress.com/2020/06/15/should-we-cancel-romantic-studies.
+	146.	McLaverty, James. “Poems in Print.” The Oxford Handbook of British Poetry, 1660-1800, edited by Jack Lynch. Oxford UP, 2016, pp. 40-54, doi:10.1093/oxfordhb/9780199600809.013.3. Oxford Handbooks Online.
+	147.	McLeod, Dayna, Jasmine Rault, and T.L. Cowan. ”Speculative Praxis Towards a Queer Feminist Digital Archive: A Collaborative Research-Creation Project.” Ada: A Journal of Gender, New Media, &amp; Technology, issue 5, 2014, web.archive.org/web/20190318202624/https://adanewmedia.org/2014/07/issue5-cowanetal/
+	148.	McLeod, Deborah Anne. The Minerva Press. PhD dissertation, U of Alberta, 1997, doi:10.7939/R33J39C22.
+	149.	McKitterick, David. “Obituary: Katharine F. Pantzer, 1930-2005.” The Library: The Transactions of the Bibliographical Society, vol. 7, no. 1, March 2006, pp. 87-89. Project MUSE, muse.jhu.edu/article/203028.
+	150.	Mee, John. Print, Publicity, and Popular Radicalism in the 1790s: The Laurel of Liberty. Cambridge UP, 2016.
+	151.	Michel, Jean-Baptiste et al. “Quantitative Analysis of Culture Using Millions of Digitized Books.” Science, volume 331, issue 6014, 2011), pp. 176-182. doi:10.1126/science.1199644.
+	152.	Moretti, Franco. The Bourgeois: Between History and Literature. Verso, 2013.
+	153.	—. “Conjectures on World Literature.” New Left Review, volume 1, issue 1, 2000, pp. 54 - 67.
+	154.	—. Distant Reading. Verso, 2013.
+	155.	—. “Network Theory, Plot Analysis.” New Left Review, volume 68, 2011, pp. 80–102.
+	156.	Mullen, Lincoln. “gender: Predict Gender from Names Using Historical Data.” R package version 0.5.2. GitHub, https://github.com/ropensci/gender
+	157.	Mullen, Lincoln, Cameron Blevins, and Ben Schmidt. “Package ‘gender.’” November 9, 2019.
+	158.	Murphie, Andrew. “The Digital’s Amodal Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 390-407, doi: 10.1017/9781108339339.022.
+	159.	Murphy, Peter. Poetry as an occupation and an art in Britain, 1760-1830. Cambridge UP, 1993.
+	160.	Nicolazzo, Sarah. “Reading Clarissa’s “Conditional Liking”: A Queer Philology.” Modern Philology, volume 112, issu 1, 2014, pp. 205-225. JSTOR, www.jstor.org/stable/10.1086/676008.
+	161.	Noble, Safiya. Algorithms of Oppression: How Search Engines Reinforce Racism. NYU Press, 2018.
+	162.	Norman, Jeremy. “The English Short Title Catalogue (ESTC) is Conceived: 6/1976.” Jeremy Norman’s History of Information, www.historyofinformation.com/detail.php?entryid=2915. Accessed 26 June 2019.
+	163.	O’Dair, Sharon. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. South Atlantic Review, volume 59, number 2, May 1994, pp. 130-132. JSTOR, www.jstor.org/stable/3200802.
+	164.	OpenRefine. Version 3.1, Nov. 29, 2018, openrefine.org.
+	165.	Otchenash, Maiia. “Suing Online Platforms for Copyright Infringements: The Choice of Court and Law in the ‘Project Gutenberg’ Scenario.” IDP Revista de Internet, Derecho y Politica, no. 29, 2019, doi:10.7238/idp.v0i29.3175.
+	166.	O’Quinn, Daniel. “Half-History, or The Function of Cato at the Present Time.” Georgian Theatre in an Information Age: Media, Performance, Sociability, special issue of Eighteenth-Century Fiction, vol. 27, no. 3-4, 2015, pp. 479-507. Project Muse, muse.jhu.edu/article/584623. 
+	167.	Potter, Franz J. The History of Gothic Publishing, 1800-1835: Exhuming the Trade. Palgrave Macmillan, 2005.
+	168.	Price, Leah. The Anthology and the Rise of the Novel: From Richardson to George Eliot. Cambridge UP, 2000, doi:10.1017/CBO9780511484445.
+	169.	Prior, Karen Swallow. “Hannah More.” The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 16 Dec. 2008, www.litencyc.com. Accessed 29 June 2019.
+	170.	Project Gutenberg. “Credits.” 7 June 2006, web.archive.org/web/20200325192439/https://www.gutenberg.org/wiki/Gutenberg:Credits. Accessed 25 March 2020.
+	171.	—. “The CD and DVD Project.” 19 August 2017, web.archive.org/web/20200325194042/https://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project. Accessed 25 March 2020.
+	172.	—. “Feeds.” 1 April 2020, https://web.archive.org/web/20200608003736/http://www.gutenberg.org/wiki/Gutenberg:Feeds.
+	173.	—. “Offline Catalogs.” 6 January 2020, https://web.archive.org/web/20200608003535/http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs.
+	174.	—. “Partners, Affiliates and Resources.” 24 January 2019, web.archive.org/web/20200325193013/https://www.gutenberg.org/wiki/Gutenberg:Partners,_Affiliates_and_Resources. Accessed 25 March 2020.
+	175.	Punter, David. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Non-Standard Englishes and the New Media, special issue of The Yearbook of English Studies, volume 25, 1995, pp. 229-230. JSTOR, www.jstor.org/stable/3508832.
+	176.	Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000.
+	177.	Readings, Bill. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Language Quarterly, volume 55, number 3, Sept 1994, pp. 321-326, doi:10.1215/00267929-55-3-321.
+	178.	@RealSaavedra (Ryan Saavedra). “Socialist Rep. Alexandria Ocasio-Cortez (D-NY) claims that algorithms, which are driven by math, are racist.” Twitter, 22 Jan. 2019, 3:27 AM, web.archive.org/save/https://twitter.com/realsaavedra/status/1087627739861897216?lang=en.
+	179.	Reason. “How to Politely Download All English Language Text Format Files from Project Gutenberg.” Ex Ratione, 1 November 2014, web/20200506014409/https://www.exratione.com/2014/11/how-to-politely-download-all-english-language-text-format-files-from-project-gutenberg/
+	180.	Reinert, Thomas. Review of Cultural Capital: The Problem of Literary Canon Formation, by John Guillory. Modern Fiction Studies, volume 42, number 1, 1996, pp. 221-224. ProQuest, ProQuest Document ID 2152910014.
+	181.	Richardson, Leonard. “Project Gutenberg Books Are Real.” Books in Browsers V Proceedings, volume 18, issue 1, winter 2015, doi:10.3998/3336451.0018.126.
+	182.	Riddell, Allen, Troy J. Bassett, Laura Schneider, et al. “Common Library 1.0: A Corpus of Victorian Novels Reflecting the Population in Terms of Publication Year and Author Gender.” arXiv:1909.02602v1 [cs.DL] 
+	183.	Rigby, Mair. “Uncanny recognition: Queer theory's debt to the Gothic.” Gothic Studies, vol. 11, no. 1, 2009, pp. 46-57.
+	184.	Roberts, Bethan. “Charlotte Smith: Elegiac Sonnets, and Other Essays.” Edited by Daniel Robinson. The Literary Encyclopedia, volume 1.2.1.06: English Writing and Culture of the Romantic Period, 1789-1837, edited by Daniel Cook and Daniel Robinson, 02 January 2014, www.litencyc.com. Accessed 05 June 2019.
+	185.	Rogers, Deborah D. Ann Radcliffe: A Bio-Bibliography. Bio-Bibliographies in World Literature, number 4. Greenwood Press, 1996.
+	186.	Rosenberg, Scott. “How Google Book Search Got Lost.” Wired, 11 April 2017, web.archive.org/web/20200326035223/https://www.wired.com/2017/04/how-google-book-search-got-lost/. Accessed 25 March 2020.
+	187.	Runge, Laura. “Mary Darby Robinson (1758?-1800) - Bibliography.” chuma.cas.usf.edu/~runge/MRobinson.htm. Accessed 07 June 2019.
+	188.	Sandvoss, Cornel. “The Death of the Reader: Literary Theory and the Study of Texts in Popular Culture.” Fandom: Identities and Communities in a Mediated World, edited by Jonathan Gray, C. Sandvoss, and C. Lee Harrington. NYU Press.
+	189.	Seaver, Nick. “Bastard Algebra.” Data, Now Bigger and Better!, edited by Tom Boellstorff and Bill Maurer. Prickly Paradigm, 2015.
+	190.	Sedgwick, Eve Kosofky. “Paranoid Reading and Reparative Reading: Or, You’re So Paranoid, You Probably Think This Essay is About You.” Touching Feeling, Duke UP, 2003, pp. 123-151.
+	191.	Sentance, Nathan. “Your neutral is not our neutral.” Archival Decolonist, 27 September 2019, web.archive.org/web/20200621053700/https://archivaldecolonist.com/2019/09/27/your-neutral-is-not-our-neutral-3/
+	192.	Shaw, Zed. Learn Python the Hard Way, Addison-Wesley Professional, 2013.
+	193.	Shirky, Clay. “Why Abundance is Good: A Reply to Nick Carr.” Encyclopædia Britannica Blog, 17 July 2008, blogs.britannica.com/2008/07/why-abundance-is-good-a-reply-to-nick-carr. Accessed 10 Sept 2019.
+	194.	Shiroma, Yumi Dineen. “Conjectures on World Literature, Revisited.” June 3, 2018, web.archive.org/web/20200309032430/http://yumidineenshiroma.org/blog/conjectures-on-world-literature-revisited/ Accessed March 1, 2020.
+	195.	Sinanan, Kerry. “Heterogeneous Blackness: Peter Brathwaite’s Eighteenth-Century Re-portraits.” The 18th-Century Common, 13 July 2020, web.archive.org/web/20200721052125/https://www.18thcenturycommon.org/blackportraiture. Accessed 18 July 2020.
+	196.	Somers, James. “Torching the Modern-Day Library of Alexandria.” The Atlantic, 20 April 2017, web.archive.org/web/20200326035404/https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/. Accessed 25 March 2020.
+	197.	Spedding, Patrick. “‘The New Machine’: Discovering the Limits of ECCO.” Eighteenth-Century Studies, volume 44, issue 4, 2011, pp. 437-453.
+	198.	St. Clair, William. The Reading Nation in the Romantic Period. Cambridge UP, 2007.
+	199.	Stanton, Judith Phillips. “Recovering Charlotte Smith’s Letters: A History, With Lessons.” Charlotte Smith in British Romanticism, edited by Jacqueline Labbe. Pickering &amp; Chatto, 2008, pp. 159-173.
+	200.	Stott, Anne. “Hannah More Chronology.” The Victorian Web, 2002, www.victorianweb.org/authors/more/chron.html.
+	201.	Suarez, Michael F. “Towards a bibliometric analysis of the surviving record, 1701–1800.” The Cambridge History of the Book in Britain, Volume 5: 1695–1830, edited by Michael F. Suarez and Michael L. Turner, Cambridge UP, 2009, pp. 39-65. 
+	202.	Syme, Holger Schott. “Imaginary Targets.” Los Angeles Review of Books, 5 Nov 2012. web.archive.org/web/20191023050529/https://lareviewofbooks.org/article/in-defense-of-data-responses-to-stephen-marches-literature-is-not-data.
+	203.	Tabor, Stephen. "ESTC and the Bibliographical Community." The Library: The Transactions of the Bibliographical Society, vol. 8 no. 4, 2007, pp. 367-386. Project MUSE, muse.jhu.edu/article/230381. (If I add new Tabor citations, go back and clarify which ones I’m already quoting)
+	204.	Taylor, George. The French Revolution and the London Stage, 1789–1805. Cambridge UP, 2001.
+	205.	TCP Executive Board. “Meeting Minutes 2001-01-12.” wayback.archive-it.org/5871/20190806191909/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2001-01-12/ Accessed 10 March 2020.
+	206.	—. “Meeting Minutes 2003-10-22.” wayback.archive-it.org/5871/20190806191856/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2003-10-22/ Accessed 23 March 2020.
+	207.	—. “Meeting Minutes 2004-10-21.” wayback.archive-it.org/5871/20190806191851/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2004-10-21/ Accessed 23 March 2020.
+	208.	—. “Meeting Minutes 2005-10-20.” https://wayback.archive-it.org/5871/20190806191847/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2005-10-20/ Accessed 23 March 2020.
+	209.	—. “Meeting Minutes 2006-09-16.” https://wayback.archive-it.org/5871/20190806191843/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2006-09-16/ Accessed 23 March 2020.
+	210.	—. “Meeting Minutes 2007-10-30.” https://wayback.archive-it.org/5871/20190806191838/http://www.textcreationpartnership.org/tcp-board-meeting-minutes-2007-10-30/ Accessed 23 March 2020.
+	211.	Text Creation Partnership (TCP). “About the partnership.” web.archive.org/web/20200312203119/https://textcreationpartnership.org/about-the-tcp/. Accessed 12 March 2020.
+	212.	—. “Eighteenth Century Collections Online (ECCO) TCP.” web.archive.org/web/20200312212808/https://textcreationpartnership.org/tcp-texts/ecco-tcp-eighteenth-century-collections-online/. Accessed 12 March 2020.
+	213.	—. “Early English Books Online (EEBO) TCP.” web.archive.org/web/20200312212215/https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/. Accessed 12 March 2020.
+	214.	—. “FAQ.” web.archive.org/web/20200311042209/https://textcreationpartnership.org/faq/. Accessed 10 March 2020.
+	215.	—. “Our scholarly partners.” web.archive.org/web/20200311042125/https://textcreationpartnership.org/about-the-tcp/about-partner-libraries/. Accessed 10 March 2020.
+	216.	—. “Welcome.” web.archive.org/web/20200311042006/https://textcreationpartnership.org/. Accessed 10 March 2020.
+	217.	Thaventhiran, Helen. “Feelings under the Microscope: New Critical Affect.” Affect and Literature, ed. Alex Houen, Cambridge UP, 2020, pp. 83-99, doi:10.1017/9781108339339.005.
+	218.	Townshend, Dale and Angela Wright. “Gothic and Romantic engagements: The critical reception of Ann Radcliffe, 1789–1850.” Ann Radcliffe, Romanticism and the Gothic, Cambridge University Press, 2014.
+	219.	Tufte, Edward. The Visual Display of Quantitative Information. 2nd ed. Graphics Press, 2001.
+	220.	Underwood, Ted. “A dataset for distant-reading literature in English, 1700-1922.” The Stone and the Shell, 7 August 2015, https://web.archive.org/web/20200207044631/https://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/. Accessed 6 Feb 2020.
+	221.	—. “A Genealogy of Distant Reading.” Digital Humanities Quarterly, volume 11, issue 2, 2017, www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html.
+	222.	—. Distant Horizons: Digital Evidence and Literary Change. U Chicago P, 2019.
+	223.	—. “Do humanists get their ideas from anything at all?” The Stone and the Shell, 24 Jan 2012, web.archive.org/web/20191105004437/https://tedunderwood.com/2012/01/24/discovery-and-hypothesis-testing. Accessed 4 Nov 2019.
+	224.	—. Why Literary Periods Mattered: Historical Contrast and the Prestige of Literary Studies. Stanford UP, 2013.
+	225.	Underwood, Ted and David Bamman. “The instability of gender.” The Stone and the Shell, 9 January 2016, https://web.archive.org/web/20200207044340/https://tedunderwood.com/2016/01/09/the-instability-of-gender/. Accessed 6 Feb 2020.
+	226.	—. “Preregistered Hypotheses for Evaluating Models of Literary Character,”  June 2014, hdl.handle.net/2142/49936.
+	227.	University Libraries, University of Colorado Boulder. “Increasing Access with Google Books.” 13 November 2019, /web/20200608004707/https://www.colorado.edu/libraries/2019/11/13/increasing-access-google-books.
+	228.	van Hooland, Seth, Ruben Verborgh, and Max De Wilde. “Cleaning Data with OpenRefine.” The Programming Historian, edited by Adam Crymble, 5 August 2013, web.archive.org/web/20200719213948/https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine. Accessed 19 July 2020.
+	229.	Vander Meulen, David. “ESTC as Foundational and Always Developing.” The Age of Johnson, vol. 21, 2001, pp. 263-282.
+	230.	Vara, Vauhini. “Project Gutenberg Fears No Google.” The Wall Street Journal Online, 10 December 2005, https://www.wsj.com/articles/SB113415403113218620. NOT ACCESSED IN FULL
+	231.	Vareschi, Mark and Mattie Burkert. “Archives, Numbers, Meaning: The Eighteenth-Century Playbill at Scale.” Theatre Journal, volume 68, issue 4, 2016, pp. 597-613. ProQuest, ProQuest Document ID 1886308168.
+	232.	Walker, William. “Aroused Yet Thoughtful: Readers in Eighteenth-Century Britain.” Review of Excitable Imaginations: Eroticism and Reading in Britain, 1660-1760, by Kathleen Lubey. Eighteenth Century Life, volume 39, number 2, April 2015, pp. 87-91.
+	233.	Watt, Ian. The Rise of the Novel: Studies in Defoe, Richardson and Fielding. 1957. U of California P, 2001.
+	234.	Wheeles D., Jensen K. (2013). Juxta Commons. In Proceedings of the Digital Humanities 2013. University of Nebraska-Lincoln, 17 July 2013. http://dh2013.unl.edu/abstracts/ab-142.html.
+	235.	Wilkins, Matt. “Literary Attention Lag.” Work Product, 13 January 2015, https://web.archive.org/web/20200605030011/https://mattwilkens.com/2015/01/13/literary-attention-lag/. Accessed 5 June 2020.
+	236.	Yeager, Myron D. “Articulating Male Homosexual Identity in the Long Eighteenth Century.” Review of The Overflowing of Friendship: Love between Men and the Creation of the American Republic by Richard Godbeer, The Gendering of Men, 1600–1750: Volume 2, Queer Articulations by Thomas A. King, and Perverse Romanticism: Aesthetics and Sexuality in Britain, 1750–1832 by Richard C. Sha. ANQ: A Quarterly Journal of Short Articles, Notes, and Reviews, volume 23, number 4, pp. 259–267, 2010. doi:10.1080/0895769X.2010.517094.
+	237.	Zimmerman, Sarah M. "Smith [née Turner], Charlotte (1749–1806), poet and novelist." Oxford Dictionary of National Biography, Oxford University Press, 4 Oct. 2007, doi: 10.1093/ref:odnb/25790. Accessed 13 July 2019.
+	238.	Zwicker, Steven N. “Is There Such a Thing as Restoration Literature?” Huntington Library Quarterly, vol. 69, no. 3, 2006, pp. 425–450, doi:10.1525/hlq.2006.69.3.425.</Text>
             <Comments>they style it all lowercase
+what does this mean??
 they style it all lowercase
 “the text of a talk delivered at the 2018 MLA Annual Convention for a panel, “Varieties of Digital Humanities,” organized by Alison Booth and Miriam Posner. Marisa Parham, Alan Liu, and Ted Underwood were the other speakers. (Howard Ramsby was also scheduled to present, but he was unable to attend because of the blizzard.)”
 not a permanent URL
