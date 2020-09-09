@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-07 23:19:45 -0400" ModID="A9059055-8D6D-4878-8C45-052A226A3875">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-09 14:35:38 -0400" ModID="9ECEB5E7-C76E-410F-8970-7435F151D5AA">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -2151,14 +2151,14 @@
                                                 <TextSelection>375,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="608C6550-F78A-4A07-AF8C-D2B016B44E57" Type="Text" Created="2020-06-02 20:58:57 -0400" Modified="2020-06-07 21:05:14 -0400">
+                                        <BinderItem UUID="608C6550-F78A-4A07-AF8C-D2B016B44E57" Type="Text" Created="2020-06-02 20:58:57 -0400" Modified="2020-09-09 14:32:19 -0400">
                                             <Title>ECCO - DSL</Title>
                                             <MetaData>
                                                 <LabelID>11</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1142,0</TextSelection>
+                                                <TextSelection>2290,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="892038FC-28EE-42AB-BC08-7AE9D75AD50B" Type="Text" Created="2020-06-07 21:02:48 -0400" Modified="2020-06-07 21:46:57 -0400">
@@ -2525,10 +2525,10 @@
                                                         <TextSelection>252,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="8A8D294A-924A-4DE6-AF82-9DBA72220745" Type="Text" Created="2020-07-19 18:02:45 -0400" Modified="2020-07-19 18:40:15 -0400">
+                                                <BinderItem UUID="8A8D294A-924A-4DE6-AF82-9DBA72220745" Type="Text" Created="2020-07-19 18:02:45 -0400" Modified="2020-09-09 14:25:01 -0400">
                                                     <Title>how I made manual guesses</Title>
                                                     <TextSettings>
-                                                        <TextSelection>1546,0</TextSelection>
+                                                        <TextSelection>1549,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -2633,14 +2633,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-09-04 02:43:26 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-09-09 01:23:09 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5906,126</TextSelection>
+                        <TextSelection>22142,75</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="B12131E5-731A-4C42-BEA7-972CA771B9AA" Type="Text" Created="2019-06-07 21:04:16 -0400" Modified="2019-11-21 19:00:04 -0500">
@@ -2863,7 +2863,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>393,0</TextSelection>
+                                <TextSelection>8502,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4B648DB6-1619-4742-9612-515756FAFCB4" Type="Text" Created="2020-03-20 19:53:24 -0400" Modified="2020-03-20 19:57:37 -0400">
@@ -12793,7 +12793,7 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         </Collection>
         <Collection Type="RecentSearch" ID="5F019618-106D-4CE6-B387-20FB66CFFD0F" Color="0.922176 0.818589 0.999618">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">homophily</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">ecco-tcp headers</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -12842,13 +12842,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-09-07 23:10:17 -0400"></PreviousSession>
+        <PreviousSession Words="8" Characters="45" Date="2020-09-09 14:22:14 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-09-07 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1299</OtherWordCount>
-        <OtherCharCount>8109</OtherCharCount>
+    <RecentWritingHistory Date="2020-09-09 00:00:00 -0400">
+        <DraftWordCount>8</DraftWordCount>
+        <DraftCharCount>45</DraftCharCount>
+        <OtherWordCount>53</OtherWordCount>
+        <OtherCharCount>374</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
