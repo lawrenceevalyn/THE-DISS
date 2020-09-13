@@ -1,23 +1,18 @@
-Create a csv with the following columns:
-	from within FILEDESC tags:
-		IDNO DLPS
-		IDNO ESTC
-		IDNO DocNo
-		IDNO TCP
-		IDNO GaleDocNo
-	from within PUBLICATIONSTMT tags
+This is where the info I want is, in the XML hierarchy:
+	from within FILEDESC > PUBLICATIONSTMT tags:
+		IDNO type=DLPS
+		IDNO type=ESTC
+		IDNO type=DocNo
+		IDNO type=TCP
+		IDNO type=GaleDocNo
+	from within SOURCEDESC > BIBLFULL > TITLESTMT tags:
 		TITLE
 		AUTHOR
+	from within SOURCEDESC > PUBLICATIONSTMT tags:
 		PUBPLACE
 		PUBLISHER
+		DATE
 		
 
-For every file in the folder "ECCO-TCP-headers",
-	If we're inside FILEDESC,
-		If we find an IDNO tag,
-			Check the tag's "type" against my list
-			Record the contents of the tag in the appropriate column of the csv
-	If we're inside PUBLICATIONSTMT tags,
-		If we find one of the four tags I want,
-			Record the contents of the tag in the appropriate column of the csv
+Loop through it all and put it in a csv pls
 			

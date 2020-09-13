@@ -1201,7 +1201,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>141 83 1042 795 0 0 1440 878 </string>
+	<string>33 82 1042 795 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1251,16 +1251,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>228A43FE-9C02-4E36-BDE9-E6933AB66D2A</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -2115,14 +2105,22 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1D4F41D3-4AF5-4429-8654-A28324930D4E</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {360.66666666666669, 352.66666666666669}}</string>
+	<string>{{0, 13787.666666666666}, {360.66666666666669, 352.66666666666788}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{765, 0}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>304,0</string>
+	<string>41002,39</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

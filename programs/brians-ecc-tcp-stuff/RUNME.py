@@ -2,10 +2,7 @@
 # It will 'call' the other sub-programs as needed
 
 # import libraries
-try:
-    import xml.etree.cElementTree as ET     # this makes it faster
-except ImportError:
-    import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ET     # this makes it faster
 import os.path
 import collections
 import csv
@@ -23,7 +20,7 @@ publicationTmtList = []
 
 #initiate variables
 numfiles = 0
-directory = "corpus"
+directory = "../../corpora/ECCO-TCP/ECCO-TCP-headers"
 
 # make listdir ignore .DS_store (and other hidden files)
 def listdir_nohidden(path):
@@ -32,10 +29,10 @@ def listdir_nohidden(path):
             yield f
 
 # iterate through the directory
-for filename in listdir_nohidden("./" + directory):
+for filename in listdir_nohidden(directory):
 
 	# define the path to this file
-	path = "./" + directory + "/" + filename
+	path = directory + "/" + filename
 
 	# strip the file's namespace
 	try:
@@ -46,11 +43,11 @@ for filename in listdir_nohidden("./" + directory):
 	# call find-idno.py to print the file's TCP number
 	# this is just so you can tell that the program's running,
 	# and possibly see how far it got before it crashed (in case of problems)
-	try:
-		idno = find_idno(xmlstring)
-		print(idno)
-	except:
-		print("error finding IDNO with file %s" % (filename))
+#	try:
+#		idno = find_idno(xmlstring)
+#		print(idno)
+#	except:
+#		print("error finding IDNO with file %s" % (filename))
 
 	# call fileDesc.py to get FILEDESC fields
 	try:
@@ -78,7 +75,7 @@ with open(newfilename,'w') as csvfile:
 	fieldnames=['TITLE', 'AUTHOR', 'PUBPLACE', 'PUBLISHER', 'DLPS', 'ESTC','DocNo', 'TCP', 'GaleDocNo']
 	writer=csv.writer(csvfile)
 	writer.writerow(fieldnames)
-	for i in range(numFiles)
+	for i in range(numFiles):
 		fd = fileDescList[i]
 		pub = publicationsTmtList[i]
 		writer.writerow(pub.TITLE, pub.AUTHOR, pub.PUBPLACE, pub.PUBLISHER, fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo)
