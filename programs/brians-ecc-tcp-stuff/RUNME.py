@@ -41,36 +41,36 @@ for filename in listdir_nohidden("./" + directory):
 	try:
 		xmlstring = stripNamespace(path)
 	except:
-		print "error stripping namespace of file %s" % (filename)
+		print("error stripping namespace of file %s" % (filename))
 	
 	# call find-idno.py to print the file's TCP number
 	# this is just so you can tell that the program's running,
 	# and possibly see how far it got before it crashed (in case of problems)
 	try:
 		idno = find_idno(xmlstring)
-		print idno
+		print(idno)
 	except:
-		print "error finding IDNO with file %s" % (filename)
+		print("error finding IDNO with file %s" % (filename))
 
 	# call fileDesc.py to get FILEDESC fields
 	try:
 		fileDescFields = fileDesc(xmlstring)
 		fileDescList.append(fileDescFields)
 	except:
-		print "error getting fileDescFields for file %s" % (filename)
+		print("error getting fileDescFields for file %s" % (filename))
 	
 	# call publicationsTmt.py to get PUBLICATIONSTMT fields
 	try:
 		publicationsTmtFields = publicationsTmt(xmlstring)
 		publicationsTmtList.append(publicationsTmtFields)
 	except:
-		print "error getting publicationsTmtFields for file %s" % (filename)
+		print("error getting publicationsTmtFields for file %s" % (filename))
 		
 	# increment a counter to see how many I read
 	numfiles += 1
 
 # print some stuff so you know what's going on
-print "I read %d files" % (numfiles)
+print("I read %d files" % (numfiles))
 
 # time to start writing this stuff to the CSV!
 newfilename = "output_%s.csv" % (directory)
