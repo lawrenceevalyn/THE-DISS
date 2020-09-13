@@ -2,34 +2,25 @@
 <UIStates>
     <Binder Show="Yes">
         <ShowCollections>No</ShowCollections>
-        <SelectedCollection>1</SelectedCollection>
+        <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
-            <ItemID>043D9B6B-FB35-4879-B62B-870533D0FC75</ItemID>
-            <ItemID>B48B3167-1B36-4204-9EB8-04F7235C5CCE</ItemID>
-            <ItemID>3CB6E25B-B47C-4101-ABCF-88B24EB3CD55</ItemID>
-            <ItemID>E008129C-DF81-40D9-8F03-F947CCB7725B</ItemID>
-            <ItemID>6DD8D067-0500-4B5A-ABA0-1BAAF2D34046</ItemID>
-            <ItemID>696FF7BF-8561-40BA-A4A6-03327048B7AA</ItemID>
-            <ItemID>68761611-8C6A-48C0-9EEA-673EF96E72EF</ItemID>
-            <ItemID>99ED82FB-44FB-4318-8359-A01B4E34A281</ItemID>
-            <ItemID>8D218687-BF39-49DE-B328-51436A642D2F</ItemID>
-            <ItemID>1D4F41D3-4AF5-4429-8654-A28324930D4E</ItemID>
-            <ItemID>7AF56DB2-0E7E-4903-9BF5-CEB6FC91540E</ItemID>
-            <ItemID>72F5513A-65BA-46C0-91ED-4BF2C6AFD98A</ItemID>
-            <ItemID>EA9D22F9-53F4-4C8B-8BD2-08DD979EF464</ItemID>
-            <ItemID>275DC523-EDDA-486D-AD30-0BFC42405E90</ItemID>
+            <ItemID>DDF8AC31-4A85-4C8C-AE97-38C38E121C00</ItemID>
+            <ItemID>C429039C-9A1B-4E78-AF37-04BC1D1B1F57</ItemID>
+            <ItemID>E178C43A-001E-4C14-8C4B-1F41E853FF49</ItemID>
+            <ItemID>D6E7AB84-B725-416C-B2BE-70320E9FA3D3</ItemID>
+            <ItemID>11E162E5-C0E0-4764-B847-727FE9DFD9CB</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>8A8D294A-924A-4DE6-AF82-9DBA72220745</ItemID>
+            <ItemID>FCDF5615-90C6-4C9B-AE3F-14F471A44E21</ItemID>
         </Selection>
     </Binder>
-    <Inspector Show="Yes" View="Comments">
+    <Inspector Show="No" View="Notes">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
-    <Split>Horizontal</Split>
+    <Split>None</Split>
     <BinderAffects>Current</BinderAffects>
     <Labels>
         <Binder FullWidth="Yes">Yes</Binder>
@@ -51,7 +42,7 @@
         <UseVerticalLayout>No</UseVerticalLayout>
         <ShowScriveningsTitles>No</ShowScriveningsTitles>
         <ShowInvisibles>No</ShowInvisibles>
-        <RevisionMode>4</RevisionMode>
+        <RevisionMode>0</RevisionMode>
         <TextChecking>
             <Spelling>Yes</Spelling>
             <Grammar>No</Grammar>
@@ -73,7 +64,7 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>B12131E5-731A-4C42-BEA7-972CA771B9AA</ItemID>
+                    <ItemID>FCDF5615-90C6-4C9B-AE3F-14F471A44E21</ItemID>
                 </Content>
             </View>
             <Text>
@@ -115,12 +106,8 @@
             <View>
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
-                <GroupsViewMode>Single</GroupsViewMode>
-                <CurrentViewMode>Single</CurrentViewMode>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
                 <SelectionAffects>None</SelectionAffects>
-                <Content>
-                    <ItemID>5CBCD16E-6FE4-4613-B605-81EEA8DA060B</ItemID>
-                </Content>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>
