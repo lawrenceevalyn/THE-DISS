@@ -22,16 +22,32 @@ def fileDesc(xmlstring):
 	TCP = ""
 	GaleDocNo = ""
 
-	FILEDESCs = root.findall('.//FILEDESC')
-	for FILEDESC in FILEDESCs:
-		PUBLICATIONSTMTs = FILEDESC.findall('.//PUBLICATIONSTMT')
-		#print("inside filedesc")
-		for PUBLICATIONSTMT in PUBLICATIONSTMTs:
-			print("inside publicationstmt")
-			#the IDNO tags have an attribute with the value "type",
-			# and for each IDNO "type" I want to get the tag content
-			ESTC = PUBLICATIONSTMT.findtext(".//IDNO[@type='ESTC']")
-			print(ESTC)
+	IDNOs = root.findall('.//FILEDESC/PUBLICATIONSTMT/IDNO')
+	print("found IDNOs")
+	for IDNO in IDNOs:
+		print("got IDNO")
+		print(IDNO.tag, IDNO.attrib)
+		print(IDNO.text)
+		if IDNO.attrib == "DLPS":
+			DLPS = IDNO.text
+			print("DLPS is " + DLPS)
+		elif IDNO.attrib == "ESTC":
+			ESTC = IDNO.text
+			print("ESTC is " + ESTC)
+		else:
+			print("it's not DLPS or ESTC")	
+				
+#older, clumsier version (which didn't even work)
+#	FILEDESCs = root.findall('.//FILEDESC')
+#	for FILEDESC in FILEDESCs:
+#		PUBLICATIONSTMTs = FILEDESC.findall('.//PUBLICATIONSTMT')
+#		#print("inside filedesc")
+#		for PUBLICATIONSTMT in PUBLICATIONSTMTs:
+#			print("inside publicationstmt")
+#			#the IDNO tags have an attribute with the value "type",
+#			# and for each IDNO "type" I want to get the tag content
+#			ESTC = PUBLICATIONSTMT.findtext(".//IDNO[@type='ESTC']")
+#			print(ESTC)
 
 
 
