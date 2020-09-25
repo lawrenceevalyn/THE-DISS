@@ -70,12 +70,12 @@ for filename in listdir_nohidden(directory):
 print("I read %d files" % (numfiles))
 
 # time to start writing this stuff to the CSV!
-newfilename = "output_%s.csv" % (directory)
+newfilename = "tcpheaders-output.csv"
 with open(newfilename,'w') as csvfile:
 	fieldnames=['TITLE', 'AUTHOR', 'PUBPLACE', 'PUBLISHER', 'DLPS', 'ESTC','DocNo', 'TCP', 'GaleDocNo']
 	writer=csv.writer(csvfile)
 	writer.writerow(fieldnames)
-	for i in range(numFiles):
+	for i in range(numfiles):
 		fd = fileDescList[i]
 		pub = publicationsTmtList[i]
 		writer.writerow(pub.TITLE, pub.AUTHOR, pub.PUBPLACE, pub.PUBLISHER, fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo)
