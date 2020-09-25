@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-25 19:06:57 -0400" ModID="424D313D-96A9-40BE-8512-0551D3A00E3C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-25 19:21:08 -0400" ModID="55967D3F-3D47-4D9D-8C09-9954B4B1D878">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -2541,6 +2541,15 @@
                                         </BinderItem>
                                         <BinderItem UUID="899917DE-FBA4-4006-B597-FAD89C3AB728" Type="Text" Created="2020-09-25 17:41:21 -0400" Modified="2020-09-25 19:06:55 -0400">
                                             <Title>ESTC</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2753,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="730A9CEE-EECA-4C3B-BC5F-503302D4E991" Type="Text" Created="2020-09-25 19:21:04 -0400" Modified="2020-09-25 19:21:06 -0400">
+                                            <Title>HathiTrust</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
