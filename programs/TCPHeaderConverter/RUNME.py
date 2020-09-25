@@ -57,11 +57,11 @@ for filename in listdir_nohidden(directory):
 		print("error getting fileDescFields for file %s" % (filename))
 	
 	# call publicationsTmt.py to get PUBLICATIONSTMT fields
-	try:
-		publicationsTmtFields = publicationsTmt(xmlstring)
-		publicationsTmtList.append(publicationsTmtFields)
-	except:
-		print("error getting publicationsTmtFields for file %s" % (filename))
+#	try:
+#		publicationsTmtFields = publicationsTmt(xmlstring)
+#		publicationsTmtList.append(publicationsTmtFields)
+#	except:
+#		print("error getting publicationsTmtFields for file %s" % (filename))
 		
 	# increment a counter to see how many I read
 	numfiles += 1

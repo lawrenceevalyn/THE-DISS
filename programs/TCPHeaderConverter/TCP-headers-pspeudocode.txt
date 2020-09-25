@@ -5,14 +5,13 @@ This is where the info I want is, in the XML hierarchy:
 		IDNO type=DocNo
 		IDNO type=TCP
 		IDNO type=GaleDocNo
-	from within SOURCEDESC > BIBLFULL > TITLESTMT tags:
+	from within FILEDESC > SOURCEDESC > BIBLFULL > TITLESTMT tags:
 		TITLE
 		AUTHOR
-	from within SOURCEDESC > PUBLICATIONSTMT tags:
+	from within FILEDESC > SOURCEDESC > PUBLICATIONSTMT tags:
 		PUBPLACE
 		PUBLISHER
 		DATE
 		
 
 Loop through it all and put it in a csv pls
-			
