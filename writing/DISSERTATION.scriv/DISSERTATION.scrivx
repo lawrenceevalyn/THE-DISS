@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-25 19:21:08 -0400" ModID="55967D3F-3D47-4D9D-8C09-9954B4B1D878">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-26 01:15:01 -0400" ModID="E9DC5A9B-EA4C-44D7-817D-DD4A0130BD28">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -2556,6 +2556,17 @@
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="AB78D7BD-32CD-4FC5-BB28-C11276123A0C" Type="Text" Created="2020-09-25 23:44:31 -0400" Modified="2020-09-26 01:14:58 -0400">
+                                                    <Title>how I made manual gender guesses</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -2664,7 +2675,7 @@
                         <BinderItem UUID="B12131E5-731A-4C42-BEA7-972CA771B9AA" Type="Text" Created="2019-06-07 21:04:16 -0400" Modified="2019-11-21 19:00:04 -0500">
                             <Title>how-to</Title>
                             <TextSettings>
-                                <TextSelection>514,0</TextSelection>
+                                <TextSelection>318,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="03213EE8-EB33-44A9-BA7F-11A0D7A894D3" Type="Text" Created="2019-06-15 21:33:55 -0400" Modified="2019-11-21 19:00:04 -0500">
@@ -12862,11 +12873,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
         <PreviousSession Words="0" Characters="0" Date="2020-09-25 17:14:21 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-09-25 00:00:00 -0400">
+    <RecentWritingHistory Date="2020-09-26 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>440</OtherWordCount>
-        <OtherCharCount>2753</OtherCharCount>
+        <OtherWordCount>115</OtherWordCount>
+        <OtherCharCount>833</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
