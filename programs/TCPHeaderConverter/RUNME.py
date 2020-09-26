@@ -16,7 +16,7 @@ from publicationsTmt import publicationsTmt
 
 # things to store stuff in
 fileDescList = []
-publicationTmtList = []
+publicationsTmtList = []
 
 #initiate variables
 numfiles = 0
@@ -39,44 +39,41 @@ for filename in listdir_nohidden(directory):
 		xmlstring = stripNamespace(path)
 	except:
 		print("error stripping namespace of file %s" % (filename))
-	
-	# call find-idno.py to print the file's TCP number
-	# this is just so you can tell that the program's running,
-	# and possibly see how far it got before it crashed (in case of problems)
-#	try:
-#		idno = find_idno(xmlstring)
-#		print(idno)
-#	except:
-#		print("error finding IDNO with file %s" % (filename))
 
 	# call fileDesc.py to get FILEDESC fields
 	try:
+		#stores the answer temporarily
 		fileDescFields = fileDesc(xmlstring)
+		#print(fileDescFields)
+		#appends the answer to ongoing list
 		fileDescList.append(fileDescFields)
 	except:
 		print("error getting fileDescFields for file %s" % (filename))
 	
 	# call publicationsTmt.py to get PUBLICATIONSTMT fields
-#	try:
-#		publicationsTmtFields = publicationsTmt(xmlstring)
-#		publicationsTmtList.append(publicationsTmtFields)
-#	except:
-#		print("error getting publicationsTmtFields for file %s" % (filename))
+	try:
+		publicationsTmtFields = publicationsTmt(xmlstring)
+		print(publicationsTmtFields)
+		publicationsTmtList.append(publicationsTmtFields)
+	except:
+		print("error getting publicationsTmtFields for file %s" % (filename))
 		
 	# increment a counter to see how many I read
 	numfiles += 1
 
 # print some stuff so you know what's going on
 print("I read %d files" % (numfiles))
+print("IDNOs list has length %d" % len(fileDescList))
+print("PubsTmt list has length %d" % len(publicationsTmtList))
 
 # time to start writing this stuff to the CSV!
 newfilename = "tcpheaders-output.csv"
 with open(newfilename,'w') as csvfile:
-	fieldnames=['TITLE', 'AUTHOR', 'PUBPLACE', 'PUBLISHER', 'DLPS', 'ESTC','DocNo', 'TCP', 'GaleDocNo']
+	fieldnames=['DLPS', 'ESTC','DocNo', 'TCP', 'GaleDocNo']
 	writer=csv.writer(csvfile)
 	writer.writerow(fieldnames)
 	for i in range(numfiles):
 		fd = fileDescList[i]
-		pub = publicationsTmtList[i]
-		writer.writerow(pub.TITLE, pub.AUTHOR, pub.PUBPLACE, pub.PUBLISHER, fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo)
+		#pub = publicationsTmtList[i]
+		writer.writerow([fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo])
 	

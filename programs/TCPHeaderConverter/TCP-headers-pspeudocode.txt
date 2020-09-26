@@ -8,7 +8,7 @@ This is where the info I want is, in the XML hierarchy:
 	from within FILEDESC > SOURCEDESC > BIBLFULL > TITLESTMT tags:
 		TITLE
 		AUTHOR
-	from within FILEDESC > SOURCEDESC > PUBLICATIONSTMT tags:
+	from within FILEDESC > SOURCEDESC > BIBLFULL> PUBLICATIONSTMT tags:
 		PUBPLACE
 		PUBLISHER
 		DATE

@@ -1,4 +1,8 @@
 # this is a function that gets all the PUBLICATIONSTMT fields we care about
+#	from within FILEDESC > SOURCEDESC > BIBLFULL > PUBLICATIONSTMT:
+#		DATE
+#		PUBPLACE
+#		PUBLISHER
 
 import collections
 try:
@@ -6,40 +10,43 @@ try:
 except ImportError:
     import xml.etree.ElementTree as ET
 
-def publicationsTmt(xmlstring):
-	
-	root = ET.fromstring(xmlstring)
-	PUBLICATIONSTMTs = root.findall('.//PUBLICATIONSTMT')
+#using the tuple because it's basically a dictionary but we know the keys
+#this defines the type
+publicationsTmtReturnType = collections.namedtuple('PUBLICATIONSTMTs', ['DATE', 'PUBPLACE', 'PUBLISHER'])
 
-	TITLE = ""
-	AUTHOR = ""
+def publicationsTmt(xmlstring) -> publicationsTmtReturnType:
+	#print("debug 0")	
+	root = ET.fromstring(xmlstring)
+	PUBLICATIONSTMTs = root.findall('.//FILEDESC/SOURCEDESC/BIBLFULL/PUBLICATIONSTMT')
+
+	DATE = ""
 	PUBPLACE = ""
 	PUBLISHER = ""
 	
+	#print("debug 1")
 	for pub in PUBLICATIONSTMTs:
-		TITLE_elements = pub.findall('.//TITLE')
-		AUTHOR_elements = pub.findall('.//AUTHOR')
+		#print("debug 1.5")
+		DATE_elements = pub.findall('.//DATE')
 		PUBPLACE_elements = pub.findall('.//PUBPLACE')
 		PUBLISHER_elements = pub.findall('.//PUBLISHER')
-		if(TITLE_elements.length > 0):
-			TITLE_element = TITLE_elements[0]
-			TITLE = ET.tostring(TITLE_element, encoding="unicode")
-		if(AUTHOR_elements.length > 0):
-			AUTHOR_element = AUTHOR_elements[0]
-			AUTHOR = ET.tostring(AUTHOR_element, encoding="unicode")
-		if(PUBPLACE_elements.length > 0):
+		#print("debug 2")
+		if(len(DATE_elements) > 0):
+			DATE_element = DATE_elements[0]
+			DATE = DATE_element.text
+			#print("debug 3")
+		if(len(PUBPLACE_elements) > 0):
 			PUBPLACE_element = PUBPLACE_elements[0]
-			PUBPLACE = ET.tostring(PUBPLACE_element, encoding="unicode")
-		if(PUBLISHER_elements.length > 0):
+			PUBPLACE = PUBPLACE_element.text
+			#print("debug 4")
+		if(len(PUBLISHER_elements) > 0):
 			PUBLISHER_element = PUBLISHER_elements[0]
-			PUBLISHER = ET.tostring(PUBLISHER_element, encoding="unicode")
+			PUBLISHER = PUBLISHER_element.text
+			#print("debug 5")
 
 	# debugging
-	print("TITLE = " + TITLE)
-	print("AUTHOR = " + AUTHOR)
+	print("DATE = " + DATE)
 	print("PUBPLACE = " + PUBPLACE)
 	print("PUBLISHER = " + PUBLISHER)
 
-	Answer = collections.namedtuple('PUBLICATIONSTMTs', ['TITLE', 'AUTHOR', 'PUBPLACE', 'PUBLISHER'])
-	answer = Answer(TITLE, AUTHOR, PUBPLACE, PUBLISHER)
+	answer = publicationsTmtReturnType(DATE, PUBPLACE, PUBLISHER)
 	return answer

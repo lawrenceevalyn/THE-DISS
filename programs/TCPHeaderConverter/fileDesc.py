@@ -12,7 +12,12 @@ try:
 except ImportError:
     import xml.etree.ElementTree as ET
 
-def fileDesc(xmlstring):
+#using the tuple because it's basically a dictionary but we know the keys
+#this defines the type
+FileDescReturnType = collections.namedtuple('IDNOs', ['DLPS', 'ESTC', 'DocNo', 'TCP', 'GaleDocNo'])
+
+#defining a function that will return FileDescReturnType
+def fileDesc(xmlstring) -> FileDescReturnType:
 	
 	root = ET.fromstring(xmlstring)
 
@@ -23,34 +28,29 @@ def fileDesc(xmlstring):
 	GaleDocNo = ""
 
 	IDNOs = root.findall('.//FILEDESC/PUBLICATIONSTMT/IDNO')
-	print("found IDNOs")
+	#print("found IDNOs")
 	for IDNO in IDNOs:
-		print("got IDNO")
-		print(IDNO.tag, IDNO.attrib)
-		print(IDNO.text)
-		if IDNO.attrib == "DLPS":
+		#print("got IDNO")
+		#print(IDNO.tag, IDNO.attrib)
+		#print(IDNO.text)
+		if IDNO.attrib["TYPE"] == "DLPS":
 			DLPS = IDNO.text
-			print("DLPS is " + DLPS)
-		elif IDNO.attrib == "ESTC":
+			#print("DLPS is " + DLPS)
+		elif IDNO.attrib["TYPE"] == "ESTC":
 			ESTC = IDNO.text
-			print("ESTC is " + ESTC)
-		else:
-			print("it's not DLPS or ESTC")	
-				
-#older, clumsier version (which didn't even work)
-#	FILEDESCs = root.findall('.//FILEDESC')
-#	for FILEDESC in FILEDESCs:
-#		PUBLICATIONSTMTs = FILEDESC.findall('.//PUBLICATIONSTMT')
-#		#print("inside filedesc")
-#		for PUBLICATIONSTMT in PUBLICATIONSTMTs:
-#			print("inside publicationstmt")
-#			#the IDNO tags have an attribute with the value "type",
-#			# and for each IDNO "type" I want to get the tag content
-#			ESTC = PUBLICATIONSTMT.findtext(".//IDNO[@type='ESTC']")
-#			print(ESTC)
-
-
-
-	Answer = collections.namedtuple('IDNOs', ['DLPS', 'ESTC', 'DocNo', 'TCP', 'GaleDocNo'])
-	answer = Answer(DLPS, ESTC, DocNo, TCP, GaleDocNo)
+			#print("ESTC is " + ESTC)
+		elif IDNO.attrib["TYPE"] == "DocNo":
+			DocNo = IDNO.text
+			#print("DocNo is " + DocNo)
+		elif IDNO.attrib["TYPE"] == "TCP":
+			TCP = IDNO.text
+			#print("TCP is " + TCP)
+		elif IDNO.attrib["TYPE"] == "GaleDocNo":
+			GaleDocNo = IDNO.text
+			#print("GaleDocNo is " + GaleDocNo)
+		#else:
+			#print("it's not one of the IDNOs I know")	
+	
+	#shoves our data into an object so we can return it
+	answer = FileDescReturnType(DLPS, ESTC, DocNo, TCP, GaleDocNo)
 	return answer
