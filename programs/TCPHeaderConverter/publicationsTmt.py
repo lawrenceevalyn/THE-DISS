@@ -44,9 +44,9 @@ def publicationsTmt(xmlstring) -> publicationsTmtReturnType:
 			#print("debug 5")
 
 	# debugging
-	print("DATE = " + DATE)
-	print("PUBPLACE = " + PUBPLACE)
-	print("PUBLISHER = " + PUBLISHER)
+	#print("DATE = " + DATE)
+	#print("PUBPLACE = " + PUBPLACE)
+	#print("PUBLISHER = " + PUBLISHER)
 
 	answer = publicationsTmtReturnType(DATE, PUBPLACE, PUBLISHER)
 	return answer

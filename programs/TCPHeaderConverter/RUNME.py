@@ -13,10 +13,12 @@ from find_idno import find_idno
 from stripNamespace import stripNamespace
 from fileDesc import fileDesc
 from publicationsTmt import publicationsTmt
+from titleStmt import titleStmt
 
 # things to store stuff in
 fileDescList = []
 publicationsTmtList = []
+titleStmtList = []
 
 #initiate variables
 numfiles = 0
@@ -53,10 +55,18 @@ for filename in listdir_nohidden(directory):
 	# call publicationsTmt.py to get PUBLICATIONSTMT fields
 	try:
 		publicationsTmtFields = publicationsTmt(xmlstring)
-		print(publicationsTmtFields)
+		#print(publicationsTmtFields)
 		publicationsTmtList.append(publicationsTmtFields)
 	except:
 		print("error getting publicationsTmtFields for file %s" % (filename))
+		
+	# call titleStmt.py to get TITLESTMT fields
+	try:
+		titleStmtFields = titleStmt(xmlstring)
+		#print(titleStmtFields)
+		titleStmtList.append(titleStmtFields)
+	except:
+		print("error getting titleStmtFields for file %s" % (filename))
 		
 	# increment a counter to see how many I read
 	numfiles += 1
@@ -65,15 +75,17 @@ for filename in listdir_nohidden(directory):
 print("I read %d files" % (numfiles))
 print("IDNOs list has length %d" % len(fileDescList))
 print("PubsTmt list has length %d" % len(publicationsTmtList))
+print("TitleStmt list has length %d" % len(titleStmtList))
 
 # time to start writing this stuff to the CSV!
 newfilename = "tcpheaders-output.csv"
 with open(newfilename,'w') as csvfile:
-	fieldnames=['DLPS', 'ESTC','DocNo', 'TCP', 'GaleDocNo']
+	fieldnames=['TITLE', 'AUTHOR', 'DATE', 'PUBPLACE', 'PUBLISHER', 'DLPS', 'ESTC','DocNo', 'TCP', 'GaleDocNo']
 	writer=csv.writer(csvfile)
 	writer.writerow(fieldnames)
 	for i in range(numfiles):
+		ti = titleStmtList[i]
+		pub = publicationsTmtList[i]
 		fd = fileDescList[i]
-		#pub = publicationsTmtList[i]
-		writer.writerow([fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo])
+		writer.writerow([ti.TITLE, ti. AUTHOR, pub.DATE, pub.PUBPLACE, pub.PUBLISHER, fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo])
 	
