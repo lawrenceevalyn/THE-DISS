@@ -87,5 +87,5 @@ with open(newfilename,'w') as csvfile:
 		ti = titleStmtList[i]
 		pub = publicationsTmtList[i]
 		fd = fileDescList[i]
-		writer.writerow([ti.TITLE, ti. AUTHOR, pub.DATE, pub.PUBPLACE, pub.PUBLISHER, fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo])
+		writer.writerow([ti.TITLE, ti.AUTHOR, pub.DATE, pub.PUBPLACE, pub.PUBLISHER, fd.DLPS, fd.ESTC, fd.DocNo, fd.TCP, fd.GaleDocNo])
 	

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-26 14:19:36 -0400" ModID="F1B287CE-4090-4327-9F0D-25D93040D939">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-30 01:35:18 -0400" ModID="D3D9CCE1-70F7-4041-92C9-374A66CD2384">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -2521,23 +2521,43 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="C6A0B364-B822-49C0-BBEE-F1506CFC49C8" Type="Text" Created="2020-07-19 17:36:14 -0400" Modified="2020-07-19 17:37:25 -0400">
-                                                    <Title>how I removed duplicates in ECCO-DSL</Title>
+                                                <BinderItem UUID="0C9B3449-0B68-434E-83E3-64E69296C16D" Type="Text" Created="2020-09-27 22:13:00 -0400" Modified="2020-09-30 01:35:18 -0400">
+                                                    <Title>MARC</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>504,0</TextSelection>
+                                                        <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="A7753F68-F377-4C5E-BE2F-E62FA561BD79" Type="Text" Created="2020-07-19 17:49:59 -0400" Modified="2020-07-19 17:50:56 -0400">
-                                                    <Title>how I split out firstnames</Title>
+                                                <BinderItem UUID="764AF1A3-01E3-4371-9A66-DC545AE1DF8A" Type="Text" Created="2020-09-27 22:12:52 -0400" Modified="2020-09-27 22:12:56 -0400">
+                                                    <Title>DSL</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>252,0</TextSelection>
+                                                        <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="8A8D294A-924A-4DE6-AF82-9DBA72220745" Type="Text" Created="2020-07-19 18:02:45 -0400" Modified="2020-09-09 14:25:01 -0400">
-                                                    <Title>how I made manual guesses</Title>
-                                                    <TextSettings>
-                                                        <TextSelection>1549,0</TextSelection>
-                                                    </TextSettings>
+                                                    <Children>
+                                                        <BinderItem UUID="C6A0B364-B822-49C0-BBEE-F1506CFC49C8" Type="Text" Created="2020-07-19 17:36:14 -0400" Modified="2020-07-19 17:37:25 -0400">
+                                                            <Title>how I removed duplicates in ECCO-DSL</Title>
+                                                            <TextSettings>
+                                                                <TextSelection>504,0</TextSelection>
+                                                            </TextSettings>
+                                                        </BinderItem>
+                                                        <BinderItem UUID="A7753F68-F377-4C5E-BE2F-E62FA561BD79" Type="Text" Created="2020-07-19 17:49:59 -0400" Modified="2020-07-19 17:50:56 -0400">
+                                                            <Title>how I split out firstnames</Title>
+                                                            <TextSettings>
+                                                                <TextSelection>252,0</TextSelection>
+                                                            </TextSettings>
+                                                        </BinderItem>
+                                                        <BinderItem UUID="8A8D294A-924A-4DE6-AF82-9DBA72220745" Type="Text" Created="2020-07-19 18:02:45 -0400" Modified="2020-09-09 14:25:01 -0400">
+                                                            <Title>how I made manual guesses</Title>
+                                                            <TextSettings>
+                                                                <TextSelection>1549,0</TextSelection>
+                                                            </TextSettings>
+                                                        </BinderItem>
+                                                    </Children>
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
@@ -2562,7 +2582,7 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>1078,0</TextSelection>
+                                                        <TextSelection>1162,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -2582,7 +2602,7 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>1284,4</TextSelection>
+                                                        <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -12890,13 +12910,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="37" Characters="225" Date="2020-09-26 12:35:24 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2020-09-29 23:37:16 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-09-26 00:00:00 -0400">
-        <DraftWordCount>37</DraftWordCount>
-        <DraftCharCount>225</DraftCharCount>
-        <OtherWordCount>335</OtherWordCount>
-        <OtherCharCount>2153</OtherCharCount>
+    <RecentWritingHistory Date="2020-09-30 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>111</OtherWordCount>
+        <OtherCharCount>680</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
