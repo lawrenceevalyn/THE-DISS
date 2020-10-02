@@ -729,7 +729,13 @@ What do these database histories mean for scholars of eighteenth century literat
 
 # ch 2 - gender in databases (13k) #  
 
-Supporting Guillory’s assertion that there simply are fewer women writing in the past, I feel fully justified in reading “Dr.” as a gender marker indicating a male author, even though such a reading is wholly untenable today.
+Supporting Guillory’s assertion that there simply are fewer women writing in the past, I feel fully justified in reading “Dr.” as a gender marker indicating a male author, even though such a reading is wholly untenable today.  
+
+The underrepresentation of unsigned authors cannot be mapped onto the multicultural rhetoric of political representation, the way Guillory has described with gendered representation. “Unsigned” or “pseudonymous” people are not an identity category in the real world requiring equitable social standing: the unsigned and pseudonymous authors, if identified, would all turn out to *have* names, genders, races, class standings, and all the other traits of humans in the world. What their status as “unsigned” in the database really means is not that those traits are absent --- it means that those traits are *undetermined at the site of the title page*.
+
+
+
+Scholars have worked to infrastructurally eliminate the “unsigned” author. “Real” names are placed into the relevant database fields wherever possible, even in cases where this substitution contains little real information. One work, titled “Observations on the origin and effects of the Test Act” and printed in 1790, has its author listed in the ESTC as “Hudson, active 1790.” A note suggests that this attribution is somewhat shaky: “Attribution from Halkett & Laing which seems to be based on a MS attribution on O copy titlepage, no longer legible. O copy with MS date May 18. 1790. Verify number and position of advertisement leaves.” This is the only item in the ESTC attributed to “Hudson, 1790” so identifying “Hudson” in this way does not provide value by linking the work to another. In contrast, the title page attribution identifies the author as “a dissenter.” This, I contend, is a more useful identification of the author.
 
 
 
