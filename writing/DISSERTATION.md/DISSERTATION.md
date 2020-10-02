@@ -727,7 +727,9 @@ What do these database histories mean for scholars of eighteenth century literat
 
 
 
-# ch 2 - gender in databases (13k) #
+# ch 2 - gender in databases (13k) #  
+
+Supporting Guillory’s assertion that there simply are fewer women writing in the past, I feel fully justified in reading “Dr.” as a gender marker indicating a male author, even though such a reading is wholly untenable today.
 
 
 
