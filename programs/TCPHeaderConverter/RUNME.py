@@ -22,7 +22,7 @@ titleStmtList = []
 
 #initiate variables
 numfiles = 0
-directory = "../../corpora/ECCO-TCP/ECCO-TCP-headers"
+directory = "../../corpora/ECCO-TCP/unedited_hdrs.ecco"
 
 # make listdir ignore .DS_store (and other hidden files)
 def listdir_nohidden(path):
