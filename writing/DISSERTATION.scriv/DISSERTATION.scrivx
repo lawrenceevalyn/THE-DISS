@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-02 20:00:54 -0400" ModID="BD3A11EF-4E84-4890-93B5-0ABD6446E17F">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-03 04:38:50 -0400" ModID="CBD9DA0C-4C8F-4F1A-8072-778C22772E5B">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -742,7 +742,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="D16EE7EF-7EAB-4239-9BB7-75A891FB27F4" Type="Text" Created="2020-08-01 13:39:28 -0400" Modified="2020-08-02 23:18:22 -0400">
+                        <BinderItem UUID="D16EE7EF-7EAB-4239-9BB7-75A891FB27F4" Type="Text" Created="2020-08-01 13:39:28 -0400" Modified="2020-10-03 03:45:00 -0400">
                             <Title>deep fried facsimiles</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -1299,13 +1299,12 @@
                                 <TextSelection>128,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A1A6C885-9318-41F5-A184-CD3EA0F98CB2" Type="Text" Created="2020-10-02 01:23:45 -0400" Modified="2020-10-02 01:34:21 -0400">
-                            <Title>it's the author</Title>
+                        <BinderItem UUID="EF2FA651-8F5E-45B6-AE17-62E60914D532" Type="Text" Created="2020-10-03 04:32:14 -0400" Modified="2020-10-03 04:32:31 -0400">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1586,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2573,7 +2572,7 @@
                                         <BinderItem UUID="5CBCD16E-6FE4-4613-B605-81EEA8DA060B" Type="Text" Created="2020-07-19 19:26:45 -0400" Modified="2020-10-02 20:00:54 -0400">
                                             <Title>ECCO-TCP</Title>
                                             <TextSettings>
-                                                <TextSelection>596,0</TextSelection>
+                                                <TextSelection>830,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="899917DE-FBA4-4006-B597-FAD89C3AB728" Type="Text" Created="2020-09-25 17:41:21 -0400" Modified="2020-09-25 19:06:55 -0400">
@@ -2605,13 +2604,13 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="AB78D7BD-32CD-4FC5-BB28-C11276123A0C" Type="Text" Created="2020-09-25 23:44:31 -0400" Modified="2020-09-26 01:14:58 -0400">
+                                                <BinderItem UUID="AB78D7BD-32CD-4FC5-BB28-C11276123A0C" Type="Text" Created="2020-09-25 23:44:31 -0400" Modified="2020-10-03 04:38:50 -0400">
                                                     <Title>how I made manual gender guesses</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>313,0</TextSelection>
+                                                        <TextSelection>875,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -12861,6 +12860,15 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="A1A6C885-9318-41F5-A184-CD3EA0F98CB2" Type="Text" Created="2020-10-02 01:23:45 -0400" Modified="2020-10-02 01:34:21 -0400">
+                    <Title>it's the author</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1240,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -12919,13 +12927,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-02 14:31:19 -0400"></PreviousSession>
+        <PreviousSession Words="1073" Characters="6878" Date="2020-10-02 14:31:19 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-02 00:00:00 -0400">
-        <DraftWordCount>252</DraftWordCount>
-        <DraftCharCount>1586</DraftCharCount>
-        <OtherWordCount>44</OtherWordCount>
-        <OtherCharCount>258</OtherCharCount>
+    <RecentWritingHistory Date="2020-10-03 00:00:00 -0400">
+        <DraftWordCount>1073</DraftWordCount>
+        <DraftCharCount>6878</DraftCharCount>
+        <OtherWordCount>4</OtherWordCount>
+        <OtherCharCount>23</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
