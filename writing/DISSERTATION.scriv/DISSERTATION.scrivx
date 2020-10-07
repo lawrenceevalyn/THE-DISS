@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-03 04:38:50 -0400" ModID="CBD9DA0C-4C8F-4F1A-8072-778C22772E5B">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-07 17:58:05 -0400" ModID="B78EB910-1136-4497-91AE-2D8E8D38FC1A">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -652,7 +652,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>388,0</TextSelection>
+                                        <TextSelection>2,388</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1299,7 +1299,7 @@
                                 <TextSelection>128,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EF2FA651-8F5E-45B6-AE17-62E60914D532" Type="Text" Created="2020-10-03 04:32:14 -0400" Modified="2020-10-03 04:32:31 -0400">
+                        <BinderItem UUID="EF2FA651-8F5E-45B6-AE17-62E60914D532" Type="Text" Created="2020-10-03 04:32:14 -0400" Modified="2020-10-07 17:36:58 -0400">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -2932,14 +2932,14 @@
                                 <TextSelection>26208,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8AE384D3-9B23-4128-AF72-E821DB147007" Type="Text" Created="2020-06-23 01:57:38 -0400" Modified="2020-09-24 01:27:34 -0400">
+                        <BinderItem UUID="8AE384D3-9B23-4128-AF72-E821DB147007" Type="Text" Created="2020-06-23 01:57:38 -0400" Modified="2020-10-03 21:38:15 -0400">
                             <Title>Back Matter</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>14132,0</TextSelection>
+                                <TextSelection>17084,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4B648DB6-1619-4742-9612-515756FAFCB4" Type="Text" Created="2020-03-20 19:53:24 -0400" Modified="2020-03-20 19:57:37 -0400">
@@ -12927,13 +12927,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="1073" Characters="6878" Date="2020-10-02 14:31:19 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="1" Date="2020-10-07 17:08:54 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-03 00:00:00 -0400">
-        <DraftWordCount>1073</DraftWordCount>
-        <DraftCharCount>6878</DraftCharCount>
-        <OtherWordCount>4</OtherWordCount>
-        <OtherCharCount>23</OtherCharCount>
+    <RecentWritingHistory Date="2020-10-07 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>1</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

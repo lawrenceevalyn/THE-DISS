@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-09-24 01:03:35 -0400" ModID="E1B3C717-82EA-4E9C-9712-8E7A44804AE0">
+<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-07 18:12:18 -0400" ModID="CEE0ED15-C2CC-476F-B761-9E6FDC4D9BFC">
     <Binder>
-        <BinderItem UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
+        <BinderItem UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:03:07 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:04:02 -0400">
+                    <Title>databases have histories</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:04:17 -0400">
+                    <Title>databases make assumptions about literature</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="46DC9C7F-C12F-4039-AECE-3F50E817499A" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:04:42 -0400">
+                    <Title>databases are in danger of being a black box</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="62FCF551-BD69-4852-8B24-19D614C65A89" Type="Text" Created="2020-10-07 17:53:21 -0400" Modified="2020-10-07 17:54:25 -0400">
+                    <Title>4dbs-genders-justmen</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5C8AA534-B496-4E73-8B08-25C7C46DD64D" Type="Text" Created="2020-10-07 17:53:53 -0400" Modified="2020-10-07 17:54:31 -0400">
+                    <Title>4dbs-genders</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C4ECEDB1-F2B2-4010-88AF-EEC3E0FE09EB" Type="Text" Created="2020-10-07 17:54:27 -0400" Modified="2020-10-07 17:58:12 -0400">
+                    <Title>CSmith-4bs-alluvial</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>18,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="13F4EFA2-80E2-4334-B525-90C6D2F623B7" Type="Text" Created="2020-10-07 17:55:35 -0400" Modified="2020-10-07 17:57:39 -0400">
+                    <Title>7dbs-venn</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>21,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="107AFE45-20D7-4220-BAE2-1EF5363E4B54" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
+                    <Title>Works Cited</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="D6E7AB84-B725-416C-B2BE-70320E9FA3D3" Type="ResearchFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 17:19:46 -0400">
             <Title>Notes To Self</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -45,10 +130,9 @@
                                 <TextSelection>20,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="756EA943-08C7-4B9D-A877-C170ADE10A5A" Type="Text" Created="2020-09-10 02:46:08 -0400" Modified="2020-09-10 02:47:08 -0400">
+                        <BinderItem UUID="756EA943-08C7-4B9D-A877-C170ADE10A5A" Type="Text" Created="2020-09-10 02:46:08 -0400" Modified="2020-10-07 17:20:43 -0400">
                             <Title>was anonymous a woman?</Title>
                             <MetaData>
-                                <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -183,55 +267,6 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="D6E7AB84-B725-416C-B2BE-70320E9FA3D3" Type="ResearchFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
-            <Title>Draft To Self</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Front Matter.tiff</IconFileName>
-            </MetaData>
-            <Children>
-                <BinderItem UUID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
-                    <Title>Thesis</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
-                    <Title>Body 1</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="46DC9C7F-C12F-4039-AECE-3F50E817499A" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
-                    <Title>Conclusion</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="107AFE45-20D7-4220-BAE2-1EF5363E4B54" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
-                    <Title>Works Cited</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
         <BinderItem UUID="1AF8C46F-9929-4E1D-A1B6-454E24073AAA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
             <Title>Abstract</Title>
             <MetaData>
@@ -252,7 +287,7 @@
                 <TextSelection>973,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="737FA680-5202-4524-8707-BC97D4B7DB05" Type="Text" Created="2020-09-10 02:37:17 -0400" Modified="2020-09-10 02:39:24 -0400">
+        <BinderItem UUID="737FA680-5202-4524-8707-BC97D4B7DB05" Type="Text" Created="2020-09-10 02:37:17 -0400" Modified="2020-10-07 18:12:18 -0400">
             <Title>CFP</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -276,6 +311,16 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="77F7303C-43D7-4434-9249-84085244481F" Type="Text" Created="2020-10-07 18:04:02 -0400" Modified="2020-10-07 18:04:02 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -328,15 +373,15 @@
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">14000</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2013-04-02 02:21:51 -0400" IgnoreDeadline="Yes">7500</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-09-15 00:19:15 -0400"></PreviousSession>
+        <PreviousSession Words="229" Characters="1378" Date="2020-10-07 17:08:58 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-09-24 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2020-10-07 00:00:00 -0400">
+        <DraftWordCount>229</DraftWordCount>
+        <DraftCharCount>1378</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999975,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

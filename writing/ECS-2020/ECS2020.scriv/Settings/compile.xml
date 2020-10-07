@@ -3,6 +3,7 @@
     <ProjectSettings>
         <Content Scope="Included">
             <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>5F019618-106D-4CE6-B387-20FB66CFFD0F</CollectionID>
                 <Label>-1</Label>
                 <Status>-1</Status>
             </Filter>
@@ -48,7 +49,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>Print</CurrentFileType>
+    <CurrentFileType>mmd</CurrentFileType>
     <FormatSettings>
         <Format ID="DEFAULT">
             <SectionLayouts>
@@ -56,6 +57,16 @@
                 <Type ID="584FAE99-C4E2-4A87-9AC4-785CE508FC53">TEXT-SECTION</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="mmd-barebones">
+            <SectionLayouts>
+                <Type ID="EC32B91C-B20F-4A2B-A72B-6B79D87AF21C">778FA2E2-F67D-4803-B183-019F8B45528B</Type>
+                <Type ID="1BB765EF-90FA-4F14-A28D-77472CDFA178">778FA2E2-F67D-4803-B183-019F8B45528B</Type>
+                <Type ID="584FAE99-C4E2-4A87-9AC4-785CE508FC53">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
+            </SectionLayouts>
+        </Format>
     </FormatSettings>
-    <LastUsedFormats></LastUsedFormats>
+    <LastUsedFormats>
+        <Print>DEFAULT</Print>
+        <mmd>mmd-barebones</mmd>
+    </LastUsedFormats>
 </CompileSettings>
