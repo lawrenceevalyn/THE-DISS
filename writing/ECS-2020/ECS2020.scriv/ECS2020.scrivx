@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-15 01:27:54 -0400" ModID="5E8CD6BA-9592-4411-9A24-08CF0EAF5A53">
+<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-15 02:01:13 -0400" ModID="F252039F-6126-47FC-9651-1A6D21A9EC35">
     <Binder>
         <BinderItem UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:03:07 -0400">
             <Title>Draft</Title>
@@ -100,14 +100,34 @@
                                 <TextSelection>573,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3434A5AA-772E-4F32-A452-3F19F22DB15C" Type="Text" Created="2020-10-10 03:08:16 -0400" Modified="2020-10-10 23:16:21 -0400">
+                        <BinderItem UUID="5612B0AB-6023-4E33-A98C-71A931E37CBA" Type="Text" Created="2020-10-15 01:51:58 -0400" Modified="2020-10-15 01:52:21 -0400">
+                            <Title>I'm testing Guillory's exclusion hypothesis</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1316,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="71E18038-AA09-484B-AF80-4B7A62AA0F64" Type="Text" Created="2020-10-15 01:52:21 -0400" Modified="2020-10-15 02:00:56 -0400">
+                            <Title>Ridddel &amp; Troy support exclusion hypothesis?</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>616,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3434A5AA-772E-4F32-A452-3F19F22DB15C" Type="Text" Created="2020-10-10 03:08:16 -0400" Modified="2020-10-15 01:52:21 -0400">
                             <Title>Guillory</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>525,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="BF115024-5ABC-4794-A19A-B2CA889C549A" Type="Text" Created="2020-10-10 23:00:07 -0400" Modified="2020-10-10 23:00:32 -0400">
@@ -283,7 +303,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>954,0</TextSelection>
+                        <TextSelection>0,1601</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -587,11 +607,11 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-10-14 02:21:51 -0400" IgnoreDeadline="No">7000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">3397</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-15 01:21:14 -0400"></PreviousSession>
+        <PreviousSession Words="297" Characters="1926" Date="2020-10-15 01:21:14 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-10-15 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>297</DraftWordCount>
+        <DraftCharCount>1926</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
