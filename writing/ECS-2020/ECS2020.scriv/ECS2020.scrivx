@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-13 01:00:12 -0400" ModID="A94203BF-AC88-4E7C-BF93-67A13003FF95">
+<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-15 01:27:54 -0400" ModID="5E8CD6BA-9592-4411-9A24-08CF0EAF5A53">
     <Binder>
         <BinderItem UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:03:07 -0400">
             <Title>Draft</Title>
@@ -50,8 +50,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="D05368C0-A784-44CB-8AE8-0A9DB28CB99E" Type="Text" Created="2020-10-07 18:14:02 -0400" Modified="2020-10-10 23:19:10 -0400">
-                    <Title>databases</Title>
+                <BinderItem UUID="D05368C0-A784-44CB-8AE8-0A9DB28CB99E" Type="Text" Created="2020-10-07 18:14:02 -0400" Modified="2020-10-15 00:49:04 -0400">
+                    <Title>databases (1500 wds)</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -130,8 +130,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="8135DF2B-F1D9-4C0C-AEC6-CE8D9AD228C8" Type="Text" Created="2020-10-07 18:33:38 -0400" Modified="2020-10-07 18:33:44 -0400">
-                    <Title>CSmith case study</Title>
+                <BinderItem UUID="8135DF2B-F1D9-4C0C-AEC6-CE8D9AD228C8" Type="Text" Created="2020-10-07 18:33:38 -0400" Modified="2020-10-15 00:49:09 -0400">
+                    <Title>CSmith case study (1500 wds)</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -170,8 +170,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="6A6CCB61-4F7B-403E-A1B9-0884BF90D5B6" Type="Text" Created="2020-10-07 18:13:53 -0400" Modified="2020-10-07 18:14:01 -0400">
-                    <Title>1790s experiment</Title>
+                <BinderItem UUID="6A6CCB61-4F7B-403E-A1B9-0884BF90D5B6" Type="Text" Created="2020-10-07 18:13:53 -0400" Modified="2020-10-15 00:49:15 -0400">
+                    <Title>1790s experiment (1500 wds)</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -244,8 +244,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="39289FA4-4987-4D07-9DCF-108578619F65" Type="Text" Created="2020-10-07 18:58:21 -0400" Modified="2020-10-07 18:58:34 -0400">
-                    <Title>interpreting results</Title>
+                <BinderItem UUID="39289FA4-4987-4D07-9DCF-108578619F65" Type="Text" Created="2020-10-07 18:58:21 -0400" Modified="2020-10-15 00:49:19 -0400">
+                    <Title>interpreting results (1500 wds)</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -283,7 +283,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>831,0</TextSelection>
+                        <TextSelection>954,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -587,11 +587,11 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-10-14 02:21:51 -0400" IgnoreDeadline="No">7000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">3397</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-13 01:00:09 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2020-10-15 01:21:14 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-12 00:00:00 -0400">
-        <DraftWordCount>310</DraftWordCount>
-        <DraftCharCount>1928</DraftCharCount>
+    <RecentWritingHistory Date="2020-10-15 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
