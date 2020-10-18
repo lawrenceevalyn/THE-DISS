@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-17 23:06:19 -0400" ModID="ED6277F9-84CE-4641-A32A-86CEC1A93173">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-18 00:35:36 -0400" ModID="A4C0A960-BC94-4564-8993-217BB4063E57">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1067,7 +1067,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>221,0</TextSelection>
+                                                <TextSelection>545,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="3C31CAE6-A7A0-4D00-9AFD-9302A953F2B9" Type="Text" Created="2020-03-24 16:43:16 -0400" Modified="2020-08-03 16:36:06 -0400">
@@ -1078,6 +1078,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="BDC1BAB0-08A5-4880-BE83-0FEAD529E290" Type="Text" Created="2020-10-18 00:05:55 -0400" Modified="2020-10-18 00:06:01 -0400">
+                                            <Title>TCP</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,405</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="5B1255E3-3E9F-452A-AFCF-96E9B25DC9EC" Type="Text" Created="2020-08-01 13:48:13 -0400" Modified="2020-08-01 14:58:50 -0400">
@@ -1098,7 +1107,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>358,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="4F98A016-C226-4DF3-87DD-A8195500FBE4" Type="Text" Created="2020-08-01 13:13:31 -0400" Modified="2020-08-01 13:14:17 -0400">
@@ -1111,7 +1120,7 @@
                                                 <TextSelection>637,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="9107E045-AA9C-42C6-805B-CCE8D5FB58C5" Type="Text" Created="2020-08-01 13:38:18 -0400" Modified="2020-08-01 13:41:47 -0400">
+                                        <BinderItem UUID="9107E045-AA9C-42C6-805B-CCE8D5FB58C5" Type="Text" Created="2020-08-01 13:38:18 -0400" Modified="2020-10-17 23:56:35 -0400">
                                             <Title>ECCO</Title>
                                             <MetaData>
                                                 <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
@@ -1129,6 +1138,16 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>3267,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="88319AF1-6D09-4908-B97C-B19EB31846E8" Type="Text" Created="2020-08-01 13:42:43 -0400" Modified="2020-10-18 00:07:30 -0400">
+                                            <Title>TCP</Title>
+                                            <MetaData>
+                                                <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>6638,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="2976EBCA-0950-459D-96E0-4C4677637FBD" Type="Text" Created="2020-08-03 22:42:32 -0400" Modified="2020-08-04 00:49:01 -0400">
@@ -1162,17 +1181,16 @@
                                                 <TextSelection>343,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="88319AF1-6D09-4908-B97C-B19EB31846E8" Type="Text" Created="2020-08-01 13:42:43 -0400" Modified="2020-08-01 13:43:56 -0400">
-                                            <Title>TCP</Title>
+                                        <BinderItem UUID="6B9AA569-A2E9-4C27-BD53-EBB5F0185347" Type="Text" Created="2020-10-17 23:56:19 -0400" Modified="2020-10-17 23:56:35 -0400">
+                                            <Title>ECCO</Title>
                                             <MetaData>
-                                                <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>7688,0</TextSelection>
+                                                <TextSelection>565,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="19BD6044-EBFB-4D42-B0DA-26E9E031EC77" Type="Text" Created="2020-03-06 18:54:00 -0500" Modified="2020-08-03 22:42:50 -0400">
+                                        <BinderItem UUID="19BD6044-EBFB-4D42-B0DA-26E9E031EC77" Type="Text" Created="2020-03-06 18:54:00 -0500" Modified="2020-10-18 00:15:24 -0400">
                                             <Title>GB / HT</Title>
                                             <MetaData>
                                                 <SectionType>088E61C5-C037-4E02-9DBB-70A13C84E4DB</SectionType>
@@ -12886,7 +12904,7 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         </Collection>
         <Collection Type="RecentSearch" ID="5F019618-106D-4CE6-B387-20FB66CFFD0F" Color="0.922176 0.818589 0.999618">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">hathi</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">university microfilms</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -12935,11 +12953,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="1" Characters="6" Date="2020-10-17 17:34:08 -0400"></PreviousSession>
+        <PreviousSession Words="1" Characters="5" Date="2020-10-17 17:34:08 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-17 00:00:00 -0400">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>6</DraftCharCount>
+    <RecentWritingHistory Date="2020-10-18 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
