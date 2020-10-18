@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-16 23:20:58 -0400" ModID="31FA2598-7B82-4BA9-A9AA-687B9F8AE903">
+<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-17 23:12:06 -0400" ModID="B39563FE-658F-4E71-979E-0862A3A86DBA">
     <Binder>
         <BinderItem UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:03:07 -0400">
             <Title>Draft</Title>
@@ -60,10 +60,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="8135DF2B-F1D9-4C0C-AEC6-CE8D9AD228C8" Type="Text" Created="2020-10-07 18:33:38 -0400" Modified="2020-10-15 00:49:09 -0400">
+                <BinderItem UUID="8135DF2B-F1D9-4C0C-AEC6-CE8D9AD228C8" Type="Text" Created="2020-10-07 18:33:38 -0400" Modified="2020-10-17 18:27:25 -0400">
                     <Title>CSmith case study (1500 wds)</Title>
                     <MetaData>
-                        <LabelID>1</LabelID>
+                        <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
@@ -80,32 +80,74 @@
                                 <TextSelection>840,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C4ECEDB1-F2B2-4010-88AF-EEC3E0FE09EB" Type="Text" Created="2020-10-07 17:54:27 -0400" Modified="2020-10-07 17:58:12 -0400">
-                            <Title>CSmith-4bs-alluvial</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>685,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="554CE8F4-272F-411E-AAD0-E97142569E3C" Type="Text" Created="2020-10-07 19:00:41 -0400" Modified="2020-10-08 01:03:13 -0400">
-                            <Title>Smith 'winnowing down'</Title>
+                        <BinderItem UUID="83BBA315-3D75-4754-8830-5B0D03CF5F6A" Type="Text" Created="2020-10-17 17:32:56 -0400" Modified="2020-10-17 17:46:36 -0400">
+                            <Title>Smith's works</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3314,0</TextSelection>
+                                <TextSelection>331,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="45CF4C5F-06F4-472A-A324-4B0B4A468A98" Type="Text" Created="2020-10-17 17:34:53 -0400" Modified="2020-10-17 17:35:08 -0400">
+                                    <Title>CSmith-4dbs</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>233,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C4ECEDB1-F2B2-4010-88AF-EEC3E0FE09EB" Type="Text" Created="2020-10-07 17:54:27 -0400" Modified="2020-10-07 17:58:12 -0400">
+                                    <Title>CSmith-4bs-alluvial</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2,37</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="E82D357A-0D87-41A9-BD97-3763E52F0A71" Type="Text" Created="2020-10-12 23:07:42 -0400" Modified="2020-10-12 23:09:26 -0400">
-                            <Title>discuss Celestina &amp; Emigrants</Title>
+                        <BinderItem UUID="02F71A97-6695-4EF5-A056-9870F5E392B2" Type="Text" Created="2020-10-17 17:47:01 -0400" Modified="2020-10-17 18:17:59 -0400">
+                            <Title>what's missing from ESTC &amp; ECCO</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>197,0</TextSelection>
+                                <TextSelection>615,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="632C00AB-C9E7-4FBD-9984-8AEE0DBAB57F" Type="Text" Created="2020-10-17 17:53:21 -0400" Modified="2020-10-17 18:01:56 -0400">
+                            <Title>what's missing from HathiTrust</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1721,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="554CE8F4-272F-411E-AAD0-E97142569E3C" Type="Text" Created="2020-10-07 19:00:41 -0400" Modified="2020-10-17 18:20:05 -0400">
+                            <Title>what's missing from ECCO-TCP</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="420452FF-C5D4-4A08-8CE1-8274E9243E73" Type="Text" Created="2020-10-17 18:19:56 -0400" Modified="2020-10-17 18:27:07 -0400">
+                            <Title>different bibliographic info</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1852,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -120,15 +162,47 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:04:02 -0400">
-                            <Title>databases have histories</Title>
+                        <BinderItem UUID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-17 23:09:57 -0400">
+                            <Title>databases are a whole ecosystem</Title>
                             <MetaData>
-                                <LabelID>1</LabelID>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>601,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A6BDE36D-A5CF-4FB1-ACFE-3059C446E6CF" Type="Text" Created="2020-10-17 22:59:50 -0400" Modified="2020-10-17 23:03:25 -0400">
+                                    <Title>Figure &lt;$n:fig:7-databases-venn&gt;</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="46DC9C7F-C12F-4039-AECE-3F50E817499A" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-17 23:09:48 -0400">
+                            <Title>databases have histories</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1074,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="389D45F4-47CF-4EFF-A013-E6163801D495" Type="Text" Created="2020-10-17 23:05:55 -0400" Modified="2020-10-17 23:08:00 -0400">
+                                    <Title>Table &lt;$n:table:databases-timeline&gt;</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2761,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:04:17 -0400">
                             <Title>databases make assumptions about literature</Title>
@@ -140,155 +214,128 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="46DC9C7F-C12F-4039-AECE-3F50E817499A" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:16:17 -0400">
-                            <Title>databases are in danger of being a black box</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="B029D670-483C-4B9E-B925-1A170C184BFD" Type="Text" Created="2020-10-07 18:16:35 -0400" Modified="2020-10-07 18:58:45 -0400">
-                            <Title>18thC not amenable to text mining</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>573,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="5612B0AB-6023-4E33-A98C-71A931E37CBA" Type="Text" Created="2020-10-15 01:51:58 -0400" Modified="2020-10-15 01:52:21 -0400">
-                            <Title>I'm testing Guillory's exclusion hypothesis</Title>
-                            <MetaData>
-                                <LabelID>2</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1316,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="71E18038-AA09-484B-AF80-4B7A62AA0F64" Type="Text" Created="2020-10-15 01:52:21 -0400" Modified="2020-10-16 23:02:42 -0400">
-                            <Title>Ridddel &amp; Troy support exclusion hypothesis?</Title>
-                            <MetaData>
-                                <LabelID>2</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>553,63</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="3434A5AA-772E-4F32-A452-3F19F22DB15C" Type="Text" Created="2020-10-10 03:08:16 -0400" Modified="2020-10-16 02:02:39 -0400">
-                            <Title>Guillory</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>4177,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="BF115024-5ABC-4794-A19A-B2CA889C549A" Type="Text" Created="2020-10-10 23:00:07 -0400" Modified="2020-10-16 02:07:29 -0400">
-                            <Title>corpus &gt; canon</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>2102,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="13F4EFA2-80E2-4334-B525-90C6D2F623B7" Type="Text" Created="2020-10-07 17:55:35 -0400" Modified="2020-10-07 17:57:39 -0400">
-                            <Title>7dbs-venn</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>21,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="6A6CCB61-4F7B-403E-A1B9-0884BF90D5B6" Type="Text" Created="2020-10-07 18:13:53 -0400" Modified="2020-10-15 00:49:15 -0400">
+                <BinderItem UUID="6A6CCB61-4F7B-403E-A1B9-0884BF90D5B6" Type="Text" Created="2020-10-07 18:13:53 -0400" Modified="2020-10-17 22:45:21 -0400">
                     <Title>1790s experiment (1500 wds)</Title>
                     <MetaData>
-                        <LabelID>1</LabelID>
+                        <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="626A0927-B22F-46D7-8E75-0F97DE994E1B" Type="Text" Created="2020-10-10 22:37:24 -0400" Modified="2020-10-10 22:37:39 -0400">
-                            <Title>Q</Title>
+                        <BinderItem UUID="626A0927-B22F-46D7-8E75-0F97DE994E1B" Type="Text" Created="2020-10-10 22:37:24 -0400" Modified="2020-10-17 18:28:04 -0400">
+                            <Title>naive hypothesis</Title>
                             <MetaData>
-                                <LabelID>1</LabelID>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1353,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="789ED5DD-6848-41F7-A380-3A8D00729799" Type="Text" Created="2020-10-07 18:16:10 -0400" Modified="2020-10-16 02:00:57 -0400">
-                            <Title>sources</Title>
+                        <BinderItem UUID="5612B0AB-6023-4E33-A98C-71A931E37CBA" Type="Text" Created="2020-10-15 01:51:58 -0400" Modified="2020-10-17 23:11:48 -0400">
+                            <Title>I'm testing Guillory's exclusion hypothesis</Title>
                             <MetaData>
-                                <LabelID>1</LabelID>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>599,0</TextSelection>
+                                <TextSelection>1208,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8C1B5130-A7EB-4F10-A8FE-42AF180E58EA" Type="Text" Created="2020-10-10 22:55:24 -0400" Modified="2020-10-10 23:16:50 -0400">
+                        <BinderItem UUID="789ED5DD-6848-41F7-A380-3A8D00729799" Type="Text" Created="2020-10-07 18:16:10 -0400" Modified="2020-10-17 18:37:06 -0400">
+                            <Title>sources</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>931,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8C1B5130-A7EB-4F10-A8FE-42AF180E58EA" Type="Text" Created="2020-10-10 22:55:24 -0400" Modified="2020-10-17 22:02:08 -0400">
                             <Title>lots of men</Title>
                             <MetaData>
-                                <LabelID>1</LabelID>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>305,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="62FCF551-BD69-4852-8B24-19D614C65A89" Type="Text" Created="2020-10-07 17:53:21 -0400" Modified="2020-10-10 22:24:11 -0400">
+                                <BinderItem UUID="62FCF551-BD69-4852-8B24-19D614C65A89" Type="Text" Created="2020-10-07 17:53:21 -0400" Modified="2020-10-17 22:13:49 -0400">
                                     <Title>4dbs-genders-justmen</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2,0</TextSelection>
+                                        <TextSelection>2,167</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="9AE7FECA-9BCB-4C43-A329-20E1A47ACD8B" Type="Text" Created="2020-10-10 22:55:26 -0400" Modified="2020-10-10 23:16:55 -0400">
-                            <Title>unsigned overlooked</Title>
+                        <BinderItem UUID="8CFE53B7-E071-4F81-ACD7-10A78F37241C" Type="Text" Created="2020-10-17 22:01:16 -0400" Modified="2020-10-17 22:35:19 -0400">
+                            <Title>suddenly women</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1806,0</TextSelection>
+                                <TextSelection>254,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="5C8AA534-B496-4E73-8B08-25C7C46DD64D" Type="Text" Created="2020-10-07 17:53:53 -0400" Modified="2020-10-07 17:54:31 -0400">
+                                <BinderItem UUID="AAFDE410-A0B0-4E30-B93D-6B2DD1DD7FF8" Type="Text" Created="2020-10-16 00:58:03 -0400" Modified="2020-10-17 22:13:49 -0400">
+                                    <Title>4dbs-genders-menwomen</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>118,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="BF58CA7D-61F9-47B0-A6DD-0C200F8ABEDE" Type="Text" Created="2020-10-17 22:01:37 -0400" Modified="2020-10-17 22:02:08 -0400">
+                            <Title>but actually it's about the unsigned</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>894,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="5C8AA534-B496-4E73-8B08-25C7C46DD64D" Type="Text" Created="2020-10-07 17:53:53 -0400" Modified="2020-10-17 22:27:08 -0400">
                                     <Title>4dbs-genders</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1,0</TextSelection>
+                                        <TextSelection>1136,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="AAFDE410-A0B0-4E30-B93D-6B2DD1DD7FF8" Type="Text" Created="2020-10-16 00:58:03 -0400" Modified="2020-10-16 01:20:29 -0400">
-                            <Title>caused by genre</Title>
+                        <BinderItem UUID="9064720E-D68D-47B7-94F8-315E77CD087C" Type="Text" Created="2020-10-17 21:56:08 -0400" Modified="2020-10-17 22:00:27 -0400">
+                            <Title>why fewer unsigned?</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>254,0</TextSelection>
+                                <TextSelection>688,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9AE7FECA-9BCB-4C43-A329-20E1A47ACD8B" Type="Text" Created="2020-10-10 22:55:26 -0400" Modified="2020-10-17 22:00:33 -0400">
+                            <Title>scholars like to un-unsign</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>14,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -303,6 +350,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="E82D357A-0D87-41A9-BD97-3763E52F0A71" Type="Text" Created="2020-10-12 23:07:42 -0400" Modified="2020-10-17 18:27:19 -0400">
+                            <Title>databases aren't syllabi</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>198,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="37AAF64A-D22D-4286-B0E0-33B2FA74E5CF" Type="Text" Created="2020-10-07 18:23:07 -0400" Modified="2020-10-07 18:23:20 -0400">
                             <Title>impact of commerce</Title>
                             <MetaData>
@@ -313,6 +370,15 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="BF115024-5ABC-4794-A19A-B2CA889C549A" Type="Text" Created="2020-10-10 23:00:07 -0400" Modified="2020-10-16 02:07:29 -0400">
+                            <Title>corpus &gt; canon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2102,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="2C80F0B9-13BD-44D8-BA7F-DB77C2650DD2" Type="Text" Created="2020-10-08 01:52:06 -0400" Modified="2020-10-08 01:57:19 -0400">
                             <Title>EEBO and ECCO</Title>
                             <MetaData>
@@ -321,6 +387,16 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>240,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3434A5AA-772E-4F32-A452-3F19F22DB15C" Type="Text" Created="2020-10-10 03:08:16 -0400" Modified="2020-10-16 02:02:39 -0400">
+                            <Title>Guillory</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4177,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="DB8D8AA5-9375-467C-9E9E-9EBF368B2345" Type="Text" Created="2020-10-07 18:23:07 -0400" Modified="2020-10-07 18:25:29 -0400">
@@ -620,6 +696,35 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="B029D670-483C-4B9E-B925-1A170C184BFD" Type="Text" Created="2020-10-07 18:16:35 -0400" Modified="2020-10-07 18:58:45 -0400">
+                    <Title>18thC not amenable to text mining</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>573,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="13F4EFA2-80E2-4334-B525-90C6D2F623B7" Type="Text" Created="2020-10-07 17:55:35 -0400" Modified="2020-10-07 17:57:39 -0400">
+                    <Title>7dbs-venn</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>21,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="71E18038-AA09-484B-AF80-4B7A62AA0F64" Type="Text" Created="2020-10-15 01:52:21 -0400" Modified="2020-10-16 23:02:42 -0400">
+                    <Title>Ridddel &amp; Troy support exclusion hypothesis?</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>553,63</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -674,12 +779,12 @@
     </StatusSettings>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-10-14 02:21:51 -0400" IgnoreDeadline="No">7000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">3120</SessionTarget>
-        <PreviousSession Words="992" Characters="6230" Date="2020-10-16 22:11:25 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">2128</SessionTarget>
+        <PreviousSession Words="1792" Characters="11900" Date="2020-10-17 17:22:17 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-16 00:00:00 -0400">
-        <DraftWordCount>992</DraftWordCount>
-        <DraftCharCount>6230</DraftCharCount>
+    <RecentWritingHistory Date="2020-10-17 00:00:00 -0400">
+        <DraftWordCount>1792</DraftWordCount>
+        <DraftCharCount>11900</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
