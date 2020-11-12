@@ -827,7 +827,9 @@ We have not truly grappled with the challenge that the eighteenth century poses 
 
 
 
-# ch 4 - random sample (13k) #
+# ch 4 - random sample (13k) #  
+
+This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from \[Y\] resources. \[LITERARY BLUF - last thing to write\]
 
 
 
