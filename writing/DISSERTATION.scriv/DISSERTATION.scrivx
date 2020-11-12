@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-10-23 02:08:27 -0400" ModID="1F3C895D-E024-4CB0-934C-CDF71CEAEE8D">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-11-11 20:10:41 -0500" ModID="1F47A3FB-9413-4C2F-A1F4-5AB0D9A56E09">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -188,7 +188,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2552,0</TextSelection>
+                                        <TextSelection>1756,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="251B76CD-2570-4B1B-96DD-8820928F8997" Type="Text" Created="2019-09-18 17:44:20 -0400" Modified="2020-05-01 18:56:28 -0400">
@@ -523,7 +523,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1068,0</TextSelection>
+                                                <TextSelection>612,128</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="01529110-9B3B-4E71-BA86-A34A2A3798E5" Type="Text" Created="2020-03-05 22:31:50 -0500" Modified="2020-04-30 18:47:47 -0400">
@@ -918,7 +918,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3118,132</TextSelection>
+                                        <TextSelection>3960,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="0F777939-A4C8-4422-9936-FD6BFAD3D685" Type="Text" Created="2020-07-31 23:58:31 -0400" Modified="2020-08-03 19:37:13 -0400">
@@ -1127,7 +1127,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>808,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="564D4223-0AF0-4C4B-B2B5-7C755AAF2C73" Type="Text" Created="2020-08-01 14:58:05 -0400" Modified="2020-08-01 15:01:45 -0400">
@@ -1279,7 +1279,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>4967,463</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="3F850903-490F-4C54-816C-6F7A4B13E27C" Type="Text" Created="2020-07-28 16:07:10 -0400" Modified="2020-07-28 16:07:18 -0400">
@@ -1317,7 +1317,8 @@
                                 <TextSelection>128,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EF2FA651-8F5E-45B6-AE17-62E60914D532" Type="Text" Created="2020-10-03 04:32:14 -0400" Modified="2020-10-07 17:36:58 -0400">
+                        <BinderItem UUID="EF2FA651-8F5E-45B6-AE17-62E60914D532" Type="Text" Created="2020-10-03 04:32:14 -0400" Modified="2020-11-11 20:10:25 -0500">
+                            <Title>article draft</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -2735,7 +2736,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-10-23 02:08:21 -0400">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-11-01 16:28:28 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -12904,7 +12905,7 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         </Collection>
         <Collection Type="RecentSearch" ID="5F019618-106D-4CE6-B387-20FB66CFFD0F" Color="0.922176 0.818589 0.999618">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">university microfilms</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">canon</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -12953,13 +12954,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-10-23 02:04:35 -0400"></PreviousSession>
+        <PreviousSession Words="8571" Characters="55255" Date="2020-11-11 20:09:42 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-10-23 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>31</OtherWordCount>
-        <OtherCharCount>226</OtherCharCount>
+    <RecentWritingHistory Date="2020-11-11 00:00:00 -0500">
+        <DraftWordCount>8571</DraftWordCount>
+        <DraftCharCount>55255</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
