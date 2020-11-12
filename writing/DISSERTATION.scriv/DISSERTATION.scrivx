@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-11-11 20:16:42 -0500" ModID="00103560-3B6A-4D6D-9718-C37A5A57712D">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-11-11 20:26:26 -0500" ModID="EAD9F65E-1A94-494C-A41A-E83EB8F195BA">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1353,6 +1353,17 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="275C30FE-F0B3-4928-825F-BF17DD09B805" Type="Text" Created="2020-11-11 20:17:40 -0500" Modified="2020-11-11 20:26:10 -0500">
+                            <Title>what's my goal??</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="803C03FC-17A2-454A-82DC-2A30D3AED6BC" Type="Folder" Created="2020-07-27 15:53:08 -0400" Modified="2020-07-28 16:16:41 -0400">
                     <Title>conclusion (5k)</Title>
@@ -2885,7 +2896,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>38668,23433</TextSelection>
+                        <TextSelection>39455,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E5F71040-379C-4F48-9EE4-BAFB01EA29B1" Type="Text" Created="2020-07-31 23:44:29 -0400" Modified="2020-07-31 23:44:37 -0400">
@@ -12963,11 +12974,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="12235" Characters="78688" Date="2020-11-11 20:09:42 -0500"></PreviousSession>
+        <PreviousSession Words="12341" Characters="79339" Date="2020-11-11 20:09:42 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-11-11 00:00:00 -0500">
-        <DraftWordCount>12235</DraftWordCount>
-        <DraftCharCount>78688</DraftCharCount>
+        <DraftWordCount>12341</DraftWordCount>
+        <DraftCharCount>79339</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
