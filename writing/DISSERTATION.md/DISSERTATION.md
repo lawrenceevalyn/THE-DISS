@@ -829,7 +829,213 @@ We have not truly grappled with the challenge that the eighteenth century poses 
 
 # ch 4 - random sample (13k) #  
 
-This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from \[Y\] resources. \[LITERARY BLUF - last thing to write\]
+This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
+
+In earlier chapters, especially chapter 1, the 1790s provided a backdrop to explore my real subject of contemporary literary databases. In this chapter, however, my real subject is 1790s print culture in England; I am curious about how this subject might be illuminated differently through my unusual sampling method (in the vein of speculative computing) but several of my sampling principles are defined around the goal of actually acquiring sufficient titles to answer my questions. First, for example, I decided to work with my “post-cleaning” sample, to exclude non-English or non-1790s works. Although it is interesting to note the “false positives” that appear, their presence in the sample would limit my ability to comment meaningfully on my actual subject, 1790s print in England. I also decided that I would re-sample from ECCO instead of the ESTC if I could not find a way to personally read at last five of the works in the ESTC sample.
+
+I preferred to select my texts from the ESTC because it is the largest/broadest corpus from which I can sample. This would allow me to perform another case study “spot check” like the exploration of Charlotte Smith’s works in chapter 1: of the works I read from the ESTC, which are also available in other resources, and why? Sampling from ECCO instead would eliminate the possibility of finding works present in, eg, HathiTrust but *not* ECCO, and reduces the ability of this experiment to illuminate the database ecosystem. Nonetheless, I prefer in this chapter to limit my observations about databases in order to increase my ability to discuss the 1790s in England.
+
+I considered balancing my sample chronologically, e.g., taking one works from each year 1789-99. Doing so would reduce the chance that my random sample would overrepresent more productive years. However, I decided that such chronological overrepresentation would be exactly the kind of phenomenon I’d like to discover.  
+
+To take my sample, I used my “ESTC records - cleaned” spreadsheet from OpenRefine, which included 51,090 rows of data. I installed the “GOKb Utilities extension” for OpenRefine (https://github.com/ostephens/refine-gokbutils). I created a column called “Random number,” using the function randomNumber(0, 51090) (per https://stackoverflow.com/questions/46063173/how-to-make-a-random-sample-in-openrefine). However, when I sorted the data numerically, I saw that this did not give them all unique numbers (the first 10 went 1, 2, 3, 3, 5, 6, 6, 7, 7, 8) so this was not what I needed.
+
+So then I created a new column called “Row number,” using the GREL formula “row.index + 1” (which, despite the +1, filled the column with the exact row number that OpenRefine had assigned).  First I decided to reorder the rows permanently by the “Random number” column; even though that method hadn’t given each row a random unique identifier, it did sort them more randomly than any order sorting method could have accomplished. I spot-checked the new “Row number” column and it appeared to go appropriately from 1 to 51090.
+
+Then it was time to choose 10 random numbers between 1 and 51090 (inclusive). I used the random.org Random Integer Set Generator to generate 1 set with 10 unique random integers, with each integer between 1 and 51090 (inclusive). This generated the following set: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. I then looked up each of those row numbers in OpenRefine to find my titles.  
+
+**3585**
+
+Monograph
+
+T219851
+
+unsigned
+
+The excellent old ballad of the babes in the wood : or the Norfolk gentleman's last will and testament
+
+Children in the wood; or the Norfolk gentleman's last will and testament
+
+England ; Liverpool
+
+1794
+
+Availability: may not be able to find this exact edition, but ECCO has many other eds
+
+
+
+
+
+**6427**
+
+Monograph
+
+T194212
+
+Jones, William, 1726-1800 \[person\]
+
+A letter to three converted Jews : lately baptized and confirmed in the Church of England. By ... William Jones
+
+England ; London
+
+F & C. Rivington
+
+1799
+
+Availability: not readily available, but some related works may be discoverable
+
+
+
+**11770**
+
+Monograph
+
+T82736
+
+unsigned
+
+Satirical, humourous, and familiar pieces. Prose
+
+England ; Ludlow
+
+Champante & Whitrow, London ; George Nicholson, Ludlow. Sold by T. Knott
+
+1799
+
+Availability: ECCO link in ESTC
+
+
+
+**13646**
+
+Monograph
+
+N38682
+
+Great Britain, Army, London and Westminster Light Horse Volunteers \[organisation\]
+
+Rules and regulations of the corps of Light-Horse Volunteers of London and Westminster; carefully extracted from the minutes of the general meetings
+
+England ; London
+
+1797
+
+Availability: not linked in ESTC, but appears to be available in ECCO as ESTC T131622 --- another edition in a different size
+
+
+
+**15284**
+
+Monograph
+
+T161475
+
+Hayman, John \[person\]
+
+Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.' Golden-Square, London, Ist October, 1793
+
+England ; London
+
+1793
+
+Availability: does not appear to be available
+
+
+
+**15442**
+
+Monograph
+
+T111867
+
+East India Company \[organisation\] ; Great Britain, Parliament, House of Commons \[organisation\]
+
+An account of the prime cost of all cargoes purchased in India, and shipped for Europe, in the year 1793-4; together with the commercial charges at each presidency, not added to the invoice
+
+Proceedings. 1795-04-17
+
+England ; London
+
+1795
+
+Availability: May not be directly available, but some info in minutes digitized in Hathi, https://babel.hathitrust.org/cgi/pt?id=mdp.39015056730925&view=1up&seq=448
+
+
+
+**21963**
+
+Monograph
+
+T146200
+
+Goldsmith, Oliver, approximately 1730-1774 \[person\]
+
+The vicar of Wakefield : a tale, by Oliver Goldsmith
+
+England ; London
+
+Ogilvy & Speare
+
+1792
+
+Availability: ESTC links to ECCO
+
+
+
+**37041**
+
+Monograph
+
+T202021
+
+Goodall, Susannah \[person\]
+
+Extraordinary appearance of the moon! : Which was perceived to be in a violent rocking motion, for several minutes; after which was seen clearly passing round the orb, immense armies of horse and foot with bloody streamers flying, to the great terror and astonishment of thousand of spectators, who were witnesses of this wonderful alarming omen! to which is added, calculations, judicial and astrological observations, by which the true events signififed thereby are foretold. Susannah Goodall, pupil to the celebrated Don Farnando Furioso. Doctor of divinity, physic, and astrology. Who foretold all the late wonderful events and bloody battles which came to pass at Toulton, Dunkirk, and various parts of France and Flanders
+
+England ; London
+
+1794
+
+Availability: ESTC links to ECCO
+
+
+
+**44564**
+
+Monograph
+
+T113901
+
+Darwin, Erasmus, 1731-1802 \[person\]
+
+Zoonomia : or, the laws of organic life. ... . By Erasmus Darwin, M.D. F.R.S. Author of the Botanic Garden
+
+England ; London
+
+J. Johnson ; St. Paul's Church-Yard
+
+1794
+
+Availability: ESTC links to ECCO & Google Books
+
+
+
+**48755**
+
+Monograph
+
+N40981
+
+unsigned
+
+The principles of modern reformers exposed
+
+England ; Sheffield
+
+J. Crome
+
+1792
+
+Availability: can’t find
 
 
 

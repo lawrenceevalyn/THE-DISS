@@ -1,0 +1,9 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Georgia;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c1680\c19835\c100000;}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl312\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 To take my sample, I used my \'93ESTC records - cleaned\'94 spreadsheet from OpenRefine, which included 51,090 rows of data. I installed the \'93GOKb Utilities extension\'94 for OpenRefine (https://github.com/ostephens/refine-gokbutils). I created a column called \'93Random number,\'94 using the function randomNumber(0, 51090) (per https://stackoverflow.com/questions/46063173/how-to-make-a-random-sample-in-openrefine). However, when I sorted the data numerically, I saw that this did not give them all unique numbers (the first 10 went 1, 2, 3, 3, 5, 6, 6, 7, 7, 8) so this was not what I needed.\
+So then I created a new column called \'93Row number,\'94 using the GREL formula \'93row.index + 1\'94 (which, despite the +1, filled the column with the exact row number that OpenRefine had assigned).  First I decided to reorder the rows permanently by the \'93Random number\'94 column; even though that method hadn\'92t given each row a random unique identifier, it did sort them more randomly than any order sorting method could have accomplished. I spot-checked the new \'93Row number\'94 column and it appeared to go appropriately from 1 to 51090.\
+Then it was time to choose 10 random numbers between 1 and 51090 (inclusive). I used the random.org Random Integer Set Generator to generate 1 set with 10 unique random integers, with each integer between 1 and 51090 (inclusive). This generated the following set: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. I then looked up each of those row numbers in OpenRefine to find my titles.}
