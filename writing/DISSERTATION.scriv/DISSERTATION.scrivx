@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-11-19 18:47:34 -0500" ModID="CE01201D-CD38-4A0D-8A80-D3E617A4537C">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-11-21 00:49:48 -0500" ModID="680B9717-7B80-4F00-AE50-787FD3894EB1">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1387,16 +1387,37 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2845,5</TextSelection>
+                                <TextSelection>2433,37</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2B9DD55D-4B11-42D3-B7FC-327C6489C09F" Type="Text" Created="2020-11-19 16:54:38 -0500" Modified="2020-11-19 16:54:38 -0500">
+                        <BinderItem UUID="2B9DD55D-4B11-42D3-B7FC-327C6489C09F" Type="Text" Created="2020-11-19 16:54:38 -0500" Modified="2020-11-21 00:05:24 -0500">
+                            <Title>Extraordinary appearance of the moon!</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>745,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="125F618F-9097-4C1B-BE0C-AA7B91C2DE88" Type="Text" Created="2020-11-20 23:59:35 -0500" Modified="2020-11-20 23:59:54 -0500">
+                                    <Title>90s eclipses</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0588AB72-BA90-4746-9B50-33C6A4319180" Type="Text" Created="2020-11-21 00:25:24 -0500" Modified="2020-11-21 00:25:43 -0500">
+                                    <Title>bodleian copy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -2782,7 +2803,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-11-19 15:16:51 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-11-21 00:49:48 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13009,13 +13030,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="1092" Characters="7073" Date="2020-11-19 15:02:38 -0500"></PreviousSession>
+        <PreviousSession Words="251" Characters="1552" Date="2020-11-20 23:41:48 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-19 00:00:00 -0500">
-        <DraftWordCount>1092</DraftWordCount>
-        <DraftCharCount>7073</DraftCharCount>
-        <OtherWordCount>78</OtherWordCount>
-        <OtherCharCount>593</OtherCharCount>
+    <RecentWritingHistory Date="2020-11-21 00:00:00 -0500">
+        <DraftWordCount>238</DraftWordCount>
+        <DraftCharCount>1483</DraftCharCount>
+        <OtherWordCount>262</OtherWordCount>
+        <OtherCharCount>1762</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
