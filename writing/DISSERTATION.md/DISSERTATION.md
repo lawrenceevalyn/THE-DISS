@@ -989,7 +989,7 @@ T202021
 
 Goodall, Susannah \[person\]
 
-Extraordinary appearance of the moon! : Which was perceived to be in a violent rocking motion, for several minutes; after which was seen clearly passing round the orb, immense armies of horse and foot with bloody streamers flying, to the great terror and astonishment of thousand of spectators, who were witnesses of this wonderful alarming omen! to which is added, calculations, judicial and astrological observations, by which the true events signififed thereby are foretold. Susannah Goodall, pupil to the celebrated Don Farnando Furioso. Doctor of divinity, physic, and astrology. Who foretold all the late wonderful events and bloody battles which came to pass at Toulton, Dunkirk, and various parts of France and Flanders
+Extraordinary appearance of the moon! : Which was perceived to be in a violent rocking motion, for several minutes; after which was seen clearly passing round the orb, immense armies of horse and foot with bloody streamers flying, to the great terror and astonishment of thousand of spectators, who were witnesses of this wonderful alarming omen! to which is added, calculations, judicial and astrological observations, by which the true events signified thereby are foretold. Susannah Goodall, pupil to the celebrated Don Farnando Furioso. Doctor of divinity, physic, and astrology. Who foretold all the late wonderful events and bloody battles which came to pass at Toulton, Dunkirk, and various parts of France and Flanders
 
 England ; London
 
@@ -1035,7 +1035,30 @@ J. Crome
 
 1792
 
-Availability: can’t find
+Availability: can’t find  
+
+The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)  
+
+A few pieces indicate their sources - Goldsmith is a selling point on the title page, and a few on the inside indicate that they are taken from the spectator, but others don’t. How much piracy was involved?  
+
+She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
+
+
+
+It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.  
+
+![][ScreenShot2020-11-20at11.58.31PM]  
+
+| Location | Bodleian Library Harding A 127 (57) |
+| :----- | :----- |
+| Title | Extraordinary appearance of the moon! : Which was perceived to be in a violent rocking motion, for several minutes; after which was seen clearly passing round the orb, immense armies of horse and foot, with bloody streamers flying, ... / Susannah Goodall, pupil to the celebrated Don Farnando Furioso. ... Who foretold all the late wonderful events and bloody battles which came to pass at Toulon, Dunkirk, and various parts of France and Flanders |
+| Imprint | London?\] \[s.n., \[1794?\] |
+| Description | 8 p. : 1 ill. ; 12⁰ |
+| Binding | 19th-century half goat. Patterned cloth boards. By Henry Sotheran & Co., Piccadilly |
+| Provenance name | Sotheran, Henry |
+| Provenance note | Binder’s label |
+| Size | 19 cm |
+| Bound with | With 87 other chapbooks. Binder’s title: Trials |
 
 
 
@@ -1994,6 +2017,8 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [pastedGraphic-1]: pastedGraphic.png
 
 [pastedGraphic-2]: pastedGraphic.png
+
+[ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
 [juxta-emigrants-p1]: juxta-emigrants-p1.png width=145px height=99px
 
