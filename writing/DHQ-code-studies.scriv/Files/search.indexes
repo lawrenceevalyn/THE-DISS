@@ -22,8 +22,8 @@
         <Document ID="33B4B91A-323E-41EA-86B2-7DA0B72D97B3">
             <Title>Thought</Title>
         </Document>
-        <Document ID="AF76FEE3-CF5C-4A2A-85ED-B1FC1A47433A">
-            <Title>Interesting Passage</Title>
+        <Document ID="C037C6D1-505E-4D73-8C08-E34D3454500B">
+            <Title>Text 6</Title>
         </Document>
         <Document ID="F843BB09-AAC2-4AF8-B57D-DDF48E8D60DD">
             <Title>Text 2</Title>
@@ -34,26 +34,27 @@
         <Document ID="46DC9C7F-C12F-4039-AECE-3F50E817499A">
             <Title>Conclusion</Title>
         </Document>
+        <Document ID="E178C43A-001E-4C14-8C4B-1F41E853FF49">
+            <Title>Secondary Texts</Title>
+        </Document>
+        <Document ID="B80283E3-57DD-4864-96F8-22066F78A31F">
+            <Title>Retype Draft</Title>
+        </Document>
         <Document ID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA">
             <Title>Thesis</Title>
         </Document>
-        <Document ID="107AFE45-20D7-4220-BAE2-1EF5363E4B54">
-            <Title>Works Cited</Title>
+        <Document ID="AF76FEE3-CF5C-4A2A-85ED-B1FC1A47433A">
+            <Title>Interesting Passage</Title>
         </Document>
         <Document ID="1AF8C46F-9929-4E1D-A1B6-454E24073AAA">
             <Title>Abstract</Title>
             <Text>Critical Code Studies 500wd abstract
 
 TITLE:
-Data structures
-Access to literary history
-Access to Literary History through Project Gutenberg and the Text Creation Partnership
+Encoding “Conditions of Access”: The Contentious Role of XML in Project Gutenberg and the Text Creation Partnership
 
 
-Cultural criticism is increasingly attentive to computational systems as an “invisible hand” shaping our digitally-mediated lives; scholars in critical algorithm studies and the digital humanities more broadly use humanistic critique to illuminate, and seek alternatives to, the code that we live with. However, even as computation becomes more central to humanist disciplines, it remains uncommon for scholars to examine the extra-functional significance of the computer source code that shapes our own work — especially in literary studies, where digital critiques are often focused on close vs distant reading or representativeness in textual selection, rather than examining widely-used digital infrastructures. My theoretical approach integrates a critical code study of data structures in literary research with an analysis of cultural capital that extends the work of Pierre Bourdieu and John Guillory to the current moment. Specifically, I compare the encoding and distribution practices of Project Gutenberg and the Text Creation Partnership, two massive free repositories of public-domain texts which seem to exist in entirely separate worlds. Drawing on the histories and technical documentation of each, I argue that these projects have more in common than either acknowledges, including a core goal of disattaching cultural capital from economic capital, which Bourdieu describes as the quest to “universalize in reality the conditions of access” to the cultural capital of literature. However, a close examination of each organization’s text encoding standards and database structures reveals their fundamentally incompatible approaches to this shared project.</Text>
-        </Document>
-        <Document ID="B80283E3-57DD-4864-96F8-22066F78A31F">
-            <Title>Retype Draft</Title>
+Cultural criticism is increasingly attentive to computational systems as an “invisible hand” shaping our digitally-mediated lives; scholars in critical algorithm studies and the digital humanities more broadly use humanistic critique to illuminate, and seek alternatives to, the code that we live with. However, even as computation becomes more central to humanist disciplines, it remains uncommon for scholars to examine the extra-functional significance of the computer source code that shapes our own work — especially in literary studies, where digital critiques are often focused on close vs distant reading or representativeness in textual selection, rather than examining widely-used digital infrastructures. My theoretical approach integrates a critical code study of data structures in literary research with an analysis of cultural capital that extends the work of Pierre Bourdieu and John Guillory to the current moment. Specifically, I compare the encoding and distribution practices of Project Gutenberg and the Text Creation Partnership, two massive free repositories of public-domain texts which seem to exist in entirely separate worlds. Drawing on the histories and technical documentation of each, I argue that these projects have more in common than either acknowledges, including a core goal of disattaching cultural capital from economic capital, which Bourdieu describes as the quest to “universalize in reality the conditions of access” to the cultural capital of literature. However, a close examination of each organization’s text encoding standards and database structures reveals their fundamentally incompatible approaches to this shared project. For example, Project Gutenberg spent many years resisting even the simple and common XML markup standards of HTML, and even today insists that all texts are available without XML, to ensure that any person with any amount of internet access would always be able to access its texts. In contrast, the Text Creation Partnership embraced XML in its most esoteric forms, such that even scholars can be stymied by the task of simply reading a TCP text. These technical decisions are borne of a different understanding of what it means for a text to be “accessible.” Because the Text Creation Partnership remains closely tied to the institution of the university, I argue, it ultimately reinforces the stratification of access to literary history’s cultural capital.</Text>
         </Document>
         <Document ID="0B30F935-4B83-4B15-90B1-1AE2628BE383">
             <Title>Thoughts</Title>
@@ -64,11 +65,8 @@ Cultural criticism is increasingly attentive to computational systems as an “i
         <Document ID="F6A88C62-2FF2-49F5-AE86-5D5626073CDC">
             <Title>Text 4</Title>
         </Document>
-        <Document ID="C037C6D1-505E-4D73-8C08-E34D3454500B">
-            <Title>Text 6</Title>
-        </Document>
-        <Document ID="E178C43A-001E-4C14-8C4B-1F41E853FF49">
-            <Title>Secondary Texts</Title>
+        <Document ID="107AFE45-20D7-4220-BAE2-1EF5363E4B54">
+            <Title>Works Cited</Title>
         </Document>
     </Documents>
 </SearchIndexes>
