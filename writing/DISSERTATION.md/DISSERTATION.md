@@ -859,7 +859,7 @@ England ; Liverpool
 
 1794
 
-Availability: may not be able to find this exact edition, but ECCO has many other eds
+Availability: may not be able to find this exact edition, but ECCO has many other eds. Only physical copy is in Manchester
 
 
 
@@ -881,7 +881,7 @@ F & C. Rivington
 
 1799
 
-Availability: not readily available, but some related works may be discoverable
+Availability: not readily available, but some related works may be discoverable. Only physical copy is in Durham, UK
 
 
 
@@ -901,7 +901,7 @@ Champante & Whitrow, London ; George Nicholson, Ludlow. Sold by T. Knott
 
 1799
 
-Availability: ECCO link in ESTC
+Availability: ECCO link in ESTC. Physical copies at British Library and Oxford.
 
 
 
@@ -919,7 +919,7 @@ England ; London
 
 1797
 
-Availability: not linked in ESTC, but appears to be available in ECCO as ESTC T131622 --- another edition in a different size
+Availability: not linked in ESTC, but appears to be available in ECCO as ESTC T131622 --- another edition in a different size. Physical copy in the London National Archives.
 
 
 
@@ -937,7 +937,13 @@ England ; London
 
 1793
 
-Availability: does not appear to be available
+Availability: does not appear to be available. Only physical copy in Gottingen, Germany.
+
+Semi-related docs at http://estc.bl.uk/F/G5NFNY249J6CQCDR18GXQLNH9SIAFGMNIG7V3RR9DV9LR3LF4V-09870?func=full-set-set&set\_number=003557&set\_entry=000006&format=999
+
+http://estc.bl.uk/F/G5NFNY249J6CQCDR18GXQLNH9SIAFGMNIG7V3RR9DV9LR3LF4V-09872?func=full-set-set&set\_number=003557&set\_entry=000007&format=999
+
+http://estc.bl.uk/F/G5NFNY249J6CQCDR18GXQLNH9SIAFGMNIG7V3RR9DV9LR3LF4V-09864?func=full-set-set&set\_number=003557&set\_entry=000003&format=999
 
 
 
@@ -1015,7 +1021,7 @@ J. Johnson ; St. Paul's Church-Yard
 
 1794
 
-Availability: ESTC links to ECCO & Google Books
+Availability: ESTC links to ECCO & Google Books; also held at U of T
 
 
 
@@ -1040,6 +1046,54 @@ Availability: can’t find
 The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)  
 
 A few pieces indicate their sources - Goldsmith is a selling point on the title page, and a few on the inside indicate that they are taken from the spectator, but others don’t. How much piracy was involved?  
+
+Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
+
+
+
+“The Horses must be bay, brown, chestnut, or black, and not under fifteen Hands high; Stallions are not admitted, and Mares only allowed till a convenient Opportunity offers of exchanging them.” (7)
+
+
+
+“It is considered to be inconsistent with our Institution to contribute, *in the Name of the Corps*, to any public or private Subscription, every Gentleman having an Opportunity of contributing in his individual Capacity according to his Inclination and Abilities.” (29)
+
+
+
+There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and first refusal when there are openings for more mounted volunteers  
+
+Listed as “author of The Botanic Garden”
+
+
+
+Opens with a poem (viii)
+
+![][ScreenShot2020-12-08at1.40.54AM]
+
+
+
+He is trying to explain disease itself, and also sort of teach critical reading to counter fake news? (2)
+
+![][ScreenShot2020-12-08at1.42.30AM]
+
+
+
+Then it’s practically modern art!!!
+
+![][ScreenShot2020-12-08at1.44.47AM]
+
+
+
+What a way to “define your terms” (7)
+
+![][ScreenShot2020-12-08at1.47.18AM]
+
+
+
+P. 18 and 19 both appear twice! ECCO’s physical description doesn’t mention this: "2v.,plates ; 4°.” --- Same as ESTC’s description
+
+
+
+P 28 is the culmination of a long section about where ideas come from (references to Locke) --- rebuts a counter argumet that sensations occur in the brain rather than the organs of sense, reaffirms that all ideas have their origin in sensation  
 
 She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
@@ -2017,6 +2071,14 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [pastedGraphic-1]: pastedGraphic.png
 
 [pastedGraphic-2]: pastedGraphic.png
+
+[ScreenShot2020-12-08at1.40.54AM]: ScreenShot2020-12-08at1.40.54AM.png width=515px height=502px
+
+[ScreenShot2020-12-08at1.42.30AM]: ScreenShot2020-12-08at1.42.30AM.png width=694px height=245px
+
+[ScreenShot2020-12-08at1.44.47AM]: ScreenShot2020-12-08at1.44.47AM.png width=50px height=187px
+
+[ScreenShot2020-12-08at1.47.18AM]: ScreenShot2020-12-08at1.47.18AM.png width=508px height=139px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
