@@ -1093,7 +1093,17 @@ P. 18 and 19 both appear twice! ECCO’s physical description doesn’t mention 
 
 
 
-P 28 is the culmination of a long section about where ideas come from (references to Locke) --- rebuts a counter argumet that sensations occur in the brain rather than the organs of sense, reaffirms that all ideas have their origin in sensation  
+P 28 is the culmination of a long section about where ideas come from (references to Locke) --- rebuts a counter argument that sensations occur in the brain rather than the organs of sense, reaffirms that all ideas have their origin in sensation
+
+
+
+Erasmus has a much more vivid imagination than I do
+
+![][ScreenShot2020-12-20at4.35.21PM]P 50 pine-apple
+
+![][ScreenShot2020-12-20at4.37.10PM]
+
+P 51 guilty wretches  
 
 She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
@@ -2079,6 +2089,10 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2020-12-08at1.44.47AM]: ScreenShot2020-12-08at1.44.47AM.png width=50px height=187px
 
 [ScreenShot2020-12-08at1.47.18AM]: ScreenShot2020-12-08at1.47.18AM.png width=508px height=139px
+
+[ScreenShot2020-12-20at4.35.21PM]: ScreenShot2020-12-20at4.35.21PM.png width=594px height=140px
+
+[ScreenShot2020-12-20at4.37.10PM]: ScreenShot2020-12-20at4.37.10PM.png width=598px height=142px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
