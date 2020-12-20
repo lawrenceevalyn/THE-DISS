@@ -731,7 +731,13 @@ These goals are not so dissimilar to those of public libraries.
 
 “As Barbara Quint, editor of Searcher, said to me after reading some Gutenberg texts: "It struck me how noble, how wonderful, how great-spirited the people who made this all possible were. The time, the tedium, the labor it would take to render a book digital from a print copy." Further, she noted, "It's all a reminder of how much of what is the best on the Web and the Net comes from the kindness of strangers.”” (Hane)  
 
-What do these database histories mean for scholars of eighteenth century literature? First and foremost, these histories provide another reminder that these things do not exist prior to interpretation or intervention. It is not merely that they are *shaped* or *influenced* by their institutional contexts, implying small quirks or edge cases which can generally be ignored: they are *constituted in the first place* by those institutional contexts. Secondly, these histories suggest a course of action to be taken in response to the specific institutional factors constituting each database. Scholars periodically acknowledge the gaps between historical events as they occurred and the specific archive, database, or corpus that they are using as a proxy for the idealized concept of “the historical record,” but these acknowledgements typically take the form of a statement that some form of bias is assumed to exist, but that this bias is so unknowable and unavoidable that naturally we will just continue onward as if it was not present. Identifying the specific institutional process that led to the current digital infrastructure undermines efforts to brush off these details as unknowable: directly investigating the actual demographics of each resource’s holdings, as I do in future chapters, can also render these biases no longer unavoidable.
+What do these database histories mean for scholars of eighteenth century literature? First and foremost, these histories provide another reminder that these things do not exist prior to interpretation or intervention. It is not merely that they are *shaped* or *influenced* by their institutional contexts, implying small quirks or edge cases which can generally be ignored: they are *constituted in the first place* by those institutional contexts. Secondly, these histories suggest a course of action to be taken in response to the specific institutional factors constituting each database. Scholars periodically acknowledge the gaps between historical events as they occurred and the specific archive, database, or corpus that they are using as a proxy for the idealized concept of “the historical record,” but these acknowledgements typically take the form of a statement that some form of bias is assumed to exist, but that this bias is so unknowable and unavoidable that naturally we will just continue onward as if it was not present. Identifying the specific institutional process that led to the current digital infrastructure undermines efforts to brush off these details as unknowable: directly investigating the actual demographics of each resource’s holdings, as I do in future chapters, can also render these biases no longer unavoidable.  
+
+Hart divides the works hosted on Project Gutenberg into three categories: “light literature,” “heavy literature,” and “references.”
+
+
+
+A core early selection method was relevance to pop culture. It is desirable for *Peter Pan* to be accessible because people have just seen the movie *Hook*; it is desirable for Moby Dick to be accessible because it is referenced in *Star Trek*. Hart imagines reading motivated by natural curiosity, not building into an institutionally recognizable status as an ‘educated person.’
 
 
 
@@ -1097,13 +1103,21 @@ P 28 is the culmination of a long section about where ideas come from (reference
 
 
 
-Erasmus has a much more vivid imagination than I do
+Erasmus has a much more vivid imagination than I do:
 
-![][ScreenShot2020-12-20at4.35.21PM]P 50 pine-apple
+![][ScreenShot2020-12-20at4.35.21PM]
+
+P 50 pine-apple
 
 ![][ScreenShot2020-12-20at4.37.10PM]
 
-P 51 guilty wretches  
+P 51 guilty wretches
+
+
+
+Darwin on the cultivation and uses of ideas:
+
+![][ScreenShot2020-12-20at4.44.12PM]  
 
 She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
@@ -2090,9 +2104,11 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2020-12-08at1.47.18AM]: ScreenShot2020-12-08at1.47.18AM.png width=508px height=139px
 
-[ScreenShot2020-12-20at4.35.21PM]: ScreenShot2020-12-20at4.35.21PM.png width=594px height=140px
+[ScreenShot2020-12-20at4.35.21PM]: ScreenShot2020-12-20at4.35.21PM.png width=312px height=68px
 
-[ScreenShot2020-12-20at4.37.10PM]: ScreenShot2020-12-20at4.37.10PM.png width=598px height=142px
+[ScreenShot2020-12-20at4.37.10PM]: ScreenShot2020-12-20at4.37.10PM.png width=303px height=64px
+
+[ScreenShot2020-12-20at4.44.12PM]: ScreenShot2020-12-20at4.44.12PM.png width=304px height=347px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 

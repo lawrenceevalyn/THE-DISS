@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-20 16:45:34 -0500" ModID="4AD641F3-82B7-4AB2-8071-9BCBD0847281">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-20 16:49:08 -0500" ModID="3B9578E6-8665-429A-8A74-0FE60ACDEE88">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1271,6 +1271,15 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="CA5B3B42-F675-4B63-9873-9DA6C6F0F880" Type="Text" Created="2020-12-20 16:46:03 -0500" Modified="2020-12-20 16:48:57 -0500">
+                    <Title>PG's textual selection &amp; editing</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-11-21 21:52:17 -0500">
                     <Title>ch 2 - gender in databases (13k)</Title>
                     <MetaData>
@@ -1445,7 +1454,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>382,0</TextSelection>
+                                <TextSelection>688,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2B9DD55D-4B11-42D3-B7FC-327C6489C09F" Type="Text" Created="2020-11-19 16:54:38 -0500" Modified="2020-11-21 00:05:24 -0500">
@@ -13098,11 +13107,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="25" Characters="143" Date="2020-12-20 16:16:24 -0500"></PreviousSession>
+        <PreviousSession Words="103" Characters="650" Date="2020-12-20 16:16:24 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-12-20 00:00:00 -0500">
-        <DraftWordCount>25</DraftWordCount>
-        <DraftCharCount>143</DraftCharCount>
+        <DraftWordCount>103</DraftWordCount>
+        <DraftCharCount>650</DraftCharCount>
         <OtherWordCount>52</OtherWordCount>
         <OtherCharCount>511</OtherCharCount>
     </RecentWritingHistory>
