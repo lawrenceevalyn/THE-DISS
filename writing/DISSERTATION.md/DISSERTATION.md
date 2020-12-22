@@ -741,6 +741,16 @@ A core early selection method was relevance to pop culture. It is desirable for 
 
 
 
+34 heavy literature; 42 light literature; 24 references
+
+
+
+More recent additions to Project Gutenberg are less likely to have this kind of immediate name recognition. Looking at the first 100 titles added in 2020, for example, we see titles like “Shafting, Pulleys, Belting and Rope Transmission \[Subtitle: The Power Handbooks Library\]” and “The Archives of Dentistry Vol. 7 No. 12 December 1890.”
+
+But I don’t want to imply that Project Gutenberg has run out of valuable books to digitize. From the lens of expanding the canon, Project Gutenberg has just added “Chains and Freedom \[Subtitle: or, The Life and Adventure of Peter Wheeler, a Colored Man Yet Living\]”  
+
+
+
 # ch 2 - gender in databases (13k) #  
 
 Supporting Guillory’s assertion that there simply are fewer women writing in the past, I feel fully justified in reading “Dr.” as a gender marker indicating a male author, even though such a reading is wholly untenable today.  
