@@ -747,7 +747,17 @@ A core early selection method was relevance to pop culture. It is desirable for 
 
 More recent additions to Project Gutenberg are less likely to have this kind of immediate name recognition. Looking at the first 100 titles added in 2020, for example, we see titles like “Shafting, Pulleys, Belting and Rope Transmission \[Subtitle: The Power Handbooks Library\]” and “The Archives of Dentistry Vol. 7 No. 12 December 1890.”
 
-But I don’t want to imply that Project Gutenberg has run out of valuable books to digitize. From the lens of expanding the canon, Project Gutenberg has just added “Chains and Freedom \[Subtitle: or, The Life and Adventure of Peter Wheeler, a Colored Man Yet Living\]”  
+But I don’t want to imply that Project Gutenberg has run out of valuable books to digitize. From the lens of expanding the canon, Project Gutenberg has just added “Chains and Freedom \[Subtitle: or, The Life and Adventure of Peter Wheeler, a Colored Man Yet Living\]”    
+
+The actual way that books enter Wikipedia is through the website Distributed Proofreaders. It operates a lot like LibriVox in the sense that a volunteer will ‘sponsor’ a particular book and take responsibility for coordinating other volunteers and shepherding it through the proofreading process. Generally they will physically acquire a pre-1921 book, scan, and OCR it. Proofreaders will then check a few pages at a time to correct OCR errors.
+
+
+
+A sign of openness to a particular community: “Distributed Proofreaders regrets that we are unable to verify court-ordered community service because our system cannot adequately record time spent participating.”  
+
+Check how many DP volunteers: https://www.pgdp.net/c/
+
+Check most popular PG titles: https://www.gutenberg.org/browse/scores/top
 
 
 
