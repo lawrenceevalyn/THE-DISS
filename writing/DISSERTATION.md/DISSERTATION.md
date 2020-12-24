@@ -2102,7 +2102,26 @@ Vincent Carretta sees a lull in abolitionist activities during the late 1790s. D
 
 As these examples from Bode and Underwood show, it is increasingly rare for DH scholars to present their own research with sweeping claims to unmediated truth. Indeed, beyond Moretti and Jockers, it can be hard to find the bombastic claims with which DH has become associated.[^cf36] \[TODO-RESEARCH: cite 4-5 examples, one sentence summary / one sentence quote from each.\]  
 
-“Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode *World* 47)
+“Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode *World* 47)  
+
+“It set generic limits to the material and would not include: engraved material; printed forms, such as licences, warrants, certificates, etc.; trade and visiting cards, tickets, invitations, currency (although advertisements were to be included); playbills and concert programmes; playing cards, games, and puzzles (Alston & Janetta, 1978: 16--17). More significantly, it constructed its scope along geographic and linguistic lines. It would include: 
+
+1. All relevant items printed in the British Isles in any language; 
+
+	
+2. All relevant items printed in Colonial America, the United States 
+
+	(1776--1800), and Canada in any language; 
+
+	
+3. All relevant items printed in territories governed by Britain during any 
+
+	period of the eighteenth century in any language; 
+
+	
+4. All relevant items printed wholly or partly in English, or other British 
+
+	vernaculars, in any part of the world. “ (Gregg 12)
 
 [fig-databases-venn]: fig-databases-venn.png width=349px height=286px
 
