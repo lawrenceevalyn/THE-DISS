@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-24 02:59:19 -0500" ModID="395B0639-DCDA-4E40-A6F6-A02FED3111CA">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-27 02:36:49 -0500" ModID="2701DC0E-2485-4129-805E-7929BBF16751">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1295,7 +1295,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>127,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-11-21 21:52:17 -0500">
@@ -1474,6 +1474,17 @@
                             <TextSettings>
                                 <TextSelection>688,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1CAC7662-5FD2-49E3-9C61-0FCD0D1BDDB8" Type="Text" Created="2020-12-27 02:34:05 -0500" Modified="2020-12-27 02:36:49 -0500">
+                                    <Title>"voluntary" actions &amp; desire</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="2B9DD55D-4B11-42D3-B7FC-327C6489C09F" Type="Text" Created="2020-11-19 16:54:38 -0500" Modified="2020-11-21 00:05:24 -0500">
                             <Title>Extraordinary appearance of the moon!</Title>
@@ -13143,13 +13154,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="134" Characters="896" Date="2020-12-24 02:44:18 -0500"></PreviousSession>
+        <PreviousSession Words="8" Characters="29" Date="2020-12-27 02:26:56 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-12-24 00:00:00 -0500">
-        <DraftWordCount>134</DraftWordCount>
-        <DraftCharCount>896</DraftCharCount>
-        <OtherWordCount>192</OtherWordCount>
-        <OtherCharCount>1466</OtherCharCount>
+    <RecentWritingHistory Date="2020-12-27 00:00:00 -0500">
+        <DraftWordCount>8</DraftWordCount>
+        <DraftCharCount>29</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
