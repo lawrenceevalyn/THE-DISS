@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-27 02:50:29 -0500" ModID="8DDA5BA1-05B1-45D7-BDDC-BAE33756E1EF">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-27 20:36:20 -0500" ModID="1634C238-A14B-4432-88A0-3EE2D707D2DB">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1466,16 +1466,16 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="C92FBC41-71DE-42BB-B681-C2FB4D49D968" Type="Text" Created="2020-12-08 01:36:47 -0500" Modified="2020-12-27 02:46:44 -0500">
+                        <BinderItem UUID="C92FBC41-71DE-42BB-B681-C2FB4D49D968" Type="Text" Created="2020-12-08 01:36:47 -0500" Modified="2020-12-27 20:20:27 -0500">
                             <Title>Zoonomia</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>688,0</TextSelection>
+                                <TextSelection>666,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="1CAC7662-5FD2-49E3-9C61-0FCD0D1BDDB8" Type="Text" Created="2020-12-27 02:34:05 -0500" Modified="2020-12-27 02:39:16 -0500">
+                                <BinderItem UUID="1CAC7662-5FD2-49E3-9C61-0FCD0D1BDDB8" Type="Text" Created="2020-12-27 02:34:05 -0500" Modified="2020-12-27 20:36:20 -0500">
                                     <Title>"voluntary" actions; sensibility</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1499,15 +1499,25 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>185,0</TextSelection>
+                                        <TextSelection>155,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="AE69BD9C-B97B-46C5-B21D-08D45CEE9728" Type="Text" Created="2020-12-27 02:47:06 -0500" Modified="2020-12-27 02:47:06 -0500">
+                                <BinderItem UUID="AE69BD9C-B97B-46C5-B21D-08D45CEE9728" Type="Text" Created="2020-12-27 02:47:06 -0500" Modified="2020-12-27 19:51:36 -0500">
+                                    <Title>opium like grief</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="983C0551-B176-4E83-94AE-2A8F09B18705" Type="Text" Created="2020-12-27 20:20:08 -0500" Modified="2020-12-27 20:20:35 -0500">
+                                    <Title>prescribing emotions</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -13189,11 +13199,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="55" Characters="289" Date="2020-12-27 02:26:56 -0500"></PreviousSession>
+        <PreviousSession Words="13" Characters="63" Date="2020-12-27 19:51:06 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-12-27 00:00:00 -0500">
-        <DraftWordCount>55</DraftWordCount>
-        <DraftCharCount>289</DraftCharCount>
+        <DraftWordCount>68</DraftWordCount>
+        <DraftCharCount>352</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
