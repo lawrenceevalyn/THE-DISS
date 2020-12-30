@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-27 20:41:53 -0500" ModID="0D03C748-3FDC-411B-B52A-B6DB7AF2ADE9">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-12-27 21:54:37 -0500" ModID="72243AE6-A10A-4E82-813C-BD381BF225F7">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1466,22 +1466,40 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="C92FBC41-71DE-42BB-B681-C2FB4D49D968" Type="Text" Created="2020-12-08 01:36:47 -0500" Modified="2020-12-27 20:20:27 -0500">
+                        <BinderItem UUID="C1CAFACE-DC1D-4F1D-B723-2A6EE0C37768" Type="Text" Created="2020-12-27 21:41:15 -0500" Modified="2020-12-27 21:41:18 -0500">
                             <Title>Zoonomia</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>666,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="1CAC7662-5FD2-49E3-9C61-0FCD0D1BDDB8" Type="Text" Created="2020-12-27 02:34:05 -0500" Modified="2020-12-27 20:36:20 -0500">
+                                <BinderItem UUID="C92FBC41-71DE-42BB-B681-C2FB4D49D968" Type="Text" Created="2020-12-08 01:36:47 -0500" Modified="2020-12-27 21:54:36 -0500">
+                                    <Title>general zoonomia notes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>666,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1CAC7662-5FD2-49E3-9C61-0FCD0D1BDDB8" Type="Text" Created="2020-12-27 02:34:05 -0500" Modified="2020-12-27 21:42:39 -0500">
                                     <Title>"voluntary" actions; sensibility</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>56,0</TextSelection>
+                                        <TextSelection>65,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="19B25337-6E48-4703-B285-1ED82608B60F" Type="Text" Created="2020-12-27 21:42:21 -0500" Modified="2020-12-27 21:42:44 -0500">
+                                    <Title>plants are alive</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>47,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="70889A07-813E-4A4B-8041-1F3371DB21A1" Type="Text" Created="2020-12-27 02:40:08 -0500" Modified="2020-12-27 02:40:21 -0500">
@@ -2944,7 +2962,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-12-27 20:41:53 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2020-12-27 21:18:53 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13199,13 +13217,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="13" Characters="63" Date="2020-12-27 19:51:06 -0500"></PreviousSession>
+        <PreviousSession Words="32" Characters="169" Date="2020-12-27 19:51:06 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2020-12-27 00:00:00 -0500">
-        <DraftWordCount>68</DraftWordCount>
-        <DraftCharCount>352</DraftCharCount>
-        <OtherWordCount>25</OtherWordCount>
-        <OtherCharCount>191</OtherCharCount>
+        <DraftWordCount>87</DraftWordCount>
+        <DraftCharCount>458</DraftCharCount>
+        <OtherWordCount>48</OtherWordCount>
+        <OtherCharCount>391</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
