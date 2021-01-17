@@ -243,7 +243,7 @@ The punchline of this comic strip is a classic “form vs content” joke: the l
 
 The second two panels of the comic, however, draw attention to distinctly social human processes which often accelerate the decay of digital images. In the third panel, the stick figures have slightly shrunk, and beneath them we can see some icons of a computer menu. Implied in this panel is the idea that we are no longer looking at a copy of the image file itself, but a screenshot someone has taken of the image open on their computer. The final panel adds another layer of screenshotting through the mobile phone menu at the top, and two different watermarks implying that the image has been reposted at several image-sharing websites. The relevant lesson here is: \[???\]
 
-The inevitability of digital decay has been acknowledged in informal cultural circles online, such as this website, and the wider phenomenon of “deep fried memes,” which present images (conventionally, established meme formats for other memes) with hyperbolic distortions. Pixellation, colour shifts, and layers of emoji (which, like the watermarks in the last panel of the *xkcd* comic, imply human intervention and not just technological deterioration) all contribute to a visual effect that makes the images “look like they've been compressed, re-uploaded, and compressed again,” implying an often incongruous long history for the content of theimage, and creating an overall effect of being “comically over-processed” (Matsakis).
+The inevitability of digital decay has been acknowledged in informal cultural circles online, such as this website, and the wider phenomenon of “deep fried memes,” which present images (conventionally, established meme formats for other memes) with hyperbolic distortions. Pixellation, colour shifts, and layers of emoji (which, like the watermarks in the last panel of the *xkcd* comic, imply human intervention and not just technological deterioration) all contribute to a visual effect that makes the images “look like they've been compressed, re-uploaded, and compressed again,” implying an often incongruous long history for the content of the image, and creating an overall effect of being “comically over-processed” (Matsakis).
 
 
 
@@ -419,7 +419,7 @@ The English Short Title Catalogue began as the Eighteenth Century Short Title Ca
 
 Project Gutenberg began in 1971 with one individual, Michael Hart, who did not begin with a specific project vision in mind. From the beginning, then, Project Gutenberg was not goal-oriented in the same way as the other resources under discussion. By this I mean that Project Gutenberg orients itself toward goals of a fundamentally different kind than the goals which structure other textual archives, not that it has no goal. Project Gutenberg is, in general, subject to being dismissed as unserious or lacking rigorous standards, but I argue that these dismissals come from a failure to recognize and respect the real goals, seriousness, and standards which drive the project. In the case of the project’s founding, that goal was not, as in the case of the other databases under discussion, to provide a particular kind of access to a particular kind of texts. Instead, the goal of Project Gutenberg was born from a moment of happenstance and nepotism by which Hart, a student at the time, was donated $100,000,000 of computer time on the Xerox Sigma V mainframe at the Materials Research Lab at the University of Illinois. This mainframe was one of the first fifteen nodes on the early ARPANet, the precursor to the modern internet. As Hart described it, he “decided there was nothing he could do, in the way of ‘normal computing,’ that would repay the huge value of the computer time he had been given ... so he had to create $100,000,000 worth of value in some other manner” (“History and Philosophy”). Rather presciently for 1971, Hart concluded that the greatest value computing would offer was the storage, searching, and retrieval of other materials. He therefore typed up and distributed the Declaration of Independence.[^cf29] This became the first text of what would eventually become Project Gutenberg. It might even be considered the first ebook (according to Lebert 2008). Project Gutenberg was certainly “the first information provider on the internet and is the oldest digital library” (Lebert).
 
-“During the fist twenty years, Michael Hart himself keyed in the first hundred books, with the occasional help of others from time to time.” (Lebert)
+“During the first twenty years, Michael Hart himself keyed in the first hundred books, with the occasional help of others from time to time.” (Lebert)
 
 “when we started, the files had to be very small as a normal 300 page book took one meg of space which no one in 1971 could be expected to have (in general). So doing the U.S. Declaration of Independence (only 5K) seemed the best place to start. This was followed by the Bill of Rights --- then the whole US Constitution, as space was getting large (at least by the standards of 1973). Then came the Bible, as individual books of the Bible were not that large, then Shakespeare (a play at a time), and then into general work in the areas of light and heavy literature and references.” (Hart “History and Philosophy”) “That edition of Shakespeare was never released, due to copyright changes. If Shakespeare's works belong to the public domain, the comments and notes may be copyrighted, depending on the publication date. But other editions belonging to the public domain were posted a few years later.” (Lebert)
 
@@ -703,7 +703,23 @@ In 2010, just two years later, ”HathiTrust is now jointly owned and operated b
 
 ”In October 2015, HathiTrust comprised over 13.7 million volumes, including 5.3 million of which were in the public domain in the United States.” (Wikipedia)  
 
-As of 2017, the delivery of free CDs has been discontinued, though the ISO image is still available for download.
+As of 2017, the delivery of free CDs has been discontinued, though the ISO image is still available for download.  
+
+Created to pool resources/share costs to meet immense scholarly demand (focused on physical books)
+
+MLA talk Jan 20 2021
+
+The work of archivists is accepting and managing loss
+
+![][ScreenShot2021-01-10at12.20.20PM]![][ScreenShot2021-01-10at12.22.09PM]
+
+“Analog collections are *in a relative sense* dramatically less important than they were, but this does not mean *un*important”
+
+![][ScreenShot2021-01-10at12.24.37PM]
+
+Goes right to HathiTrust as a crucial “collective effort”
+
+The real action is to *share funds*
 
 
 
@@ -854,6 +870,22 @@ We have not truly grappled with the challenge that the eighteenth century poses 
 
 
 # ch 4 - random sample (13k) #  
+
+The version turned up by the random sample was 24p. ;  12⁰. The version in ECCO is 36p. ;  18⁰. 
+
+
+
+Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
+
+Emphasis on the operations of particular stables.
+
+There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and get first refusal when there are openings for more mounted volunteers. Suggests a strong ‘social club’ element?  
+
+She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
+
+
+
+It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.  
 
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
 
@@ -1075,6 +1107,8 @@ A few pieces indicate their sources - Goldsmith is a selling point on the title 
 
 Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
 
+Emphasis on the operations of particular stables.
+
 
 
 “The Horses must be bay, brown, chestnut, or black, and not under fifteen Hands high; Stallions are not admitted, and Mares only allowed till a convenient Opportunity offers of exchanging them.” (7)
@@ -1085,7 +1119,11 @@ Mostly the rules are about paying appropriate fees (there is a blank for the amo
 
 
 
-There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and first refusal when there are openings for more mounted volunteers  
+There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and get first refusal when there are openings for more mounted volunteers. Suggests a strong ‘social club’ element?
+
+
+
+The version turned up by the random sample was 24p. ;  12⁰. The version in ECCO is 36p. ;  18⁰.   
 
 Listed as “author of The Botanic Garden”
 
@@ -1115,8 +1153,6 @@ What a way to “define your terms” (7)
 
 
 
-P. 18 and 19 both appear twice! ECCO’s physical description doesn’t mention this: "2v.,plates ; 4°.” --- Same as ESTC’s description
-
 
 
 P 28 is the culmination of a long section about where ideas come from (references to Locke) --- rebuts a counter argument that sensations occur in the brain rather than the organs of sense, reaffirms that all ideas have their origin in sensation
@@ -1137,13 +1173,289 @@ P 51 guilty wretches
 
 Darwin on the cultivation and uses of ideas:
 
-![][ScreenShot2020-12-20at4.44.12PM]  
-
-She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
+![][ScreenShot2020-12-20at4.44.12PM]
 
 
 
-It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.  
+P 62
+
+![][ScreenShot2020-12-27at2.41.37AM]
+
+P 92-3
+
+![][ScreenShot2020-12-27at8.06.45PM]![][ScreenShot2020-12-27at8.06.33PM]
+
+
+
+
+
+P 111
+
+![][ScreenShot2020-12-27at9.54.05PM]
+
+
+
+P 114: things might exist without being solid, but they still exist in space
+
+![][ScreenShot2020-12-30at2.57.30AM]
+
+
+
+P 132 - what lady is he talking about?
+
+![][ScreenShot2020-12-31at2.36.37AM]
+
+
+
+P. 133 identity
+
+![][ScreenShot2020-12-31at2.39.58AM]
+
+
+
+P 143 elephant stories
+
+![][ScreenShot2020-12-31at2.46.27AM]
+
+
+
+P 157 knife on china --- a experience that I still feel viscerally
+
+![][ScreenShot2021-01-01at3.35.54AM]
+
+
+
+P 189 bowels
+
+![][ScreenShot2021-01-01at8.58.52PM]
+
+
+
+P 186 comparison of movement to reading poetry
+
+![][ScreenShot2021-01-01at8.55.50PM]
+
+P 192 explanation for his claim on p 186
+
+![][ScreenShot2021-01-01at9.03.09PM]
+
+
+
+P 200
+
+We have dreams so we don’t get brain-fever when we wake up
+
+![][ScreenShot2021-01-03at1.33.01AM]
+
+
+
+P 201-202 a totally bananas experiment about the accumulation of sensorial power in the eyes
+
+
+
+![][ScreenShot2021-01-03at1.35.28AM]![][ScreenShot2021-01-03at1.35.54AM]
+
+
+
+P 206 - 207: reverie makes us lose track of time, that’s why Shakespeare is good without theatrical unities
+
+![][ScreenShot2021-01-03at1.37.34AM]![][ScreenShot2021-01-03at1.37.42AM]
+
+
+
+P 217 - 218 --- oxygene air and sleep
+
+![][ScreenShot2021-01-04at1.18.43AM]
+
+
+
+P 231-232 seasickness
+
+![][ScreenShot2021-01-04at1.21.19AM]![][ScreenShot2021-01-04at1.21.25AM]
+
+
+
+P 240 drunkenness caused by tricking your stomach into thinking you’re full
+
+![][ScreenShot2021-01-04at1.28.07AM]
+
+
+
+P 250 on indolent people whistling because they’re not thinking:
+
+![][ScreenShot2021-01-13at7.59.25PM]
+
+
+
+P 251: repetition is why we like certain poetic features --- he has a lot more to say about repetition in the arts
+
+![][ScreenShot2021-01-16at6.22.28PM]
+
+
+
+P 259: a succinct summary of his theory of nerves / circulation
+
+![][ScreenShot2021-01-16at8.35.01PM]
+
+
+
+P 276 a person who can spit up berries on command: maybe a sleight of hand trick?
+
+![][ScreenShot2021-01-16at8.42.18PM]
+
+
+
+P 279 powerfully bad diarrhoea as evidence
+
+![][ScreenShot2021-01-16at8.44.05PM]
+
+
+
+P. 290-291 two cases where they use venesections and bleeding as a treatment for haemorrhage
+
+
+
+P. 302 he includes his dead son’s dissertation
+
+![][ScreenShot2021-01-16at9.05.10PM]
+
+Charles describes a lot of experiments and cites a lot of other people
+
+P. 309-310 experiments with eating asparagus and then peeing & bleeding  
+
+P 144-145
+
+![][ScreenShot2020-12-31at2.47.39AM]
+
+
+
+P 145-146
+
+![][ScreenShot2020-12-31at2.48.57AM]
+
+![][ScreenShot2020-12-31at2.49.14AM]  
+
+P 106 - reference to Darwin’s bodily experience as he writes (holding a flower)
+
+![][ScreenShot2020-12-27at9.39.56PM]
+
+
+
+
+
+P 148 gives the date of “this morning”
+
+![][ScreenShot2020-12-31at2.52.20AM]
+
+
+
+
+
+P 159 personal anecdote about a bird he doesn’t like
+
+![][ScreenShot2021-01-01at3.37.26AM]
+
+
+
+P 191 draft circulated in manuscript --- what actress is this talking about?
+
+![][ScreenShot2021-01-01at9.01.06PM]  
+
+P 57
+
+![][Hu4qt]
+
+
+
+P 58
+
+![][ScreenShot2020-12-27at2.33.01AM]
+
+
+
+P 58
+
+![][ScreenShot2020-12-27at2.33.35AM]
+
+P 59
+
+![][ScreenShot2020-12-27at2.33.51AM]
+
+![][ScreenShot2020-12-27at2.37.28AM]
+
+
+
+P 59 definition of sensibility:![][ScreenShot2020-12-27at2.38.21AM]  
+
+P 103: sensibility in plants
+
+![][ScreenShot2020-12-27at8.35.42PM]
+
+
+
+P 105
+
+![][ScreenShot2020-12-27at9.38.54PM]
+
+
+
+P 107
+
+![][ScreenShot2020-12-27at9.42.05PM]
+
+
+
+  
+
+P 184 it is planning that defines the human
+
+![][ScreenShot2021-01-01at8.52.55PM]
+
+
+
+P 169: animal contracts
+
+![][ScreenShot2021-01-01at3.44.43AM]
+
+
+
+P 183 on the reasoning of insects
+
+![][ScreenShot2021-01-01at8.50.51PM]  
+
+P 60
+
+![][ScreenShot2020-12-27at2.39.58AM]  
+
+ECCO’s physical description doesn’t mention pagination errors, just: "2v.,plates ; 4°.” --- Same as ESTC’s description --- **Are these errors in the printed book, or in the microfilm?**
+
+
+
+Pages 18 and 19 both appear twice! It goes 17 18 19 18 19 20
+
+Another error --- it goes 61 26 63 26 63 64 --- looks like microfilm error? (63s are identical)
+
+
+
+![][ScreenShot2020-12-27at2.49.10AM]![][ScreenShot2020-12-27at2.48.53AM]![][ScreenShot2020-12-27at2.49.16AM]![][ScreenShot2020-12-27at2.49.05AM]
+
+
+
+  
+
+P 81
+
+![][ScreenShot2020-12-27at7.50.54PM]  
+
+P 95
+
+![][ScreenShot2020-12-27at8.11.55PM]
+
+
+
+P 96
+
+![][ScreenShot2020-12-27at8.19.58PM]  
 
 ![][ScreenShot2020-11-20at11.58.31PM]  
 
@@ -2129,6 +2441,12 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3]: CSmith-ESTC-ECCO-TCP-Hathi-alluvial-3.png width=244px height=198px
 
+[ScreenShot2021-01-10at12.20.20PM]: ScreenShot2021-01-10at12.20.20PM.png width=694px height=251px
+
+[ScreenShot2021-01-10at12.22.09PM]: ScreenShot2021-01-10at12.22.09PM.png width=693px height=262px
+
+[ScreenShot2021-01-10at12.24.37PM]: ScreenShot2021-01-10at12.24.37PM.png width=472px height=266px
+
 [pastedGraphic]: pastedGraphic.png
 
 [pastedGraphic-1]: pastedGraphic.png
@@ -2148,6 +2466,114 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2020-12-20at4.37.10PM]: ScreenShot2020-12-20at4.37.10PM.png width=303px height=64px
 
 [ScreenShot2020-12-20at4.44.12PM]: ScreenShot2020-12-20at4.44.12PM.png width=304px height=347px
+
+[ScreenShot2020-12-27at2.41.37AM]: ScreenShot2020-12-27at2.41.37AM.png width=579px height=90px
+
+[ScreenShot2020-12-27at8.06.45PM]: ScreenShot2020-12-27at8.06.45PM.png width=586px height=72px
+
+[ScreenShot2020-12-27at8.06.33PM]: ScreenShot2020-12-27at8.06.33PM.png width=590px height=316px
+
+[ScreenShot2020-12-27at9.54.05PM]: ScreenShot2020-12-27at9.54.05PM.png width=659px height=411px
+
+[ScreenShot2020-12-30at2.57.30AM]: ScreenShot2020-12-30at2.57.30AM.png width=649px height=556px
+
+[ScreenShot2020-12-31at2.36.37AM]: ScreenShot2020-12-31at2.36.37AM.png width=658px height=356px
+
+[ScreenShot2020-12-31at2.39.58AM]: ScreenShot2020-12-31at2.39.58AM.png width=654px height=226px
+
+[ScreenShot2020-12-31at2.46.27AM]: ScreenShot2020-12-31at2.46.27AM.png width=656px height=556px
+
+[ScreenShot2021-01-01at3.35.54AM]: ScreenShot2021-01-01at3.35.54AM.png width=659px height=127px
+
+[ScreenShot2021-01-01at8.58.52PM]: ScreenShot2021-01-01at8.58.52PM.png width=654px height=156px
+
+[ScreenShot2021-01-01at8.55.50PM]: ScreenShot2021-01-01at8.55.50PM.png width=651px height=152px
+
+[ScreenShot2021-01-01at9.03.09PM]: ScreenShot2021-01-01at9.03.09PM.png width=660px height=185px
+
+[ScreenShot2021-01-03at1.33.01AM]: ScreenShot2021-01-03at1.33.01AM.png width=658px height=322px
+
+[ScreenShot2021-01-03at1.35.28AM]: ScreenShot2021-01-03at1.35.28AM.png width=646px height=523px
+
+[ScreenShot2021-01-03at1.35.54AM]: ScreenShot2021-01-03at1.35.54AM.png width=644px height=345px
+
+[ScreenShot2021-01-03at1.37.34AM]: ScreenShot2021-01-03at1.37.34AM.png width=651px height=177px
+
+[ScreenShot2021-01-03at1.37.42AM]: ScreenShot2021-01-03at1.37.42AM.png width=642px height=101px
+
+[ScreenShot2021-01-04at1.18.43AM]: ScreenShot2021-01-04at1.18.43AM.png width=684px height=710px
+
+[ScreenShot2021-01-04at1.21.19AM]: ScreenShot2021-01-04at1.21.19AM.png width=652px height=284px
+
+[ScreenShot2021-01-04at1.21.25AM]: ScreenShot2021-01-04at1.21.25AM.png width=655px height=49px
+
+[ScreenShot2021-01-04at1.28.07AM]: ScreenShot2021-01-04at1.28.07AM.png width=575px height=624px
+
+[ScreenShot2021-01-13at7.59.25PM]: ScreenShot2021-01-13at7.59.25PM.png width=869px height=418px
+
+[ScreenShot2021-01-16at6.22.28PM]: ScreenShot2021-01-16at6.22.28PM.png width=661px height=588px
+
+[ScreenShot2021-01-16at8.35.01PM]: ScreenShot2021-01-16at8.35.01PM.png width=669px height=160px
+
+[ScreenShot2021-01-16at8.42.18PM]: ScreenShot2021-01-16at8.42.18PM.png width=660px height=179px
+
+[ScreenShot2021-01-16at8.44.05PM]: ScreenShot2021-01-16at8.44.05PM.png width=665px height=340px
+
+[ScreenShot2021-01-16at9.05.10PM]: ScreenShot2021-01-16at9.05.10PM.png width=686px height=106px
+
+[ScreenShot2020-12-31at2.47.39AM]: ScreenShot2020-12-31at2.47.39AM.png width=656px height=388px
+
+[ScreenShot2020-12-31at2.48.57AM]: ScreenShot2020-12-31at2.48.57AM.png width=665px height=568px
+
+[ScreenShot2020-12-31at2.49.14AM]: ScreenShot2020-12-31at2.49.14AM.png width=648px height=104px
+
+[ScreenShot2020-12-27at9.39.56PM]: ScreenShot2020-12-27at9.39.56PM.png width=592px height=228px
+
+[ScreenShot2020-12-31at2.52.20AM]: ScreenShot2020-12-31at2.52.20AM.png width=661px height=261px
+
+[ScreenShot2021-01-01at3.37.26AM]: ScreenShot2021-01-01at3.37.26AM.png width=651px height=175px
+
+[ScreenShot2021-01-01at9.01.06PM]: ScreenShot2021-01-01at9.01.06PM.png width=655px height=408px
+
+[Hu4qt]: Hu4qt.png width=600px height=255px
+
+[ScreenShot2020-12-27at2.33.01AM]: ScreenShot2020-12-27at2.33.01AM.png width=596px height=207px
+
+[ScreenShot2020-12-27at2.33.35AM]: ScreenShot2020-12-27at2.33.35AM.png width=591px height=125px
+
+[ScreenShot2020-12-27at2.33.51AM]: ScreenShot2020-12-27at2.33.51AM.png width=586px height=338px
+
+[ScreenShot2020-12-27at2.37.28AM]: ScreenShot2020-12-27at2.37.28AM.png width=596px height=227px
+
+[ScreenShot2020-12-27at2.38.21AM]: ScreenShot2020-12-27at2.38.21AM.png width=597px height=163px
+
+[ScreenShot2020-12-27at8.35.42PM]: ScreenShot2020-12-27at8.35.42PM.png width=594px height=315px
+
+[ScreenShot2020-12-27at9.38.54PM]: ScreenShot2020-12-27at9.38.54PM.png width=593px height=252px
+
+[ScreenShot2020-12-27at9.42.05PM]: ScreenShot2020-12-27at9.42.05PM.png width=587px height=230px
+
+[ScreenShot2021-01-01at8.52.55PM]: ScreenShot2021-01-01at8.52.55PM.png width=652px height=692px
+
+[ScreenShot2021-01-01at3.44.43AM]: ScreenShot2021-01-01at3.44.43AM.png width=649px height=251px
+
+[ScreenShot2021-01-01at8.50.51PM]: ScreenShot2021-01-01at8.50.51PM.png width=649px height=360px
+
+[ScreenShot2020-12-27at2.39.58AM]: ScreenShot2020-12-27at2.39.58AM.png width=602px height=295px
+
+[ScreenShot2020-12-27at2.49.10AM]: ScreenShot2020-12-27at2.49.10AM.png width=591px height=28px
+
+[ScreenShot2020-12-27at2.48.53AM]: ScreenShot2020-12-27at2.48.53AM.png width=599px height=42px
+
+[ScreenShot2020-12-27at2.49.16AM]: ScreenShot2020-12-27at2.49.16AM.png width=592px height=33px
+
+[ScreenShot2020-12-27at2.49.05AM]: ScreenShot2020-12-27at2.49.05AM.png width=590px height=34px
+
+[ScreenShot2020-12-27at7.50.54PM]: ScreenShot2020-12-27at7.50.54PM.png width=589px height=205px
+
+[ScreenShot2020-12-27at8.11.55PM]: ScreenShot2020-12-27at8.11.55PM.png width=592px height=69px
+
+[ScreenShot2020-12-27at8.19.58PM]: ScreenShot2020-12-27at8.19.58PM.png width=582px height=270px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
