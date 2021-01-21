@@ -887,6 +887,26 @@ She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
 It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.  
 
+My random sample suggested a 1794 Liverpool edition 8p. ;  12⁰. This particular version of the ballad has not been digitized, but I located five other copies in ECCO from the 1790s:
+
+CW0117256783 N.p., \[1790?\] 1 sheet : ill. ; obl.1/2°
+
+CB0126648281 S.n., \[1790?\] 8p. ; 8° (adds The Chimney Sweeper)
+
+CB0127621441 \[s.n.\], Printed in the year 1796 8p. ; 12° (adds Johnny Coup)
+
+CB0127895166 \[Edinburgh? : s.n.\], 1799. 8p. : ill. ; 12° (adds Johnny Coup)
+
+CB0126649552 Edinburgh : Printed by J. Morren, \[1800?\]. 8p. : ill. ; 12° (adds The Yorkshire Beauty)
+
+
+
+Of these, four seem similar in format to the 1794 Liverpool edition, being eight duodecimo pages. All four of these 8p 12⁰ editions include another ballad after Babes. They also all include illustrations on the first pace (though only 2 of the 4 have the illustration mentioned in the collocation). I therefore suspect that the 1794 Liverpool edition also likely includes a second ballad, and an illustration.
+
+
+
+ESTC offers a ‘uniform title’ of “Children in the wood; or the Norfolk gentleman’s last will and testament” for the ballad.  
+
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
 
 In earlier chapters, especially chapter 1, the 1790s provided a backdrop to explore my real subject of contemporary literary databases. In this chapter, however, my real subject is 1790s print culture in England; I am curious about how this subject might be illuminated differently through my unusual sampling method (in the vein of speculative computing) but several of my sampling principles are defined around the goal of actually acquiring sufficient titles to answer my questions. First, for example, I decided to work with my “post-cleaning” sample, to exclude non-English or non-1790s works. Although it is interesting to note the “false positives” that appear, their presence in the sample would limit my ability to comment meaningfully on my actual subject, 1790s print in England. I also decided that I would re-sample from ECCO instead of the ESTC if I could not find a way to personally read at last five of the works in the ESTC sample.
@@ -1321,7 +1341,65 @@ P. 302 he includes his dead son’s dissertation
 
 Charles describes a lot of experiments and cites a lot of other people
 
-P. 309-310 experiments with eating asparagus and then peeing & bleeding  
+P. 309-310 experiments with eating asparagus and then peeing & bleeding
+
+
+
+P 346 the end of Charles’s dissertation
+
+![][ScreenShot2021-01-17at5.08.36PM]
+
+
+
+P 351 ancient goose liver recipes
+
+![][ScreenShot2021-01-17at5.26.36PM]
+
+
+
+P 352-353 the story of prometheus!!
+
+![][ScreenShot2021-01-17at5.28.00PM]
+
+![][ScreenShot2021-01-17at5.31.00PM]
+
+
+
+P 355 Erasmus doesn’t think dark eyes are beautiful, they are a debility
+
+![][ScreenShot2021-01-17at5.37.06PM]
+
+
+
+P. 356 to --- explaining why Indigenous peoples die under the lash instead of being made to work; also small Asian hands
+
+![][ScreenShot2021-01-17at5.38.49PM]
+
+
+
+P 357-8 too much sensitivity
+
+![][ScreenShot2021-01-17at5.41.17PM]
+
+
+
+Describes some Indigenous people discovered by the Spaniards who are of this temperament
+
+
+
+P 358-9 very brief descirption of the temperament of increased voluntarity--- associated with the king of Sweden, and tied to the qualities that distinguish men from brutes
+
+
+
+P 360 - circumstances can cause changes in temperament
+
+![][ScreenShot2021-01-17at5.44.19PM]
+
+
+
+P 375-376 earth might look like saturn from afar![][ScreenShot2021-01-17at6.00.01PM]
+
+  
 
 P 144-145
 
@@ -2520,6 +2598,24 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-01-16at8.44.05PM]: ScreenShot2021-01-16at8.44.05PM.png width=665px height=340px
 
 [ScreenShot2021-01-16at9.05.10PM]: ScreenShot2021-01-16at9.05.10PM.png width=686px height=106px
+
+[ScreenShot2021-01-17at5.08.36PM]: ScreenShot2021-01-17at5.08.36PM.png width=674px height=516px
+
+[ScreenShot2021-01-17at5.26.36PM]: ScreenShot2021-01-17at5.26.36PM.png width=659px height=380px
+
+[ScreenShot2021-01-17at5.28.00PM]: ScreenShot2021-01-17at5.28.00PM.png width=673px height=158px
+
+[ScreenShot2021-01-17at5.31.00PM]: ScreenShot2021-01-17at5.31.00PM.png width=658px height=520px
+
+[ScreenShot2021-01-17at5.37.06PM]: ScreenShot2021-01-17at5.37.06PM.png width=667px height=155px
+
+[ScreenShot2021-01-17at5.38.49PM]: ScreenShot2021-01-17at5.38.49PM.png width=660px height=442px
+
+[ScreenShot2021-01-17at5.41.17PM]: ScreenShot2021-01-17at5.41.17PM.png width=687px height=704px
+
+[ScreenShot2021-01-17at5.44.19PM]: ScreenShot2021-01-17at5.44.19PM.png width=662px height=189px
+
+[ScreenShot2021-01-17at6.00.01PM]: ScreenShot2021-01-17at6.00.01PM.png width=672px height=499px
 
 [ScreenShot2020-12-31at2.47.39AM]: ScreenShot2020-12-31at2.47.39AM.png width=656px height=388px
 
