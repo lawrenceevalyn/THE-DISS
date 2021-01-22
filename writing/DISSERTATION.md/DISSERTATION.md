@@ -905,6 +905,28 @@ Of these, four seem similar in format to the 1794 Liverpool edition, being eight
 
 
 
+6783 and 5166/1441 and 8281 and 9552 are all distinct from each other, with many minor variations in wording throughout and different stanza breaks.
+
+The “told his wife” line is distinctive---
+
+6783: “Then told his wife and all he had,”
+
+8281: “And told his wife, and all he had,”
+
+1441: “He told his wife and all his friends”
+
+5166: “He told his wife and all his friends,”
+
+9552: “He told his wife and children all,”
+
+
+
+5166 and 1441 *almost* appear to be using the identical type (tho with different title & text decoration at the top of the ballad) but looking more closely, the difference in comma on the wife line suggests that 5166 is a new typesetting but it is based on a copy of 1441.
+
+These both add Johnny Coup as a the second ballad but the two Johnnies are NOT identical; different title & decoration, and also 5166 squeezes an extra stanza onto the first page of Johnny (but then DOESN’T repeat the chorus at the end?). The title page illustration also differs --- a similar image of a man on an ox (??) but not the same woodblock, 5166 is perhaps a rough mirrored copy of 1441?
+
+
+
 ESTC offers a ‘uniform title’ of “Children in the wood; or the Norfolk gentleman’s last will and testament” for the ballad.  
 
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  

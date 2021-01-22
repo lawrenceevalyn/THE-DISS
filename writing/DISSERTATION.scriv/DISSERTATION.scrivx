@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-21 01:21:55 -0500" ModID="D6CD268C-56B8-4F33-A593-BFFB33016FE3">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-22 01:15:43 -0500" ModID="F3983C4E-B73E-4C62-85E4-D8567812FA14">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1418,7 +1418,7 @@
                                         <TextSelection>745,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="903EA6E3-7404-43A7-906C-EA10164F5D52" Type="Text" Created="2021-01-21 00:32:19 -0500" Modified="2021-01-21 00:49:32 -0500">
+                                <BinderItem UUID="903EA6E3-7404-43A7-906C-EA10164F5D52" Type="Text" Created="2021-01-21 00:32:19 -0500" Modified="2021-01-22 00:32:05 -0500">
                                     <Title>babes proxies</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1539,7 +1539,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1821,1</TextSelection>
+                                                <TextSelection>2830,1</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="587D7535-43BC-49B4-92CD-92C9847D2B00" Type="Text" Created="2020-12-31 02:46:43 -0500" Modified="2020-12-31 02:49:46 -0500">
@@ -13313,13 +13313,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="173" Characters="1085" Date="2021-01-21 00:29:59 -0500"></PreviousSession>
+        <PreviousSession Words="198" Characters="1079" Date="2021-01-22 00:13:15 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-01-21 00:00:00 -0500">
-        <DraftWordCount>173</DraftWordCount>
-        <DraftCharCount>1085</DraftCharCount>
-        <OtherWordCount>95</OtherWordCount>
-        <OtherCharCount>616</OtherCharCount>
+    <RecentWritingHistory Date="2021-01-22 00:00:00 -0500">
+        <DraftWordCount>198</DraftWordCount>
+        <DraftCharCount>1079</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
