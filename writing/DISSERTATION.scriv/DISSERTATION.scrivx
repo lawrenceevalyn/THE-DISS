@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-22 01:15:43 -0500" ModID="F3983C4E-B73E-4C62-85E4-D8567812FA14">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-23 00:59:39 -0500" ModID="0BA4438D-1EA7-4260-8389-BEC5D3EB0A77">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1425,6 +1425,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1085,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6481433C-6372-4BBF-BA02-50B6B5854032" Type="Text" Created="2021-01-22 19:05:34 -0500" Modified="2021-01-22 19:21:47 -0500">
+                                    <Title>Piper - generalization</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3210,7 +3219,7 @@
                         <TextSelection>1624,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="03C4DD8B-78F7-4AA4-A5A6-64AF8271CB3B" Type="Text" Created="2020-12-10 03:33:43 -0500" Modified="2020-12-11 03:35:59 -0500">
+                <BinderItem UUID="03C4DD8B-78F7-4AA4-A5A6-64AF8271CB3B" Type="Text" Created="2020-12-10 03:33:43 -0500" Modified="2021-01-22 19:15:29 -0500">
                     <Title>Piper - generalization</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -13313,11 +13322,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="198" Characters="1079" Date="2021-01-22 00:13:15 -0500"></PreviousSession>
+        <PreviousSession Words="261" Characters="1617" Date="2021-01-22 17:37:10 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-01-22 00:00:00 -0500">
-        <DraftWordCount>198</DraftWordCount>
-        <DraftCharCount>1079</DraftCharCount>
+    <RecentWritingHistory Date="2021-01-23 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
