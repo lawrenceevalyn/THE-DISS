@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-25 01:29:59 -0500" ModID="ACFBBCB2-2114-4D7C-8FF2-1BFA2E4B3D38">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-26 00:39:36 -0500" ModID="C444ACCC-DD45-479C-B079-3AF6C80E00FB">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1436,6 +1436,15 @@
                                         <TextSelection>1617,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="B510B53C-F6A1-4152-8DA6-5273B4CCDBF3" Type="Text" Created="2021-01-25 15:21:22 -0500" Modified="2021-01-25 15:41:15 -0500">
+                                    <Title>satirical</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>533,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem UUID="275C30FE-F0B3-4928-825F-BF17DD09B805" Type="Text" Created="2020-11-11 20:17:40 -0500" Modified="2020-11-19 15:35:12 -0500">
@@ -1484,35 +1493,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="7FE53772-E7B6-4DF7-A81E-22134D71FAE2" Type="Text" Created="2020-11-26 02:37:08 -0500" Modified="2020-11-26 02:37:25 -0500">
-                                    <Title>Satirical humourous, and familiar pieces</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="539C6C5A-1231-402A-B9F8-BB4FFF26BED4" Type="Text" Created="2020-11-26 02:37:34 -0500" Modified="2020-11-26 02:39:34 -0500">
-                                            <Title>Goldsmith</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>398,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="CF39DD10-B123-4747-B53F-5F405B8730AB" Type="Text" Created="2020-11-26 02:37:42 -0500" Modified="2020-11-26 02:38:41 -0500">
-                                            <Title>signed/unsigned</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>206,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
                                 <BinderItem UUID="0A0D9755-E7EA-4D5E-89D1-3361516E6CDE" Type="Text" Created="2020-12-06 16:59:01 -0500" Modified="2020-12-06 16:59:06 -0500">
                                     <Title>Volunteer Light Horse</Title>
                                     <MetaData>
@@ -1548,7 +1528,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3781,1</TextSelection>
+                                                <TextSelection>3996,1</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="587D7535-43BC-49B4-92CD-92C9847D2B00" Type="Text" Created="2020-12-31 02:46:43 -0500" Modified="2020-12-31 02:49:46 -0500">
@@ -13264,6 +13244,35 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="7FE53772-E7B6-4DF7-A81E-22134D71FAE2" Type="Text" Created="2020-11-26 02:37:08 -0500" Modified="2020-11-26 02:37:25 -0500">
+                    <Title>Satirical humourous, and familiar pieces</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="539C6C5A-1231-402A-B9F8-BB4FFF26BED4" Type="Text" Created="2020-11-26 02:37:34 -0500" Modified="2021-01-25 15:21:45 -0500">
+                            <Title>Goldsmith</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CF39DD10-B123-4747-B53F-5F405B8730AB" Type="Text" Created="2020-11-26 02:37:42 -0500" Modified="2021-01-25 15:21:45 -0500">
+                            <Title>signed/unsigned</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -13322,11 +13331,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="253" Characters="1446" Date="2021-01-24 16:45:09 -0500"></PreviousSession>
+        <PreviousSession Words="149" Characters="885" Date="2021-01-25 15:21:01 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-01-25 00:00:00 -0500">
-        <DraftWordCount>37</DraftWordCount>
-        <DraftCharCount>215</DraftCharCount>
+    <RecentWritingHistory Date="2021-01-26 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
