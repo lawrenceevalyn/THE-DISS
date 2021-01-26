@@ -885,7 +885,13 @@ She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
 
 
-It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.  
+It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.
+
+
+
+The ESTC mentions two physical holdings--- one in the Bodleian, one in the Somerset Archaeological and Natural History Society. The Bodleian copy includes it as part of a bound volume of 87 chapbooks. The SANHS database doesn’t show a copy.
+
+The ESTC record mentions that “TAUa copy bears MS. date 1794” but I don’t know what the TAUa copy is.  
 
 My random sample suggested a 1794 Liverpool edition 8p. ;  12⁰. This particular version of the ballad has not been digitized, but I located five other copies in ECCO from the 1790s:
 
@@ -933,7 +939,21 @@ Piper identifies generalization as a common and important method in literary stu
 
 
 
-Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway. It’s partly   
+Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway.
+
+In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...  
+
+The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)
+
+
+
+A few pieces indicate their sources - Goldsmith is a selling point on the title page, and a few on the inside indicate that they are taken from the spectator, but others don’t. How much piracy was involved?
+
+
+
+All six of the works which have some kind of authorship attribution are advertised on the title page. There are three other pieces advertised on the title page which don’t have a specific author mentioned in the text: Parish-Jobbing, Character of a Sot, and The Cards Spiritualized (which does name the soldier supposedly responsible, Richard Middleton, in the body of the piece). This reinforces the idea that the pieces named on the title page are expected to be somewhat familiar to readers.
+
+Everything advertised on the title page is at least a full page long. Everything not advertised is a half-page. (This also means of course that everything with an author is at least a full page long.) Since many of the half-page pieces are inserted to make up space after the end of one of these longer pieces, this suggests that the half-page jokes are somewhat interchangeable filler.  
 
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
 
@@ -1148,10 +1168,6 @@ J. Crome
 1792
 
 Availability: can’t find  
-
-The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)  
-
-A few pieces indicate their sources - Goldsmith is a selling point on the title page, and a few on the inside indicate that they are taken from the spectator, but others don’t. How much piracy was involved?  
 
 Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
 
@@ -1415,7 +1431,7 @@ Describes some Indigenous people discovered by the Spaniards who are of this tem
 
 
 
-P 358-9 very brief descirption of the temperament of increased voluntarity--- associated with the king of Sweden, and tied to the qualities that distinguish men from brutes
+P 358-9 very brief description of the temperament of increased voluntarily--- associated with the king of Sweden, and tied to the qualities that distinguish men from brutes
 
 
 
@@ -1427,7 +1443,81 @@ P 360 - circumstances can cause changes in temperament
 
 P 375-376 earth might look like saturn from afar![][ScreenShot2021-01-17at6.00.01PM]
 
-  
+
+
+P 397-399 --- theorizing about contagious diseases and why we only get smallpox once
+
+
+
+P 416 defining voluntary vs involuntary
+
+
+
+P 426: pleasure of ideas
+
+![][ScreenShot2021-01-24at7.21.33PM]
+
+
+
+P 433 - references a french philosopher who takes for granted ennui as the default condition of life --- tied to the 18thC consensus that suicide would be nice?
+
+![][ScreenShot2021-01-24at7.33.30PM]
+
+
+
+P 439 a woman with two minds --- described in the index as a woman with two sould
+
+![][ScreenShot2021-01-24at7.36.34PM]
+
+
+
+P 456 - he is totally wrong about the most fertile part of the menstrual cycle
+
+![][ScreenShot2021-01-24at7.46.36PM]
+
+
+
+P 457 - called out for being a night owl
+
+![][ScreenShot2021-01-24at7.47.55PM]
+
+
+
+P 467 - trying to explain why we don’t live forever
+
+![][ScreenShot2021-01-24at7.51.00PM]
+
+
+
+P 484 and 485 - acknowledges a counterargument to his (largely correct-seeming) theory of generation, namely, that if each sperm is generative, nature has come up with a wasteful design--- but this is the same as the large number of seeds that trees make / eggs that fish lay.
+
+
+
+P 489 - goes hard on the idea that only males produce embryos and females just sustain them:
+
+![][ScreenShot2021-01-24at8.20.29PM]
+
+
+
+P 500 you can change the glands to interfere with gender
+
+![][ScreenShot2021-01-25at1.03.31AM]
+
+
+
+P 503- some hints at natural selection, though in many ways otherwise he is lamarckian
+
+![][ScreenShot2021-01-25at1.19.56AM]
+
+P 505
+
+![][ScreenShot2021-01-25at1.26.13AM]
+
+
+
+P 508 hermaphroditism and the creation of human sexes
+
+![][ScreenShot2021-01-25at1.29.16AM]  
 
 P 144-145
 
@@ -1465,7 +1555,11 @@ P 159 personal anecdote about a bird he doesn’t like
 
 P 191 draft circulated in manuscript --- what actress is this talking about?
 
-![][ScreenShot2021-01-01at9.01.06PM]  
+![][ScreenShot2021-01-01at9.01.06PM]
+
+
+
+P. 402 verbatim notes from his cases of Miss L and Miss H I Feb 1791 (boring except that they track details over time and suggest having been copied directly from elsewhere); p 404 notes from March 1793  
 
 P 57
 
@@ -1561,7 +1655,11 @@ P 95
 
 P 96
 
-![][ScreenShot2020-12-27at8.19.58PM]  
+![][ScreenShot2020-12-27at8.19.58PM]
+
+
+
+P 440 “good news, affecting stories or agreeable passions” offered as cures  
 
 ![][ScreenShot2020-11-20at11.58.31PM]  
 
@@ -2644,6 +2742,28 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-01-17at5.44.19PM]: ScreenShot2021-01-17at5.44.19PM.png width=662px height=189px
 
 [ScreenShot2021-01-17at6.00.01PM]: ScreenShot2021-01-17at6.00.01PM.png width=672px height=499px
+
+[ScreenShot2021-01-24at7.21.33PM]: ScreenShot2021-01-24at7.21.33PM.png width=662px height=530px
+
+[ScreenShot2021-01-24at7.33.30PM]: ScreenShot2021-01-24at7.33.30PM.png width=650px height=158px
+
+[ScreenShot2021-01-24at7.36.34PM]: ScreenShot2021-01-24at7.36.34PM.png width=651px height=201px
+
+[ScreenShot2021-01-24at7.46.36PM]: ScreenShot2021-01-24at7.46.36PM.png width=648px height=273px
+
+[ScreenShot2021-01-24at7.47.55PM]: ScreenShot2021-01-24at7.47.55PM.png width=650px height=175px
+
+[ScreenShot2021-01-24at7.51.00PM]: ScreenShot2021-01-24at7.51.00PM.png width=647px height=229px
+
+[ScreenShot2021-01-24at8.20.29PM]: ScreenShot2021-01-24at8.20.29PM.png width=424px height=106px
+
+[ScreenShot2021-01-25at1.03.31AM]: ScreenShot2021-01-25at1.03.31AM.png width=642px height=175px
+
+[ScreenShot2021-01-25at1.19.56AM]: ScreenShot2021-01-25at1.19.56AM.png width=639px height=210px
+
+[ScreenShot2021-01-25at1.26.13AM]: ScreenShot2021-01-25at1.26.13AM.png width=638px height=374px
+
+[ScreenShot2021-01-25at1.29.16AM]: ScreenShot2021-01-25at1.29.16AM.png width=649px height=508px
 
 [ScreenShot2020-12-31at2.47.39AM]: ScreenShot2020-12-31at2.47.39AM.png width=656px height=388px
 

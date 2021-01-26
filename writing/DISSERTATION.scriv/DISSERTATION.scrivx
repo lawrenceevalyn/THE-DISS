@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-26 00:39:36 -0500" ModID="C444ACCC-DD45-479C-B079-3AF6C80E00FB">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-26 00:47:35 -0500" ModID="827D922D-A1A9-4167-874D-FB6AD53C7062">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1409,13 +1409,13 @@
                                         <TextSelection>96,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="17B41AE4-9E1F-48C1-9D37-AE5255CA975E" Type="Text" Created="2021-01-13 19:53:50 -0500" Modified="2021-01-13 19:53:56 -0500">
+                                <BinderItem UUID="17B41AE4-9E1F-48C1-9D37-AE5255CA975E" Type="Text" Created="2021-01-13 19:53:50 -0500" Modified="2021-01-26 00:46:58 -0500">
                                     <Title>moon</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>745,0</TextSelection>
+                                        <TextSelection>574,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="903EA6E3-7404-43A7-906C-EA10164F5D52" Type="Text" Created="2021-01-21 00:32:19 -0500" Modified="2021-01-22 00:32:05 -0500">
@@ -1433,7 +1433,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1617,0</TextSelection>
+                                        <TextSelection>934,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B510B53C-F6A1-4152-8DA6-5273B4CCDBF3" Type="Text" Created="2021-01-25 15:21:22 -0500" Modified="2021-01-25 15:41:15 -0500">
@@ -1480,7 +1480,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>454,0</TextSelection>
+                                <TextSelection>3055,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2C975811-CA80-43C5-A8EE-F8191F7B8993" Type="Text" Created="2021-01-13 19:47:43 -0500" Modified="2021-01-13 19:48:00 -0500">
@@ -1632,14 +1632,25 @@
                                                 <TextSelection>1,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="0588AB72-BA90-4746-9B50-33C6A4319180" Type="Text" Created="2020-11-21 00:25:24 -0500" Modified="2020-11-21 00:25:43 -0500">
-                                            <Title>bodleian copy</Title>
+                                        <BinderItem UUID="47EC3036-B253-4A9C-846F-6B47D8025C74" Type="Text" Created="2021-01-26 00:43:24 -0500" Modified="2021-01-26 00:46:52 -0500">
+                                            <Title>physical copies</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>710,0</TextSelection>
+                                                <TextSelection>227,0</TextSelection>
                                             </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="0588AB72-BA90-4746-9B50-33C6A4319180" Type="Text" Created="2020-11-21 00:25:24 -0500" Modified="2021-01-26 00:43:48 -0500">
+                                                    <Title>bodleian copy</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>664,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -13331,11 +13342,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="149" Characters="885" Date="2021-01-25 15:21:01 -0500"></PreviousSession>
+        <PreviousSession Words="209" Characters="1226" Date="2021-01-25 15:21:01 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2021-01-26 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>60</DraftWordCount>
+        <DraftCharCount>341</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
