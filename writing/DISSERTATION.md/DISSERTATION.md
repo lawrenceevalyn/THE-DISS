@@ -935,6 +935,42 @@ These both add Johnny Coup as a the second ballad but the two Johnnies are NOT i
 
 ESTC offers a ‘uniform title’ of “Children in the wood; or the Norfolk gentleman’s last will and testament” for the ballad.  
 
+1862 June, N.M.: Can anyone tell me where this tale comes from? Is it factual?
+
+\[Editor supplies Sharon Turner’s speculation that it’s about Richard III\]
+
+
+
+1866 February, William Pinkerton: says the ballad is anonymous, rebuts the attempt to connect it with Yarranton’s play, says Jerningham wrote a poem about the ballad’s author
+
+1866 March, F.C.H., info on Edward Jerningham’s burial place and the location of the ballad
+
+1866 March, W. Pollard: F.C.H is wrong about absolutely everything about the West Walton Church in the 3^rd^ S. ix. 208 note
+
+1866 April, C.W., Barkley: Watton is the right place, a guy I fished with told me about a house
+
+1866 April, A.D.: F.C.II. Is in error, not West or East Walton, but Watton and Wayland/Wailing Wood might be right
+
+1866 April, F.C.H (immediately below): “quite submissive to the correction of Mr. W. Pollard” --- was just repeating a friend’s story, and anyway N&Q miswrote Walton for intended Watton
+
+
+
+1872 Dec, M.D.: I remember a different version of Babes in the Wood, here it is
+
+1873 Jan, W.H. Patterson: There’s a version a lot like M.D.’s in an 1863 book, which has the musical notes he asked for
+
+1873 Feb, Harrison William: M.D.’S version was published in 1849 (some snarkiness about M.D.’S ignorance and poor memory)
+
+
+
+1880 July, Edgar MacCulloch: asks about the date, suggests that it alludes to 1589 Portuguese expedition by Drake & Norris
+
+1880 August, Henry B. Wheatley: answers the Q a bit snidely about the play it’s supposedly based on and also suggesting that it’s not about Richard III
+
+
+
+1967 March, R.D. Barrett-Leonard: “They are said to be members of the De Grey family, but which ones?”  
+
 Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
 
 
@@ -954,6 +990,20 @@ A few pieces indicate their sources - Goldsmith is a selling point on the title 
 All six of the works which have some kind of authorship attribution are advertised on the title page. There are three other pieces advertised on the title page which don’t have a specific author mentioned in the text: Parish-Jobbing, Character of a Sot, and The Cards Spiritualized (which does name the soldier supposedly responsible, Richard Middleton, in the body of the piece). This reinforces the idea that the pieces named on the title page are expected to be somewhat familiar to readers.
 
 Everything advertised on the title page is at least a full page long. Everything not advertised is a half-page. (This also means of course that everything with an author is at least a full page long.) Since many of the half-page pieces are inserted to make up space after the end of one of these longer pieces, this suggests that the half-page jokes are somewhat interchangeable filler.  
+
+“Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.’”
+
+
+
+This is an 8p. ;  8⁰ extract; ESTC notes that it “contains testimonials and a list of persons treated” and categorizes its “Genre/form” under “Advertisements.” The only physical copy noted is at Niedersachsische Staats und Universitatsbibliothek in Gottingen, Germany. This, it mentions, is “Bound with the 'Gentleman's Magazine', vol. 63, part 2, 1793” --- a volume which is also present in HathiTrust! The OCR is too low-quality to find the advertisement by searching key words.
+
+The index does list a Hayman on p 961 but this was the obituary of a William Hayman :(
+
+As far as I can tell, the Gentleman’s Magazine does not include this kind of advertisement within it, so it must have been some particular reader in Germany who chose to bind them together.
+
+I contacted the holding archive in Germany, writing a message in bad google-translate German!   
+
+One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
 
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
 
@@ -1064,12 +1114,6 @@ England ; London
 1793
 
 Availability: does not appear to be available. Only physical copy in Gottingen, Germany.
-
-Semi-related docs at http://estc.bl.uk/F/G5NFNY249J6CQCDR18GXQLNH9SIAFGMNIG7V3RR9DV9LR3LF4V-09870?func=full-set-set&set\_number=003557&set\_entry=000006&format=999
-
-http://estc.bl.uk/F/G5NFNY249J6CQCDR18GXQLNH9SIAFGMNIG7V3RR9DV9LR3LF4V-09872?func=full-set-set&set\_number=003557&set\_entry=000007&format=999
-
-http://estc.bl.uk/F/G5NFNY249J6CQCDR18GXQLNH9SIAFGMNIG7V3RR9DV9LR3LF4V-09864?func=full-set-set&set\_number=003557&set\_entry=000003&format=999
 
 
 
@@ -1517,7 +1561,11 @@ P 505
 
 P 508 hermaphroditism and the creation of human sexes
 
-![][ScreenShot2021-01-25at1.29.16AM]  
+![][ScreenShot2021-01-25at1.29.16AM]
+
+
+
+P 519 if snails and worms could impregnate themselves they wouldn’t be able to evolve  
 
 P 144-145
 
@@ -1660,6 +1708,10 @@ P 96
 
 
 P 440 “good news, affecting stories or agreeable passions” offered as cures  
+
+P 514-515 compares mulattos to mules
+
+![][ScreenShot2021-01-26at12.50.20AM]  
 
 ![][ScreenShot2020-11-20at11.58.31PM]  
 
@@ -2818,6 +2870,8 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2020-12-27at8.11.55PM]: ScreenShot2020-12-27at8.11.55PM.png width=592px height=69px
 
 [ScreenShot2020-12-27at8.19.58PM]: ScreenShot2020-12-27at8.19.58PM.png width=582px height=270px
+
+[ScreenShot2021-01-26at12.50.20AM]: ScreenShot2021-01-26at12.50.20AM.png width=665px height=553px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
