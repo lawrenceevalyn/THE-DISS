@@ -1003,7 +1003,23 @@ As far as I can tell, the Gentleman’s Magazine does not include this kind of a
 
 I contacted the holding archive in Germany, writing a message in bad google-translate German!   
 
+The first volume is divided into 40 sections, on a range of topics related to the body, the senses, and disease. He classifies bodily and sensory motions as "irritative," "sensitive," "voluntary," and "associate." He presents theories on the production and classes of ideas, and seeks to explain the causes and mechanisms of sleep, reverie, vertigo, and drunkenness. He then discusses anatomy, especially the operation of the circulatory system and various glands. Chapter 29, "The Retrograde Motions of the Absorbent Vessels," is Erasmus Darwin's translation of his late son [Charles Darwin](https://en.wikipedia.org/wiki/Charles\_Darwin\_(medical\_student))'s dissertation. These anatomical chapters are followed by four chapters on diseases, which draws on his classification of four types of motion to identify four types of diseases: those of irritation, of sensation, of volition, and of association. Two chapters, "Of the Oxygenation of the Blood in the Lungs and Placenta" and "Of Generation" develop his theories about human reproduction, including observations related to evolution. The final chapter in the first volume is a reprint of a paper by another of Erasmus Darwin's sons, [Robert Darwin](https://en.wikipedia.org/wiki/Robert\_Darwin), about ocular spectra.
+
+The second volume is focused solely on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on the four classes of disease: diseases of irritation, sensation, volition, and association.  
+
+In comparison to all the other texts, the appeal of the Vicar of Wakefield is obvious: it’s funny on purpose, while also, I remain convinced, being completely in earnest about its moral values. An illustrative joke is the one about making sure to lend something to one’s least pleasant houseguests, so they won’t ever return: it’s a bit wry or cynical as a punchline, but in no way undermines the house’s hospitality, or the idea of hospitality itself as a virtue.
+
+
+
+The novel was first published in 1766; this 1792 edition comes 26 years after its first publication, and 18 years after Goldsmith’s death in 1774. Not sure how many printings have elapsed since 1766.
+
+
+
+It opens with an index of chapter summaries, and contains absolutely no prefatory materials --- which is, frankly, a real oddity! A sign it was a well-know book?  
+
 One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
+
+Underwood has particularly emphasized that the unique role of literary studies, as opposed to history or sociology, is that narratives provide pleasure. Of the ten items I attempted to consult, Erasmus Darwin’s *Zoonomia* is on paper one of the easiest to work with: a readily available facsimile in ECCO, and a substantial body of secondary work to consult. However, the thing about a 1,200 page loosely-organized medical text is that it is entirely lacking in the pleasure of narrative. Even to lightly skim each page took a substantial investment of time and willpower. Trying to fully understand the ideas proposed --- and especially to reconcile them with what I came to realise was a very haphazard and largely forgotten high school education biology --- was a challenge. In other words, the text itself can be a barrier.  
 
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
 
@@ -1445,11 +1461,7 @@ P 351 ancient goose liver recipes
 
 
 
-P 352-353 the story of prometheus!!
 
-![][ScreenShot2021-01-17at5.28.00PM]
-
-![][ScreenShot2021-01-17at5.31.00PM]
 
 
 
@@ -1533,11 +1545,61 @@ P 467 - trying to explain why we don’t live forever
 
 
 
+P 534 - another inclusion of somebody else’s work
+
+![][ScreenShot2021-01-28at1.13.39AM]
+
+
+
+P 536 very detailed instructrions for cool ocular illusions
+
+... How is any of this stuff different from the first time he talked about ocular illusions?
+
+
+
+P 559 really insightful and detailed observation that afterimages color mix differently than sunlight (eg like ‘multiply’)
+
+
+
+P 567 begins a section of “additions”, which includes many pages on vertigo (suggesting revisions after printing began)
+
+
+
+P 577 is an index!!
+
+
+
+Then p 587 has directions for the binder!! And errata, which are different from additions --- only 3 typos
+
+
+
+Ends with a notice that he is putting off the second volume because he is busy and has other stuff to do
+
+![][ScreenShot2021-01-28at2.26.55AM]
+
+  
+
+P 144-145
+
+![][ScreenShot2020-12-31at2.47.39AM]
+
+
+
+P 145-146
+
+![][ScreenShot2020-12-31at2.48.57AM]
+
+![][ScreenShot2020-12-31at2.49.14AM]
+
+
+
+  
+
 P 484 and 485 - acknowledges a counterargument to his (largely correct-seeming) theory of generation, namely, that if each sperm is generative, nature has come up with a wasteful design--- but this is the same as the large number of seeds that trees make / eggs that fish lay.
 
 
 
-P 489 - goes hard on the idea that only males produce embryos and females just sustain them:
+P 489 - goes hard on the idea that only males produce embryos and females just sustain them (reiterated p 528-9):
 
 ![][ScreenShot2021-01-24at8.20.29PM]
 
@@ -1565,19 +1627,21 @@ P 508 hermaphroditism and the creation of human sexes
 
 
 
-P 519 if snails and worms could impregnate themselves they wouldn’t be able to evolve  
-
-P 144-145
-
-![][ScreenShot2020-12-31at2.47.39AM]
+P 519 if snails and worms could impregnate themselves they wouldn’t be able to evolve
 
 
 
-P 145-146
+P 520 - 521 how babies are conceived of different sexes (with good “examples” on p524) --- it’s easy to imagine women with dicks!
 
-![][ScreenShot2020-12-31at2.48.57AM]
+![][ScreenShot2021-01-28at1.04.56AM]
 
-![][ScreenShot2020-12-31at2.49.14AM]  
+![][ScreenShot2021-01-28at1.05.17AM]
+
+
+
+P 522 dismissing women’s role in creating children
+
+![][ScreenShot2021-01-28at1.07.32AM]  
 
 P 106 - reference to Darwin’s bodily experience as he writes (holding a flower)
 
@@ -1608,6 +1672,16 @@ P 191 draft circulated in manuscript --- what actress is this talking about?
 
 
 P. 402 verbatim notes from his cases of Miss L and Miss H I Feb 1791 (boring except that they track details over time and suggest having been copied directly from elsewhere); p 404 notes from March 1793  
+
+P 352-353 the story of prometheus!!
+
+![][ScreenShot2021-01-17at5.28.00PM]
+
+![][ScreenShot2021-01-17at5.31.00PM]
+
+
+
+He lists the story of Prometheus in the index, which seems pointed (p 583)  
 
 P 57
 
@@ -1711,7 +1785,91 @@ P 440 “good news, affecting stories or agreeable passions” offered as cures
 
 P 514-515 compares mulattos to mules
 
-![][ScreenShot2021-01-26at12.50.20AM]  
+![][ScreenShot2021-01-26at12.50.20AM]
+
+
+
+P 569 “addition”
+
+![][ScreenShot2021-01-28at2.21.02AM]  
+
+P v -- striking his own path in classification
+
+![][ScreenShot2021-01-28at2.45.49AM]
+
+Divides diseases into species and genera based on proximate casues and effects in the sensorium
+
+
+
+P 23 - some comments on scorbutic and scrofulus diseases caused by eating too much salt meat
+
+![][ScreenShot2021-01-28at3.29.06AM]
+
+
+
+P 29 - treat colds with warm water, enemas, and opium
+
+![][ScreenShot2021-01-29at7.06.54PM]
+
+
+
+P 32 arguing against the idea that sweat is an excrement and thereby relevant to medical treatment/causes of disease
+
+
+
+P 45 advertises for a particular product
+
+![][ScreenShot2021-01-29at7.43.04PM]
+
+
+
+P 46 makes me think about how much I like it that each disease is followed with research questions for “future work”
+
+
+
+P 61-2 lists “surprise” as a disease!
+
+
+
+P 71 mentions an alarum clock
+
+
+
+P 73 - frequent miscarriages, cured by opium
+
+
+
+P 74 - one of the only things not cured by opium is scurvy
+
+![][ScreenShot2021-01-29at8.14.05PM]
+
+
+
+P 80-81: pimpled! They may be pressed out by the finger-nails, or treated with warm water or ether. “Blister on the part?”
+
+
+
+P 82 avoid gray hair by avoiding old age, though warm baths
+
+![][ScreenShot2021-01-29at8.19.59PM]
+
+
+
+Between pages 88 ad 89 --- in this one the plates have been inserted in the right place
+
+
+
+P 87 begins a long discussion of cures for scoliosis, which he identifies as due partly to a softness of the bones, and focuses on ways of keeping the spine physically straight during the day--- including a comment that chairs at boarding schools need backs or desks for girls to lean on
+
+
+
+P 91 comments on beauty of the figure as illustrated in other images
+
+![][ScreenShot2021-01-29at9.44.33PM]  
+
+P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
+
+![][ScreenShot2021-01-28at2.49.22AM]  
 
 ![][ScreenShot2020-11-20at11.58.31PM]  
 
@@ -2781,10 +2939,6 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-01-17at5.26.36PM]: ScreenShot2021-01-17at5.26.36PM.png width=659px height=380px
 
-[ScreenShot2021-01-17at5.28.00PM]: ScreenShot2021-01-17at5.28.00PM.png width=673px height=158px
-
-[ScreenShot2021-01-17at5.31.00PM]: ScreenShot2021-01-17at5.31.00PM.png width=658px height=520px
-
 [ScreenShot2021-01-17at5.37.06PM]: ScreenShot2021-01-17at5.37.06PM.png width=667px height=155px
 
 [ScreenShot2021-01-17at5.38.49PM]: ScreenShot2021-01-17at5.38.49PM.png width=660px height=442px
@@ -2807,6 +2961,16 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-01-24at7.51.00PM]: ScreenShot2021-01-24at7.51.00PM.png width=647px height=229px
 
+[ScreenShot2021-01-28at1.13.39AM]: ScreenShot2021-01-28at1.13.39AM.png width=663px height=170px
+
+[ScreenShot2021-01-28at2.26.55AM]: ScreenShot2021-01-28at2.26.55AM.png width=674px height=359px
+
+[ScreenShot2020-12-31at2.47.39AM]: ScreenShot2020-12-31at2.47.39AM.png width=656px height=388px
+
+[ScreenShot2020-12-31at2.48.57AM]: ScreenShot2020-12-31at2.48.57AM.png width=665px height=568px
+
+[ScreenShot2020-12-31at2.49.14AM]: ScreenShot2020-12-31at2.49.14AM.png width=648px height=104px
+
 [ScreenShot2021-01-24at8.20.29PM]: ScreenShot2021-01-24at8.20.29PM.png width=424px height=106px
 
 [ScreenShot2021-01-25at1.03.31AM]: ScreenShot2021-01-25at1.03.31AM.png width=642px height=175px
@@ -2817,11 +2981,11 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-01-25at1.29.16AM]: ScreenShot2021-01-25at1.29.16AM.png width=649px height=508px
 
-[ScreenShot2020-12-31at2.47.39AM]: ScreenShot2020-12-31at2.47.39AM.png width=656px height=388px
+[ScreenShot2021-01-28at1.04.56AM]: ScreenShot2021-01-28at1.04.56AM.png width=633px height=427px
 
-[ScreenShot2020-12-31at2.48.57AM]: ScreenShot2020-12-31at2.48.57AM.png width=665px height=568px
+[ScreenShot2021-01-28at1.05.17AM]: ScreenShot2021-01-28at1.05.17AM.png width=633px height=427px
 
-[ScreenShot2020-12-31at2.49.14AM]: ScreenShot2020-12-31at2.49.14AM.png width=648px height=104px
+[ScreenShot2021-01-28at1.07.32AM]: ScreenShot2021-01-28at1.07.32AM.png width=637px height=134px
 
 [ScreenShot2020-12-27at9.39.56PM]: ScreenShot2020-12-27at9.39.56PM.png width=592px height=228px
 
@@ -2830,6 +2994,10 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-01-01at3.37.26AM]: ScreenShot2021-01-01at3.37.26AM.png width=651px height=175px
 
 [ScreenShot2021-01-01at9.01.06PM]: ScreenShot2021-01-01at9.01.06PM.png width=655px height=408px
+
+[ScreenShot2021-01-17at5.28.00PM]: ScreenShot2021-01-17at5.28.00PM.png width=673px height=158px
+
+[ScreenShot2021-01-17at5.31.00PM]: ScreenShot2021-01-17at5.31.00PM.png width=658px height=520px
 
 [Hu4qt]: Hu4qt.png width=600px height=255px
 
@@ -2872,6 +3040,24 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2020-12-27at8.19.58PM]: ScreenShot2020-12-27at8.19.58PM.png width=582px height=270px
 
 [ScreenShot2021-01-26at12.50.20AM]: ScreenShot2021-01-26at12.50.20AM.png width=665px height=553px
+
+[ScreenShot2021-01-28at2.21.02AM]: ScreenShot2021-01-28at2.21.02AM.png width=666px height=267px
+
+[ScreenShot2021-01-28at2.45.49AM]: ScreenShot2021-01-28at2.45.49AM.png width=589px height=85px
+
+[ScreenShot2021-01-28at3.29.06AM]: ScreenShot2021-01-28at3.29.06AM.png width=604px height=191px
+
+[ScreenShot2021-01-29at7.06.54PM]: ScreenShot2021-01-29at7.06.54PM.png width=601px height=193px
+
+[ScreenShot2021-01-29at7.43.04PM]: ScreenShot2021-01-29at7.43.04PM.png width=598px height=212px
+
+[ScreenShot2021-01-29at8.14.05PM]: ScreenShot2021-01-29at8.14.05PM.png width=606px height=253px
+
+[ScreenShot2021-01-29at8.19.59PM]: ScreenShot2021-01-29at8.19.59PM.png width=615px height=164px
+
+[ScreenShot2021-01-29at9.44.33PM]: ScreenShot2021-01-29at9.44.33PM.png width=601px height=215px
+
+[ScreenShot2021-01-28at2.49.22AM]: ScreenShot2021-01-28at2.49.22AM.png width=578px height=297px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
