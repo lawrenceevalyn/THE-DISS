@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-28 03:29:52 -0500" ModID="8C420842-9713-443A-B0B0-31BE3FA668BA">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-01-31 03:00:06 -0500" ModID="3938A46E-E700-45A7-A018-0E06A0182F16">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1433,7 +1433,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1157,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="6481433C-6372-4BBF-BA02-50B6B5854032" Type="Text" Created="2021-01-22 19:05:34 -0500" Modified="2021-01-23 01:12:06 -0500">
@@ -1470,6 +1470,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1048,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="92948C81-27A3-439D-8BED-DCB028E6B661" Type="Text" Created="2021-01-31 02:52:45 -0500" Modified="2021-01-31 02:59:59 -0500">
+                                    <Title>vicar</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>665,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1688,7 +1697,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-01-28 03:29:52 -0500">
+                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-01-29 21:45:06 -0500">
                                     <Title>general zoonomia notes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3141,7 +3150,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-01-27 01:32:34 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-01-30 16:47:41 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13444,11 +13453,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="565" Characters="3519" Date="2021-01-27 15:25:00 -0500"></PreviousSession>
+        <PreviousSession Words="142" Characters="826" Date="2021-01-30 16:10:04 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-01-28 00:00:00 -0500">
-        <DraftWordCount>430</DraftWordCount>
-        <DraftCharCount>2698</DraftCharCount>
+    <RecentWritingHistory Date="2021-01-31 00:00:00 -0500">
+        <DraftWordCount>142</DraftWordCount>
+        <DraftCharCount>826</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
