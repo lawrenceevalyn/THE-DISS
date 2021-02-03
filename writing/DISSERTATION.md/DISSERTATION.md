@@ -1017,9 +1017,25 @@ The novel was first published in 1766; this 1792 edition comes 26 years after it
 
 It opens with an index of chapter summaries, and contains absolutely no prefatory materials --- which is, frankly, a real oddity! A sign it was a well-know book?  
 
+T194212 is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.”  
+
+This is an unsigned single-sheet document. I know far more about the piece of paper than the contents: the ESTC describes it as 1 sheet ;  1/2⁰ with dimensions of 34.6 x 20.8cm and horizontal chain lines. There is also an uncontrolled note saying that the record is based on “Lpro copy with other material from 1792”
+
+The shelfmark, HO.42/23 \[632\], points in the London National Archives to “HO 42. Letters and papers. Piece described at item level.” This consists of a whole lot of correspondence sent to the Home Office, which has actually been scanned! Things are stamped with numbers in the upper-right.... And OH MY GOD 632 SHOWS A SCANNED COPY OF THE ACTUAL DOCUMENT, FREE TO THE PUBLIC AND RIGHT HERE, I CANNOT BELIEVE IT!!!! Image 940 shows the front, and image 941 shows the back. The item has its own record at http://discovery.nationalarchives.gov.uk/details/r/C10614791
+
+To find this image, I had to check the “HOLDINGS DETAILS” pane of the ESTC record (a field which somehow I only recently discovered), search the shelfmark at the  London National Archives, and guess that \[632\] referred not to a page or image number, but to an item.
+
+“Lpro” probably means London/local Public Records Office (former name for National Archives), per Cai  
+
+Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?  
+
 One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
 
-Underwood has particularly emphasized that the unique role of literary studies, as opposed to history or sociology, is that narratives provide pleasure. Of the ten items I attempted to consult, Erasmus Darwin’s *Zoonomia* is on paper one of the easiest to work with: a readily available facsimile in ECCO, and a substantial body of secondary work to consult. However, the thing about a 1,200 page loosely-organized medical text is that it is entirely lacking in the pleasure of narrative. Even to lightly skim each page took a substantial investment of time and willpower. Trying to fully understand the ideas proposed --- and especially to reconcile them with what I came to realise was a very haphazard and largely forgotten high school education biology --- was a challenge. In other words, the text itself can be a barrier.  
+Underwood has particularly emphasized that the unique role of literary studies, as opposed to history or sociology, is that narratives provide pleasure. Of the ten items I attempted to consult, Erasmus Darwin’s *Zoonomia* is on paper one of the easiest to work with: a readily available facsimile in ECCO, and a substantial body of secondary work to consult. However, the thing about a 1,200 page loosely-organized medical text is that it is entirely lacking in the pleasure of narrative. Even to lightly skim each page took a substantial investment of time and willpower. Trying to fully understand the ideas proposed --- and especially to reconcile them with what I came to realise was a very haphazard and largely forgotten high school education biology --- was a challenge. In other words, the text itself can be a barrier.
+
+
+
+A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)  
 
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
 
@@ -1248,6 +1264,8 @@ There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with b
 
 
 The version turned up by the random sample was 24p. ;  12⁰. The version in ECCO is 36p. ;  18⁰.   
+
+se  
 
 Listed as “author of The Botanic Garden”
 

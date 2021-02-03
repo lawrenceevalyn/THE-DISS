@@ -27,13 +27,13 @@ Gregg n. pag.</Comments>
 
 Manuscripts should not exceed 9,000 words, including notes. Style must conform to The Chicago Manual of Style 17th Edition, with footnotes. Please consult our style guide carefully prior to submission, as failure to conform with the guidelines may result in the editorial office returning your submission. Our style guide can be found here. Quotations from foreign texts should appear in the body of the essay followed by translations. Please supply an abstract of 100 or fewer words with your paper. Illustrations are accepted if pertinent to the essay (authors must secure glossy prints or digital files and reproduction rights if the essay is accepted). It is the journal's policy to require assignment of copyright from all authors. Authors must obtain written permission for quoting unpublished or published material in excess of fair use.</Text>
         </Document>
-        <Document ID="BF115024-5ABC-4794-A19A-B2CA889C549A">
-            <Title>corpus &gt; canon</Title>
-            <Text> For example, the English Short Title Catalogue records 51,965 titles printed in England between 1789 and 1799. The corpus most accessible for DH work on eighteenth-century literature, ECCO-TCP, includes only 466 titles for that same time period. What are the other 51,499 titles, why are they accessible in the ways they are, and what does it mean for digital eighteenth-century studies that they are not included?</Text>
-        </Document>
         <Document ID="B029D670-483C-4B9E-B925-1A170C184BFD">
             <Title>18thC not amenable to text mining</Title>
             <Text>Computational distant reading of eighteenth century texts has much less emphasis on text mining than other eras. “Text mining” is a broad term for digital methodologies which examine the full texts of works under study: techniques like topic modelling and stylometry, for example, rely on having a machine-readable digital surrogate of the text’s contents. Optical Character Recognition (OCR) has not traditionally been able to handle eighteenth century typefaces, so text-mining research relies on hand-encoded texts. Encoding text manually is incredibly labor intensive. </Text>
+        </Document>
+        <Document ID="BF115024-5ABC-4794-A19A-B2CA889C549A">
+            <Title>corpus &gt; canon</Title>
+            <Text> For example, the English Short Title Catalogue records 51,965 titles printed in England between 1789 and 1799. The corpus most accessible for DH work on eighteenth-century literature, ECCO-TCP, includes only 466 titles for that same time period. What are the other 51,499 titles, why are they accessible in the ways they are, and what does it mean for digital eighteenth-century studies that they are not included?</Text>
         </Document>
         <Document ID="83BBA315-3D75-4754-8830-5B0D03CF5F6A">
             <Title>Smith's works</Title>
@@ -50,6 +50,9 @@ Figure &lt;$n:fig:4dbs-genders&gt;: The relative authorship status of works publ
             <Title>suddenly women</Title>
             <Text>However, the increase in male authors is not at the expense of identifiable male authors, who also make up a stable or increasing percentage of the works — including an astonishing 22% of the TCP corpus. The initial number for women, of course, is extremely low: a mere 3%. This is far below the percentage of women found in genre-specific surveys. For example, During the years 1789-99, 20.2% of the new novels written in England were attributed to female names on their title pages and prefaces. [The ESTC and ECCO have a lot of medical texts, sermons, natural histories, legal opinions, and other genres from which women are de factor excluded.] [HathiTrust’s slight increase in female authorship might show a collections-level bias where university libraries prefer slightly more interesting or recognizably “literary” materials like novels, poetry, and drama, all of which allowed for female authorship.] But even if the TCP were assumed to contain exclusively novels, at 22% female authorship it would be statistically overrepresenting women. [The TCP is the one operating based on the most recent decision-making (since even HathiTrust is constrained to the library collecting decisions of past decisions, and thus doesn’t necessarily reflect the priorities of 2000s ]</Text>
             <Comments>I have calculated this figure from the table of data presented in Raven, James. “Historical Introduction: The Novel Comes of Age.”  The English Novel 1770-1829: A Bibliographical Survey of Prose Fiction Published in the British Isles, edited by Peter Garside, James Raven, and Rainer Schöwerling, vol. 1: 1770-1799, edited by James Raven and Antonia Forster with Steven Bending, Oxford UP, 2000. Page 47.</Comments>
+        </Document>
+        <Document ID="D05368C0-A784-44CB-8AE8-0A9DB28CB99E">
+            <Title>databases (1500 wds)</Title>
         </Document>
         <Document ID="CC2AAB35-87DF-49DE-AC33-F6C2A21B4681">
             <Title>I do 'book history' of databases</Title>
@@ -78,6 +81,9 @@ Norman n. pag.</Comments>
         <Document ID="B80283E3-57DD-4864-96F8-22066F78A31F">
             <Title>Retype Draft</Title>
         </Document>
+        <Document ID="8135DF2B-F1D9-4C0C-AEC6-CE8D9AD228C8">
+            <Title>CSmith case study (1500 wds)</Title>
+        </Document>
         <Document ID="9AE7FECA-9BCB-4C43-A329-20E1A47ACD8B">
             <Title>scholars like to un-unsign</Title>
             <Text>Scholars have worked to infrastructurally eliminate the “unsigned” author. “Real” names are provided even in cases where this substitution contains little real information. One work, titled “Observations on the origin and effects of the Test Act” and printed in 1790, has its author listed in the ESTC as “Hudson, active 1790.” A note suggests that this attribution is somewhat shaky: “Attribution from Halkett &amp; Laing which seems to be based on a MS attribution on O copy title page, no longer legible. O copy with MS date May 18. 1790. Verify number and position of advertisement leaves.” This is the only item in the ESTC attributed to “Hudson, 1790” so identifying “Hudson” in this way does not provide value by linking the work to another. In contrast, the title page attribution identifies the author as “a dissenter” — a more informative identification, and even one which might form the basis of a valuable database query. How many works are attributed only to “a dissenter,” and what do those works in common? The existing database infrastructure makes it highly challenging to answer those questions.</Text>
@@ -86,8 +92,8 @@ Norman n. pag.</Comments>
         <Document ID="33B4B91A-323E-41EA-86B2-7DA0B72D97B3">
             <Title>Thought</Title>
         </Document>
-        <Document ID="F843BB09-AAC2-4AF8-B57D-DDF48E8D60DD">
-            <Title>Text 2</Title>
+        <Document ID="39289FA4-4987-4D07-9DCF-108578619F65">
+            <Title>interpreting results (1500 wds)</Title>
         </Document>
         <Document ID="77F2B43C-7428-452A-A6EA-7A4100F43E6D">
             <Title>conclusion (500 wds)</Title>
@@ -95,6 +101,9 @@ Norman n. pag.</Comments>
 
 
 </Text>
+        </Document>
+        <Document ID="F843BB09-AAC2-4AF8-B57D-DDF48E8D60DD">
+            <Title>Text 2</Title>
         </Document>
         <Document ID="D5A9E714-8D26-4D2E-A87E-75C46D331C1A">
             <Title>BLUF</Title>
@@ -137,23 +146,23 @@ These figures, and all others discussed here, are from samples I acquired from t
         <Document ID="C037C6D1-505E-4D73-8C08-E34D3454500B">
             <Title>Text 6</Title>
         </Document>
-        <Document ID="AF76FEE3-CF5C-4A2A-85ED-B1FC1A47433A">
-            <Title>Interesting Passage</Title>
-        </Document>
-        <Document ID="E178C43A-001E-4C14-8C4B-1F41E853FF49">
-            <Title>Secondary Texts</Title>
-        </Document>
         <Document ID="37AAF64A-D22D-4286-B0E0-33B2FA74E5CF">
             <Title>impact of commerce</Title>
             <Text>I contend that each database is best understood as a negotiation between the noncommercial values of textual reproduction and the commercial environment in which institutions much remain financially solvent. Each database has the goal of making valuable information available. After the 1990s, they are particularly influenced by the utopian ideal that digital reproduction at last made textual reproduction free. Each had to contend, however, with the fact that before a text can be reproduced digitally it must be created digitally, and that even if the material costs are entirely eliminated (which, of course, they are not) textual creation continues to have costs in labour. In Paddy Bullard’s “Digital Humanities and Electronic Resources in the Long Eighteenth Century,” which surveys the research completed and the resources used as of 2013, Bullard is also faced with the task of explaining why multiple services interact so poorly. Bullard, too, observes the core tension between public access vs private profit: 
 Viewing the field of eighteenth-century digital humanities as a single prospect, it is the contrast between publicly funded, open-access sites, and privately owned, subscription-access resources that is most striking. Each side of the divide has much to learn from the other. Publicly funded academic projects must acquire the pragmatism and ambitiousness of scale that commercial developers have always shown. Commercial developers must adapt themselves more generously to the principles of scholarly openness and accuracy. They might also imitate the inventiveness of the open sector, its adaptability to the demands raised by different kinds of primary media. Both sides recognize the desirability of making their resources interoperable across the divide, and the business of interconnectivity will preoccupy all kinds of digital humanist in the coming decade.
 Bullard is correct to note that there are major disjunctions between databases like the The British Book Trade Index or careful online editions like The Proceedings of the Old Bailey, 1674–1913, compared to massive archives like ECCO. It seems odd, however, to attribute to ECCO both “ambitiousness of scale” and “pragmatism” as the lessons for noncommercial projects to imitate, since an ambitious scale is only plausibly pragmatic for a project with the money to sustain itself. Even odder is the idea that commercial developers might voluntarily choose to “adapt themselves more generously to the principles of scholarly openness and accuracy,” when the core business model of a private enterprise relies on its lack of openness, and the private access only seems worth purchasing when its marketers suppress all nuance about accuracy. As Bode observes, “the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive.” In other words, Bullard has observed an underlying system of profit and non-profit in awkward competition, and examined the outputs of these systems in order to articular their particular virtues and describe what a ‘best of both worlds’ might look like if both parts of the system sought to collaborate together on how best to achieve maximally useful scholarly resources. What Bullard overlooks in this process is that not all parts of this system have the goal of achieving maximally useful scholarly resources.
 Bullard suggests tentatively that university presses might be site of bridging efforts between the non-profit and for-profit worlds, but where we can actually see an example occurring is in the Text Creation Partnership. The TCP attempted to intervene in the system with “a public-private partnership, led by libraries;” their materials emphasize the “librarian’s attitude toward content” which prioritizes the widest possible access and use. This “librarian’s attitude” is most evident in the (eventual) availability of all of the transcriptions in the public domain, despite the fact that the images they are based on remain privately restricted by the companies which own them. Their description of the “partnership,” however, continues to show signs of the strain in value systems when commercial and noncommercial goals are intertwined: “Through our partnership with private vendors, we had access to a huge trove of images from which to transcribe. In return, these companies were supplied with a full-text index to their images —work which would have otherwise been difficult or expensive to produce.” In other words, through purchasing a service (access to images), the academic institutions received that service. These academic institutions carried out an enormous feat of labour at their own expense, using the service they purchased. Then, “in return,” they provided the results of their labour to the company, for the company to then further profit from the improvements to their service. Most telling, here, is the word “otherwise” in calling this “work which would have otherwise been difficult or expensive to produce.” The suggestion here is that, without the TCP, the companies themselves would not have been willing to undertake the encoding that was so desired by the users of their service. However, the TCP certainly did not make the task any less difficult or expensive. Instead, academic institutions absorbed the difficulty and expense on those companies’ behalf. I do not say that they were wrong to do so: on the contrary, the “librarian’s attitude” mirrors my own attitude, and it is surely to everyone’s benefit for a wonderful thing to exist even if that wonderful thing is not profitable. Rather, I highlight this rhetorical moment in the TCP’s self description to suggest that it takes two to collaborate, and that no amount of effort on the librarians’ part can change the core institutional drive of a private company. Companies like Gale are perfectly happy to help achieve maximally useful scholarly resources if doing so it also a good way to turn a profit, but this does not mean that they have the same goals as academic institutions. One of the three key aims of the TCP identified on the homepage is to “collaborate with commercial providers, rather than constantly bargaining and competing with them.” However, the TCP seems instead to have simply come up with a better bargain, one which creatively offers scholarly labour as a bargaining chip.
-What do these database histories mean for scholars of eighteenth century literature? First and foremost, these histories provide another reminder that scholarly materials do not exist prior to interpretation or intervention. It is not merely that they are shaped or influenced by their institutional contexts, implying small quirks or edge cases which can generally be ignored: they are constituted in the first place by those institutional contexts. Secondly, these histories suggest a course of action to be taken in response to the specific institutional factors constituting each database. Scholars periodically acknowledge the gaps between historical events as they occurred and the specific archive, database, or corpus that they are using as a proxy for the idealized concept of “the historical record,” but these acknowledgements typically take the form of a statement that some form of bias is assumed to exist, but that this bias is so unknowable and unavoidable that naturally we will just continue onward as if it was not present. Identifying the specific institutional process that led to the current digital infrastructure undermines efforts to brush off these details as unknowable: directly investigating the actual demographics of each resource’s holdings can also render these biases no longer unavoidable.</Text>
+What do these database histories mean for scholars of eighteenth century literature? First and foremost, these histories provide another reminder that scholarly materials do not exist prior to interpretation or intervention. It is not merely that they are shaped or influenced by their institutional contexts, implying small quirks or edge cases which can generally be ignored: they are constituted in the first place by those institutional contexts. Secondly, these histories suggest a course of action to be taken in response to the specific institutional factors constituting each database. Scholars periodically acknowledge the gaps between historical events as they occurred and the specific archive, database, or corpus that they are using as a proxy for the idealized concept of “the historical record,” but these acknowledgements typically take the form of a statement that some form of bias is assumed to exist, but that this bias is so unknowable and unavoidable that naturally we will just continue onward as if it was not present. Identifying the specific institutional process that led to the current digital infrastructure undermines efforts to brush off these details as unknowable. Directly investigating the actual demographics of each resource’s holdings can also render these biases no longer unavoidable.</Text>
             <Comments>Bullard 756
 World of Fiction, 47. As an example of the frustrating impacts of the need to brand services as universally useful: I attended a daylong university workshop about the new Gale Digital Scholars Lab in the company of a medievalist who arrived, discovered that no medieval materials were available in the Digital Scholars Lab, nor even the Early English Books Online collection, and spent the morning awkwardly listening to speakers effuse about the incredible scope of U of T’s subscriptions. 
 TCP, “About”
 TCP “Welcome”</Comments>
+        </Document>
+        <Document ID="AF76FEE3-CF5C-4A2A-85ED-B1FC1A47433A">
+            <Title>Interesting Passage</Title>
+        </Document>
+        <Document ID="E178C43A-001E-4C14-8C4B-1F41E853FF49">
+            <Title>Secondary Texts</Title>
         </Document>
         <Document ID="789ED5DD-6848-41F7-A380-3A8D00729799">
             <Title>sources</Title>
@@ -166,13 +175,13 @@ Many place names, such as “Plymouth” or “Halifax,” can refer to location
 Many works are assigned ambiguous dates, or ranges of dates. In order to exclude non-1790s works via a consistent rule, I assumed works were published in the earliest year proposed. I would therefore remove a work identified as “1780 to 1790,” but keep works identified as “1791 to 1794” or “1798 to 1800.”
 After discovering the limits of multiple automatic methods for guessing gender from a first name, all of which were clearly not created with the eighteenth century in mind, I assigned the gender assessments manually. Most texts were associated with a small number of extremely common names which presented no interpretive difficulties (John, William, Thomas, James), but as I reached the long tail of publications I looked up all necessary specific individuals to confirm that, for example, Tench Coxe was male and Benedikte Naubert was female. The methodology of assigning first names themselves as “male” or “female” names is not one I would endorse for all historical periods (it is clearly untenable in our present moment), but in my very close encounter with the specific data of 1790s names, the assumption of a strong gender binary as well-matched by eighteenth century social practices.</Comments>
         </Document>
-        <Document ID="C429039C-9A1B-4E78-AF37-04BC1D1B1F57">
-            <Title>Research Questions</Title>
-        </Document>
         <Document ID="A6BDE36D-A5CF-4FB1-ACFE-3059C446E6CF">
             <Title>Figure &lt;$n:fig:7-databases-venn&gt;</Title>
             <Text>#
 Figure &lt;$n:fig:7-databases-venn&gt;: A hand-drawn venn diagram of the relative scale and overlapping holdings of databases containing 1790s literature. The orientation and colour-coding of the ovals groups them into three ecosystems: the academic databases in blue pointing left, the commercial databases in pink pointing right, and the crowdsourced database in green oriented horizontally. [I WILL REMOVE PROJECT GUTENBERG FROM THE FIGURE SINCE I DON’T HAVE TIME TO DISCUSS IT HERE.]</Text>
+        </Document>
+        <Document ID="C429039C-9A1B-4E78-AF37-04BC1D1B1F57">
+            <Title>Research Questions</Title>
         </Document>
         <Document ID="D6E278B6-A259-4B0D-88E0-31D3EE82FB53">
             <Title>book history of the digital</Title>
@@ -213,18 +222,18 @@ Figure &lt;$n:fig:CSmith-4dbs-alluvial&gt;: An alluvial chart, showing the winno
             <Title>why fewer unsigned?</Title>
             <Text>There are two ways to explain the disappearance of unsigned authors from smaller corpora. [The first explanation is that unsigned authors have, essentially, faced discrimination due to their status as unsigned: out of a fixed pool of unsigned works, fewer were chosen for further scholarly dissemination than from the pool of signed works.] [The second explanation is that the further dissemination of a work, or scholarly investment in a work, reduces the likelihood that it will remain unsigned in the database.] For an author to appear as “unsigned” here, they need not only be absent from the title page, but they also need to have avoided a later scholarly attribution of authorship. Names are placed into the relevant database fields wherever possible, supplying new information that cannot be found on the title page and may have been entirely unavailable to eighteenth century readers. Ann Radcliffe’s first novel, for example, was published unsigned, and the next several editions identified her as the “authoress” of the previous works, and only with the third edition of The Romance of the Forest did the name “Ann Radcliffe” appear on the book. All of the earlier editions, however, are consistently linked to Ann Radcliffe as the author in the internal database, and in the data I was able to access. There is obvious practical use in disseminating author identifications — indeed, there is very little point in determining the authors of pseudonymous works if this information is not fully incorporated into the scholarly record. But the particular implementation also occludes how eighteenth century readers actually encountered author information. An identified name overwrites the information recorded on the title page.</Text>
         </Document>
-        <Document ID="AAFDE410-A0B0-4E30-B93D-6B2DD1DD7FF8">
-            <Title>4dbs-genders-menwomen</Title>
-            <Text>#
-Figure &lt;$n:fig:4dbs-genders-menwomen&gt;: The percentage of works published in England 1789-99 with male versus female authors, as identified by the ESTC, ECCO, HathiTrust, and the TCP.</Text>
+        <Document ID="02F71A97-6695-4EF5-A056-9870F5E392B2">
+            <Title>what's missing from ESTC &amp; ECCO</Title>
+            <Text>For both ESTC and ECCO, the answer begins with a selection criteria at the site of collection: neither includes any works published in or after 1800. The ESTC, therefore, excludes volumes 4 and 5 of Letters of a Solitary Wanderer (1802), three works for children (Conversations, Introducing Poetry, 1804; History of England, 1806; and Natural History of Birds, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, Beachy Head (1807). ECCO lacks these five editions for the same reason, and then adds a selection bias at the site of digitization. Five works which fall within ECCO’s collection mandate are nonetheless excluded: the first and ninth editions of Elegiac Sonnets (1784 and 1800), the second edition of The Banished Man (1795), the first edition of Minor Morals (1798), and the second edition of Rambles Farther (1800). Presumably, these volumes were too scarce, too inaccessible, or too fragile to be imaged by Research Publications, Inc when they undertook to produce the Eighteenth Century Collection microfilm in 1983.</Text>
+            <Comments>Later known as Primary Source Microfilm, an imprint of the Gale Group, .</Comments>
         </Document>
         <Document ID="DB8D8AA5-9375-467C-9E9E-9EBF368B2345">
             <Title>the idea of the author</Title>
             <Text>We have not truly grappled with the challenge that the eighteenth century poses to our idea of “the author.”</Text>
         </Document>
-        <Document ID="2C80F0B9-13BD-44D8-BA7F-DB77C2650DD2">
-            <Title>EEBO and ECCO</Title>
-            <Text>Why are EEBO and ECCO so weird to use together? Because in the 80s when their images were born, EEBO was scanned by University Microfilms, ECCO by Research Publications Inc, and these two households alike in dignity, ancient grudge, etc etc</Text>
+        <Document ID="626A0927-B22F-46D7-8E75-0F97DE994E1B">
+            <Title>naive hypothesis</Title>
+            <Text>The naive hypothesis, investigating a historical phenomenon, is that factors like systemic sexism are likely to have an effect. As I have shown in chapter two, the digital archives currently used by eigtheenth-century scholars were created during their own historic moments, which influenced their priorities as texts were digitized. Resources which provide more information about particular works — such as ECCO, which provides PDF scans of microfiche, or the TCP, which provides detailed XML-encoded transcripts — inevitably provide their more thorough information about fewer texts. The ESTC is able to include so many works in its database in part because it includes so little about each work: little more than the information found on the title page, and a list of libraries where the original can be consulted. As the more resource-intensive archives created their digital surrogates, therefore, the texts they include are likely to be less indiscriminate, and more strongly influenced by a personal assessment of what works are most important. In many other areas, writing by women has been dismissed as less important or worthy of serious study than writing by men. If we compare the holdings of major digital archives, do the smaller and more resource-intensive archives show evidence of systematically opting not to invest in women’s writing?</Text>
         </Document>
         <Document ID="0B886ADA-9E1E-441A-8B93-FDAC54A96242">
             <Title>conclusion re: databases</Title>
@@ -233,17 +242,19 @@ Figure &lt;$n:fig:4dbs-genders-menwomen&gt;: The percentage of works published i
         <Document ID="E54F4E51-CCDC-4791-A6A7-A966A723D51B">
             <Title>database history highlights</Title>
         </Document>
-        <Document ID="02F71A97-6695-4EF5-A056-9870F5E392B2">
-            <Title>what's missing from ESTC &amp; ECCO</Title>
-            <Text>For both ESTC and ECCO, the answer begins with a selection criteria at the site of collection: neither includes any works published in or after 1800. The ESTC, therefore, excludes volumes 4 and 5 of Letters of a Solitary Wanderer (1802), three works for children (Conversations, Introducing Poetry, 1804; History of England, 1806; and Natural History of Birds, 1807), and the posthumous publication that now forms a major part of Smith’s reputation as a poet, Beachy Head (1807). ECCO lacks these five editions for the same reason, and then adds a selection bias at the site of digitization. Five works which fall within ECCO’s collection mandate are nonetheless excluded: the first and ninth editions of Elegiac Sonnets (1784 and 1800), the second edition of The Banished Man (1795), the first edition of Minor Morals (1798), and the second edition of Rambles Farther (1800). Presumably, these volumes were too scarce, too inaccessible, or too fragile to be imaged by Research Publications, Inc when they undertook to produce the Eighteenth Century Collection microfilm in 1983.</Text>
-            <Comments>Later known as Primary Source Microfilm, an imprint of the Gale Group, .</Comments>
+        <Document ID="AAFDE410-A0B0-4E30-B93D-6B2DD1DD7FF8">
+            <Title>4dbs-genders-menwomen</Title>
+            <Text>#
+Figure &lt;$n:fig:4dbs-genders-menwomen&gt;: The percentage of works published in England 1789-99 with male versus female authors, as identified by the ESTC, ECCO, HathiTrust, and the TCP.</Text>
         </Document>
-        <Document ID="626A0927-B22F-46D7-8E75-0F97DE994E1B">
-            <Title>naive hypothesis</Title>
-            <Text>The naive hypothesis, investigating a historical phenomenon, is that factors like systemic sexism are likely to have an effect. As I have shown in chapter two, the digital archives currently used by eigtheenth-century scholars were created during their own historic moments, which influenced their priorities as texts were digitized. Resources which provide more information about particular works — such as ECCO, which provides PDF scans of microfiche, or the TCP, which provides detailed XML-encoded transcripts — inevitably provide their more thorough information about fewer texts. The ESTC is able to include so many works in its database in part because it includes so little about each work: little more than the information found on the title page, and a list of libraries where the original can be consulted. As the more resource-intensive archives created their digital surrogates, therefore, the texts they include are likely to be less indiscriminate, and more strongly influenced by a personal assessment of what works are most important. In many other areas, writing by women has been dismissed as less important or worthy of serious study than writing by men. If we compare the holdings of major digital archives, do the smaller and more resource-intensive archives show evidence of systematically opting not to invest in women’s writing?</Text>
+        <Document ID="2C80F0B9-13BD-44D8-BA7F-DB77C2650DD2">
+            <Title>EEBO and ECCO</Title>
+            <Text>Why are EEBO and ECCO so weird to use together? Because in the 80s when their images were born, EEBO was scanned by University Microfilms, ECCO by Research Publications Inc, and these two households alike in dignity, ancient grudge, etc etc</Text>
         </Document>
-        <Document ID="2BFBD8D0-2279-44CC-A360-99E9163233A0">
-            <Title>the 'great unsigned'</Title>
+        <Document ID="F240A25C-170D-4CA3-B06D-A38D50BD0273">
+            <Title>2010s</Title>
+            <Text>Google Books began the 2010s by announcing, in mid-2010, that they had scanned more than 12 million books and intended to scan all known existing 129,864,880 books within a decade. At the end of 2010, they launched the Google Ngram viewer, as a research tool borne of all their scanning. Meanwhile, however, their legal court case continued, and scanning began to slow in 2012. In April 2016, the US Supreme Court declined to hear the Authors Guild's appeal, which means the lower court's decision stood, and Google would be allowed to scan library books and display snippets in search results without violating the law — and also meant, therefore, that they could not display more than snippets, even in cases of “copyright orphans.”
+In late 2019, Gale began allowing access to a new interface, the Gale Digital Scholar Lab, which dramatically changed the forms of access available for ECCO texts. It became possible not only to see the underlying OCR for texts, but to run pre-built text mining on it, and to download the OCR as text files.</Text>
         </Document>
         <Document ID="632C00AB-C9E7-4FBD-9984-8AEE0DBAB57F">
             <Title>what's missing from HathiTrust</Title>
@@ -256,10 +267,8 @@ Several of HathiTrust’s records provide “mixed copies” like this, with som
             <Title>introducing CSmith</Title>
             <Text>[Despite the impression they give of always being ‘up to date’, digital resources often reflect much earlier conceptions of that imagined whole.] [It has now been more than thirty years since feminist criticism started having major successes in 18thC studies.] [ECCO began in 2003, well after figures like Charlotte Smith had been ‘recovered.’] [But the microfilms underlying ECCO date from the 1980s: so ECCO might easily reflect 1980s priorities about what kinds of works are work investing in and redistributing.] [Charlotte Smith offers an interesting case study in a ‘successful’ recovery project. This allows me to ask: to what extent do research infrastructures ‘lag behind’ scholarly consensus? No eighteenth centuryist is now likely to say that Smith is irrelevant or unimportant to the period. In the infrastructure of literary canons as described by Guillory, she has certainly succeeded: she is given prominent space in all anthologies of Romantic literature; she regularly appears on introductory syllabi, including surveys of all British literature; there are scholarly editions, and seminars, and dissertations, conference panels, and every other sign that she is an important and valued writer. But what about digital infrastructures? Are they “up to date”? For many I would say, not really.]</Text>
         </Document>
-        <Document ID="F240A25C-170D-4CA3-B06D-A38D50BD0273">
-            <Title>2010s</Title>
-            <Text>Google Books began the 2010s by announcing, in mid-2010, that they had scanned more than 12 million books and intended to scan all known existing 129,864,880 books within a decade. At the end of 2010, they launched the Google Ngram viewer, as a research tool borne of all their scanning. Meanwhile, however, their legal court case continued, and scanning began to slow in 2012. In April 2016, the US Supreme Court declined to hear the Authors Guild's appeal, which means the lower court's decision stood, and Google would be allowed to scan library books and display snippets in search results without violating the law — and also meant, therefore, that they could not display more than snippets, even in cases of “copyright orphans.”
-In late 2019, Gale began allowing access to a new interface, the Gale Digital Scholar Lab, which dramatically changed the forms of access available for ECCO texts. It became possible not only to see the underlying OCR for texts, but to run pre-built text mining on it, and to download the OCR as text files.</Text>
+        <Document ID="2BFBD8D0-2279-44CC-A360-99E9163233A0">
+            <Title>the 'great unsigned'</Title>
         </Document>
         <Document ID="8C1B5130-A7EB-4F10-A8FE-42AF180E58EA">
             <Title>lots of men</Title>
@@ -286,16 +295,19 @@ Underwood rejects the easy/expected critique of technological hierarchies reinfo
             <Comments>Guillory p 10
 Guillory 16</Comments>
         </Document>
-        <Document ID="553009BE-A65F-4F92-AB8B-B205631E69A6">
-            <Title>Experiments</Title>
-        </Document>
         <Document ID="533A7C21-AD67-49BB-AA94-16745A0D9F5B">
             <Title>Text 1</Title>
+        </Document>
+        <Document ID="6A6CCB61-4F7B-403E-A1B9-0884BF90D5B6">
+            <Title>1790s experiment (1500 wds)</Title>
         </Document>
         <Document ID="62FCF551-BD69-4852-8B24-19D614C65A89">
             <Title>4dbs-genders-justmen</Title>
             <Text>#
 Figure &lt;$n:fig:4dbs-genders-justmen&gt;: The percentage of works published in England 1789-99 with male authors, as identified by the ESTC, ECCO, HathiTrust, and the TCP.</Text>
+        </Document>
+        <Document ID="553009BE-A65F-4F92-AB8B-B205631E69A6">
+            <Title>Experiments</Title>
         </Document>
         <Document ID="737FA680-5202-4524-8707-BC97D4B7DB05">
             <Title>CFP</Title>
@@ -407,14 +419,42 @@ For example, the ESTC intentionally excludes playbill, and surely unintentionall
         </Document>
         <Document ID="1AF8C46F-9929-4E1D-A1B6-454E24073AAA">
             <Title>Abstract</Title>
+            <Text>Digital archives of literary works are often used to study large scale literary phenomena. However, these archives’ collection practices are not made transparent to researchers — especially in commercial archives, which market their collections as “comprehensive.” The inaccessibility of collection data makes it difficult to identify whether a digital archive is demographically representative of the historic literature it contains. The demographics of digital archives require closer scrutiny because of the high likelihood that these repositories recreate the historic patterns of exclusion and marginalization which often shape the physical collections upon which they are based. In nineteenth century novels, for example, recent work has found that women’s works are substantially less likely to be digitized than men’s. I examined records from four digital literary resource — the English Short Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), HathiTrust, and the Text Creation Partnership (TCP) corpus — to evaluate how eighteenth century studies might be affected by uneven practices of digitization. Because the existing metadata in these resources does not allow a direct study of gender, I took a chronological sample from each archive of all works in any genre published in England between 1789 and 1799, and manually identified the authorial gender for these 51,000 works. The four resources, each of which includes different kinds of material, all had substantially different author demographics for the same time period. Women are attributed as authors for only 3% of the works listed in the ESTC, 3% of ECCO, 5% of HathiTrust, and a disproportionate 22% of the TCP. However, works by men are not proportionately reduced; instead, the works which fail to garner institutional support are those without known individual authors. Nearly half of the works in the ESTC (46%) are by unsigned or corporate authors, declining to 29% in ECCO, 20% in HathiTrust, and only 2% in the TCP. Much of this decline is caused by the fact that, once scholars identify the author of an unsigned work, they replace its attribution in the database with the new information. In this way, “newer and better” metadata obscures our knowledge of eighteenth century print, overwriting an eighteenth century culture of pseudonymous publication with a modern emphasis on the individuality of the author. It is also the case that a work without something appealing in the “author” field of the database is less likely to attract scholarly attention. By neglecting unsigned works, we fundamentally misunderstand the world in which women published during the eighteenth century— and, ironically, we likely overlook many works by women. Encoding the metadata of attribution and authorship as separate traits— and allowing other metadata fields, such as format or publisher, to eclipse authorship in importance— enables important new ways of knowing the history of print.
+
+The “author” field of the literary database 
+
+Despite the common disavowal of biographical criticism, contemporary scholarly practices turn the figure of the author into a central explanatory feature, without which a work declines in value.
+
+ In addition to illuminating the impact of the material conditions of each archive’s initial creation, 
+these findings illustrate a perhaps-uncomfortable truth about the continued importance of “the author” as a organizing form of knowledge in literary studies. 
+Biographical criticism remains largely 
+
+
+This suggests that scholars get interested in people about whom some things are already known. 
+revealing the extent to which literary studies remains dominated by the idea of the author as an individual.
+
+How metadata functions as knowledge and/or creates meaning
+The role of metadata and open knowledge in addressing, or not addressing, issues of under- and misrepresentation of traditionally marginalized groups and knowledge
+Critiques of metadata and what is “knowable”
+
+ 
+
+
+I propose a mid-length academic article presenting my findings.
+
+Large-scale digital archives often function as a “black box” for researchers who rely on them to draw macroanalytic conclusions.
+
+Any digital literary archive is built around underlying assumptions of what literature is, who it is for, and how it is meant to be used.
+Despite the impression they give of always being up to date, digital archive often reflect older conceptions of what kinds of literature merit preservation.
+
+The lack of relevant metadata has prevented us from knowing what we’re working with.
+
+Given widespread critiques of digital archives as creating de facto literary canons, rendering some works easier to access than others, it becomes urgent to know: do these archives systematically exclude works by women? This question cannot be answered without relevant metadata.
+
+I present my findings: that </Text>
         </Document>
         <Document ID="371B9CB6-E720-40E5-BBBA-0FAD3841DE6D">
             <Title>Primary Texts</Title>
-        </Document>
-        <Document ID="13F4EFA2-80E2-4334-B525-90C6D2F623B7">
-            <Title>7dbs-venn</Title>
-            <Text>#
-Figure &lt;$n:fig:7dbs-venn&gt;: A hand-drawn venn diagram of the relative scale and overlapping holdings of databases containing 1790s literature. The orientation and colour-coding of the ovals groups them into three ecosystems: the academic databases in blue pointing left, the commercial databases in pink pointing right, and the crowdsourced databases in green oriented horizontally.</Text>
         </Document>
         <Document ID="B9F0403D-8783-44E7-88E5-AF841FAE4930">
             <Title>1970s</Title>
@@ -427,18 +467,14 @@ Karian 283
 Korshin 211
 Crump 105</Comments>
         </Document>
+        <Document ID="13F4EFA2-80E2-4334-B525-90C6D2F623B7">
+            <Title>7dbs-venn</Title>
+            <Text>#
+Figure &lt;$n:fig:7dbs-venn&gt;: A hand-drawn venn diagram of the relative scale and overlapping holdings of databases containing 1790s literature. The orientation and colour-coding of the ovals groups them into three ecosystems: the academic databases in blue pointing left, the commercial databases in pink pointing right, and the crowdsourced databases in green oriented horizontally.</Text>
+        </Document>
         <Document ID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA">
             <Title>databases are a whole ecosystem</Title>
             <Text>These four databases — ESTC, ECCO, HathiTrust, and TCP — are only part of the larger ecosystem of digital book repositories. These databases require substantial description, preliminary to analysis, since they have conventionally been treated as tools for accessing objects of study, rather than objects of study in themselves. Figure &lt;$n#fig:databases-venn&gt; shows a venn diagram of the approximate relative scale, and overlap in holdings, of the eight databases in three ecosystems which I will explore. In blue is the purely academic ecosystem: the English Short Title Catalogue (ESTC), Eighteenth Century Collections Online (ECCO), and the ECCO Text Creation Partnership (ECCO-TCP). In pink is the commercial Google-backed ecosystem: Google Books, Google Ngrams, and HathiTrust. [I WILL REMOVE PROJECT GUTENBERG FROM THE FIGURE SINCE I DON’T HAVE TIME TO DISCUSS IT HERE.] The division of databases into these ecosystems represents my own analysis of the institutional processes and selection principles which have shaped them. Databases within a shared ecosystem may or may not be interoperable, but they made their initial textual selections with a similar logic, and make make their holdings available for a similar imagined audience. An immediate difference between them, for example, is that the commercial ecosystem treats textual holdings like a trade secret; Google Books and Google Ngrams as impossible to discuss except through the academically-inflected proxy of HathiTrust.</Text>
-        </Document>
-        <Document ID="5D598F2C-63AF-49FD-8CFC-EBDE8B3FFA41">
-            <Title>what role did women play in 1790s print?</Title>
-        </Document>
-        <Document ID="5612B0AB-6023-4E33-A98C-71A931E37CBA">
-            <Title>I'm testing Guillory's exclusion hypothesis</Title>
-            <Text>Guillory’s Cultural Capital proposes that, if female authors, for example, do not make up a demographically accurate 50% of our literary syllabi, this is not necessarily because women’s writing has been excluded or repressed. Guillory draws a distinction between rhetoric “construing the process of canon formation as an exclusionary process essentially the same as the exclusion of socially defined minorities from power” — that is, the patriarchal suppression of works by women, which can be addressed by now ‘representing’ the excluded works within the canon — versus what he sees as the real cause, a historical fact that “women were routinely excluded from access to literacy, or were proscribed from composition or publication in the genres considered to be serious rather than ephemeral.” Applied to the digital database, the first explanation, which might be termed the ‘exclusion hypothesis,’ would manifest in the form of massive archives with large numbers of works by men and women, which get filtered through exclusionary scholarly processes into smaller, selective repositories where men now make up an oversized share. In the second explanation, which might be termed the ‘absence hypothesis,’ works by women will have a diminished role from the very beginning, since women were prevented from writing in the first place.</Text>
-            <Comments>Guillory p 8
-Guillory 15</Comments>
         </Document>
         <Document ID="4942F40D-E2DC-4E4C-9150-1F0C1B18A4AB">
             <Title>2000s</Title>
@@ -446,6 +482,15 @@ Guillory 15</Comments>
             <Comments>It is hard to resist the drama of anecdotes about the early days of what would become Google Books. “Every weekday, semi trucks full of books would pull up at designated Google scanning centers. … The books were unloaded from the trucks onto the kind of carts you find in libraries and wheeled up to human operators sitting at one of a few dozen brightly lit scanning stations, arranged in rows about six to eight feet apart. … Each one could digitize books at a rate of 1,000 pages per hour. The book would lie in a specially designed motorized cradle that would adjust to the spine, locking it in place. Above, there was an array of lights and at least $1,000 worth of optics, including four cameras, two pointed at each half of the book, and a range-finding LIDAR that overlaid a three-dimensional laser grid on the book’s surface to capture the curvature of the paper. … What made the system so efficient is that it left so much of the work to software. Rather than make sure that each page was aligned perfectly, and flattened, before taking a photo, which was a major source of delays in traditional book-scanning systems, cruder images of curved pages were fed to de-warping algorithms, which used the LIDAR data along with some clever mathematics to artificially bend the text back into straight lines. At its peak, the project involved about 50 full-time software engineers.” (Somers)
 “The freeing of ESTC … now places in one location, for the consultation of anyone with internet access, the fullest and most up-to-date bibliographical account of ‘English’ printing” (Tabor 367)
 Van Helden n. pag.</Comments>
+        </Document>
+        <Document ID="5612B0AB-6023-4E33-A98C-71A931E37CBA">
+            <Title>I'm testing Guillory's exclusion hypothesis</Title>
+            <Text>Guillory’s Cultural Capital proposes that, if female authors, for example, do not make up a demographically accurate 50% of our literary syllabi, this is not necessarily because women’s writing has been excluded or repressed. Guillory draws a distinction between rhetoric “construing the process of canon formation as an exclusionary process essentially the same as the exclusion of socially defined minorities from power” — that is, the patriarchal suppression of works by women, which can be addressed by now ‘representing’ the excluded works within the canon — versus what he sees as the real cause, a historical fact that “women were routinely excluded from access to literacy, or were proscribed from composition or publication in the genres considered to be serious rather than ephemeral.” Applied to the digital database, the first explanation, which might be termed the ‘exclusion hypothesis,’ would manifest in the form of massive archives with large numbers of works by men and women, which get filtered through exclusionary scholarly processes into smaller, selective repositories where men now make up an oversized share. In the second explanation, which might be termed the ‘absence hypothesis,’ works by women will have a diminished role from the very beginning, since women were prevented from writing in the first place.</Text>
+            <Comments>Guillory p 8
+Guillory 15</Comments>
+        </Document>
+        <Document ID="5D598F2C-63AF-49FD-8CFC-EBDE8B3FFA41">
+            <Title>what role did women play in 1790s print?</Title>
         </Document>
     </Documents>
 </SearchIndexes>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2020-11-05 18:07:04 -0500" ModID="864D8C0E-00EA-4ADC-A40E-A24F1057234B">
+<ScrivenerProject Identifier="35C073EE-F3AC-4DF6-88BF-B201E2D5BD34" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-01 04:47:16 -0500" ModID="928852DC-F287-4F45-9DFC-65EF2A2E7939">
     <Binder>
+        <BinderItem UUID="1AF8C46F-9929-4E1D-A1B6-454E24073AAA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2021-02-01 04:43:59 -0500">
+            <Title>Abstract</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,2974</TextSelection>
+            </TextSettings>
+        </BinderItem>
         <BinderItem UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2020-09-10 02:37:01 -0400" Modified="2020-10-07 18:03:07 -0400">
             <Title>Draft</Title>
             <MetaData>
@@ -427,7 +437,7 @@
                                 <TextSelection>468,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="37AAF64A-D22D-4286-B0E0-33B2FA74E5CF" Type="Text" Created="2020-10-07 18:23:07 -0400" Modified="2020-11-01 12:48:08 -0500">
+                        <BinderItem UUID="37AAF64A-D22D-4286-B0E0-33B2FA74E5CF" Type="Text" Created="2020-10-07 18:23:07 -0400" Modified="2021-01-31 20:39:54 -0500">
                             <Title>impact of commerce</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -662,16 +672,6 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="1AF8C46F-9929-4E1D-A1B6-454E24073AAA" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:37:01 -0400">
-            <Title>Abstract</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
         <BinderItem UUID="FCDF5615-90C6-4C9B-AE3F-14F471A44E21" Type="Text" Created="2020-09-10 02:37:01 -0400" Modified="2020-09-10 02:54:21 -0400">
             <Title>Journal Guidelines</Title>
             <MetaData>
@@ -857,13 +857,13 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-10-14 02:21:51 -0400" IgnoreDeadline="No">7000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-11-03 18:01:01 -0500"></PreviousSession>
+        <PreviousSession Words="737" Characters="4888" Date="2021-01-31 20:22:21 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-05 00:00:00 -0500">
+    <RecentWritingHistory Date="2021-02-01 00:00:00 -0500">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>285</OtherWordCount>
+        <OtherCharCount>1918</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
