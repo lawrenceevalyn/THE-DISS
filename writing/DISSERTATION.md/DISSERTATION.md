@@ -749,6 +749,8 @@ These goals are not so dissimilar to those of public libraries.
 
 What do these database histories mean for scholars of eighteenth century literature? First and foremost, these histories provide another reminder that these things do not exist prior to interpretation or intervention. It is not merely that they are *shaped* or *influenced* by their institutional contexts, implying small quirks or edge cases which can generally be ignored: they are *constituted in the first place* by those institutional contexts. Secondly, these histories suggest a course of action to be taken in response to the specific institutional factors constituting each database. Scholars periodically acknowledge the gaps between historical events as they occurred and the specific archive, database, or corpus that they are using as a proxy for the idealized concept of “the historical record,” but these acknowledgements typically take the form of a statement that some form of bias is assumed to exist, but that this bias is so unknowable and unavoidable that naturally we will just continue onward as if it was not present. Identifying the specific institutional process that led to the current digital infrastructure undermines efforts to brush off these details as unknowable: directly investigating the actual demographics of each resource’s holdings, as I do in future chapters, can also render these biases no longer unavoidable.  
 
+Twitter thread about “HottieTrust”: https://twitter.com/stynnelahl/status/1357707454918885378  
+
 Hart divides the works hosted on Project Gutenberg into three categories: “light literature,” “heavy literature,” and “references.”
 
 
@@ -770,6 +772,52 @@ The actual way that books enter Wikipedia is through the website Distributed Pro
 
 
 A sign of openness to a particular community: “Distributed Proofreaders regrets that we are unable to verify court-ordered community service because our system cannot adequately record time spent participating.”  
+
+A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:
+
+\<listPrefixDef\>
+
+\<prefixDef ident="tcp"
+
+matchPattern="(\[0-9\\-\]+):(\[0-9IVX\]+)"
+
+replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/\>
+
+\<prefixDef ident="char"
+
+matchPattern="(.+)"
+
+replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/\>
+
+\</ListPrefixDef\>
+
+Indeed, the collocation formula is less transparent than simple markup like the following:
+
+\<titleStmt\>
+
+\<title\>The emigrants, a poem, in two books. By Charlotte Smith\</title\>
+
+\<author\>Smith, Charlotte Turner, 1749-1806.\</author\>
+
+\</titleStmt\>
+
+It may even compare unfavorably to relatively well-commented code, like the following:
+
+| \# iterate through the directory ||
+|  | for filename in listdir\_nohidden("./" + directory): |
+| -----: | :----- |
+|  |  |
+|  | \# define the path to this file |
+|  | path = "./" + directory + "/" + filename |
+|  |  |
+|  | \# strip the file's namespace |
+|  | try: |
+|  | xmlstring = stripNamespace(path) |
+|  | except: |
+|  | print "error stripping namespace of file %s" % (filename) |
+
+
+What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.  
 
 Check how many DP volunteers: https://www.pgdp.net/c/
 
@@ -871,28 +919,6 @@ We have not truly grappled with the challenge that the eighteenth century poses 
 
 # ch 4 - random sample (13k) #  
 
-The version turned up by the random sample was 24p. ;  12⁰. The version in ECCO is 36p. ;  18⁰. 
-
-
-
-Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
-
-Emphasis on the operations of particular stables.
-
-There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and get first refusal when there are openings for more mounted volunteers. Suggests a strong ‘social club’ element?  
-
-She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
-
-
-
-It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.
-
-
-
-The ESTC mentions two physical holdings--- one in the Bodleian, one in the Somerset Archaeological and Natural History Society. The Bodleian copy includes it as part of a bound volume of 87 chapbooks. The SANHS database doesn’t show a copy.
-
-The ESTC record mentions that “TAUa copy bears MS. date 1794” but I don’t know what the TAUa copy is.  
-
 My random sample suggested a 1794 Liverpool edition 8p. ;  12⁰. This particular version of the ballad has not been digitized, but I located five other copies in ECCO from the 1790s:
 
 CW0117256783 N.p., \[1790?\] 1 sheet : ill. ; obl.1/2°
@@ -971,6 +997,92 @@ ESTC offers a ‘uniform title’ of “Children in the wood; or the Norfolk gen
 
 1967 March, R.D. Barrett-Leonard: “They are said to be members of the De Grey family, but which ones?”  
 
+T194212 is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.”  
+
+This single sheet item was, according to the ESTC, “issued as a Parliamentary paper” (“ordered to be printed 17th April 1795”) and exists in three academic libraries. It is also reproduced in facsimile in volume 91 of the 1975 printed resource *House of Commons sessional papers of the eighteenth century*, edited by Sheila Lambert --- a work with 147 volumes! HathiTrust has scans of many of these volumes, but, heartbreakingly, not volume 91. HathiTrust goes from 89 to 92. Abebooks sells volumes 2 and 90, for very modest prices!  
+
+17 April 1795 - Mr Owen (from the Directors of the East India Company) presents accounts & papers t0 the House of Commons: 23 items, of which the thing I want is no. 22. It was ordered that they lie on the table and that copies be made. No mention of the activity appears to be made in the recorded debates
+
+On the same day, the House of Lords was pursuing the case against Hastings
+
+The House of Commons opened business by hearing the prince of wales’s reply to their congratulations on his marriage
+
+
+
+8 May 1795 - Mr Owen presents more accounts & papers
+
+28 May 1795 - House of Commons resolves that on 8 June 1795 a Committee of the whole House will consider the said accounts & papers
+
+
+
+
+
+17 april: https://parlipapers.proquest.com/parlipapers/docview/t70.d75.jhc-012170?accountid=14771
+
+17 april debates: https://parlipapers.proquest.com/parlipapers/docview/t70.d75.pr\_1780\_1796-002555?accountid=14771
+
+28 may: https://parlipapers.proquest.com/parlipapers/docview/t70.d75.jhc-012195?accountid=14771
+
+
+
+To find this information, I spent substantial time just trying to determine IF the house of commons had an online archive--- one resource I looked at (https://loc.gov/rr/main/parliamentarypapers/HouseofCommonsSessionalPapers.html) had a broken link which nonetheless prompted me to look further. Finally I was able to access scans through ProQuest. The facsimiles I used were copyright University of Southampton and British Library Board, and copyright ProQuest 2007.  
+
+The item in my random draw is STC N38682, a 24p. ; 12⁰ edition printed in 1797. It is not in ECCO; copies of the light-hose volunteer rules & regulations that *are* in ECCO are as follows:
+
+T83862	1795	129p	12⁰
+
+T131622	1797	36p	18°
+
+T130561	1797	273p	24°
+
+T131623	1798 	240p	24°
+
+These are, for the most part, way way longer than the one the ESTC pointed me to and therefore unhelpful comparisons! So I turned my attention to similar works for different organizations.
+
+Searching the National Archives for “Light-Horse Volunteers of London and Westminster” turns up a lot of related records, including all their minutes, but none of these have been digitized (alas).
+
+Better comparisons are the 16p. ; 8° rules for the St. James’ volunteers, and the 12p 8° rules for the second Free and Easy Johns society. 
+
+
+
+At first I thought the Free and Easy Johns might be a parody document (since they stipulate that none of the money in the first year will be spent on anything but lock-boxes) but on closer look it appears to be real; it then appears to be some kind of cross between health insurance and a ponzi scheme. The idea seems to be that people will pay in membership rates, and be entitled to payouts if they become ill or disabled and can’t work, plus death benefits for their survivors. Is part of the idea that the group can invest these funds, and the profits from investment accrue to their mutual benefit...?  
+
+The version turned up by the random sample was 24p. ;  12⁰. The version in ECCO is 36p. ;  18⁰. 
+
+
+
+Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
+
+Emphasis on the operations of particular stables.
+
+There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and get first refusal when there are openings for more mounted volunteers. Suggests a strong ‘social club’ element? It’s a surprisingly unpatriotic document--- it doesn’t seem to suggest that they have volunteered to do more than drills. Do the longer ones put more emphasis on the practical purposes of the organization? Why downplay the military context/threat?
+
+
+
+“The Horses must be bay, brown, chestnut, or black, and not under fifteen Hands high; Stallions are not admitted, and Mares only allowed till a convenient Opportunity offers of exchanging them.” (7)
+
+“It is considered to be inconsistent with our Institution to contribute, *in the Name of the Corps*, to any public or private Subscription, every Gentleman having an Opportunity of contributing in his individual Capacity according to his Inclination and Abilities.” (29)  
+
+She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
+
+
+
+It opens with a lot of discussion of London’s vices and God’s goodness, and claims that the destruction of France is proof of God’s punishment for the sins. The eclipse she claims to have predicted (though I can’t turn up the earlier publication). She describes how a newspaper published a report of a strange boy pointing out an omen to a lady, and several ladies described having the same experience on similar bridges. (A kind of semi-ghostly figure familiar from Romantic/Gothic stories.) Goodall says the omen predicts war (a pretty easy prediction since England had just gone back to war with France), and further predicts fighting along the Rhine and in Spain which will kill many people. It ends with a (clumsy) poem version of the prose.
+
+
+
+The ESTC mentions two physical holdings--- one in the Bodleian, one in the Somerset Archaeological and Natural History Society. The Bodleian copy includes it as part of a bound volume of 87 chapbooks. The SANHS database doesn’t show a copy.
+
+The ESTC record mentions that “TAUa copy bears MS. date 1794” but I don’t know what the TAUa copy is.  
+
+This little chapbook offers a different entry point to late eighteenth-century than the almanacs which have received (comparatively) more attention.[^cf31]  
+
+José M. Vaquero describes a different observer of the same 1794 that Goodall describes. Gaspar Melchor de Jovellanos was a respectable “statesman, author, historian and philosopher” in Spain (Vaquero n. pag.), to which Vaquero seeks to add evidence of his scientific activity. Vaquero is himself chiefly interested in the value of Jovellanos’s historic observational data in the contemporary study of stratospheric aerosol: Jovellanos’s description of the moon’s colour “indicates that the stratosphere around 1794 seems to have been undisturbed volcanically,” as expected (Vaquero n. pag.).
+
+Jovellanos’s diary for February 14 1794 reads: "La noche clarísima: ni una nube en el cielo; se vio perfectamente empezar, mediar y llenarse el eclipse de la Luna; en su plenitud tomó un color hierro encendido que era muy notable." \[English translation: "Very clear night: not a cloud in the sky; the eclipse of the Moon was perfectly seen to begin, reach its midpoint, and fill; in its fullness it took on a fiery iron color that was very remarkable."\] (Vaquero n. pag.) This sedate and factual account, which knows perfectly well that there is an eclipse and finds the event in itself unremarkable, seems to come from a different era from Goodall’s frantic account. Goodall, in fact, does not even use the word “eclipse,” but describes the moon as “rocking” and then as surrounded or occluded by a flying army.
+
+How widespread was scientific knowledge of eclipses? Certainly, Goodall illustrates that the more rational/enlightened approach could coexist with superstitious thinking. Am I falling into a high/low trap here with a rational vs populist binary?  
+
 Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
 
 
@@ -978,6 +1090,14 @@ Piper identifies generalization as a common and important method in literary stu
 Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway.
 
 In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...  
+
+This is an unsigned single-sheet document. I know far more about the piece of paper than the contents: the ESTC describes it as 1 sheet ;  1/2⁰ with dimensions of 34.6 x 20.8cm and horizontal chain lines. There is also an uncontrolled note saying that the record is based on “Lpro copy with other material from 1792”
+
+The shelfmark, HO.42/23 \[632\], points in the London National Archives to “HO 42. Letters and papers. Piece described at item level.” This consists of a whole lot of correspondence sent to the Home Office, which has actually been scanned! Things are stamped with numbers in the upper-right.... And OH MY GOD 632 SHOWS A SCANNED COPY OF THE ACTUAL DOCUMENT, FREE TO THE PUBLIC AND RIGHT HERE, I CANNOT BELIEVE IT!!!! Image 940 shows the front, and image 941 shows the back. The item has its own record at http://discovery.nationalarchives.gov.uk/details/r/C10614791
+
+To find this image, I had to check the “HOLDINGS DETAILS” pane of the ESTC record (a field which somehow I only recently discovered), search the shelfmark at the  London National Archives, and guess that \[632\] referred not to a page or image number, but to an item.
+
+“Lpro” probably means London/local Public Records Office (former name for National Archives), per Cai  
 
 The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)
 
@@ -989,7 +1109,11 @@ A few pieces indicate their sources - Goldsmith is a selling point on the title 
 
 All six of the works which have some kind of authorship attribution are advertised on the title page. There are three other pieces advertised on the title page which don’t have a specific author mentioned in the text: Parish-Jobbing, Character of a Sot, and The Cards Spiritualized (which does name the soldier supposedly responsible, Richard Middleton, in the body of the piece). This reinforces the idea that the pieces named on the title page are expected to be somewhat familiar to readers.
 
-Everything advertised on the title page is at least a full page long. Everything not advertised is a half-page. (This also means of course that everything with an author is at least a full page long.) Since many of the half-page pieces are inserted to make up space after the end of one of these longer pieces, this suggests that the half-page jokes are somewhat interchangeable filler.  
+Everything advertised on the title page is at least a full page long. Everything not advertised is a half-page. (This also means of course that everything with an author is at least a full page long.) Since many of the half-page pieces are inserted to make up space after the end of one of these longer pieces, this suggests that the half-page jokes are somewhat interchangeable filler.
+
+
+
+Simon Dickie’s *Cruelty and Laughter* makes the case for the ordinariness middle-class acceptability of crude forms of humour, by examining expensive joke books. He argues that these do not differ as much as we might expect from the cheap chapbooks that are more easily dismissed as belonging to a different social and literary sphere than the polite and sentimental works that are generally allowed to qualify as “literature.” This item does not appear to be of that class; it does not have middle-class pretensions/price tags. \[Unless the whole series does? Follow up on the “prose” tag\]  
 
 “Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.’”
 
@@ -1003,29 +1127,41 @@ As far as I can tell, the Gentleman’s Magazine does not include this kind of a
 
 I contacted the holding archive in Germany, writing a message in bad google-translate German!   
 
+In comparison to all the other texts, the appeal of the Vicar of Wakefield is obvious: it’s funny on purpose, while also, I remain convinced, being completely in earnest about its moral values. An illustrative joke is the one about making sure to lend something to one’s least pleasant houseguests, so they won’t ever return: it’s a bit wry or cynical as a punchline, but in no way undermines the house’s hospitality, or the idea of hospitality itself as a virtue. I think the humour is there to cheer and engage the reader; it is not a cynical book, and therefore not satirical.
+
+
+
+The novel was first published in 1766; this 1792 edition comes 26 years after its first publication, and 18 years after Goldsmith’s death in 1774.
+
+
+
+
+
+It opens with an index of chapter summaries, and contains absolutely no prefatory materials --- which is, frankly, a real oddity! A sign it was a well-known book? ‘Needs no introduction’
+
+
+
+Mr. Burchell sings a ballad, which seems to stand in for his moral worthiness in contrast to the local lord’s lack of culture and Moses’s pretentious/soulless admiration of the “ancients.”  
+
+An eighth edition was published in 1787, followed by a “new edition” in 1790 of two volumes in one, followed by a 1792 reprint of the new one-volume edition (Dobson xxv). This appears to be the version I have. 1792 also saw a two-volume edition which called itself the twenty-second edition, probably by counting all the non-London eds (since 8 only counts London) (Dobson xxv). Dobson describes a LOT of editions, up to his own day--- 1885. Dobson says that sales are rapid in 1766 (three fast editions), but slow by 1770 (Dobson xvi). The fourth edition sold at a loss, and the three owners of the book seemed to think they would not make much more money on it; the fifth edition, promised in 1773, was deferred to 1774 (Dobson xvii). The sixth edition was 1779. Dobson concludes that “The demand for the book I its early days, or at all events, for the authorised edition, cannot therefore have been quite so urgent as has been usually supposed” (Dobson xvii).
+
+Dobson assumes print runs of roughly a thousand --- it would be worth going back more carefully over these numbers, and those used by others later, to contextualize whether these are large or small print runs, fast or slow sales.
+
+
+
+The HathiTrust scan of Dobson is unusually bad, with a HUGE number of repeated pages.
+
+
+
+It presents itself as a “facsimile” edition but since it is from 1885 this appears to mean... that it was typeset with 18thC type to match the first edition? Surely there’s no direct image transfer...? Was it just for fun that the preface was also typeset in an 18thC font, or was there a practical reason for it? (When I was trying to skim the page images to spot the promised preface and bibliography, I skipped right past them because they looked too much like 18thC pages!)  
+
 The first volume is divided into 40 sections, on a range of topics related to the body, the senses, and disease. He classifies bodily and sensory motions as "irritative," "sensitive," "voluntary," and "associate." He presents theories on the production and classes of ideas, and seeks to explain the causes and mechanisms of sleep, reverie, vertigo, and drunkenness. He then discusses anatomy, especially the operation of the circulatory system and various glands. Chapter 29, "The Retrograde Motions of the Absorbent Vessels," is Erasmus Darwin's translation of his late son [Charles Darwin](https://en.wikipedia.org/wiki/Charles\_Darwin\_(medical\_student))'s dissertation. These anatomical chapters are followed by four chapters on diseases, which draws on his classification of four types of motion to identify four types of diseases: those of irritation, of sensation, of volition, and of association. Two chapters, "Of the Oxygenation of the Blood in the Lungs and Placenta" and "Of Generation" develop his theories about human reproduction, including observations related to evolution. The final chapter in the first volume is a reprint of a paper by another of Erasmus Darwin's sons, [Robert Darwin](https://en.wikipedia.org/wiki/Robert\_Darwin), about ocular spectra.
 
-The second volume is focused solely on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on the four classes of disease: diseases of irritation, sensation, volition, and association.  
+The second volume is focused solely on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on the four classes of disease: diseases of irritation, sensation, volition, and association. This model of disease essentially tries to understand each symptom as being its own illness, seeking to explain the mechanism of the symptom’s operation in order to explain its causes and cures. The drawback of this model is illustrated by, for example, his division of fevers into five classes: irritative fever, inirritative fever, sensitive fever, sensitive irritated fever, and sensitive inirritated fever (Darwin *Zoonomia* 191). At many points, his treatment suggestions are accompanied by question marks, or include direct questions and suggestions for experiments, indicating the “in progress” nature of even this very polished work. The literary style in general is very different between the two, with the second volume far less digressive and allusive.  
 
-In comparison to all the other texts, the appeal of the Vicar of Wakefield is obvious: it’s funny on purpose, while also, I remain convinced, being completely in earnest about its moral values. An illustrative joke is the one about making sure to lend something to one’s least pleasant houseguests, so they won’t ever return: it’s a bit wry or cynical as a punchline, but in no way undermines the house’s hospitality, or the idea of hospitality itself as a virtue.
+It was difficult to find secondary work on zoonomia, since most work on Erasmus is interested in the publications before and after: either they are interested in Erasmus as a literary figure, and discuss his Botanical Garden, or they are interested in him as a precursor to Charles Darwin’s theories of evolution, so they discuss his next work.
 
-
-
-The novel was first published in 1766; this 1792 edition comes 26 years after its first publication, and 18 years after Goldsmith’s death in 1774. Not sure how many printings have elapsed since 1766.
-
-
-
-It opens with an index of chapter summaries, and contains absolutely no prefatory materials --- which is, frankly, a real oddity! A sign it was a well-know book?  
-
-T194212 is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.”  
-
-This is an unsigned single-sheet document. I know far more about the piece of paper than the contents: the ESTC describes it as 1 sheet ;  1/2⁰ with dimensions of 34.6 x 20.8cm and horizontal chain lines. There is also an uncontrolled note saying that the record is based on “Lpro copy with other material from 1792”
-
-The shelfmark, HO.42/23 \[632\], points in the London National Archives to “HO 42. Letters and papers. Piece described at item level.” This consists of a whole lot of correspondence sent to the Home Office, which has actually been scanned! Things are stamped with numbers in the upper-right.... And OH MY GOD 632 SHOWS A SCANNED COPY OF THE ACTUAL DOCUMENT, FREE TO THE PUBLIC AND RIGHT HERE, I CANNOT BELIEVE IT!!!! Image 940 shows the front, and image 941 shows the back. The item has its own record at http://discovery.nationalarchives.gov.uk/details/r/C10614791
-
-To find this image, I had to check the “HOLDINGS DETAILS” pane of the ESTC record (a field which somehow I only recently discovered), search the shelfmark at the  London National Archives, and guess that \[632\] referred not to a page or image number, but to an item.
-
-“Lpro” probably means London/local Public Records Office (former name for National Archives), per Cai  
+Zoonomia gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. They’re not valueless, and perhaps did have impact as precursors to a true understanding of evolution, but they’re also not as accurate or complete as they have been presented. And, more importantly, they are not important *to Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,180 pages of this 1,200 page work.  
 
 Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?  
 
@@ -1037,13 +1173,23 @@ Underwood has particularly emphasized that the unique role of literary studies, 
 
 A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)  
 
+Literary study tends to value the exceptional and the interesting. \[I know I saw someone I could cite for this--- maybe Underwood or Piper on twitter?\] The question of this chapter is, what characterizes “normal” texts in the 1790s? How might we understand the priorities and features of the 1790s print mediascape if we examine it through ordinary, unremarkable documents?
+
+\[How can I pose my question/thesis in a way that doesn’t necessarily ‘give away’ my methods too soon? Do I have to just lead in with some generalizations?\]  
+
 This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
+
+The perversity of this method might seem like a bad-faith interpretation of literary studies, or an attempt to debunk or hoax literature scholarship. If scholars expend considerable expertise in order to select specific illustrative texts to support their arguments about a period of literature, why should it “work” to skip that expertise? If I produce an analysis from random texts, doesn’t that mean that other scholars’ choices of texts don’t matter? But I do this experiment in part to understand why literary analysis *does* work: if textual selection isn’t the important part, then the important part lies elsewhere. At first, I thought it was very possible that this would not work, that I would produce an incoherent list with nothing to offer our understanding of 1790s literature. (Indeed, my reader may still judge that I have failed.) But as I began to read, it seemed like literary close-reading can in fact find informative meaning even with completely arbitrary texts. I think this success is not, in fact, too remarkable. If the core thesis is something like “historical contexts have perceivable impacts on literary output,” then those impacts *ought* to be present in all texts--- and therefore ought to be perceivable in *any* text.
+
+The problem with arbitrary textual selection is not that one cannot find traces of historical processes; it’s a rhetorical-narrative problem. Underwood and Piper both discuss the fact that part of what a literary scholar does is *tell a good story*. It can be hard to tell a good story about an invoice, especially when one cannot even read the invoice itself.  
 
 In earlier chapters, especially chapter 1, the 1790s provided a backdrop to explore my real subject of contemporary literary databases. In this chapter, however, my real subject is 1790s print culture in England; I am curious about how this subject might be illuminated differently through my unusual sampling method (in the vein of speculative computing) but several of my sampling principles are defined around the goal of actually acquiring sufficient titles to answer my questions. First, for example, I decided to work with my “post-cleaning” sample, to exclude non-English or non-1790s works. Although it is interesting to note the “false positives” that appear, their presence in the sample would limit my ability to comment meaningfully on my actual subject, 1790s print in England. I also decided that I would re-sample from ECCO instead of the ESTC if I could not find a way to personally read at last five of the works in the ESTC sample.
 
 I preferred to select my texts from the ESTC because it is the largest/broadest corpus from which I can sample. This would allow me to perform another case study “spot check” like the exploration of Charlotte Smith’s works in chapter 1: of the works I read from the ESTC, which are also available in other resources, and why? Sampling from ECCO instead would eliminate the possibility of finding works present in, eg, HathiTrust but *not* ECCO, and reduces the ability of this experiment to illuminate the database ecosystem. Nonetheless, I prefer in this chapter to limit my observations about databases in order to increase my ability to discuss the 1790s in England.
 
-I considered balancing my sample chronologically, e.g., taking one works from each year 1789-99. Doing so would reduce the chance that my random sample would overrepresent more productive years. However, I decided that such chronological overrepresentation would be exactly the kind of phenomenon I’d like to discover.  
+I considered balancing my sample chronologically, e.g., taking one work from each year 1789-99. Doing so would reduce the chance that my random sample would overrepresent more productive years. However, I decided that such chronological overrepresentation would be exactly the kind of phenomenon I’d like to discover.  
+
+Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
 
 To take my sample, I used my “ESTC records - cleaned” spreadsheet from OpenRefine, which included 51,090 rows of data. I installed the “GOKb Utilities extension” for OpenRefine (https://github.com/ostephens/refine-gokbutils). I created a column called “Random number,” using the function randomNumber(0, 51090) (per https://stackoverflow.com/questions/46063173/how-to-make-a-random-sample-in-openrefine). However, when I sorted the data numerically, I saw that this did not give them all unique numbers (the first 10 went 1, 2, 3, 3, 5, 6, 6, 7, 7, 8) so this was not what I needed.
 
@@ -1244,28 +1390,6 @@ J. Crome
 1792
 
 Availability: can’t find  
-
-Mostly the rules are about paying appropriate fees (there is a blank for the amount to be written in by hand!) and the logistics of horses, training, and uniforms. There is a lot of training available and drills required, including a lot of surveillance/record-keeping of who is in town to be called to serve.
-
-Emphasis on the operations of particular stables.
-
-
-
-“The Horses must be bay, brown, chestnut, or black, and not under fifteen Hands high; Stallions are not admitted, and Mares only allowed till a convenient Opportunity offers of exchanging them.” (7)
-
-
-
-“It is considered to be inconsistent with our Institution to contribute, *in the Name of the Corps*, to any public or private Subscription, every Gentleman having an Opportunity of contributing in his individual Capacity according to his Inclination and Abilities.” (29)
-
-
-
-There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with bayonets and are “freed from the Expence of Horse Keeping.” (34) --- but can keep their horses in the LHV stables, and get first refusal when there are openings for more mounted volunteers. Suggests a strong ‘social club’ element?
-
-
-
-The version turned up by the random sample was 24p. ;  12⁰. The version in ECCO is 36p. ;  18⁰.   
-
-se  
 
 Listed as “author of The Botanic Garden”
 
@@ -1883,7 +2007,117 @@ P 87 begins a long discussion of cures for scoliosis, which he identifies as due
 
 P 91 comments on beauty of the figure as illustrated in other images
 
-![][ScreenShot2021-01-29at9.44.33PM]  
+![][ScreenShot2021-01-29at9.44.33PM]
+
+
+
+P 95-6 describes a medical device in more detail because he doesn’t know the name or place of its maker
+
+
+
+P 112 cures for obesity include eating soap
+
+
+
+P 114 speculating on waterborne disease --- the explanation is ancient but not therefore more trustworthy, since authors copy each other
+
+
+
+P 115 scrophula, with an anecdote about swollen tonsils due to green gloves
+
+
+
+P 120-121 a man who preferred to die of a blocked throat rather than participate in a horrible medical experiment and on death “seemed quite careless and easy about the matter”
+
+
+
+P 130 - clearly knows lead is poisonous; anecdote about a milkmaid and a lead cistern for milk
+
+
+
+P 135 - experiment with arsenic that would “probably” help with toothache
+
+Interesting comments and questions about dental care--- brush teeth with charcoal dust. Does enamel grow again?
+
+
+
+P 139 - I am surprised every time electricity is suggested as a treatment... earlier there was one which suggested electricity to the HEAD to treat something
+
+
+
+P 144 - treatment for lazy eye is the same as today
+
+
+
+P 153 - he thinks cholera might be caused by putrid food but doesn’t really explain it, just talks about how the thinks it works
+
+
+
+P 154 - men will conceal a hernia so you have to ask about it
+
+
+
+P 156-6 - hysteria, talks about fear as a symptom, but it also seems to be a bowel based disease --- compared to hypochondria
+
+P 159 runny nose is, like pale urine, a symptom of hysteria
+
+
+
+P 174 lists dreams and blushing of joy as “diseases of sensation” - genus vii, “with increased action of the organs of sense”
+
+
+
+P 180 - fat people are generally understood to eat less food than thin people
+
+
+
+P 188 - why childbirth is so much more dangerous for genteel ladies
+
+P 207 --- more on childbirth, repeating the comment about unskilled accouchers putting their hands in the uterus to remove the placenta, and reiterating that there’s no need for opium unless something looks like it’s gone wrong
+
+
+
+P 190 - a great example of why treating symptoms as if they are the disease is leading him astray --- five different kinds of fevers, mostly incoherent.
+
+
+
+P 212 - trying to understand how smallpox is contagious
+
+P 230-31 - more on contagion; thinks that mists must contain animal matter because they cause disease
+
+
+
+P 239 credits Lady Wortley Montague for popularizing smallpox inoculation in “this part of Europe.” It seems like smallpox is less dangerous when induced in the arm--- he says it prevents it from affecting the tonsils and closing up the throat.
+
+
+
+P 240 being alive is a “habit” that babies aren’t good at yet
+
+
+
+P 250 chickenpox gets milder every 50 years, but new diseases might arise “and for a season thin mankind!”
+
+
+
+P 256 - tie eggs to your eyes, or cut the temporal artery, for eye irritation
+
+
+
+P 257 - Turkish ladies’ eyeliner might serve the same purpose as the dark feathers around a swan’s eyes
+
+P 258 - he suggests using lead instead
+
+P 260 - he tells practically a morality tale abut white lead makeup
+
+
+
+P 260 - a long section of anecdotes against face-washes, with parallels to the Vicar of Wakefield. The cure for pimples is blistering your whole face!
+
+
+
+P 226 - a cure for scrophulous ulcers that Darwin tells secondhand from a 12yo boy
+
+Also--- sea scurvy!  
 
 P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
 
@@ -2242,7 +2476,7 @@ Ultimately, historians will need to steer a middle course between the two extrem
 
 One reason that it can be informative to close-read the data structures of a resource like the ESTC is that a resource’s categories of knowledge are driven by the *uses* to which it expects that knowledge to be put. Examining the implicit assumptions that will make a given organization of knowledge seem logical, we can work backwards to the purpose of mission of the initial knowledge creation. Thus Tabor describes the data structure and the mission of the ESTC in a single statement: “ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (369). Korshin further elaborates the use envisioned for this information: “the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book in his or her library is the same or different from the one listed in ESTC” (211). Both “edition” and “ideal copy” are terms defined around the interests of a specialist audience of bibliographers, which bear inexact but important relationships to the formulation of an ESTC record.
 
-An “edition” is a group of copies of a work which are understood to be interchangeable with each other (Tabor 369),[^cf31] though in practice different levels of granularity are applied in distinguishing between editions. The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Karian describes that “\[s\]ometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type)” (289). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). As a result, Karian argues persuasively that ESTC records should not be treated as synonymous with “editions,” “issues,” or “titles,” since the same definitions of those boundaries may not be applied consistently. The specific question he poses is “What is the unit that the ESTC uses?” (289), and important question, to which the answer cannot really be “editions,” despite the best attempts of the ESTC bibliographers. Instead, he says “one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC” (Karian 289).[^cf32]
+An “edition” is a group of copies of a work which are understood to be interchangeable with each other (Tabor 369),[^cf32] though in practice different levels of granularity are applied in distinguishing between editions. The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Karian describes that “\[s\]ometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type)” (289). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). As a result, Karian argues persuasively that ESTC records should not be treated as synonymous with “editions,” “issues,” or “titles,” since the same definitions of those boundaries may not be applied consistently. The specific question he poses is “What is the unit that the ESTC uses?” (289), and important question, to which the answer cannot really be “editions,” despite the best attempts of the ESTC bibliographers. Instead, he says “one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC” (Karian 289).[^cf33]
 
 The “ideal copy,” too, represents an interpretation. Because the ESTC is essentially a movel based on limited samples of an imagined lost prior whole --- “the most complete and correct manifestation of that edition as the printer and publisher intended it,” as Tabor termed it (369) --- a new sample can change the model. As Tabor describes, “\[a\]s additional reports of copies arrive, it may be that the ideal description must change in response. For instance, the existence of a half-title may only emerge on the evidence of the seventh copy reported. A half-title would then be added to the description of the ideal copy, and the six previously matched physical copies will receive notes recording that they are imperfect in this respect” (370). The ideal copy, like the database itself, thus represents a moving target.
 
@@ -2258,7 +2492,7 @@ So, how do these ideas of the edition and the ideal copy shape the data structur
 
 How many of my records have subject headings? What is the ESTC’s ontology?] The remainder of the record is an extensive list of libraries which hold copies of the edition, divided into the three geographic regions of “British Isles,” “North America,” and “Other,” followed by a direct link to the ECCO copy referenced above.
 
-This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf33] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
+This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf34] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
 
 Figure 4: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
 
@@ -2448,7 +2682,7 @@ The first Project Gutenberg texts are almost a parody of important texts: The De
 
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
-The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf34] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf35] This surprised me, and suggests that skepticism of OCR in eighteenth-century text mining may no longer be appropriate.  
+The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf35] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf36] This surprised me, and suggests that skepticism of OCR in eighteenth-century text mining may no longer be appropriate.  
 
 To make these comparisons concrete, consider the first page of Smith’s dedication, as it is captured by OCR in ECCO and HathiTrust, and in the ECCO-TCP transcript:
 
@@ -2740,12 +2974,6 @@ As Suarez notes, the ESTC is a unique resource for pre-19thC works: “Regrettab
 
 The story of ESTC is one in which a closed ideal of authoritativeness is being relinquished slowly for the sake of more useful and modern qualities: evolution, accuracy, and depth. The printed versions of STC and Wing presented themselves as definitive bibliographies of English printing for the periods that they covered. Being native to the digital medium, by contrast, the nature of ESTC is that it is always a work in progress. What David McKitterick calls the ‘dispersed authority’ of the ESTC is represented by the existence of its daimon, a parallel database accessible only to the editors and librarians authorized to work on it, known as the STAR file.15 This is the repository for all updates and queries, all doubts about the reliability of edition designations and library matches, and for some time now commentators have been calling for it to be made accessible to ordinary users.16 At the time of writing, the ESTC21 blog indicates that this will soon happen: the catalogue is about to be redesigned so as to ‘harness user expertize to enrich data’.17 The database will function increasingly as an ‘electronic hub’ capable of searching digital reproductions of texts, and moves will be made to improve the accessibility of ESTC data for recapture by other websites.18 This brings us to the second reason for the ESTC’s preeminence. The hybridity of the resource ought to be its great weakness. The description of a typical copy from an edition in the upper part of its record is really a sort of ideal generalization, a specification that in fact describes many nonidentical objects. A thousand contingencies at the warehouse or the bookseller’s stall, at the binder’s shop or the library lead inevitably to variations within editions or impressions. So the authority of the upper record is under constant pressure from the material particularity represented by the lower part, the copies registered in the union catalogue. In fact, it is the pragmatic yoking of these two theoretically incompatible classes of information that gives the ESTC its versatility. The balance between ideal description and material referent is successful because this is true to ESTC’s nature as a bibliographical workhorse, focused on the business of practical specification. For my own part, I would be uncomfortable seeing the ESTC moving into the realm of content provision or text searching, because that balance and that focus would both be lost. They are essential to the identity of this indispensible public resource. (Bullard 750)  
 
-Other work which has used the methodology of sampling includes 
-
-
-
-Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
-
 I created a “content set” called ECCO-1798 in Gale Digital Scholar Labs, by searching for all works in ECCO published “between” 1798 and 1798. This located 4,158 records. I downloaded the metadata for these 4,158 records as a CSV. I then used random.org’s “Random Integer Generator” to generate ten integers from 1 to 4,158 (inclusive), resulting in the following numbers: 1792, 2365, 159, 3511, 919, 170, 2136, 2259, 190, and 2242. I looked up the ten works appearing in those rows of the spreadsheet, without altering the order of the records from Gale’s default. (It is unclear to me what sorting method was used to organize them in the document.) I used the Gale Content Numbers of these ten works to create a new “content set” of just these ten titles.  
 
 159 - Poetry; original and selected	Monograph	Monograph	Literature and Language I.	\[1796-98\]	Gale	London, United Kingdom		British Library	null	GALE\|CW0115892706	
@@ -2796,55 +3024,9 @@ Circulating libraries? Maybe one specific library, to be feasible?
 
 Reprints??  
 
-A collocation formula like “ix,\[3\],68\[i.e. 60\]p. ; 4⁰” (the physical description of Smith’s T*he Emigrants* provided in the ESTC, ECCO, and ECCO-TCP) is no more transparent and obvious in meaning than the following markup:
-
-\<listPrefixDef\>
-
-\<prefixDef ident="tcp"
-
-matchPattern="(\[0-9\\-\]+):(\[0-9IVX\]+)"
-
-replacementPattern="https://data.historicaltexts.jisc.ac.uk/view?pubId=ecco-$1&index=ecco&pageId=ecco-$1-$20"/\>
-
-\<prefixDef ident="char"
-
-matchPattern="(.+)"
-
-replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/\>
-
-\</ListPrefixDef\>
-
-Indeed, the collocation formula is less transparent than simple markup like the following:
-
-\<titleStmt\>
-
-\<title\>The emigrants, a poem, in two books. By Charlotte Smith\</title\>
-
-\<author\>Smith, Charlotte Turner, 1749-1806.\</author\>
-
-\</titleStmt\>
-
-It may even compare unfavorably to relatively well-commented code, like the following:
-
-| \# iterate through the directory ||
-|  | for filename in listdir\_nohidden("./" + directory): |
-| -----: | :----- |
-|  |  |
-|  | \# define the path to this file |
-|  | path = "./" + directory + "/" + filename |
-|  |  |
-|  | \# strip the file's namespace |
-|  | try: |
-|  | xmlstring = stripNamespace(path) |
-|  | except: |
-|  | print "error stripping namespace of file %s" % (filename) |
-
-
-What these comparisons intend to illuminate is *not* that collocation formulae ought to be simpler or more accessible. Rather, my point is that specialized encoding serves a practical purpose, and that it is a matter of training which determines what encodings will seem natural and useful.  
-
 Vincent Carretta sees a lull in abolitionist activities during the late 1790s. Do I see anything like that?  
 
-As these examples from Bode and Underwood show, it is increasingly rare for DH scholars to present their own research with sweeping claims to unmediated truth. Indeed, beyond Moretti and Jockers, it can be hard to find the bombastic claims with which DH has become associated.[^cf36] \[TODO-RESEARCH: cite 4-5 examples, one sentence summary / one sentence quote from each.\]  
+As these examples from Bode and Underwood show, it is increasingly rare for DH scholars to present their own research with sweeping claims to unmediated truth. Indeed, beyond Moretti and Jockers, it can be hard to find the bombastic claims with which DH has become associated.[^cf37] \[TODO-RESEARCH: cite 4-5 examples, one sentence summary / one sentence quote from each.\]  
 
 “Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode *World* 47)  
 
@@ -3147,14 +3329,16 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [^cf30]: As an example of the frustrating impacts of the need to brand services as universally useful: I attended a daylong university workshop about the new Gale Digital Scholars Lab in the company of a medievalist who arrived, discovered that no medieval materials were available in the Digital Scholars Lab, nor even the Early English Books Online collection, and spent the morning awkwardly listening to speakers effuse about the incredible scope of U of T’s subscriptions.
 
-[^cf31]: “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369).
+[^cf31]: Readily-available works on astrology and almanac print culture begin with, for example, Bernard Capp’s *Astrology and the Popular Press: English Almanacks, 1500-1800*, Faber, 1977. More recent work includes Timothy Feist, “The Stationers' Voice: The English Almanac Trade in the Early Eighteenth Century,” *Transactions of the American Philosophical Society*, volume 95, number 4, 2005, pp. i-129; Ivana Dragoş, “Astrology and the Demotic Press: Almanacs in Eighteenth-Century England.” *Anafora*, volume 5, issue 2, 2018; and Jennifer C. Mori, “Popular Science in Eighteenth Century Almanacs: The Editorial Career of Henry Andrews of Royston, 1780--1820.” *History of Science*, volume 54, number 1, March 2016, pp. 19--44
 
-[^cf32]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
+[^cf32]: “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369).
 
-[^cf33]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
+[^cf33]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
 
-[^cf34]: One exception to this assumption has to do with treatment of the character ſ, which the TCP file modernizes to an s, but which HathiTrust renders as ſ. To avoid penalizing HathiTrust for “inaccuracy” when it is actually a more accurate reproduction of the page than my reference point, I amended every instance of ſ in HathiTrust to an s.
+[^cf34]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
 
-[^cf35]: Leaving the ſ characters unchanged in the HathiTrust document resulted in a .29 change from base (71% accuracy), so my normalization of ſ to s had a major impact on the comparison. I consider the .09 result more appropriate than the .29 because the normalized copy better reflects how an OCR file would be used.
+[^cf35]: One exception to this assumption has to do with treatment of the character ſ, which the TCP file modernizes to an s, but which HathiTrust renders as ſ. To avoid penalizing HathiTrust for “inaccuracy” when it is actually a more accurate reproduction of the page than my reference point, I amended every instance of ſ in HathiTrust to an s.
 
-[^cf36]: Even Moretti and Jockers do not go as far as the news media would like them to. \[TODO-RESEARCH: support claim that critiques of DH often respond implicitly to news coverage, not scholarship itself.\]
+[^cf36]: Leaving the ſ characters unchanged in the HathiTrust document resulted in a .29 change from base (71% accuracy), so my normalization of ſ to s had a major impact on the comparison. I consider the .09 result more appropriate than the .29 because the normalized copy better reflects how an OCR file would be used.
+
+[^cf37]: Even Moretti and Jockers do not go as far as the news media would like them to. \[TODO-RESEARCH: support claim that critiques of DH often respond implicitly to news coverage, not scholarship itself.\]
