@@ -1115,6 +1115,8 @@ Everything advertised on the title page is at least a full page long. Everything
 
 Simon Dickie’s *Cruelty and Laughter* makes the case for the ordinariness middle-class acceptability of crude forms of humour, by examining expensive joke books. He argues that these do not differ as much as we might expect from the cheap chapbooks that are more easily dismissed as belonging to a different social and literary sphere than the polite and sentimental works that are generally allowed to qualify as “literature.” This item does not appear to be of that class; it does not have middle-class pretensions/price tags. \[Unless the whole series does? Follow up on the “prose” tag\]  
 
+Whenever I find something that looks like it might be about working-class reading habits, its actually about, like, five novels --- NOT about chapbooks. Simon Dickie is practically the only person working on jokebooks, but he pretty explicitly isn’t interested in chapbooks, since he seeks to demonstrate that crass humour isn’t solely relegated to cheap working-class texts.  
+
 “Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.’”
 
 
@@ -2117,7 +2119,85 @@ P 260 - a long section of anecdotes against face-washes, with parallels to the V
 
 P 226 - a cure for scrophulous ulcers that Darwin tells secondhand from a 12yo boy
 
-Also--- sea scurvy!  
+Also--- sea scurvy!
+
+
+
+P 271 - infectious matter probably needs exposure to oxygen to become infectious
+
+
+
+P 273 - he doesn’t understand why syphilis affects tonsils because why would it transfer through saliva
+
+
+
+P 274 - leprosy of greeks, jews, and arabs
+
+
+
+P 283 - his first case study of “a servant man” --- who flees in fear from treatment
+
+
+
+P 285 - more inclusions of Charles’ work (including mentioning his gold medal!)
+
+
+
+P 293 - young lady with hereditary consumption
+
+He has a lot to say about consumption!
+
+P 297 - cheerfulness might be harmful to consumption patients so maybe fear should be induced instead
+
+
+
+P 305 - in the moonlight we are alarmed by seeing things as they really are seen, as eg a tree trunk looking flat instead of round
+
+
+
+P 305 - if you rub a man’s nipples they will become erect
+
+
+
+P 307 - the cure for ennui (“irksomeness of life”) is activity
+
+
+
+P 309 - anorexia, and young ladies destroying their beauty by fasting when they consider themselves too plump
+
+Also, farmer’s wives don’t drink enough with dinner
+
+
+
+P 317 diseases like nostalgia and “irksomeness of life”
+
+Class III is “diseases of the volition” or essentially psychological problems
+
+
+
+P 325 - screaming in pain, laughing
+
+
+
+P 326 - room full of female servants who get convulsions from lack of ventilation
+
+
+
+P 334 - references colic of Japan? Described by Kemfer
+
+
+
+P 343 - a small ulcer on the thigh (called an “issue”?) will cure your asthma; curing a sore on a woman’s leg caused her to die of respiratory disease
+
+
+
+P 349 Dr Bardsley has suggested that mad-dog disease could be eliminated by quarantining all dogs for 6 weeks
+
+
+
+P 351-2 - mental disorders like melancholy are usually called by false ideas and should be corrected by addressing the source of the painful idea. Also, travelling or sailing
+
+Also, don’t confine people unless they are a danger to themselves or others, or can’t manage daily life. “If every one, who possesses mistaken / ideas, or who puts false estimates on things, was liable to confinement, I know not who of my readers might not tremble at the sight of a madhouse!” (352-3)  
 
 P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
 
