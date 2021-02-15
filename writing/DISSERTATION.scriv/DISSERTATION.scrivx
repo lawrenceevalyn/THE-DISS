@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-13 12:42:00 -0500" ModID="0413CE93-C0DB-4BCC-9757-3F1B790076A6">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-14 19:08:50 -0500" ModID="5564CA13-BF47-44B8-B12D-D2A466211312">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1559,6 +1559,46 @@
                                     <TextSettings>
                                         <TextSelection>277,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="42B21320-93B5-4370-8D9C-3254DB27959F" Type="Text" Created="2021-02-14 16:37:00 -0500" Modified="2021-02-14 16:55:42 -0500">
+                                            <Title>"treatise on foreign teas"</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1108,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="15290705-6FF2-4DE2-B5DD-0077C3962D25" Type="Text" Created="2021-02-14 16:41:18 -0500" Modified="2021-02-14 16:41:40 -0500">
+                                            <Title>[Patent &amp; testimonials]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>204,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="5FCA1971-97C0-4798-BF3A-2EC93DDAB9C6" Type="Text" Created="2021-02-14 16:55:46 -0500" Modified="2021-02-14 17:15:28 -0500">
+                                            <Title>John Johnson Collectio</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2493,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="33B609D1-CB31-4075-BF65-97C6C0AF2FBC" Type="Text" Created="2021-02-14 17:13:35 -0500" Modified="2021-02-14 17:45:41 -0500">
+                                                    <Title>Mrs Lillian Thrussell</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1150,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="92948C81-27A3-439D-8BED-DCB028E6B661" Type="Text" Created="2021-01-31 02:52:45 -0500" Modified="2021-02-10 02:38:08 -0500">
                                     <Title>vicar</Title>
@@ -1832,13 +1872,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-12 00:59:13 -0500">
+                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-14 19:08:50 -0500">
                                     <Title>general zoonomia notes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4570,0</TextSelection>
+                                        <TextSelection>6681,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="00B2D319-7707-42D4-9C05-7F610B37185C" Type="Text" Created="2021-01-28 02:49:37 -0500" Modified="2021-01-28 02:50:21 -0500">
@@ -3266,7 +3306,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-11 23:25:56 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-14 17:25:00 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13598,13 +13638,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-02-13 12:41:43 -0500"></PreviousSession>
+        <PreviousSession Words="1748" Characters="10615" Date="2021-02-14 16:22:25 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-13 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2021-02-14 00:00:00 -0500">
+        <DraftWordCount>1748</DraftWordCount>
+        <DraftCharCount>10615</DraftCharCount>
+        <OtherWordCount>19</OtherWordCount>
+        <OtherCharCount>169</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
