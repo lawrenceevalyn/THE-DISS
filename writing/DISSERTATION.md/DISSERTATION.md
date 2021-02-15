@@ -1129,6 +1129,86 @@ As far as I can tell, the Gentleman’s Magazine does not include this kind of a
 
 I contacted the holding archive in Germany, writing a message in bad google-translate German!   
 
+The John Johnson Collection, an archive of printed ephemera associated with Oxford’s Bodleian Library, has pages images of the works that seem most similar in form to “Consolation for the scorbutic...”. Like that work, the “treatise on foreign teas” is an abstract from a larger treatise, presumably printed in order to advertise both the work itself and the cures it sells.
+
+The abstract begins with a tirade against the dangers of foreign teas, especially Indian and Chinese teas, with a discussion of their medical ill effects--- which at first made me think I was mistaken, and that there was no product being implicitly sold here. By the end, however, it begins discussing the comparative virtues of Dr. Solander’s sanative tea. The middle also includes critiques of coffee and chocolate as beverages.
+
+Perhaps as an indication of the common reception for this type of item, the pages were uncut until the Bodleian cut them for digitization.
+
+
+
+The shelfmark for this item is Patent Medicines 19 (12b), and it was bound with Patent Medicines 19 (12a), an advertisement for "Dr. Solander's Sanative English Tea.”
+
+Although it’s possible (based on Johnson’s focus on organizing archival materials) that the two were connected by him, given that the abstract was uncut when collected, it is more likely that is circulated in company with the advertisement (rather than being reunited after the fact). The other advertisement is also a multi-page work of prose, which was uncut until it was digitized.
+
+
+
+Neither of these items are recorded in ESTC
+
+
+
+Treatise on foreign teas: http://johnjohnson.chadwyck.co.uk.myaccess.library.utoronto.ca/search/displayItemFromId.do?ItemID=20080731171410mf&DurUrl=Yes
+
+http://johnjohnson.chadwyck.co.uk.myaccess.library.utoronto.ca/search/displayItemImage.do?&FormatType=fulltextimgsrc&ResultsID=17708CAA7A4&ItemNumber=2&ItemID=20080731134159mf&&PageNumber=3&shelfNumber=1#imageOpt  
+
+ESTC T27451: 	4p. ;  8⁰ An advertisement, with testimonials.
+
+Facsimiles in both ECCO and John Johnson: is it the Johnson copy which made it to ECCO?
+
+This one is held at the BL, Oxford, *and* Gottingen. The ECCO scan comes from the BL.
+
+
+
+It presents itself a little like “news” responding to the prevalence of fakes (which may actually have been a real problem?). Emphasizes what the “correct” seal will look like and say on an authentic bottle. Offers a reward of TEN THOUSAND POUNDS (all caps, at the head of a column) to anyone who can produce another recipe --- “In fact, he will answer *with his life*, that no such instrument exists!!!” and that therefore all other cures “remain, uniformly, unsupported with experimental facts, or references of cure.” (1)
+
+Most time is taken up with testimonials, all of which have names & dates attached. They appear to be in numerical order, “beginning with the 168^th^ above mentioned, which closed Mr. Hayman’s public list of acknowledgements to the end of the year 1799.” (1)
+
+Lots of strange medical assumptions in the explanation of how the drug works (and, indeed, how the disease works) --- but kind of consonant with Zoonomia?
+
+He’s also selling another product for “the nervous and debilitated of either sex” which again emphasizes not being misled into purchasing imitations, and specifies that he has the sole patent for “Vandour’s Nervous Pills” (page 4) --- he repeats a notice originally published in 1782.
+
+Interesting that in neither case does he claim to have developed the medicine, but still insists on his authority & right to monopolize it.  
+
+\[Patent and testmonials to James Rymer's patent Cardiac and Nervous Tincture\]: http://johnjohnson.chadwyck.co.uk.myaccess.library.utoronto.ca/search/displayItemFromId.do?ItemID=20070925154543lb&DurUrl=Yes  
+
+The John Johnson Collection itself illuminates the path to preservation which is necessary for a work like “Consolation for the scorbutic...” to survive two hundred years and remain findable by scholars.
+
+John Johnson, as an individual, somewhat eccentrically collected “everything which would ordinarily go into the waste paper basket after use, everything printed which is not actually a book” (Johnson, qtd in “Introduction,”  p 9).
+
+
+
+
+
+“Johnson was no defender of the indiscriminate collection of ephemera. He was to write to Gibson of the ‘deterrent lessons...to be read in the Nicholson ephemera in the Bodleian which were valueless in themselves and which could only have been destroyed if they had not become of value by scientific incorporation...’. What saddened him was the failure of such institutions as the Bodleian to see the value in the ‘scientific’ approach to such material.” (“Introduction p 9)
+
+“At the end he gave it as his opinion that the principal reason why we appeared to have some prospect of success was that we had broken clean away from all library technique which could not be adapted to such a purpose as this. In his opinion only those standing outside library technique and viewing the problem from a detached and experimental point of view had a chance of success. For instance, a library's card index of such a collection would be as big as the collection itself.” (Johnson qtd in “Introduction”, p 11)
+
+
+
+Here, too, economic conditions are core constituating factors: Johnson concludes that “it is indisputable that this collection could not have been formed economically, or at all, except by attachment to this Printing Business” (qtd in “Introduction, p 12), and he also discusses the importance of not announcing his intentions as a collector, so as to avoid driving up prices through increased demand.
+
+
+
+Johnson danced a balancing act in taking a non-library approach while also relying on the university/library value system to preserve what he was building: “Both the Press and the University were mentioned in the solicitation or acknowledgement of any gift, and it was laid down that there was to be no private property in these collections of any kind whatever. Nor were there to be any acts of dealing or sale.” (Johnson qtd “Introduction” p 11)
+
+“Thus the property of the University (through its Printing House) in the collections is absolute and has been secured at a very small net cost.” (Johnson qtd “Introduction” p 12)
+
+
+
+Johnson actually embraces the happenstance of uneven survivorship rates as a core pre-filtering practice to make historic archives sustainable: “what I may call contemporary collecting is out of the question. War-- time A.R.P. ephemera alone would fill room--space many times the whole existing space of the Sanctuary.... Thus we have made the outbreak of war the main terminus ante quem. There will still be supplementary acquisitions filling gaps in the past, and I hope that the future may be tempted to add out of the unconscious selection of the present, just as we in the present have added out of the unconscious selection of the past. This unconscious selection must always be the foundation of any collection which is both manageable and typical.” (Johnson qtd “Introduction” 12)
+
+
+
+“Late in 1967 the suggestion was made that perhaps the time had at last come when Johnson's Collection might be transferred to the Bodleian. For a number of years there had been a realization on the part of the Library that previous policies had been mistaken, that Johnson had demonstrated this, and that if his Collection was to be exploited it needed the setting of a major library. The Delegates of the Press and the Curators of the Bodleian welcomed the idea, and the transfer took place in May 1968.” (“Introduction” 13)
+
+It was then exhibited in 1971, with a catalogue published.  
+
+As another example of ‘widespread social phenomena being socially widespread,’ we can see the suggestion of an archival Josephine Miles, or a ‘thanks to my wife for typing my manuscript’ in the particular form of acknowledgement given to the labour of Lillian Thrussell. In contrast to the extensive detail provided about the events of Johnson’s life, Turner tells us only that Johnson was “assisted by” her “from the early days” (12). He gives her name in a form that humanizes her but denies the seriousness of her involvement: “Mrs. Lillian Thrussell (Miss Gurden), known to all users of the Collection simply as ‘Lil’” (12) carefully indicates her marital status, maiden name, and nickname but without indicating what her official role was, how she got involved, or what might have interested her about it. Turner’s praise suggests quite serious work: she was known for her “good memory and technical inventiveness,” and “a great deal of the actual collecting and selection was delegated to her” (12).
+
+Indeed, Thrussell’s continuity of scholarship seems to be greater even than Johnson’s --- she continued to oversee the collection for both Johnson’s successor and for *his* successor. Turner’s description of these events consistently strips Thrussell of agency, instead attributing it to the men: “After the war Mrs. Thrussell officially left the Press, but Johnson did not allow her to stop working for the Collection, for he continued to provide her with a great deal of sorting and mounting to be done at home. Johnson's death presented his successor, Mr. Charles Batey, with something of a problem, which was solved by his recalling Mrs. Thrussell to look after the Colection, under the supervision of Mr. Harry Carter, the Archivist to the University Press. When the Collection was transferred to the Bodleian in 1968 Mrs. Thrussell joined the Library staff in order to assist in the task of establishing it in its new home” (12-13). It is up to Johnson to *allow* Thrussell’s role in the collection, and he involves her by *providing* work to be done at home; Thrussell exists as a resource which Charles Batey can choose to *recall* to solve his problems when he is overwhelmed by the collecton, and Thrussell’s work is domesticated into the caretaking act of *looking after* the collection (naturally, under the supervision of somebody with proper authority, of course). At last Thrussell is the subject of her own verb when she “joined” the library staff, but this fact is related with as little curiosity as the only other action she took, when she “officially left” the press. We learned Harry Carter’s title: what was *her* title?
+
+Johnson himself perhaps knew that Thrussell’s role mattered--- Turner tells us that “\[m\]ore than once Johnson said that if the Collection was the child of his own inveterate love of collecting, it was ‘even more the child of the qualities’ of Mrs. Thrussell” (12) I myself am only speculating that Thrussell was likely an important mind behind the collection whose intellectual contributions have gone wrongly unacknowledged. A brief search did not turn up any other records of a Lillian Thrussel or a Lillian Gurden.  
+
 In comparison to all the other texts, the appeal of the Vicar of Wakefield is obvious: it’s funny on purpose, while also, I remain convinced, being completely in earnest about its moral values. An illustrative joke is the one about making sure to lend something to one’s least pleasant houseguests, so they won’t ever return: it’s a bit wry or cynical as a punchline, but in no way undermines the house’s hospitality, or the idea of hospitality itself as a virtue. I think the humour is there to cheer and engage the reader; it is not a cynical book, and therefore not satirical.
 
 
@@ -2195,9 +2275,127 @@ P 349 Dr Bardsley has suggested that mad-dog disease could be eliminated by quar
 
 
 
-P 351-2 - mental disorders like melancholy are usually called by false ideas and should be corrected by addressing the source of the painful idea. Also, travelling or sailing
+P 351-2 - mental disorders like melancholy are usually caused by false ideas and should be corrected by addressing the source of the painful idea. Also, travelling or sailing
 
-Also, don’t confine people unless they are a danger to themselves or others, or can’t manage daily life. “If every one, who possesses mistaken / ideas, or who puts false estimates on things, was liable to confinement, I know not who of my readers might not tremble at the sight of a madhouse!” (352-3)  
+Also, don’t confine people unless they are a danger to themselves or others, or can’t manage daily life. “If every one, who possesses mistaken / ideas, or who puts false estimates on things, was liable to confinement, I know not who of my readers might not tremble at the sight of a madhouse!” (352-3)
+
+
+
+P 354 - almost a pity to cure people of happy insanity
+
+
+
+P 356 - delusion about having gotten an STI that caused a man to strip his employees
+
+![][ScreenShot2021-02-14at6.23.14PM]
+
+
+
+P 357-8 - a woman who heard a voice telling her to repent, exactly as happens in conversion narratives all the time --- here presented as a symptom of mania, which causes melancholy, from which she must “recover”
+
+
+
+P 358 “melancholy” produced by “delusion”:
+
+![][ScreenShot2021-02-14at6.27.51PM]
+
+
+
+P 359 - the Gothic curse from an old woman that a man should never feel relief from cold! Presented as a real experience!! But also presented as an example of the man contracting a mania
+
+
+
+P 360 - postpartum depression
+
+
+
+P 363 - when a desire to sleep is preventing sleep, the patient should be told that the lack of sleep is of no consequence to his health.
+
+
+
+P 363-365 - discusses sentimental love! Includes discourses on the function of beauty, and beauty vs grace
+
+This kind of love is a mania, which can culminate in suicide or revenge--- “As was lately exemplified in Mr. Hackman, who shot Miss Ray in the lobby of the playhouse. So the poet describes the passion of Dido \[Latin quotation follows\]
+
+![][ScreenShot2021-02-14at6.44.14PM]
+
+
+
+P 366 references the past of France --- encountering vanity in  “Paris, when Paris was the center of politeness” and “the court of France, when France had a court”
+
+
+
+P 367 - quotes Goldsmith in his explanation of nostalgia
+
+
+
+P 368 religious mortification and fear of hell
+
+
+
+P 370 the cure of ambition (much inflamed by Homer) “must be taken from moral writers”
+
+
+
+P 371 in the treatment of grief, tears are a good symptom. “The melioration of grief by time, and its being at length even attended with pleasure, depends on our retaining a distinct idea of the lost object, and forgetting for a time the idea of the loss of it.” (371)
+
+P 372 best consolation is from Tristram Shandy
+
+![][ScreenShot2021-02-14at6.55.30PM]
+
+
+
+P 373 suicidal depression and examples of suicide
+
+P 374 cures include marriage and science
+
+in many cases the cause is actually a concealed maniacal idea rather than actual tedium of life
+
+
+
+P 375 loss of beauty --- he describes some ineffective cosmetics and then says the cure must be sought from moral writers and the cultivation of virtues other than beauty
+
+
+
+P 377 cure the maniacal fear of poverty by studying math
+
+
+
+P 379 fear of hell
+
+![][ScreenShot2021-02-14at7.08.27PM]
+
+
+
+P 380 Marriage is a cure for lust
+
+
+
+P 382 imaginary syphilis happens in those who don’t have it but “have only deserved it”
+
+
+
+P 383 the fear of ill effect from masturbation
+
+![][ScreenShot2021-02-14at7.19.50PM]
+
+
+
+P 385 - need enough sympathy to be good people but not so much that life is unbearable. He plans to say more when he publishes about his boarding school for ladies!
+
+
+
+P 385 the goal of education is to produce meritorious insanities
+
+![][ScreenShot2021-02-14at7.22.30PM]
+
+![][ScreenShot2021-02-14at7.23.40PM]
+
+
+
+P 393 unwillingness to amuse oneself
+
+![][ScreenShot2021-02-14at7.26.36PM]  
 
 P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
 
@@ -3336,6 +3534,24 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-01-29at8.19.59PM]: ScreenShot2021-01-29at8.19.59PM.png width=615px height=164px
 
 [ScreenShot2021-01-29at9.44.33PM]: ScreenShot2021-01-29at9.44.33PM.png width=601px height=215px
+
+[ScreenShot2021-02-14at6.23.14PM]: ScreenShot2021-02-14at6.23.14PM.png width=567px height=268px
+
+[ScreenShot2021-02-14at6.27.51PM]: ScreenShot2021-02-14at6.27.51PM.png width=567px height=465px
+
+[ScreenShot2021-02-14at6.44.14PM]: ScreenShot2021-02-14at6.44.14PM.png width=592px height=460px
+
+[ScreenShot2021-02-14at6.55.30PM]: ScreenShot2021-02-14at6.55.30PM.png width=570px height=239px
+
+[ScreenShot2021-02-14at7.08.27PM]: ScreenShot2021-02-14at7.08.27PM.png width=566px height=430px
+
+[ScreenShot2021-02-14at7.19.50PM]: ScreenShot2021-02-14at7.19.50PM.png width=574px height=503px
+
+[ScreenShot2021-02-14at7.22.30PM]: ScreenShot2021-02-14at7.22.30PM.png width=610px height=562px
+
+[ScreenShot2021-02-14at7.23.40PM]: ScreenShot2021-02-14at7.23.40PM.png width=565px height=151px
+
+[ScreenShot2021-02-14at7.26.36PM]: ScreenShot2021-02-14at7.26.36PM.png width=577px height=398px
 
 [ScreenShot2021-01-28at2.49.22AM]: ScreenShot2021-01-28at2.49.22AM.png width=578px height=297px
 
