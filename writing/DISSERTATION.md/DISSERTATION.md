@@ -171,7 +171,9 @@ I will also correlate gender and genre. This preference for particular kinds of 
 
 In my fourth chapter, I playfully attempt what might be considered a devil’s advocate method of textual selection: pure random sampling. Using a random number generator, I select arbitrary texts to close read, and weave together a narrative of 1790s print from their contents. Much of my work will involve defining and justifying the parameters for my random selection --- ESTC, or a full-text database? How many texts? From which years? --- but once I have taken my sample, I will not re-sample. For each text, I explore the path which brought it into the databases in question, and what scholarship (if any) might be used to interpret it. How far afield do I have to look, to find scholarly conversations addressing each text? What, if anything, can be produced by placing them in conversation? This methodology is inspired by work in the field of speculative computing, a practice of creating strange and possibly non-functional programs in order to generate productive forms of surprise.  
 
-A final brief conclusion to this dissertation offers an assessment of the role of digital textual collections in contemporary literary study.
+A final brief conclusion to this dissertation offers an assessment of the role of digital textual collections in contemporary literary study.  
+
+Comprehensiveness is a fantasy: one of the goals of this dissertation is to examine the function and effects of that fantasy --- and to occupy an ambiguous position of both identifying the impossibility of the fantasy, and attempting to see a path to get closer to its fulfillment.
 
 
 
@@ -751,6 +753,8 @@ What do these database histories mean for scholars of eighteenth century literat
 
 Twitter thread about “HottieTrust”: https://twitter.com/stynnelahl/status/1357707454918885378  
 
+Large-scale book scanning seems to be over now that Google Books is no longer doing it. Allen Riddell at his talk seemed to take it for granted that the existing scans are what we will probably need to work with.  
+
 Hart divides the works hosted on Project Gutenberg into three categories: “light literature,” “heavy literature,” and “references.”
 
 
@@ -999,7 +1003,9 @@ ESTC offers a ‘uniform title’ of “Children in the wood; or the Norfolk gen
 
 T194212 is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.”  
 
-This single sheet item was, according to the ESTC, “issued as a Parliamentary paper” (“ordered to be printed 17th April 1795”) and exists in three academic libraries. It is also reproduced in facsimile in volume 91 of the 1975 printed resource *House of Commons sessional papers of the eighteenth century*, edited by Sheila Lambert --- a work with 147 volumes! HathiTrust has scans of many of these volumes, but, heartbreakingly, not volume 91. HathiTrust goes from 89 to 92. Abebooks sells volumes 2 and 90, for very modest prices!  
+This single sheet item was, according to the ESTC, “issued as a Parliamentary paper” (“ordered to be printed 17th April 1795”) and exists in three academic libraries. It is also reproduced in facsimile in volume 91 of the 1975 printed resource *House of Commons sessional papers of the eighteenth century*, edited by Sheila Lambert --- a work with 147 volumes! HathiTrust has scans of many of these volumes, but, heartbreakingly, not volume 91. HathiTrust goes from 89 to 92. Abebooks sells volumes 2 and 90, for very modest prices!
+
+Although this is a very boring document (and at a single sheet is practically “ephemera”), its official governmental role greatly increased its survivorship--- not only preserved as an original, but reproduced in a new technology, even if not (yet?) reproduced a second time.  
 
 17 April 1795 - Mr Owen (from the Directors of the East India Company) presents accounts & papers t0 the House of Commons: 23 items, of which the thing I want is no. 22. It was ordered that they lie on the table and that copies be made. No mention of the activity appears to be made in the recorded debates
 
@@ -1063,6 +1069,30 @@ There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with b
 
 “It is considered to be inconsistent with our Institution to contribute, *in the Name of the Corps*, to any public or private Subscription, every Gentleman having an Opportunity of contributing in his individual Capacity according to his Inclination and Abilities.” (29)  
 
+Cookson seeks to contextualize the mass volunteering 1793-1815. The previous interpretations saw volunteers as loyalists with cover-revolutionary/counter-radical ideas. Cookson wants to re-examine this assumption because the volunteer movement’s “social base was urban and middle class to a degree that has never been appreciated,” a fact which he uses to support the argument that “A great deal of patriotic activity originated from and was controlled by the urban middle classes, who... used it to legitimate their concerns and secure their status against an enormously powerful hierarchy.” (868) R. J. Morris has argued that voluntary societies in general “became increasingly important instruments of class” (Cookson 868).
+
+For important figures in towns who did not have aristocratic status, “Volunteering had a threefold attraction: it enabled them to act independently of ‘the county’; it gave them a conspicuous part in public life; it served as an expression of the power they wielded within their own communities” (872). This perhaps does not apply in London--- London was, after all, the locale against which all other “local” communities must compare themselves--- and yet the rulebook’s emphasis on uniforms and comportment suggest a related impulse towards displaying its members’ importance.
+
+The corps themselves were often a bit too inchoate and heterogeneous to be effectively employed (882). Their status was always, at the core, civilian: “As civilian bodies, ultimately they trained as they liked, under rules agreed by the corps but effectively enforced by the personal authority of the officers. The most the army could do to resolve the contradictions between civilian status and military service was to make known its requirements” (883).
+
+
+
+Importance of uniforms, p 884-885:
+
+![][ScreenShot2021-02-16at2.42.46AM]
+
+![][ScreenShot2021-02-16at2.42.53AM]
+
+
+
+
+
+**What class are the light-horse volunteers?**  
+
+Although the ordinary volunteer companies seem associated with the middle class or even working class (cf Cookson), the volunteer cavalry is closely linked to the aristocracy (Gilks 204). Uniforms were acknowledgedly costly, and the most generous benefactors could be rewarded with more senior commissions. Ultimately, as a result, “Only six of the 49 peers and baronets who joined the Volunteer Cavalry in 1794 were commissioned to a rank below captain, and three of these men were... commanded by another member of the aristocracy” (205). The result over the next few years was “the domination of one arm of Britain’s reserve army by a small, but wealthy and influential, stratum of society” (206). In many counties, the Volunteer Cavalry units would be monopolized for decades by individual families, which Gilks suggests created “what could be considered a private army, and ... a representation of that family’s attitudes, wealth, an status within the county.” (209) Gilks describes several counties’ volunteer forces which adopted the colours or symbols of the relevant family’s crests as key parts of their uniforms.
+
+Gilks concludes that “Individuals lavished thousands of pounds on specially designed uniforms, as well as buying the latest weaponry and saddlery, but this was not simply to satisfy their own vanity,” because “Most of the money spent by these aristocratic patrons on corps of Volunteer Cavalry was for the benefit of the men that served in them.” As Cookson had already shown, however, spending money on other people’s uniforms can be an even larger scale display of vanity and status. Gilks ends with an odd encomium: “the Volunteer Cavalry would have struggled to remain in existence into the twenty-first century and to form part of the Territorial Army had it not been for the leadership and support given by the aristocracy” (215).  
+
 She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
 
@@ -1071,11 +1101,15 @@ It opens with a lot of discussion of London’s vices and God’s goodness, and 
 
 
 
-The ESTC mentions two physical holdings--- one in the Bodleian, one in the Somerset Archaeological and Natural History Society. The Bodleian copy includes it as part of a bound volume of 87 chapbooks. The SANHS database doesn’t show a copy.
+Goodall makes two claims to authority--- one based on her own past predictions, and one based on her status as a pupil of the “celebrated” Don Furioso. I can’t find the grounds for either of these, suggesting that Furioso might not have been so “celebrated” --- or that we have very poor records of who is “celebrated.”
+
+
+
+The ESTC mentions two physical holdings--- one in the Bodleian, one in the Somerset Archaeological and Natural History Society. The Bodleian copy includes it as part of a bound volume of 87 chapbooks, which appears to have been bound by Sotherans in the 19thC. (I tweeted to Sotherans about it to see if they knew anything.) The SANHS database doesn’t show a copy.
 
 The ESTC record mentions that “TAUa copy bears MS. date 1794” but I don’t know what the TAUa copy is.  
 
-This little chapbook offers a different entry point to late eighteenth-century than the almanacs which have received (comparatively) more attention.[^cf31]  
+This little chapbook offers a different entry point to late eighteenth-century astrology than the almanacs which have received (comparatively) more attention.[^cf31]  
 
 José M. Vaquero describes a different observer of the same 1794 that Goodall describes. Gaspar Melchor de Jovellanos was a respectable “statesman, author, historian and philosopher” in Spain (Vaquero n. pag.), to which Vaquero seeks to add evidence of his scientific activity. Vaquero is himself chiefly interested in the value of Jovellanos’s historic observational data in the contemporary study of stratospheric aerosol: Jovellanos’s description of the moon’s colour “indicates that the stratosphere around 1794 seems to have been undisturbed volcanically,” as expected (Vaquero n. pag.).
 
@@ -1265,19 +1299,29 @@ The perversity of this method might seem like a bad-faith interpretation of lite
 
 The problem with arbitrary textual selection is not that one cannot find traces of historical processes; it’s a rhetorical-narrative problem. Underwood and Piper both discuss the fact that part of what a literary scholar does is *tell a good story*. It can be hard to tell a good story about an invoice, especially when one cannot even read the invoice itself.  
 
+One of the pleasurable impulses that drives literary-historical research is the feeling that one’s explorations are special. Often it can seem as if you are the first person to read, or to care about, a text or a person in hundreds of years. That intimacy across time gains its sacred aura in part from its exclusivity; to love Jane Austen has a very different tenor than if one loves Charlotte Smith, or loves Susannah Goodall. Sharing one’s discoveries is a double-edged sword: love asks to be shared, but if it is shared *too* successfully, one’s own love may be threatened with diminishment, lost in a more general and therefore less special love.
+
+Selecting items completely at random may seem to be a poor methodology to find a new love. But what reparative reading shows us is that the object of love need not be *worthy* of that love; it may shape or colour the form of love, but the “plenitude” comes from the lover, not the beloved. Any object becomes lovable when examined with a loving eye. To observe, in minute detail, is to love.
+
+
+
+Literature is, surely, tied to cultural capital. But it is also tied to pleasure, and potentially to love. When we discuss literature with others, we enter capital’s world; one may wish to seem erudite, or one may wish to seem “hip,” and one may present a particular literary ‘face’ accordingly. But the literature one discusses need not align too closely with the literature one *loves*. \[This is too bland/generic, but also possibly getting toward the important thing\]  
+
+A lot of work of comprehensive bibliography--- and especially a lot of digital work attempting use use bibliography to answer sociological questions--- is focused on the novel. Riddell bases practically everything on the Garside. Why did the Garside study the novel?  
+
 In earlier chapters, especially chapter 1, the 1790s provided a backdrop to explore my real subject of contemporary literary databases. In this chapter, however, my real subject is 1790s print culture in England; I am curious about how this subject might be illuminated differently through my unusual sampling method (in the vein of speculative computing) but several of my sampling principles are defined around the goal of actually acquiring sufficient titles to answer my questions. First, for example, I decided to work with my “post-cleaning” sample, to exclude non-English or non-1790s works. Although it is interesting to note the “false positives” that appear, their presence in the sample would limit my ability to comment meaningfully on my actual subject, 1790s print in England. I also decided that I would re-sample from ECCO instead of the ESTC if I could not find a way to personally read at last five of the works in the ESTC sample.
 
 I preferred to select my texts from the ESTC because it is the largest/broadest corpus from which I can sample. This would allow me to perform another case study “spot check” like the exploration of Charlotte Smith’s works in chapter 1: of the works I read from the ESTC, which are also available in other resources, and why? Sampling from ECCO instead would eliminate the possibility of finding works present in, eg, HathiTrust but *not* ECCO, and reduces the ability of this experiment to illuminate the database ecosystem. Nonetheless, I prefer in this chapter to limit my observations about databases in order to increase my ability to discuss the 1790s in England.
 
 I considered balancing my sample chronologically, e.g., taking one work from each year 1789-99. Doing so would reduce the chance that my random sample would overrepresent more productive years. However, I decided that such chronological overrepresentation would be exactly the kind of phenomenon I’d like to discover.  
 
-Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
-
 To take my sample, I used my “ESTC records - cleaned” spreadsheet from OpenRefine, which included 51,090 rows of data. I installed the “GOKb Utilities extension” for OpenRefine (https://github.com/ostephens/refine-gokbutils). I created a column called “Random number,” using the function randomNumber(0, 51090) (per https://stackoverflow.com/questions/46063173/how-to-make-a-random-sample-in-openrefine). However, when I sorted the data numerically, I saw that this did not give them all unique numbers (the first 10 went 1, 2, 3, 3, 5, 6, 6, 7, 7, 8) so this was not what I needed.
 
 So then I created a new column called “Row number,” using the GREL formula “row.index + 1” (which, despite the +1, filled the column with the exact row number that OpenRefine had assigned).  First I decided to reorder the rows permanently by the “Random number” column; even though that method hadn’t given each row a random unique identifier, it did sort them more randomly than any order sorting method could have accomplished. I spot-checked the new “Row number” column and it appeared to go appropriately from 1 to 51090.
 
 Then it was time to choose 10 random numbers between 1 and 51090 (inclusive). I used the random.org Random Integer Set Generator to generate 1 set with 10 unique random integers, with each integer between 1 and 51090 (inclusive). This generated the following set: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. I then looked up each of those row numbers in OpenRefine to find my titles.  
+
+Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
 
 **3585**
 
@@ -3344,6 +3388,10 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [pastedGraphic-1]: pastedGraphic.png
 
 [pastedGraphic-2]: pastedGraphic.png
+
+[ScreenShot2021-02-16at2.42.46AM]: ScreenShot2021-02-16at2.42.46AM.png width=542px height=158px
+
+[ScreenShot2021-02-16at2.42.53AM]: ScreenShot2021-02-16at2.42.53AM.png width=543px height=155px
 
 [ScreenShot2020-12-08at1.40.54AM]: ScreenShot2020-12-08at1.40.54AM.png width=515px height=502px
 
