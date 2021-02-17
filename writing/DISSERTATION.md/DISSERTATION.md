@@ -1117,21 +1117,33 @@ Jovellanos’s diary for February 14 1794 reads: "La noche clarísima: ni una nu
 
 How widespread was scientific knowledge of eclipses? Certainly, Goodall illustrates that the more rational/enlightened approach could coexist with superstitious thinking. Am I falling into a high/low trap here with a rational vs populist binary?  
 
-Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
-
-
-
-Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway.
-
-In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...  
-
 This is an unsigned single-sheet document. I know far more about the piece of paper than the contents: the ESTC describes it as 1 sheet ;  1/2⁰ with dimensions of 34.6 x 20.8cm and horizontal chain lines. There is also an uncontrolled note saying that the record is based on “Lpro copy with other material from 1792”
 
 The shelfmark, HO.42/23 \[632\], points in the London National Archives to “HO 42. Letters and papers. Piece described at item level.” This consists of a whole lot of correspondence sent to the Home Office, which has actually been scanned! Things are stamped with numbers in the upper-right.... And OH MY GOD 632 SHOWS A SCANNED COPY OF THE ACTUAL DOCUMENT, FREE TO THE PUBLIC AND RIGHT HERE, I CANNOT BELIEVE IT!!!! Image 940 shows the front, and image 941 shows the back. The item has its own record at http://discovery.nationalarchives.gov.uk/details/r/C10614791
 
 To find this image, I had to check the “HOLDINGS DETAILS” pane of the ESTC record (a field which somehow I only recently discovered), search the shelfmark at the  London National Archives, and guess that \[632\] referred not to a page or image number, but to an item.
 
-“Lpro” probably means London/local Public Records Office (former name for National Archives), per Cai  
+“Lpro” probably means London/local Public Records Office (former name for National Archives), per Cai
+
+
+
+Now that I’ve read it and it’s a strident political pro-Tom Pained tract, which implies that the king should be abolished.... Why did the Home Office have a copy??? It’s from 1792, potentially a very tense year.  
+
+It opens incredibly belligerently: “YOU who are of the lowest class of beings who can be called MEN; to you I address myself; to you who are the scum of the earth, and unworthy the notice of gentlemen.” But this is immediately shown to be satire in the second sentence, which describes some of the ‘crimes’ of the ‘Modern Reformers’: “many of you have had the audacity to read books of your own choosing, without being capable of judging which were fit, and which unfit for your perusal”.
+
+The chief ‘objection’ is that working class people of a range of occupations have read Tom Paine. It scoffs at the moral authority of priests and magistrates. Very sarcastic satire: “The clergy you know to be all good and pious men; they never get drunk, and curse and swear as you do... they never squander away their time in hunting, whoring, and gaming”.
+
+The satire suggests an aura of terror and counterrevolutionary action: “You know every Justice of the peace in the country is ready to receive information against You,” with many painful forms of execution listed as ‘appropriate’ punishments for the crime of reading Paine & presuming to have rights.
+
+It then suggests that the main takeaway from Paine is that all men have rights, and especially the right to know how their taxes are spent. Satirically: “you have no rights, but the rights of horses and beasts of burthen. The horse or the ass labours, and his master feeds him with such food as he thinks fit; so you labour for the rich, and are fed by them, and ought to be content with what they please to give you.” The emphasis is on the expenditure of government money: “This TOM PAINE tells you of the expences of government, that the kind has a million a Year; and there are many rascals in the country ... who grudge the poor king his salary that he labours so hard for, and would dock him to two hundred thousand pounds a Year” --- doing the math per day: “What, take of 2000l per day from his wages and allow him but 600l per day! Horrid miscreants! Who would starve their king!”
+
+The next target are appointed members of court, who are satirically termed “useful” for the support they give the king. The paper takes a potentially threatening turn when it imagines the lack of a kind. Without the “useful” supporters being paid their salaries, “a king would be no more than a cypher, he would never have his own way in any thing, all the men in power would be for ever contradicting him, and prating about the good of the nation, and the comfort and happiness of the poor, instead of the dignity of the crown; and then what would become of the king? We were as good have no king.------this TOM PAINE tells you that one man has 8000l. another 10,000l. another 6000l. Another 5000l. and so on; but he don’t tell you how useful these men are” --- here I find the long dash very interesting and suggestive, as well as the change to ‘incorrect’ language.
+
+The examples of useless attendants include the groom of the stool and the Lord of the Bed-chamber, roles whose existence infantilize the king and make the whole court seem ridiculous.
+
+Finally it “proves” that high taxes are beneficial to the poor by asking them to imagine, in detail, what it would be like if they didn’t have to pay any of a long list of taxes, and could get there everything for a third the cost; the anemic result is that you would be three times ad drunk from buying three times as much alcohol, so that “your families would be starved and Your master’s work would not be done.”
+
+It closes with another comparison of the working poor to horses: “It is your province to labour and live hard, and be thankful to the King, and WE Gentlemen, that you are not obliged to run in our carriages, and eat grains, as the poor do, in some countries.”  
 
 The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)
 
@@ -1150,6 +1162,16 @@ Everything advertised on the title page is at least a full page long. Everything
 Simon Dickie’s *Cruelty and Laughter* makes the case for the ordinariness middle-class acceptability of crude forms of humour, by examining expensive joke books. He argues that these do not differ as much as we might expect from the cheap chapbooks that are more easily dismissed as belonging to a different social and literary sphere than the polite and sentimental works that are generally allowed to qualify as “literature.” This item does not appear to be of that class; it does not have middle-class pretensions/price tags. \[Unless the whole series does? Follow up on the “prose” tag\]  
 
 Whenever I find something that looks like it might be about working-class reading habits, its actually about, like, five novels --- NOT about chapbooks. Simon Dickie is practically the only person working on jokebooks, but he pretty explicitly isn’t interested in chapbooks, since he seeks to demonstrate that crass humour isn’t solely relegated to cheap working-class texts.  
+
+Williams draws attention to jestbooks that present themselves as a cure for melancholy: “ The literature of mirth is generally predicated on the belief that unhappiness, in the form of melancholy, could only really be cured by a forceful injection of its opposite -- hilarity or joviality” (Williams 125). This reading of curative emotional experiences is supported by the frequency with which Darwin prescribes other emotions (like cheerfulness or surprise). Williams is interested in the class frissions that joke books also introduce, the pain caused by a joke that doesn’t land, and especially the antisocial potential of jokes. As she observes, “There was a fine line between idealized contentment through retired leisure, and the melancholy induced by idleness and solitude; a tension between the well being induced by jests and jokes, and the sense of alienation that this could also engender” (126).
+
+Williams is interested in the audiences of jestbooks, and especially the way they tailor themselves to groups --- though mine doesn’t suggest a particular audience. She also finds herself surprised by books that are “certainly not prim” or “not really polite fare” even when seemingly aimed at women or advertised as free of “gross Indecencies” --- suggesting that her/our standards for humour may be historically distant from the 18thC? She is particularly struck by the misogyny of the jestbook intended for women, which includes many men unhappy with their wives, as opposed to jokes more obviously at men’s expense. Trying to understand this book in light of the common theory that jokes build common culture through shared in- and out-groups, Williams says “the dynamics of exclusion are harder to pin down” (132).
+
+In general Williams is very loosey goosey with timelines; more than 200 years treated as one phenomenon or culture, which makes it hard to really know how to contextualize my jokebook.
+
+
+
+P 141 her conclusion: “ Looking more closely at how people read and used the literature of jest reveals the faultlines between theories of happiness, and the lived reality. We can see the way in which jokes and games were sometimes seen as an embodiment of friendship groups, and were thus especially valuable for those living in relative isolation -- often the same kind of rural seclusion that was elsewhere praised as a model of contented moderation. It also shows us the way sociable humour promoted inclusive ideas of general human well being, but that it was also frequently predicated on the exclusion of certain groups. ... It was based on the idea that other people’s joviality is infectious and curative. But printed jokes and games are of course, not the same as the company of real people, and in some ways, jestbook mirth is a culture of fun by proxy. If the eighteenth century was truly the age in which secular happiness was invented, it was also an age which discovered some of the limitations of a literature of happiness.”  
 
 “Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.’”
 
@@ -1278,6 +1300,14 @@ The second volume is focused solely on classifying diseases into classes, orders
 It was difficult to find secondary work on zoonomia, since most work on Erasmus is interested in the publications before and after: either they are interested in Erasmus as a literary figure, and discuss his Botanical Garden, or they are interested in him as a precursor to Charles Darwin’s theories of evolution, so they discuss his next work.
 
 Zoonomia gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. They’re not valueless, and perhaps did have impact as precursors to a true understanding of evolution, but they’re also not as accurate or complete as they have been presented. And, more importantly, they are not important *to Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,180 pages of this 1,200 page work.  
+
+Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
+
+
+
+Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway.
+
+In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...  
 
 Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?  
 
@@ -2439,7 +2469,67 @@ P 385 the goal of education is to produce meritorious insanities
 
 P 393 unwillingness to amuse oneself
 
-![][ScreenShot2021-02-14at7.26.36PM]  
+![][ScreenShot2021-02-14at7.26.36PM]
+
+
+
+P 406 - how not to freeze to death by burying yourself in snow like a rabbit
+
+Also, how to thaw frozen apples so they still taste good, a possible way to preserve more fruit frozen
+
+
+
+P 408-409 - credulity and ignorance
+
+![][ScreenShot2021-02-16at8.21.26PM]
+
+![][ScreenShot2021-02-16at8.21.58PM]
+
+
+
+P 409 - describes a child seeing itself in the mirror; tie to Freud & Lacan?
+
+
+
+P 410 - credulity is cultivated by religions which make skepticism into a sin, especially catholocism. Also decries medical credulity, and offers “the golden rule of David Hume” (410): “ ‘When two miraculous as-/sertions oppose each other, believe the less miraculous” (410-11) --- for example, don’t believe if somebody says they had smallpox twice.
+
+
+
+P 411 the cure for credulity:
+
+![][ScreenShot2021-02-16at8.26.47PM]
+
+
+
+P 445 - talking about nipples, does he switch to latin as a way to avoid being vulgar?
+
+![][ScreenShot2021-02-16at8.35.14PM]
+
+
+
+P 452 - anecdotes about his own case of gout (cure by abstaining from alcohol), presented as being about a patient “E.D.” --- Very interesting discussion of normal meals/beverages (eg cream & water or lemonade as typical drinks, and coffee & tea between meals).
+
+Then begins a very long letter from a friend of his, Robert Wilmot
+
+Both included “As example has a more forcible effect than simple assertion” (452) --- this is something he feels strongly about!
+
+
+
+P 457 the gout prescription, which includes the note to “keep the body open with two evacuations daily, if possible without medicine”
+
+
+
+P 472 using magnets to cure toothache; experiments to use oxygene to cure everything
+
+
+
+P 481 how a blind man stays upright / finds his balance
+
+
+
+P 481 tricking yourself into feeling something twice --- this works!
+
+![][ScreenShot2021-02-16at11.17.47PM]  
 
 P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
 
@@ -3600,6 +3690,16 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-02-14at7.23.40PM]: ScreenShot2021-02-14at7.23.40PM.png width=565px height=151px
 
 [ScreenShot2021-02-14at7.26.36PM]: ScreenShot2021-02-14at7.26.36PM.png width=577px height=398px
+
+[ScreenShot2021-02-16at8.21.26PM]: ScreenShot2021-02-16at8.21.26PM.png width=563px height=312px
+
+[ScreenShot2021-02-16at8.21.58PM]: ScreenShot2021-02-16at8.21.58PM.png width=566px height=222px
+
+[ScreenShot2021-02-16at8.26.47PM]: ScreenShot2021-02-16at8.26.47PM.png width=572px height=138px
+
+[ScreenShot2021-02-16at8.35.14PM]: ScreenShot2021-02-16at8.35.14PM.png width=568px height=249px
+
+[ScreenShot2021-02-16at11.17.47PM]: ScreenShot2021-02-16at11.17.47PM.png width=576px height=110px
 
 [ScreenShot2021-01-28at2.49.22AM]: ScreenShot2021-01-28at2.49.22AM.png width=578px height=297px
 
