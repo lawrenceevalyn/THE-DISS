@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-22 00:48:49 -0500" ModID="FC32100A-6F72-4002-BA34-FE88A0BCC44F">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-22 18:35:47 -0500" ModID="47E56B45-E21B-4E3C-BB57-DCFF8FB7E736">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1473,6 +1473,15 @@
                                                 <TextSelection>1823,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem UUID="A16315AF-35B5-4671-9CD9-076B1CB38B5C" Type="Text" Created="2021-02-22 17:41:48 -0500" Modified="2021-02-22 17:44:57 -0500">
+                                            <Title>babes McDowell</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>540,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="BEE83050-AF90-4830-A707-EBA4F29493E0" Type="Text" Created="2021-02-16 23:47:35 -0500" Modified="2021-02-16 23:47:39 -0500">
@@ -1499,10 +1508,18 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
+                                                        <TextSelection>2167,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="2F3AAE45-36C5-4874-8FBA-4ED9082405D2" Type="Text" Created="2021-02-22 17:04:42 -0500" Modified="2021-02-22 17:14:00 -0500">
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>98,0</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -1627,6 +1644,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1650,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="35EE8706-D450-4C2C-8ACD-7BDA6399972D" Type="Text" Created="2021-02-22 18:04:49 -0500" Modified="2021-02-22 18:25:24 -0500">
+                                            <Title>moon Knox</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2121,13 +2147,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-21 02:19:10 -0500">
+                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-22 01:16:12 -0500">
                                     <Title>general zoonomia notes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12412,0</TextSelection>
+                                        <TextSelection>13882,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="00B2D319-7707-42D4-9C05-7F610B37185C" Type="Text" Created="2021-01-28 02:49:37 -0500" Modified="2021-01-28 02:50:21 -0500">
@@ -3573,7 +3599,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-22 00:44:01 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-22 18:32:33 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13912,15 +13938,15 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="Yes">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="1356" Characters="8057" Date="2021-02-21 22:42:43 -0500"></PreviousSession>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-04-30 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">237</SessionTarget>
+        <PreviousSession Words="806" Characters="5409" Date="2021-02-22 14:58:44 -0500"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2021-02-22 00:00:00 -0500">
-        <DraftWordCount>707</DraftWordCount>
-        <DraftCharCount>4094</DraftCharCount>
-        <OtherWordCount>91</OtherWordCount>
-        <OtherCharCount>661</OtherCharCount>
+        <DraftWordCount>1717</DraftWordCount>
+        <DraftCharCount>10776</DraftCharCount>
+        <OtherWordCount>276</OtherWordCount>
+        <OtherCharCount>1903</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
