@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-20 22:00:28 -0500" ModID="E2430EBC-7592-4326-AB0D-53499A4BDAE6">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-22 00:48:49 -0500" ModID="FC32100A-6F72-4002-BA34-FE88A0BCC44F">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1484,14 +1484,25 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="93555F0E-650F-4A24-8B87-EA5121B54A95" Type="Text" Created="2021-02-01 15:38:21 -0500" Modified="2021-02-01 15:40:24 -0500">
-                                            <Title>converted</Title>
+                                        <BinderItem UUID="93555F0E-650F-4A24-8B87-EA5121B54A95" Type="Text" Created="2021-02-01 15:38:21 -0500" Modified="2021-02-22 00:20:35 -0500">
+                                            <Title>converted proxies</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>387,0</TextSelection>
+                                                <TextSelection>827,0</TextSelection>
                                             </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="7DEF4F94-04E3-41DA-A3E2-77E884185F7E" Type="Text" Created="2021-02-22 00:20:20 -0500" Modified="2021-02-22 00:42:49 -0500">
+                                                    <Title>proxy 1</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -1533,23 +1544,34 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="E0FFD792-2526-4647-9CC8-37A7755AAAFE" Type="Text" Created="2021-02-07 00:57:19 -0500" Modified="2021-02-10 01:13:31 -0500">
+                                        <BinderItem UUID="E0FFD792-2526-4647-9CC8-37A7755AAAFE" Type="Text" Created="2021-02-07 00:57:19 -0500" Modified="2021-02-21 23:50:41 -0500">
                                             <Title>light-horse proxies</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1208,0</TextSelection>
+                                                <TextSelection>273,0</TextSelection>
                                             </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="2281F61C-C96E-4F4B-85DE-B0C8422E2003" Type="Text" Created="2021-01-13 19:47:03 -0500" Modified="2021-02-10 02:08:42 -0500">
-                                            <Title>light horse proxy (12o)</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1207,0</TextSelection>
-                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="2281F61C-C96E-4F4B-85DE-B0C8422E2003" Type="Text" Created="2021-01-13 19:47:03 -0500" Modified="2021-02-21 23:51:04 -0500">
+                                                    <Title>light horse proxy (36p)</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1207,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="086690EF-5522-4D57-AF5B-7095948D296C" Type="Text" Created="2021-02-21 23:51:13 -0500" Modified="2021-02-22 00:01:38 -0500">
+                                                    <Title>light-horse proxy (243p)</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1205,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
                                         </BinderItem>
                                         <BinderItem UUID="306F6784-3D78-4364-BD2A-E2F8E1DB9E1A" Type="Text" Created="2021-02-16 02:25:20 -0500" Modified="2021-02-16 02:43:36 -0500">
                                             <Title>light-horse Cookson</Title>
@@ -1685,13 +1707,22 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="A078447C-1B5A-4B7E-A381-654587822CAB" Type="Text" Created="2021-02-20 21:36:56 -0500" Modified="2021-02-20 22:00:28 -0500">
+                                        <BinderItem UUID="A078447C-1B5A-4B7E-A381-654587822CAB" Type="Text" Created="2021-02-20 21:36:56 -0500" Modified="2021-02-20 22:21:55 -0500">
                                             <Title>Harrison</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>18,0</TextSelection>
+                                                <TextSelection>1405,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="1ED3D1E0-810D-407E-BA78-7C586C00C9CA" Type="Text" Created="2021-02-21 01:34:42 -0500" Modified="2021-02-21 01:52:31 -0500">
+                                            <Title>Mackintosh</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2914,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="4EE9D248-059D-4B46-9D01-3456795226A2" Type="Text" Created="2021-01-26 14:21:09 -0500" Modified="2021-01-26 22:43:35 -0500">
@@ -1721,13 +1752,12 @@
                                                 <TextSelection>986,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="15290705-6FF2-4DE2-B5DD-0077C3962D25" Type="Text" Created="2021-02-14 16:41:18 -0500" Modified="2021-02-14 16:41:40 -0500">
-                                            <Title>[Patent &amp; testimonials]</Title>
+                                        <BinderItem UUID="15290705-6FF2-4DE2-B5DD-0077C3962D25" Type="Text" Created="2021-02-14 16:41:18 -0500" Modified="2021-02-21 02:10:10 -0500">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>204,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="5FCA1971-97C0-4798-BF3A-2EC93DDAB9C6" Type="Text" Created="2021-02-14 16:55:46 -0500" Modified="2021-02-14 17:15:28 -0500">
@@ -1796,7 +1826,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2161,0</TextSelection>
+                                                <TextSelection>1081,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="32F2DB41-4BCE-4D0B-BEE4-17C1F8B6FB51" Type="Text" Created="2021-02-10 02:43:58 -0500" Modified="2021-02-10 02:51:10 -0500">
@@ -1806,6 +1836,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1350,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E3DBFCD5-26E0-4C2A-9C1F-6FA2738C55AB" Type="Text" Created="2021-02-21 22:58:04 -0500" Modified="2021-02-21 23:26:54 -0500">
+                                            <Title>Gould</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>311,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1829,6 +1868,17 @@
                             <TextSettings>
                                 <TextSelection>175,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="4416B16A-03F3-40D0-AC05-3CCC3AA97949" Type="Text" Created="2021-02-21 23:53:51 -0500" Modified="2021-02-21 23:54:20 -0500">
+                                    <Title>Dundas</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>127,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="8DA05B92-BF29-4020-93B3-D763841F3491" Type="Text" Created="2021-01-26 22:44:02 -0500" Modified="2021-01-26 22:49:59 -0500">
                             <Title>relentless materiality of the digital</Title>
@@ -1839,13 +1889,13 @@
                                 <TextSelection>1346,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C3D6C016-8031-47DA-A981-CF55D543504D" Type="Text" Created="2021-01-27 15:25:04 -0500" Modified="2021-02-02 15:08:44 -0500">
+                        <BinderItem UUID="C3D6C016-8031-47DA-A981-CF55D543504D" Type="Text" Created="2021-01-27 15:25:04 -0500" Modified="2021-02-21 22:57:46 -0500">
                             <Title>length is also a barrier</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1418,0</TextSelection>
+                                <TextSelection>2361,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="F94A48CC-364D-48BA-AB09-F421376D47B8" Type="Text" Created="2021-02-08 21:59:39 -0500" Modified="2021-02-08 22:02:02 -0500">
@@ -2071,13 +2121,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-19 01:52:27 -0500">
+                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-21 02:19:10 -0500">
                                     <Title>general zoonomia notes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12190,0</TextSelection>
+                                        <TextSelection>12412,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="00B2D319-7707-42D4-9C05-7F610B37185C" Type="Text" Created="2021-01-28 02:49:37 -0500" Modified="2021-01-28 02:50:21 -0500">
@@ -2087,6 +2137,24 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>68,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F558A3F4-BA15-4680-98B3-357156EE7AFB" Type="Text" Created="2021-02-21 02:45:58 -0500" Modified="2021-02-21 02:48:21 -0500">
+                                    <Title>Matlak: WW on Zoonomia</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>22,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AF3549F8-0358-4763-9E1E-E43AE76CD84A" Type="Text" Created="2021-02-21 23:37:01 -0500" Modified="2021-02-21 23:41:06 -0500">
+                                    <Title>Hassler</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>384,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3505,7 +3573,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-20 21:58:46 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-22 00:44:01 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13846,13 +13914,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-03-01 02:21:51 -0500" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">600</SessionTarget>
-        <PreviousSession Words="705" Characters="4576" Date="2021-02-20 21:34:05 -0500"></PreviousSession>
+        <PreviousSession Words="1356" Characters="8057" Date="2021-02-21 22:42:43 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-20 00:00:00 -0500">
-        <DraftWordCount>705</DraftWordCount>
-        <DraftCharCount>4576</DraftCharCount>
-        <OtherWordCount>33</OtherWordCount>
-        <OtherCharCount>205</OtherCharCount>
+    <RecentWritingHistory Date="2021-02-22 00:00:00 -0500">
+        <DraftWordCount>707</DraftWordCount>
+        <DraftCharCount>4094</DraftCharCount>
+        <OtherWordCount>91</OtherWordCount>
+        <OtherCharCount>661</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

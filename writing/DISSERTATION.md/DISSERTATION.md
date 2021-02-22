@@ -925,15 +925,15 @@ We have not truly grappled with the challenge that the eighteenth century poses 
 
 My random sample suggested a 1794 Liverpool edition 8p. ;  12⁰. This particular version of the ballad has not been digitized, but I located five other copies in ECCO from the 1790s:
 
-CW0117256783 N.p., \[1790?\] 1 sheet : ill. ; obl.1/2°
+STC T192107 CW0117256783 N.p., \[1790?\] 1 sheet : ill. ; obl.1/2°
 
-CB0126648281 S.n., \[1790?\] 8p. ; 8° (adds The Chimney Sweeper)
+STC T222523 CB0126648281 S.n., \[1790?\] 8p. ; 8° (adds The Chimney Sweeper)
 
-CB0127621441 \[s.n.\], Printed in the year 1796 8p. ; 12° (adds Johnny Coup)
+STC T52073 CB0127621441 \[s.n.\], Printed in the year 1796 8p. ; 12° (adds Johnny Coup)
 
-CB0127895166 \[Edinburgh? : s.n.\], 1799. 8p. : ill. ; 12° (adds Johnny Coup)
+STC T177930 CB0127895166 \[Edinburgh? : s.n.\], 1799. 8p. : ill. ; 12° (adds Johnny Coup)
 
-CB0126649552 Edinburgh : Printed by J. Morren, \[1800?\]. 8p. : ill. ; 12° (adds The Yorkshire Beauty)
+STC T188936 CB0126649552 Edinburgh : Printed by J. Morren, \[1800?\]. 8p. : ill. ; 12° (adds The Yorkshire Beauty)
 
 
 
@@ -1001,7 +1001,57 @@ ESTC offers a ‘uniform title’ of “Children in the wood; or the Norfolk gen
 
 1967 March, R.D. Barrett-Leonard: “They are said to be members of the De Grey family, but which ones?”  
 
-T194212 is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.”  
+Dugaw, writing in 1987, seeks to revise the scholarly understanding of the eighteenth century ‘ballad revival.’ This ‘revival’, Dugaw says, had been conventionally understood as a revival in antiquarian and literary appreciation for ballads --- “an openly ackowledged interest in the ballad *on the sophisticated level*” (Albert Friedman, qtd in Dugal 71, emphasis original) and therefore unrelated to the actual singing of ballads by the ballad’s ‘real’ or ‘original’ audience of working-class people. Dugaw identifies a version of this “sophisticated” antiquarian interest even in ‘popular’ audiences, as demonstrated through the marketing of ‘old’ ballads. She says: “Trained to only view literary culture from the top down, modern scholars have overlooked the significant popularity of ‘ancient’ ballads in the lowbrow street literature... The fact is, ordinary people, who did not belong to what Friedman calls the ‘literary world,’ purchase ballads marketed explicitly for their historical and antiquarian value” (72). That emphasis on the “top down” view of literary culture indicates an interesting critique of the methodological blind spots of a certain way of studying literary history.
+
+My randomly-chosen copy of “Babes in the Wood” therefore seems to participate in this tradition, in its description of itself as “The excellent *old* ballad.” In this, it differs from three of the copies I’ve used as proxies: STC T192107, “The Babes in the Wood”; STC T222523, “The Two Babes in the Wood”; and STC T188936 “The Babes in the Wood”. All of these lead straightforwardly with the title of the ballad itself, though the last, STC T188936, then adds as a possible selling point that the ballad is “a true Relation” of events. The two proxies printed in Edinburgh, however, also include the age of the ballad as a selling point: STC T52073, “Two Excellent Old Songs, The Babes in the Wood...” and STC T177930, “Two Excellent Old Songs Entituled, The Babes in the Wood...,” both of which add “Johnny Coup” as the second “Excellent Old Song.”
+
+
+
+Dugaw mostly discusses collections of ballads and their prefatory or editorial notes to make her points. One relevant note is that old ballads were often typeset different from new songs and lighter fare; the old ballads would be printed folio fashion with illustrated woodcuts (80-83). The image she includes of a ballad (82) looks *just like* the broadsheet copy of “Babes.”  
+
+The item I want is STC T194212, “A letter to three converted Jews : lately baptized and confirmed in the Church of England. By ... William Jones” printed in 1799. The only physical copy is in Durham, UK as part of the Trinity Cathedral library (ie collected in a religious context)
+
+This is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.” Alas, both of these versions are absent from ECCO.
+
+
+
+As proxies, I examine some other works by William Jones.
+
+T28268	1798	33p “A letter to the Church of England”  
+
+The half-title page: “A letter to the Church of England, pointing out some popular errors of bad consequence. By An old Friend and Servant of the Church. Price 1s.” --- Unusually sparse, and with the price more prominent than the publisher. Then there’s a full title page on the next page.
+
+
+
+Implies that a new Reformation is needed, alluding to corrections needed after “Revolution hath succeeded Revolution” (6); gains urgency from a slippery slope argument: “For error will not be stationary; the breach at which the waters enter will grow wider, and admit more of them continually, till the inundation is universal, and the breach irreparable” (7). An incredibly conservative opening reminiscent of Burke.
+
+Section headers:
+
+GOVERNMENT --- “We ought, therefore, to renounce and detest that abominable doctrine, that the power of government is from the people who are governed. We see now immediately how false and contradictory is this principle, that the subject should be the sovereign.” (8)
+
+REVOLUTION --- the glorious revolution was glorious because its oly goal was to avoid “Popery”; “*Popular power* was avoided by the politicians of that day” (10).
+
+SCHISM --- “no man can be taken as authority against the laws of god” (14) so schism (aka, individual religious interpretation?) is a sin which we will regret being guilty of.
+
+REVELATION --- “It is dishonourable to GOD, and ungrateful, to look within ourselves for another rule, when he hath given us one from himself” (16)
+
+SPIRIT --- “When we affirm that *spiritual* things are *real*, it may be added, that nothing else is so” (20)
+
+OLD TESTAMENT --- “The law, which came after, was *added* to this faith \[of Abraham in the Old Testament\], not to destroy it, but to preserve it... It is ... false and dangerous to teach, that the Old Testament had not the promise of life, because the law had it not.” (21)
+
+“Faith has been the religion of man, and the trial of man, ever since the fall of Adam, and will be to the end. Fo the want of it, the Jews fell into a blindness of heart, which the conceit of worldly wisdom and the lust after worldly power never fail to produce. But this is no proof that they had not the example of their father Abraham constantly before their eyes; which, as Jews, they were called to understand and follow.” (22)
+
+IDOLATRY --- some comments on how Jews are better for rejecting idolatry more strongly, and comments on how people read Vergil and swallow heathen ideas because of the poetry. “I love Greek; I admire genius; I honour science; but, supposing man to be made for another world ... If our learning be such as leads us astray from God, and turn an irresistible judge into an enemy---away with it all; the humble ploughman who says his daily prayers, is the more useful subject, the happier man, and will soon be the greater.” (26)
+
+HUMAN AUTHORITY --- he objects to people preaching sermons using texts like Locke rather than the gospels, and insists it all leads directly to schism and violence.
+
+
+
+Conclusion: “I may be thought to have said too much, and gone too far, but I am afraid I have not gone far enough. (32)
+
+Is his rhetorical assumption of victimhood accurate? “I know withal, that he who slights popularity, must never expect to be popular” (32)
+
+“as I have long lived, so now I hope to die; leaving behind me this paper, as witness that / there was one man, of little note, and of no ambition, who, having his eyes opened to see some great errors of the time ... could not refrain from warning his brethren” (32-33)  
 
 This single sheet item was, according to the ESTC, “issued as a Parliamentary paper” (“ordered to be printed 17th April 1795”) and exists in three academic libraries. It is also reproduced in facsimile in volume 91 of the 1975 printed resource *House of Commons sessional papers of the eighteenth century*, edited by Sheila Lambert --- a work with 147 volumes! HathiTrust has scans of many of these volumes, but, heartbreakingly, not volume 91. HathiTrust goes from 89 to 92. Abebooks sells volumes 2 and 90, for very modest prices!
 
@@ -1069,6 +1119,22 @@ There are also 150 “Dismounted Cavalry”! Who carry carbines or rifles with b
 
 “It is considered to be inconsistent with our Institution to contribute, *in the Name of the Corps*, to any public or private Subscription, every Gentleman having an Opportunity of contributing in his individual Capacity according to his Inclination and Abilities.” (29)  
 
+ESTC T130561 is the “General regulations and instructions for the Light-Horse Volunteers of London and Westminster,” printed in 1797 like the item I want to know from my sample, but clearly serving a different function.
+
+
+
+Provenance: “Second Edition, with alterations and additions” “printed for the corps, by Bunney, Thompson, and co.”
+
+
+
+Preface opens addressed to “Gentlemen” indicating the status of who is expected to be present; it concludes again with “Gentlemen” too! Similarly, the instructions in the book frequently refers to things that “all Gentlemen” will be expected to do--- 
+
+The book has been revised with better cavalry practices based on other publications by General Dundas
+
+The document itself is very practical and military --- opening by emphasizing punctuation strictly, and soon asserting that “Every Gentleman must learn, if he does not know, how to saddle and bridle his Horse, and strap on his Coat-Case; because he may be in many Situations where a Servant would be an Incumbrance, and where neither Groom nor Ostler are to be had (6). It then follows with long and detailed explanations of what commands demand what kinds of actions, which would require serious study..... Though these do seem perhaps focused on marches and drills, which may be largely for show? Eg: “Wheeling, with executed with Precision, and sufficient Velocity, is one of the most beautiful Manoevres in the Field” (25).
+
+This suggests a largely different kind of group than one in which the chief priorities are dignified uniforms and coats that match in colour. So, *which kind of information is in my missing document?*  
+
 Cookson seeks to contextualize the mass volunteering 1793-1815. The previous interpretations saw volunteers as loyalists with cover-revolutionary/counter-radical ideas. Cookson wants to re-examine this assumption because the volunteer movement’s “social base was urban and middle class to a degree that has never been appreciated,” a fact which he uses to support the argument that “A great deal of patriotic activity originated from and was controlled by the urban middle classes, who... used it to legitimate their concerns and secure their status against an enormously powerful hierarchy.” (868) R. J. Morris has argued that voluntary societies in general “became increasingly important instruments of class” (Cookson 868).
 
 For important figures in towns who did not have aristocratic status, “Volunteering had a threefold attraction: it enabled them to act independently of ‘the county’; it gave them a conspicuous part in public life; it served as an expression of the power they wielded within their own communities” (872). This perhaps does not apply in London--- London was, after all, the locale against which all other “local” communities must compare themselves--- and yet the rulebook’s emphasis on uniforms and comportment suggest a related impulse towards displaying its members’ importance.
@@ -1135,9 +1201,9 @@ The chief ‘objection’ is that working class people of a range of occupations
 
 The satire suggests an aura of terror and counterrevolutionary action: “You know every Justice of the peace in the country is ready to receive information against You,” with many painful forms of execution listed as ‘appropriate’ punishments for the crime of reading Paine & presuming to have rights.
 
-It then suggests that the main takeaway from Paine is that all men have rights, and especially the right to know how their taxes are spent. Satirically: “you have no rights, but the rights of horses and beasts of burthen. The horse or the ass labours, and his master feeds him with such food as he thinks fit; so you labour for the rich, and are fed by them, and ought to be content with what they please to give you.” The emphasis is on the expenditure of government money: “This TOM PAINE tells you of the expences of government, that the kind has a million a Year; and there are many rascals in the country ... who grudge the poor king his salary that he labours so hard for, and would dock him to two hundred thousand pounds a Year” --- doing the math per day: “What, take of 2000l per day from his wages and allow him but 600l per day! Horrid miscreants! Who would starve their king!”
+It then suggests that the main takeaway from Paine is that all men have rights, and especially the right to know how their taxes are spent. Satirically: “you have no rights, but the rights of horses and beasts of burthen. The horse or the ass labours, and his master feeds him with such food as he thinks fit; so you labour for the rich, and are fed by them, and ought to be content with what they please to give you.” The emphasis is on the expenditure of government money: “This TOM PAINE tells you of the expences of government, that the king has a million a Year; and there are many rascals in the country ... who grudge the poor king his salary that he labours so hard for, and would dock him to two hundred thousand pounds a Year” --- doing the math per day: “What, take off 2000l per day from his wages and allow him but 600l per day! Horrid miscreants! who would starve their king!”
 
-The next target are appointed members of court, who are satirically termed “useful” for the support they give the king. The paper takes a potentially threatening turn when it imagines the lack of a kind. Without the “useful” supporters being paid their salaries, “a king would be no more than a cypher, he would never have his own way in any thing, all the men in power would be for ever contradicting him, and prating about the good of the nation, and the comfort and happiness of the poor, instead of the dignity of the crown; and then what would become of the king? We were as good have no king.------this TOM PAINE tells you that one man has 8000l. another 10,000l. another 6000l. Another 5000l. and so on; but he don’t tell you how useful these men are” --- here I find the long dash very interesting and suggestive, as well as the change to ‘incorrect’ language.
+The next target are appointed members of court, who are satirically termed “useful” for the support they give the king. The paper takes a potentially threatening turn when it imagines the lack of a king. Without the “useful” supporters being paid their salaries, “a king would be no more than a cypher, he would never have his own way in any thing, all the men in power would be for ever contradicting him, and prating about the good of the nation, and the comfort and happiness of the poor, instead of the dignity of the crown; and then what would become of the king? We were as good have no king.------this TOM PAINE tells you that one man has 8000l. another 10,000l. another 6000l. Another 5000l. and so on; but he don’t tell you how useful these men are” --- here I find the long dash very interesting and suggestive, as well as the change to ‘incorrect’ language.
 
 The examples of useless attendants include the groom of the stool and the Lord of the Bed-chamber, roles whose existence infantilize the king and make the whole court seem ridiculous.
 
@@ -1172,6 +1238,68 @@ In general Williams is very loosey goosey with timelines; more than 200 years tr
 
 
 P 141 her conclusion: “ Looking more closely at how people read and used the literature of jest reveals the faultlines between theories of happiness, and the lived reality. We can see the way in which jokes and games were sometimes seen as an embodiment of friendship groups, and were thus especially valuable for those living in relative isolation -- often the same kind of rural seclusion that was elsewhere praised as a model of contented moderation. It also shows us the way sociable humour promoted inclusive ideas of general human well being, but that it was also frequently predicated on the exclusion of certain groups. ... It was based on the idea that other people’s joviality is infectious and curative. But printed jokes and games are of course, not the same as the company of real people, and in some ways, jestbook mirth is a culture of fun by proxy. If the eighteenth century was truly the age in which secular happiness was invented, it was also an age which discovered some of the limitations of a literature of happiness.”  
+
+**Theories in succession:**
+
+1740s Putrefaction of humours
+
+1780s Nervous debility
+
+1790s Combinations of factors, both humoural and nervous, remedied by general ‘clean living’ (including, but not emphasizing diet)
+
+1800s Unhealthy environment, exacerbated by racial inferiority
+
+1840s Deficiency of fresh food
+
+
+
+Mid-18thC (icluding Lind) largely credited a “putrid theory of scurvy.”
+
+“Most diseases were understood in terms of the inter-relationship between so-called ‘proximate’ causes (deranged organs, fluids and manifestations of disease in the body); ‘predisposing causes’ such as fatigue and depression; and ‘exciting causes’ such as vitiated diet, contagion and atmospheric influences. This complex but flexible framework allowed diseases to be understood in much the same way as other natural phenomena and they were classified like plants and animals into different genera and species. This exercise was generally known as nosology or nosography and many physicians devised their own classifications. In most of these, scurvy was normally listed as one of the ‘putrid diseases’; that is, as a disease characterised by putrefaction of the ‘humours’ or four substances from which the fluid parts of the body were said to be comprised (blood, phlegm, and black and yellow bile).”
+
+After the 1780s, there was “a growing tendency to place the nervous system at the centre of medicine and intellectual life.” ”Milman concurred with earlier writers that scurvy was a putrid disease, but he did not regard it as having originated from putrefaction of the humours. Instead, he believed that scurvy arose from nervous ‘debility’ -- a term derived from the writings of John Brown, a rebellious pupil of Cullen.” “the majority of works on scurvy published in the decade after Milman's *Enquiry* were less radical in tone and of comparatively little consequence. They tended to combine the most acceptable and least controversial elements of older works with insights from newer ones, embracing both humoral and nervous theories of disease. Some were practical in nature, but **others were clearly designed to appeal to all tastes and to serve as advertisements for their authors' patent remedies**.”
+
+The introduction of lemon juice in 1795 wasn’t seen as proof that scurvy was caused by a dietary deficiency, since it went along with a number of other improvements in sailor’s health. “Scurvy was effectively brought under control by these actions, but naval views of scurvy remained relatively open and there was no administrative reason to insist that they be simplified.”
+
+
+
+
+
+**Post 1790s:**
+
+1800s experiences in India (especially imperalism/colonialism) incentivized a move away from understanding scurvy as a dietary disease: “Although scurvy did not affect Indians exclusively, it seldom occurred among Europeans except when they had been subjected to abnormal deprivation. But instead of concluding that Indians must be more deprived than Europeans, British medical practitioners tended to attribute the disease to exposure to noxious influences.” “What these interpretations had in common was that they drew attention away from diet and the shortages caused by famine. ...rations for the company's soldiers, and the Bengal Army in particular, had often provoked unrest... If poor diet was officially declared the principal cause of scurvy then the company could be held responsible for this, too.” Later, however, “the old environmental paradigm of scurvy had been found inconvenient. Rather than abandoning remote stations previously reckoned to be prone to scurvy on account of their climate, an effort was made to cultivate vegetables locally and to make up for deficiencies with extra supplies.”
+
+
+
+“The persistence of a reasonably broad view of scurvy thus presented few difficulties for the navy or, for many years, in India, but it posed a significant threat to the new penitentiary system in Britain and parts of scurvy's etiological framework were excised as a result. ... What these various initiatives show is that **the natural history of scurvy was closely and inextricably linked to administrative considerations,** be they the principles of penal reform or the strategic implications of withdrawal from remote but crucially important outposts of empire. ... In prisons, **political expediency dictated a very definite view of what caused scurvy** and how it was to be remedied. Lacking the constraints imposed by these administrative requirements, however, practitioners in other contexts continued to speculate widely over the causes of scurvy. ... These widely differing accounts of the genesis and therefore the prevention of scurvy persisted into the First World War”  
+
+Summary: “Patent medicines in late Georgian England have been misunderstood. Rather than just being visible constituents of irregular practice, they were a separate, substantial, industry providing a wide range of popular products. Most of the prominent medicine owners were either reputable tradesmen who did not practise medicine, or medical professionals; they operated from fixed premises for substantial periods of time, and they employed practices specific to the industry. A minority of nationally-available medicines were indeed owned and distributed by irregulars who were regarded as quacks by contemporaries, yet even these participants attempted to follow regular medicine. Wholesaling was initially led by London booksellers, but later moved to medicine specialists and chemists.”
+
+
+
+Shouldn’t dismiss all patent medicines as junk just because 18thC doctors called many of them quacks: “they may have been as effective as the regular therapy of the time... More recent criticisms of the effectiveness of the patent medicines are based on modern medical knowledge and so are immaterial. As Penelope Corfield has commented, patients had confidence in medicines of all types in the eighteenth century, and the later assessments of history are irrelevant to their opinions and actions” (24). --- This is also relevant to figuring out what to make of Erasmus Darwin.
+
+
+
+Quantitative study: “All the initial advertisements for a particular medicine were analysed in complete runs of four newspapers published in the Leeds, Birmingham and Salisbury areas during the first six months of 1769, 1781, 1794, 1807 and 1822” (29)
+
+“many of the medicines were targeted at a limited range of conditions, rather than aiming to be panaceas” (30)
+
+“The four most popular categories were scorbutic conditions, joint problems, nervous dis- ease and bowel problems including bilious diseases” (30) --- scurvy is “almost a third of the medicines” (31). Some suggestion that people preferred to sell the cures to ongoing chronic conditions, in order to keep selling more.
+
+![][ScreenShot2021-02-21at1.47.50AM]**In offering a cure for scurvy, Haywood is competing in the single most popular category of patent medicines (Mackintosh 31).**
+
+“With hundreds of medicines, the variety of owners was considerable, and, to simplify this variety, **the owners are divided into six groups**, namely market leaders, tradesmen, medical practitioners, elite, irregular and local. Proprietors in the first four groups undertook little or no irregular practice, and they ran normal commercial enterprises, with an additional element of philanthropy amongst the elite owners: only owners in the last two groups had strong links to irregular practice. Producing patent medicines was an established industry, with many owners running successful long-term businesses and using specific techniques to ensure commercial success” (31).
+
+Haywood was probably a tradesman? Since he only had two medicines.
+
+
+
+“‘Regular medicine’ was carried out by those regarded by their contemporaries as having received sufficient medical education as a physician, surgeon or apothecary to be regulars: they also had to be practising in an acceptable, regular, manner. ‘Irregular practice’ was all other paid-for medical practice” (25). Since “medical practice was the deployment of personal skills in some form of one-to-one interaction, however perfunctory, with the consumer” (24), patent medicines are “largely, but by no means entirely, disconnected from medical practice” (24).
+
+
+
+a rival’s antiscorbutic drops, 1794, as an example of how proprieters kept their recipes secret: “Francis Spilsbury (see below) made it clear in his will that his wife Dorothy was the only person he had been able to trust with the secret recipe for his Antiscorbutic Drops” (28).  
 
 “Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.’”
 
@@ -1215,7 +1343,7 @@ This one is held at the BL, Oxford, *and* Gottingen. The ECCO scan comes from th
 
 
 
-It presents itself a little like “news” responding to the prevalence of fakes (which may actually have been a real problem?). Emphasizes what the “correct” seal will look like and say on an authentic bottle. Offers a reward of TEN THOUSAND POUNDS (all caps, at the head of a column) to anyone who can produce another recipe --- “In fact, he will answer *with his life*, that no such instrument exists!!!” and that therefore all other cures “remain, uniformly, unsupported with experimental facts, or references of cure.” (1)
+It presents itself a little like “news” responding to the prevalence of fakes (which may actually have been a real problem?). Emphasizes what the “correct” seal will look like and say on an authentic bottle. Offers a reward of TEN THOUSAND POUNDS (all caps, at the head of a column) to anyone who can produce another recipe --- “In fact, he will answer *with his life*, that no such instrument exists!!!” and that therefore all other cures “remain, uniformly, unsupported with experimental facts, or references of cure.” (1) The correct item are “the Genuine Original Norton’s Maredant’s Antiscorbutic Drops” developed by the late surgeon John Norton. The drops appear to be something one applies to the skin (and therefore probably not a cure for scurvy?)
 
 Most time is taken up with testimonials, all of which have names & dates attached. They appear to be in numerical order, “beginning with the 168^th^ above mentioned, which closed Mr. Hayman’s public list of acknowledgements to the end of the year 1799.” (1)
 
@@ -1224,8 +1352,6 @@ Lots of strange medical assumptions in the explanation of how the drug works (an
 He’s also selling another product for “the nervous and debilitated of either sex” which again emphasizes not being misled into purchasing imitations, and specifies that he has the sole patent for “Vandour’s Nervous Pills” (page 4) --- he repeats a notice originally published in 1782.
 
 Interesting that in neither case does he claim to have developed the medicine, but still insists on his authority & right to monopolize it.  
-
-\[Patent and testmonials to James Rymer's patent Cardiac and Nervous Tincture\]: http://johnjohnson.chadwyck.co.uk.myaccess.library.utoronto.ca/search/displayItemFromId.do?ItemID=20070925154543lb&DurUrl=Yes  
 
 The John Johnson Collection itself illuminates the path to preservation which is necessary for a work like “Consolation for the scorbutic...” to survive two hundred years and remain findable by scholars.
 
@@ -1301,6 +1427,10 @@ It was difficult to find secondary work on zoonomia, since most work on Erasmus 
 
 Zoonomia gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. They’re not valueless, and perhaps did have impact as precursors to a true understanding of evolution, but they’re also not as accurate or complete as they have been presented. And, more importantly, they are not important *to Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,180 pages of this 1,200 page work.  
 
+Gould calls *Zoonomia* “a paean to progress in a world that many judged on the brink of ruin” (80). He notes that our reading of this work has a different emphasis than the work itself: “in the anachronistic tradition that judges biological works by their attitude to the great watershed of evolution... Zoonomia owes its modern reputation to a few fleeting passages that look upon organic transmutation with favor.”
+
+As Gould identifies, Erasmus’s theory relies on the idea that new developments are *useful*, and therefore runs around of male nipples --- which, Gould says, continue to confuse people learning about evolution. This leads Gould to a discussion of clitoral pleasure as another oddity requiring evolutionary explanation, suggesting that our false ideas about the evolutionary adaptations of female sexual pleasure cause harm through Freud’s theory that vaginal orgasm is more “mature” than clitoral orgasm. The article itself then is not really about Erasmus or nipples but opens with him as an interesting anecdote.  
+
 Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
 
 
@@ -1309,7 +1439,13 @@ Piper and generalization is related to what I am doing with my random sample evi
 
 In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...  
 
-Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?  
+Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?
+
+
+
+Vicar has some comments about jest-books  
+
+General Dundas’s advice on cavalry influenced the light-horse book --- any relation to the Dundas in the East India proceedings??  
 
 One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
 
@@ -1317,7 +1453,13 @@ Underwood has particularly emphasized that the unique role of literary studies, 
 
 
 
-A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)  
+A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)
+
+
+
+When we study Zoonomia, we impose our own preferences and interests onto the text. *Zoonomia* illuminates theories of evolution; it grounds Wordsworth’s ideas of the inner lives of plants (Matlak); it probably does a third thing --- but it does not, alas, offer the foundation of a systematic theory of fevers upon which future generations would “erect a solid and beautiful edifice, eminent both for its simplicity and utility, as well as for the permanency of its materials... like the Newtonian philosophy, a rock amid the waste of ages!” (625). All of the aspects of this work of the greatest importance to its author have, in fact, met they fate he most feared: they “moulder\[ed\], like the structures already erected, into the sand of which they were composed” (625), not even meriting a footnote in the histories that discuss the peers whom he references (Cullen, Beddoes, Pringle, etc).
+
+This is Leah Price’s core argument about abridgement.  
 
 Literary study tends to value the exceptional and the interesting. \[I know I saw someone I could cite for this--- maybe Underwood or Piper on twitter?\] The question of this chapter is, what characterizes “normal” texts in the 1790s? How might we understand the priorities and features of the 1790s print mediascape if we examine it through ordinary, unremarkable documents?
 
@@ -2529,11 +2671,145 @@ P 481 how a blind man stays upright / finds his balance
 
 P 481 tricking yourself into feeling something twice --- this works!
 
-![][ScreenShot2021-02-16at11.17.47PM]  
+![][ScreenShot2021-02-16at11.17.47PM]
+
+
+
+P 492 he really wants to understand how fevers work
+
+![][ScreenShot2021-02-17at5.04.47PM]
+
+
+
+P 505 cure for stuttering is to care less about others’ opinions
+
+
+
+P 510 gravity is a fluid like heat
+
+
+
+P 511 reasonably accurate discussion of the moon and its gravity, including lagrange points --- contrast with Goodall
+
+
+
+P 522 if your anxiety is making you pee a lot, try some joy, friendship, or opium
+
+![][ScreenShot2021-02-19at1.18.10AM]
+
+P 524, similarly paleness & trembling caused by fear should be cured by “Opium. Wine. Food. Joy.”
+
+--- It’s interesting that “joy” is not the same as “mirth”
+
+
+
+P 529 the cure for morning sickness can be opium, but opium shouldn’t be given just after childbirth
+
+![][ScreenShot2021-02-19at1.22.26AM]
+
+
+
+P 537 **the start of his theory of fever** --- “trusting that the candid reader will discover in these rudiments of the theory of fever a nascent embryon, an infant Hercules, which Time may rear to maturity, and render serviceable to mankind.”
+
+
+
+P 549 maybe sometimes the cure to fever could be causing people to pass out in a centrifuge
+
+
+
+P 558 analogy to boiling eggs, is the egg thing true? Do they cook faster when water is boiling more vigorously?
+
+
+
+P 570 a good example of his terrible theory of sensorial power
+
+![][ScreenShot2021-02-19at1.42.15AM]
+
+
+
+P 575 he once got sick from breathing a weird bad air from a morass
+
+
+
+P 580 tricky questions he can’t quite answer
+
+
+
+P 583 respiration in an atmosphere of hydrogen and azote quickens the pulse
+
+
+
+P 587 hey what if you had a milk IV?
+
+![][ScreenShot2021-02-21at1.15.30AM]
+
+
+
+P 598 - extremely detailed account of a continued fever of “master S.D. an active boy about eight years of age”
+
+
+
+P 625 - conclusion to his theory of fevers (which was 88 pages long): “what may be termed the sympathetic theory of fevers, to distinguish it from the mechanic theory of Boerhaave, the spasmodic theory of Hoffman and of Cullen, and the putrid theory of Pringle.”
+
+![][ScreenShot2021-02-21at2.14.38AM]  
 
 P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
 
 ![][ScreenShot2021-01-28at2.49.22AM]  
+
+76
+
+![][ScreenShot2021-02-21at2.45.36AM]
+
+![][ScreenShot2021-02-21at2.45.39AM]
+
+
+
+77
+
+![][ScreenShot2021-02-21at2.41.54AM]
+
+
+
+79
+
+![][ScreenShot2021-02-21at2.43.50AM]
+
+
+
+80
+
+![][ScreenShot2021-02-21at2.44.50AM]  
+
+Hassler’s odd little piece on *Zoonomia* and David Hume actually seems to engage with *Zoonomia* more on its own terms: it is a failed attempt to systematize knowledge which fails, in part, because it is reasoning far beyond its evidence. But I admire Hassler for seeing the book as failing on its own terms, rather than seeing it as succeeding at something which was not really its goal.
+
+
+
+P 190
+
+![][ScreenShot2021-02-21at11.36.45PM]
+
+P 191
+
+![][ScreenShot2021-02-21at11.37.14PM]
+
+
+
+P 191
+
+![][ScreenShot2021-02-21at11.37.40PM]
+
+
+
+P 192
+
+![][ScreenShot2021-02-21at11.38.08PM]
+
+
+
+P 193
+
+![][ScreenShot2021-02-21at11.38.30PM]  
 
 ![][ScreenShot2020-11-20at11.58.31PM]  
 
@@ -3483,6 +3759,8 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-02-16at2.42.53AM]: ScreenShot2021-02-16at2.42.53AM.png width=543px height=155px
 
+[ScreenShot2021-02-21at1.47.50AM]: ScreenShot2021-02-21at1.47.50AM.png width=700px height=269px
+
 [ScreenShot2020-12-08at1.40.54AM]: ScreenShot2020-12-08at1.40.54AM.png width=515px height=502px
 
 [ScreenShot2020-12-08at1.42.30AM]: ScreenShot2020-12-08at1.42.30AM.png width=694px height=245px
@@ -3701,7 +3979,39 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-02-16at11.17.47PM]: ScreenShot2021-02-16at11.17.47PM.png width=576px height=110px
 
+[ScreenShot2021-02-17at5.04.47PM]: ScreenShot2021-02-17at5.04.47PM.png width=581px height=122px
+
+[ScreenShot2021-02-19at1.18.10AM]: ScreenShot2021-02-19at1.18.10AM.png width=563px height=278px
+
+[ScreenShot2021-02-19at1.22.26AM]: ScreenShot2021-02-19at1.22.26AM.png width=559px height=50px
+
+[ScreenShot2021-02-19at1.42.15AM]: ScreenShot2021-02-19at1.42.15AM.png width=572px height=227px
+
+[ScreenShot2021-02-21at1.15.30AM]: ScreenShot2021-02-21at1.15.30AM.png width=566px height=114px
+
+[ScreenShot2021-02-21at2.14.38AM]: ScreenShot2021-02-21at2.14.38AM.png width=575px height=330px
+
 [ScreenShot2021-01-28at2.49.22AM]: ScreenShot2021-01-28at2.49.22AM.png width=578px height=297px
+
+[ScreenShot2021-02-21at2.45.36AM]: ScreenShot2021-02-21at2.45.36AM.png width=296px height=68px
+
+[ScreenShot2021-02-21at2.45.39AM]: ScreenShot2021-02-21at2.45.39AM.png width=297px height=106px
+
+[ScreenShot2021-02-21at2.41.54AM]: ScreenShot2021-02-21at2.41.54AM.png width=291px height=88px
+
+[ScreenShot2021-02-21at2.43.50AM]: ScreenShot2021-02-21at2.43.50AM.png width=295px height=211px
+
+[ScreenShot2021-02-21at2.44.50AM]: ScreenShot2021-02-21at2.44.50AM.png width=295px height=180px
+
+[ScreenShot2021-02-21at11.36.45PM]: ScreenShot2021-02-21at11.36.45PM.png width=585px height=144px
+
+[ScreenShot2021-02-21at11.37.14PM]: ScreenShot2021-02-21at11.37.14PM.png width=582px height=133px
+
+[ScreenShot2021-02-21at11.37.40PM]: ScreenShot2021-02-21at11.37.40PM.png width=572px height=178px
+
+[ScreenShot2021-02-21at11.38.08PM]: ScreenShot2021-02-21at11.38.08PM.png width=576px height=151px
+
+[ScreenShot2021-02-21at11.38.30PM]: ScreenShot2021-02-21at11.38.30PM.png width=580px height=248px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
