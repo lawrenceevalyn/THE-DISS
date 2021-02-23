@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-22 18:35:47 -0500" ModID="47E56B45-E21B-4E3C-BB57-DCFF8FB7E736">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-23 15:56:19 -0500" ModID="B7FFF6ED-11B6-491F-9F98-7A4E40D74871">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1511,9 +1511,19 @@
                                                         <TextSelection>2167,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
+                                                <BinderItem UUID="433C2F09-81BE-4F94-9C2E-1854289FF1C7" Type="Text" Created="2021-02-22 21:37:33 -0500" Modified="2021-02-22 21:57:45 -0500">
+                                                    <Title>proxy 2</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>2501,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="2F3AAE45-36C5-4874-8FBA-4ED9082405D2" Type="Text" Created="2021-02-22 17:04:42 -0500" Modified="2021-02-22 17:14:00 -0500">
+                                        <BinderItem UUID="2F3AAE45-36C5-4874-8FBA-4ED9082405D2" Type="Text" Created="2021-02-22 17:04:42 -0500" Modified="2021-02-22 21:37:40 -0500">
+                                            <Title>not a sermon</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -1532,22 +1542,22 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="2619F9AD-935C-4189-B9E5-96F049BC81F0" Type="Text" Created="2021-02-07 18:48:06 -0500" Modified="2021-02-16 02:19:54 -0500">
-                                            <Title>india proxies</Title>
+                                        <BinderItem UUID="2619F9AD-935C-4189-B9E5-96F049BC81F0" Type="Text" Created="2021-02-07 18:48:06 -0500" Modified="2021-02-23 15:47:02 -0500">
+                                            <Title>india</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>802,0</TextSelection>
+                                                <TextSelection>625,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="8C83D8D3-15AA-4182-9763-25EE8254369C" Type="Text" Created="2021-02-07 19:37:42 -0500" Modified="2021-02-07 20:40:58 -0500">
+                                        <BinderItem UUID="8C83D8D3-15AA-4182-9763-25EE8254369C" Type="Text" Created="2021-02-07 19:37:42 -0500" Modified="2021-02-23 15:50:37 -0500">
                                             <Title>india events</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>684,0</TextSelection>
+                                                <TextSelection>645,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1652,7 +1662,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>453,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1835,6 +1845,15 @@
                                                 <TextSelection>1753,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem UUID="B265698A-27AB-4CAE-B05E-3C2D198A2E23" Type="Text" Created="2021-02-23 01:14:49 -0500" Modified="2021-02-23 01:23:55 -0500">
+                                            <Title>vicar - Bailey</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2987,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="599A1779-5B83-40F6-8EAF-EAC6A4F472B3" Type="Text" Created="2021-02-17 00:10:54 -0500" Modified="2021-02-17 00:10:58 -0500">
@@ -1886,7 +1905,7 @@
                                 <TextSelection>1384,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F57399E0-677D-4BE7-8736-C22E9C20AFB0" Type="Text" Created="2021-02-02 15:06:59 -0500" Modified="2021-02-19 03:19:08 -0500">
+                        <BinderItem UUID="F57399E0-677D-4BE7-8736-C22E9C20AFB0" Type="Text" Created="2021-02-02 15:06:59 -0500" Modified="2021-02-22 18:52:50 -0500">
                             <Title>connections</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2147,13 +2166,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-22 01:16:12 -0500">
+                                <BinderItem UUID="D01E0418-0E30-45FA-B10E-8B84E99478B4" Type="Text" Created="2021-01-28 02:46:23 -0500" Modified="2021-02-23 15:56:19 -0500">
                                     <Title>general zoonomia notes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>13882,0</TextSelection>
+                                        <TextSelection>14416,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="00B2D319-7707-42D4-9C05-7F610B37185C" Type="Text" Created="2021-01-28 02:49:37 -0500" Modified="2021-01-28 02:50:21 -0500">
@@ -2163,6 +2182,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>68,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9ADA9330-1295-47CA-AA16-81E9E056D800" Type="Text" Created="2021-02-23 14:39:43 -0500" Modified="2021-02-23 15:00:52 -0500">
+                                    <Title>scurvy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>718,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="F558A3F4-BA15-4680-98B3-357156EE7AFB" Type="Text" Created="2021-02-21 02:45:58 -0500" Modified="2021-02-21 02:48:21 -0500">
@@ -3599,7 +3627,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-22 18:32:33 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-02-23 15:51:32 -0500">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
@@ -13882,6 +13910,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
                         <TextSelection>361,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="A279F5B2-99D2-49C9-8A80-1FB9FF8BBEAE" Type="Text" Created="2021-02-22 21:38:04 -0500" Modified="2021-02-22 21:38:04 -0500">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -13939,14 +13975,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-04-30 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">237</SessionTarget>
-        <PreviousSession Words="806" Characters="5409" Date="2021-02-22 14:58:44 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">212</SessionTarget>
+        <PreviousSession Words="355" Characters="2094" Date="2021-02-23 14:39:40 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-22 00:00:00 -0500">
-        <DraftWordCount>1717</DraftWordCount>
-        <DraftCharCount>10776</DraftCharCount>
-        <OtherWordCount>276</OtherWordCount>
-        <OtherCharCount>1903</OtherCharCount>
+    <RecentWritingHistory Date="2021-02-23 00:00:00 -0500">
+        <DraftWordCount>943</DraftWordCount>
+        <DraftCharCount>5939</DraftCharCount>
+        <OtherWordCount>129</OtherWordCount>
+        <OtherCharCount>944</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
