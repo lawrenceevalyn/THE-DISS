@@ -1009,6 +1009,12 @@ My randomly-chosen copy of “Babes in the Wood” therefore seems to participat
 
 Dugaw mostly discusses collections of ballads and their prefatory or editorial notes to make her points. One relevant note is that old ballads were often typeset different from new songs and lighter fare; the old ballads would be printed folio fashion with illustrated woodcuts (80-83). The image she includes of a ballad (82) looks *just like* the broadsheet copy of “Babes.”  
 
+“In the eighteenth century, political ballads were a genre of "the people" in the abstract sense employed by this author, but as we have seen, they were also produced and circulated by real men and women of a wide variety of social ranks and motivations who were sometimes harshly punished for expressing their views (or attempting to make a living). Broadside ballads were perhaps the most "democratic" of all print forms, for they could be composed, printed, and circulated orally and textually by persons on the margins of literacy (such as printer Catherine Clifton, who could not write). Yet by the nineteenth century, **scholarly models of worthwhile or "authentic" ballad traditions had largely excluded the singing of topical ballads**, for this aspect of what we might now call "popular oral culture," tainted by print commerce and associated with social and political unrest, was not the legacy that genteel or professional scholars wished to preserve. Today, persons interested in an inclusive history of balladry need to be alert to the ways that eighteenth- and early nineteenth-century ballad scholarship has shaped our assumptions about what ballads are and what kinds of ballad traditions are worthy of our attention. By examining long eighteenth-century ballad discourse in all of its many genres and varieties---from scathing journalistic condemnations of the "scandalous practice of ballad-singing" to idealized narrative accounts of "ancient minstrels"---we can broaden our understanding of the diverse cultural roles of balladry---and especially, the hybrid textual and oral nature of broadside ballads.” (179)
+
+
+
+The “Babes” are the kind of ballad which might have been acceptable to Percy, Ritson, and later ballad scholars.  
+
 The item I want is STC T194212, “A letter to three converted Jews : lately baptized and confirmed in the Church of England. By ... William Jones” printed in 1799. The only physical copy is in Durham, UK as part of the Trinity Cathedral library (ie collected in a religious context)
 
 This is a 24-page “letter” which the ESTC lists as being on the subject of “Trinity,” and has the same contents as T212697 which the ESTC says was “Issued in the same year as another edition, which had the titlepage reset to include the author statement.” T212697 is unsigned, T194212 attributed to William Jones, and both linked in the ESTC to the author “Jones, William, 1726-1800.” Alas, both of these versions are absent from ECCO.
@@ -1029,7 +1035,7 @@ Section headers:
 
 GOVERNMENT --- “We ought, therefore, to renounce and detest that abominable doctrine, that the power of government is from the people who are governed. We see now immediately how false and contradictory is this principle, that the subject should be the sovereign.” (8)
 
-REVOLUTION --- the glorious revolution was glorious because its oly goal was to avoid “Popery”; “*Popular power* was avoided by the politicians of that day” (10).
+REVOLUTION --- the glorious revolution was glorious because its only goal was to avoid “Popery”; “*Popular power* was avoided by the politicians of that day” (10).
 
 SCHISM --- “no man can be taken as authority against the laws of god” (14) so schism (aka, individual religious interpretation?) is a sin which we will regret being guilty of.
 
@@ -1053,9 +1059,41 @@ Is his rhetorical assumption of victimhood accurate? “I know withal, that he w
 
 “as I have long lived, so now I hope to die; leaving behind me this paper, as witness that / there was one man, of little note, and of no ambition, who, having his eyes opened to see some great errors of the time ... could not refrain from warning his brethren” (32-33)  
 
+STC T87820: “Considerations on the religious worship of the heathens as bearing unanswerable testimony to the principles of Christianity. In a letter to the Rev. W. Vincent, D. D. Head Master of Westminster-School. By the Rev. William Jones, M. A. Rector of Paston, Northamptonshire” --- 1799, 28p, 8°
+
+
+
+Jones is worried that boys are being led into sinful ways by their classical educations. His proposed compromise is to teach “heathen” ideas in such a way as to let them “prove” Christian theology. E.g., the existence of heathen priests proves the existence of god: “The case is then plain concerning the origin of priesthood. It must have come either from God, or from Nature, or from Tradition. From Nature it could not come; not a Deist in the nation will pretend it. It if came from tradition, that tradition must have had some true original; / and this is but another way of saying it came from God.” (5-6) He also thinks the idea of animal sacrifice must have come from Revelations. The existence of oracles proves that Christian prophets were real--- “there never would have been a false oracle, unless there had been a true one” (13).
+
+Jones is indignant about a work by “the learned Dr. Spencer”: “He preposterously deduced the rites of the Hebrews from the rites of the Heathens; and so produced a work of learned appearance, and composed in elegant Latin, but disgraceful to Christian Divinity, dishonourable to the Church of England, and affording a very bad example to vain scholars who should succeed him.” (15) Jones thinks the Heathens pretended to have miracles in order to compete with the real miracles of the Hebrews, “and here we shall find the true reason why they so universally hated the nation of the Jews. When a ma is a plagiary, he either hides the original out of which he borrows, or represents it as worthless ad contemptible” (16). It seems necessary to Jones that the original miracles are real: “for how came Heathens to dream of such things as miracles? No man could dream of a thunder-storm, unless he had heard one” (16).
+
+
+
+Two final conclusions: “I. That, if Heathen books give this testimony to Divine Revelation, we should use them for the best end they are capable of answering, the confirmation of our own faith. They will never draw us away from God, if we understand what Heathenism is, and whence it came; not should we ever omit to take advantage of it, in our arguments against infidels.” (23)
+
+P 24-25, also warn school boys so they don’t end up French:
+
+
+
+![][ScreenShot2021-02-22at9.56.40PM]
+
+![][ScreenShot2021-02-22at9.56.50PM]  
+
+This kind of religious writing follows very different conventions than a sermon --- not based on a passage from scripture.  
+
+“An account of the prime cost of all cargoes purchased in India, and shipped for Europe, in the year 1793-4; together with the commercial charges at each presidency, not added to the invoice”
+
 This single sheet item was, according to the ESTC, “issued as a Parliamentary paper” (“ordered to be printed 17th April 1795”) and exists in three academic libraries. It is also reproduced in facsimile in volume 91 of the 1975 printed resource *House of Commons sessional papers of the eighteenth century*, edited by Sheila Lambert --- a work with 147 volumes! HathiTrust has scans of many of these volumes, but, heartbreakingly, not volume 91. HathiTrust goes from 89 to 92. Abebooks sells volumes 2 and 90, for very modest prices!
 
 Although this is a very boring document (and at a single sheet is practically “ephemera”), its official governmental role greatly increased its survivorship--- not only preserved as an original, but reproduced in a new technology, even if not (yet?) reproduced a second time.  
+
+The East India Company Act 1793 gave a 20-year renewal to the charter with relatively little fuss (compared to the previous two charter acts), per wikipedia
+
+
+
+4 April 1794 (the year prior) Henry Dundas gives a speech on the finances of the East India company --- in preparation for “a general Arrangement in which the respective Interests of the Public and the Company were to be adjusted” (STC T166699 1). The general idea seems to be to extract more money from them: the financial documents are meant “to shew what annual Surplus might be expected to result from the Whole of the Revenues and Trade, applicable to the Benefit of the Proprietors of India Stock, and of the Public” (STC T166699 1).
+
+
 
 17 April 1795 - Mr Owen (from the Directors of the East India Company) presents accounts & papers t0 the House of Commons: 23 items, of which the thing I want is no. 22. It was ordered that they lie on the table and that copies be made. No mention of the activity appears to be made in the recorded debates
 
@@ -1069,7 +1107,17 @@ The House of Commons opened business by hearing the prince of wales’s reply to
 
 28 May 1795 - House of Commons resolves that on 8 June 1795 a Committee of the whole House will consider the said accounts & papers
 
+8 June 1795 - unrelatedly, Mr. Hobart presents “a Bill for allowing further Time for the Payment of the Drawback on *China* Ware, imported by the *East India* Company before the 1^st^ day of April 1795”
 
+Also, deferred “the Bill for allowing, for a Time to be limited, the Importation of Goods from *India* and *China*, and other Parts within the Limits of the exclusive Trade of the *East India* company, in shops not of *British*-built, nor registered as such”
+
+Then they created a tax on carts, and made a committee “to consider further of Ways and Means for raising the Supply granted to His Majesty”
+
+There is discussion and voting about funding the Prince of Wales’ debts from the duchy of Cornwall --- but the vote fails. (The previous session there was a yes vote to increase his income by reducing useless places)
+
+Then they talk about lending money to the emperor of Germany, and establishing a jointure for the Princess of Wales...
+
+10 June 1795 - the topic seems to have been dropped? I can’t find the further discussion of it
 
 
 
@@ -1079,9 +1127,65 @@ The House of Commons opened business by hearing the prince of wales’s reply to
 
 28 may: https://parlipapers.proquest.com/parlipapers/docview/t70.d75.jhc-012195?accountid=14771
 
+10 june journal: https://parlipapers.proquest.com/parlipapers/result/pqpdocumentview?accountid=14771&groupid=95379&pgId=10b51f1a-970d-4b8a-9d62-0a525e1e248a&rsId=177361B88BC
+
 
 
 To find this information, I spent substantial time just trying to determine IF the house of commons had an online archive--- one resource I looked at (https://loc.gov/rr/main/parliamentarypapers/HouseofCommonsSessionalPapers.html) had a broken link which nonetheless prompted me to look further. Finally I was able to access scans through ProQuest. The facsimiles I used were copyright University of Southampton and British Library Board, and copyright ProQuest 2007.  
+
+The book seeks to explain “how a trading company under-went a process of metamorphosis that eventually enabled it to persuade a sceptical public that it was a suitable agency for the government of an extended territorial empire” (ix).
+
+
+
+“Henry Dundas of the government’s Board of Control for India once told Lord Sydney that reading the Company’s records was like wading / through a ‘load of trash’.” (x-xi)
+
+
+
+In 1793, “HenryDundas, who had long taken up ministerial responsibility for the super-vision of British Indian affairs, was forced to concede that the complex-ities surrounding rival claims to ownership of the revenues still left ‘roomfor much legal discussion on this subject’.30The Company’s formal statusand position remained a matter for debate and this caused considerableuncertainty about the Company’s role in India and its relationship withthe British state” (11)
+
+
+
+In the 1770s, concerns that Britai had become dependent on Indian income
+
+“when the question of the renewal of the Company’s charter came to the fore during the early 1790s the main issue was no longer whether the Company was an appropriate governing agency for Britain’s Indian possessions. Instead, attention was focused upon the question of whether the prevailing monopoly trade arrangements represented the best form of economic link between Britain and Asia, and an increasingly concerted assault was made upon the Company’s commercial record since the acquisition of the *diwani*.” (18)
+
+“the *diwani*, or ‘right’ to collect the revenues of Bengal, Bihar, and Orissa. The provinces continued to be governed in the name of the Emperor and Nawab of Bengal, but the Company had ﬁrmly established itself as the power broker and *de facto* sovereign of the region” (3)
+
+“As their worst fears began to be realised during the early 1770s, critics began to question whether the acquisition of territorial revenues had in fact generated any ﬁnancial beneﬁts at all. By the beginning of the 1780s it became commonplace to assert that, in the words of Clive’s great enemy George Johnstone, ‘the territories we acquired through him had done a greater injury than a beneﬁt to us’. Optimists continued to believe that in the right circumstances the Company would be able to generate a revenue surplus that could be transferred to Britain, but by the beginning of the nineteenth century there was considerable support for Thomas Creevey’s view that since the acquisition of the revenues the Company ‘had become a constant burden and grievance to the nation, and even to themselves’. Such arguments only weakened the Company’s defences against those seeking to break its monopoly of trade with India” (18)
+
+
+
+Stuff related to 1794:
+
+“Although peace gradually returned to India, Europe, and the Atlantic world between 1782 and 1784, concerns about the security of the Company’s possessions continued to exercise the minds of ministers and directors alike. Indeed, some ministers were now **‘taking it for granted that India is the quarter to be ﬁrst attacked’ in any British conﬂict with a European power**” (46) --- per Henry Dundas to Lord Sydney, 3 November 1794, quoted in Harlow, Founding of the secondBritish empire, vol. II, p. 192
+
+“As thehistorian John Brooke quite properly remarked of the period 1754 --90, ‘somany men with so many different purposes makes it impossible to talk ofan East India interest as if it were a pressure group with a clearly deﬁned aim’. The overall number of stockholding MPs did nevertheless remainhigh, and up to 100 were to be found in each of the Parliaments that satbetween 1790 and 1820. Some probably took no more than a passinginterest in East Indian affairs, but when former Company servants andmilitary or naval personnel who had served in the East are added to thisnumber it becomes clear that **there was a substantial body of men within the House of Commons who had some form of connection with either the East India Company or its Indian empire**.” (96)
+
+“After 1769, when the vast majority of accounts contained addressinformation, the number of accounts registered in London and the HomeCounties always represented between 55 and 65 per cent of the total.Moreover, it can be calculated that after 1790 the amount of stockowned by investors with addresses in London and the Home Countieshad risen to over 60 per cent of the total. This ensured that the Companyretained the major deﬁning characteristic it had possessed since itscreation: a close association with the merchant, ﬁnancial, professional,titled, and gentlemanly classes who lived in and around the metropolis.” (110)
+
+“Nevertheless, a renewed belief that the Company wascapable of sustaining an expanding export trade enabled the directors toface with some conﬁdence the challenges that were made to them as theirmonopoly privileges came under heavy political ﬁre from 1790 onwards.Even though great difﬁculties were caused by war in Europe and Asia, thevalue of goods sent to India and China reached new peaks during the ﬁrstdecade of the nineteenth century.” (234)  
+
+139
+
+![][ScreenShot2021-02-23at10.38.54PM]
+
+
+
+147
+
+![][ScreenShot2021-02-23at10.40.05PM]
+
+
+
+150
+
+![][ScreenShot2021-02-23at10.41.20PM]
+
+
+
+156
+
+![][ScreenShot2021-02-23at10.50.17PM]  
 
 The item in my random draw is STC N38682, a 24p. ; 12⁰ edition printed in 1797. It is not in ECCO; copies of the light-hose volunteer rules & regulations that *are* in ECCO are as follows:
 
@@ -1183,6 +1287,28 @@ Jovellanos’s diary for February 14 1794 reads: "La noche clarísima: ni una nu
 
 How widespread was scientific knowledge of eclipses? Certainly, Goodall illustrates that the more rational/enlightened approach could coexist with superstitious thinking. Am I falling into a high/low trap here with a rational vs populist binary?  
 
+Knox argues, first, that there was an abundance of prophetic texts available to readers in the 1790s, and, second that for their readers, “during this epoch it became increasingly difficult to exclude the ‘lunatick visionaries’ from conceptions of plausibility” (430). Knox emphasizes comets as phenomena undergoing simultaneous and co-implicated (rather than strictly parallel) investigation for meaning. For example, “by helping them to chart the paths of comets in the eighteenth century, telescopes enabled astronomers to claim that, as predictable, periodic objects, comets could signify nothing. Nevertheless, in George Ill's England, comets remained symbols of God's fury... Even the eminently reasonable *Gentleman's magazine* communicated accounts of cometary effects on the weather, the taste of venison, and the number of twins birthed in the metropolis” (432).
+
+
+
+A striking generalization that Piper would find notable: “Late-Georgian London was filled with signs. Each symbol, emblem, gesture, hieroglyph, flag, poem, prophecy, song, token and picture wanted interpretation.” (427)
+
+“Looking at moments of significant political crisis and crises in signifying shows how quickly the hard work that made representations seem natural can be nullified. While prophets used their visions to overturn the prevailing conception of order, other crucial signs of order were destabilized and "denaturalized" by London's philosophic radicals. ... The furore over these signs reflected two other problems which these late Georgians confronted. The first problem revolved around attempts to distinguish between the plausible and the absurd, while the second problem that occupied the minds of Londoners in the 1790s concerned the delineation of the rational public.” (428)
+
+
+
+Hershel published through the 80s and 90s about comets --- but also thought people lived on the moon
+
+Prominent examples of Brothers, whose millenarian prophecies around 1795 gathered momentum and censure. Arrested for imagining the king’s death (438)
+
+
+
+“Exploiting the savvy of publishers like George Riebau of the Strand, countless pamphleteers embarked under the standard of "Prince Richard". William Sales's Discourse on prophets, Samuel Whitchurch's Another witness!, John Willison's A prophecy of the French Revolution, and the downfall of Anti- christ, James Bicheno's Signs ofthe times, or dark prophecies ofScripture illustrated, Francis Offley 's Richard Brothers, neither madman nor imposter and Richard "Citizen" Lee's memorable Happy reign ofGeorge the last all promised authorized visions of the future." In London bookshops these vaticinations could be found next to Joseph Priestley's Present state o f Europe compared with antient prophesies, The celestial telegraph, The conjuror's magazine, Every lady's ownfortune- teller and Moore's Vox stellarum. In 1795 Samuel Taylor Coleridge penned his apocalyptic Religious musings and William Blake finished engraving Europe: A prophesy, in which he imagined Newton to "blow the trump of the last Doorn”” (438)
+
+
+
+“In this paper I have argued also that the scientific symbols of this period cannot be isolated from contemporaneous disputes concerning other signs. It was difficult for Londoners to discriminate between the signs that surrounded them. This is in part due to the physical proximity where these signs were produced, exchanged and discussed - in the Strand, in the City and nestled around St Paul's. Those who discussed them realized that it was their remarkable interaction that gave them their complete meaning.” (451)  
+
 This is an unsigned single-sheet document. I know far more about the piece of paper than the contents: the ESTC describes it as 1 sheet ;  1/2⁰ with dimensions of 34.6 x 20.8cm and horizontal chain lines. There is also an uncontrolled note saying that the record is based on “Lpro copy with other material from 1792”
 
 The shelfmark, HO.42/23 \[632\], points in the London National Archives to “HO 42. Letters and papers. Piece described at item level.” This consists of a whole lot of correspondence sent to the Home Office, which has actually been scanned! Things are stamped with numbers in the upper-right.... And OH MY GOD 632 SHOWS A SCANNED COPY OF THE ACTUAL DOCUMENT, FREE TO THE PUBLIC AND RIGHT HERE, I CANNOT BELIEVE IT!!!! Image 940 shows the front, and image 941 shows the back. The item has its own record at http://discovery.nationalarchives.gov.uk/details/r/C10614791
@@ -1238,6 +1364,98 @@ In general Williams is very loosey goosey with timelines; more than 200 years tr
 
 
 P 141 her conclusion: “ Looking more closely at how people read and used the literature of jest reveals the faultlines between theories of happiness, and the lived reality. We can see the way in which jokes and games were sometimes seen as an embodiment of friendship groups, and were thus especially valuable for those living in relative isolation -- often the same kind of rural seclusion that was elsewhere praised as a model of contented moderation. It also shows us the way sociable humour promoted inclusive ideas of general human well being, but that it was also frequently predicated on the exclusion of certain groups. ... It was based on the idea that other people’s joviality is infectious and curative. But printed jokes and games are of course, not the same as the company of real people, and in some ways, jestbook mirth is a culture of fun by proxy. If the eighteenth century was truly the age in which secular happiness was invented, it was also an age which discovered some of the limitations of a literature of happiness.”  
+
+”Jestbooks and comic pamphlets are notoriously fugitive texts. They were messily and haphazardly produced. Large numbers give no date in the im-print, and their publishers used all the most artful pu  ng techniques, includ-ing wildly in ated edition numbers. Ongoing work at the English Short Title Catalogue (ESTC) is now revealing the extent and diversity of bibliographic guesswork that went on as these books entered collections around the world. Even with easier access to newspaper advertisements and book trade data, it has not always been possible to establish  rm publication dates or con rm edition numbers. Perhaps half the relevant ESTC dates are conjectural, many of them derived from the old British Museum Catalogue of Printed Books and now repeated in Eighteenth Century Collections Online (ECCO). I have used none of these estimates without external con rmation. Occasional  corrections to ESTC are made silently” (xii)
+
+
+
+“So much good scholarship on sentimental lit-erature has e ectively created a countercanon (certainly it is hard now to put ourselves back into the situation Terry Eagleton described in , when he wondered whether “we may now once again be able to read Samuel Richard-son”).3 In anthologies, literary histories, and syllabi, the middle decades of the eighteenth century have switched wholesale from the old Age of Johnson into the new Age of Sensibility.4 Exactly how all this happened---how changes in British history coincided with new directions in the history of ideas, evolving critical practices in English departments, and changing demands on the acad-emy as a whole---is a fascinating but hugely complex question. The simpli ed answer is that the politeness-sensibility paradigm is a compound formation: a critical mass of scholars has now focused on this cluster of phenomena, just as a previous generation decided that Johnson was the de ning or most interest-ing  gure of his age.” (3)
+
+
+
+“one of the recurring themes of this book: the sheer slowness with which ordinary su erings---the unheroic miseries of pov-erty, the humiliations of disease, the private trauma of a rape victim---became worthy of sympathy and serious aesthetic representation.” (4)
+
+
+
+“This new historical work reminds us that all the cautions about delicacy, benevolence, sexual modesty, and the proper use of time would hardly be necessary if women were already following them.” (6)
+
+
+
+”More important, eighteenth-century scholars have been warning against teleology for generations. Poetry specialists have repeatedly insisted that we will never understand mid-eighteenth-century po-etry unless we stop looking for anticipations of romanticism. Scholars of early women’s  ction long ago demonstrated that we have to put aside narratives about the rise of realism if we are make sense of Behn, Manley, Haywood, and other long-scorned authors.This single-genre scholarship provides invaluable demonstrations that anyone aspiring to a genuinely historicist picture of the literary past must try to put aside, at least temporarily, their knowledge of what happened next. My focus in this study is not a genre but a slice of time, the thirty years 1740--70. ... In looking at reprints and restagings, I am clearly opting for the *parlia-ment* model of literary history rather than the *parade*: I look at the full range of texts available at this historical moment, inherited as well as new.” (10)
+
+”In retrospect, politer manners and more sympathetic attitudes toward others seem like the way of the future, but many contemporaries dismissed them as passing a ectations or fruitless attempts to undermine British manhood. The same cautions apply to literary history: a number of contemporaries did recognize the novel as a “new species of writ-ing,” but the genre’s long-term dominance was far from obvious. Indeed, by the late 1750s many people thought the fad was over, as they watched  ction degrading into a mass of derivative texts.” (11)
+
+
+
+“Jestbooks have generally been categorized as “popular” texts. And certainly one’s initial reaction is to see them as artifacts of low culture, examples of the vulgar taste from which the “polite” classes were self-consciously separating themselves. ... The problem is that none of these nasty witticisms comes from the cheap-est or crudest forms of print. Most jestbooks were produced for middle- and upper-class readers: at 1s. 6d., 3s., or even 5s., they were far beyond the reach of a popular audience.” (20)
+
+“The only truly popular jestbooks were chapbook versions produced by the Dicey family and other printers and, beneath them, all sorts of even more diminutive pamphlets of perhaps a single quarto sheet, the work of ephemera publishers and provin-cial booksellers.” (21)
+
+“On the basis of price alone, mainstream duodecimo jestbooks were clearly produced for those with considerable disposable income---even artisans or small shopkeepers would have struggled to scrape together the necessary shil-lings. These books appealed to readers very di erent from those who bought the Dicey chapbooks. Many jestbook situations are speci c to urban readers with money” (30)
+
+“we are still far less familiar with the duodecimo jestbooks and comic miscellanies put out by mainstream London booksellers---those producing the classics, sacred literature, expen-sive scienti c or philosophical works, and what we now think of as polite liter-ature.” (22)
+
+“In spite of their extravagant boasts of originality, these new titles were invariably plagiarized wholesale from previous books, hastily thrown together by minor actors or printer’s hacks who were down on their luck.” (22)
+
+“The typical book gathers several hundred jokes, in no particular order, followed by a dizzying array of other amusements.” (23)
+
+
+
+“jestbooks were produced, in this age when dullness was the worst of social vices, as how-to manuals for those wanting to shine in com-pany. And here, having mentioned the all-male venues (drinking parties, urban rambles), it seems important to emphasize how much of this humor envisages a mixed or entirely female audience and how many of the implied speakers are female. Women as well as men read jestbooks before social events. “I fancy, madam, you have been reading a jest book this morning,” says Mr. Burchell to an unusually witty Mrs. Primrose in The Vicar of Wake eld.” (36)
+
+
+
+“Given their prominence in the eighteenth-century book trade, jestbooks and related comic imprints are now extremely rare. One repeatedly  nds references---in newspapers, bookseller’s catalogs, end-page advertise-ments, and printers’ ledgers---to texts of which there are now no records. Even if one assumes high levels of pu  ng, the number of lost texts is phenomenal. More starkly than most print genres, jestbooks remind us that survival rates are never a reliable guide to the original prevalence and distribution of any book.87 They also invite us to re ect on the accidents and processes by which less appealing historical documents survive or perish. At the most basic level, the scarcity of jestbooks is a material phenomenon: sold in sheets and carried about in pockets, they were read to the point of disintegration. But at least as important, such publications were hardly ever collected, in any of the multiple senses of that term. ... Among comparable categories of publication---almanacs, newspapers, halfpenny bal-lad sheets, Nonconformist tracts, economic pamphlets---ephemeral comic texts may be the least likely to have survived. (Compare the fate of didactic or religious texts, preserved from the very beginning in public collections and invaluable private ones like Dr. Williams’s Library.)” (43)
+
+“The obscure hero of this project is Walter Newton Henry Harding (1883--1973), a cinema organist and music-hall pianist from Chicago who amassed almost three hundred early jest- and songbooks and left them to the Bodleian Library. Cruelty and Laughter would have been immensely more di  cult without them.88 In , however, one might be more sanguine about this and other long-standing gaps in the human record. Databases and digitization projects now o er ever easier access to rare and scattered texts; the remaining barriers are more institutional and disciplinary” (44)
+
+
+
+“Few discoveries have remained so striking throughout this project as the vol-ume of comic  ction in the midcentury print market. Well-known sentimen-tal or didactic novels---Clarissa, David Simple, Millenium Hall, The Vicar of Wak e eld---were surrounded if not swamped, when they  rst appeared, by playful “lives” and “adventures.” (250)
+
+“Few scholars have read any of these books, but there are dozens, if not hun-dreds, more where they came from---cheerful memoir novels in which a skel-etal plot and a rudimentary central character are used to string together a se-quence of broad comic incidents.” (251) - talking about “Ramble novels”
+
+“Distinctly trashy as most now seem, ramble novels were in no way distinguished---neither by the book trade nor by reviewers or readers---from what are now accepted as literary novels. They were published in the same duodecimo format and sold for the same price of 3s. per volume as the canonical  ction of these years.” (251)
+
+”it is shocking to discover how little we still know about the noncanonical  ction of the age.” (251)
+
+“But no one has much to say about the hundreds of less de nable, appeal-ing, or polemically useful texts: piles and piles of droll narratives about sailors, orphans, rascally apprentices, and Irish fortune-hunters.” (252)
+
+
+
+“How bad are these books? Judged by formal-realist standards, they inevitably fall short. One  nds glaring chronological and geographic mistakes (Madeira in the Caribbean, Milan in the Low Countries) and inconsistencies in the oc-cupations and even names of important characters. The heroine is introduced as Lucy but then reappears in volume  as Louisa. After ten years as a slave in Algiers, the hero somehow returns a younger man. Authors evidently felt no shame in admitting that they had forgotten to plan for a recognition scene or other major plot twist (“I should have mention’d before, that, at parting, he had made her a Present of a Tortoiseshell Snu -box set in Gold, and his Picture in the Lid of it”).34 Huge sections of one novel reappear in other ti-tles, with no more than super cial changes. The Fleet Street printer Henry Woodgate reissued most of The Adventures of Jack Smart (1756) as The For-tunate Imposter (1759), simply renaming the central character and hardly car-ing whether anyone noticed. Such practices reveal in an instant the intensely seasonal nature of the midcentury  ction market. “From the trade’s point of view,” says the book historian John Feather, “the signi cance of the novel lay not in its literary merit but in its essential triviality,” the way it so quickly made room for more of the same.35 These were disposable texts, intended to be read once, discussed for six or seven months, and then forgotten.” (265)
+
+“Ramble novels are almost without desire, as a narratologist might say. There are no important mysteries to be resolved, no hermeneutic plot. Who left the infant heroine on the woodpile? Will Jack ever  nd his father? Such questions inevitably cross our minds, but identity is never the ongoing enigma that it is in Tom Jones or Evelina. Will the hero recover his lovely Lydia? Will she forgive him for trying to assault her in the hackney coach? It hardly matters: the heroines of these novels are so flat and unproductive of sympathy that any young woman with £12,000 will tie up the plot just as well.What really sticks in the mind is the riotous, anarchic comedy of these books, most of it entirely irrelevant to plot. Neither narratology nor our ev-eryday critical vocabulary o ers any positive terminology for such noninstru-mental content.” (266)
+
+
+
+“Perhaps half these texts---a surprising proportion given so much recent emphasis on the instructive functions of early  ction---make no claim to be anything more than cures for the spleen or diversions for “vacant hours.” Long titles and advertisements persistently stress the books’ “sundry humour-ous Anecdotes,” their abundance of “laughable Incidents” and “Entertaining Characters.” Another half include a stock didactic preface and intermittent moralizing for those who needed it.” (268)
+
+
+
+**“Most unsettling of all, even the nastiest rambles might include genuinely sentimental episodes.”** (269)
+
+
+
+“With the high costs and narrow pro t margins of eighteenth-century book production, authors and publishers clearly needed to attract as many readers as possible. The more haphazard of these novels read almost like miscellanies, themselves such a profitable part of the midcentury print market. But even more uni ed texts include wildly inconsistent materials without the slight-est narrative pretext. ... And one would be wrong to attribute such diversity to lack of skill: abundance and variety were important selling points. Title pages and advertisements promise plenitude: the main narrative is “interspers’d with” additional attractions, “A great Variety of Incidents,” “Sundry very curious Particulars.”” (269)
+
+
+
+“Jerry Buck, David Ranger, Betty Ireland: why are these popular and pro t-able texts so entirely absent from working assumptions about early English  ction? As with jestbooks or comic periodicals, material survival is itself a ma-jor factor: many ramble novels are now exceptionally rare, surviving in single or imperfect copies, with pages missing and covers torn o . .... A striking number, perhaps 12--15 percent, haven’t survived at all, being known only by reviews or advertisements. At the same time, the selection processes of literary history were already begin-ning in the late eighteenth century. None of these texts, not even blockbust-ers like Joe Thompson, make it into early nineteenth-century collections or histories of the novel by Scott, Barbauld, and John Dunlop. A century later, when the  rst professional English literature scholars began their rehabilita-tion of eighteenth-century  ction, they obviously had no use for hackwork. It was hard enough to convince people that Defoe, Fielding, and Smollett were worth reading, let alone these coarse and amoral formula  ctions. A half century later, ramble  ction had no place in teleologies like Ian Watt’s---argu-ments that made eighteenth-century texts respectable by relating them for-ward to the great realist and modernist novels.Times have now changed. Few professional scholars talk about literature in the old exalted sense, and aesthetic judgments are seldom relevant. We know what forward-looking perspectives do to the past. The  ction canon has now been expanded to admit all manner of minority voices, most notably the dozens of women writers who made such major contributions to early  ction. But no one has had much to say about ramble novels, and this silence reveals just how few adequate methods we still have for dealing with frankly distasteful parts of the historical record. Recovery projects and calls to expand the canon depend on empathetic perspectives. As John Guillory pointed out more than a decade ago, they conceive of texts as representing a community in the way that politicians represent their constituents. The critic’s job is to speak for each marginalized author and the marginalized communities they represent.” (277)
+
+
+
+“Monographs by Margaret Cohen and Katie Trumpener both champion unrecognized precursors of canonical au-thors and suggest that this suppressed tradition would have been preferable to what actually developed. ... None of this rhetoric is available for ramble  ction. Who wants to champion Jack Smart or The History of Pudica? Claiming long-term in uence is not an option either. One might no doubt trace connections to Egan, Marryat, or Bulwer Lytton, but in truth these texts are dead ends---without in uence and stubbornly of their time. Few readers of midcentury comic  ction---or any of the other forgotten rubbish of this study---could feel much regret that literary history left them behind.” (279)
+
+
+
+“Oliver Goldsmith was a famously unattractive man---with a face scarred by childhood smallpox, a protruding forehead, receding chin, and noticeably awkward physique. His biographers record constant cruel references to his “monkey face” and “gro-tesque orang-outang  gure.” A well-known story from the Johnsonian Miscel-lanies points not just to the acceptability of such comments but to their social currency---their value to everyday readjustments of the social pecking order. Asked to make a toast to the ugliest person she knows, a young lady raises her glass to Goldsmith. This so amuses a second lady that she reaches across the table to shake hands, “expressing some desire of being better acquainted with her, it being the  rst time they met.” Johnson saw the point immediately: “Thus the Ancients, on the commencement of their Friendships, used to sac-ri ce a beast between them.”” (85)
+
+“ Contemporary accounts of accomplished disabled or ugly people invariably describe a moment at which one suddenly saw that they were not just a hunchback or hideous cripple. ... Oliver Goldsmith was just another awkward ugly hack until The Traveller convinced people that he was a great poet: “I never more shall think Dr. Goldsmith ugly,” said Mrs. Chol-mondeley to Johnson.” (103)
+
+
+
+““Lewd whispers, groans of contrition burlesqued, winking and coughing”: this response to a sermon from Goldsmith’s vicar of Wake eld seems to record familiar impieties.63 The jestbooks are full of jokes about long, tedious sermons and preachers who put the congregation to sleep (Reverend Drone, Doctor Drowsy, and many more). Righteous moralist that he was, the local vicar cried out for de ating humiliations--- nothing was fun-nier than stealing his wig or  nding him in bed with the village whore. Priest-baiting was an old game in English comedy” (179)  
 
 **Theories in succession:**
 
@@ -1419,6 +1637,34 @@ The HathiTrust scan of Dobson is unusually bad, with a HUGE number of repeated p
 
 It presents itself as a “facsimile” edition but since it is from 1885 this appears to mean... that it was typeset with 18thC type to match the first edition? Surely there’s no direct image transfer...? Was it just for fun that the preface was also typeset in an 18thC font, or was there a practical reason for it? (When I was trying to skim the page images to spot the promised preface and bibliography, I skipped right past them because they looked too much like 18thC pages!)  
 
+Bailey provides an unusually detailed research methodology, including a sampling rationale and justification: 
+
+“A variety of diverse sources spanning the period are consulted in order to compile a wide‐ranging picture of representations of fatherhood. This survey is not intended to be fully systematic. The sources are deliberately selected for their diversity of genre and date in order to broaden out from previous denominational or regional foci. They include advice literature, to provide a comparison with the larger body of work on prescription aimed at women, and periodicals, particularly the Lady's Magazine, sampled between 1770 and 1810. The latter source complements William Stafford's recent study of representations of gentlemen in the Gentlemen's Magazine. Memoirs of men and women born and reaching adulthood in the first fifty years of the period are also examined. ... Additional sources such as fiction and art are considered as a context. The selected sources inevitably bias the study towards the upper middle classes as there is no space to assess popular culture. It may be that some fundamental aspects of fatherhood were shared by the literate and semi‐literate and it is hoped that future research will trace the evolution of these ideals both earlier in the century and from the perspective of different social ranks.”
+
+“Descriptions of fathers were analysed using qualitative research software (NVivo). The data were coded where references to fathers occurred at ‘nodes’, collections of references from multiple sources grouped by concept. These nodes were named according to the type of fathering referred to in the sources.”
+
+
+
+Key conclusions:
+
+“In short, being a father sensitized men.”
+
+“It might be expected that it was the tyrannical father who served as the unacceptable opposite to the affectionate papa. Certainly, male tyranny in the family was condemned...Yet, most often, the tender father's antithesis was the indifferent father... Such fathers were condemned because their children did not fill their minds, which were sidetracked by less important things.”
+
+“The intimate connection between emotional and material care within provision is perhaps best seen in the defining feature of a ‘bad father’ which was his *refusal*, as opposed to his inability, to support his children.”
+
+A shift away from physical discipline--- “authority was still asserted by tender fathers though it was conveyed in sentimental form”
+
+“The emergence of the tender, protective, virtuous father was shaped by the challenges which were perceived to threaten eighteenth‐century society. British society experienced commercialization, in both domestic and transatlantic forms, escalating consumption and manufacture, urbanization, global wars, and by the final quarter of the eighteenth century the potential for political revolution.” “The dissipated man did not just destroy his own family; he weakened social bonds by undermining the family, and squandered the wealth of the nation.”
+
+
+
+Examples from Vicar:
+
+“They revelled in their children's' existence. In the Vicar of Wakefield, first published in 1766, Reverend Primrose confessed, ‘it would be fruitless to deny my exultation when I saw my little ones about me’.47 Fathers personally experienced their children's delights and sorrows.”
+
+“The best father was kind and forgiving when a child was disobedient. The Vicar of Wakefield refused to turn away his disobedient daughter and rejected his wife's threat that she would never let Olivia darken their doors again. He declaimed: ‘the wretched creature shall be welcome to this heart and this house, though stained with ten thousand vices.’86 This emphasis on benign mastery was compatible with the privileging of the tender aspects of fatherhood and matches advice that fathers be companions of children rather than overt disciplinarians.”  
+
 The first volume is divided into 40 sections, on a range of topics related to the body, the senses, and disease. He classifies bodily and sensory motions as "irritative," "sensitive," "voluntary," and "associate." He presents theories on the production and classes of ideas, and seeks to explain the causes and mechanisms of sleep, reverie, vertigo, and drunkenness. He then discusses anatomy, especially the operation of the circulatory system and various glands. Chapter 29, "The Retrograde Motions of the Absorbent Vessels," is Erasmus Darwin's translation of his late son [Charles Darwin](https://en.wikipedia.org/wiki/Charles\_Darwin\_(medical\_student))'s dissertation. These anatomical chapters are followed by four chapters on diseases, which draws on his classification of four types of motion to identify four types of diseases: those of irritation, of sensation, of volition, and of association. Two chapters, "Of the Oxygenation of the Blood in the Lungs and Placenta" and "Of Generation" develop his theories about human reproduction, including observations related to evolution. The final chapter in the first volume is a reprint of a paper by another of Erasmus Darwin's sons, [Robert Darwin](https://en.wikipedia.org/wiki/Robert\_Darwin), about ocular spectra.
 
 The second volume is focused solely on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on the four classes of disease: diseases of irritation, sensation, volition, and association. This model of disease essentially tries to understand each symptom as being its own illness, seeking to explain the mechanism of the symptom’s operation in order to explain its causes and cures. The drawback of this model is illustrated by, for example, his division of fevers into five classes: irritative fever, inirritative fever, sensitive fever, sensitive irritated fever, and sensitive inirritated fever (Darwin *Zoonomia* 191). At many points, his treatment suggestions are accompanied by question marks, or include direct questions and suggestions for experiments, indicating the “in progress” nature of even this very polished work. The literary style in general is very different between the two, with the second volume far less digressive and allusive.  
@@ -1443,7 +1689,11 @@ Connecting Darwin to Goodall: Darwin was “one of the leading members of the ce
 
 
 
-Vicar has some comments about jest-books  
+Vicar has some comments about jest-books
+
+
+
+Vicar & Zoonomia make the same argument about hierarchies of people arising naturally; p 671 Zoonomia  
 
 General Dundas’s advice on cavalry influenced the light-horse book --- any relation to the Dundas in the East India proceedings??  
 
@@ -2241,12 +2491,6 @@ Divides diseases into species and genera based on proximate casues and effects i
 
 
 
-P 23 - some comments on scorbutic and scrofulus diseases caused by eating too much salt meat
-
-![][ScreenShot2021-01-28at3.29.06AM]
-
-
-
 P 29 - treat colds with warm water, enemas, and opium
 
 ![][ScreenShot2021-01-29at7.06.54PM]
@@ -2276,12 +2520,6 @@ P 71 mentions an alarum clock
 
 
 P 73 - frequent miscarriages, cured by opium
-
-
-
-P 74 - one of the only things not cured by opium is scurvy
-
-![][ScreenShot2021-01-29at8.14.05PM]
 
 
 
@@ -2410,12 +2648,6 @@ P 260 - he tells practically a morality tale abut white lead makeup
 
 
 P 260 - a long section of anecdotes against face-washes, with parallels to the Vicar of Wakefield. The cure for pimples is blistering your whole face!
-
-
-
-P 226 - a cure for scrophulous ulcers that Darwin tells secondhand from a 12yo boy
-
-Also--- sea scurvy!
 
 
 
@@ -2751,11 +2983,145 @@ P 598 - extremely detailed account of a continued fever of “master S.D. an act
 
 P 625 - conclusion to his theory of fevers (which was 88 pages long): “what may be termed the sympathetic theory of fevers, to distinguish it from the mechanic theory of Boerhaave, the spasmodic theory of Hoffman and of Cullen, and the putrid theory of Pringle.”
 
-![][ScreenShot2021-02-21at2.14.38AM]  
+![][ScreenShot2021-02-21at2.14.38AM]
+
+
+
+P. 627 - as an addition, describes “This day, August 8^th^ 1794” seeing “a negro” who has vitiligo, joined to an explanation of animals’ fur colours (proposing that compression in the uterus causes lighter colours.....)
+
+
+
+P 630 - somewhat retracting some ideas about vertigo, “Having reperused the ingenious Essay of Dr. Wells”
+
+
+
+P 631 - clarifying something because “A correspondent acquaints me, that he finds difficulty in understanding...”
+
+
+
+P 638 describes a series of puerperal fevers in which “the contagion was always carried by the accoucher or the nurse from one lying-in woman to another”
+
+
+
+P 641 - beginning of the index
+
+
+
+P 656 What! Suddenly a PART III! What!! “Containing the articles of the materia medica, with an account of the operation of medicine.”
+
+
+
+P 657
+
+![][ScreenShot2021-02-22at1.06.14AM]
+
+
+
+P 658![][ScreenShot2021-02-22at1.06.20AM]
+
+
+
+P 662-3 he talks about explaining the differences between spring milk and autumnal milk, and, man.... I have never noticed seasonal differences in milk.
+
+
+
+P 664 sugar is nutritious
+
+![][ScreenShot2021-02-22at6.42.28PM]
+
+
+
+P 668 how to cook without getting too much lead poisoning
+
+
+
+P 670: “perhaps the only valid argument against inclosing open arable fields” is the importance of agriculture & grain to supporting humanity
+
+![][ScreenShot2021-02-22at6.50.47PM]
+
+
+
+He gets political! 670-671
+
+![][ScreenShot2021-02-22at6.51.29PM]
+
+![][ScreenShot2021-02-22at6.51.56PM]
+
+
+
+P 676 what if you bathed in food
+
+![][ScreenShot2021-02-22at6.54.23PM]
+
+
+
+P 677 catalog of foods
+
+![][ScreenShot2021-02-22at6.55.59PM]
+
+
+
+P 683 “Opium, when taken as a luxury, not as a medicine, is as pernicious as alcohol; as Baron de Tott relates in his account of the opium-eaters in Turkey.”
+
+
+
+P 692-693
+
+![][ScreenShot2021-02-22at7.02.48PM]
+
+![][ScreenShot2021-02-22at7.02.55PM]
+
+
+
+P 726 lots of notes on the medical uses of arsenic, including how to get the dosage accurate
+
+
+
+P 765 - ends with a poem reiterating his hopes that the book will become important over time
+
+![][ScreenShot2021-02-23at6.29.20PM]
+
+
+
+P 772: it looks like the british museum put their stamp aesthetically on the last page? Or was it originally published under the aegis of the BM??
+
+![][ScreenShot2021-02-23at6.31.04PM]  
 
 P xi preface ends with a plea to readers, dated “Derby, Jan 1 1796”
 
 ![][ScreenShot2021-01-28at2.49.22AM]  
+
+P 23 - some comments on scorbutic and scrofulus diseases caused by eating too much salt meat
+
+![][ScreenShot2021-01-28at3.29.06AM]
+
+P 74 - one of the only things not cured by opium is scurvy
+
+![][ScreenShot2021-01-29at8.14.05PM]
+
+P 226 - a cure for scrophulous ulcers that Darwin tells secondhand from a 12yo boy
+
+Also--- sea scurvy!
+
+
+
+P 660 - a halfhearted link between diet and scurvy: “...we feel ourselves warmer and stronger after a meal of flesh than of grain. Hence in diseases associated with cold extremities and general debility this kind of diet is preferred; as in rickets, dropsy, scrophula, and in hysteric and hypochondriac cases.” \[Is scrophula related to scurvy?\]
+
+
+
+P 695 maybe salt causes scurvy
+
+![][ScreenShot2021-02-22at7.05.06PM]
+
+
+
+P 720-721: celery helps with scurvy by increasing the absorption of the veins
+
+![][ScreenShot2021-02-23at2.39.30PM]![][ScreenShot2021-02-23at2.39.35PM]
+
+
+
+  
 
 76
 
@@ -3755,6 +4121,18 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [pastedGraphic-2]: pastedGraphic.png
 
+[ScreenShot2021-02-22at9.56.40PM]: ScreenShot2021-02-22at9.56.40PM.png width=184px height=233px
+
+[ScreenShot2021-02-22at9.56.50PM]: ScreenShot2021-02-22at9.56.50PM.png width=189px height=156px
+
+[ScreenShot2021-02-23at10.38.54PM]: ScreenShot2021-02-23at10.38.54PM.png width=491px height=256px
+
+[ScreenShot2021-02-23at10.40.05PM]: ScreenShot2021-02-23at10.40.05PM.png width=494px height=271px
+
+[ScreenShot2021-02-23at10.41.20PM]: ScreenShot2021-02-23at10.41.20PM.png width=492px height=158px
+
+[ScreenShot2021-02-23at10.50.17PM]: ScreenShot2021-02-23at10.50.17PM.png width=489px height=217px
+
 [ScreenShot2021-02-16at2.42.46AM]: ScreenShot2021-02-16at2.42.46AM.png width=542px height=158px
 
 [ScreenShot2021-02-16at2.42.53AM]: ScreenShot2021-02-16at2.42.53AM.png width=543px height=155px
@@ -3939,13 +4317,9 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-01-28at2.45.49AM]: ScreenShot2021-01-28at2.45.49AM.png width=589px height=85px
 
-[ScreenShot2021-01-28at3.29.06AM]: ScreenShot2021-01-28at3.29.06AM.png width=604px height=191px
-
 [ScreenShot2021-01-29at7.06.54PM]: ScreenShot2021-01-29at7.06.54PM.png width=601px height=193px
 
 [ScreenShot2021-01-29at7.43.04PM]: ScreenShot2021-01-29at7.43.04PM.png width=598px height=212px
-
-[ScreenShot2021-01-29at8.14.05PM]: ScreenShot2021-01-29at8.14.05PM.png width=606px height=253px
 
 [ScreenShot2021-01-29at8.19.59PM]: ScreenShot2021-01-29at8.19.59PM.png width=615px height=164px
 
@@ -3991,7 +4365,41 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-02-21at2.14.38AM]: ScreenShot2021-02-21at2.14.38AM.png width=575px height=330px
 
+[ScreenShot2021-02-22at1.06.14AM]: ScreenShot2021-02-22at1.06.14AM.png width=574px height=527px
+
+[ScreenShot2021-02-22at1.06.20AM]: ScreenShot2021-02-22at1.06.20AM.png width=576px height=236px
+
+[ScreenShot2021-02-22at6.42.28PM]: ScreenShot2021-02-22at6.42.28PM.png width=568px height=212px
+
+[ScreenShot2021-02-22at6.50.47PM]: ScreenShot2021-02-22at6.50.47PM.png width=562px height=114px
+
+[ScreenShot2021-02-22at6.51.29PM]: ScreenShot2021-02-22at6.51.29PM.png width=563px height=248px
+
+[ScreenShot2021-02-22at6.51.56PM]: ScreenShot2021-02-22at6.51.56PM.png width=561px height=53px
+
+[ScreenShot2021-02-22at6.54.23PM]: ScreenShot2021-02-22at6.54.23PM.png width=574px height=70px
+
+[ScreenShot2021-02-22at6.55.59PM]: ScreenShot2021-02-22at6.55.59PM.png width=566px height=609px
+
+[ScreenShot2021-02-22at7.02.48PM]: ScreenShot2021-02-22at7.02.48PM.png width=404px height=254px
+
+[ScreenShot2021-02-22at7.02.55PM]: ScreenShot2021-02-22at7.02.55PM.png width=301px height=189px
+
+[ScreenShot2021-02-23at6.29.20PM]: ScreenShot2021-02-23at6.29.20PM.png width=184px height=199px
+
+[ScreenShot2021-02-23at6.31.04PM]: ScreenShot2021-02-23at6.31.04PM.png width=544px height=640px
+
 [ScreenShot2021-01-28at2.49.22AM]: ScreenShot2021-01-28at2.49.22AM.png width=578px height=297px
+
+[ScreenShot2021-01-28at3.29.06AM]: ScreenShot2021-01-28at3.29.06AM.png width=604px height=191px
+
+[ScreenShot2021-01-29at8.14.05PM]: ScreenShot2021-01-29at8.14.05PM.png width=606px height=253px
+
+[ScreenShot2021-02-22at7.05.06PM]: ScreenShot2021-02-22at7.05.06PM.png width=581px height=160px
+
+[ScreenShot2021-02-23at2.39.30PM]: ScreenShot2021-02-23at2.39.30PM.png width=576px height=276px
+
+[ScreenShot2021-02-23at2.39.35PM]: ScreenShot2021-02-23at2.39.35PM.png width=558px height=76px
 
 [ScreenShot2021-02-21at2.45.36AM]: ScreenShot2021-02-21at2.45.36AM.png width=296px height=68px
 
