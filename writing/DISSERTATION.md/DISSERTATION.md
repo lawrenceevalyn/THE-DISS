@@ -1081,6 +1081,12 @@ P 24-25, also warn school boys so they don’t end up French:
 
 This kind of religious writing follows very different conventions than a sermon --- not based on a passage from scripture.  
 
+“Michael Ragussis's dense and complex Figures of Conversion, which covers the years from about 1790 to 1870, contends that "the \[British\] novel participated in the public controversy over the mission to the Jews" (6). Ragussis starts off by arguing for the centrality of conversion and, later, Jewish conversion in English national life. While the Evangelical Revival gave rise to a desire to convert the heathen, "the proselytization of the Jews \[eventually\] took primacy over the missions to the heathens and even gained a kind of urgency, so that both strict millenarians and the larger Evangelical public began to see themselves as the benevolent guardians of the Jews" ( 5). That is to say, "the Jewish Question" comes to eclipse or overtake the colonial question as the main concern in English otherness in racial-religious terms. (Conversion itself Ragussis sees as "an ideological paradigm that will dominate nineteenth-century English discourse" \[ 3\].) From the French Revolution onwards, the conversion of the Jews would take on the proportion of a "pivotal" national project and assume a "critical function" ( 2) in defining English national identity.”(202) Partly through the novel, “"The Jewish Question" was gradually transformed from a theological question into a political question (based upon parliamentary debates over Jewish civil and political disabilities) and a racial question (based upon the racial theories that the new science of ethnology initiated).” (202)
+
+
+
+“He ranges in fair detail from Robinson Crusoe to Harrington, covers English historiography, Edmund Burke, memoirs by Jewish converts, popular novels, and millenarian texts, examines Benjamin Disreali, Matthew Arnold on "Hebraism," Anthony Trollope, and, finally, George Eliot. In the process, we come to see how the Jew has been a defining figure of difference in English culture and how this concern with Jewishness intersects with other Victorian concerns with "Englishness" in historical writing, writing which used the trope of conversion as "a crucial figure ... to construct, maintain, and erase different racial and national identities" (93).”  
+
 “An account of the prime cost of all cargoes purchased in India, and shipped for Europe, in the year 1793-4; together with the commercial charges at each presidency, not added to the invoice”
 
 This single sheet item was, according to the ESTC, “issued as a Parliamentary paper” (“ordered to be printed 17th April 1795”) and exists in three academic libraries. It is also reproduced in facsimile in volume 91 of the 1975 printed resource *House of Commons sessional papers of the eighteenth century*, edited by Sheila Lambert --- a work with 147 volumes! HathiTrust has scans of many of these volumes, but, heartbreakingly, not volume 91. HathiTrust goes from 89 to 92. Abebooks sells volumes 2 and 90, for very modest prices!
@@ -1263,6 +1269,16 @@ Although the ordinary volunteer companies seem associated with the middle class 
 
 Gilks concludes that “Individuals lavished thousands of pounds on specially designed uniforms, as well as buying the latest weaponry and saddlery, but this was not simply to satisfy their own vanity,” because “Most of the money spent by these aristocratic patrons on corps of Volunteer Cavalry was for the benefit of the men that served in them.” As Cookson had already shown, however, spending money on other people’s uniforms can be an even larger scale display of vanity and status. Gilks ends with an odd encomium: “the Volunteer Cavalry would have struggled to remain in existence into the twenty-first century and to form part of the Territorial Army had it not been for the leadership and support given by the aristocracy” (215).  
 
+Almost all attention to the volunteer military groups has been tied to the ‘ordinary men’ (and especially their political/nationalist motivations/identities) rather than the elite who made up the cavalry.
+
+P 1312
+
+![][ScreenShot2021-02-25at11.58.35PM]
+
+
+
+![][ScreenShot2021-02-26at12.00.27AM]  
+
 She’s describing a lunar eclipse that occurred 14 Feb, 1794 AD 22:21
 
 
@@ -1336,6 +1352,40 @@ The examples of useless attendants include the groom of the stool and the Lord o
 Finally it “proves” that high taxes are beneficial to the poor by asking them to imagine, in detail, what it would be like if they didn’t have to pay any of a long list of taxes, and could get there everything for a third the cost; the anemic result is that you would be three times ad drunk from buying three times as much alcohol, so that “your families would be starved and Your master’s work would not be done.”
 
 It closes with another comparison of the working poor to horses: “It is your province to labour and live hard, and be thankful to the King, and WE Gentlemen, that you are not obliged to run in our carriages, and eat grains, as the poor do, in some countries.”  
+
+“Paine's identification of England's nobility as corrupt and idle parasites, an ancien régime élite equivalent to their French aristocratic confrères, provided 'the starting point of 1790s radicalism' (p. 57). But in response to this fundamental conceptual and semantic shift, loyalists also went beyond invoking traditional conservative tropes of passive obedience, non-resistance and a divinely-ordained Church-State alliance.” (Prest 138)
+
+
+
+“The period 1793-6 saw both a general retreat of radical publicists from the more extreme positions staked out in the early 1790s, and the revival of demands usually associated with the previous decade, such as that for 'economical reform’.” (Prest 138)  
+
+P 152
+
+![][ScreenShot2021-02-25at3.08.50AM]
+
+![][ScreenShot2021-02-25at3.10.09AM]  
+
+Refers confidently to “the unprecedented circulation of The Rights of Man” (62).
+
+
+
+“the story has often been in the hands of Romanticists, whose own interests do not extend much beyond the thirties. The point of Haywood’s subtitle, ‘Print, Politics and the People, 1790--1860’, is that the narrative does not stop conveniently with the Reform Bill or the activities of the unstamped press. Rather, the battle for the ‘common reader’ was only just getting under way in the 1830s.” (62)
+
+“Haywood’s most important contribution to the study of popular literature is to link the period of radical print culture, the 1790 through to the 1830s, to the commercialism of the 1840s and 1850s, and to point up the continuities.” (63)
+
+
+
+“Haywood’s argument is that **rather than a battle for the heart and mind of the common reader**, conducted by the radical press on the one hand and the liberal establishment’s improving literature on **the other, the growth of cheap literature** from the late eighteenth to the mid-nineteenth century was a complicated story in which the battle lines were less clearly drawn. There **were, as he describes them, ‘a series of overlapping popular readerships’** which made up the market for a variety of cheap forms of print culture. The various genres operated with a degree of cultural independence, but they all subscribed ‘to a common metanarrative of “progress” and enlightenment, and they constantly appropriated and recycled each other’s aesthetic practices’.” (62)
+
+
+
+“Haywood is at his least convincing in his attempt to retrieve Hannah More from what he sees as the wrong-headedness of critics like Marilyn Butler, Kathryn Sutherland, and Anne Mellor who present her, very convincingly, as a counter-revolutionary ‘feminist’.” (63)  
+
+“Haywood brings to the forefront of current critical discussion the primordial nature of many once neglected cheap literary genres that were essential in the development of radical thought and culture in Britain at the time. This emphasis upon the literariness of the plebeian counter-sphere is at the heart of another of this text’s strong suits, namely, the recognition of “the people’s enlightenment.”” (2)
+
+
+
+“Haywood’s juxtaposition of contemporaneous radical and anti-radical cheap publications provides a balanced portrayal of what the people were actually reading and renders the political and social impact of radical literature all the more compelling for all the opposition it faced from rival ideologies which also espoused the cheap publication format as a way into the plebeian reading universe.” (3)  
 
 The first story is by Oliver Goldsmith and takes more than a page before its “joke” becomes entirely evident. Reading this short story it becomes easier to see the Vicar of Wakefield as also having a comic bent to its sheer quantity of miseries..... Though I still feel like there is some real sincerity there (as indeed there is some sincerity in The Disabled Solder in its implicit social critique)
 
@@ -1665,6 +1715,10 @@ Examples from Vicar:
 
 “The best father was kind and forgiving when a child was disobedient. The Vicar of Wakefield refused to turn away his disobedient daughter and rejected his wife's threat that she would never let Olivia darken their doors again. He declaimed: ‘the wretched creature shall be welcome to this heart and this house, though stained with ten thousand vices.’86 This emphasis on benign mastery was compatible with the privileging of the tender aspects of fatherhood and matches advice that fathers be companions of children rather than overt disciplinarians.”  
 
+P 2
+
+![][ScreenShot2021-02-26at12.08.27AM]  
+
 The first volume is divided into 40 sections, on a range of topics related to the body, the senses, and disease. He classifies bodily and sensory motions as "irritative," "sensitive," "voluntary," and "associate." He presents theories on the production and classes of ideas, and seeks to explain the causes and mechanisms of sleep, reverie, vertigo, and drunkenness. He then discusses anatomy, especially the operation of the circulatory system and various glands. Chapter 29, "The Retrograde Motions of the Absorbent Vessels," is Erasmus Darwin's translation of his late son [Charles Darwin](https://en.wikipedia.org/wiki/Charles\_Darwin\_(medical\_student))'s dissertation. These anatomical chapters are followed by four chapters on diseases, which draws on his classification of four types of motion to identify four types of diseases: those of irritation, of sensation, of volition, and of association. Two chapters, "Of the Oxygenation of the Blood in the Lungs and Placenta" and "Of Generation" develop his theories about human reproduction, including observations related to evolution. The final chapter in the first volume is a reprint of a paper by another of Erasmus Darwin's sons, [Robert Darwin](https://en.wikipedia.org/wiki/Robert\_Darwin), about ocular spectra.
 
 The second volume is focused solely on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on the four classes of disease: diseases of irritation, sensation, volition, and association. This model of disease essentially tries to understand each symptom as being its own illness, seeking to explain the mechanism of the symptom’s operation in order to explain its causes and cures. The drawback of this model is illustrated by, for example, his division of fevers into five classes: irritative fever, inirritative fever, sensitive fever, sensitive irritated fever, and sensitive inirritated fever (Darwin *Zoonomia* 191). At many points, his treatment suggestions are accompanied by question marks, or include direct questions and suggestions for experiments, indicating the “in progress” nature of even this very polished work. The literary style in general is very different between the two, with the second volume far less digressive and allusive.  
@@ -1673,9 +1727,83 @@ It was difficult to find secondary work on zoonomia, since most work on Erasmus 
 
 Zoonomia gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. They’re not valueless, and perhaps did have impact as precursors to a true understanding of evolution, but they’re also not as accurate or complete as they have been presented. And, more importantly, they are not important *to Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,180 pages of this 1,200 page work.  
 
-Gould calls *Zoonomia* “a paean to progress in a world that many judged on the brink of ruin” (80). He notes that our reading of this work has a different emphasis than the work itself: “in the anachronistic tradition that judges biological works by their attitude to the great watershed of evolution... Zoonomia owes its modern reputation to a few fleeting passages that look upon organic transmutation with favor.”
+Gould calls *Zoonomia* “a paean to progress in a world that many judged on the brink of ruin” (80). He notes that our reading of this work has a different emphasis than the work itself: “in the anachronistic tradition that judges biological works by their attitude to the great watershed of evolution... *Zoonomia* owes its modern reputation to a few fleeting passages that look upon organic transmutation with favor.” (80)
 
 As Gould identifies, Erasmus’s theory relies on the idea that new developments are *useful*, and therefore runs around of male nipples --- which, Gould says, continue to confuse people learning about evolution. This leads Gould to a discussion of clitoral pleasure as another oddity requiring evolutionary explanation, suggesting that our false ideas about the evolutionary adaptations of female sexual pleasure cause harm through Freud’s theory that vaginal orgasm is more “mature” than clitoral orgasm. The article itself then is not really about Erasmus or nipples but opens with him as an interesting anecdote.  
+
+76
+
+![][ScreenShot2021-02-21at2.45.36AM]
+
+![][ScreenShot2021-02-21at2.45.39AM]
+
+
+
+77
+
+![][ScreenShot2021-02-21at2.41.54AM]
+
+
+
+79
+
+![][ScreenShot2021-02-21at2.43.50AM]
+
+
+
+80
+
+![][ScreenShot2021-02-21at2.44.50AM]  
+
+Hassler’s odd little piece on *Zoonomia* and David Hume actually seems to engage with *Zoonomia* more on its own terms: it is a failed attempt to systematize knowledge which fails, in part, because it is reasoning far beyond its evidence. But I admire Hassler for seeing the book as failing on its own terms, rather than seeing it as succeeding at something which was not really its goal.
+
+
+
+P 190
+
+![][ScreenShot2021-02-21at11.36.45PM]
+
+P 191
+
+![][ScreenShot2021-02-21at11.37.14PM]
+
+
+
+P 191
+
+![][ScreenShot2021-02-21at11.37.40PM]
+
+
+
+P 192
+
+![][ScreenShot2021-02-21at11.38.08PM]
+
+
+
+P 193
+
+![][ScreenShot2021-02-21at11.38.30PM]  
+
+Schwartz introduces him breezily as a “pioneer of evolutionary theory” (27).
+
+
+
+“He ushered in what Seward called “a new era of pathological science,” / with Zoonomia in particular helping to secure Darwin’s honored place as the preeminent physician of the English Midlands for over five decades and serving as a boilerplate for his burgeoning ideas on life’s evolutionary development ... Begun in 1770 and first published in two volumes in 1794 and 1796, respectively, Zoonomia is described proudly by Seward as 
+
+the gathered wisdom of three-and-twenty years embracing, with giant-grasp, almost every branch of philosophic science; discovering their bearings upon each other, and those subtle, and, till then, concealed links by which they are united; and with their separate, conjunctive and collective influence upon human organization; their sometimes probable, and at others demonstrative, power, under judicious application, of restoring that regularity to the mechanism of animal life, which is comprehended under the term health.
+
+And while the “doctrines of the Zoonomia are not always infallible,” continued Seward, “it is a work which must spread the fame of its author over lands and seas, to whatever clime the sun of science has irradiated and warmed . . . throwing novel, useful, and beautiful light on the secrets of physiology, botanical, chemical, and aerological.”” (31-32)
+
+
+
+P 42-43:
+
+![][ScreenShot2021-02-25at1.37.38AM]
+
+![][ScreenShot2021-02-25at1.37.48AM]  
+
+Even the encomiums on Darwin presented by the necessarily-biased Erasmus Darwin House Museum recognizes the failure of *Zoonomia*’s ambition: “One reviewer claimed that Zoonomia ‘bids fair to do for Medicine what Sir Isaac Newton’s Principia has done for Natural Philosophy.’ It didn’t, but it was a nice thought.”  
 
 Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
 
@@ -3123,60 +3251,6 @@ P 720-721: celery helps with scurvy by increasing the absorption of the veins
 
   
 
-76
-
-![][ScreenShot2021-02-21at2.45.36AM]
-
-![][ScreenShot2021-02-21at2.45.39AM]
-
-
-
-77
-
-![][ScreenShot2021-02-21at2.41.54AM]
-
-
-
-79
-
-![][ScreenShot2021-02-21at2.43.50AM]
-
-
-
-80
-
-![][ScreenShot2021-02-21at2.44.50AM]  
-
-Hassler’s odd little piece on *Zoonomia* and David Hume actually seems to engage with *Zoonomia* more on its own terms: it is a failed attempt to systematize knowledge which fails, in part, because it is reasoning far beyond its evidence. But I admire Hassler for seeing the book as failing on its own terms, rather than seeing it as succeeding at something which was not really its goal.
-
-
-
-P 190
-
-![][ScreenShot2021-02-21at11.36.45PM]
-
-P 191
-
-![][ScreenShot2021-02-21at11.37.14PM]
-
-
-
-P 191
-
-![][ScreenShot2021-02-21at11.37.40PM]
-
-
-
-P 192
-
-![][ScreenShot2021-02-21at11.38.08PM]
-
-
-
-P 193
-
-![][ScreenShot2021-02-21at11.38.30PM]  
-
 ![][ScreenShot2020-11-20at11.58.31PM]  
 
 | Location | Bodleian Library Harding A 127 (57) |
@@ -4137,7 +4211,41 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [ScreenShot2021-02-16at2.42.53AM]: ScreenShot2021-02-16at2.42.53AM.png width=543px height=155px
 
+[ScreenShot2021-02-25at11.58.35PM]: ScreenShot2021-02-25at11.58.35PM.png width=271px height=216px
+
+[ScreenShot2021-02-26at12.00.27AM]: ScreenShot2021-02-26at12.00.27AM.png width=288px height=132px
+
+[ScreenShot2021-02-25at3.08.50AM]: ScreenShot2021-02-25at3.08.50AM.png width=507px height=103px
+
+[ScreenShot2021-02-25at3.10.09AM]: ScreenShot2021-02-25at3.10.09AM.png width=514px height=122px
+
 [ScreenShot2021-02-21at1.47.50AM]: ScreenShot2021-02-21at1.47.50AM.png width=700px height=269px
+
+[ScreenShot2021-02-26at12.08.27AM]: ScreenShot2021-02-26at12.08.27AM.png width=517px height=374px
+
+[ScreenShot2021-02-21at2.45.36AM]: ScreenShot2021-02-21at2.45.36AM.png width=296px height=68px
+
+[ScreenShot2021-02-21at2.45.39AM]: ScreenShot2021-02-21at2.45.39AM.png width=297px height=106px
+
+[ScreenShot2021-02-21at2.41.54AM]: ScreenShot2021-02-21at2.41.54AM.png width=291px height=88px
+
+[ScreenShot2021-02-21at2.43.50AM]: ScreenShot2021-02-21at2.43.50AM.png width=295px height=211px
+
+[ScreenShot2021-02-21at2.44.50AM]: ScreenShot2021-02-21at2.44.50AM.png width=295px height=180px
+
+[ScreenShot2021-02-21at11.36.45PM]: ScreenShot2021-02-21at11.36.45PM.png width=585px height=144px
+
+[ScreenShot2021-02-21at11.37.14PM]: ScreenShot2021-02-21at11.37.14PM.png width=582px height=133px
+
+[ScreenShot2021-02-21at11.37.40PM]: ScreenShot2021-02-21at11.37.40PM.png width=572px height=178px
+
+[ScreenShot2021-02-21at11.38.08PM]: ScreenShot2021-02-21at11.38.08PM.png width=576px height=151px
+
+[ScreenShot2021-02-21at11.38.30PM]: ScreenShot2021-02-21at11.38.30PM.png width=580px height=248px
+
+[ScreenShot2021-02-25at1.37.38AM]: ScreenShot2021-02-25at1.37.38AM.png width=283px height=299px
+
+[ScreenShot2021-02-25at1.37.48AM]: ScreenShot2021-02-25at1.37.48AM.png width=283px height=28px
 
 [ScreenShot2020-12-08at1.40.54AM]: ScreenShot2020-12-08at1.40.54AM.png width=515px height=502px
 
@@ -4400,26 +4508,6 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-02-23at2.39.30PM]: ScreenShot2021-02-23at2.39.30PM.png width=576px height=276px
 
 [ScreenShot2021-02-23at2.39.35PM]: ScreenShot2021-02-23at2.39.35PM.png width=558px height=76px
-
-[ScreenShot2021-02-21at2.45.36AM]: ScreenShot2021-02-21at2.45.36AM.png width=296px height=68px
-
-[ScreenShot2021-02-21at2.45.39AM]: ScreenShot2021-02-21at2.45.39AM.png width=297px height=106px
-
-[ScreenShot2021-02-21at2.41.54AM]: ScreenShot2021-02-21at2.41.54AM.png width=291px height=88px
-
-[ScreenShot2021-02-21at2.43.50AM]: ScreenShot2021-02-21at2.43.50AM.png width=295px height=211px
-
-[ScreenShot2021-02-21at2.44.50AM]: ScreenShot2021-02-21at2.44.50AM.png width=295px height=180px
-
-[ScreenShot2021-02-21at11.36.45PM]: ScreenShot2021-02-21at11.36.45PM.png width=585px height=144px
-
-[ScreenShot2021-02-21at11.37.14PM]: ScreenShot2021-02-21at11.37.14PM.png width=582px height=133px
-
-[ScreenShot2021-02-21at11.37.40PM]: ScreenShot2021-02-21at11.37.40PM.png width=572px height=178px
-
-[ScreenShot2021-02-21at11.38.08PM]: ScreenShot2021-02-21at11.38.08PM.png width=576px height=151px
-
-[ScreenShot2021-02-21at11.38.30PM]: ScreenShot2021-02-21at11.38.30PM.png width=580px height=248px
 
 [ScreenShot2020-11-20at11.58.31PM]: ScreenShot2020-11-20at11.58.31PM.png width=768px height=434px
 
