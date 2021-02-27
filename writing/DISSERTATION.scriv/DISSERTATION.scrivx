@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-26 01:03:48 -0500" ModID="05EF0DAD-8B24-4F48-81D8-CCA66732476E">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-27 02:41:56 -0500" ModID="4995EED0-1F27-4E84-9E9C-53B7B5BC6E1C">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1651,7 +1651,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>216,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1699,6 +1699,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>453,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="40675F2C-C2D0-4F30-9E55-518DBE6EDCD1" Type="Text" Created="2021-02-27 02:19:54 -0500" Modified="2021-02-27 02:23:10 -0500">
+                                            <Title>Bearden-White</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>452,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2094,6 +2103,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1603,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="68B038C4-6336-4952-80F4-D61553C31793" Type="Text" Created="2021-02-27 02:36:32 -0500" Modified="2021-02-27 02:37:05 -0500">
+                            <Title>decade synthesis</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>120,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2F5E4C5D-0AAA-4CC3-AA1C-AE8CE5531BC8" Type="Text" Created="2021-02-16 02:02:03 -0500" Modified="2021-02-16 02:13:14 -0500">
@@ -14083,14 +14101,14 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     </StatusSettings>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-04-30 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">150</SessionTarget>
-        <PreviousSession Words="807" Characters="5236" Date="2021-02-25 23:10:21 -0500"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">140</SessionTarget>
+        <PreviousSession Words="98" Characters="592" Date="2021-02-26 18:14:31 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-26 00:00:00 -0500">
-        <DraftWordCount>331</DraftWordCount>
-        <DraftCharCount>2191</DraftCharCount>
-        <OtherWordCount>57</OtherWordCount>
-        <OtherCharCount>333</OtherCharCount>
+    <RecentWritingHistory Date="2021-02-27 00:00:00 -0500">
+        <DraftWordCount>98</DraftWordCount>
+        <DraftCharCount>592</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
