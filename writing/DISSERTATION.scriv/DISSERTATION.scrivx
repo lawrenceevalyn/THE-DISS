@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-02-28 00:41:57 -0500" ModID="1E5D9ADD-CE9E-48B0-8064-C965234942F3">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-03-01 02:11:46 -0500" ModID="B025288E-8E7A-4458-9407-8A2EA7FBF59D">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -2154,6 +2154,15 @@
                         </BinderItem>
                         <BinderItem UUID="C2976CC9-5AD0-40D5-B986-E0E4D2B9A01F" Type="Text" Created="2019-06-25 16:54:42 -0400" Modified="2021-02-08 21:52:10 -0500">
                             <Title>"resorted to sampling"</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="359F6847-E098-4114-9F89-E7A87D0EFBC3" Type="Text" Created="2021-03-01 02:11:22 -0500" Modified="2021-03-01 02:11:32 -0500">
+                            <Title>writing for AG</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -14102,11 +14111,11 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-04-30 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">143</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-02-28 00:41:54 -0500"></PreviousSession>
+        <PreviousSession Words="318" Characters="1975" Date="2021-02-28 18:06:21 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-02-27 00:00:00 -0500">
-        <DraftWordCount>98</DraftWordCount>
-        <DraftCharCount>592</DraftCharCount>
+    <RecentWritingHistory Date="2021-03-01 00:00:00 -0500">
+        <DraftWordCount>318</DraftWordCount>
+        <DraftCharCount>1975</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

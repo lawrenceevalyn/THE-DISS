@@ -1325,6 +1325,22 @@ Prominent examples of Brothers, whose millenarian prophecies around 1795 gathere
 
 “In this paper I have argued also that the scientific symbols of this period cannot be isolated from contemporaneous disputes concerning other signs. It was difficult for Londoners to discriminate between the signs that surrounded them. This is in part due to the physical proximity where these signs were produced, exchanged and discussed - in the Strand, in the City and nestled around St Paul's. Those who discussed them realized that it was their remarkable interaction that gave them their complete meaning.” (451)  
 
+Bearden-White makes a bold, compelling, and valuable argument when he seeks to recuperate chapbooks by identifying them as “short stories” (287). But as my random sample shows, part of the poor reputation of these 18thC short stories is surely due to their material resemblance to items which cannot be part of that suitably-literary history, since they are not in fact fictional --- such as Susanah Goodall’s prophecy and William Jones’ didactic letter.
+
+
+
+P 286
+
+![][ScreenShot2021-02-27at2.19.34AM]
+
+
+
+P 287
+
+![][ScreenShot2021-02-27at2.20.22AM]
+
+![][ScreenShot2021-02-27at2.20.52AM]  
+
 This is an unsigned single-sheet document. I know far more about the piece of paper than the contents: the ESTC describes it as 1 sheet ;  1/2⁰ with dimensions of 34.6 x 20.8cm and horizontal chain lines. There is also an uncontrolled note saying that the record is based on “Lpro copy with other material from 1792”
 
 The shelfmark, HO.42/23 \[632\], points in the London National Archives to “HO 42. Letters and papers. Piece described at item level.” This consists of a whole lot of correspondence sent to the Home Office, which has actually been scanned! Things are stamped with numbers in the upper-right.... And OH MY GOD 632 SHOWS A SCANNED COPY OF THE ACTUAL DOCUMENT, FREE TO THE PUBLIC AND RIGHT HERE, I CANNOT BELIEVE IT!!!! Image 940 shows the front, and image 941 shows the back. The item has its own record at http://discovery.nationalarchives.gov.uk/details/r/C10614791
@@ -1849,6 +1865,8 @@ The perversity of this method might seem like a bad-faith interpretation of lite
 
 The problem with arbitrary textual selection is not that one cannot find traces of historical processes; it’s a rhetorical-narrative problem. Underwood and Piper both discuss the fact that part of what a literary scholar does is *tell a good story*. It can be hard to tell a good story about an invoice, especially when one cannot even read the invoice itself.  
 
+It feels kind untenable to ‘tell the story of the 1790s’ because I wouldn’t really try to ‘tell the story of the 1990s’.  
+
 One of the pleasurable impulses that drives literary-historical research is the feeling that one’s explorations are special. Often it can seem as if you are the first person to read, or to care about, a text or a person in hundreds of years. That intimacy across time gains its sacred aura in part from its exclusivity; to love Jane Austen has a very different tenor than if one loves Charlotte Smith, or loves Susannah Goodall. Sharing one’s discoveries is a double-edged sword: love asks to be shared, but if it is shared *too* successfully, one’s own love may be threatened with diminishment, lost in a more general and therefore less special love.
 
 Selecting items completely at random may seem to be a poor methodology to find a new love. But what reparative reading shows us is that the object of love need not be *worthy* of that love; it may shape or colour the form of love, but the “plenitude” comes from the lover, not the beloved. Any object becomes lovable when examined with a loving eye. To observe, in minute detail, is to love.
@@ -1872,6 +1890,24 @@ So then I created a new column called “Row number,” using the GREL formula �
 Then it was time to choose 10 random numbers between 1 and 51090 (inclusive). I used the random.org Random Integer Set Generator to generate 1 set with 10 unique random integers, with each integer between 1 and 51090 (inclusive). This generated the following set: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. I then looked up each of those row numbers in OpenRefine to find my titles.  
 
 Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
+
+# 1790s synthesis
+
+The 1790s often capture our imagination for their poetic and political revolutions, but beyond *Lyrical Ballads* and the ‘pamphlet wars’ the print mediascape of the late eighteenth century \[has a trait\]. 
+
+It is hard not to read these texts, anachronistically, for their failures. A medicine that claims to treat scurvy, tubercular swelling, and leprosy, such as the THING advertised in \[TITLE\], might call to mind the long period of time in which the eighteenth century failed to take notice of the cure for scurvy which was demonstrated experimentally by LIND in YEAR. A chapbook prophecy promising “war and rumours of war”
+
+One reason that literary history matters is that the fate of texts like Erasmus Darwin’s *Zoonomia* rests in our hands. As a medical text, *Zoonomia* is painfully full of failures: it begins from a few fundamentally untenable assumptions, takes them to wild conclusions, and prescribes treatments that seem sometimes beneficial only by accident. Moreover, since it largely follows existing trends in medical theories, even its wrongness is generally overshadowed by the more seminal and illustrative wrongness of XXX (cite scurvy guy). The assessment “ILLUSTRATIVE QUOTE” falls far short of the texts own earnest aspiration to BE A NEWTON. \[and yet we still respect it too much\]
+
+
+
+# Textual selection
+
+I have attempted, above, to form a narrative about the 1790s. It has little in common with many other narratives of this decade, because it is the product of an intentionally unconventional research methodology. \[LOTS ABOUT OUR RESEARCH METHODS, FROM PIPER AND UNDERWOOD; TALK ABOUT HOW CLOSE READING DOES ACTUALLY WORK\]
+
+The rest of this dissertation has been centrally concerned with the impacts of textual selection, writ large. \[PARA ON THIS\]
+
+How, then, did I come to read the texts from which I drew my evidence for this narrative of the 1790s? Through the logical extreme as a counter to selection bias of various kind: random selection.  
 
 **3585**
 
@@ -4214,6 +4250,12 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [ScreenShot2021-02-25at11.58.35PM]: ScreenShot2021-02-25at11.58.35PM.png width=271px height=216px
 
 [ScreenShot2021-02-26at12.00.27AM]: ScreenShot2021-02-26at12.00.27AM.png width=288px height=132px
+
+[ScreenShot2021-02-27at2.19.34AM]: ScreenShot2021-02-27at2.19.34AM.png width=480px height=195px
+
+[ScreenShot2021-02-27at2.20.22AM]: ScreenShot2021-02-27at2.20.22AM.png width=478px height=255px
+
+[ScreenShot2021-02-27at2.20.52AM]: ScreenShot2021-02-27at2.20.52AM.png width=483px height=118px
 
 [ScreenShot2021-02-25at3.08.50AM]: ScreenShot2021-02-25at3.08.50AM.png width=507px height=103px
 
