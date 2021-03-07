@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-03-06 19:03:11 -0500" ModID="C28BD5A5-5E73-4D9C-8747-4E0935ED0416">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-03-07 16:28:08 -0500" ModID="41498B3D-6E7F-4985-A48F-F82A1DDCDA8C">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -631,6 +631,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>279,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="49BC2DA9-0DA9-4D37-A218-7EECE825CBA5" Type="Text" Created="2021-03-07 16:20:45 -0500" Modified="2021-03-07 16:28:08 -0500">
+                            <Title>hooks on canon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>408,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1305,44 +1314,44 @@
                                 <TextSelection>212,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="CA5B3B42-F675-4B63-9873-9DA6C6F0F880" Type="Text" Created="2020-12-20 16:46:03 -0500" Modified="2020-12-22 02:55:16 -0500">
+                            <Title>PG's textual selection &amp; editing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>481,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D249DE06-403F-494E-960B-4FF30B18A7D6" Type="Text" Created="2020-12-23 02:47:29 -0500" Modified="2020-12-23 02:49:39 -0500">
+                            <Title>Distributed Proofreaders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>225,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A4EE1516-64CD-44BA-835E-E2AF68C2C77D" Type="Text" Created="2020-02-25 16:08:49 -0500" Modified="2020-03-05 22:30:05 -0500">
+                            <Title>note on encoding</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>232,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3DD5037B-2393-4283-BDE6-2A6FDDA4C631" Type="Text" Created="2020-12-23 02:50:42 -0500" Modified="2020-12-23 02:51:25 -0500">
+                            <Title>day-of stats to get</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>127,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
-                </BinderItem>
-                <BinderItem UUID="CA5B3B42-F675-4B63-9873-9DA6C6F0F880" Type="Text" Created="2020-12-20 16:46:03 -0500" Modified="2020-12-22 02:55:16 -0500">
-                    <Title>PG's textual selection &amp; editing</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>481,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="D249DE06-403F-494E-960B-4FF30B18A7D6" Type="Text" Created="2020-12-23 02:47:29 -0500" Modified="2020-12-23 02:49:39 -0500">
-                    <Title>Distributed Proofreaders</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>225,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="A4EE1516-64CD-44BA-835E-E2AF68C2C77D" Type="Text" Created="2020-02-25 16:08:49 -0500" Modified="2020-03-05 22:30:05 -0500">
-                    <Title>note on encoding</Title>
-                    <MetaData>
-                        <LabelID>10</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>232,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="3DD5037B-2393-4283-BDE6-2A6FDDA4C631" Type="Text" Created="2020-12-23 02:50:42 -0500" Modified="2020-12-23 02:51:25 -0500">
-                    <Title>day-of stats to get</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>127,0</TextSelection>
-                    </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="A89AA210-5C82-4821-9B01-31238E7FC1E6" Type="Folder" Created="2018-04-02 14:19:51 -0400" Modified="2020-11-21 21:52:17 -0500">
                     <Title>ch 2 - gender in databases (13k)</Title>
@@ -1627,7 +1636,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>796,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -14186,13 +14195,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-04-30 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">129</SessionTarget>
-        <PreviousSession Words="131" Characters="796" Date="2021-03-06 19:00:02 -0500"></PreviousSession>
+        <PreviousSession Words="70" Characters="468" Date="2021-03-07 16:20:31 -0500"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-03-06 00:00:00 -0500">
-        <DraftWordCount>131</DraftWordCount>
-        <DraftCharCount>796</DraftCharCount>
-        <OtherWordCount>26</OtherWordCount>
-        <OtherCharCount>197</OtherCharCount>
+    <RecentWritingHistory Date="2021-03-07 00:00:00 -0500">
+        <DraftWordCount>70</DraftWordCount>
+        <DraftCharCount>468</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
