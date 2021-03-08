@@ -173,7 +173,25 @@ In my fourth chapter, I playfully attempt what might be considered a devil’s a
 
 A final brief conclusion to this dissertation offers an assessment of the role of digital textual collections in contemporary literary study.  
 
-Comprehensiveness is a fantasy: one of the goals of this dissertation is to examine the function and effects of that fantasy --- and to occupy an ambiguous position of both identifying the impossibility of the fantasy, and attempting to see a path to get closer to its fulfillment.
+Comprehensiveness is a fantasy: one of the goals of this dissertation is to examine the function and effects of that fantasy --- and to occupy an ambiguous position of both identifying the impossibility of the fantasy, and attempting to see a path to get closer to its fulfillment.  
+
+“...when Western civilization and canon formation are challenged and rigorously interrogated ... what’s threatening to conservative academics \[is\] the possibility that such critiques will dismantle the bourgeois idea of a ‘professor’ and that, as a consequence, the sense of our significance and our role as teachers in the classroom would need to be fundamentally changed.” (Transgress 140)
+
+P 141:
+
+![][ScreenShot2021-03-07at4.23.44PM]
+
+
+
+P 142, words from RS (BE SURE TO ATTRIBUTE PROPERLY):
+
+![][ScreenShot2021-03-07at4.24.24PM]
+
+
+
+P 144-145:
+
+![][ScreenShot2021-03-07at4.27.32PM]![][ScreenShot2021-03-07at4.27.39PM]
 
 
 
@@ -923,6 +941,220 @@ We have not truly grappled with the challenge that the eighteenth century poses 
 
 # ch 4 - random sample (13k) #  
 
+One of the uncomfortable questions implicit by computational literary study is a particular kind of scrutiny of methodology: what is it, exactly, that literary study *does*? It it really “research” or “a method” to read a lot of things, think about them, and then tell each other stories about our thoughts? Ted Underwood proposes in *Distant Horizons* that the primary research output in literary study is, at its core, narratives. Effective literary criticism has protagonists-- whether these are texts, cultural forces, or critical camps-- which the critic narrates through some kind of conflict, to reach a final meaning that the reader will find moving. Underwood identifies the narrative drive as a reason that computational literary analysis sometimes finds a frosty reception (computational scholarship often fails to provide satisfactory narratives), but the role of storytelling in literary criticism has stakes beyond computation. Eve Sedgwick’s critique, in “Paranoid Reading and Reparative Reading,” is fundamentally a critique of a particular story critics tell, as are more recent debates about critique and postcritique. The “surface reading” of Sharon Marcus and Stephen Best, or the “rich description” of Heather Love, are not really about how a scholar reads or researches a text; they are about the rhetorical moves employed in the subsequent explication of the text, after the research itself has been complete. As such, although debates about critique and postcritique have sometimes been termed “method wars,” in DH circles the debate is barely legible *as* a debate, and certainly not legible as a debate about *method*.
+
+In February 2021, Sheila Liming’s article “Fighting Words” in the *Los Angeles Review of Books* caused a minor stir on Twitter, jokingly referred to as “the method wars” (taking up a term from Rita Felski’s 2015 monograph *The Limit of Critique*). In DH circles, the discussion inspired a patronizing bemusement, as in Quinn Dombrowski’s comment that they are “So very happy that this Methods War seems to be happening mostly outside my TL, and appears not to be some massive DH showdown of TEI vs NLP, pro- vs anti- topic modeling, hack vs yack, or any of the things that I imagine when I think of ‘Methods Wars’.” Underwood replied that “when literary critics say ‘methods’ they actually mean ‘conclusions.’” Underwood’s tweet is, of course, partly inflammatory for rhetorical effect, but the genuine puzzlement among DH scholars about critique reflects a real disciplinary disagreement about what makes for “a method.”
+
+Narratives are not, in themselves, the problem: saying that a piece of scholarship constructs a narrative is another way of saying that it organizes information in a way that creates meaning. This is, in fact, desirable. For example, Eugenia Zuroski’s *A Taste for China* follows and explains figures like “China,” “things Chinese,” “English identity,” and “orientalism.” Some individual characters take on prominent roles in this narrative: \[EXAMPLES OF PEOPLE\] and, in the fine tradition of eighteenth century “it” narratives, \[SPECIFIC PIECES OF CHINA\]. But the core narrative is really a story about the characters it calls “English identity” and “orientalism.” \[SUMMARIZE BOOK: “offers an account of how literature of the long eighteenth century generated a model of English selfhood dependent on figures of China. It shows how various genres of writing in this period call upon “things Chinese” to define the tasteful English subject of modernity. Chinoiserie is no mere exotic curiosity in this culture, but a potent, multivalent sign of England’s participation in a cosmopolitan world order. By the end of the eighteenth century, not only are English homes filled with it, but so too are English selves.”\] The many kinds of texts Zuroski consults have become meaningful because they create a narrative.
+
+Similarly, when Andrew Piper studies generalization as a defining practice in literary study, generalization itself is not the problem. Piper defines generalization as “the rhetorical strategy whereby we move from partial evidence to knowledge claims about some larger group or category” (1). Acquiring knowledge about some broader phenomenon is generally the purpose of gathering evidence in the first place. Where Underwood and Piper begin to distance themselves (and distant reading) from undesirable forms of literary criticism, they object to narratives and generalizations that are inadequate for the evidence at hand.
+
+Underwood’s objection is more narrow. Most literary criticism, he says, frames literary change in terms of of generational or periodized revolutions in taste, obfuscating more gradual and long-term developments: “we have narrated literary history as a sequence of discrete movements and periods because chunks of that size are about as much of the past as a single person could remember and discuss at one time. Apparently, longer arcs of change have been hidden from us by their sheer scale” (*Distant Horizons* ix) “it is worth teasing out the assumptions implied by these succession stories--- which are not dominant, after all, in every corner of the university. Many disciplines tell their own stories instead as a cumulative process of expansion. ... Literary scholars, by contrast, commonly do assume that critical approaches are locked in dialectical struggle. And this assumption is not arbitrary: the premise has been correct for much of our history. Critical debates amount to struggles over a scarce resource--- readerly attention.” (Underwood 1) “our enterprise seems to draw meaning from the pressure of limited attention: recovery projects become notable and important (rather than merely additive) when they argue that new discoveries force us to redefine an established concept like Romanticism” (2)
+
+Piper’s diagnosis of methodological norms in literature is less willing to embrace narrative enjoyment as a valid aim. In *Can We Be Wrong? The Problem of Textual Evidence in a Time of Data*, Piper distant-reads, not literature, but literary criticism, alongside research in history and sociology. He identifies frequent and broad generalization as a distinctive rhetorical feature of literary study, and expresses concern about what he sees as “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). “Where literary studies focuses the most on the “modern,” history works with the “century,” and sociology attends to the “year.”” (71) “Generalizations serve as unproven and untested evidentiary shorthands to justify interpretive conclusions that have not been rigorously subject to scrutiny.” (72)
+
+\[I actually think there’s something here about how distant reading is developing its own set of methodological norms and priorities which might diverge from literature; rather than merging with/adding to literature (and saving flagging departments with fashionable DH grants) it could distinguish itself ever more strongly from literature (for a much more disappointing Nader effect)\]
+
+  
+
+The preceding chapters have been concerned with textual access and textual selection in part because these practices have direct methodological implications. Digital projects typically describe very explicitly what texts have been sampled, how, and why, though often it is sufficient to defer authority for a sample only one or two degrees. \[Riddell et al follow a print bibliography, as does Underwood.\]  “it would be a lot of work for researchers to construct new samples completely from scratch for every project. So, in practice, digital libraries provide an important resource, allowing researchers to construct different samples by subdividing a larger collection. In pursuing work of this kind, we don’t necessarily have to decide whether libraries are correctly balanced. We can rebalance our samples as needed. But we do have to spend some time thinking about the outer limits of the collection.” (Underwood 178)
+
+Sampling is also core to non-digital literary research, though it is rare that a critic will disclose how or why they have devoted their attention to a particular subset of texts. Indeed, much of Piper’s criticism boils down to a complaint that literary scholars rarely disclose their sampling methods. \[Can I make a link to the social pressure not to admit to reading gaps? Eg saying one is “re-reading” something being read for the first time; Pierre Bayard’s *How To Talk About Books You Haven’t Read*\] The uncharitable interpretation of Piper’s critique is the implication that literary critics are charlatans, who might take anything they have to hand, and spin an exciting story from those materials. In what follows, I have taken up the charlatan’s method, to test the limits of literary-criticism-as-storytelling.  
+
+Bibliographic information regarding 51,090 works published in England between 1789 and 1799, inclusive, was supplied by the English Short Title Catalogue. Unique numerical identifiers were assigned to each work utilizing OpenRefine and regular expressions. The following ten random integers were acquired from the Random Integer Set Generator at random.org: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. These numbers corresponded to the following ten ETSC entries:
+
+
+
+| **ESTC citation number** | **Title** | **Date of pub.** | **Name** |
+| ----- | ----- | ----- | ----- |
+| **T146200** | The vicar of Wakefield : a tale, by Oliver Goldsmith | 1792 | Goldsmith, Oliver |
+| **N40981** | The principles of modern reformers exposed | 1792 |  |
+| **T161475** | Consolation for the scorbutic, scrofulous, leprous, &c : and worthy also the serious perusal of the medical profession. Being an abstract from a few of those remarkable cures which illustrate Mr. Hayman's 'Treatise, explaining the nature and affinity of scorbutic diseases.' Golden-Square, London, Ist October, 1793 | 1793 | Hayman, John |
+| **T219851** | The excellent old ballad of the babes in the wood : or the Norfolk gentleman's last will and testament | 1794 |  |
+| **T202021** | Extraordinary appearance of the moon! : Which was perceived to be in a violent rocking motion, for several minutes; after which was seen clearly passing round the orb, immense armies of horse and foot with bloody streamers flying, to the great terror and astonishment of thousand of spectators, who were witnesses of this wonderful alarming omen! to which is added, calculations, judicial and astrological observations, by which the true events signififed thereby are foretold. Susannah Goodall, pupil to the celebrated Don Farnando Furioso. Doctor of divinity, physic, and astrology. Who foretold all the late wonderful events and bloody battles which came to pass at Toulton, Dunkirk, and various parts of France and Flanders | 1794 | Goodall, Susannah |
+| **T113901** | Zoonomia : or, the laws of organic life. ... . By Erasmus Darwin, M.D. F.R.S. Author of the Botanic Garden | 1794 | Darwin, Erasmus |
+| **T111867** | An account of the prime cost of all cargoes purchased in India, and shipped for Europe, in the year 1793-4; together with the commercial charges at each presidency, not added to the invoice | 1795 | Great Britain, Parliament, House of Commons |
+| **N38682** | Rules and regulations of the corps of Light-Horse Volunteers of London and Westminster; carefully extracted from the minutes of the general meetings | 1797 | Great Britain, Army, London and Westminster Light Horse Volunteers |
+| **T194212** | A letter to three converted Jews : lately baptized and confirmed in the Church of England. By ... William Jones | 1799 | Jones, William |
+| **T82736** | Satirical, humourous, and familiar pieces. Prose | 1799 |  |
+
+
+Attempts were made to locate digital facsimiles for all ten works. Due to COVID-19, it was deemed infeasible to consult physical copies when digital facsimiles were unavailable; in these cases, digital facsimiles were located for proxies which shared bibliographic and textual features. Five items were read as digital facsimiles of the specific edition described in ESTC; two were read as digital facsimiles of closely related editions; and three could not be located in any edition. For each work, at least two journal articles and at least one monograph were consulted for relevant context. A minimum of sixty-nine texts were consulted.  
+
+The first story these ten texts can tell is the story of what it is easy to study, and what is hard to study. Oliver Goldsmith’s *Vicar of Wakefield* is readily available in print in scholarly and readerly editions, and digitally as a ebook or even a audiobook, in addition to the ECCO facsimile which I consulted. In contrast, *Consolation for the scorbutic, scrofulous, leprous, &c* survives in a single physical copy in Gottingen, Germany, where it has likely survived by virtue of being “Bound with the 'Gentleman's Magazine', vol. 63, part 2, 1793” (ESTC). Even to locate reasonable proxies for *Consolation for the scorbutic*, I found myself leaving ECCO behind for the Bodleian Library’s partly-digitized John Johnson Collection, which held similar advertisements for patent medicines. What this exploration has revealed is that there are two distinct paths to survival, for a historic text to remain available for study: an institution, or an eccentric collector (whose personal collection is eventually adopted by an institution). Here, by “survival” I mean “the continued existence as a physical object”. Universities, libraries, and archives are the typical institutions we might turn to as preservers of texts, but other institutions have also played a role. The only copy of William Jones’ *A letter to three converted Jews* is held by Durham Cathedral. The only copy of *The principles of modern reformers exposed*, a satirical radical broadsheet, is held at the London National Archives, where it is preserved alongside the correspondence of the Home Office-- tantalizingly suggestive of exactly the government surveillance which the broadsheet itself complains of.
+
+
+
+One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not normally appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
+
+The John Johnson Collection illuminates a path to preservation which is necessary for a work like *Consolation for the scorbutic* to survive two hundred years and remain findable by scholars. John Johnson, as an individual, somewhat eccentrically collected “everything which would ordinarily go into the waste paper basket after use, everything printed which is not actually a book” (Johnson, qtd in “Introduction,”  p 9). Here, too, economic conditions are core constituting factors: Johnson concludes that “it is indisputable that this collection could not have been formed economically, or at all, except by attachment to this Printing Business” (qtd in “Introduction, p 12), and he also discusses the importance of not announcing his intentions as a collector, so as to avoid driving up prices through increased demand.
+
+Johnson danced a balancing act in taking a non-library approach while also relying on the university/library value system to preserve what he was building: “Both the Press and the University were mentioned in the solicitation or acknowledgement of any gift, and it was laid down that there was to be no private property in these collections of any kind whatever. Nor were there to be any acts of dealing or sale.” (Johnson qtd “Introduction” p 11) “Thus the property of the University (through its Printing House) in the collections is absolute and has been secured at a very small net cost.” (Johnson qtd “Introduction” p 12)
+
+Johnson actually embraces the happenstance of uneven survivorship rates as a core pre-filtering practice to make historic archives sustainable: “what I may call contemporary collecting is out of the question. War-- time A.R.P. ephemera alone would fill room--space many times the whole existing space of the Sanctuary.... Thus we have made the outbreak of war the main terminus ante quem. There will still be supplementary acquisitions filling gaps in the past, and I hope that the future may be tempted to add out of the unconscious selection of the present, just as we in the present have added out of the unconscious selection of the past. This unconscious selection must always be the foundation of any collection which is both manageable and typical.” (Johnson qtd “Introduction” 12)  
+
+One of my takeaways is actually how incredibly, hugely incomplete the ESTC must really be. \[Synthesize secondary readings on poor survivorship for ballads, advertisements, jestbooks, etc\]  
+
+*Consolation for the scorbutic* and *A letter to three converted Jews* are difficult to read because they are hard to get ahold of. Erasmus Darwin’s 1,400-page *Zoonomia* is difficult to read because it is long, dry, and painfully incorrect in largely uninteresting ways. The research method of this chapter felt closest to farce when I was, each night, tucking in for 15 pages of medical treatise before bed. A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)
+
+My first impulse for justification is to retell the good stories, but to highlight these stories is, for the most part, to misrepresent the book itself. It was difficult to find secondary work on *Zoonomia*, since most work on Darwin is interested in the publications before and after: either they are interested in him as a literary figure, and discuss his *Botanical Garden*, or they are interested in him as a precursor to Charles Darwin’s theories of evolution, so they discuss his next work.
+
+*Zoonomia* gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. His ideas may be less wrong than some of his peers but they’re also not as accurate or complete as they have been presented. Moreover, they had no real impact on other thinkers, providing no grounds for description of Erasmus Darwin as a “pioneer of evolutionary theory” (Schwartz 27). More importantly, proto-evolutionary theories are not important to *Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,380 pages of this 1,400 page work
+
+What one learns from actually reading *Zoonomia* in its entirety is, actually, the painful depth of failure of the work. Unexpectedly, the encomiums on Darwin presented by the necessarily-biased Erasmus Darwin House Museum recognizes the failure of *Zoonomia*’s ambition: “One reviewer claimed that *Zoonomia* ‘bids fair to do for Medicine what Sir Isaac Newton’s Principia has done for Natural Philosophy.’ It didn’t, but it was a nice thought.” Darwin refers to Newton several times as the model for his ambitions, and particularly describes the hope that his work will enable a new understanding of fevers.
+
+![][C8SNWbw99cIt-P013zl_0mJesqgFN1sBQynCL2HSgA4AKewrtMJ-pczuDZVKem_kCUATMecsp2FR27-LHHDihf4tXn3kJ3fH6je1P7G9cCAXWJxs2JOjTRH59x-yP-AV7g3yS1jG]
+
+# ![CdpDg0w5QXAGHEYacuUw7UlRqqSfBkIu9_IyS4OV_awsoipiIv2qJ6W0pNWHJkLLSIwKjxWvc8m2t1vDUEj6JE3WLSSfhzOzZj2OTGozrreC-Tut_yY-1ienxnJ1fqiIZwYQvGID.png](CdpDg0w5QXAGHEYacuUw7UlRqqSfBkIu9_IyS4OV_awsoipiIv2qJ6W0pNWHJkLLSIwKjxWvc8m2t1vDUEj6JE3WLSSfhzOzZj2OTGozrreC-Tut_yY-1ienxnJ1fqiIZwYQvGID.png)
+
+Time has destroyed Darwin’s immortal tablet; his flimsy edifice of ideas has mouldered into the sand of which they were constructed. \[Somehow, this is getting to something that I have important questions about: when is it right for a text to be forgotten like this? Why should Time admire Zoonomia?\]
+
+There’s an echo of the end of one of William Jones’ religious pamphlets: “as I have long lived, so now I hope to die; leaving behind me this paper, as witness that / there was one man, of little note, and of no ambition, who, having his eyes opened to see some great errors of the time ... could not refrain from warning his brethren” (*A letter to the Church of England* 32-33)  
+
+All ten items could be evaluated through the lens of “pleasure” or “seriousness”
+
+Nine works address war with France. The only title with no link to France is the ballad, though even then it might be notable that “The excellent old ballad of the babes in the wood” is not a political ballad.
+
+Eight works provide material for a discussion of gender
+
+Seven works can be discussed together for the light they shed on Christianity in 18thC culture, especially the relationship between religion and politics
+
+Five works would relate to a history of the Gothic
+
+Four works are related to the 18thC failure to recognise the cure for scurvy which had already been discovered and experimentally demonstrated.
+
+Four works discuss (or could be used to discuss) racial difference
+
+Three works are directly related to Oliver Goldsmith -- his novel appears; he’s prominent in the jestbook; and Darwin prescribes his “moral writing” as a cure for some mental diseases
+
+The “print culture” lens struggles to resolve into a coherent story. Attempting to account for how and why all of these texts came into being, in a form that accounts somehow for “the 1790s,” seems like a more ridiculous task when I imagine trying to describe the equivalent description of “the 1990s.” But there is something here about trying to shift our baseline of what a “normal” text is. A lot of work of comprehensive bibliography--- and especially a lot of digital work attempting use use bibliography to answer sociological questions--- is focused on the novel. But only one of my 10 items is a novel, and it wouldn’t even be considered a 1790s novel.
+
+  
+
+How “representative” is my random sample? After I did the research above, I took 9 more random samples just to see.  
+
+# So, if this works, what works?
+
+The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random, but what would happen if we did it anyway? The perversity of this method might seem like a bad-faith interpretation of literary studies, or an attempt to debunk or hoax literature scholarship. If scholars expend considerable expertise in order to select specific illustrative texts to support their arguments about a period of literature, why should it “work” to skip that expertise? If I produce an analysis from random texts, doesn’t that mean that other scholars’ choices of texts don’t matter? But I do this experiment in part to understand why literary analysis *does* work: if textual selection isn’t the important part, then the important part lies elsewhere. At first, I thought it was very possible that this would not work, that I would produce an incoherent list with nothing to offer our understanding of 1790s literature. (Indeed, my reader may still judge that I have failed.) But as I began to read, it seemed like literary close-reading can in fact find informative meaning even with completely arbitrary texts. I think this success is not, in fact, too remarkable. If the core thesis is something like “historical contexts have perceivable impacts on literary output,” then those impacts ought to be present in all texts--- and therefore ought to be perceivable in any text.
+
+
+
+One of the pleasurable impulses that drives literary-historical research is the feeling that one’s explorations are special. Often it can seem as if you are the first person to read, or to care about, a text or a person in hundreds of years. That intimacy across time gains its sacred aura in part from its exclusivity; to love Jane Austen has a very different tenor than if one loves Charlotte Smith, or loves Susannah Goodall. Sharing one’s discoveries is a double-edged sword: love asks to be shared, but if it is shared too successfully, one’s own love may be threatened with diminishment, lost in a more general and therefore less special love.
+
+Selecting items completely at random may seem to be a poor methodology to find a new love. But what reparative reading shows us is that the object of love need not be worthy of that love; it may shape or colour the form of love, but the “plenitude” comes from the lover, not the beloved. Any object becomes lovable when examined with a loving eye. To observe, in minute detail, is to love.
+
+
+
+Literature is, surely, tied to cultural capital. But it is also tied to pleasure, and potentially to love. When we discuss literature with others, we enter capital’s world; one may wish to seem erudite, or one may wish to seem “hip,” and one may present a particular literary ‘face’ accordingly. But the literature one discusses need not align too closely with the literature one loves. \[This is too bland/generic, but also possibly getting toward the important thing\]  
+
+Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?
+
+
+
+Vicar has some comments about jest-books
+
+
+
+Vicar & Zoonomia make the same argument about hierarchies of people arising naturally; p 671 Zoonomia  
+
+General Dundas’s advice on cavalry influenced the light-horse book --- any relation to the Dundas in the East India proceedings??  
+
+One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not normally appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
+
+Underwood has particularly emphasized that the unique role of literary studies, as opposed to history or sociology, is that narratives provide pleasure. Of the ten items I attempted to consult, Erasmus Darwin’s *Zoonomia* is on paper one of the easiest to work with: a readily available facsimile in ECCO, and a substantial body of secondary work to consult. However, the thing about a 1,400 page loosely-organized medical text is that it is entirely lacking in the pleasure of narrative. Even to lightly skim each page took a substantial investment of time and willpower. Trying to fully understand the ideas proposed --- and especially to reconcile them with what I came to realise was a very haphazard and largely forgotten high school education biology --- was a challenge. In other words, the text itself can be a barrier.
+
+
+
+A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)
+
+
+
+When we study *Zoonomia*, we impose our own preferences and interests onto the text. *Zoonomia* illuminates theories of evolution; it grounds Wordsworth’s ideas of the inner lives of plants (Matlak); it probably does a third thing --- but it does not, alas, offer the foundation of a systematic theory of fevers upon which future generations would “erect a solid and beautiful edifice, eminent both for its simplicity and utility, as well as for the permanency of its materials... like the Newtonian philosophy, a rock amid the waste of ages!” (625). All of the aspects of this work of the greatest importance to its author have, in fact, met the fate he most feared: they “moulder\[ed\], like the structures already erected, into the sand of which they were composed” (625), not even meriting a footnote in the histories that discuss the peers whom he references (Cullen, Beddoes, Pringle, etc).
+
+This is Leah Price’s core argument about abridgement.  
+
+Literary study tends to value the exceptional and the interesting. \[I know I saw someone I could cite for this--- maybe Underwood or Piper on twitter?\] The question of this chapter is, what characterizes “normal” texts in the 1790s? How might we understand the priorities and features of the 1790s print mediascape if we examine it through ordinary, unremarkable documents?
+
+\[How can I pose my question/thesis in a way that doesn’t necessarily ‘give away’ my methods too soon? Do I have to just lead in with some generalizations?\]  
+
+This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
+
+The perversity of this method might seem like a bad-faith interpretation of literary studies, or an attempt to debunk or hoax literature scholarship. If scholars expend considerable expertise in order to select specific illustrative texts to support their arguments about a period of literature, why should it “work” to skip that expertise? If I produce an analysis from random texts, doesn’t that mean that other scholars’ choices of texts don’t matter? But I do this experiment in part to understand why literary analysis *does* work: if textual selection isn’t the important part, then the important part lies elsewhere. At first, I thought it was very possible that this would not work, that I would produce an incoherent list with nothing to offer our understanding of 1790s literature. (Indeed, my reader may still judge that I have failed.) But as I began to read, it seemed like literary close-reading can in fact find informative meaning even with completely arbitrary texts. I think this success is not, in fact, too remarkable. If the core thesis is something like “historical contexts have perceivable impacts on literary output,” then those impacts *ought* to be present in all texts--- and therefore ought to be perceivable in *any* text.
+
+The problem with arbitrary textual selection is not that one cannot find traces of historical processes; it’s a rhetorical-narrative problem. Underwood and Piper both discuss the fact that part of what a literary scholar does is *tell a good story*. It can be hard to tell a good story about an invoice, especially when one cannot even read the invoice itself.  
+
+It feels kind untenable to ‘tell the story of the 1790s’ because I wouldn’t really try to ‘tell the story of the 1990s’.  
+
+One of the pleasurable impulses that drives literary-historical research is the feeling that one’s explorations are special. Often it can seem as if you are the first person to read, or to care about, a text or a person in hundreds of years. That intimacy across time gains its sacred aura in part from its exclusivity; to love Jane Austen has a very different tenor than if one loves Charlotte Smith, or loves Susannah Goodall. Sharing one’s discoveries is a double-edged sword: love asks to be shared, but if it is shared *too* successfully, one’s own love may be threatened with diminishment, lost in a more general and therefore less special love.
+
+Selecting items completely at random may seem to be a poor methodology to find a new love. But what reparative reading shows us is that the object of love need not be *worthy* of that love; it may shape or colour the form of love, but the “plenitude” comes from the lover, not the beloved. Any object becomes lovable when examined with a loving eye. To observe, in minute detail, is to love.
+
+
+
+Literature is, surely, tied to cultural capital. But it is also tied to pleasure, and potentially to love. When we discuss literature with others, we enter capital’s world; one may wish to seem erudite, or one may wish to seem “hip,” and one may present a particular literary ‘face’ accordingly. But the literature one discusses need not align too closely with the literature one *loves*. \[This is too bland/generic, but also possibly getting toward the important thing\]  
+
+A lot of work of comprehensive bibliography--- and especially a lot of digital work attempting use use bibliography to answer sociological questions--- is focused on the novel. Riddell bases practically everything on the Garside. Why did the Garside study the novel?  
+
+In earlier chapters, especially chapter 1, the 1790s provided a backdrop to explore my real subject of contemporary literary databases. In this chapter, however, my real subject is 1790s print culture in England; I am curious about how this subject might be illuminated differently through my unusual sampling method (in the vein of speculative computing) but several of my sampling principles are defined around the goal of actually acquiring sufficient titles to answer my questions. First, for example, I decided to work with my “post-cleaning” sample, to exclude non-English or non-1790s works. Although it is interesting to note the “false positives” that appear, their presence in the sample would limit my ability to comment meaningfully on my actual subject, 1790s print in England. I also decided that I would re-sample from ECCO instead of the ESTC if I could not find a way to personally read at last five of the works in the ESTC sample.
+
+I preferred to select my texts from the ESTC because it is the largest/broadest corpus from which I can sample. This would allow me to perform another case study “spot check” like the exploration of Charlotte Smith’s works in chapter 1: of the works I read from the ESTC, which are also available in other resources, and why? Sampling from ECCO instead would eliminate the possibility of finding works present in, eg, HathiTrust but *not* ECCO, and reduces the ability of this experiment to illuminate the database ecosystem. Nonetheless, I prefer in this chapter to limit my observations about databases in order to increase my ability to discuss the 1790s in England.
+
+I considered balancing my sample chronologically, e.g., taking one work from each year 1789-99. Doing so would reduce the chance that my random sample would overrepresent more productive years. However, I decided that such chronological overrepresentation would be exactly the kind of phenomenon I’d like to discover.  
+
+To take my sample, I used my “ESTC records - cleaned” spreadsheet from OpenRefine, which included 51,090 rows of data. I installed the “GOKb Utilities extension” for OpenRefine (https://github.com/ostephens/refine-gokbutils). I created a column called “Random number,” using the function randomNumber(0, 51090) (per https://stackoverflow.com/questions/46063173/how-to-make-a-random-sample-in-openrefine). However, when I sorted the data numerically, I saw that this did not give them all unique numbers (the first 10 went 1, 2, 3, 3, 5, 6, 6, 7, 7, 8) so this was not what I needed.
+
+So then I created a new column called “Row number,” using the GREL formula “row.index + 1” (which, despite the +1, filled the column with the exact row number that OpenRefine had assigned).  First I decided to reorder the rows permanently by the “Random number” column; even though that method hadn’t given each row a random unique identifier, it did sort them more randomly than any order sorting method could have accomplished. I spot-checked the new “Row number” column and it appeared to go appropriately from 1 to 51090.
+
+Then it was time to choose 10 random numbers between 1 and 51090 (inclusive). I used the random.org Random Integer Set Generator to generate 1 set with 10 unique random integers, with each integer between 1 and 51090 (inclusive). This generated the following set: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. I then looked up each of those row numbers in OpenRefine to find my titles.  
+
+Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
+
+Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
+
+Piper’s definition of “generalization”: “the rhetorical strategy whereby we move from partial evidence to knowledge claims about some larger group or category” (1)
+
+
+
+Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway.
+
+In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...
+
+
+
+Like Piper, I don’t actually wish to insult all prior literary study, or abandon our core methods.  
+
+“It is becoming clear that we have narrated literary history as a sequence of discrete movements and periods because chunks of that size are about as much of the past as a single person could remember and discuss at one time. Apparently, longer arcs of change have been hidden from us by their sheer scale” (Distant Horizons ix)
+
+“The deeper problem is that, for the last sixty or seventy years, we have assumed that literary history can only be interesting and edifying insofar as it is a story about conflict.”(106)
+
+“In short, this chapter claims to expose a problem in our current approach to literary history. If I am right, an important component of change spreads out across a longer arc than our theories and narrative strategies have been able to reveal. But I don’t claim to have resolved the problem, either intellectually or as a matter of narrative craft.” (109)
+
+“it is worth teasing out the assumptions implied by these succession stories--- which are not dominant, after all, in every corner of the university. Many disciplines tell their own stories instead as a cumulative process of expansion. ... Literary scholars, by contrast, commonly do **assume that critical approaches are locked in dialectical struggle. And this assumption is not arbitrary**: the premise has been correct for much of our history. Critical debates amount to struggles over a scarce resource--- readerly attention.” (Underwood 1)
+
+“our enterprise seems to **draw meaning from the pressure of limited attention**: recovery projects become notable and important (rather than merely additive) when they argue that new discoveries force us to redefine an established concept like Romanticism” (2)
+
+“**Implicit in this self- understanding is an assumption that the broad divisions of literary debate are already known**: that we are unlikely to discover, for instance, a new genre or period in the archives.” (2)
+
+“Instead of staging normative arguments about the right approach to a limited number of familiar topics, we need to explore ways of coordinating different scales of analysis” (3)
+
+
+
+“The temptation to see macroscopic discoveries as less than genuinely new is particularly strong for literary scholars because we are trained to find disciplinary significance only in claims that directly reverse existing expectations. When we are writing about individual books, this is a reasonable goal. A single book is easy to summarize. So if I plan to write about a novel you already read, I need to directly reverse some of your expectations in order to tell you anything new. But when we are surveying three centuries of literary history, descriptive summary is barely possible. Privileging counterintuitive claims here would be as absurd as privileging counterintuitive arguments about climate change. The truth is that we barely have intuitions about patterns on this scale; our expectations are not clearly formed yet, and it would be just as important to confirm them as to confute them.” (32)
+
+
+
+**the pleasures of particularity are also rooted deeply and genuinely in modern literature itself**--- in self-consciously concrete poetry like Auden’s and in the random-seeming details of the realist novel. These pleasures are legitimately dear to critics, both in themselves and because they create openings for a characteristically modern form of critical virtuosity. ... (“The taste of this cookie dipped in tea describes not just the narrator’s own past--- but something about memory generally, or modernism generally, or the commodity form generally.”) That dazzling leap across scales of description, connecting an instant of personal experience to collective historical time, is one of the distinctive achievements of modern criticism. It would be tragic if distant readers were required to renounce it.” (153)
+
+Enjoyment, on the other hand, comes pretty close to a permanent law of literary culture. So the real challenge to large-scale literary analysis is not epistemic or ethical but aesthetic: it is simply hard to write with sweep and verve about thousands of books.” (156)
+
+
+
+**“distant reading was initially understood as an extension of the canon-expanding recovery projects of the 1990s. This gave the enterprise a moral claim on scholars’ attention. If you didn’t do distant reading, you were presumably ignoring the cries of thousands of volumes forgotten in “the slaughterhouse of literature.” (Underwood xx)**
+
+**“No collection, however large, can save every work from the slaughterhouse.** Th**is is true. It is also not an objection to contemporary practices of distant reading, which usually work with explicitly limited samples.** Th**e point of distant reading is not to recover a complete archive of all published works but to understand the contrast between samples drawn from di**ff**erent periods or social contexts.”** (Underwood Distant xx)  
+
+We focus on exceptional cases --- but I don’t think we even know, reliably, which cases were exceptional. Burke gets taught to undergraduates as a consummate conservative position, but his argument concedes far more to radical views than Jones’ “We ought, therefore, to renounce and detest that abominable doctrine, that the power of government is from the people who are governed. We see now immediately how false and contradictory is this principle, that the subject should be the sovereign.” (8) The appeal of Burke seems to be partly a genuine popularity/prominence in his day (though this has not preserved Goldsmith for us!) and partly that Burke’s conservatism is acceptably within the Overton window of our current day; it is possible to take him seriously in a way we cannot respect Jones.  
+
 My random sample suggested a 1794 Liverpool edition 8p. ;  12⁰. This particular version of the ballad has not been digitized, but I located five other copies in ECCO from the 1790s:
 
 STC T192107 CW0117256783 N.p., \[1790?\] 1 sheet : ill. ; obl.1/2°
@@ -1065,7 +1297,7 @@ STC T87820: “Considerations on the religious worship of the heathens as bearin
 
 Jones is worried that boys are being led into sinful ways by their classical educations. His proposed compromise is to teach “heathen” ideas in such a way as to let them “prove” Christian theology. E.g., the existence of heathen priests proves the existence of god: “The case is then plain concerning the origin of priesthood. It must have come either from God, or from Nature, or from Tradition. From Nature it could not come; not a Deist in the nation will pretend it. It if came from tradition, that tradition must have had some true original; / and this is but another way of saying it came from God.” (5-6) He also thinks the idea of animal sacrifice must have come from Revelations. The existence of oracles proves that Christian prophets were real--- “there never would have been a false oracle, unless there had been a true one” (13).
 
-Jones is indignant about a work by “the learned Dr. Spencer”: “He preposterously deduced the rites of the Hebrews from the rites of the Heathens; and so produced a work of learned appearance, and composed in elegant Latin, but disgraceful to Christian Divinity, dishonourable to the Church of England, and affording a very bad example to vain scholars who should succeed him.” (15) Jones thinks the Heathens pretended to have miracles in order to compete with the real miracles of the Hebrews, “and here we shall find the true reason why they so universally hated the nation of the Jews. When a ma is a plagiary, he either hides the original out of which he borrows, or represents it as worthless ad contemptible” (16). It seems necessary to Jones that the original miracles are real: “for how came Heathens to dream of such things as miracles? No man could dream of a thunder-storm, unless he had heard one” (16).
+Jones is indignant about a work by “the learned Dr. Spencer”: “He preposterously deduced the rites of the Hebrews from the rites of the Heathens; and so produced a work of learned appearance, and composed in elegant Latin, but disgraceful to Christian Divinity, dishonourable to the Church of England, and affording a very bad example to vain scholars who should succeed him.” (15) Jones thinks the Heathens pretended to have miracles in order to compete with the real miracles of the Hebrews, “and here we shall find the true reason why they so universally hated the nation of the Jews. When a man is a plagiary, he either hides the original out of which he borrows, or represents it as worthless ad contemptible” (16). It seems necessary to Jones that the original miracles are real: “for how came Heathens to dream of such things as miracles? No man could dream of a thunder-storm, unless he had heard one” (16).
 
 
 
@@ -1241,7 +1473,7 @@ Preface opens addressed to “Gentlemen” indicating the status of who is expec
 
 The book has been revised with better cavalry practices based on other publications by General Dundas
 
-The document itself is very practical and military --- opening by emphasizing punctuation strictly, and soon asserting that “Every Gentleman must learn, if he does not know, how to saddle and bridle his Horse, and strap on his Coat-Case; because he may be in many Situations where a Servant would be an Incumbrance, and where neither Groom nor Ostler are to be had (6). It then follows with long and detailed explanations of what commands demand what kinds of actions, which would require serious study..... Though these do seem perhaps focused on marches and drills, which may be largely for show? Eg: “Wheeling, with executed with Precision, and sufficient Velocity, is one of the most beautiful Manoevres in the Field” (25).
+The document itself is very practical and military --- opening by emphasizing punctuality strictly, and soon asserting that “Every Gentleman must learn, if he does not know, how to saddle and bridle his Horse, and strap on his Coat-Case; because he may be in many Situations where a Servant would be an Incumbrance, and where neither Groom nor Ostler are to be had (6). It then follows with long and detailed explanations of what commands demand what kinds of actions, which would require serious study..... Though these do seem perhaps focused on marches and drills, which may be largely for show? Eg: “Wheeling, with executed with Precision, and sufficient Velocity, is one of the most beautiful Manoevres in the Field” (25).
 
 This suggests a largely different kind of group than one in which the chief priorities are dignified uniforms and coats that match in colour. So, *which kind of information is in my missing document?*  
 
@@ -1351,7 +1583,7 @@ To find this image, I had to check the “HOLDINGS DETAILS” pane of the ESTC r
 
 
 
-Now that I’ve read it and it’s a strident political pro-Tom Pained tract, which implies that the king should be abolished.... Why did the Home Office have a copy??? It’s from 1792, potentially a very tense year.  
+Now that I’ve read it and it’s a strident political pro-Tom Paine tract, which implies that the king should be abolished.... Why did the Home Office have a copy??? It’s from 1792, potentially a very tense year.  
 
 It opens incredibly belligerently: “YOU who are of the lowest class of beings who can be called MEN; to you I address myself; to you who are the scum of the earth, and unworthy the notice of gentlemen.” But this is immediately shown to be satire in the second sentence, which describes some of the ‘crimes’ of the ‘Modern Reformers’: “many of you have had the audacity to read books of your own choosing, without being capable of judging which were fit, and which unfit for your perusal”.
 
@@ -1651,7 +1883,7 @@ John Johnson, as an individual, somewhat eccentrically collected “everything w
 
 
 
-Here, too, economic conditions are core constituating factors: Johnson concludes that “it is indisputable that this collection could not have been formed economically, or at all, except by attachment to this Printing Business” (qtd in “Introduction, p 12), and he also discusses the importance of not announcing his intentions as a collector, so as to avoid driving up prices through increased demand.
+Here, too, economic conditions are core constituting factors: Johnson concludes that “it is indisputable that this collection could not have been formed economically, or at all, except by attachment to this Printing Business” (qtd in “Introduction, p 12), and he also discusses the importance of not announcing his intentions as a collector, so as to avoid driving up prices through increased demand.
 
 
 
@@ -1681,17 +1913,13 @@ In comparison to all the other texts, the appeal of the Vicar of Wakefield is ob
 
 The novel was first published in 1766; this 1792 edition comes 26 years after its first publication, and 18 years after Goldsmith’s death in 1774.
 
-
-
-
-
 It opens with an index of chapter summaries, and contains absolutely no prefatory materials --- which is, frankly, a real oddity! A sign it was a well-known book? ‘Needs no introduction’
 
 
 
 Mr. Burchell sings a ballad, which seems to stand in for his moral worthiness in contrast to the local lord’s lack of culture and Moses’s pretentious/soulless admiration of the “ancients.”  
 
-An eighth edition was published in 1787, followed by a “new edition” in 1790 of two volumes in one, followed by a 1792 reprint of the new one-volume edition (Dobson xxv). This appears to be the version I have. 1792 also saw a two-volume edition which called itself the twenty-second edition, probably by counting all the non-London eds (since 8 only counts London) (Dobson xxv). Dobson describes a LOT of editions, up to his own day--- 1885. Dobson says that sales are rapid in 1766 (three fast editions), but slow by 1770 (Dobson xvi). The fourth edition sold at a loss, and the three owners of the book seemed to think they would not make much more money on it; the fifth edition, promised in 1773, was deferred to 1774 (Dobson xvii). The sixth edition was 1779. Dobson concludes that “The demand for the book I its early days, or at all events, for the authorised edition, cannot therefore have been quite so urgent as has been usually supposed” (Dobson xvii).
+An eighth edition was published in 1787, followed by a “new edition” in 1790 of two volumes in one, followed by a 1792 reprint of the new one-volume edition (Dobson xxv). This reprint appears to be the version I have. 1792 also saw a two-volume edition which called itself the twenty-second edition, probably by counting all the non-London eds (since 8 only counts London) (Dobson xxv). Dobson describes a LOT of editions, up to his own day--- 1885. Dobson says that sales are rapid in 1766 (three fast editions), but slow by 1770 (Dobson xvi). The fourth edition sold at a loss, and the three owners of the book seemed to think they would not make much more money on it; the fifth edition, promised in 1773, was deferred to 1774 (Dobson xvii). The sixth edition was 1779. Dobson concludes that “The demand for the book in its early days, or at all events, for the authorised edition, cannot therefore have been quite so urgent as has been usually supposed” (Dobson xvii).
 
 Dobson assumes print runs of roughly a thousand --- it would be worth going back more carefully over these numbers, and those used by others later, to contextualize whether these are large or small print runs, fast or slow sales.
 
@@ -1739,9 +1967,9 @@ The first volume is divided into 40 sections, on a range of topics related to th
 
 The second volume is focused solely on classifying diseases into classes, orders, and genera. The book is divided into four major sections, based on the four classes of disease: diseases of irritation, sensation, volition, and association. This model of disease essentially tries to understand each symptom as being its own illness, seeking to explain the mechanism of the symptom’s operation in order to explain its causes and cures. The drawback of this model is illustrated by, for example, his division of fevers into five classes: irritative fever, inirritative fever, sensitive fever, sensitive irritated fever, and sensitive inirritated fever (Darwin *Zoonomia* 191). At many points, his treatment suggestions are accompanied by question marks, or include direct questions and suggestions for experiments, indicating the “in progress” nature of even this very polished work. The literary style in general is very different between the two, with the second volume far less digressive and allusive.  
 
-It was difficult to find secondary work on zoonomia, since most work on Erasmus is interested in the publications before and after: either they are interested in Erasmus as a literary figure, and discuss his Botanical Garden, or they are interested in him as a precursor to Charles Darwin’s theories of evolution, so they discuss his next work.
+It was difficult to find secondary work on *Zoonomia*, since most work on Erasmus is interested in the publications before and after: either they are interested in Erasmus as a literary figure, and discuss his Botanical Garden, or they are interested in him as a precursor to Charles Darwin’s theories of evolution, so they discuss his next work.
 
-Zoonomia gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. They’re not valueless, and perhaps did have impact as precursors to a true understanding of evolution, but they’re also not as accurate or complete as they have been presented. And, more importantly, they are not important *to Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,180 pages of this 1,200 page work.  
+*Zoonomia* gets some mention in evolutionary histories, but to discuss this book primarily through the lens of evolution is to fundamentally misunderstand it. The few paragraphs on evolution are typically quoted out of context, or even paraphrased inaccurately, to emphasize as much as possible those aspects which match our own knowledge of DNA and natural selection. In context, however, it is clear that Erasmus is wildly off base --- for example, he doesn’t think the mother contributes any traits directly to the offspring. Those things which sound proto-Darwinian are, in context, clearly Lamarckian evolution. They’re not valueless, and perhaps did have impact as precursors to a true understanding of evolution, but they’re also not as accurate or complete as they have been presented. And, more importantly, they are not important *to Zoonomia* as a work. These theories do not inform any of his explanations of anatomy or disease, which are the topics of the other 1,180 pages of this 1,200 page work.  
 
 Gould calls *Zoonomia* “a paean to progress in a world that many judged on the brink of ruin” (80). He notes that our reading of this work has a different emphasis than the work itself: “in the anachronistic tradition that judges biological works by their attitude to the great watershed of evolution... *Zoonomia* owes its modern reputation to a few fleeting passages that look upon organic transmutation with favor.” (80)
 
@@ -1801,7 +2029,7 @@ P 193
 
 ![][ScreenShot2021-02-21at11.38.30PM]  
 
-Schwartz introduces him breezily as a “pioneer of evolutionary theory” (27).
+Schwartz introduces him breezily as a “pioneer of evolutionary theory” (Schwartz 27).
 
 
 
@@ -1820,94 +2048,6 @@ P 42-43:
 ![][ScreenShot2021-02-25at1.37.48AM]  
 
 Even the encomiums on Darwin presented by the necessarily-biased Erasmus Darwin House Museum recognizes the failure of *Zoonomia*’s ambition: “One reviewer claimed that Zoonomia ‘bids fair to do for Medicine what Sir Isaac Newton’s Principia has done for Natural Philosophy.’ It didn’t, but it was a nice thought.”  
-
-Piper identifies generalization as a common and important method in literary studies, which plays a distinct role in literature compared to history or social science. He provides compelling evidence for “an inverse relationship between the scale of claims and scope of evidence provided” (71), in which “rhetoric stands in for evidence” and “interestingness becomes true (or the truth is only valued because it is interesting)” (16). \[This is a different way of describing the same phenomenon that others like Guillory and Sedgwick and Love have identified, in the figure of the critic as the authority in themselves.\] Piper turns to some ideas about ‘openness’ as the alternative way to reframe our relationship to our field--- by this he means an “expressive openness” that he sees as central to the methods of literary study. This expressive openness takes three forms: the questioning mind (“a rhetorical stance that is at once both critical and open. It doubts but also wonders” (66)), the expanding mind (“the valuation of the ‘novel’ or ‘unforeseen,’ things that have not been thought before” (67)), and the loosening mind (“ a capacity to undo associations and make room for novel connections” (67)). The goal of all this openness would be to “build confidence in our collective forms of knowledge about the world all the while continuing to imagine alternative versions” (72).
-
-
-
-Piper and generalization is related to what I am doing with my random sample evidence because I am openly and perversely choosing insufficient, limited, arbitrary evidence and trying to see what I can make of it anyway.
-
-In that light it seems like what I am saying might be ‘look--- I can achieve a plausible generalization even with bad evidence, suggesting that all work in the field is mere charlatanry!’ but I actually want to do something like ‘look--- this works, suggesting that we haven’t successfully defined what ‘good evidence’ is.’ The idea of the random sample is that I really do expect ‘1790s-ness’ to appear in *all* of 1790s lit; if I decide that the 1790s are ‘about’, for example, a gendered renegotiation of capitalism, then that aboutness will appear in anything I pick. But when I say it that way I get back to the circularity/always-already of close reading...  
-
-Connecting Darwin to Goodall: Darwin was “one of the leading members of the celebrated Lunar Society of Birmingham” (Poynter 112) --- what does that mean?
-
-
-
-Vicar has some comments about jest-books
-
-
-
-Vicar & Zoonomia make the same argument about hierarchies of people arising naturally; p 671 Zoonomia  
-
-General Dundas’s advice on cavalry influenced the light-horse book --- any relation to the Dundas in the East India proceedings??  
-
-One of the major findings of this research methodology is a reminder that digital records are based on a relentless materiality. The method itself, in some ways, boils down to predicting the location of some barriers to research, and then smashing my face directly against those barriers in order to characterize their location, shape, and solidity. The hunt for the more-neglected titles hit very similar barriers. The Hayward advertisement has only one recorded copy, in Germany; elation when looking up the shelfmark reveals that it is bound with the Gentleman’s Magazine and I can find a HathiTrust scan of that exact volume; growing dread as a detailed examination of the 800-page facsimile makes it clear that the advertisement did not appear within the magazine but was bound with it separately by an idiosyncratic German person; resignation as I use Google Translate to compose an apologetic message in German for the Niedersachsische Staats und Universitatsbibliothek, where someone will have to go dig out the book and personally inspect it for the inclusion. Or, for the East India accounts --- growing elation as I realise that one of the holding libraries is UCLA, where material conditions are in my favour, since I have a friend studying there; hopes that are dashed by the absolute bar on special collections access during COVID-19.  
-
-Underwood has particularly emphasized that the unique role of literary studies, as opposed to history or sociology, is that narratives provide pleasure. Of the ten items I attempted to consult, Erasmus Darwin’s *Zoonomia* is on paper one of the easiest to work with: a readily available facsimile in ECCO, and a substantial body of secondary work to consult. However, the thing about a 1,200 page loosely-organized medical text is that it is entirely lacking in the pleasure of narrative. Even to lightly skim each page took a substantial investment of time and willpower. Trying to fully understand the ideas proposed --- and especially to reconcile them with what I came to realise was a very haphazard and largely forgotten high school education biology --- was a challenge. In other words, the text itself can be a barrier.
-
-
-
-A review of *The Essential Writings of Erasmus Darwin* explicitly describes the barrier to study posed by *Zoonomia*’s length: “Anybody who has tried to read Erasmus Darwin’s *Zoonomia* or his *Botanic Garden* will be familiar with the *longeurs* of those extraordinary compositions and be prepare to turn with relief to the brief selections of important passages which are offered here.” (Poynter 111) The value of the abridgement is that it can “introduce more readers to one of the more colourful characters in English scientific history than have ever been gained by the original texts.” (Poynter 112)
-
-
-
-When we study Zoonomia, we impose our own preferences and interests onto the text. *Zoonomia* illuminates theories of evolution; it grounds Wordsworth’s ideas of the inner lives of plants (Matlak); it probably does a third thing --- but it does not, alas, offer the foundation of a systematic theory of fevers upon which future generations would “erect a solid and beautiful edifice, eminent both for its simplicity and utility, as well as for the permanency of its materials... like the Newtonian philosophy, a rock amid the waste of ages!” (625). All of the aspects of this work of the greatest importance to its author have, in fact, met they fate he most feared: they “moulder\[ed\], like the structures already erected, into the sand of which they were composed” (625), not even meriting a footnote in the histories that discuss the peers whom he references (Cullen, Beddoes, Pringle, etc).
-
-This is Leah Price’s core argument about abridgement.  
-
-Literary study tends to value the exceptional and the interesting. \[I know I saw someone I could cite for this--- maybe Underwood or Piper on twitter?\] The question of this chapter is, what characterizes “normal” texts in the 1790s? How might we understand the priorities and features of the 1790s print mediascape if we examine it through ordinary, unremarkable documents?
-
-\[How can I pose my question/thesis in a way that doesn’t necessarily ‘give away’ my methods too soon? Do I have to just lead in with some generalizations?\]  
-
-This dissertation has been centrally concerned with textual selection. In this final chapter, I wish to experiment with a perverse and speculative form of textual selection: true randomness. The value of speculative computing, as a methodology in a liminal space between the humanities and computer science, lies in its ability to be useless in a thought-provoking way. Of course one would not seriously suggest that we study literary history through texts chosen at random... but what would happen if we did it anyway? To write this chapter, I used a random number generator to choose \[X\] texts from the ESTC. \[LITERARY BLUF - last thing to write\]  
-
-The perversity of this method might seem like a bad-faith interpretation of literary studies, or an attempt to debunk or hoax literature scholarship. If scholars expend considerable expertise in order to select specific illustrative texts to support their arguments about a period of literature, why should it “work” to skip that expertise? If I produce an analysis from random texts, doesn’t that mean that other scholars’ choices of texts don’t matter? But I do this experiment in part to understand why literary analysis *does* work: if textual selection isn’t the important part, then the important part lies elsewhere. At first, I thought it was very possible that this would not work, that I would produce an incoherent list with nothing to offer our understanding of 1790s literature. (Indeed, my reader may still judge that I have failed.) But as I began to read, it seemed like literary close-reading can in fact find informative meaning even with completely arbitrary texts. I think this success is not, in fact, too remarkable. If the core thesis is something like “historical contexts have perceivable impacts on literary output,” then those impacts *ought* to be present in all texts--- and therefore ought to be perceivable in *any* text.
-
-The problem with arbitrary textual selection is not that one cannot find traces of historical processes; it’s a rhetorical-narrative problem. Underwood and Piper both discuss the fact that part of what a literary scholar does is *tell a good story*. It can be hard to tell a good story about an invoice, especially when one cannot even read the invoice itself.  
-
-It feels kind untenable to ‘tell the story of the 1790s’ because I wouldn’t really try to ‘tell the story of the 1990s’.  
-
-One of the pleasurable impulses that drives literary-historical research is the feeling that one’s explorations are special. Often it can seem as if you are the first person to read, or to care about, a text or a person in hundreds of years. That intimacy across time gains its sacred aura in part from its exclusivity; to love Jane Austen has a very different tenor than if one loves Charlotte Smith, or loves Susannah Goodall. Sharing one’s discoveries is a double-edged sword: love asks to be shared, but if it is shared *too* successfully, one’s own love may be threatened with diminishment, lost in a more general and therefore less special love.
-
-Selecting items completely at random may seem to be a poor methodology to find a new love. But what reparative reading shows us is that the object of love need not be *worthy* of that love; it may shape or colour the form of love, but the “plenitude” comes from the lover, not the beloved. Any object becomes lovable when examined with a loving eye. To observe, in minute detail, is to love.
-
-
-
-Literature is, surely, tied to cultural capital. But it is also tied to pleasure, and potentially to love. When we discuss literature with others, we enter capital’s world; one may wish to seem erudite, or one may wish to seem “hip,” and one may present a particular literary ‘face’ accordingly. But the literature one discusses need not align too closely with the literature one *loves*. \[This is too bland/generic, but also possibly getting toward the important thing\]  
-
-A lot of work of comprehensive bibliography--- and especially a lot of digital work attempting use use bibliography to answer sociological questions--- is focused on the novel. Riddell bases practically everything on the Garside. Why did the Garside study the novel?  
-
-In earlier chapters, especially chapter 1, the 1790s provided a backdrop to explore my real subject of contemporary literary databases. In this chapter, however, my real subject is 1790s print culture in England; I am curious about how this subject might be illuminated differently through my unusual sampling method (in the vein of speculative computing) but several of my sampling principles are defined around the goal of actually acquiring sufficient titles to answer my questions. First, for example, I decided to work with my “post-cleaning” sample, to exclude non-English or non-1790s works. Although it is interesting to note the “false positives” that appear, their presence in the sample would limit my ability to comment meaningfully on my actual subject, 1790s print in England. I also decided that I would re-sample from ECCO instead of the ESTC if I could not find a way to personally read at last five of the works in the ESTC sample.
-
-I preferred to select my texts from the ESTC because it is the largest/broadest corpus from which I can sample. This would allow me to perform another case study “spot check” like the exploration of Charlotte Smith’s works in chapter 1: of the works I read from the ESTC, which are also available in other resources, and why? Sampling from ECCO instead would eliminate the possibility of finding works present in, eg, HathiTrust but *not* ECCO, and reduces the ability of this experiment to illuminate the database ecosystem. Nonetheless, I prefer in this chapter to limit my observations about databases in order to increase my ability to discuss the 1790s in England.
-
-I considered balancing my sample chronologically, e.g., taking one work from each year 1789-99. Doing so would reduce the chance that my random sample would overrepresent more productive years. However, I decided that such chronological overrepresentation would be exactly the kind of phenomenon I’d like to discover.  
-
-To take my sample, I used my “ESTC records - cleaned” spreadsheet from OpenRefine, which included 51,090 rows of data. I installed the “GOKb Utilities extension” for OpenRefine (https://github.com/ostephens/refine-gokbutils). I created a column called “Random number,” using the function randomNumber(0, 51090) (per https://stackoverflow.com/questions/46063173/how-to-make-a-random-sample-in-openrefine). However, when I sorted the data numerically, I saw that this did not give them all unique numbers (the first 10 went 1, 2, 3, 3, 5, 6, 6, 7, 7, 8) so this was not what I needed.
-
-So then I created a new column called “Row number,” using the GREL formula “row.index + 1” (which, despite the +1, filled the column with the exact row number that OpenRefine had assigned).  First I decided to reorder the rows permanently by the “Random number” column; even though that method hadn’t given each row a random unique identifier, it did sort them more randomly than any order sorting method could have accomplished. I spot-checked the new “Row number” column and it appeared to go appropriately from 1 to 51090.
-
-Then it was time to choose 10 random numbers between 1 and 51090 (inclusive). I used the random.org Random Integer Set Generator to generate 1 set with 10 unique random integers, with each integer between 1 and 51090 (inclusive). This generated the following set: 3585, 6427, 11770, 13646, 15284, 15442, 21963, 37041, 44564, 48755. I then looked up each of those row numbers in OpenRefine to find my titles.  
-
-Suarez: “Lacking the resources to conduct a detailed analysis of the entire ESTC from 1701 to 1800, I have resorted to sampling. Electing to examine all eighteenth-century records that appear in years ending in three -- 1703, 1713, 1723 and so on -- I have sought to avoid a number of cohort effects, most especially the cumulation of indeterminate records into years ending in ‘0’ or ‘1’ and, to a lesser degree, ‘5’.” (41)  
-
-# 1790s synthesis
-
-The 1790s often capture our imagination for their poetic and political revolutions, but beyond *Lyrical Ballads* and the ‘pamphlet wars’ the print mediascape of the late eighteenth century \[has a trait\]. 
-
-It is hard not to read these texts, anachronistically, for their failures. A medicine that claims to treat scurvy, tubercular swelling, and leprosy, such as the THING advertised in \[TITLE\], might call to mind the long period of time in which the eighteenth century failed to take notice of the cure for scurvy which was demonstrated experimentally by LIND in YEAR. A chapbook prophecy promising “war and rumours of war”
-
-One reason that literary history matters is that the fate of texts like Erasmus Darwin’s *Zoonomia* rests in our hands. As a medical text, *Zoonomia* is painfully full of failures: it begins from a few fundamentally untenable assumptions, takes them to wild conclusions, and prescribes treatments that seem sometimes beneficial only by accident. Moreover, since it largely follows existing trends in medical theories, even its wrongness is generally overshadowed by the more seminal and illustrative wrongness of XXX (cite scurvy guy). The assessment “ILLUSTRATIVE QUOTE” falls far short of the texts own earnest aspiration to BE A NEWTON. \[and yet we still respect it too much\]
-
-
-
-# Textual selection
-
-I have attempted, above, to form a narrative about the 1790s. It has little in common with many other narratives of this decade, because it is the product of an intentionally unconventional research methodology. \[LOTS ABOUT OUR RESEARCH METHODS, FROM PIPER AND UNDERWOOD; TALK ABOUT HOW CLOSE READING DOES ACTUALLY WORK\]
-
-The rest of this dissertation has been centrally concerned with the impacts of textual selection, writ large. \[PARA ON THIS\]
-
-How, then, did I come to read the texts from which I drew my evidence for this narrative of the 1790s? Through the logical extreme as a counter to selection bias of various kind: random selection.  
 
 **3585**
 
@@ -3298,7 +3438,43 @@ P 720-721: celery helps with scurvy by increasing the absorption of the veins
 | Provenance name | Sotheran, Henry |
 | Provenance note | Binder’s label |
 | Size | 19 cm |
-| Bound with | With 87 other chapbooks. Binder’s title: Trials |
+| Bound with | With 87 other chapbooks. Binder’s title: Trials |  
+
+The 1790s often capture our imagination for their poetic and political revolutions, but beyond Lyrical Ballads and the ‘pamphlet wars,’ the print mediascape of the late eighteenth century \[has a trait\]. 
+
+It is hard not to read these texts, anachronistically, for their failures. A medicine that claims to treat scurvy, tubercular swelling, and leprosy, such as the THING advertised in \[TITLE\], might call to mind the long period of time in which the eighteenth century failed to take notice of the cure for scurvy which was demonstrated experimentally by LIND in YEAR. A chapbook prophecy promising “war and rumours of war”
+
+One reason that literary history matters is that the fate of texts like Erasmus Darwin’s *Zoonomia* rests in our hands. As a medical text, *Zoonomia* is painfully full of failures: it begins from a few fundamentally untenable assumptions, takes them to wild conclusions, and prescribes treatments that seem sometimes beneficial only by accident. Moreover, since it largely follows existing trends in medical theories, even its wrongness is generally overshadowed by the more seminal and illustrative wrongness of XXX (cite scurvy guy). The assessment “ILLUSTRATIVE QUOTE” falls far short of the text’s own earnest aspiration to BE A NEWTON. \[and yet we still respect it too much\]  
+
+One of the uncomfortable questions posed by computational literary study is a particular kind of scrutiny of methodology: what is it, exactly, that literary study *does*? Especially as universities have sought increasingly transparent instrumental justifications for the continued existence of English departments --- we will teach writing! critical thinking! digital literacy! Studying English will create more ethical digital citizens and more valuable employees! --- it can seem as if the English department isn’t sure what it is for, or how our research is supposed to work. Is it even “research” or “a method” to read a lot of books, think about them, and then tell each other stories about our thoughts?
+
+
+
+Ted Underwood has proposed that the core research output in literary study is, at its core, a narrative. Effective literary criticism has protagonists-- whether these are texts, cultural forces, or critical camps-- which the critic narrates through some kind of conflict, to reach a final meaning that the reader will find moving. For example, Eugenia Zuroski’s A Taste for China follows and explains figures like “China,” “things Chinese,” “English identity,” and “orientalism.”[^cf32] Some individual characters take on prominent roles in this narrative: \[EXAMPLES OF PEOPLE\] and, in the fine tradition of eighteenth century “it” narratives, \[SPECIFIC PIECES OF CHINA\]. But the core narrative is really a story about the characters it calls “English identity” and “orientalism.” \[SUMMARIZE BOOK: “offers an account of how literature of the long eighteenth century generated a model of English selfhood dependent on figures of China. It shows how various genres of writing in this period call upon “things Chinese” to define the tasteful English subject of modernity. Chinoiserie is no mere exotic curiosity in this culture, but a potent, multivalent sign of England’s participation in a cosmopolitan world order. By the end of the eighteenth century, not only are English homes filled with it, but so too are English selves.”\] The many kinds of texts Zuroski consults have become meaningful because they create a narrative.
+
+Narratives are not, in themselves, the problem: saying that a piece of scholarship constructs a narrative is another way of saying that it organizes information in a way that creates meaning. This is, in fact, desirable. Similarly, when Andrew Piper studies generalization as a defining practice in literary study, generalization itself is not the problem. Piper defines generalization as “the rhetorical strategy whereby we move from partial evidence to knowledge claims about some larger group or category” (1). Acquiring knowledge about some broader phenomenon is generally the purpose of acquiring evidence in the first place.
+
+
+
+So, as Underwood also points out, narrative construction is not really unique to literary study. Any attempt to describe cause and effect or explain a mechanism will produce a narrative: \[EXAMPLES\].
+
+
+
+“an inverse relationship between the scale of claims and scope of evidence provided” (Piper 71)  
+
+I have attempted, above, to form a narrative about the 1790s. It has little in common with many other narratives of this decade, because it is the product of an intentionally unconventional research methodology.
+
+The rest of this dissertation has been centrally concerned with the impacts of textual selection, writ large. \[PARA ON THIS\]
+
+How, then, did I come to read the texts from which I drew my evidence for this narrative of the 1790s? Through the logical extreme as a counter to selection bias of various kind: random selection.
+
+  
+
+What this exploration has revealed is that there are two distinct paths to survival, for a historic text: an institution, or an eccentric collector. Here, by “survival” I mean “the continued existence as a physical object”. 
+
+
+
+And then periodically the eccentric individuals persuade institutions to adopt their collections
 
 
 
@@ -3640,7 +3816,7 @@ Ultimately, historians will need to steer a middle course between the two extrem
 
 One reason that it can be informative to close-read the data structures of a resource like the ESTC is that a resource’s categories of knowledge are driven by the *uses* to which it expects that knowledge to be put. Examining the implicit assumptions that will make a given organization of knowledge seem logical, we can work backwards to the purpose of mission of the initial knowledge creation. Thus Tabor describes the data structure and the mission of the ESTC in a single statement: “ESTC’s most basic bibliographical function is to provide, for each edition, a description of the ideal copy, meaning the most complete and correct manifestation of that edition as the printer and publisher intended it” (369). Korshin further elaborates the use envisioned for this information: “the ESTC's cataloguing rules have been devised in such a way that a scholar anywhere in the world can tell, from the ESTC entry, whether the copy of the book in his or her library is the same or different from the one listed in ESTC” (211). Both “edition” and “ideal copy” are terms defined around the interests of a specialist audience of bibliographers, which bear inexact but important relationships to the formulation of an ESTC record.
 
-An “edition” is a group of copies of a work which are understood to be interchangeable with each other (Tabor 369),[^cf32] though in practice different levels of granularity are applied in distinguishing between editions. The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Karian describes that “\[s\]ometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type)” (289). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). As a result, Karian argues persuasively that ESTC records should not be treated as synonymous with “editions,” “issues,” or “titles,” since the same definitions of those boundaries may not be applied consistently. The specific question he poses is “What is the unit that the ESTC uses?” (289), and important question, to which the answer cannot really be “editions,” despite the best attempts of the ESTC bibliographers. Instead, he says “one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC” (Karian 289).[^cf33]
+An “edition” is a group of copies of a work which are understood to be interchangeable with each other (Tabor 369),[^cf33] though in practice different levels of granularity are applied in distinguishing between editions. The ESTC sometimes has separate entries for groups within an edition “when certain separately planned marketing units can be identified within the edition, such as reissues, imprint variants, and large versus regular-paper copies” (Tabor 369). Karian describes that “\[s\]ometimes the ESTC contains additional records if there are multiple *states* of an edition (a different state results from cancels or minor changes to the setting of type)” (289). Or, in “the later eighteenth century, when reprints from standing type became more common, ESTC cataloguers have occasionally granularized down to the level of individual impressions” (Tabor 369). As a result, Karian argues persuasively that ESTC records should not be treated as synonymous with “editions,” “issues,” or “titles,” since the same definitions of those boundaries may not be applied consistently. The specific question he poses is “What is the unit that the ESTC uses?” (289), and important question, to which the answer cannot really be “editions,” despite the best attempts of the ESTC bibliographers. Instead, he says “one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC” (Karian 289).[^cf34]
 
 The “ideal copy,” too, represents an interpretation. Because the ESTC is essentially a movel based on limited samples of an imagined lost prior whole --- “the most complete and correct manifestation of that edition as the printer and publisher intended it,” as Tabor termed it (369) --- a new sample can change the model. As Tabor describes, “\[a\]s additional reports of copies arrive, it may be that the ideal description must change in response. For instance, the existence of a half-title may only emerge on the evidence of the seventh copy reported. A half-title would then be added to the description of the ideal copy, and the six previously matched physical copies will receive notes recording that they are imperfect in this respect” (370). The ideal copy, like the database itself, thus represents a moving target.
 
@@ -3656,7 +3832,7 @@ So, how do these ideas of the edition and the ideal copy shape the data structur
 
 How many of my records have subject headings? What is the ESTC’s ontology?] The remainder of the record is an extensive list of libraries which hold copies of the edition, divided into the three geographic regions of “British Isles,” “North America,” and “Other,” followed by a direct link to the ECCO copy referenced above.
 
-This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf34] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
+This, however, is only how the ESTC *displays* its contents. Clicking another tab makes visible the MARC tags in which the data itself is stored. The MARC tags encode information at a slightly more refined level of detail. For example, the publication location in the standard view is listed as “Publisher/year” and displayed as the string “London : printed for T. Cadell, in the Strand, 1793.” A human can parse that string, but as the MARC version of the same information reveals, it is made up of three points of information that have been combined. The MARC data is listed as “260,” which is the MARC standard code for “Publication, Distribution, etc.” The line itself is displayed as “\|a London : \|b printed for T. Cadell, in the Strand, \|c 1793” --- indicating three separate pieces of information in the subfields “a - Place of publication, distribution, etc.”, “b - Name of publisher, distributor, etc.”, and “c - Date of publication, distribution, etc.” The separation of these points of information in the underlying MARC data is what allows the online database to conduct searches based on publisher, publication location, and date of publication. Even this is a reformatting of the underlying MARC code, which would read “##$a London :$b printed for T. Cadell, in the Strand,$c 1793” --- with the two “#” symbols at the beginning encoding that this is the first edition.[^cf35] It is, of course, only sensible for the ESTC to reformat its MARC code for display: MARC stands for MAchine Readable Catalogue, and machines and humans have very different needs as readers. However, what this exploration reveals is that \[???[ Is it that the categories of information are made less explicit as they are translated for humans, relying on the expert reader’s interpretive skill?]\].  
 
 Figure 4: A screencap of the ESTC record for Charlotte Smith’s *The Emigrants* (1793).  
 
@@ -3846,7 +4022,7 @@ The first Project Gutenberg texts are almost a parody of important texts: The De
 
 How accurate does OCR need to be? This depends on how the OCR will then be used.  
 
-The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf35] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf36] This surprised me, and suggests that skepticism of OCR in eighteenth-century text mining may no longer be appropriate.  
+The existence of a carefully hand-corrected transcription of *The Emigrants* in ECCO-TCP provides an opportunity to check the reliability of the OCR in both ECCO and HathiTrust. I will proceed from the assumption that the ECCO-TCP files are 100% accurate, and that any differences between the OCR and ECCO-TCP represents an OCR error.[^cf36] Before beginning the experiment, my hypothesis was that both ECCO and HathiTrust would differ from each other in where and how they are inaccurate, but would have similar accuracy overall. I suspected that they were likely around 50% accurate, plus or minus 10% --- I wouldn’t be surprised if they were worse, but would be quite surprised if their accuracy was 80% or higher.[ What level of accuracy do people usually want for OCR research?] Acquiring the plaintext files from all three sources required some hunting for some hidden options and some workarounds; rendering them suitable for comparison required some modifications of each file, described more fully in Appendix B. Although Gale Digital Scholar Labs prominently provided an “OCR Confidence” of 95%, the first glance at the document was not very promising. To my surprise, Juxa calculated a relatively low “change index” for each text compared to the TCP witness: ECCO had a .16 change from base (i.e., 84% accuracy), and my normalized HathiTrust document had only a .09 change from base (i.e., 91% accuracy).[^cf37] This surprised me, and suggests that skepticism of OCR in eighteenth-century text mining may no longer be appropriate.  
 
 To make these comparisons concrete, consider the first page of Smith’s dedication, as it is captured by OCR in ECCO and HathiTrust, and in the ECCO-TCP transcript:
 
@@ -4190,7 +4366,7 @@ Reprints??
 
 Vincent Carretta sees a lull in abolitionist activities during the late 1790s. Do I see anything like that?  
 
-As these examples from Bode and Underwood show, it is increasingly rare for DH scholars to present their own research with sweeping claims to unmediated truth. Indeed, beyond Moretti and Jockers, it can be hard to find the bombastic claims with which DH has become associated.[^cf37] \[TODO-RESEARCH: cite 4-5 examples, one sentence summary / one sentence quote from each.\]  
+As these examples from Bode and Underwood show, it is increasingly rare for DH scholars to present their own research with sweeping claims to unmediated truth. Indeed, beyond Moretti and Jockers, it can be hard to find the bombastic claims with which DH has become associated.[^cf38] \[TODO-RESEARCH: cite 4-5 examples, one sentence summary / one sentence quote from each.\]  
 
 “Proprietary mass-digitized collections such as Google Books, Early English Books Online, and The British Newspaper Archive (owned by Google, ProQuest, and findmypast, respectively) are increasingly used in humanities research. But their scope and scale---let alone the histories of transmission that produce them---can be very difficult to discern; indeed, **the commercial imperatives of these enterprises arguably depend on them presenting these collections as comprehensive**.” (Bode *World* 47)  
 
@@ -4213,6 +4389,14 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 	vernaculars, in any part of the world. “ (Gregg 12)
 
+[ScreenShot2021-03-07at4.23.44PM]: ScreenShot2021-03-07at4.23.44PM.png width=435px height=234px
+
+[ScreenShot2021-03-07at4.24.24PM]: ScreenShot2021-03-07at4.24.24PM.png width=438px height=205px
+
+[ScreenShot2021-03-07at4.27.32PM]: ScreenShot2021-03-07at4.27.32PM.png width=435px height=164px
+
+[ScreenShot2021-03-07at4.27.39PM]: ScreenShot2021-03-07at4.27.39PM.png width=431px height=30px
+
 [fig-databases-venn]: fig-databases-venn.png width=349px height=286px
 
 [CSmith-in-ESTC-ECCO-TCP-Hathi-table]: CSmith-in-ESTC-ECCO-TCP-Hathi-table.png width=184px height=312px
@@ -4230,6 +4414,8 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 [pastedGraphic-1]: pastedGraphic.png
 
 [pastedGraphic-2]: pastedGraphic.png
+
+[C8SNWbw99cIt-P013zl_0mJesqgFN1sBQynCL2HSgA4AKewrtMJ-pczuDZVKem_kCUATMecsp2FR27-LHHDihf4tXn3kJ3fH6je1P7G9cCAXWJxs2JOjTRH59x-yP-AV7g3yS1jG]: C8SNWbw99cIt-P013zl_0mJesqgFN1sBQynCL2HSgA4AKewrtMJ-pczuDZVKem_kCUATMecsp2FR27-LHHDihf4tXn3kJ3fH6je1P7G9cCAXWJxs2JOjTRH59x-yP-AV7g3yS1jG.png
 
 [ScreenShot2021-02-22at9.56.40PM]: ScreenShot2021-02-22at9.56.40PM.png width=184px height=233px
 
@@ -4623,14 +4809,16 @@ As these examples from Bode and Underwood show, it is increasingly rare for DH s
 
 [^cf31]: Readily-available works on astrology and almanac print culture begin with, for example, Bernard Capp’s *Astrology and the Popular Press: English Almanacks, 1500-1800*, Faber, 1977. More recent work includes Timothy Feist, “The Stationers' Voice: The English Almanac Trade in the Early Eighteenth Century,” *Transactions of the American Philosophical Society*, volume 95, number 4, 2005, pp. i-129; Ivana Dragoş, “Astrology and the Demotic Press: Almanacs in Eighteenth-Century England.” *Anafora*, volume 5, issue 2, 2018; and Jennifer C. Mori, “Popular Science in Eighteenth Century Almanacs: The Editorial Career of Henry Andrews of Royston, 1780--1820.” *History of Science*, volume 54, number 1, March 2016, pp. 19--44
 
-[^cf32]: “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369).
+[^cf32]: As I hope my discussion will show, I have taken this monograph as a touchstone because I think it is exceptional, representing a success of our field’s methods.
 
-[^cf33]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
+[^cf33]: “Because ESTC is a bibliographical database rather than a catalogue, strictly speaking, its records describe groups of copies,” such as editions, “rather than specific copies,” such as the Exeter Book (Tabor 369).
 
-[^cf34]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
+[^cf34]: “The first problem relates to the unit of classification. A clearly defined unit is necessary to ensure that a study of change over time is reliable and based on consistent terms. What is the unit that the ESTC uses? Scholars sometimes answer by using the terms “edition,” “issue,” or “title” interchangeably. But since the ESTC does not rely in a consistent manner on any of these terms for its unit of classification, one should refer instead only to the ESTC record, a unit created by the ESTC and having no meaning outside the ESTC.” (Karian 289)
 
-[^cf35]: One exception to this assumption has to do with treatment of the character ſ, which the TCP file modernizes to an s, but which HathiTrust renders as ſ. To avoid penalizing HathiTrust for “inaccuracy” when it is actually a more accurate reproduction of the page than my reference point, I amended every instance of ſ in HathiTrust to an s.
+[^cf35]: Technically, in the “##” sequence, the first “#” encodes that the work is a first edition (as opposed to a “2” for an “intervening” edition or a “3” for the “current” most recent edition), and the second “#” doesn’t encode anything. That position in the MARC record is undefined, with no possible meanings, and simply always contains a ‘blank’ #.
 
-[^cf36]: Leaving the ſ characters unchanged in the HathiTrust document resulted in a .29 change from base (71% accuracy), so my normalization of ſ to s had a major impact on the comparison. I consider the .09 result more appropriate than the .29 because the normalized copy better reflects how an OCR file would be used.
+[^cf36]: One exception to this assumption has to do with treatment of the character ſ, which the TCP file modernizes to an s, but which HathiTrust renders as ſ. To avoid penalizing HathiTrust for “inaccuracy” when it is actually a more accurate reproduction of the page than my reference point, I amended every instance of ſ in HathiTrust to an s.
 
-[^cf37]: Even Moretti and Jockers do not go as far as the news media would like them to. \[TODO-RESEARCH: support claim that critiques of DH often respond implicitly to news coverage, not scholarship itself.\]
+[^cf37]: Leaving the ſ characters unchanged in the HathiTrust document resulted in a .29 change from base (71% accuracy), so my normalization of ſ to s had a major impact on the comparison. I consider the .09 result more appropriate than the .29 because the normalized copy better reflects how an OCR file would be used.
+
+[^cf38]: Even Moretti and Jockers do not go as far as the news media would like them to. \[TODO-RESEARCH: support claim that critiques of DH often respond implicitly to news coverage, not scholarship itself.\]
