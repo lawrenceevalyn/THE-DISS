@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-03-13 22:28:27 -0500" ModID="1F129D46-B80B-4776-B87F-D9AD9210799F">
+<ScrivenerProject Identifier="1FDF3F4A-1F22-49CB-BA8B-CC7A0D2FB744" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="The-Enterprise-2" Author="Lawrence Evalyn" Modified="2021-03-15 01:20:02 -0400" ModID="73CCA0DE-31AD-436C-982F-67348E86BE57">
     <Binder>
         <BinderItem UUID="0A6F3AE5-8FB2-49A6-9976-6982699890B8" Type="Text" Created="2020-01-16 16:02:19 -0500" Modified="2020-01-16 16:02:23 -0500">
             <Title>Conferences</Title>
@@ -1315,7 +1315,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>480,117</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4016,14 +4016,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-03-13 22:28:27 -0500">
+                <BinderItem UUID="1D4F41D3-4AF5-4429-8654-A28324930D4E" Type="Text" Created="2018-05-27 16:00:10 -0400" Modified="2021-03-15 01:20:02 -0400">
                     <Title>Works Consulted</Title>
                     <MetaData>
                         <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>58960,0</TextSelection>
+                        <TextSelection>38733,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="B12131E5-731A-4C42-BEA7-972CA771B9AA" Type="Text" Created="2019-06-07 21:04:16 -0400" Modified="2019-11-21 19:00:04 -0500">
@@ -4168,14 +4168,34 @@
                         <TextSelection>2856,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9BB3E5E2-0B06-415E-AD4C-8C476274F07B" Type="Text" Created="2021-03-10 22:36:07 -0500" Modified="2021-03-10 22:52:07 -0500">
+                <BinderItem UUID="9BB3E5E2-0B06-415E-AD4C-8C476274F07B" Type="Text" Created="2021-03-10 22:36:07 -0500" Modified="2021-03-15 01:04:47 -0400">
                     <Title>Gregg on ECCO</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4562,0</TextSelection>
+                        <TextSelection>6393,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="8AAE6AA9-9A37-4134-9DB7-7E4596E16653" Type="Text" Created="2020-12-24 02:51:18 -0500" Modified="2021-03-15 00:42:22 -0400">
+                            <Title>authors included</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>227,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2254273C-3527-4A89-AF33-0809D19A431C" Type="Text" Created="2021-03-15 00:44:58 -0400" Modified="2021-03-15 00:45:39 -0400">
+                            <Title>compare to google</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>683,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="E5F71040-379C-4F48-9EE4-BAFB01EA29B1" Type="Text" Created="2020-07-31 23:44:29 -0400" Modified="2020-07-31 23:44:37 -0400">
                     <Title>Frankenstein</Title>
@@ -4194,15 +4214,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>5493,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="8AAE6AA9-9A37-4134-9DB7-7E4596E16653" Type="Text" Created="2020-12-24 02:51:18 -0500" Modified="2020-12-24 02:52:32 -0500">
-                    <Title>Gregg on ECCO</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1155,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="72F5513A-65BA-46C0-91ED-4BF2C6AFD98A" Type="Text" Created="2020-03-20 19:27:14 -0400" Modified="2020-04-27 00:57:11 -0400">
@@ -14352,7 +14363,7 @@ Klein also suggests a change in how models are formed: “Instead of first askin
         </Collection>
         <Collection Type="RecentSearch" ID="5F019618-106D-4CE6-B387-20FB66CFFD0F" Color="0.922176 0.818589 0.999618">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">zuroski</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">gregg</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -14401,13 +14412,13 @@ Klein also suggests a change in how models are formed: “Instead of first askin
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-04-30 02:21:51 -0400" IgnoreDeadline="No">85000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="04:00" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="Yes">19</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-03-13 22:15:51 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2021-03-14 18:11:12 -0400"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-03-13 00:00:00 -0500">
-        <DraftWordCount>125</DraftWordCount>
-        <DraftCharCount>711</DraftCharCount>
-        <OtherWordCount>58</OtherWordCount>
-        <OtherCharCount>554</OtherCharCount>
+    <RecentWritingHistory Date="2021-03-15 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>473</OtherWordCount>
+        <OtherCharCount>3084</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
